@@ -1,5 +1,6 @@
 import click
 from ojsharvest import OAIHarvester
+import arrow
 
 @click.group()
 def cli() -> None:
@@ -12,11 +13,19 @@ def cli() -> None:
     help="An endpoint URL (e.g. https://awl-ojs-tamu.tdl.org/awl/oai)",
     required=True
 )
-def harvest(endpoint: str) -> None:
-    harvester = OAIHarvester(endpoint)
+@click.option(
+    "--output",
+    "-o",
+    help="Subdirectory to output harvested records to",
+    required=True
+)
+def harvest(endpoint: str, output: str) -> None:
+    begin = arrow.now().shift(days=-180).format('YYYY-MM-DD')
+    end = arrow.now().format('YYYY-MM-DD')
+    harvester = OAIHarvester(endpoint, output_dir=f"oai_records/{output}")
     harvester.list_records(
         metadata_prefix="oai_dc",
-        from_date="1900-01-01",
-        until_date="2024-12-01"
+        from_date=begin,
+        until_date=end
     )
 

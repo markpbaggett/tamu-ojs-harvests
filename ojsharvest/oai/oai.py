@@ -24,7 +24,7 @@ class OAIHarvester:
 
     def save_record_to_disk(self, record, record_number):
         record_xml = etree.tostring(record, pretty_print=True, encoding="utf-8", xml_declaration=True)
-        file_path = os.path.join(self.output_dir, f"{record_number}.xml")
+        file_path = os.path.join(self.output_dir, record_number)
         with open(file_path, "wb") as f:
             f.write(record_xml)
         print(f"Saved record to {file_path}")

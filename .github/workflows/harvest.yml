@@ -1,0 +1,42 @@
+name: Harvest OAI data from all OJS instances from the last 30 days
+on:
+  schedule:
+    - cron: '30 19 * * 1'
+  workflow_dispatch:
+jobs:
+  harvest-oai:
+    strategy:
+      matrix:
+        endpoints:
+          - { set: "aavpt", url: "https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/oai" }
+          - { set: "awl", url: "https://awl-ojs-tamu.tdl.org/awl/oai" }
+          - { set: "watchbird", url: "https://watchbird-ojs-tamu.tdl.org/watchbird/oai" }
+          - { set: "bovine", url: "https://bovine-ojs-tamu.tdl.org/AABP/oai" }
+          - { set: "ciney", url: "https://ciney-ojs-tamu.tdl.org/ciney/oai" }
+    name: Harvest OAI
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+      - name: Run image
+        uses: abatilo/actions-poetry@v2
+        with:
+          poetry-version: "1.8.2"
+      - name: Install application
+        run: poetry install
+      - name: Activate Shell
+        run: poetry shell
+      - name: Harvest
+        run: ojs-harvester harvest -e "${{ matrix.endpoints.url }}" -o ${{ matrix.endpoints.set }}
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "markpbaggett"
+          git config user.email "markpbaggett@gmail.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Harvest metadata for ${{ matrix.endpoints.set }} at ${timestamp}" || exit 0
+          git push
