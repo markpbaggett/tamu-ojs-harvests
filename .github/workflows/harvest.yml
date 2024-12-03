@@ -13,7 +13,7 @@ jobs:
           - { set: "watchbird", url: "https://watchbird-ojs-tamu.tdl.org/watchbird/oai" }
           - { set: "bovine", url: "https://bovine-ojs-tamu.tdl.org/AABP/oai" }
           - { set: "ciney", url: "https://ciney-ojs-tamu.tdl.org/ciney/oai" }
-          - { set: "icce", url: "http://icce-ojs-tamu.tdl.org/icce/oai" }
+          - { set: "icce", url: "https://icce-ojs-tamu.tdl.org/icce/oai" }
           - { set: "dlrpj", url: "https://dlrpj-ojs-tamu.tdl.org/dlrpj/oai" }
           - { set: "ertr", url: "https://ertr-ojs-tamu.tdl.org/ertr/oai" }
           - { set: "epbj", url: "https://epbj-ojs-tamu.tdl.org/epbj/oai" }

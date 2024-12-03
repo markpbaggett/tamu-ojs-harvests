@@ -59,9 +59,35 @@ class OAIHarvester:
             else:
                 break
 
+    def list_identifiers(self, metadata_prefix, from_date=None, until_date=None):
+        params = {
+            "verb": "ListIdentifiers",
+            "metadataPrefix": metadata_prefix,
+        }
+        if from_date:
+            params["from"] = from_date
+        if until_date:
+            params["until"] = until_date
+        record_number = 1
+        while True:
+            xml = self.fetch(params)
+            if xml is None:
+                break
+
+            records = xml.xpath("//oai:header", namespaces=self.ns)
+            for record in records:
+                record_number += 1
+
+            resumption_token = xml.find(".//oai:resumptionToken", namespaces=self.ns)
+            if resumption_token is not None and resumption_token.text:
+                params = {"verb": "ListRecords", "resumptionToken": resumption_token.text}
+            else:
+                break
+        return record_number
+
 
 if __name__ == "__main__":
     base_url = "https://awl-ojs-tamu.tdl.org/awl/oai"  # Replace with your OAI-PMH base URL
     harvester = OAIHarvester(base_url)
     print("\nHarvesting Records:")
-    harvester.list_records(metadata_prefix="oai_dc", from_date="1999-01-01", until_date="2024-12-01")
+    harvester.list_records(metadata_prefix="oai_dc", from_date="1900-01-01", until_date="2024-12-01")
