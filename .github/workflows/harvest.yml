@@ -13,6 +13,21 @@ jobs:
           - { set: "watchbird", url: "https://watchbird-ojs-tamu.tdl.org/watchbird/oai" }
           - { set: "bovine", url: "https://bovine-ojs-tamu.tdl.org/AABP/oai" }
           - { set: "ciney", url: "https://ciney-ojs-tamu.tdl.org/ciney/oai" }
+          - { set: "icce", url: "http://icce-ojs-tamu.tdl.org/icce/oai" }
+          - { set: "dlrpj", url: "https://dlrpj-ojs-tamu.tdl.org/dlrpj/oai" }
+          - { set: "ertr", url: "https://ertr-ojs-tamu.tdl.org/ertr/oai" }
+          - { set: "epbj", url: "https://epbj-ojs-tamu.tdl.org/epbj/oai" }
+          - { set: "hpr", url: "https://hpr-ojs-tamu.tdl.org/hpr/oai" }
+          - { set: "instars", url: "https://instars-ojs-tamu.tdl.org/instars/oai" }
+          - { set: "jaawge", url: "https://jaawge-ojs-tamu.tdl.org/jaawge/oai" }
+          - { set: "jfe", url: "https://jfe-ojs-tamu.tdl.org/jfe/oai" }
+          - { set: "regsci", url: "https://regsci-ojs-tamu.tdl.org/regsci/oai" }
+          - { set: "jume", url: "https://jume-ojs-tamu.tdl.org/jume/oai" }
+          - { set: "paj", url: "https://paj-ojs-tamu.tdl.org/paj/oai" }
+          - { set: "pal", url: "https://pal-ojs-tamu.tdl.org/pal/oai" }
+          - { set: "bovine2", url: "https://bovine-ojs-tamu.tdl.org/bovine/oai" }
+          - { set: "ijcs", url: "https://ijscs-ojs-tamu.tdl.org/ijscs/oai" }
+          - { set: "jfse", url: "https://jfse-ojs-tamu.tdl.org/jfse/oai" }
     name: Harvest OAI
     runs-on: ubuntu-latest
     steps:
