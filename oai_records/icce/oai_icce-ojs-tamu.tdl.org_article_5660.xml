@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5660</identifier>
+				<datestamp>2021-01-19T11:07:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SENSITIVITY OF WIND WAVE SIMULATION TO COUPLING WITH A TIDE/SURGE MODEL WITH APPLICATION TO THE SOUTHERN NORTH SEA</dc:title>
+	<dc:creator xml:lang="en">Monbaliu, J.</dc:creator>
+	<dc:creator xml:lang="en">Yu, C.S.</dc:creator>
+	<dc:creator xml:lang="en">Osuna, P.</dc:creator>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:subject xml:lang="en">wind wave</dc:subject>
+	<dc:subject xml:lang="en">wave simulation</dc:subject>
+	<dc:subject xml:lang="en">simulation sensitivity</dc:subject>
+	<dc:subject xml:lang="en">tide model</dc:subject>
+	<dc:subject xml:lang="en">surge model</dc:subject>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:description xml:lang="en">The wave-current interaction process in a one way coupled system for the Southern North Sea region was studied. To this end, a modified version of the third-generation spectral wave model WAM was run in a three level nested grid system, taking into account the hydrodynamic fields (coupled version) computed by a tide/surge model. The resolution in these three grids corresponds roughly to 35 km (coarse), 5 km (local) and 1 km (fine). Hydrodynamic information was only available at the resolution of the local grid. Results are compared with those of the same version without considering the interaction with tide and surges (uncoupled version). The emphasis is on the results from the local grid calculations. The sensitivity to the source of boundary conditions (coupled vs. uncoupled) and to the frequency of information exchange is investigated. Also the spectral evolution is studied. Numerical results in the local grid are in good agreement with buoy data. The phase and amplitude of the modulations of wave period observed from the buoy data are quite well reproduced by the coupled version. The model results in the local grid did not show much sensitivity to the source of boundary condition information, nor were they very sensitive to the information update frequency of the hydrodynamic fields. The directional spectra computed in the coupled mode show a broader energy distribution and a more rapid growth. The fine grid results only differ marginally from the local grid results due to the limited resolution of the hydrodynamic fields used.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5660</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5660/5330</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

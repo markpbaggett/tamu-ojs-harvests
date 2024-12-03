@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10348</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATING MACHINE LEARNING FOR VIRTUAL WAVE MONITORING</dc:title>
+	<dc:creator xml:lang="en">Peach, Leo</dc:creator>
+	<dc:creator xml:lang="en">Carthwright, N.</dc:creator>
+	<dc:creator xml:lang="en">Strauss, D.</dc:creator>
+	<dc:description xml:lang="en">Wave monitoring is a time consuming and costly endeavour which, despite best e orts, can be subject to occasional periods of missing data. This paper investigates the application of machine learning to create "virtual" wave height (Hs), period (Tz) and direction (Dp) parameters. Two supervised machine learning algorithms were applied using long term wave parameter datasets sourced from four wave monitoring stations in relatively close geographic proximity. The machine learning algorithms demonstrated reasonable performance for some parameters through testing, with Hs performing best overall followed closely by Tz; Dp was the most challenging to predict and performed relatively the poorest. The creation of such "virtual" wave monitoring stations could be used to hindcast wave conditions, fill observation gaps or extend data beyond that collected by the physical instrument.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/GM3EG2_SQa0</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10348</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10348/9634</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Leo Peach, N. Carthwright, D. Strauss</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1150</identifier>
+				<datestamp>2023-10-04T04:37:34Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF TIDAL CURRENTS UNDER DIFFERENT NOURISHMENT SCHEMES ON WEST BEACH OF BEIDAIHE, CHINA</dc:title>
+	<dc:creator xml:lang="en">Zhang, Yu</dc:creator>
+	<dc:creator xml:lang="en">Kuang, Cuiping</dc:creator>
+	<dc:creator xml:lang="en">He, Lulu</dc:creator>
+	<dc:creator xml:lang="en">Pan, Yi</dc:creator>
+	<dc:creator xml:lang="en">Yang, Yanxiong</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Jiabo</dc:creator>
+	<dc:creator xml:lang="en">Liu, Shuguang</dc:creator>
+	<dc:subject xml:lang="en">beach nourishment</dc:subject>
+	<dc:subject xml:lang="en">tidal current field</dc:subject>
+	<dc:subject xml:lang="en">Beidaihe (west beach)</dc:subject>
+	<dc:description xml:lang="en">This paper detailed a study on the tidal current field around a beach nourishment project including submerged breakwaters and jetties. The effect of different nearshore structure arrangements on the tidal current field was studied utilizing a numerical model build based on the solution of two-dimensional shallow water equations and an unstructured grid. In order to calibrate the numerical model, field survey was conducted at 5 current stations and a tidal level station around the project area. According to a primary analysis on stability, environment, sight of the beach, and construction quantity, four project schemes were chosen and simulated. After comparing the modeling results, the effects of submerged breakwaters and jetties were discussed. Conclusively, it is feasible to protect the filled sand on west beach by jetties and submerged breakwaters through obvious tidal current velocity reduction in the nearshore area.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1150</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1150/pdf_41</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

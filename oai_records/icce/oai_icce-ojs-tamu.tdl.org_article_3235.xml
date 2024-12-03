@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3235</identifier>
+				<datestamp>2021-01-20T00:52:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING - AN AID TO ASSESSING FIELD DATA</dc:title>
+	<dc:creator xml:lang="en">Riedel, H.P.</dc:creator>
+	<dc:creator xml:lang="en">Wilkinson, F.L.</dc:creator>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">field data</dc:subject>
+	<dc:subject xml:lang="en">data assessment</dc:subject>
+	<dc:description xml:lang="en">After the completion of 5 years of field measurements, complemented by extensive numerical modelling in 1974, the hydraulics of Cockburn Sound, Western Australia, are now understood in enough detail to allow the rate of exchange of water between the Sound and the ocean to be determined. Flow patterns in Cockburn Sound tend to be complicated by the superimposition of many driving influences, the most important being wind, but by using the output of a numerical model most of these patterns are predictable. Current magnitudes within Cockburn Sound have not reduced so that the rate of dispersion of effluents released by the industrial complex on the eastern side of the Sound has not changed. However, flow rates through the southern entrance to Cockburn Sound have been reduced to between 30 to 45$ of the rates which occurred prior to the causeway construction. This means that the mean discharge rate is now 570 m3/sec through the causeway bridges compared to a rate of about 1500 m3/sec before the causeway construction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3235</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.185</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 185</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3235/2899</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

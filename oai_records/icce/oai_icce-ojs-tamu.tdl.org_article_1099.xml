@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1099</identifier>
+				<datestamp>2023-10-04T04:14:03Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING MORPHOLOGICAL EVOLUTION IN THE VICINITY OF COASTAL STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Nam, Pham Thanh</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Hans</dc:creator>
+	<dc:subject xml:lang="en">morphodynamics</dc:subject>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:subject xml:lang="en">wave-induced currents</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">T-head groin</dc:subject>
+	<dc:description xml:lang="en">A numerical model of beach topography evolution was developed. The model includes five sub-models: random wave transformation model, surface roller model, wave-induced current model, sediment transport model, and morphological change model. The model was validated by two unique high-quality data sets obtained from experiments on the morphological impact of a detached breakwater and a T-head groin in the basin of the Large-scale Sediment Transport Facility (LSTF) at the US Army Corps of Engineer Research and Development Center in Vicksburg, Miss. The simulations demonstrated that the model well reproduced the wave conditions, wave-induced currents, and morphological evolution in the vicinity of the structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1099</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.68</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.68</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1099/pdf_192</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

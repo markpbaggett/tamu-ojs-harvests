@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6697</identifier>
+				<datestamp>2023-10-04T03:00:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COUPLING OF A BOUSSINESQ WAVE MODEL WITH A MOORED SHIP BEHAVIOR MODEL</dc:title>
+	<dc:creator xml:lang="en">Pinheiro, Liliana Vieira</dc:creator>
+	<dc:creator xml:lang="en">Fortes, Conceição</dc:creator>
+	<dc:creator xml:lang="en">Santos, João</dc:creator>
+	<dc:creator xml:lang="en">Fernandes, José Leonel</dc:creator>
+	<dc:subject xml:lang="en">Moored ship behavior</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave propagation</dc:subject>
+	<dc:description xml:lang="en">A set of procedures to evaluate the time series of the diffraction forces on a moored ship inside a harbor basin is presented. Nonlinear wave propagation is obtained using a Boussinesq finite element numerical model, BOUSS-WMH. Determination of hydrodynamic forces acting on the ship is achieved using a modified version of the WAMIT model. Finally, time series of the wave forces on the ship and of the inherent motions of the moored ship are obtained using BAS numerical model. The main focuses of this work are: the coupling of these three models and the modification of the method used in WAMIT to determine diffraction forces. Some simple and practical applications of this procedure are presented as well.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6697</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.69</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.69</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6697/pdf_669</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

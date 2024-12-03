@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8483</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILISTIC TSUNAMI HAZARD ASSESSMENT AND DAMAGE ESTIMATION OF THE BUILT ENVIRONMENT: APPLICATION TO THE CASCADIA SUBDUCTION ZONE AND SEASIDE, OREGON</dc:title>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Park, Hyoungsu</dc:creator>
+	<dc:creator xml:lang="en">Alam, Mohammed S.</dc:creator>
+	<dc:creator xml:lang="en">Barbosa, Andre R.</dc:creator>
+	<dc:description xml:lang="en">Risk-based damage estimation to the built environment from future tsunamis is fundamental for developing mitigation and evacuation plans. One of the challenging problems in the evaluation of damage from future tsunamis is that the uncertainty from the nature of tsunami itself (e.g. Magnitude, Epicenter, Fault slip distributions) and the lack of accumulated sufficient observed data for probabilistic studies due to the relatively small frequency of tsunami historical events. Even though tsunami modeling has matured over the past several decades and provides reliable estimation of tsunami hazards such as flow depth, velocity, arrival time, etc., questions remain on how to predict future tsunami hazards and how to estimate tsunami damage, especially for the engineers who want to design shelter-in-plate options or coastal planners who want to estimate the possible damage from future tsunami events on the built environment at community and regional scales. As a case study, we evaluate the probabilistic damage states of an urban coastal city, Seaside, Oregon from future tsunamis generated on the Cascadia Subduction Zone (CSZ). The methodology and the results are separated into two parts: (1) Probabilistic tsunami hazard assessment (Park et al., 2017) and (2) Probabilistic building damage assessment from the tsunamis hazards with a community scale.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8483</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.94</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.94</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8483/7289</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8483/7916</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

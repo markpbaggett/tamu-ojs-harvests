@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4983</identifier>
+				<datestamp>2021-01-19T14:54:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOTTOM SHEAR STRESSES UNDER RANDOM WAVES WITH A CURRENT SUPERIMPOSED</dc:title>
+	<dc:creator xml:lang="en">Simons, Richard R.</dc:creator>
+	<dc:creator xml:lang="en">Grass, Tony J.</dc:creator>
+	<dc:creator xml:lang="en">Saleh, Wameidh M.</dc:creator>
+	<dc:creator xml:lang="en">Tehrani, Mehrdad M.</dc:creator>
+	<dc:subject xml:lang="en">bottom stress</dc:subject>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:description xml:lang="en">This paper describes experiments performed with the UCL shear plate device to make direct measurements of the bottom shear stress vector under the action of combined waves and currents. The three corresponding velocity components have also been recorded simultaneously, enabling the results to be expressed in terms of a friction factor. The scope of the work extends that of earlier tests on regular waves, and includes three sequences of random waves propagating above a fixed rough bed in still water and over two orthogonal currents. The results show that, for the range of conditions considered, the addition of an orthogonal current has no discernable effect on the amplitude of the shear stress time series or on the friction factors used to characterize the complete sequence. If a single friction factor is used to describe the shear stress throughout a sequence of random waves, and if that factor is calculated from the RMS of the shear stress during the sequence scaled on an equivalent regular wave with a bottom orbital velocity amplitude of urms.V2 , then the results agree well with earlier observations from tests on regular waves, and fw can be predicted from standard formulae.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4983</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4983/4663</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

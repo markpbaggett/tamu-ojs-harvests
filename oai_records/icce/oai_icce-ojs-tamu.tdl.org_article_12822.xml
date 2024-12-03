@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12822</identifier>
+				<datestamp>2023-09-01T15:13:29Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OBSERVATIONS FROM A CONTROLLED DUNE EROSION EXPERIMENT UNDER VARIABLE WATER LEVELS, WAVES, AND INTERNAL DUNE MOISTURE CONTENT</dc:title>
+	<dc:creator xml:lang="en">Conti, Stefano</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen D</dc:creator>
+	<dc:creator xml:lang="en">Booth, Emily</dc:creator>
+	<dc:creator xml:lang="en">Djaidiguna, Dominique</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian L</dc:creator>
+	<dc:description xml:lang="en">Dune erosion due to storms is primarily predicted by the use of empirical relationships, for example, when the duneface slope exceeds a certain threshold sand is eroded (SBeach, XBeach); or as a function of wave impact (Larson et al., 2004). However, geotechnical properties also play a role in dune scarp formation. Dry sand is relatively unstable, but as water is added, the tensile strength increases, enabling a vertical duneface to form and reduce slumping. The strength and stability of the sand matrix increases up to 10-15 percent with increasing water content, and then decreases as the sand matrix becomes saturated and more easily eroded. Hence, it is somewhat surprising that the importance of water infiltration into the dune sand matrix and resulting porewater content have received relatively limited attention within the coastal engineering literature to-date. This paper presents new results from a series of controlled laboratory experiments to observe moisture content and pore pressures within an eroding dune, to better understand the importance of wave run-up infiltration to dune erosion under wave attack.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12822</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12822/12095</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Stefano Conti, Kristen D Splinter, Emily Booth, Dominique Djaidiguna, Ian L Turner</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

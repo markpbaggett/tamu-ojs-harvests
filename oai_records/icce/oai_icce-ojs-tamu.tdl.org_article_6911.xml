@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6911</identifier>
+				<datestamp>2023-10-04T02:53:19Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING MULTI-DECADAL SHORELINE VARIABILITY AND EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Mole, Melissa A.</dc:creator>
+	<dc:creator xml:lang="en">Davidson, Mark A.</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian L.</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen D.</dc:creator>
+	<dc:creator xml:lang="en">Goodwin, Ian D.</dc:creator>
+	<dc:creator xml:lang="en">Short, Andrew D.</dc:creator>
+	<dc:subject xml:lang="en">shoreline evolution</dc:subject>
+	<dc:subject xml:lang="en">predictive model</dc:subject>
+	<dc:subject xml:lang="en">equilibrium model</dc:subject>
+	<dc:subject xml:lang="en">cross-shore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">embayed beach processes</dc:subject>
+	<dc:description xml:lang="en">A robust and practical methodology for predicting future shoreline behaviour along sandy coastlines would be valuable to a broad range of coastal engineering applications. Present approaches for predicting shoreline evolution range from simple linear trend models, which cannot predict observed complex behaviour, to coupled hydrodynamic / sediment transport models, with seasonal to multi-year forecasting generally beyond present model capabilities. In this work a simple empirical shoreline variability model, ShoreFor (Shoreline Forecast), is investigated using a multi-decadal dataset to assess model performance at daily to decadal timescales. Model performance is assessed at five alongshore locations within an embayed study site that experience varying exposure to the offshore wave climate due to prominent adjacent headlands and display alongshore variable behaviour.  To determine model sensitivity to input wave conditions, both the measured offshore and transformed (modelled) nearshore wave data are used and results compared. Strengths and limitations of the ShoreFor model are identified and discussed, along with ongoing model development and planned application of this modelling technique for shoreline forecasting using future water level and wave climate scenarios.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6911</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.98</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.98</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6911/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

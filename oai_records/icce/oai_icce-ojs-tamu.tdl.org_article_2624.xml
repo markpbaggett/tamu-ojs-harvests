@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2624</identifier>
+				<datestamp>2021-01-17T04:01:40Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SYSTEM FOR MEASURING ORBITAL VELOCITIES IN WAVES</dc:title>
+	<dc:creator xml:lang="en">Kolpak, M.M.</dc:creator>
+	<dc:creator xml:lang="en">Eagleson, P.S.</dc:creator>
+	<dc:subject xml:lang="en">orbital velocity</dc:subject>
+	<dc:subject xml:lang="en">particle velocity</dc:subject>
+	<dc:description xml:lang="en">A single-ended, cylindrical hot-film sensor and a directionvane transducer are studied as instruments for measuring flow fields in laboratory waves Errors in the hot-film measurements are discussed in terms of sensor voltage and water temperature drifts, and directional sensitivity The response of the direction-vane transducer is discussed in terms of the parameter b/r, which is the ratio of the vane chord length to the radius of curvature of the measured orbital flow The instruments are tested in a laboratory wave system, using stationary and traversing measuring techniques The velocity measurements so obtained are compared to those obtained by a photographic technique, to determine instrument error The flow speed comparisons indicate that the maximum hot-film error in flow speed measurements is between + 5 and ±1 0 inches/sec for the range 1 to 11 inches/sec tested The flow direction comparisons indicate that the direction vane response is subject to errors larger than 5° for fo/r&gt;0 1 The study was carried out under the sponsorship of the Coastal Engineering Research Center at the Massachusetts Institute of Technology and is reported in full detail in the M.I T. Hydrodynamics Laboratory Report No 118.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2624</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2624/2289</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

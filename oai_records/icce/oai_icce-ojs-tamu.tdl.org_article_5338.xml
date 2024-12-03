@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5338</identifier>
+				<datestamp>2021-01-19T12:54:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRAULIC STABILITY ANALYSIS OF LEESIDE SLOPES OF OVERTOPPED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Kudale, M.D.</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, N.</dc:creator>
+	<dc:subject xml:lang="en">leeside slope</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">overtopped breakwater</dc:subject>
+	<dc:subject xml:lang="en">hydraulic stability</dc:subject>
+	<dc:description xml:lang="en">The hydraulic stability of armor units on the leeside slope of an overtopped breakwater is analyzed using the velocity and depth of overtopping water on the crest computed by an existing numerical model. The stability analysis is carried out considering the hydrodynamic forces of the overtopping jet impinging on a leeside armor unit. A traditional force balance method is used to predict the stability number Ns for initiation of armor movement. The computed critical stability numbers Nsc for stones compare well with the observed stability numbers, provided that the hydrodynamic force coefficients are calibrated once for the stone stability on leeside slopes. The computed results indicate that the minimum stability of the leeside armor units occur at intermediate crest heights. The stability of leeside armor improves as the seaward slope is made flatter. The leeside slope of a breakwater in relatively deeper water is more stable. The leeside stability of a breakwater in shallower water with its crest height near still water level (SWL) can be improved by increasing the the back slope angle. A wider crest also improves the leeside stability. Further studies are required to refine the developed stability model. The influence of tailwater in reducing the water velocity of overtopping jet needs to be included which has not been considered in the present analysis. The developed model would be very useful in designing the geometry of an overtopped breakwater and the size of leeside armor units because of a large number of design parameters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5338</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5338/5016</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8328</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTS ON THE DENSITY OF TSUNAMI INUNDATION WATER AND ITS INFLUENCE ON THE TSUNAMI RUN-UP AND DEPOSIT</dc:title>
+	<dc:creator xml:lang="en">Matsutomi, Hideo</dc:creator>
+	<dc:creator xml:lang="en">Konno, Fumiko</dc:creator>
+	<dc:description xml:lang="en">For the sophistication of the tsunami load, future and historical tsunami scale evaluations, the dependency of the density of tsunami inundation water with sediment on the hydraulic quantities, and then the dependencies of the tsunami run-up distance, sediment deposit distance, mean sediment deposit thickness on the density of the tsunami inundation water are examined through a devised small-scale hydraulic experiment. Within the experimental range of this study, it is verified that the density of the tsunami inundation water depends on the Froude number of the incident tsunami inundation flow and the sediment grain size, and the relative tsunami run-up distance (= the run-up distance of the inundation water with sediment/the run-up distance of the inundation water without sediment (= fresh water)), ratio of the tsunami sediment deposit distance to the tsunami run-up distance, ratio of the mean tsunami sediment deposit thickness to the tsunami sediment deposit distance depend on the density of the tsunami inundation water, and four empirical expressions for those dependencies are proposed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8328</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8328/7136</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8328/7808</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

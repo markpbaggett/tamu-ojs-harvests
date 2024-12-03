@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8604</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REAL-TIME ASSIMILATION USING A DENSE ARRAY OF DIRECTIONAL WAVE OBSERVATIONS</dc:title>
+	<dc:creator xml:lang="en">Smit, Pieter Bart</dc:creator>
+	<dc:creator xml:lang="en">Janssen, Tim</dc:creator>
+	<dc:creator xml:lang="en">Gans, Wheeler</dc:creator>
+	<dc:creator xml:lang="en">Dunning, Cameron</dc:creator>
+	<dc:description xml:lang="en">Wave conditions along our coastlines are monitored using networks of wave buoys. Augmented with regional wave now- and hind-casts from operational wave models, these data networks provide detailed regional information of wave conditions providing vital updates of wave conditions for maritime, engineering, recreational and scientific purposes. Currently, the observational networks are mostly used to initiate models and assess model performance, but are usually not directly integrated into the modeling system. Recent work by Crosby et al. (2017) explores the integration of buoy data into models and shows that data assimilation of buoy observations into models can improve predictions and wave hindcasts. The results suggest that assimilation of dense observational networks results in significant and important improvements in model performance. In the current work we leverage these modeling advances with the recent development of low-cost directional wave buoys (such as the Spoondrift Spotter, www.spoondrift.co). The use of low-cost and solar powered instruments allows for much denser long-term arrays of instruments than was previously possible. The availability of large numbers of independent observations, in turn, can provide excellent constrains on models and model boundary conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8604</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8604/7408</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8604/8007</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

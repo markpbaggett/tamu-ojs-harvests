@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6907</identifier>
+				<datestamp>2023-10-04T02:53:48Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RUN-UP OBSERVATION AND 2DV NUMERICAL INVESTIGATION ON BEACHES PROTECTED BY STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Archetti, Renata</dc:creator>
+	<dc:creator xml:lang="en">Gaeta, Maria Gabriella</dc:creator>
+	<dc:subject xml:lang="en">run up</dc:subject>
+	<dc:subject xml:lang="en">video monitoring</dc:subject>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:subject xml:lang="en">low crested structures</dc:subject>
+	<dc:subject xml:lang="en">flooding hazard</dc:subject>
+	<dc:description xml:lang="en">The main parameter for the assessment of coastal vulnerability and sediment transport is the wave run-up on the beach, defining the limit of maximum flooding, but also hydrodynamic properties in the Swash Zone (SZ) are trivial for the comprehension of hydro-morphodynamic processes.  Several studies have been carried out on the SZ but few literature is still available on the run-up and on SZ flows on beaches protected by Low Crested Structures (LCSs), where flow motion is driven by a combination of low frequency infra-gravity waves and incident waves. In presence of breakwaters, swash incident waves are transmitted through the structure. In the transmission area behind the structures, wave energy is shifted to higher frequencies with respect to the incident wave spectrum and in general its mean period considerably decreases with respect to the incident one. Collecting in situ run-up measurements during storms is essential to understand the SZ processes and properly calibrate their both empirical and numerical models but measuring extreme run-up is difficult, due to the severe sea conditions and due to unexpected nature of storms. The present paper present a numerical and experimental analysis of the wave run-up and of the flow properties on a beach: the study shows the different behavior of unprotected and protected beach, subjected to the same wave conditions. In particular the paper shows that submerged breakwaters reduce in general the run-up height, on the basis of the calibrated 2DV numerical simulations, under extreme wave conditions (TR &gt;50 years), the effect of submerged breakwaters seems to be negligible on the run-up height. Moreover a preliminary empirical equation for run-up with protected beach is proposed</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6907</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6907/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

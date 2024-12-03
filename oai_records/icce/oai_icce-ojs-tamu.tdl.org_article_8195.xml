@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8195</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A CFD STUDY ON THE STRUCTURAL RESPONSE OF A SLOPING TOP CAISSON</dc:title>
+	<dc:creator xml:lang="en">Daliri, Mohammad</dc:creator>
+	<dc:creator xml:lang="en">Dentale, Fabio</dc:creator>
+	<dc:creator xml:lang="en">Salerno, Daniela</dc:creator>
+	<dc:creator xml:lang="en">Buccino, Mariano</dc:creator>
+	<dc:subject xml:lang="en">wave overtoppin</dc:subject>
+	<dc:subject xml:lang="en">sloping top caisson</dc:subject>
+	<dc:subject xml:lang="en">impulsive waves</dc:subject>
+	<dc:subject xml:lang="en">CFD modeling</dc:subject>
+	<dc:description xml:lang="en">The paper discusses preliminary results of a CFD study on the structural response of a Sloping Top Breakwater subject to  wave  overtopping. The analysis showed that the transmitted  wave  field  act to increase both the landward and the seaward forces and that the conventional design methods may be not adequate to guarantee an appropriate degree of safety  to  the  structure.  The  study  also  confirmed  the  previous  finding  by  Walkden  et  al.  (2001),  which  noticed  the existence of strong impulsive loadings on the inner face of the wall, due to violent overtopping events.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8195</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8195/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8195/7779</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6808</identifier>
+				<datestamp>2023-10-04T02:35:41Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODELING OF SAND LIQUEFACTION UNDER WAVE BREAKING ON A VERTICAL WALL</dc:title>
+	<dc:creator xml:lang="en">Michallet, Hervé</dc:creator>
+	<dc:creator xml:lang="en">Rameliarison, Valerie</dc:creator>
+	<dc:creator xml:lang="en">Berni, Celine</dc:creator>
+	<dc:creator xml:lang="en">Bergonzoli, Maxime</dc:creator>
+	<dc:creator xml:lang="en">Barnoud, Jean-Marc</dc:creator>
+	<dc:creator xml:lang="en">Barthelemy, Eric</dc:creator>
+	<dc:subject xml:lang="en">soil fluidization</dc:subject>
+	<dc:subject xml:lang="en">pore pressure</dc:subject>
+	<dc:subject xml:lang="en">momentary liquefaction</dc:subject>
+	<dc:subject xml:lang="en">gas content</dc:subject>
+	<dc:description xml:lang="en">The wave induced liquefaction at a coastal structure is studied. Experiments in a glass-wall flume filled with a partially saturated bed of light-weight sediment are presented. Single wave loadings are simulated. For large enough wave height conditions an excess pore pressure is recorded within the soil and a liquefaction threshold is reached. Velocity fields obtained from video recordings display large zones of the bed that behave as a fluid. Phases of soil compaction and dilatancy are identified.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6808</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6808/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

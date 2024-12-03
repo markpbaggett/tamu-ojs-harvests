@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2611</identifier>
+				<datestamp>2021-01-17T04:06:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF PRESSURE AND STAFF WAVE GAGE RECORDS</dc:title>
+	<dc:creator xml:lang="en">Esteva, D.</dc:creator>
+	<dc:creator xml:lang="en">Harris, D. Lee</dc:creator>
+	<dc:subject xml:lang="en">pressure gauge</dc:subject>
+	<dc:subject xml:lang="en">staff wave gauge</dc:subject>
+	<dc:subject xml:lang="en">gauge record</dc:subject>
+	<dc:description xml:lang="en">Simultaneous records from two pressure gages located at different depths, a step-resistance relay gage, and a continuous-wire staff gage have been collected at Atlantic City, N J Spectra and cross-spectra are computed using the Fast Fourier Transform Algorithm (FFT) method proposed by Cooley and Tukey Individual harmonics of the pressure energy spectra are compensated for pressure attenuation according to classical theory Results indicate better agreement is obtained between the wave height and the spectra computed from the compensated pressure gages and those computed from the continuous-wire staff gage than between the two surface gages Values of coherences are near 98 in the energy-containing part of the spectrum, and are always larger for the pressure-continuous wire staff cases than for the two surface gages which are displaced from each other only 12 feet m the horizontal.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2611</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2611/2276</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

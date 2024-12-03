@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10315</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL AND NUMERICAL MODELING OF TSUNAMI INUNDATION IN COASTAL URBAN AREA</dc:title>
+	<dc:creator xml:lang="en">Fukui, Nobuki</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Chang, Che-Wei</dc:creator>
+	<dc:creator xml:lang="en">Chida, Yu</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Yamamoto, Takashi</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Zhongduo</dc:creator>
+	<dc:creator xml:lang="en">Copp, Andrew</dc:creator>
+	<dc:description xml:lang="en">This coastal hazards emphasize the need for engineers to understand the fundamental processes causing damage and the potential of maximum damage in order to design coastal communities with increased resilience to tsunami events. Common methods used to evaluate local conditions caused by tsunamis include post-disaster reconnaissance field surveys, numerical modelling, and laboratory experiments. Behavior of land side tsunami, inundation, is not well known as well as the fluid forcing, fragility characteristics and accuracy of tsunami hazard mapping. This study targets to understand local tsunami behavior in a city scale including complex buildings and improve modelling of tsunami inundation in an urban area. Laboratory experiments are an essential starting point in the investigation of urban roughness effects on wave propagation and maximum pressures in coastal communities. Physical modelling usually uses solitary wave, bore wave, and wave imitating Nankai Trough Earthquake as a tsunami wave.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/-4niVrzXviE</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10315</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10315/9601</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Nobuki Fukui, Nobuhito Mori, Che-Wei Chang, Yu Chida, Tomohiro Yasuda, Takashi Yamamoto, Andrew Kennedy, Zhongduo Zhang, Andrew Copp</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

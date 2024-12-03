@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8731</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DYNAMIC RESIDUAL SEABED RESPONSE AROUND A MOVABLE PILE FOUNDATION</dc:title>
+	<dc:creator xml:lang="en">Sui, Titi</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Chi</dc:creator>
+	<dc:creator xml:lang="en">Zheng, Jinhai</dc:creator>
+	<dc:creator xml:lang="en">Jeng, Dong-Sheng</dc:creator>
+	<dc:description xml:lang="en">Wave-induced seabed soil response and its resultant liquefaction is common observed in a silt seabed with relative poor drainage condition, which poses a great threaten to the foundation safety of marine structures. Regarding the governing equations, three different approaches namely the Fully-dynamic (FD), Partialdynamic (PD) and Quasi-static (QS) model, have been used in the previous studies. Among these, both PD and FD approaches consider the effect of the inertial terms of soil skeleton/fluid. It has been reported in the literature that effects of the inertial terms on the seabed response could not be neglected, especially for the seabed around a movable structure (Ulker et al., 2010). However, these studies only focused on the oscillatory mechanism which are probably seen in a sandy seabed with high permeability. Recently, Zhao et al. (2017) investigated the residual soil response around a pile foundation by integrating a RANS wave model and a QS seabed model. In their study, the inertial terms of soil skeleton and pore water were neglected. To the authors' best knowledge, up to now, effects of the inertial terms on the residual response of a silt seabed have not been investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8731</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8731/7534</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8731/8100</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

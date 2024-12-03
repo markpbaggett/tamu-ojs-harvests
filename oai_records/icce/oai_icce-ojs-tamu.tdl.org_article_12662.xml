@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12662</identifier>
+				<datestamp>2023-09-01T15:11:56Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A VALIDATION OF WAVE LOADS ON CREST WALLS ON TOP OF COMPOSITE BREAKWATERS USING OPENFOAM</dc:title>
+	<dc:creator xml:lang="en">Mata, Marisol Irías</dc:creator>
+	<dc:creator xml:lang="en">Boersen, Stef</dc:creator>
+	<dc:creator xml:lang="en">Gent, Marcel R.A. van</dc:creator>
+	<dc:creator xml:lang="en">Antonini, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Jensen, Bjarne</dc:creator>
+	<dc:creator xml:lang="en">Cock van der Lem</dc:creator>
+	<dc:description xml:lang="en">The design of crest walls is often based on empirical formulations, physical model tests, numerical models and a fair amount of expert judgement. The present work validates the prediction of wave induced forces on the front face of crest walls on top of composite breakwaters in the numerical model OpenFOAM. The results show that OpenFOAM is able to capture the shape and order of magnitude of the force events caused by non-breaking and heavily breaking waves. In addition, a calibrated model predicts the highest wave induces forces caused by breaking waves with errors lower than 20percent.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12662</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12662/11935</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Marisol Irías Mata, Stef Boersen, Marcel R.A. van Gent, Alessandro Antonini, Bjarne Jensen, Cock van der Lem </dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

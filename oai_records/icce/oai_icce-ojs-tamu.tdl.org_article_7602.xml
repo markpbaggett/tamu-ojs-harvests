@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7602</identifier>
+				<datestamp>2021-01-20T04:21:33Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION OF WAVE HEIGHT BY USING COASTAL SOUND</dc:title>
+	<dc:creator xml:lang="en">Suzuki, Takayuki</dc:creator>
+	<dc:creator xml:lang="en">Imanishi, Yukiji</dc:creator>
+	<dc:creator xml:lang="en">Sasaki, Jun</dc:creator>
+	<dc:creator xml:lang="en">Sakamoto, Hikari</dc:creator>
+	<dc:subject xml:lang="en">wave estimation</dc:subject>
+	<dc:subject xml:lang="en">coastal sound</dc:subject>
+	<dc:description xml:lang="en">In the research field of coastal engineering, while several researchers reported the physical mechanism or occurrence mechanism of the sound of breaking waves, the estimation of the wave height by using sound of waves has not been done. Thus, in this study, we have developed a method to estimate the wave height at a sandy beach using the observed pressure level of coastal sound spreading all around the coastal area and the wave period. This study revealed that a positive correlation can be seen between the significant wave height and the wave sound pressure level. Moreover, higher correlations were obtained with classifying the data by the significant wave period, which indicates that the significant wave height increases with increasing period when the sound pressure level is fixed. We then proposed an equation for estimating the significant wave height using the measured wave sound pressure level and significant wave period, which equation was found to successfully reproduce the two sets of measured ones (R = 0.83 and 0.82).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7602</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7602/pdf_835</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

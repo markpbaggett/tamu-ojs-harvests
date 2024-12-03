@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10232</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NONHYDROSTATIC MODELING OF FLOW INTERACTIONS WITH HIGHLY FLEXIBLE VEGETATION </dc:title>
+	<dc:creator xml:lang="en">Tahvildari, Navid</dc:creator>
+	<dc:creator xml:lang="en">Familkhalili, Ramin</dc:creator>
+	<dc:creator xml:lang="en">Ma, Gangfeng</dc:creator>
+	<dc:description xml:lang="en">Improving our understanding of the interactions between gravity waves, currents, and coastal vegetation, which are nonlinear in nature, enables coastal engineers and managers to better estimate hydrodynamic forces on coastal infrastructure and utilize natural elements to mitigate their impacts. Aquatic vegetation is ubiquitous in coastal waters and it is well-known that flow loses energy over vegetation. Computational modeling of wave-vegetation interaction has been the subject of numerous recent studies and many improvements have been achieved in reducing limitations applied on wave and vegetation behavior in these models. Mechanisms for highly flexible vegetation have been incorporated in a Boussinesq-type model and Reynolds-Averaged Navier-Stokes (RANS) models. Flow dynamics over flexible vegetation and vegetation dynamics in response to hydrodynamic forcing are important for predicting wave and surge dissipation by vegetation, storm impacts on vegetation canopies, ecological processes, and sediment transport in estuaries, and require further investigation. In this study, we implement a numerical model for highly flexible vegetation in an open-source RANS model NHWAVE to address some of these questions.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/oAwb8nu4RSs</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10232</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10232/9518</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Navid Tahvildari, Ramin Familkhalili,Gangfeng Ma</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

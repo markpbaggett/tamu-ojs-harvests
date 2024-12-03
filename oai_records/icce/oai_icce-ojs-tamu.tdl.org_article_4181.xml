@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4181</identifier>
+				<datestamp>2021-01-19T19:28:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MECHANICALLY COUPLED BUOYANT FLAPS: THEORY AND EXPERIMENT</dc:title>
+	<dc:creator xml:lang="en">Sollitt, Charles K.</dc:creator>
+	<dc:creator xml:lang="en">Lee, Chung-Pan</dc:creator>
+	<dc:creator xml:lang="en">McDougal, William G.</dc:creator>
+	<dc:creator xml:lang="en">Perry, Thomas J.</dc:creator>
+	<dc:subject xml:lang="en">buoyant flaps</dc:subject>
+	<dc:subject xml:lang="en">mechanical flaps</dc:subject>
+	<dc:description xml:lang="en">A system composed of two buoyant flaps hinged at the sea floor and coupled with weighted mooring lines is modeled analytically and experimentally. The system behavior is described theoretically utilizing an eigenseries representation of linear wave theory in the vicinity of the breakwater. The structure dynamics are modeled in terms of structure weight, inertia, buoyancy, damping, mooring line tension and the wave pressure field. The mechanically coupled system provides shelter by reflecting incident waves and by attenuating wave energy through structural and viscous damping. The structure can be tuned to minimize wave transmission within a particular frequency range by changing the flap spacing and adjusting the mass and equilibrium position of the mooring line weights. The theory is validated with experimental results for models fabricated from inflatable, parallel-tube membranes. Buoyancy and inertia are changed by filling tubes with air and/or water. Single and double flaps are examined with and without mooring lines. Incident, reflected, and transmitted waves are measured as well as flap motion. Theoretical results are corroborated by the experiments and the importance of including damping in the model is demonstrated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4181</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.180</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 180</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4181/3862</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

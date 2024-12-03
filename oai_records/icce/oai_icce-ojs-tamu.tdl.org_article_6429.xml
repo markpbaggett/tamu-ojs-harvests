@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6429</identifier>
+				<datestamp>2023-10-04T03:36:40Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OPEN BOUNDARY CONDITIONS FOR FORCED WIND WAVES IN A COUPLED MODEL OF TIDE, SURGE AND WAVE</dc:title>
+	<dc:creator xml:lang="en">Kim, Sooyoul</dc:creator>
+	<dc:creator xml:lang="en">Matsumi, Y.</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, T.</dc:creator>
+	<dc:creator xml:lang="en">Mase, H.</dc:creator>
+	<dc:subject xml:lang="en">open boundary condition</dc:subject>
+	<dc:subject xml:lang="en">a coupled model of tide</dc:subject>
+	<dc:subject xml:lang="en">surge and wave</dc:subject>
+	<dc:subject xml:lang="en">wind wave</dc:subject>
+	<dc:description xml:lang="en">When modelling wind-driven long waves combined with tides, wind waves and surges under storm events in limited computational areas, values at open boundaries are the tidal current, the tidal water level, the wind and pressure-induced water level and current. These can be obtained from the extrapolation or the interpolation from large-scale models or observations. At the open boundary, the tide-induced water level and current are usually estimated by the astronomical tidal components. The combined wind and pressure-induced water level at the open boundary has been computed by barotropic law. However, the combined wind and pressure-induced current is ignored in most cases of modelling the wind- driven long wave combined with the tide, the wind wave and the surge. In the study, the method is proposed to estimate the combined wind and pressure-induced current at the open boundary and is described for the performance in the simple case and the real case in comparison with the Orlanski scheme modified by Miller and Thorpe (OSMT) and the passive form of the Flather's condition (FLA).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.ms-powerpoint</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6429</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6429/pdf_462</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6429/7736</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6429/7767</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

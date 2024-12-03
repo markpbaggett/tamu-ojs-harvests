@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4374</identifier>
+				<datestamp>2021-01-19T18:22:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IRREGULAR WAVE LOADING ON A CONICAL STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Jamieson, Wayne W.</dc:creator>
+	<dc:creator xml:lang="en">Mansard, Etienne P.D.</dc:creator>
+	<dc:creator xml:lang="en">Mogridge, Geoffrey R.</dc:creator>
+	<dc:subject xml:lang="en">conical structures</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">wave loading</dc:subject>
+	<dc:description xml:lang="en">The horizontal forces, vertical forces and overturning moments exerted by waves on a fixed model of a 45" conical structure are presented. Irregular wave loading tests were conducted for a range of conditions described by base diameter on peak period wave length D/Lp from 0.31 to 1.76, water depth on peak period wave length h/Lp from 0.11 to 0.63, and significant wave height on peak period wave length Hm./Lp up to 0.07. Time series records, spectral densities and transfer functions for the irregular wave loading tests are used to illustrate the nonlinear nature of the measured wave loads. In most cases, similar trends in wave loading were observed for irregular and regular wave tests. For deep-water waves, the irregular and regular force measurements showed spectral peaks at the second harmonic of the wave frequency even though the waves themselves had relatively small second-order components. However, unlike the regular wave loading results, the fundamental spectral peak frequency for the irregular wave forces occurred at a frequency considerably lower than the peak frequency of the waves. Although linear diffraction theory provided a reasonable estimate of the wave forces for waves of low steepness, larger deviations were often present for higher wave steepness results. Comparison of theory and experiment for overturning moments was generally very poor for most wave conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4374</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.167</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 167</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4374/4055</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8860</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY ON THE PROUDMAN RESONANCE OF WAVES INDUCED BY A MOVING ATMOSPHERIC PRESSURE DISTURBANCE</dc:title>
+	<dc:creator xml:lang="en">Niu, Xiaojing</dc:creator>
+	<dc:creator xml:lang="en">Chen, Yixiang</dc:creator>
+	<dc:creator xml:lang="en">Zhou, Haojie</dc:creator>
+	<dc:description xml:lang="en">A moving atmospheric pressure disturbance can induce a system of forced water waves. As predicted by the linear theory, an infinite wave height will be induced when the Froude number Fr=1, which is known as the Proudman resonance. Fr is defined as the ratio between the moving speed of an atmospheric pressure disturbance and the phase velocity of shallow water wave. The Proudman resonance is thought to be one of main mechanisms for the destructive meteotsunami (Monserrat et al., 2006). In this study, the nonlinear shallow water equations are used to describe the waves induced by a moving pressure disturbance, and the impact factors to the maximum water elevation in the case of Fr=1 are discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8860</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8860/7658</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8860/8186</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

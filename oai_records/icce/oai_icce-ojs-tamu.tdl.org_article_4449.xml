@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4449</identifier>
+				<datestamp>2021-01-19T17:56:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EFFECT OF WAVE DIRECTIONALITY ON NEARSHORE WAVES</dc:title>
+	<dc:creator xml:lang="en">Briggs, Michael J.</dc:creator>
+	<dc:creator xml:lang="en">Smith, Jane M.</dc:creator>
+	<dc:subject xml:lang="en">nearshore waves</dc:subject>
+	<dc:subject xml:lang="en">wave directionality</dc:subject>
+	<dc:description xml:lang="en">A three-dimensional, physical model study of the effects of nonlinearity and wave directionality (i.e. directional distribution of energy or the directional spread of energy about a peak wave direction) on wave transformation in the nearshore region is presented. The model consisted of a 1:30 fixed bed beach with plane-parallel contours. Fiftyfour irregular wave conditions, typical of unimodal and bimodal directional spectra, were simulated. Twenty capacitance wave gages formed offshore and nearshore linear arrays to measure directional distributions and a crossshore array to study transformation of the frequency spectra. Both linear and nonlinear processes were observed in the transformed directional spectra. The primary effect of wave directionality was reduction in the strength of the nonlinear phase coupling between modes. Directional spreading also reduced the formation of subharmonics (i.e. long period energy) in the transformed spectra.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4449</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4449/4130</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

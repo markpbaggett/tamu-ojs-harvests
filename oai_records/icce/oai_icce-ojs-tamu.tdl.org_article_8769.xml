@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8769</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STATISTICS OF EXTREME WAVES IN COASTAL WATERS: LARGE SCALE EXPERIMENTS AND ADVANCED NUMERICAL SIMULATIONS</dc:title>
+	<dc:creator xml:lang="en">Zhang, Jie</dc:creator>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:creator xml:lang="en">Kimmoun, Olivier</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Hung-Chu</dc:creator>
+	<dc:description xml:lang="en">Freak (or rogue) waves have been a topic of interest in the scientific community for several decades. However, most of the attention has been devoted to the study of these waves in oceanic domains with deep water conditions (see Dysthe et al., 2008). Few papers deal with rogue wave occurrences in coastal areas, in particular considering variable bathymetry. The present work aims at improving the knowledge on the statistics of extreme waves in irregular wave conditions propagating over a sloping bottom profile, through large scale experiments and advanced numerical models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8769</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.86</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.86</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8769/7569</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8769/8125</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6677</identifier>
+				<datestamp>2023-10-04T03:03:32Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACT ASSESSMENT OF EXTREME STORM EVENTS USING A BAYESIAN NETWORK</dc:title>
+	<dc:creator xml:lang="en">Heijer, C. (Kees) den</dc:creator>
+	<dc:creator xml:lang="en">Knipping, Dirk T.J.A.</dc:creator>
+	<dc:creator xml:lang="en">Plant, Nathaniel G.</dc:creator>
+	<dc:creator xml:lang="en">Thiel de Vries, Jaap S.M. van</dc:creator>
+	<dc:creator xml:lang="en">Baart, Fedor</dc:creator>
+	<dc:creator xml:lang="en">Gelder, Pieter H.A.J.M. van</dc:creator>
+	<dc:subject xml:lang="en">Dune erosion</dc:subject>
+	<dc:subject xml:lang="en">Extreme conditions</dc:subject>
+	<dc:subject xml:lang="en">probabilistic approach</dc:subject>
+	<dc:subject xml:lang="en">Bayesian Network model</dc:subject>
+	<dc:description xml:lang="en">This paper describes an investigation on the usefulness of Bayesian Networks in the safety assessment of dune coasts. A network has been created that predicts the erosion volume based on hydraulic boundary conditions and a number of cross-shore profile indicators. Field measurement data along a large part of the Dutch coast has been used to train the network. Corresponding storm impact on the dunes was calculated with an empirical dune erosion model named duros+. Comparison between the Bayesian Network predictions and the original duros+ results, here considered as observations, results in a skill up to 0.88, provided that the training data covers the range of predictions. Hence, the predictions from a deterministic model (duros+) can be captured in a probabilistic model (Bayesian Network) such that both the process knowledge and uncertainties can be included in impact and vulnerability assessments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6677</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6677/pdf_654</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

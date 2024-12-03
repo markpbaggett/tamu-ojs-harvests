@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2815</identifier>
+				<datestamp>2021-01-20T03:23:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTING CHANGES IN THE PLAN SHAPE OF BEACHES</dc:title>
+	<dc:creator xml:lang="en">Price, W.A.</dc:creator>
+	<dc:creator xml:lang="en">Tomlinson, K.W.</dc:creator>
+	<dc:creator xml:lang="en">Willis, D.H.</dc:creator>
+	<dc:subject xml:lang="en">prediction</dc:subject>
+	<dc:subject xml:lang="en">plan shape</dc:subject>
+	<dc:subject xml:lang="en">beach shape</dc:subject>
+	<dc:description xml:lang="en">A mathematical model is described that is capable of predicting changes in the plan shape of a beach following the construction of sea defences or an alteration in the wave climate. The rate of change is calculated. The technique is illustrated by comparing model predictions with results from experiments carried out in a wave basin. The importance of the method in estimating coastal changes due to offshore dredging is mentioned, and the future development of the mathematical approach is outlined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2815</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.68</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 68</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2815/2479</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

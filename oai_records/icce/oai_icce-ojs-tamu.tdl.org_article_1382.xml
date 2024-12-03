@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1382</identifier>
+				<datestamp>2023-10-04T03:47:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VALIDITY OF SIMPLIFIED ANALYSIS OF STABILITY OF CAISSON BREAKWATERS ON RUBBLE FOUNDATION EXPOSED TO IMPULSIVE LOADS</dc:title>
+	<dc:creator xml:lang="en">Andersen, Lars</dc:creator>
+	<dc:creator xml:lang="en">Burcharth, Hans Falk</dc:creator>
+	<dc:creator xml:lang="en">Lykke Andersen, Thomas</dc:creator>
+	<dc:subject xml:lang="en">caisson breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave impact</dc:subject>
+	<dc:subject xml:lang="en">dynamic pore pressure</dc:subject>
+	<dc:subject xml:lang="en">geotechnical failure</dc:subject>
+	<dc:description xml:lang="en">Wave slamming on vertical breakwaters cause a sudden, impulsive load that may cause a caisson to slide on its foundation. Alternatively, geotechnical failure may occur in the subsoil. This paper investigates whether simple analytical solutions, accounting only for the sliding along the caisson-foundation interface, can be utilized to properly determine the deformations of the breakwater. Comparisons are made with results obtained by numerical models that include the material response of the soil. Firstly, a computational model is suggested that assumes a fully drained behavior of the subsoil. Secondly, a fully coupled dynamic pore-water-flow model is introduced. The computational examples clearly demonstrate that the deformations of the soil as well as the pore pressures must be
+accounted for in order to get a reliable prediction of caisson deformations during wave impact.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1382</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1382/pdf_339</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

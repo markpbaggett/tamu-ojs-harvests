@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2165</identifier>
+				<datestamp>2021-01-17T06:14:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPLASHNIK-THE TAYLOR MODEL BASIN DISPOSABLE WAVE BUOY</dc:title>
+	<dc:creator xml:lang="en">Marks, Wilbur</dc:creator>
+	<dc:creator xml:lang="en">Tuckerman, Robert G.</dc:creator>
+	<dc:subject xml:lang="en">SPLASHNIK</dc:subject>
+	<dc:subject xml:lang="en">Taylor Model Basin</dc:subject>
+	<dc:subject xml:lang="en">sea state</dc:subject>
+	<dc:description xml:lang="en">In connection with full scale ship trials, it is often necessary to have a description of the state of the sea which may be used as a scale against which to measure ship performance. Visual observations of waves have proven to be unreliable in the past and are, in any event, not sufficiently detailed to be adequately descriptive, for many problems. Hindcasting** the state of the sea depends on wind information (speed, duration, area of sea covered, and rate of growth and/or decay) obtained from six hourly weather maps. The wind data is used in conjunction with certain empirical^theoretical formulations to produce an energy spectrum of waves at the place and time of interest. The energy spectrum is a good descriptive tool, because it gives information on the energy content of the wave frequencies present and provides an estimate of the height distribution of the waves as well as certain other statistical quantities. However, hindcasting the wave spectrum is unsatisfactory for two reasons: 1) estimation of the wind field from sparse observations spaced six hours apart is highly subjective, and 2), no specific energy spectrum formulation has as yet been verified.
+There is still another method for description of the seaway. If the waves at a fixed point can be measured for a sufficient length of time, then this sample record can be converted into a wave (energy) spectrum that will adequately characterize the state of the sea.
+There are many systems that will measure waves, but the requirement that wave measurements complement simultaneous ship motions measurements, in all states of sea, eliminates most of the known instruments. In particular, it is required that the waves be observed at a fixed point for a period of hours, while the ship conducts certain maneuvers which may remove it several miles from the point of observation. This means that the wave measurement system must be physically divorced from the ship. Furthermore, many tests will be made in heavy seas so that it will not be practical to seek out the instrument and recover it. As a consequence of the conditions imposed by the particular problem stated here, the wave measuring system must be able to: 1. Telemeter information to the ship for at least 7 hours at a distance of at least 8 nautical miles, 2. Be launched from the deck of a ship in waves perhaps 25 feet high, and 3. Be inexpensively constructed ($125.00 - $150.00) so as to be expendable.
+Since investigation revealed that no known instrument had embodied in it all three of these features, it was decided to design and build an appropriate system, at the David Taylor Model Basin. After some consideration of the imposed conditions, it was decided that a small floating buoy (SPLASHNIK) which measures apparent vertical acceleration and telemeters the information back to the ship could be designed to fulfill the requirements.
+The intent of this paper is to describe the SPLASHNIK system, the data reduction method, some experimental verification of the method, and some proposed improvements. It should be noted that this technique of wave measurement (recording of vertical acceleration) is not new. In fact, one instrument described by Dorrestein (1957) is somewhat similar to the SPLASHNIK and has been in operation for several years. Other institutions are also known to be experimenting with accelerometer wave buoys. However, several basic design differences make the SPLASHNIK especially useful as a tool in the study of ship behavior. A drawing of the SPLASHNIK appears in Figure 1.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2165</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2165/1859</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

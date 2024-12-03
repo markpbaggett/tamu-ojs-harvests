@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1091</identifier>
+				<datestamp>2023-10-04T04:39:19Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF NET BEDLOAD TRANSPORT RATES OBTAINED IN OSCILLATING WATER TUNNELS AND APPLICABILITY TO REAL SURF ZONE WAVES</dc:title>
+	<dc:creator xml:lang="en">Gonzalez-Rodriguez, David</dc:creator>
+	<dc:creator xml:lang="en">Madsen, Ole Secher</dc:creator>
+	<dc:subject xml:lang="en">nearshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">bedload</dc:subject>
+	<dc:subject xml:lang="en">oscillating water tunnel</dc:subject>
+	<dc:subject xml:lang="en">wave-current boundary layer</dc:subject>
+	<dc:subject xml:lang="en">wave asymmetry</dc:subject>
+	<dc:subject xml:lang="en">wave skewness</dc:subject>
+	<dc:description xml:lang="en">Experimental studies of sediment transport rates due to nearshore waves are often conducted in oscillating water tunnels (OWTs). In an OWT, the oscillatory motion produced by the piston propagates almost instantaneously along the entire tunnel. Consequently, unlike the wave motion in the sea or in a wave flume, flow in an OWT is uniform along the tunnel, and second-order wave propagation effects (such as Longuet-Higgins's streaming) are absent. The effect of these hydrodynamic differences between OWT and sea waves on sediment transport rates has generally been neglected. In this paper we present a simple, practical formulation to evaluate bed shear stresses and bedload transport rates due to asymmetric and skewed waves plus a current in an OWT, based on fitting the exact results of a rigorous, analytical model of the OWT wave-current boundary layer. By then accounting for real wave effects we find that wave propagation significantly affects the predicted period-averaged net sediment transport rates. Such real wave effects can therefore not be neglected when comparing nearshore transport models with OWT data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1091</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1091/pdf_31</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

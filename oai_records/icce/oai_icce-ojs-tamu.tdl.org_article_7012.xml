@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7012</identifier>
+				<datestamp>2023-10-04T02:45:08Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE INTERACTION BETWEEN SHORT OCEAN SWELL AND TRANSIENT LONG WAVES: DISSIPATIVE AND NONLINEAR EFFECTS</dc:title>
+	<dc:creator xml:lang="en">Kaihatu, James</dc:creator>
+	<dc:creator xml:lang="en">Devery, Deirdre</dc:creator>
+	<dc:creator xml:lang="en">Erwin, Richard</dc:creator>
+	<dc:creator xml:lang="en">Goertz, John</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">tsunamis</dc:subject>
+	<dc:subject xml:lang="en">wavelet analysis</dc:subject>
+	<dc:subject xml:lang="en">dissipation</dc:subject>
+	<dc:subject xml:lang="en">bispectra</dc:subject>
+	<dc:description xml:lang="en">The dissipation and nonlinear effects of random swell interaction with transient long waves are studied. Results from a laboratory experiment in which random swell was generated both with and without a co-existing transient long wave are analyzed. An instantaneous dissipation mechanism for estimating both instantaneous and bulk dissipation from data is used to determine the characteristics of dissipation for both cases. Fourier analysis of the free surface measurements and dissipation estimates reveals that the presence of the transient long wave does not have an appreciable impact on the known dissipation characteristics of random swell. However, the use of wavelet analysis, centered on the long wave in the time series, shows that the dissipation characteristics of the combined short-long wave signals deviate considerably from that of swell alone, indicating that smearing of the long wave signal by the Fourier analysis is sufficiently strong to affect dissipation estimates. A wavelet-based bispectral algorithm is used to determine the nonlinear wave-wave coupling in both swell and combined swell-long wave signals; the results indicate that there can be broader ranges of frequencies in which nonlinear coupling is present for the case of the combined short-long wave signal.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7012</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7012/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

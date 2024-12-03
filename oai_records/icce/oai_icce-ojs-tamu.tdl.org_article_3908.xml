@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3908</identifier>
+				<datestamp>2021-01-19T21:01:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONGSHORE VARIABILITY OF WAVE RUN-UP ON NATURAL BEACHES</dc:title>
+	<dc:creator xml:lang="en">Holman, R.A.</dc:creator>
+	<dc:creator xml:lang="en">Sallenger, A.H.</dc:creator>
+	<dc:subject xml:lang="en">longshore variability</dc:subject>
+	<dc:subject xml:lang="en">run up</dc:subject>
+	<dc:subject xml:lang="en">natural beach</dc:subject>
+	<dc:description xml:lang="en">The longshore variability of wave run-up from a natural beach is examined using data from a large field experiment at the Field Research Facility in Duck, North Carolina, in October, 1982. Two particular runs were selected for intensive analysis. These were chosen to represent a dissipative and a reflective surf zone condition, so have I ribarren numbers 0.97 and 1.81 respectively. The dissipative data run showed much more uniform statistics in the longshore than did the reflective run. Also, the dissipative run was dominated by the infragravity band energy while the reflective run was dominated by the incident band. Selection of several important frequency bands for frequency-domain EOF analysis showed that the lower frequency peaks appeared to be associated with leaky modes (very long longshore wavelengths) and the pier had little influence. On the other hand, higher frequencies were clearly influenced by the pier in both amplitude and phase. An interesting subharmonic peak from the reflective run appeared to be a low (but not zero) mode standing edge wave. A new technique,time exposure photography, is introduced. It allows the quick determination of longshore variability such as would be produced by a dominant standing edge wave. It can also be used to image offshore bathymetry and sand bar systems.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3908</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.127</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 127</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3908/3591</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

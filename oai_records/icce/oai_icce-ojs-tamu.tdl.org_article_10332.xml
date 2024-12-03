@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10332</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF THE DENSITY OF INUNDATION WATER ON TSUNAMI RUN-UP</dc:title>
+	<dc:creator xml:lang="en">Matsutomi, Hideo</dc:creator>
+	<dc:description xml:lang="en">Aiming for the advancement of historical and/or prospective tsunami scale evaluations, and focusing on the tsunami run-up, series solutions to the tip position a(t), velocity U (=da/dt) and acceleration d2a/dt2 in the tip region of inundation flow (unsteady flow) with sediment over a uniformly sloping bottom under the condition that the friction factor K is not linked to the density of inundation water, and analytical solutions to a(t), U(t), d2a/dt2, the maximum run-up distance a_m and height Rm under the condition that K is linked to density are derived, and effects of density on them and run-up process are theoretically examined. It is indicated that (1) in the run-up analysis (including numerical simulation) of tsunami with sediment under the condition of a constant K, even if a_m and Rm can be predicted accurately, there is a possibility of evaluating the run-up duration time inaccurately and vice versa, and (2) linking K to density is necessary to solve this matter. An expression for the relationship between K and is also presented. Moreover, it is verified that the derived series and analytical solutions are useful to discuss the effects of density on the run-up of tsunami with sediment through a comparison between the experimental and theoretical maximum run-up distances.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10332</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10332/9618</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Hideo Matsutomi</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

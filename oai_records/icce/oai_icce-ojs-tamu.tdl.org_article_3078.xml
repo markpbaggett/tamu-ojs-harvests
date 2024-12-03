@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3078</identifier>
+				<datestamp>2021-01-20T01:48:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-DIMENSIONAL CONDITIONS OF SURF</dc:title>
+	<dc:creator xml:lang="en">Wood, William L.</dc:creator>
+	<dc:subject xml:lang="en">surf</dc:subject>
+	<dc:subject xml:lang="en">three dimensional</dc:subject>
+	<dc:description xml:lang="en">Wave height variability along the crest of breaking waves is shown to be a significant factor in the assessment of surf zone dynamics. Variations in excess of 50 percent of the maximum wave height can occur along a single crest without significant variations in bathymetry. The horizontal scale of this longshore variability in crest height corresponds to the wave length of incident breaking waves. Four possible mechanisms for this variability are postulated and then evaluated individually on the basis of field observations. A major result of these evaluations is that two-dimensional shallow-water wave equations appear to be inappropriate for expressing natural surf zone wave transformations and water motions even under the condition of waves encroaching on a plane sloping bottom. Consequently, three-dimensional equations of surf should be used for describing most natural surf zone dynamics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3078</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3078/2743</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

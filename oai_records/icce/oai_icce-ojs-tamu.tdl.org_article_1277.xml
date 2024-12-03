@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1277</identifier>
+				<datestamp>2023-10-04T04:29:49Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISONS OF WAVE OVERTOPPING DISCHARGES AND DAMAGES OF THE NTOU VERTICAL SEAWALL DUE TO TWO SIMILAR SUPER TYPHOONS ON KEELUNG COAST OF TAIWAN</dc:title>
+	<dc:creator xml:lang="en">Chen, Da-Wei</dc:creator>
+	<dc:creator xml:lang="en">Tzang, Shiaw-Yih</dc:creator>
+	<dc:creator xml:lang="en">Ou, Shan-Hwei</dc:creator>
+	<dc:subject xml:lang="en">wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">vertical seawall</dc:subject>
+	<dc:subject xml:lang="en">structure damages</dc:subject>
+	<dc:subject xml:lang="en">typhoon</dc:subject>
+	<dc:description xml:lang="en">In this study, SWAN model was first applied to obtain wave conditions during Typhoon Herb (1996) and Krosa (2007). Then the results were used for estimating the wave overtopping discharge with existing empirical formulae selected from EurOtop manual. In the EurOtop formulae, calculations of overtopping discharges can be improved by adapting average wave period (Tm-1,0) for swell conditions. The results show that the peak overtopping discharges during Typhoon Herb (1996) are larger than those during Typhoon Krosa (2007) at the two selected sites. In addition, the water depth at toe of eastern NTOU seawalls (NTOU 2) are shallower than that at northern NTOU seawall (NTOU 1) so that the discharges at NTOU 1 are larger than those at NTOU 2. The calculations show that the peak wave overtopping discharges during both typhoons are greater than the criteria for damages on back slope of seawalls, which agrees with the NTOU seawall failure event during Typhoon Herb. The predicted failure does not again happen to NTOU seawall during Typhoon Krosa implying the effective reduction in overtopping discharges by lifting up 1m of the crest after rebuilding the previously damaged seawall.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1277</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1277/pdf_85</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

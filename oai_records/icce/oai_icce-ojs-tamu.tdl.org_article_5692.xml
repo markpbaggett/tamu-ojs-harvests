@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5692</identifier>
+				<datestamp>2021-01-19T10:57:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DATA ASSIMILATION AND NESTED HYDRODYNAMIC MODELLING IN STORM SURGE FORECASTING</dc:title>
+	<dc:creator xml:lang="en">Canizares, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Madsen, Henrik</dc:creator>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:subject xml:lang="en">surge forecasting</dc:subject>
+	<dc:subject xml:lang="en">data assimilation</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic modeling</dc:subject>
+	<dc:subject xml:lang="en">nested modeling</dc:subject>
+	<dc:description xml:lang="en">A data assimilation method for state updating in a hydrodynamic model is presented. The method is based on the extended Kalman filter in which the error covariance matrix is approximated by a matrix of lower rank using a square-root factorisation (reduced rank square-rootfilter). Results from a test of the Kalman filter in a regional model of the North Sea and Baltic Sea are presented. In this respect, the influence of using nested hydrodynamic models together with data assimilation techniques is illustrated and discussed. The test reveals that assimilation of water level measurements from coastal stations significantly improves the model results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5692</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5692/5362</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

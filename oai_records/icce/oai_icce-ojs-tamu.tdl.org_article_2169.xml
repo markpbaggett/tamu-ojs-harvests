@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2169</identifier>
+				<datestamp>2021-01-17T06:13:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIFTH ORDER GRAVITY WAVE THEORY</dc:title>
+	<dc:creator xml:lang="en">Skjelbreia, Lars</dc:creator>
+	<dc:creator xml:lang="en">Hendrickson, James</dc:creator>
+	<dc:subject xml:lang="en">gravity waves</dc:subject>
+	<dc:subject xml:lang="en">Airy theory</dc:subject>
+	<dc:subject xml:lang="en">d/L parameter</dc:subject>
+	<dc:subject xml:lang="en">fifth order gravity theory</dc:subject>
+	<dc:description xml:lang="en">In dealing with problems connected with gravity waves, scientists and engineers frequently find it necessary to make lengthy theoretical calculations involving such wave characteristics as wave height, wave length, period, and water depth. Several approximate theoretical expressions have been derived relating the above parameters. Airy, for instance, contributed a very valuable and complete theory for waves traveling over a horizontal bottom in any depth of water. Due to the simplicity of the Airy theory, it is frequently used by engineers. This theory, however, was developed for waves of very small heights and is inaccurate for waves of finite height. Stokes presented a similar solution for waves of finite height by use of trigonometric series. Using five terms in the series, this solution will extend the range covered by the Airy theory to waves of greater steepness. No attempt has been made in this paper to specify the range where the theory is applicable. The coefficients in these series are very complicated and for a numerical problem, the calculations become very tedious. Because of this difficulty, this theory would be very little used by engineers unless the value of the coefficient is presented in tabular form. The purpose of this paper is to present the results of the fifth order theory and values of the various coefficients as a function of the parameter d/L.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2169</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2169/1863</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

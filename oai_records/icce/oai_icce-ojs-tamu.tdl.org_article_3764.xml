@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3764</identifier>
+				<datestamp>2021-01-19T21:54:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTERFACIAL AND BED SHEAR STRESSES IN SALINE WEDGES</dc:title>
+	<dc:creator xml:lang="en">Dermissis, Vassilios</dc:creator>
+	<dc:creator xml:lang="en">Partheniades, Emmanuel</dc:creator>
+	<dc:subject xml:lang="en">saline wedges</dc:subject>
+	<dc:subject xml:lang="en">bed</dc:subject>
+	<dc:subject xml:lang="en">bed shear</dc:subject>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:description xml:lang="en">The shear stresses and the associated friction coefficients at the interface and at the bed of an arrested saline wedge have been studied experimentally together with the detailed flow structure. Interfacial stresses, evaluated from hot film anemometer measurements and actual velocity profiles, agree well with those based on the integration of the equations of motion while the simplified one dimensional analysis gave considerably higher values, It_was found that both the average interfacial friction coefficient, f and the average bed friction factor, f are best correlated with the dimensionless number, ReFr2, where Re and Fr are the Reynolds number and the non-densimetric Froude number of the flow respectively, and with the relative density difference, Ap/p, The results are presented in two families of curves with Ap/p as a parameter. The scattering of data points is minimal and the agreement with the results of some previous laboratory investigations and field data is good.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3764</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.149</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 149</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3764/3447</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

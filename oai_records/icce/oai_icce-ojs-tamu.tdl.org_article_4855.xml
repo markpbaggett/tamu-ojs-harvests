@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4855</identifier>
+				<datestamp>2021-01-19T15:37:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BED BOUNDARY LAYERS</dc:title>
+	<dc:creator xml:lang="en">O'Connor, B.A.</dc:creator>
+	<dc:creator xml:lang="en">Harris, J.M.</dc:creator>
+	<dc:creator xml:lang="en">Kim, H.</dc:creator>
+	<dc:creator xml:lang="en">Wong, Y.K.</dc:creator>
+	<dc:creator xml:lang="en">Oebius, H.U.</dc:creator>
+	<dc:creator xml:lang="en">Williams, J.J.</dc:creator>
+	<dc:subject xml:lang="en">bed boundary</dc:subject>
+	<dc:subject xml:lang="en">boundary layer</dc:subject>
+	<dc:description xml:lang="en">The paper describes the development and application to laboratory and North Sea field data of a series of random wave and current computer models of bed boundary layer flows and associated suspended sediment concentrations. The EC-funded (MAST 1) work is part of a larger project, which also includes the laboratory testing of a new seabed shear stress meter (SSM) and the field collection of nearbed data using a special boundary layer rig (STABLE). Both two-dimensional (2DV) and one-dimensional (1DV) hydrodynamic models are described based on a mixing length closure but including simulation techniques to enable the inclusion of both long and short-crested random waves and steady currents. A 1DV suspended sediment model is also described with realistic boundary conditions to enable the simulation of vortex entrainment from seabed ripples. Application of the various models to the SSM and STABLE data shows realistic results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4855</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4855/4536</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8761</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT ADVECTION AND DIFFUSION BY OBLIQUELY DESCENDING EDDIES</dc:title>
+	<dc:creator xml:lang="en">Saruwatari, Ayumi</dc:creator>
+	<dc:creator xml:lang="en">Otsuka, Junichi</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Yasunori</dc:creator>
+	<dc:description xml:lang="en">Three-dimensional vortex structures involving obliquely descending eddies (ODE), produced by depth-induced breaking-waves, has been proved to be associated with local sediment suspension in the surf zone (Zhou et al., 2017); vertical velocity fluctuations around the ODEs induces sediment suspension near the bed. Otsuka et al. (2017) explained the mechanical contributions of the ODEs to enhance local sediment suspension under the breaking waves and modeled the vortex-induced suspension to predict the profile of the equilibrium sediment concentration in the surf zone. In order to predict local behaviors of sediment, however, sediment-turbulence interactions in the transitional turbulence under breaking waves need to be understood. The interaction may be described in terms of Schmidt number (Sc). Sc has been empirically determined for trivial steady flows such as open channel or pipe flows. In the surf zone where organized flows evolve into a turbulent bore, the interaction may vary with the transitional feature of turbulence during a wave-breaking process, and thus Sc may be variable in time and space. No appropriate Sc model has been proposed for the surf zone flow. A parametric study on the sediment motion with respect to the variation of Sc is required for better prediction of sediment transport in the surf zone. In this study, contributions of the sediment advection and diffusion in the vortex structure to the concentration are computationally investigated. Effects of Sc to the sediment suspension and diffusion process will be also discussed in this work.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8761</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.96</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.96</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8761/7562</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8761/8122</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

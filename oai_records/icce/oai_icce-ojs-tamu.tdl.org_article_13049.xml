@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13049</identifier>
+				<datestamp>2023-09-01T15:15:27Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEACH GROUNDWATER IMPACTS ON WAVE OVERTOPPING FLOODING</dc:title>
+	<dc:creator xml:lang="en">Delisle, Marie-Pierre</dc:creator>
+	<dc:creator xml:lang="en">Kim, Yeulwoo</dc:creator>
+	<dc:creator xml:lang="en">Gallien, Timu</dc:creator>
+	<dc:description xml:lang="en">Coastal flooding is a growing socioeconomic and humanitarian hazard (e.g., Nicholls, 2010). Increased beach groundwater levels may inundate low-lying areas and simultaneously propagate swash impacts onto higher beach and backshore elevations. Generally, coastal flood modeling and risk assessment characterize only surface flows, neglecting beach groundwater and swash zone processes such as infiltration and porous media flow. Numerous studies have considered the effects of swash on groundwater (e.g., Gourlay, 1992). Infiltration leads to reduced wave runup (Pintado-Patino et al., 2015) and is promoted by low beach groundwater levels (Bakhtyar et al., 2011), suggesting that beach groundwater plays a critical role in infiltration/exfiltration processes. Notably, the impacts of beach groundwater on swash flows and subsequent consequences on coastal flooding have not been explored. Coastal flooding from wave overtopping is expected to occur around the maximum tide. However, recent field observations suggest maximum overtopping lags behind high tide and is in phase with maximum groundwater levels. In this study, a turbulence and depth resolving numerical model is developed to examine the interaction between beach groundwater and wave overtopping processes.       </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13049</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13049/12322</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Marie-Pierre Delisle, Yeulwoo Kim, Timu Gallien</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

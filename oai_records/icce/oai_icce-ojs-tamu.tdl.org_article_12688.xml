@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12688</identifier>
+				<datestamp>2023-09-01T15:12:14Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EFFECT OF WIND STRESS ON WAVE OVERTOPPING ON VERTICAL SEAWALL</dc:title>
+	<dc:creator xml:lang="en">Tuozzo, Sara</dc:creator>
+	<dc:creator xml:lang="en">Leo, Angela Di</dc:creator>
+	<dc:creator xml:lang="en">Buccino, Mariano</dc:creator>
+	<dc:creator xml:lang="en">Dentale, Fabio</dc:creator>
+	<dc:creator xml:lang="en">Carratelli, Eugenio Pugliese</dc:creator>
+	<dc:creator xml:lang="en">Calabrese, Mario</dc:creator>
+	<dc:description xml:lang="en">Onshore wind can significantly affect wave overtopping process and increase mean overtopping discharge. Thus, the wind should be an important variable in coastal design process. However, despite many researches have analyzed the influence of wind on the overtopping, there is still a lack of exhaustive knowledge about this phenomenon. To further analyze the wind effects, the CFD model FLOW-3D has been used to investigate wave overtopping at vertical seawalls. The single-fluid approach has been adopted, i.e. the presence of wind has been simulated via the wind shear stress on the sea surface. The main aim of this work is to verify the ability of this simplified numerical modelling to capture the macro-processes involved in the phenomenon of wave overtopping. The presence of wind shear stress has led to physically consistent results. It confirmed that as the mean overtopping discharge decreases, as the wind effect increases. Furthermore, numerical results have shown that the advection of water droplets behind the structure by the wind is the key mechanism for the enhancement of wave overtopping. Finally, by gathering numerical results and laboratory data carried out by Durbridge (2021), a new predictive formula to estimate the wind factor is provided.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12688</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12688/11961</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Sara Tuozzo, Angela Di Leo, Mariano Buccino, Fabio Dentale, Eugenio Pugliese Carratelli, Mario Calabrese</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

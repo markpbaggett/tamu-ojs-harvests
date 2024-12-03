@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4434</identifier>
+				<datestamp>2021-01-19T18:01:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TRANSITION ZONE WIDTH AND IMPLICATIONS FOR MODELING SURFZONE HYDRODYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Nairn, Robert B.</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, J.A. Dano</dc:creator>
+	<dc:creator xml:lang="en">Southgate, Howard N.</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamics</dc:subject>
+	<dc:subject xml:lang="en">transition zone</dc:subject>
+	<dc:description xml:lang="en">The surfzone associated with a wave breaking on a plane slope may be subdivided into three regions: the transition zone, the inner zone and the swash zone. The transition zone is the region just shoreward of the point of wave breaking and is characterised by rapid wave decay and also by constant wave setdown (and thus constant radiation stress). In this paper, an empirical expression for the width of this zone is developed from monochromatic wave data. Two techniques are proposed for the consideration of this phenomenon in the numerical modelling of surfzone hydrodynamics for random waves. The implications of a zone of nearly constant radiation stress inside the breakpoint are examined with respect to wave-induced current generation - both cross-shore and longshore - and sediment transport prediction. Comparisons are made to both field and laboratory data from plane and undulating profiles.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4434</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4434/4115</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5255</identifier>
+				<datestamp>2021-01-19T13:21:40Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF DIRECTIONAL WAVE DATA QUALITY FROM TWO DIFFERENT MONITORING SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Lin, Lihwa</dc:creator>
+	<dc:creator xml:lang="en">Schofield, Sidney</dc:creator>
+	<dc:creator xml:lang="en">Wang, Hsiang</dc:creator>
+	<dc:subject xml:lang="en">wave data</dc:subject>
+	<dc:subject xml:lang="en">data quality</dc:subject>
+	<dc:subject xml:lang="en">directional wave</dc:subject>
+	<dc:subject xml:lang="en">wave monitoring</dc:subject>
+	<dc:description xml:lang="en">A simple criterion was derived for evaluation and comparison of directional wave data quality from two underwater measuring systems - a point gage system consisting of a pressure transducer and a bi-axial current meter (PUV gage), and a slope array consisting of four pressure transducers. By using this criterion to the measured field data, it was demonstrated that directional wave data analyzed from PUV gage contain absolutely better quality than those from pressure array gages. Further examination of the pressure array data alone showed that the resolved directional wave quality was worser for long waves than short waves. However, the flaw of directional wave data quality from pressure array gages can be mended by forcing simple linear corrections on the analyzed directional data with a maximal tolerance to the criterion introduced in the present study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5255</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5255/4933</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

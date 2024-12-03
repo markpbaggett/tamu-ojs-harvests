@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7103</identifier>
+				<datestamp>2021-01-19T05:20:32Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY MEASUREMENT OF SEDIMENT TRANSPORT UNDER A BREAKING WAVE TURBULENT FLOW FIELD</dc:title>
+	<dc:creator xml:lang="en">Otsuka, Junichi</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Yasunori</dc:creator>
+	<dc:subject xml:lang="en">breaking wave</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">turbulent energy</dc:subject>
+	<dc:subject xml:lang="en">particle image velocimetry (PIV)</dc:subject>
+	<dc:description xml:lang="en">Instantaneous velocity fields and suspended sediment concentration in surf zones were measured in a wave flume with a sloped sand bed by use of a particle image velocimetry (PIV) and an optical concentration sensor. This was done in order to elucidate sediment transport processes and clarify the relationship between kinetic turbulent energy and sediment suspension under a breaking wave turbulent flow field. In surf zones, sediments become highly suspended when strong turbulent energy reaches the bottom. High concentration was seen in the transition region where turbulent energy is at its maximum. Suspended sediment concentration in a plunging breaker is much higher than that in a spilling breaker because large-scale vortices are typically developed and stir-up much sediment. Suspended sediment is transported to a deeper region due to the undertow becoming highly developed after a wave crest has passed. In shallower regions, suspended sediment concentration increases linearly with an increasing of the turbulent energy. The slope of the approximation line for plunging breakers is steeper than that for spilling breakers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7103</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7103/pdf_408</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

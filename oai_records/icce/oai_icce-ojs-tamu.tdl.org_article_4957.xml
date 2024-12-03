@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4957</identifier>
+				<datestamp>2021-01-19T15:03:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASURING WAVES WITH MANOMETER TUBES</dc:title>
+	<dc:creator xml:lang="en">Hanslow, David J.</dc:creator>
+	<dc:creator xml:lang="en">Nielsen, Peter</dc:creator>
+	<dc:creator xml:lang="en">HIbbert, Kevin</dc:creator>
+	<dc:subject xml:lang="en">wave measurement</dc:subject>
+	<dc:subject xml:lang="en">manometer</dc:subject>
+	<dc:subject xml:lang="en">manometer tubes</dc:subject>
+	<dc:description xml:lang="en">A new type of wave gauge has been developed for the measurement of waves near a beach or near an existing coastal structure. It consists of a nylon tube with diameter between 0.5 and 1cm and length up to 500m. The seaward end of the tube is open so that the wave induced pressure fluctuations can be transmitted through the water in the tube. The landward end, which is conveniently above the water, is fitted with a pressure transducer. This is simple and reliable technology well suited for use in developing countries. Maintenance and running coasts are also very low. The frequency response function of the system is somewhat complicated but a workable formula is presented and "once and for all" calibration of the system can be done very easily.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4957</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4957/4637</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

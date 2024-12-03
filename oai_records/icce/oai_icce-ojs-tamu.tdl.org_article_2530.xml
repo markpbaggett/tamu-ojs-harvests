@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2530</identifier>
+				<datestamp>2021-01-17T04:35:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF COASTAL CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Zeigler, J.M.</dc:creator>
+	<dc:creator xml:lang="en">Tasha, H.J.</dc:creator>
+	<dc:subject xml:lang="en">current measurements</dc:subject>
+	<dc:subject xml:lang="en">coastal currents</dc:subject>
+	<dc:description xml:lang="en">Getting a drift buoy into and over the surf zone in rough weather has always been a problem. A cheap, cold propellant rocket launcher using either compressed air from aqua-lung bottles or liquid carbon dioxide is admirably suited for hurling drift bottles to ranges of over 1,000 feet. This launcher weighs less than one hundred pounds and can be easily transported to places of difficult access such as cliffed or reefy coasts. The float package can be modified to include mid-depth drogues if that is desired. An example of work done by a single field operator illustrates the versatility of this technique . Naval Mark II flares are useful for current tracing because they are easily obtained and can be set in arrays from aircraft. As they burn, however, they change their freeboard and are therefore more subject to wind drift than when they are lower in the water. Mark II flares were calibrated for wind drift with results given. A wind velocity profile between 5/8 inches and 5 inches above the water surface was obtained from floating arrays of flares with the results given.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2530</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2530/2195</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

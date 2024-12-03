@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2403</identifier>
+				<datestamp>2021-01-17T05:14:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NOTE ON THE DEVELOPMENT OF WIND WAVES IN AN EXPERIMENT</dc:title>
+	<dc:creator xml:lang="en">Hamada, Tokuichi</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Akihiko</dc:creator>
+	<dc:creator xml:lang="en">Kato, Hajime</dc:creator>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">waves in an experiment</dc:subject>
+	<dc:description xml:lang="en">This is a note paper of experiment in an air-water experimental waterway. Two cases of the uniform depth of water 50 cm and of the uniform depth of water 15 cm are examined. The boundary condition for air flow is not changed. In a condition of almost the same discharge of air flow on the water surface, the development of wind waves is investigated. The properties of wind waves are slightly different in each case, but the analysis of physical mechanism of the development suggests that almost the same mechanism is active throughout both cases. Stillmore the portion of tangential stress, which is apparently transfered to wave momentum, is numerically obtained, and it is not so different in both cases of depth of water.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2403</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2403/2078</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5248</identifier>
+				<datestamp>2021-01-19T13:23:58Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FORMULATION AND VALIDATION OF VERTICALLY 2-D SHALLOW-WATER WAVE MODEL</dc:title>
+	<dc:creator xml:lang="en">Johnson, Bradley D.</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">2D model</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">model verification</dc:subject>
+	<dc:description xml:lang="en">A numerical model is developed to predict the time-dependent, two-dimensional velocity field under normally incident breaking waves on beaches and coastal structures. Use is made of the depth-integrated continuity and horizontal momentum equations, where the momentum equation includes the momentum flux correction due to the vertical variation of the horizontal velocity. The third equation for the momentum flux correction is derived from the depth-integrated wave energy equation together with a cubic horizontal velocity profile. The three equations are solved using the MacCormack finite difference method. The quasi two-dimensional model is compared with two laboratory data sets and is found to predict the vertical variation of the horizontal velocity measured below the trough reasonably well. However, the energy dissipation in the model is primarily numerical for breaking waves on gentle slopes despite the explicitly modeled energy dissipation due to wave breaking.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5248</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5248/4926</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4266</identifier>
+				<datestamp>2021-01-19T18:59:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEAWALL OVERTOPPING MODEL</dc:title>
+	<dc:creator xml:lang="en">Ahrens, John P.</dc:creator>
+	<dc:creator xml:lang="en">Heimbaugh, Martha S.</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">overtopping model</dc:subject>
+	<dc:subject xml:lang="en">seawall</dc:subject>
+	<dc:description xml:lang="en">Results from an extensive series of laboratory tests of irregular wave overtopping for a number of seawall and seawall/revetment configurations is presented. Data for 13 configurations has been collected and grouped into 7 data sets representing relatively similar geometrical characteristics. All data sets showed an approximately exponential relationship between the overtopping rate and a dimensionless freeboard parameter which is the ratio of the seawall freeboard to the local wave severity. This finding logically led to the development of three progressively more complex overtopping models. The models provide a relatively simple way to estimate overtopping rates and an objective way to evaluate the hydraulic performance of seawalls/revetments. Advantages and disadvantages of the models are discussed and their ability to predict overtopping rates is compared.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4266</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4266/3947</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

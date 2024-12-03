@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2167</identifier>
+				<datestamp>2021-01-17T06:13:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ETUDE THEORIQUE DE L'EXPLOITATION DES ENREGISTREMENTS DE HOULE</dc:title>
+	<dc:creator xml:lang="en">Caseau, P.</dc:creator>
+	<dc:description xml:lang="en">L'e'tude de la houle en un point, c'est-a-dire 1!exploitation d'un enregistrement de houle, consiste a obtenir, a. partir de cet enregistrement, le plus de renseignements possible sur le "spectre" de la houle. Nous excluons le cas ou la donnee -|-(t) se presente sous la forme d'un tableau chiffre' ou d'un courant electrique. Ces deux representations ont en conmun la proprie'te que 1' addition de deux fonctions et l1 operation 4, / f(t) oU y sont faciles a realiser. L*exploitation passera done naturellement par la fonction de correlation YC*-) = =T / TW|(trt) 1ui es^ "tres facile a obteni] Au contraire, si 1'enregistrement se pre'sente sous forme de courbes sur film ou sur papier, aucune de ces deux operations n'est facile a realiser, ce qui enleve a *Jf(f) beaucoup de son intere*t. Pour 1' exploitation des enregistrements effectues par 1'enregistreur autonome de Chatou, qui consistent en des courbes sur film de 35 mm, une methode simplifiee est actuellement utilise'e ji5_7° Cette methode ne donne cependant pas tous les renseignements que l'on voudrait, et elle est moins rapide d'emploi qu'il ne serait necessaire pour permettre le depouillement des tres nombreux enregistrements effectues avec les divers appareils en service. En modifiant un peu la methode, M,, Kowalski, de l*Instytut Morski, a Gdansk, en Pologne, a pu la mecaniser et la rendre plus pratique, sans cependant augmenter le nombre des renseignements obtenus. En s'inspirant du procede utilis^ par M, Kowalski, M. Valembois a imagine le procede que 1ious etudions ici. Ce proce'de consiste a faire defiler le film devant un appareil qui compti au moyen de cellules photoelectriques, le nombre de points dsintersection de . courbe u = ^(t) avec les droites u- etc , pour diverses valeurs de la constanti Mo Larras a propose", au lieu de coTiipter des nombres de points d1 intersection, de totaliser des intervalles horizontaux (fig. t). L1etude mathematique de ces procedes conduit naturellement a considerer les "distributions" associees a ^(t), a voir leurs relations avec le spectre, et a selectionner celles qui sont le plus faciles a obtenir et qui donnent le plus de renseignements sur celui-ci. Apres avoir passe en revue les hypotheses mathematiques et les resultats ne'eessaires au calcul, nous aborderons done l'^tude de ces distributions, et nous indiquerons quelques-unes de celles que l'on peut utiliser.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2167</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2167/1861</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

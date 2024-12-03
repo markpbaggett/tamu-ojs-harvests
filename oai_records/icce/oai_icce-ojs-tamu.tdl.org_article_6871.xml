@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6871</identifier>
+				<datestamp>2023-10-04T02:27:45Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TURBULENCE APPEARANCE AT THE BOTTOM OF A SOLITARY WAVE</dc:title>
+	<dc:creator xml:lang="en">Blondeaux, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Pralits, Jan</dc:creator>
+	<dc:creator xml:lang="en">Vittori, Giovanna</dc:creator>
+	<dc:subject xml:lang="en">boundary layer stability</dc:subject>
+	<dc:subject xml:lang="en">solitary waves</dc:subject>
+	<dc:subject xml:lang="en">turbulence</dc:subject>
+	<dc:description xml:lang="en">The conditions leading to transition and turbulence appearance at the bottom of a solitary wave are determined by means of a linear stability analysis of the laminar flow in the bottom boundary layer. The ratio between the wave amplitude and the thickness of the viscous bottom boundary layer  is assumed to be large and a 'momentary' criterion of instability is used.  The results obtained show that the laminar regime becomes unstable, during the decelerating phase, if the height of the wave is larger than a threshold value which depends on the ratio between the boundary layer thickness and the local water depth. A comparison of the theoretical results with the experimental measurements of Sumer et al. (2010) seems to support the stability analysis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6871</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6871/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

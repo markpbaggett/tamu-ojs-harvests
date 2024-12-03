@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8426</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE CLIMATE VARIABILITY AND RELATED CLIMATE INDICES</dc:title>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Kishimoto, Risako</dc:creator>
+	<dc:creator xml:lang="en">Shimura, Tomoya</dc:creator>
+	<dc:description xml:lang="en">Climate change is highly expected to give significant impact on coastal hazards and environment. The future projections of wave climate under global warming scenarios have been carried out and shows changes in wave heights depending on the regions (e.g., Hemer et al., 2013). Beside the long-term trends of wave climate, annual to decadal changes are also important to understand variability. For example, the North Atlantic Oscillation (NAO) is highly correlated to monthly mean wave height along the western European coast. However, variability of wave climate is not well understood over the globe, quantitatively. Additionally, the standard coastal engineers regard stationary process for wave environment for solving coastal problems. This study analyzes global wave climate variability for the last half century based on principal component analysis of atmospheric forcing (sea surface winds U10 and sea level pressure P) and wave hindcast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8426</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8426/7233</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

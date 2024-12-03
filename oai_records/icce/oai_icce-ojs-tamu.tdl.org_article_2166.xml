@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2166</identifier>
+				<datestamp>2021-01-17T06:14:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE HEIGHT MEASURING EQUIPMENT</dc:title>
+	<dc:creator xml:lang="en">Boiten, E.H.</dc:creator>
+	<dc:subject xml:lang="en">wave measurement</dc:subject>
+	<dc:subject xml:lang="en">wave/ship interaction</dc:subject>
+	<dc:subject xml:lang="en">buoy</dc:subject>
+	<dc:description xml:lang="en">The equipment was designed to obtain data from sea waves. It was developed by the Organization for Applied Scientific Research at Delft in coordination with the Royal Dutch Navy. The intention of the measurements with the wave height measuring equipment was to establish a correlation between the sea motion and the movements of a ship, which is steaming in that sea. So wave measurements and measurements of the ship movements were always carried out simultaneously. To have the movement of the ship free from the position of the wave meter, a telemetering system was chosen to transmit the data from the wave meter. The receiving and recording instruments are placed on board the ship.
+The first measurement was made in December 1958. At that moment, the wave meter consisted of a buoy assembly in which was mounted a transmitter coupled with an accelerometer. The accelerometer measured the accelerations of the wave meter in a direction perpendicular to the water surface. The carrier of the transmitter was direct frequency modulated by the signal of the accelerometer. After this measurement it became desirable to gather more data from the sea waves. For that reason the  instrumentation of the wave meter was extended with a gyro, which measures the slope of the waves. The slope is determined by the angles of the water surface with respect to the horizontal plane in two directions perpendicular to each other. The angle signals frequency-modulate two subcarriers, which in their turn amplitude-modulated the transmitter carrier . With this more complicated equipment a measurement was made in November 1959. In this paper a description is given of the instrumentation of the wave meter and the receiving and recording equipment as it is at the present with a slightly changed modulating system. As the data from the wave meter could be used to study only the wave motion apart from the ship, it seems reasonable to present this paper at this conference.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2166</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2166/1860</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

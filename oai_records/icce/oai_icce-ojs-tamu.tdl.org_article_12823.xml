@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12823</identifier>
+				<datestamp>2023-09-01T15:13:30Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPLICATIONS OF SPATIAL GRAIN SIZE VARIABILITY FOR AEOLIAN TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Ijzendoorn, Christa van</dc:creator>
+	<dc:creator xml:lang="en">Hallin, Caroline</dc:creator>
+	<dc:creator xml:lang="en">Vries, Sierd de</dc:creator>
+	<dc:description xml:lang="en">Coastal dunes are crucial for coastal protection, habitat development and recreation. In recent years, their strength as a long-term building with nature approach has been explored in engineering projects. To improve implementation strategies, prediction of the development of the dune system is necessary. Aeolian sediment transport models may aid in informed design and decision-making. However, many aspects of aeolian sediment transport models need a thorough understanding to give reliable predictions. This research particularly focuses on grain size and assesses its effects on aeolian sediment transport at varying spatial and temporal scales. The aim is to provide recommendations on the relevance of spatial grain size variations in aeolian sediment transport modelling for coastal maintenance applications. For this purpose, we apply the aeolian sediment transport model AeoLiS, which allows for multi-fraction transport simulations (Hoonhout, 2017).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12823</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12823/12096</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Christa van Ijzendoorn, Caroline Hallin, Sierd de Vries</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

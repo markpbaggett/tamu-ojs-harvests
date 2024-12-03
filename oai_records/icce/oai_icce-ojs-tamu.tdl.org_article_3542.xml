@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3542</identifier>
+				<datestamp>2021-01-19T23:11:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENERGY TRANSMISSION OVER BREAK WATER - A DESIGN CRITERION?</dc:title>
+	<dc:creator xml:lang="en">Bade, P.</dc:creator>
+	<dc:creator xml:lang="en">Kaldenhoff, H.</dc:creator>
+	<dc:subject xml:lang="en">design criterian</dc:subject>
+	<dc:subject xml:lang="en">energy transmission</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:description xml:lang="en">The wave transmission from seaside to lee of break waters depends on structural parameters as well as on the initial wave climate. Transmission coefficients for special boundary: conditions are known, but information about wave parameters are often not available or they cover often only special cases. Again a case study, undertaken for the break water at the proposed deep water harbour at Scharhoern/Neuwerk, Germany, documented this lack. The results of the case study using conservative wave parameters did not answer the important questions of energy transmission sufficiently, thus we investigated the characteristics of the initial and transmitted wave spectra. A special case was treated initially and subsequently more general situations were examined. These tests were carried out using a physical model of a length scale of 1:10 under conditions described by Froude's law.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3542</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.114</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 114</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3542/3223</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

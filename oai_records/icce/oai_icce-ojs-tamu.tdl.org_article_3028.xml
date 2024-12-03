@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3028</identifier>
+				<datestamp>2021-01-20T02:06:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDE-INDUCED MASS TRANSPORT IN LAGOON-INLET SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">van de Kreeke, J.</dc:creator>
+	<dc:creator xml:lang="en">Cotter, D.C.</dc:creator>
+	<dc:subject xml:lang="en">lagoon</dc:subject>
+	<dc:subject xml:lang="en">inlet system</dc:subject>
+	<dc:subject xml:lang="en">tide</dc:subject>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:description xml:lang="en">This paper examines the tide-induced net discharge in lagoon-inlet systems. In particular, attention is given to the role inlets play in inducing a steady current. The flow in the lagoon is described by the one-dimensional long wave equations, the flow in the inlets is described by a semi-empirical equation. Both numerical and analytical techniques are employed to solve for the net discharge. The results of the study indicate that 1) the net discharge can be significant provided the tidal amplitude to depth ratio is not small 2) the net discharge can be considerably increased by the proper selection of the inlet dimensions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3028</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.133</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 133</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3028/2693</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

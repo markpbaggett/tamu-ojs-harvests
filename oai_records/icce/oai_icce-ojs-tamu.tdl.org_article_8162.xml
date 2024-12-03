@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8162</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERISATION OF BREAKING WAVES ON THE EDDYSTONE LIGHTHOUSE: A LABORATORY INVESTIGATION ON WAVE PRESSURE</dc:title>
+	<dc:creator xml:lang="en">Banfi, Davide</dc:creator>
+	<dc:creator xml:lang="en">Raby, Alison</dc:creator>
+	<dc:creator xml:lang="en">Simmonds, David</dc:creator>
+	<dc:subject xml:lang="en">Eddystone lighthouse</dc:subject>
+	<dc:subject xml:lang="en">limited water depth</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">wave load</dc:subject>
+	<dc:subject xml:lang="en">spatial load distributions</dc:subject>
+	<dc:subject xml:lang="en">breaking map</dc:subject>
+	<dc:description xml:lang="en">Commonly, rock lighthouses are erected on the top of steep reefs and in limited water depths. The effect of these environmental conditions on wave loading requires deeper understanding. This paper investigates wave loading at small scale for a particular case study: the Eddystone lighthouse (UK). Load characteristics due to breaking waves are obtained by the use of pressure transducers and the test program is designed to generate a comprehensive data set covering a broader range of wave conditions. Although the magnitude of wave pressures is rather random from wave to wave of the same train of regular waves, the pressure impulsivity tends to decrease with increasing relative breaking distance. Four breaker types are described and particular attention is given to time histories of the line of action of horizontal force and vertical spatial distributions. Estimation of overall forces, obtained by pressure integration, indicates that the wave loading is strongly affected by the limited water depth condition. In fact, only small plunging waves are able to break at the structure; thus, they cause small forces despite the small breaking distances. Finally, the occurrence of the breakers is investigated on a dimensionless plane given by the combination of the Iribarren number and momentum flux of Hughes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8162</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8162/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

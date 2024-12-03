@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6538</identifier>
+				<datestamp>2023-10-04T03:23:12Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A COASTAL AREA MODEL CONSIDERING WAVE-CURRENT INTERACTION AND ITS APPLICATION TO WIDE-CRESTED SUBMERGED BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Kuroiwa, Masamitsu</dc:creator>
+	<dc:creator xml:lang="en">Seif, Ahmed Khaled</dc:creator>
+	<dc:creator xml:lang="en">Matsubara, Yuhei</dc:creator>
+	<dc:creator xml:lang="en">Ichimura, Yasushi</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:creator xml:lang="en">Abualtayef, Mazen</dc:creator>
+	<dc:subject xml:lang="en">morphodynamic</dc:subject>
+	<dc:subject xml:lang="en">submerged breakwater</dc:subject>
+	<dc:subject xml:lang="en">rip-current</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:description xml:lang="en">This study is concerned with development of a 3D morphodynamic predictive model for considering wave-current interaction by using wave action balance equation. The developed model was applied to model tests associated with a detached breakwater and wide-crested submerged breakwaters, and the influences of strong currents around the structures into wave height distribution and bathymetry change were investigated. Furthermore, the morphodynamics around the artificial reefs in the Uradome Beach, Tottori, Japan, was computed. From the computed results, a large scour hole due to strong rip-currents in the opening of the reefs was reproduced. The applicability of the model was confirmed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6538</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6538/pdf_538</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

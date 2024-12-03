@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3922</identifier>
+				<datestamp>2021-01-19T20:56:56Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHORELINE CHANGE AT OARAI BEACH: PAST, PRESENT AND FUTURE</dc:title>
+	<dc:creator xml:lang="en">Kraus, Nicholas C.</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Hans</dc:creator>
+	<dc:creator xml:lang="en">Harikai, Soichi</dc:creator>
+	<dc:subject xml:lang="en">shoreline change</dc:subject>
+	<dc:subject xml:lang="en">Oarai Beach</dc:subject>
+	<dc:description xml:lang="en">Large breakwaters and groins are being constructed at Oarai Harbor, Japan. As a result the beach is significantly deforming. The first part of this paper documents past and recent shoreline change at Oarai. The general characteristics of the offshore waves, breaking waves, and longshore current pattern are described and used to explain qualitative features of the observed shoreline change. The second part presents results of numerical simulations of shoreline change at the site which occurred over different time periods. The model includes three sources of wave diffraction, a rigorous formulation of the seawall boundary condition, and sand bypassing at groins. The modeling of historical shoreline change was reasonably successful. As an exercise in investigating problems associated with prediction, the model was used to forecast the shoreline position at the site five years from now. The prediction of the wave history was the main problem encountered. A simple intuitive method was devised to estimate the probable range in variation of the wave history, and the results are discussed in connection with the shoreline forecast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3922</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.141</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 141</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3922/3605</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

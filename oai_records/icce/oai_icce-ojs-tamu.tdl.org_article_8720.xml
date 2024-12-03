@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8720</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY EXPERIMENTS OF WAVE OVERTOPPING OF REVETMENT STRUCTURES IN REEF ENVIRONMENTS</dc:title>
+	<dc:creator xml:lang="en">Splinter, Kristen</dc:creator>
+	<dc:creator xml:lang="en">Li, Liqun</dc:creator>
+	<dc:creator xml:lang="en">Blacka, Matt</dc:creator>
+	<dc:description xml:lang="en">Reefs offer natural protection to many coastal island nations through the physical processes of wave breaking on the reef rim and thus, reducing the wave energy that reaches the shoreline. However, both mean and infragravity water levels build up over the reef due to wave breaking on the reef top that can lead to coastal inundation and serious damage (Gourlay 1996a; Gourlay 1996b; Blacka et al. 2015). To protect the community around the coastal region, the construction of defensive structures, such as revetments or sea dikes may be required. The present study is focused on wave overtopping discharge on smooth revetments within the reef environment, which is not fully understood. Classical formulas that estimate overtopping of revetments (see Van der Meer et al. 2016 and references therein) are based on waves breaking in deep to shallow water either in front of the structure or directly on the structure. Recently, Altomare (2016) updated Van Gent's (1999) formula of overtopping discharge of smooth sea dikes on shallow foreshores to include very shallow foreshores. The updated equation estimates dimensionless over-topping as a function of the full spectrum wave properties at the toe of the structure and an equivalent slope term. As the reef environment can often be described as a very flat and shallow lagoon seaward of the shoreline, the Altomare formula can potentially be adopted to predict the overtopping discharge on smooth revetments in reef environments, but this has yet to be tested.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8720</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.80</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.80</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8720/7522</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8720/8089</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

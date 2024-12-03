@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8393</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUBMARINE MASS FAILURE: WAVE GENERATION BY GRANULAR SLIDES</dc:title>
+	<dc:creator xml:lang="en">Evers, Frederic M.</dc:creator>
+	<dc:creator xml:lang="en">Fuchs, Helge</dc:creator>
+	<dc:creator xml:lang="en">Vetsch, David</dc:creator>
+	<dc:creator xml:lang="en">Boes, Robert M.</dc:creator>
+	<dc:description xml:lang="en">Submarine mass failures (SMF) are a potential source of hazardous tsunamis. While the link between seismic events and the magnitude of tsunami waves has been extensively studied and corresponding approaches are included in numerical tsunami warning models, the basic implementation of SMF generated waves is subject to ongoing research. In this context, laboratory experiments are essential for the validation of numerical schemes. Most experimental studies apply rigid slide models whereas only few include granular slides (e.g. Watts 1997, Ataie-Ashtiani &amp; Najafi-Jilani 2008, Grilli et al. 2017). The objective of this study is to gain a better insight into the hydraulic processes related to wave generation by submarine granular slides based on experiments as well as establishing a comprehensive data set for the validation of numerical models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8393</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8393/7201</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8393/7857</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4060</identifier>
+				<datestamp>2021-01-19T20:09:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PRACTICAL METHOD FOR EVALUATION DIRECTIONAL SPECTRA AFTER SHOALING AND REFRACTION</dc:title>
+	<dc:creator xml:lang="en">Tang, Frederick L.W.</dc:creator>
+	<dc:creator xml:lang="en">Lin, C.F.</dc:creator>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">wave spectra</dc:subject>
+	<dc:subject xml:lang="en">directional spectra</dc:subject>
+	<dc:subject xml:lang="en">spectra evaluation</dc:subject>
+	<dc:description xml:lang="en">Different Methods have been developed to calculate the deformation of spectrum as waves advance to the shallow water. Wave ray method is a traditional way to compute the change of wave ray after refraction. It is restricted to the regular wave. After slicing the linear spectrum, a lot of components of spectrum can be gained, and each component can be considered as a monochromatic wave. And then after the deformed components are worked out at the same point in sea, a deformed spectrum in shallow water is gained by summing up them. Therefore the wave ray method could be extended to the irregular wave in ocean. In real bathymetry, the difficulty in applying such method is to solve the wave ray which must pass through the assigned point. In this paper, calculation approach as well as computer program are contrived to adopted in real bathymetry. The results of computation reveal some significant characteristics of directional spectra in shallow water. Furthermore, the statistical features of waves at the point of interest are to be evaluated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4060</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4060/3742</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

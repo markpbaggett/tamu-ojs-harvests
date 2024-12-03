@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2000</identifier>
+				<datestamp>2021-01-17T06:52:58Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE KELVIN-HELMHOLTZ INSTABILITY OF WAVES ON THE SURFACE OF THE SEA</dc:title>
+	<dc:creator xml:lang="en">Francis, J.R.D.</dc:creator>
+	<dc:subject xml:lang="en">wind-generated waves</dc:subject>
+	<dc:subject xml:lang="en">Kelvin Helmholtz instability</dc:subject>
+	<dc:subject xml:lang="en">wave growth</dc:subject>
+	<dc:description xml:lang="en">The initiation of waves on the sea's surface by wind has been a subject of interest for many years. There are two ways in which a wave can become unstable and grow. The first is that investigated by Kelvin and Helmholtz many years ago: both air and water are assumed perfect fluids and, if a wave is to grow, the upward force due to the reduction of pressure on the wave crests is greater than the weight of the wave. The pressure reduction is due to the local acceleration of the wind over the wave.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1954-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2000</dc:identifier>
+	<dc:identifier>10.9753/icce.v5.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 5 (1954): Proceedings of 5th Conference on Coastal Engineering, Grenoble, France, 1954.; 2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2000/1670</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

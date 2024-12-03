@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4297</identifier>
+				<datestamp>2021-01-19T18:48:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CALCULATION OF ON-OFFSHORE SAND MOVEMENT AND WAVE DEFORMATION ON TWO-DIMENSIONAL WAVE-CURRENT COEXISTENT SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Kinose, Koichi</dc:creator>
+	<dc:creator xml:lang="en">Okushima, Shuji</dc:creator>
+	<dc:creator xml:lang="en">Tsuru, Masahito</dc:creator>
+	<dc:subject xml:lang="en">crossshore transport</dc:subject>
+	<dc:subject xml:lang="en">wave deformation</dc:subject>
+	<dc:subject xml:lang="en">2D system</dc:subject>
+	<dc:description xml:lang="en">In this paper, we proposed a method of calculation to predict quantitatively the on-offshore sand movement and the wave deformation on a wave-current coexistent system by assuming a river mouth. And the calculated results were compared with the experimental data obtained for the coexistent system in a twodimensional wave tank. The distribution of wave height on the breaker zone was analyzed by use of BORE MODEL. It was required for the calculation of the sand transport rate. The model was established on the assumption that the value of energy loss in a breaking wave was equivalent to that of bore. The wave height distribution on the offshore side of breaking point was presumed employing the third order approximate solution of Stokian wave on the coexistent system. The breaking point was obtained by use of Miche's criteria equation. The local sand transport rate could be calculated by use of POWER MODEL. The predominant direction of sand drift was recognized using relations for judgement which were derived from the experimental results. The transformation of sea bottom and river one was estimated on the basis of the calculated distributions of the wave height and the sand transport rate. The results obtained by this analytical method agreed well with the experimental results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4297</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.90</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 90</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4297/3978</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

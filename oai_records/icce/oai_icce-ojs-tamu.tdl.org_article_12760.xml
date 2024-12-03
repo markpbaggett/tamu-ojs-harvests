@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12760</identifier>
+				<datestamp>2023-09-01T15:12:55Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHANNEL WAVE REFRACTION EFFECT ON MOORED LNG CARRIERS</dc:title>
+	<dc:creator xml:lang="en">Molen, Wim van der</dc:creator>
+	<dc:creator xml:lang="en">Garber, Sean</dc:creator>
+	<dc:creator xml:lang="en">Zed, Matthew</dc:creator>
+	<dc:creator xml:lang="en">Flynn, Jan</dc:creator>
+	<dc:description xml:lang="en">The Karratha Gas Plant (KGP), operated by Woodside, is located in Mermaid Sound on the North West Shelf of Australia and contains three loading jetties in open water. Mermaid Sound is protected from swells from the Southern Indian Ocean by several islands to the west. As a result, swells enter the Sound from the north. The bathymetry in the Sound is relatively flat but waves refract along the slopes of the navigation channel to the KGP terminal. A single uni-directional swell spectrum close to the alignment of the channel was previously assumed to assess the moorings and agreed well with measured mooring line forces (Van der Molen et al., 2003). However, after the Pluto LNG Plant was developed to the south-west of KGP and operated with a dedicated channel, more westerly waves were observed by local pilots. Such waves were not consistently captured at the wave buoy that is permanently deployed near the terminal and so were not easily characterised. The objective of the study described in this paper was to determine the origin of these westerly waves and the effect on the vessel’s response at berth.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12760</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12760/12033</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Wim van der Molen, Sean Garber, Matthew Zed, Jan Flynn</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

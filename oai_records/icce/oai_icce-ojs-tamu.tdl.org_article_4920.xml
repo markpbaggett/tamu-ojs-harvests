@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4920</identifier>
+				<datestamp>2021-01-19T15:15:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VORTEX TRAIN IN AN OFFSHORE ZONE</dc:title>
+	<dc:creator xml:lang="en">Matsunaga, Nobuhiro</dc:creator>
+	<dc:creator xml:lang="en">Takehara, Kosei</dc:creator>
+	<dc:subject xml:lang="en">offshore zone</dc:subject>
+	<dc:subject xml:lang="en">vortex</dc:subject>
+	<dc:subject xml:lang="en">vortex train</dc:subject>
+	<dc:description xml:lang="en">A row of vortices forms in an offshore zone when twodimensional regular surface waves run up on a sloping flat bed. It is called the offshore vortex train. The vortices begin to appear near a breaking point. Moving in the offshore direction, they develop and increase their horizontal length scale through the vortex merging. The vortex train forms due to the shear instability between onshore and offshore drift-currents. After reaching a location of the offshore side, however, they decay rapidly because of the decrease of shear strain rate between the drift-currents. The formation region has been investigated on the basis of visual experiments for three bed slopes. The formation does not depend on the type of wave breaking but is observed when the steepness of deep water waves is smaller than 4.2x 10"2. The horizontal length scale of the vortices and the velocity of the vortex movement have also been evaluated empirically.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4920</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4920/4601</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

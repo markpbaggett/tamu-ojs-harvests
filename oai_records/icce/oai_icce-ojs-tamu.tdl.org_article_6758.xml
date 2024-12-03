@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6758</identifier>
+				<datestamp>2023-10-04T02:23:35Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROPERTIES OF FREAK WAVES INDUCED BY TWO KINDS OF NONLINEAR MECHANISMS</dc:title>
+	<dc:creator xml:lang="en">Tao, Aifeng</dc:creator>
+	<dc:creator xml:lang="en">Zheng, Jinhai</dc:creator>
+	<dc:creator xml:lang="en">Chen, Botao</dc:creator>
+	<dc:creator xml:lang="en">Li, Hui</dc:creator>
+	<dc:creator xml:lang="en">Peng, Ji</dc:creator>
+	<dc:subject xml:lang="en">freak waves</dc:subject>
+	<dc:subject xml:lang="en">nonlinear mechanism</dc:subject>
+	<dc:subject xml:lang="en">wave-wave interaction</dc:subject>
+	<dc:subject xml:lang="en">modulation instability</dc:subject>
+	<dc:subject xml:lang="en">wave group interaction</dc:subject>
+	<dc:description xml:lang="en">We investigate the dynamic and kinematic characteristics of freak waves using a direct phase-resolved nonlinear numerical method. The focus is on the understanding of the effects of different nonlinear wave-wave interactions on freak waves development and characteristics in the evolution process of modulated Stokes wave trains. Long time simulations of modulated Stokes wave trains, with different parameters, are obtained. Based on these simulations, we find that there are different kinds of freak waves in different time scales due to two kinds of different nonlinear mechanisms. One is the modulation instability and another related to the wave group interaction. Both the dynamic and kinematic characteristics of the different kinds of freak waves are distinct. Occurrence of freak waves (especially of large height) is usually correlated with broadband wave spectra.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6758</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6758/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

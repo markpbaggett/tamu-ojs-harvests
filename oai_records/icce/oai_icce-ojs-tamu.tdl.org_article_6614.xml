@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6614</identifier>
+				<datestamp>2023-10-04T03:12:05Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSING SHORELINE CHANGE USING SATELLITE-DERIVED SHORELINES IN PROGRESO, YUCATÁN, MÉXICO</dc:title>
+	<dc:creator xml:lang="en">Garcia-Rubio, Gabriela</dc:creator>
+	<dc:creator xml:lang="en">Huntley, David</dc:creator>
+	<dc:creator xml:lang="en">Russsell, Paul</dc:creator>
+	<dc:subject xml:lang="en">coastal monitoring</dc:subject>
+	<dc:subject xml:lang="en">satellite optical images</dc:subject>
+	<dc:subject xml:lang="en">coastal erosion</dc:subject>
+	<dc:subject xml:lang="en">coastal management</dc:subject>
+	<dc:description xml:lang="en">Assessment of shoreline change during a six-year period using Satellite-Derived Shorelines (SDS) was carried out in Progreso, Yucatán, México. Confidence bounds for the SDS were defined based on the deviation between quasi-simultaneous in situ shoreline measurements and SDS. The main objective of this paper is to show that optical satellite images are a valuable resource to study shoreline change covering large geographical scales (&gt;10km), as well as short (5 years) temporal scales. This approach can be particularly useful for those areas with a lack of shoreline records. The results presented here show that detection of differences between seasons and years is achievable using SDS. Furthermore, rates of change are also possible to assess.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6614</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.79</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.79</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6614/pdf_602</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

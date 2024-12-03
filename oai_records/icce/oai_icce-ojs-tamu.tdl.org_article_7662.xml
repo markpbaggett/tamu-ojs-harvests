@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7662</identifier>
+				<datestamp>2021-01-20T04:15:37Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A COASTAL AREA MODEL CONSIDERING SAND NOURISHMENT PROCESS</dc:title>
+	<dc:creator xml:lang="en">Kuroiwa, Masamitsu</dc:creator>
+	<dc:creator xml:lang="en">Shibutani, Yoko</dc:creator>
+	<dc:creator xml:lang="en">Matsubara, Yuhei</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">beach nourishment</dc:subject>
+	<dc:subject xml:lang="en">morphodynamic</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:description xml:lang="en">This paper presents a 3 D morphodynamic model with shoreline change based on quasi-3D nearshore current model. In this model, sand nourishment process with sand dredging and charging was newly considered. First, in order to investigate the performance the present model, it is applied to the prediction of 3D beach evolution with sand bypassing system around a model port and sand recycling system between two groins. Secondly, the developed model was applied to morphodynamics after sand nourishment in a sand recycle project conducted Kaike Coats, Tottori,Japan. Finally, the applicability of the model was investigated and discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7662</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7662/pdf_853</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

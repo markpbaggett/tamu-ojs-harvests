@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2391</identifier>
+				<datestamp>2021-01-17T05:19:48Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEA TESTS OF A SPREAD-MOORED LANDING CRAFT</dc:title>
+	<dc:creator xml:lang="en">O'Brien, J.T.</dc:creator>
+	<dc:creator xml:lang="en">Muga, B.J.</dc:creator>
+	<dc:subject xml:lang="en">spread moored</dc:subject>
+	<dc:subject xml:lang="en">landing craft</dc:subject>
+	<dc:subject xml:lang="en">sea test</dc:subject>
+	<dc:description xml:lang="en">Sea tests of motion and mooring force were conducted on an LST (Landing Ship Tank) of about 44O0 long tons displacement. The LST was spread-moored by six 2-1/16 inch and one 1-1/4 inch (port breast) stud-link chains in simple catenary configuration in about 45 feet of water in the open Gulf of Mexico about 65 air miles south of New Orleans, Louisiana. Water-level variations at a single location, ship rotations and accelerations, mooring force, and wind were measured in sea states of 2 and 4. Three recordings of 38, 62, 67 minutes duration were analyzed, using timeseries techniques to provide apparent amplitude-response operators for all of the ship's motions and seven mooring chains. Theoretical prediction of the operators using long crested regular waves was made also. In longitudinal plane, theory predicts motions 1/3 to 4 times and chain tensions 1/4 to 9 times those measured. The most probable maximum-motion amplitude responses in sea state 4 are found to be 1.7, 1.1, and 1.7 feet, respectively, in surge, sway and heave, and 3.4 and 0.5 degrees, respectively in pitch and yaw. Roll was measured only in sea-state 2 with a corresponding maximum of 2.1 degrees. Maximum wave-induced chain tensions in kips were: 85.1 and 48.0 in port and starboard bow chains respectively; 10.6 (sea state 2) and 19.7 in port and starboard breast chains; 13.9 and 4.3 in port and starboard quarter chains (sea state 2) and 9.7 in stem chain. Total tension in port bow chain was 116.1 kips (85.1 plus initial tension of 31.0 kips). Chain response operators vary directly with initial tension, whicl complicates design. It is concluded that: (i) moor was unbalanced, i.e., port bow chain took most of load; (ii) chains loaded lightly, e.g., maximum wave induced tension was 116 kips compared to new proof load of 300 kips for the particular chain, the port bow; (iii) water level should be measured at more than one point; (iv) discouragement over differences is balanced by encouragement over agreements between measurements and theoretical prediction of motion and chain tension; (v) toward improvement: Theory needs extension to include short crested waves and barge types; (vi) initial tension unique to problem of mooring design; (vii) propulsion devices may be needed toward maintaining design initial tension, especially in storm; (viii) if directional spectra had been measured and if theory involving short crested waves had been available and used, then discrepancies between observation and theory likely would have been less.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1964-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2391</dc:identifier>
+	<dc:identifier>10.9753/icce.v9.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 9 (1964): Proceedings of 9th Conference on Coastal Engineering, Lisbon, Portugal, 1964.; 47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2391/2066</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

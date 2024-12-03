@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4164</identifier>
+				<datestamp>2021-01-19T19:34:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A UNIQUE INSTRUMENTATION SCHEME FOR MEASURING LOADS IN MODEL DOLOS UNITS</dc:title>
+	<dc:creator xml:lang="en">Scott, R.D.</dc:creator>
+	<dc:creator xml:lang="en">Turcke, D.J.</dc:creator>
+	<dc:creator xml:lang="en">Baird, W.F.</dc:creator>
+	<dc:subject xml:lang="en">instrumentation scheme</dc:subject>
+	<dc:subject xml:lang="en">load measurement</dc:subject>
+	<dc:subject xml:lang="en">dolos</dc:subject>
+	<dc:subject xml:lang="en">model dolos</dc:subject>
+	<dc:description xml:lang="en">An instrumentation scheme for the measurement of the structural response of dolos units in a physical model due to static and quasistatic forces is presented. This was achieved by the development of a specialized armour unit "load cell". The load cell was tested under a variety of loading conditions ranging from static point loads to the complex forces arising from simulated prototype wave action. In the final stage of testing, a model breakwater was constructed and analyzed. The results of these tests demonstrated the accuracy of the developed instrumentation and the feasibility of its use for measurements conducted in physical models. Knowledge of the structural response of armour units in the breakwater environment may be incorporated into an improved overall design procedure for armour units that considers both the hydraulic stability and the structural integrity of the individual units.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4164</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.163</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 163</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4164/3845</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

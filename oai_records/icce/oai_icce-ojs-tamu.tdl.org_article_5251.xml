@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5251</identifier>
+				<datestamp>2021-01-19T13:22:59Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NONLINEAR MODEL FOR WAVE PROPAGATION</dc:title>
+	<dc:creator xml:lang="en">Tsay, Ting-Kuei</dc:creator>
+	<dc:creator xml:lang="en">Liu, Philip L.F.</dc:creator>
+	<dc:creator xml:lang="en">Wu, Nan-Jing</dc:creator>
+	<dc:subject xml:lang="en">nonlinear model</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:description xml:lang="en">Employing the Hamitonian theory, the canonical equations of water waves is used to derive a nonlinear model. In this paper, a unified nonlinear model for water wave propagation is presented. This model can be simplified to the mild-slope equation in the linear case. It is consistent with Stokes wave theory when water depth is deep and reduces to an equation of Boussinesq's type in shallow waters. Results of numerical computations of nonlinear water waves propagating over a submerged bar and a rectangular step are also presented in one-dimensional case. Nonlinear behaviors of water waves are captured, but further works are needed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5251</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5251/4929</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

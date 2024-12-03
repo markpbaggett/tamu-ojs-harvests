@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3006</identifier>
+				<datestamp>2021-01-20T02:14:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE TRANSMISSION THROUGH VERTICAL SLOTTED WALLS</dc:title>
+	<dc:creator xml:lang="en">Grune, Joachim</dc:creator>
+	<dc:creator xml:lang="en">Kohlhase, Soren</dc:creator>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">slotted wall</dc:subject>
+	<dc:description xml:lang="en">This paper deals with the wave transmission through a vertical slotted wall. In an experimental study the transmission coefficient has been investigated as a function of the shape of the wall elements (rectangular shape and H-beam shape), of the ratio of solid wall to total wall length (wall-element ratio) and of the wave approach direction. The test results for a wave direction perpendicular to the wall are compared with previous investigations and theoretical derivations. For an oblique wave approach the test results are described by a semi-empirical formula. This formula, combined with a theoretical solution for perpendicular wave approach is used to describe the transmission coefficient for any angle of wave approach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3006</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.111</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 111</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3006/2671</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

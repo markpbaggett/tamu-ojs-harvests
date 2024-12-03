@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8228</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF SMOOTHED PARTICLE HYDRODYNAMICS (SPH) IN NEARSHORE MIXING: A COMPARISON TO LABORATORY DATA</dc:title>
+	<dc:creator xml:lang="en">Abolfathi, Soroush</dc:creator>
+	<dc:creator xml:lang="en">Pearson, Jonathan</dc:creator>
+	<dc:subject xml:lang="en">WCSPH</dc:subject>
+	<dc:subject xml:lang="en">Dispersion</dc:subject>
+	<dc:subject xml:lang="en">Diffusion</dc:subject>
+	<dc:subject xml:lang="en">nearshore mixing</dc:subject>
+	<dc:subject xml:lang="en">LDA</dc:subject>
+	<dc:description xml:lang="en">A weakly compressible smoothed particle hydrodynamics (WCSPH) method is used to simulate the nearshore flow hydrodynamics. The wave induced dispersion and diffusion are determined for monochromatic waves with significant wave height of 0.12 m and the wave period of 1.2 sec (Sop=5%) based on WCSPH wave dynamics. The hydrodynamics of WCSPH model are compared to the laboratory results obtained from series of LDA measurements. The overall mixing coefficients across the nearshore are determined from WCSPH hydrodynamics. The mixing coefficients obtained are compared with the values determined from a series of fluorometric studies performed in a large-scale facility in DHI, Denmark. The results show that the wave profiles are in good agreement with the experimental data. The WCSPH model is proven to be well capable of estimating the dispersion across the nearshore.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8228</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8228/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

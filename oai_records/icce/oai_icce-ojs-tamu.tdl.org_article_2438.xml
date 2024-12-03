@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2438</identifier>
+				<datestamp>2021-01-17T05:08:06Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DYNAMICS OF WIND IN THE VICINITY OF PROGRESSIVE WAVES</dc:title>
+	<dc:creator xml:lang="en">Shemdin, Omar H.</dc:creator>
+	<dc:creator xml:lang="en">Hsu, En Yun</dc:creator>
+	<dc:subject xml:lang="en">wind dynamics</dc:subject>
+	<dc:subject xml:lang="en">progressive waves</dc:subject>
+	<dc:subject xml:lang="en">pressure distribution</dc:subject>
+	<dc:description xml:lang="en">This paper presents a fundamental study of the dynamics of wind in the vicinity of progressive water waves. The normal pressure distribution and the structure of the velocity profile immediately above progressive water waves are investigated. A wind-wave facility 115 feet long, 74J4 inches high, and 35^ inches wide is used which is equipped with an oscillatmg-plate wave generator. Velocities up to 80 fps can be obtained at a nominal water depth of 3 feet. An oscillating device (or wave follower) was designed and built, on which a pressure sensor could be mounted and could be held at a fixed distance (within % inch) above progressive water waves at all times. The results indicate that a pressure shift does exist as predicted by Miles [1957] within the assumptions of the theory. Furthermore, the results demonstrate clearly the importance of using a pressure sensor which follows the water surface in obtaining meaningful pressures at the air-water interface. Mean velocity profiles with and without mechanically generated waves were obtained. Contrary to what is normally assumed, the results indicate that the boundary layer in the vicinity of water waves is affected by the presence of waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2438</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2438/2104</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

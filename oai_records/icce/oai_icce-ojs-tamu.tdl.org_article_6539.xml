@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6539</identifier>
+				<datestamp>2023-10-04T03:23:02Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL FLOODING RISK AND ADAPTATION TO CLIMATE CHANGE IN BELGIUM</dc:title>
+	<dc:creator xml:lang="en">Verwaest, Toon</dc:creator>
+	<dc:creator xml:lang="en">Dan, Sebastian</dc:creator>
+	<dc:creator xml:lang="en">Reyns, Johan</dc:creator>
+	<dc:creator xml:lang="en">Meire, Ellen</dc:creator>
+	<dc:creator xml:lang="en">Mertens, Tina</dc:creator>
+	<dc:creator xml:lang="en">Gysens, Stefaan</dc:creator>
+	<dc:subject xml:lang="en">coastal flooding</dc:subject>
+	<dc:subject xml:lang="en">risk</dc:subject>
+	<dc:subject xml:lang="en">belgium</dc:subject>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:description xml:lang="en">A master plan to strengthen the weak links in the coastal defence line in the Belgium is established based on coastal flooding risk calculations. This plan takes into account an average climate change scenario to be expected in the coming decades until 2050, namely an increase of surge levels of 30 cm. More long term climate change scenarios were also investigated. A worst credible extreme scenario for the 21st century change of the hydrometeorological North Sea climate was defined, with a mean sea level rise of 2 m combined with a 8% increase of extreme wind speeds. Alternative measures to manage coastal flooding risks under such climate scenario were studied to find robust measures to adapt coastal protection to climate change until 2100. The Belgian coastal zone is low-lying, highly populated and it is very vulnerable to increased coastal flooding risks by climate change. 
+The methodology for the coastal flooding risk calculations is based on a chain of numerical models describing characteristics of storm surges with different return periods approaching the coastal defences, the failure behaviour of these defences, the hydraulics of flooding in case of failure by breaching, overflow or overtopping of the defences and finally a GIS-based damage and casualties module adopted for use within Flanders region based on available detailed GIS-data on people and assets.
+The rate of increase of coastal flooding risks for different climate change scenarios is quantified using a simplified version of the chain of models described above. This generalised model chain was validated by comparing with the results of the detailed model chain for the anno 2000 case. However, flooding paths via the coastal harbours as well as local risks on top of the sea dikes in the coastal towns were disregarded in the simplified model. As a consequence the results on climate change sensitivity are limited in scope to the risks associated with breaching of the sea dikes and dunes. The calculation results show a dramatic increase of the coastal flooding risks due to breaches during 21st century. For an average climate change scenario, with an increase of surge levels by 0.8 m, the risks increase by a factor 10. For the worst credible climate change scenario, with an increase of surge levels by 2.4 m, the risks increase by a factor 100.  
+Existing coastal defences in the Belgian coastal zone are relatively low-crested compared with surge levels. This fact increases the vulnerability of this coastal zone to climate change, as was shown by the coastal flood risk calculation results. Different adaptation measures to manage these increasing risks were compared. Based on their effectiveness to reduce risks as well as estimates of costs for implementation it was concluded that efficient adaptation measures consist of heightening and/or widening the existing dunes, sea dikes and beaches. Future research will investigate which adaptation measures can be developed in the coastal harbours for maintaining safety against flooding under climate change.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6539</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6539/pdf_539</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

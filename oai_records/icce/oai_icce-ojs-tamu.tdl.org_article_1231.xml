@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1231</identifier>
+				<datestamp>2023-10-04T03:58:41Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON BASIC CONDITIONS FOR LONG-WAVE SIMULATIONS IN HARBORS BY THE BOUSSINESQ MODEL</dc:title>
+	<dc:creator xml:lang="en">Ota, Kazuyuki</dc:creator>
+	<dc:creator xml:lang="en">Yoshida, Akinori</dc:creator>
+	<dc:creator xml:lang="en">Yamashiro, Masaru</dc:creator>
+	<dc:creator xml:lang="en">Nishii, Yasuhiro</dc:creator>
+	<dc:subject xml:lang="en">long-period ship motions</dc:subject>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq model</dc:subject>
+	<dc:subject xml:lang="en">harbor oscillations</dc:subject>
+	<dc:description xml:lang="en">For wave field calculations to estimate long-period ship motions in harbors, the so-called Boussinesq model seems to be widely used because of its versatility. However, it has not yet been clarified how large the sponge layer should be to simulate an open-sea condition, how long the computation should be continued to obtain a statistically stable spectrum, and what size of computational area should be considered. In this study, these basic conditions were investigated by conducting wave field simulations using the Boussinesq model. Useful information was obtained such as: (1) the thickness of the sponge layer can be much less than the thickness expected from one-dimensional calculations, (2) the data length to obtain a stable spectrum needs to be much longer than statistically expected 3 to 5 hours, and this is because the beat waves are produced by selectively amplified component waves near resonant frequencies in harbors.(3) the size of the computational area does not affect the results greatly and the distance 3 km between the end of the breakwater and the lateral sponge boundary is practically sufficient for the harbor mouth opening.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1231</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1231/pdf_254</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

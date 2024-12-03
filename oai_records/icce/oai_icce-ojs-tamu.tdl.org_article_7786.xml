@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7786</identifier>
+				<datestamp>2021-01-20T04:03:03Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF NUMERICAL MODELS FOR WAVE OVERTOPPING AND IMPACT ON A SEA WALL</dc:title>
+	<dc:creator xml:lang="en">Vanneste, Dieter F.A.</dc:creator>
+	<dc:creator xml:lang="en">Altomare, Corrado</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:creator xml:lang="en">Verwaest, Toon</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">sea wall</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">wave impact</dc:subject>
+	<dc:subject xml:lang="en">validation</dc:subject>
+	<dc:subject xml:lang="en">wave flume experiment</dc:subject>
+	<dc:description xml:lang="en">The paper discusses three different numerical models in a study of wave overtopping and impact on a sea wall. The models used are SWASH (based on the nonlinear shallow water equations), DualSPHysics and FLOW-3D (both based on the full Navier-Stokes equations). The models are validated against experimental measurements in a setup with a quay wall and berm in front of the sea wall. The two models based on the full Navier-Stokes equations provide good estimates of the wave impact on the sea wall. Moreover, reasonable agreement with experimental values of averaged overtopping discharges was found for the full test time series simulated with FLOW-3D. Notwithstanding the SWASH model provides reasonable estimates for the wave overtopping on a simple quay wall, at a significantly lower computational cost than the other two models, it clearly underrates the overtopping discharge in the case of a combination of a quay wall, berm and sea wall. Further investigation is needed to draw conclusions on the model accuracy of SWASH in such a case.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7786</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7786/pdf_893</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

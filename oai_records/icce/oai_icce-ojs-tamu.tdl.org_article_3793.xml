@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3793</identifier>
+				<datestamp>2021-01-19T21:43:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF STORM SURGES BY MULTI-LEVEL MODELS</dc:title>
+	<dc:creator xml:lang="en">Yamashita, Takao</dc:creator>
+	<dc:creator xml:lang="en">Tsuchiya, Yoshito</dc:creator>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">multi-level model</dc:subject>
+	<dc:subject xml:lang="en">surge model</dc:subject>
+	<dc:description xml:lang="en">The numerical simulation of storm surges in shallow bays is investigated by multi-level models such as the 2-level and FE-FD models which are used to consider the velocity profiles in wind-induced currents. These models were applied to hindcast the storm surge caused by Typhoon 7916 in Osaka Bay with the result that the water surface elevations and currents induced by the storm surge were successfully simulated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3793</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3793/3476</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

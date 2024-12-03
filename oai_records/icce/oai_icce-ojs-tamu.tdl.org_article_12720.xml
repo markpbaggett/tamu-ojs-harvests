@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12720</identifier>
+				<datestamp>2023-09-01T15:12:34Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIGNIFICANT WAVE HEIGHT PREDICTION USING TRANSFER LEARNING</dc:title>
+	<dc:creator xml:lang="en">Obara, Yuki</dc:creator>
+	<dc:creator xml:lang="en">Nakamura, Ryota</dc:creator>
+	<dc:description xml:lang="en">Wave prediction needed for maritime construction is generally performed by numerical models. This method, however, requires a high-performance computer and a large cost of computational resources. With the development of neural networks, which can compute at a low cost, the use of neural networks in wave prediction has recently been studied. However, because a large amount of training data is required for neural network tasks using scarce datasets, it is difficult to predict wave conditions accurately. Fan et al. (2020) reported that using LSTM model for prediction of significant wave height (Hs) was higher accuracy than conventional neural network model. Additionally, they recommended using at least 2 years of training data for 6h predictions, that is, an excessively small amount of data is not presumed to predict sufficiently Hs. Therefore, we propose a wave prediction method using transition learning. Transfer Learning is the method of transferring trained knowledge from one model to another. In this study, we investigate whether transfer learning can be used to improve the performance of Hs prediction by transferring the knowledge learned at Sakata port, which has a large amount of training data, to the coast of Yamagata, which has a scarce one.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12720</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12720/11993</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Yuki Obara, Ryota Nakamura</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

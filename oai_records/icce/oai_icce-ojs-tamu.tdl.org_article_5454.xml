@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5454</identifier>
+				<datestamp>2021-01-19T12:15:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MATHEMATICAL MODELS FOR WAVES AND BEACH PROFILES IN SURF AND SWASH ZONES</dc:title>
+	<dc:creator xml:lang="en">Watanabe, Akira</dc:creator>
+	<dc:creator xml:lang="en">Dibajnia, Mohammad</dc:creator>
+	<dc:subject xml:lang="en">mathematical model</dc:subject>
+	<dc:subject xml:lang="en">beach profile</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:description xml:lang="en">The paper presents mathematical models for wave deformation and for beach profile change in the surf and swash zones. Boussinesq-type equations including a breaker-induced energy dissipation term (Watanabe et al., 1994) is extended to the swash zone by introducing a periodically moving shoreward boundary. Computation is made on the wave deformation on constant slope beaches, particularly on the runup and run-down heights as well as the wave heights at the still water shoreline, which are compared with existing formulas. Beach profile change is computed with the sediment transport rate formula proposed by Dibajnia and Watanabe (1992) after a further generalization, together with Lagrangian treatment for the sediment motion in the swash zone, using the near-bottom velocity obtained from the wave computation. The validity of the models is examined through comparisons with measurement data obtained in large wave flume experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5454</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5454/5130</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

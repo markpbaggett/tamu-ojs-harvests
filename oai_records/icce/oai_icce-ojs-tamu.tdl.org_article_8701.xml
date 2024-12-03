@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8701</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FULLY NONLINEAR MODELING OF NEARSHORE WAVE PROPAGATION INCLUDING THE EFFECTS OF WAVE BREAKING</dc:title>
+	<dc:creator xml:lang="en">Papoutsellis, Christos E.</dc:creator>
+	<dc:creator xml:lang="en">Yates, Marissa L.</dc:creator>
+	<dc:creator xml:lang="en">Simon, Bruno</dc:creator>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:description xml:lang="en">Nearshore wave modeling over spatial scales of several kilometers requires balancing the fine-scale modeling of physical processes with the model's accuracy and efficiency. In this work, a fully nonlinear potential flow model is proposed as a compromise between simplified linear, weakly nonlinear or weakly dispersive models and direct CFD approaches. The core of present approach is the use of a series representation for the velocity potential. This series contains prescribed vertical functions and allows the determination of the velocity potential in terms of unknown horizontal functions. The resulting dimensionally reduced model retains the structure of the Hamiltonian water wave system Zakharov (1968), Craig &amp; Sulem (1993), avoiding the solution of the Laplace problem for the potential. Instead, a numerically convenient linear system of horizontal equations needs to be solved at each step in the temporal evolution. No simplifications concerning the deformation of the physical boundaries are introduced, apart from the typical requirement of a smooth, non-overturning free surface and seabed. The main limitation of this formulation is its inability to account for wave breaking. The treatment of this process is the subject of the present work. Two different techniques are implemented in the present model. Simulation results are compared to laboratory measurements for two test cases: (1) shoaling and breaking of regular waves over a barred bathymetry Beji &amp; Battjes (1993) and (2) shoaling and breaking of regular waves on a plane beach Ting &amp; Kirby (1994).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8701</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8701/7504</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

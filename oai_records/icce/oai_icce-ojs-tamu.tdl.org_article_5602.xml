@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5602</identifier>
+				<datestamp>2021-01-19T11:25:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE HORIZONTAL EDDIES IN THE OFFSHORE ZONE</dc:title>
+	<dc:creator xml:lang="en">Li, Li</dc:creator>
+	<dc:creator xml:lang="en">Dalrymple, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">offshore zone</dc:subject>
+	<dc:subject xml:lang="en">eddy</dc:subject>
+	<dc:subject xml:lang="en">horizontal eddy</dc:subject>
+	<dc:description xml:lang="en">The mean flow outside the surf zone can be unstable and form a train of submerged vortices, which migrate slowly in the offshore direction, as discovered by Matsunaga , Takehara &amp; Awaya (1988, 1994). Li and Dalrymple (1998) conducted large scale experiments and a numerical study. They showed that two layers of vortices could exist over the water depth. Eddies near the water surface rotated in the opposite direction of eddies at mid-depth. For example, for the surface wave propagating to the right, the rotation direction of eddies near mid-depth was counterclockwise, while the rotation direction of eddies near surface was clockwise. The vortices decay offshore where there was no shear layers over water depth. Experimental and numerical studies show the velocity of long time scale vortical motion is uniform over water depth and is much slower than the undertow. A theoretical analysis showes that the stresses due to turbulence and wave serve as the source of the vorticity and this vortex train is formed by the shear instabilities of the mean flow in the cross-shore direction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5602</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5602/5274</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

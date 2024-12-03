@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3839</identifier>
+				<datestamp>2021-01-19T21:26:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOUNDARY CONDITIONS FOR LIMITED AREA MODELING</dc:title>
+	<dc:creator xml:lang="en">Sheng, Y.P.</dc:creator>
+	<dc:creator xml:lang="en">Butler, H. Lee</dc:creator>
+	<dc:subject xml:lang="en">boundary conditions</dc:subject>
+	<dc:subject xml:lang="en">limited area modeling</dc:subject>
+	<dc:description xml:lang="en">A simple open boundary condition for limiting the computational domain in tidal simulations is presented. In modeling the impact of proposed coastal projects with a limited-area model, problems due to undesired reflection of gravity waves at open boundaries often occur. The boundary condition presented herein eliminates these problems in many instances and can be easily incorporated into a wide variety of models. The adapted procedure permits representation of appropriate forcing conditions while allowing propagation of internally-generated disturbances out of the open boundaries. Applications to real world engineering problems are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3839</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3839/3522</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

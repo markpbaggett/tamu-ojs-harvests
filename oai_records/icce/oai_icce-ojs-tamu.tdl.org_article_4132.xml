@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4132</identifier>
+				<datestamp>2021-01-19T19:45:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF STATISTICAL CHARACTERISTICS OF IRREGULAR WAVE PRESSURE ON A COMPOSITE BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Chang, Chien-Kee</dc:creator>
+	<dc:creator xml:lang="en">Hwang, Ching-Her</dc:creator>
+	<dc:subject xml:lang="en">composite breakwater</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">wave pressure</dc:subject>
+	<dc:subject xml:lang="en">statistical characteristics</dc:subject>
+	<dc:description xml:lang="en">Wave pressure is the most important external force for the design of breakwater. During recent years, there has been considerable development in the technology of vertical face breakwater; however, there is no reliable method to compute wave forces induced by irregular waves. The purpose of this study is to obtain statistical characteristics of irregular wave pressure distribution from the data of model tests. The results of this study shown that vertical face breakwater under the action of irregular waves, some waves are reflected, so that the next wave breaks a critical distance resulting in a rapidly rising shock pressure on the breakwater. On the average, the wave pressure increase with incoming wave height, but the maximum wave force does not necessarily occur for the largest wave height. It can be occurred for serval larger wave group in an appropiate phase composition. The irregular wave pressure distribution on the breakwater is quite uniform; the ratio of tested and calculated wave pressures decreases with the reduction of relative crest height of breakwater. Coda formula can predict the total horizontal force of the upper part of breakwater quite well except exetreme shock pressure occurred by non-breaking waves. Wave forces calculated by Miche-Rundgren and Nagai wave force formula are about 10% cummulated exceeding percentage of wave force obtained from model test.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4132</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.131</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 131</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4132/3813</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

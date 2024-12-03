@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8509</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL INVESTIGATION OF PLUNGING BREAKERS OVER A POROUS ARTIFICIAL SURF REEF</dc:title>
+	<dc:creator xml:lang="en">Jensen, Bjarne</dc:creator>
+	<dc:creator xml:lang="en">Geertsen, Karl-S¸ren</dc:creator>
+	<dc:creator xml:lang="en">R¸nby, Johan</dc:creator>
+	<dc:creator xml:lang="en">Mortensen, Simon B.</dc:creator>
+	<dc:description xml:lang="en">This paper presents the results of a numerical investigation of breaking waves over an artificial surf reef (ASR). In the surfing industry, it has become common to establish artificial surf reefs to enhance the surfability at popular surf locations, or to attract surfers to new locations. Besides enhancing the surfing quality, an ASR can also be seen as a submerged detached breakwater, which is a well known type of structure for coastal protection. The construction of an ASR can therefore have the additional purpose of acting as a measure for coastal protection. Hereby the ASR becomes a multi-purpose reef.
+
+In this paper, we focus on two aspects of an ASR in relation to the effect of the porous reef: 1) a general analysis of the hydrodynamics of a plunging breaker over a reef, and 2) evaluation of specific parameters for describing the surfability and safety of the plunging breaker. The novelty of the work presented lays in the detailed inclusion of the porous reef structure in a numerical model that is applied for designing and evaluating an ASR.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8509</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8509/7313</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8509/7939</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

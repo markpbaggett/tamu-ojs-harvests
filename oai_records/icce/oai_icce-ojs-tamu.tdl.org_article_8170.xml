@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8170</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPH MODELING OF VORTICITY GENERATION BY SHORT-CRESTED WAVE BREAKING</dc:title>
+	<dc:creator xml:lang="en">Wei, Zhangping</dc:creator>
+	<dc:creator xml:lang="en">Dalrymple, Robert A</dc:creator>
+	<dc:subject xml:lang="en">GPUSPH</dc:subject>
+	<dc:subject xml:lang="en">Short-crested waves</dc:subject>
+	<dc:subject xml:lang="en">Wave breaking</dc:subject>
+	<dc:subject xml:lang="en">Nearshore circulation</dc:subject>
+	<dc:subject xml:lang="en">Vertical vorticity</dc:subject>
+	<dc:subject xml:lang="en">Vortex</dc:subject>
+	<dc:description xml:lang="en">This study investigates vorticity generation by short-crested wave breaking by using the mesh-free Smoothed Particle Hydrodynamics model, GPUSPH. The short-crested waves are created by generating intersecting wave trains in a numerical wave basin with a beach. The capability of GPUSPH to simulate short-crested waves is first validated by laboratory measurements. Then we examine short-crested wave breaking with two incident wave heights H = 0.2 m and 0.3 m. The larger incident wave breaks at the toe of the planar beach, while the smaller incident wave breaks above the planar beach. The breaking wave profile, current field, nearshore circulation pattern, and vertical vorticity field due to short-crested wave breaking are carefully compared between two incident waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8170</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8170/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1243</identifier>
+				<datestamp>2023-10-04T04:33:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE SIGNIFICANCE OF WAVE REFLECTION ON THE MORPHOLOGY OF INTERTIDAL MUDFLATS</dc:title>
+	<dc:creator xml:lang="en">Chellew, Elizabeth</dc:creator>
+	<dc:creator xml:lang="en">Rossington, Kate</dc:creator>
+	<dc:creator xml:lang="en">Townend, Ian</dc:creator>
+	<dc:creator xml:lang="en">Amos, Carl</dc:creator>
+	<dc:creator xml:lang="en">Richardson, Stephen</dc:creator>
+	<dc:subject xml:lang="en">equilibrium form</dc:subject>
+	<dc:subject xml:lang="en">seawalls</dc:subject>
+	<dc:subject xml:lang="en">wave reflection</dc:subject>
+	<dc:description xml:lang="en">The influence of seawalls in modifying the equilibrium form of a shoreline has previously caused extensive debate.  A numerical model was used to predict the equilibrium form of muddy intertidal profiles, along a shoreline in Southampton Water, UK.  It was found that the profile containing a seawall had a very different profile form to the undefended sites, and that this seawall profile could not be accurately represented in the model.  The model was extended to include wave reflection from the seawall, producing a new prediction with a much improved resemblance of the observed profile.  It was concluded that the likely cause of the different profile form at the site of the seawall in this case, is due incident and reflected wave interaction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1243</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.50</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.50</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1243/pdf_69</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

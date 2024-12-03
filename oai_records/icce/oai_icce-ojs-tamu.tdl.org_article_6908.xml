@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6908</identifier>
+				<datestamp>2023-10-04T02:53:39Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE NUMERICAL INVESTIGATION OF WAVE GENERATION BY LOW SPEED WINDS</dc:title>
+	<dc:creator xml:lang="en">Liao, Ying-Po</dc:creator>
+	<dc:creator xml:lang="en">Kaihatu, James M.</dc:creator>
+	<dc:subject xml:lang="en">direct numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">wind-wave generation</dc:subject>
+	<dc:subject xml:lang="en">turbulence</dc:subject>
+	<dc:subject xml:lang="en">Navier-Stokes equations</dc:subject>
+	<dc:description xml:lang="en">In this study we investigate the process of wind-wave generation by using direct numerical simulation (DNS). Air and water domains are respectively solved by Navier-Stokes equations in 3D Cartesian coordinates in which air-water coupled boundary conditions are specified at interface. A shear wind on the top of the air domain is specified, and air and water domains are subsequently driven to fully-developed turbulence, allowing wave growth at interface. In this paper we improve the work published by Lin et al. (2008). Instead of simplified linear boundary conditions (BCs), we derive and impose the non-linear BCs for normal stress at interface, as well as non-linear curvature terms used to balance the discontinuity. The results show that at the linear (initial) stage, faster wave growth is seen with non-linear BCs than with linearized BCs. This is reversed during the exponential (developed) stage.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6908</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.57</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.57</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6908/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

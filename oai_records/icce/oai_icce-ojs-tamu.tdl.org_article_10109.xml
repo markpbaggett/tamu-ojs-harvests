@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10109</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENHANCE DUNE-BUILDING PROCESSES WITH NATURE-BASED NOURISHMENT DESIGN</dc:title>
+	<dc:creator xml:lang="en">Hallin, Caroline</dc:creator>
+	<dc:creator xml:lang="en">Vries, Sierd de</dc:creator>
+	<dc:creator xml:lang="en">IJzendoorn, Christa van</dc:creator>
+	<dc:description xml:lang="en">Vast coastal stretches around the world rely on dunes for flood protection. At the same time, the protection level of many dune systems can be undermined due to coastal erosion, sea-level rise, and greater population densities. To enhance dune building processes and the growth of coastal dunes, nature-based solutions, such as multi-purpose sand nourishments, are increasingly being implemented. However, the performance of the nourishment projects in terms of dune growth do not always match the expectations due to unforeseen supply-limiting factors (Hoonhout and de Vries, 2019). Sediment on a beach should be within a site-specific range of grain sizes to be available for pick up by the wind and deposition in the dunes. However, the grain-size characteristics do also influence several other supply-limiting factors, e.g., surface moisture, crust development, and beach slope, making nourishment design complicated. The process-based model Aeolis has been developed to predict aeolian transport rates considering several supply limiting factors. In this study, we introduce a new surface moisture functionality in Aeolis and demonstrate how the model can be used to optimize nourishment designs with respect to dune build-up. A number of test cases are presented to illustrate how grain size, sorting, and beach morphology are influencing aeolian transport rates.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/K_eiZ5kPk2g</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10109</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.management.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; management.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10109/9395</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Caroline Hallin, Sierd de Vries, Christa van IJzendoorn</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

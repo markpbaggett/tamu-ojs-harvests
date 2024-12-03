@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7554</identifier>
+				<datestamp>2021-01-19T04:30:32Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OVERTOPPING FLOW CHARACTERISTICS AT EMERGED AND OVER-WASHED DYKES</dc:title>
+	<dc:creator xml:lang="en">Formentin, Sara Mizar</dc:creator>
+	<dc:creator xml:lang="en">Zanuttigh, Barbara</dc:creator>
+	<dc:creator xml:lang="en">Van der Meer, Jenstje</dc:creator>
+	<dc:creator xml:lang="en">Lara, Javier</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">overflow</dc:subject>
+	<dc:subject xml:lang="en">flow depth</dc:subject>
+	<dc:subject xml:lang="en">flow velocity</dc:subject>
+	<dc:subject xml:lang="en">smooth dike</dc:subject>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:description xml:lang="en">In the design of coastal defenses and in the estimate of their vulnerability a key aspect is the realistic prediction of the characteristics of the overtopping waves. In fact hydrodynamic forces on landward-side slopes largely depend on the distribution of instantaneous overtopping wave volumes, flow thicknesses and flow velocities. For emerged conditions, flow depths and velocities over the dike crest can be described by existing theoretical models, while for zero freeboard and submerged conditions there are some indications regarding the discharge and the flow characteristics in the literature but not systematically verified. Scope of this contribution is the characterization of the flow over smooth dike crests in case of frequently overtopped and over-washed based on a numerical database of more than 80 tests obtained with the Rans-Vof code (IH-2VOF) developed by the University of Cantabria on a smooth structure varying wave attacks, crest freeboard, seaward and landward slopes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7554</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7554/pdf_794</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4604</identifier>
+				<datestamp>2021-01-19T17:04:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEDFORMS, SEDIMENT CONCENTRATIONS AND SEDIMENT TRANSEORT IN SIMULATED WAVE CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Ribberink, Jan S.</dc:creator>
+	<dc:creator xml:lang="en">Al-Salem, Abdullah</dc:creator>
+	<dc:subject xml:lang="en">bedform</dc:subject>
+	<dc:subject xml:lang="en">sediment concentration</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">simulated wave</dc:subject>
+	<dc:description xml:lang="en">Two series of experiments were conducted in a new Large Oscillating Water Tunnel of Delft Hydraulics with the main objectives to study the behaviour of bedforms and the transport of sand in controlled wave conditions simulated at full scale (1:1). The main results are: i) Bedform dimensions are strongly influenced by the type of oscillatory flow. The transition from rippled bed to plane bed conditions - as predicted by Nielsen s (1979) empirical relations - was not observed for sinusoidal waves but did occur for (ir)regular asymmetric waves, ii) The net sediment transports as measured during (ir)regular asymmetric wave experiments in plane or almost plane bed (sheet flow) conditions show a consistent linear relation with the third-order moment of the velocity  and show a good agreement (within a factor 2) with the energetics total load sediment transport model of Bailard (1981). A calibrated formula of the form q = A -  shows a reasonable agreement (within a factor 1.5-3) with available existing datasets over a wide range of measured values (factor 1000).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4604</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4604/4285</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

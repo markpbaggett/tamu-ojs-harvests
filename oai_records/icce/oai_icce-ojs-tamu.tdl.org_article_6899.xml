@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6899</identifier>
+				<datestamp>2023-10-04T02:24:41Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERIZATION OF PROCESSES INVOLVED IN THE RESET OF A SUBTIDAL BAR</dc:title>
+	<dc:creator xml:lang="en">Blossier, Brice</dc:creator>
+	<dc:creator xml:lang="en">Brière, Christophe</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, J.A.</dc:creator>
+	<dc:creator xml:lang="en">Walstra, D.J.R.</dc:creator>
+	<dc:subject xml:lang="en">nearshore sandbars</dc:subject>
+	<dc:subject xml:lang="en">reset</dc:subject>
+	<dc:subject xml:lang="en">process-based modeling</dc:subject>
+	<dc:subject xml:lang="en">energetic conditions</dc:subject>
+	<dc:description xml:lang="en">Sand beach profiles can exhibit nearshore sandbars with complex 3D patterns. Under energetic conditions, these patterns disappear and the bars get to a certain extent alongshore uniform. This phenomenon is called a reset. The existing literature mainly concerns the development of the bar patterns (3D) or the cross-shore migration of sandbars (2D). Studies on reset-events from a three dimensional point of view are limited but can be found for instance in Reniers et al. (2004) and Smit (2010). This paper describes an analysis that is aimed at determining the relevant processes involved in the reset of three dimensional subtidal bars and at describing the relative influence of each of these processes. To perform this study, data collected during the ECORS campaign at Le Truc Vert (France) in 2008 are analyzed. In addition, a numerical approach is performed using a research Delft3D model forced by the Xbeach wave generator to investigate the processes involved in a reset-event. The effects of the hydrodynamic external conditions on the flow patterns in the surfzone are investigated. Then the reset is studied in details in order to understand the role of the different processes taken into account by the numerical model. The incident wave energy controls the intensity of the reset. The bar cross-shore migration is controlled by the wave breaking process. The wave breaking position and the dissipation rate of the roller energy controls the generation of Shoreward Propagating Accretionary Waves (SPAW). The straightening of the subtidal bar occurs when the conditions induce a significant longshore current in the surfzone.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6899</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.101</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.101</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6899/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

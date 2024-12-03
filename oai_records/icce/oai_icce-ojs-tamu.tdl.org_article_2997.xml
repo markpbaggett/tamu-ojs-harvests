@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2997</identifier>
+				<datestamp>2021-01-20T02:17:35Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BREAKING WAVE FORCES ON A LARGE DIAMETER CELL</dc:title>
+	<dc:creator xml:lang="en">Watanbe, Akira</dc:creator>
+	<dc:creator xml:lang="en">Horikawa, Kiyoshi</dc:creator>
+	<dc:subject xml:lang="en">breaking forces</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">large diameter</dc:subject>
+	<dc:description xml:lang="en">Experiments have been carried out by using non-breaking waves and breaking waves to investigate the wave forces on a vertical circular cell located in the shallow water. Based on the experimental data, the drag coefficient and the inertia coefficient of a circular cylinder and the curling factor of breaking waves are estimated, and the computation methods of wave forces are examined. As a result, it is shown that the phase lag of inertia forces behind the accelerations of water particles should be considered for the estimation of the drag coefficient as well as the inertia coefficient. In addition the previous formula of the maximum breaking wave forces acting on a cell or a pile is revised by introducing the effects of the above-mentioned phase lag and another phase difference, both of which are functions of the ratio of the cell diameter to the wave length. - It is confirmed that the proposed formula is applicable even to the large cell with the diameter comparable to the wave length.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2997</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.102</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 102</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2997/2662</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

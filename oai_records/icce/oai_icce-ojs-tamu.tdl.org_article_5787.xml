@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5787</identifier>
+				<datestamp>2021-01-19T10:26:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT RESUSPENSION UNDER NON-BREAKING WAVES. PREDICTING SEDIMENT "PULSES" AS A FUNCTION OF GROUPINESS</dc:title>
+	<dc:creator xml:lang="en">Jimenez, Jose A.</dc:creator>
+	<dc:creator xml:lang="en">Sanchez-Arcilla, Agustin</dc:creator>
+	<dc:creator xml:lang="en">Rodriguez, German</dc:creator>
+	<dc:subject xml:lang="en">groupiness</dc:subject>
+	<dc:subject xml:lang="en">sediment resuspenstion</dc:subject>
+	<dc:subject xml:lang="en">nonbreaking waves</dc:subject>
+	<dc:subject xml:lang="en">sediment pulses</dc:subject>
+	<dc:description xml:lang="en">Near-bottom sediment suspension reacts to non-breaking random wave-induced velocity field showing a pulsating structure (high concentration discrete events) lagged with respect to the actual velocity field. A coefficient of variation, GFqu, has been applied to low pass filtered concentration time series to characterise these pulses. The use of simple parameters based on the actual velocity field such as the shear stress (e.g. using the velocity squared) is not enough to fully explain the sediment response. To take into account the apparent relationship between groups and sediment pulses, several parameters characterising groupiness have been analysed: (i) the groupiness factor, GF, derived from SIWKEH; (ii) the mean run length, ji, and mean total run, 72, based on the use of the envelope; and (Hi) the spectral correlation coefficient between successive waves, p. The best predictor for the pulsating structure of the sediment response was found to be GF, with a linear relationship for similar energetic wave states (u*jmJutiCrf &gt; I), i.e. the larger the GF is, the larger GFcfii the will be. When the time lag in the sediment response is analysed, the parameters retaining information about the temporal structure of the groups such as ji or p are the only able to predict it. Thus, a linear relationship was found between the time lag and the mean run length and p, i.e. the longer the group is, the longer the lag in the sediment response will be.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5787</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>en</dc:language>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

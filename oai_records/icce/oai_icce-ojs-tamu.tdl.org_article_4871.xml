@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4871</identifier>
+				<datestamp>2021-01-19T15:32:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A TIME-DEPENDENT NEARSHORE MORPHOLOGICAL RESPONSE MODEL</dc:title>
+	<dc:creator xml:lang="en">Wang, Hsiang</dc:creator>
+	<dc:creator xml:lang="en">Miao, Gang</dc:creator>
+	<dc:creator xml:lang="en">Lin, Li-Hwa</dc:creator>
+	<dc:subject xml:lang="en">time dependent model</dc:subject>
+	<dc:subject xml:lang="en">morphological response model</dc:subject>
+	<dc:description xml:lang="en">This paper presents a numerical model for computing time-dependent nearshore hydrographic changes including beach profile responses. The time scale of the model is suitable for storm events to seasonal changes. The model is very stable and is capable of handling complicated topographies including inlets and irregularly-shaped structures such as curved jetties and breakwaters. The basic approach is similar to many previous investigations utilizing a hydrodynamic model to drive a sediment transport model. The hydrodynamic model computes fully interacted current and wave fields based on coupled mild slope wave equation and depth-averaged circulation equations. The sediment transport model is of energetic type treating the rate of sediment as the summation of two energetic mechanisms one due to the mean current and the other due to the wave induced turbulence. The model has been successful comparing with the evolution of beach profiles in large wave tank tests as well as other 2-dimensional numerical models of profile evolution. The model is able to predict the bar formation realistically without introducing constraints such as the bar genesis. At present the model consists of four modulars that apply separately for the situation of beach with no subaerial structure but could include non-reflective bottom structure, beach with shore-connected structures, beach with shore-detached structures and beach-inlet system. Test applications are presented here with some comparisons with field data and 3-D movable bed experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4871</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4871/4552</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

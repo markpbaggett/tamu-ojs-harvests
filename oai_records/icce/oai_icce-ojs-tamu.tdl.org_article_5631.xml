@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5631</identifier>
+				<datestamp>2021-01-19T11:16:48Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE PROPAGATION OVER A BAR AND WAVE INDUCED BED PRESSURE GRADIENTS</dc:title>
+	<dc:creator xml:lang="en">Arntsen, Oivind A.</dc:creator>
+	<dc:subject xml:lang="en">pressure</dc:subject>
+	<dc:subject xml:lang="en">pressure gradient</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">bar</dc:subject>
+	<dc:subject xml:lang="en">bed pressure</dc:subject>
+	<dc:description xml:lang="en">Wave induced pore pressure and instantaneous liquefaction are known to occur and cause loss of bearing capacity of sand. Wave bottom pressure p forms the boundary condition for the wave induced pore pressure. It is believed that not only variation of the pressure itself, but also the variations of its first and second order spatial derivative play an important role in the formation of liquefaction. An experimental and a preliminary numerical study on unidirectional water wave propagation over a bar are presented. Emphasis is placed upon investigation on the wave induced pressure gradient at the seabed. Single sinusoidal, two-component sinusoidal and five-component sinusoidal waves are investigated in a wave flume of constant water density p. Only the results for single sinusoidal waves are reported herein. The variation of the dimensionless pressure gradient Cp = (dp I' 3c) I'{pg) was within ±0.4 for all experiments with a tendency of larger values for downslope gradients (negative values) than for upslope. (g is the acceleration gravity). The numerical results, based on the two-dimensional Green-Naghdi theory for fluid sheets - level II, compare well for sea bed pressures and gradients, but the sea surface does not fit the observations so well.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5631</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5631/5301</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7571</identifier>
+				<datestamp>2021-01-20T04:24:51Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REALISTIC SIMULATION OF INSTANTANEOUS NEARSHORE WATER LEVELS DURING TYPHOONS</dc:title>
+	<dc:creator xml:lang="en">Rétif, Fabien</dc:creator>
+	<dc:creator xml:lang="en">Bouchette, Frédéric</dc:creator>
+	<dc:creator xml:lang="en">Marsaleix, Patrick</dc:creator>
+	<dc:creator xml:lang="en">Liou, Jiing-Yih</dc:creator>
+	<dc:creator xml:lang="en">Meulé, Samuel</dc:creator>
+	<dc:creator xml:lang="en">Michaud, Héloïse</dc:creator>
+	<dc:creator xml:lang="en">Lin, Li-Ching</dc:creator>
+	<dc:creator xml:lang="en">Hwang, Kao-Shu</dc:creator>
+	<dc:creator xml:lang="en">Bujan, Nans</dc:creator>
+	<dc:creator xml:lang="en">Hwung, Hwung-Hweng</dc:creator>
+	<dc:creator xml:lang="en">Team, SIROCCO</dc:creator>
+	<dc:subject xml:lang="en">instantaneous water level</dc:subject>
+	<dc:subject xml:lang="en">wind</dc:subject>
+	<dc:subject xml:lang="en">wave</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">typhoon</dc:subject>
+	<dc:subject xml:lang="en">extreme phenomena</dc:subject>
+	<dc:description xml:lang="en">3D hydrodynamic simulations were performed on an area extending 600 km off Taiwan island for the period running from September 2011 to December 2012. We covered a winter Monsoon season and a summer season with 17 typhoons recorded. By comparing simulations and measurements during the TALIM typhoon, our model reproduces correctly the storm surge observed along the Wan-Tzu-Liao sand barrier (South-West Taiwan). By a modelling approach, we analyzed the regional hydrodynamic mechanisms which control the sea surface elevation at the Chung-Chin harbour. Tide is the dominant forcing of the water level with more than 1 meter above the mean sea level. Global currents contribute up to 80 cm to the water level but during the SAOLA typhon, the elevation reached 1 meter. The contribution of atmospheric forcings is lower but it can generate 30 cm of elevation (e.g. during GUCHOL and TALIM typhoons)</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7571</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7571/pdf_825</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

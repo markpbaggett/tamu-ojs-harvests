@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1276</identifier>
+				<datestamp>2021-01-19T08:24:19Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING TIDAL ENERGY RESOURCE AND EXTRACTION</dc:title>
+	<dc:creator xml:lang="en">Bourban, Sébastien E.</dc:creator>
+	<dc:creator xml:lang="en">Durand, Noémie D.C.</dc:creator>
+	<dc:creator xml:lang="en">Coates, Tom T.</dc:creator>
+	<dc:creator xml:lang="en">Gill, Lindsay</dc:creator>
+	<dc:creator xml:lang="en">Harper, Michael</dc:creator>
+	<dc:creator xml:lang="en">Stephen, Richardson</dc:creator>
+	<dc:subject xml:lang="en">TELEMAC</dc:subject>
+	<dc:subject xml:lang="en">tidal energy</dc:subject>
+	<dc:subject xml:lang="en">resource assessment</dc:subject>
+	<dc:subject xml:lang="en">energy extraction</dc:subject>
+	<dc:subject xml:lang="en">3D model</dc:subject>
+	<dc:subject xml:lang="en">hydrodyanmics</dc:subject>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">HR Wallingford</dc:subject>
+	<dc:description xml:lang="en">A number of areas around the UK coast are being investigated as possible locations for tidal energy harnessing. Detailed assessment using regional hydrodynamic modelling supported by field measurements can be used to quantify the energy resource and to determine limitations in the potential development area, including those due to the interactions between waves and tides. Two case studies illustrate the techniques applied and the implications for tidal device deployment: (a) Marine Current Turbines (MCT) are planning to deploy an array of their SeaGen tidal devices off the northwest Anglesey coast, UK; and (b) THETIS Energy Ltd are planning a development off the north Northern Ireland coast in the North Channel.
+
+The sites are characterised by moderately severe wave conditions, strong currents, and complex geomorphologic features, yielding highly variable and spatially complex, tidal range dependent current patterns. The regional hydrodynamic models (based on the TELEMAC system, an unstructured finite element solver from Electricité de France, now publicly distributed under an open source license) were calibrated against good quality field data for both sites, and captured the strong variability of the currents to a grid resolution of about 10 m over 30-day tidal cycles. Some areas were found to have strong currents on the flood tide but much weaker currents on the ebb, and vice versa and directions were not necessarily opposite. Areas with appropriate water depths, consistently good flow characteristics and, therefore, commercially attractive energy resource comprised only parts of the pre-selected sites. 
+
+Off the northwest Anglesey coast, the TELEMAC-2D hydrodynamic model was complemented with a third generation wave transformation model. The local wave conditions are strongly affected by currents, giving rise to potentially dangerous conditions for construction and maintenance operations, as well as complex forces on the energy devices. By simulating the power take-off and physical characteristics of the MCT SeaGen devices, the hydrodynamic model was used to assess the impact of individual devices on the current regime and the actual energy available from the proposed arrays taking account of wake effects (Figure 1). The extent and intensity of the wake areas were calibrated to some degree against field data obtained from the MCT Lynmouth SeaFlow deployment (installed May 2003). Wakes could extend over a significant area, requiring careful placement of the individual devices within each array to avoid reduction in power generation.
+
+Off the north Northern Ireland coast, the TELEMAC-3D hydrodynamic model was used to produce maximum and average kinetic power density maps to identify useful site survey locations. The presence of an amphidromic point not far from the site, with virtually no tidal range yet strong currents, was correctly reproduced by the hydrodynamic model. The modelling study followed or exceeded the Assessment of Tidal Energy Resource guidance set by the European Marine Energy Centre for a full feasibility stage. In particular, comparisons with observed bed-mounted current data showed differences in maximum speed at various elevations throughout the water column within 5% or better at two of the three sites (spring tide currents).
+
+Numerical modelling has proven to be effective and critical in investigating possible locations for tidal energy harnessing at a number of areas around the UK coast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1276</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1276/pdf_298</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

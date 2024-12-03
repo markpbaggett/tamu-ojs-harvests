@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3315</identifier>
+				<datestamp>2021-01-20T00:26:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF MAXIMUM SEA LEVELS IN SOUTHERN ENGLAND</dc:title>
+	<dc:creator xml:lang="en">Graff, J.</dc:creator>
+	<dc:creator xml:lang="en">Blackman, D.L.</dc:creator>
+	<dc:subject xml:lang="en">sea level</dc:subject>
+	<dc:subject xml:lang="en">maximum sea level</dc:subject>
+	<dc:subject xml:lang="en">England</dc:subject>
+	<dc:description xml:lang="en">Along the south coast of England, series of observed annual maximum sea levels, ranging from 16 years to 125 years have been analysed for each of 10 ports. The Jenkinson method of analysis was used to compute the frequency of recurrence of extreme levels. For a number of these ports the series of annual maxima are shown to have significant trends of the same order as those for mean sea level. The Jenkinson method can be simply adjusted to cope with maxima having a component linear trend, making it possible to allow for such trends in computing the frequency of recurrence of extreme levels. If a trend in the annual maxima varies throughout the sample of observations it is shown that difficulties arise in using the Jenkinson method to compute acceptable statistics. It is also shown that for certain ports having long series of observed annual maxima it may be necessary to restrict the sample size of observations in order to compute estimates of the recurrence of extreme levels within reasonable return periods.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3315</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3315/2983</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

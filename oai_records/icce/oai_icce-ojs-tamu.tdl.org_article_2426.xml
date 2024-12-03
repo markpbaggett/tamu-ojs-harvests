@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2426</identifier>
+				<datestamp>2021-01-17T05:12:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DIFFRACTION OF WIND GENERATED WATER WAVES</dc:title>
+	<dc:creator xml:lang="en">Mobarek, Ismail E.</dc:creator>
+	<dc:creator xml:lang="en">Wiegel, Robert L.</dc:creator>
+	<dc:subject xml:lang="en">diffraction</dc:subject>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">two-dimensional wave spectra</dc:subject>
+	<dc:description xml:lang="en">In designing a harbor an engineer must consider the diffraction of waves. In most studies, only uniform periodic waves coming from a single direction are treated. However, wind generated waves in the ocean are two dimensional, and the diffraction of waves due to a breakwater should be treated with this in mind. As methods of measuring the two-dimensional spectra of waves were developed recently, it was decided to determine whether or not diffraction theory could be applied with sufficient accuracy for two-dimensional wave spectra. The results of a laboratory study presented herein show that a knowledge of the two-dimensional spectra can be used together with diffraction theory to predict the energy spectra of waves in the lee of a breakwater within an accuracy that is probably acceptable for many engineering problems.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2426</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2426/2093</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

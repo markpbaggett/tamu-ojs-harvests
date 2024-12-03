@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3096</identifier>
+				<datestamp>2021-01-20T01:42:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION OF INCIDENT AND REFLECTED WAVES IN RANDOM WAVE EXPERIMENTS</dc:title>
+	<dc:creator xml:lang="en">Goda, Yoshimi</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tasumasa</dc:creator>
+	<dc:subject xml:lang="en">incident waves</dc:subject>
+	<dc:subject xml:lang="en">reflection</dc:subject>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:description xml:lang="en">A technique to resolve the incident and reflected waves from the records of composite waves is presented. It is applicable to both regular and irregular trains of waves. Two simultaneous wave records are taken at adjacent locations, and all the amplitudes of Fourier components are analyzed by the FFT technique. The amplitudes of incident and reflected wave components are estimated from the Fourier components, and the incident and reflected wave spectra are constructed by smoothing the estimated periodograms. The wave resolution is effective in the range outside the condition of the gauge spacing being even integer of half wavelength. The ratio of incident and reflected wave energies in the effective resolution range is employed in estimating the overall reflection coefficient. The incident and reflected wave heights are estimated from the composite wave heights by energy consideration.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3096</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3096/2761</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

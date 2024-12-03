@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1255</identifier>
+				<datestamp>2023-10-04T04:31:56Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CAISSON BREAKWATER DESIGN FOR SLIDING</dc:title>
+	<dc:creator xml:lang="en">Hutchinson, Steven</dc:creator>
+	<dc:creator xml:lang="en">Young, Martin</dc:creator>
+	<dc:creator xml:lang="en">Macleod, Alasdair</dc:creator>
+	<dc:subject xml:lang="en">Design &amp; Performance Analysis</dc:subject>
+	<dc:subject xml:lang="en">Coefficient of Friction</dc:subject>
+	<dc:subject xml:lang="en">Caisson Breakwater Sliding Stability</dc:subject>
+	<dc:subject xml:lang="en">PIANC WG28.</dc:subject>
+	<dc:subject xml:lang="en">Validation Testing</dc:subject>
+	<dc:description xml:lang="en">The offshore caisson breakwater at Costa Azul installed in 25m water depth is designed to withstand Pacific swell waves up to a PLS test case Hs 9.2m Tp 18.6s. Overall stability design is in accordance with the recommendations of PIANC WG 28. The critical failure mechanism is sliding, and the caisson base is cast with a deliberately roughened (serrated) profile to increase sliding resistance and optimize the caisson cross section. Site based testing at prototype scale was conducted to validate the coefficient of friction used for design between the caisson base and nominal 100mm single size granular bedding material. This testing confirms that the use of a suitably dimensioned serrated base profile allows the full internal angle of friction (with allowance for dilation) of the bedding material to develop at the base of the caisson, allowing the cross section design to be optimized.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1255</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1255/pdf_74</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

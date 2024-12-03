@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6958</identifier>
+				<datestamp>2023-10-04T02:48:42Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DESIGN OF DETACHED BREAKWATERS FOR COASTAL PROTECTION: DEVELOPMENT AND APPLICATION OF AN ADVANCED NUMERICAL MODEL</dc:title>
+	<dc:creator xml:lang="en">Karambas, Theophanis V.</dc:creator>
+	<dc:subject xml:lang="en">detached breakwaters</dc:subject>
+	<dc:subject xml:lang="en">coastal protection</dc:subject>
+	<dc:subject xml:lang="en">structures</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq model</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">An advanced nonlinear wave, sediment transport and bed morphology evolution 2DH model, for the design of coastal protection structures, has been developed. The extended Boussinesq equations, including higher order non-linear terms, which can describe the propagation of highly nonlinear waves in the shoaling region, surf and swash zone, are used. The bed and suspended load transport are estimated with a quasi-steady, semi-empirical formulation, developed by Camenen, and Larson ('A unified sediment transport formulation for coastal inlet application', Technical report ERDC/CHL CR-07-1, US Army Engineer Research and Development Center, Vicksburg, MS, 2007) for an oscillatory flow combined with a superimposed current under an arbitrary angle, involving phase-lag effects in the sheet flow layer. Model results are compared with experimental data (morphology evolution behind detached breakwaters). The agreement between numerical simulations and data is quite satisfactory. Also, model predictions agree with the tombolo/salient criteria found in the literature. The methodology can be applied to the design of detached breakwaters, which are used as coastal protection structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6958</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.115</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.115</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6958/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

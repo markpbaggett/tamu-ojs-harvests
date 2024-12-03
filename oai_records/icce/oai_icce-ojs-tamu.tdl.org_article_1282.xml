@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1282</identifier>
+				<datestamp>2023-10-04T03:54:32Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">3D SIMULATION OF WAVE INTERACTION WITH PERMEABLE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Wellens, Peter</dc:creator>
+	<dc:creator xml:lang="en">Borsboom, M.J.A.</dc:creator>
+	<dc:creator xml:lang="en">van Gent, M.R.A.</dc:creator>
+	<dc:subject xml:lang="en">VOF</dc:subject>
+	<dc:subject xml:lang="en">3D Navier-Stokes</dc:subject>
+	<dc:subject xml:lang="en">permeability</dc:subject>
+	<dc:subject xml:lang="en">rubble-mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">3D simulations</dc:subject>
+	<dc:description xml:lang="en">COMFLOW is a general 3D free-surface flow solver. The main objective in this paper is to extend the solver with a
+permeable flow model to simulate wave interaction with rubble-mound breakwaters. The extended Navier-Stokes
+equations for permeable flow are presented and we show the discretization of these equations as they are implemented in
+COMFLOW. An analytical solution for the reflection coefficient of a permeable structure is derived and the numerical
+model is compared to the solution. In addition, a validation study has been performed, in which we compare the numerical
+results with an experiment. In the experiment, pressures and surface elevations are measured inside a permeable structure.
+The measurements are represented well by the simulation results. At the end, a 3D application of the model is shown.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1282</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1282/pdf_300</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

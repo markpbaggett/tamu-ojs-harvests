@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12645</identifier>
+				<datestamp>2023-09-01T15:11:44Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MAXIMUM MOMENTUM FLUX FOR STABILITY ANALYSIS OF MODEL AND PROTOTYPE BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Jayewardene, Indra FW</dc:creator>
+	<dc:creator xml:lang="en">Golshani, Aliasghar</dc:creator>
+	<dc:creator xml:lang="en">Couriel, Ed</dc:creator>
+	<dc:description xml:lang="en">None of the established formulae for breakwater armour stone stability, Hudson (1958) or van der Meer (1987), explicitly account for the water depth at the toe of the structure. More recently, Hughes (2004), Melby and Hughes (2004), Melby and Kobayashi (2011) have developed equations for stability and runup utilising the concept of wave momentum flux which explicitly accounts for the water depth of the wave probe(s) in close proximity to the structure. The equations are adapted to three forms; namely (1) linear, (2) extended-linear and (3) non-linear. In the paper linearity is assessed by using the Ursell number at each probe depth. Also, due to the placement of probes at various depths in MHL’s 2D wave flume it is possible to correlate the linearity of the wave measurement for the same time series and subsequently test the appropriateness of the momentum flux equation applied for assessment of stability and runup. The stability and runup data from 43 2D physical model tests where stability was previously assessed using van der Meer’s and Hudson’s equations are assessed using the momentum flux equations and an evaluation of the results has been made. It was found that the estimation of notional permeability and selection of the use of the plunging or surging formulae was critical to obtaining a closer match between measurement and prediction. The equations were also utilised in conjunction with numerical models to evaluate the armour size for repair of two breakwater heads in South Camden Haven and Bellambi. The maximum momentum flux equations were found to perform satisfactorily at these locations where the Ursell numbers were found to be high and the waves non-linear.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12645</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12645/11918</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Indra FW Jayewardene, Aliasghar Golshani, Ed Couriel</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

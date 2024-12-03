@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2875</identifier>
+				<datestamp>2021-01-20T03:01:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYTICAL MODELING OF ESTUARINE CIRCULATION</dc:title>
+	<dc:creator xml:lang="en">Fisher, John S.</dc:creator>
+	<dc:creator xml:lang="en">Ditmers, John D.</dc:creator>
+	<dc:creator xml:lang="en">Harleman, Donald R.F.</dc:creator>
+	<dc:subject xml:lang="en">analytical modeling</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">estuarine circulation</dc:subject>
+	<dc:description xml:lang="en">A mathematical model is developed using analytical techniques to determine the longitudinal and vertical distributions of velocities and salinities, averaged over a tidal period, for mixed but partially stratified estuaries. The flow is assumed laterally homogeneous and the estuary width and depth are assumed to be functions of the longitudinal coordinate only. Required inputs to the model include the salt intrusion length, the ocean boundary salinity, the distribution of the ,depth-averaged salinity and the freshwater discharge. The governing equations included in the model are the vertical and longitudinal equations of motion, continuity, salt conservation and an equation of state. The key assumption is made that the longitudinal salinity gradient is independent of depth. This decouples these equations and thus permits an analytical solution to be found. Using data from laboratory flume tests and field surveys the model solutions are used to find correlations for the mean vertical transfer coefficients of mass and momentum with gross characteristics of the estuary. These correlations, plus the results from a one-dimensional numerical model, permit this analytical model to be used as a predictor of the velocity and salinity profiles in estuaries and to relate changes in freshwater discharge to possible changes in the location of shoaling zones.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2875</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.128</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 128</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2875/2539</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

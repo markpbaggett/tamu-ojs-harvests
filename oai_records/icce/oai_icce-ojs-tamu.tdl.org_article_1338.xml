@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1338</identifier>
+				<datestamp>2023-10-04T04:26:31Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AERIAL PHOTOGRAPH OF SENDAI COAST FOR SHORELINE BEHAVIOR ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Pradjoko, Eko</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Hitoshi</dc:creator>
+	<dc:subject xml:lang="en">aerial photograph</dc:subject>
+	<dc:subject xml:lang="en">shoreline</dc:subject>
+	<dc:subject xml:lang="en">river mouth</dc:subject>
+	<dc:subject xml:lang="en">longshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">empirical orthogonal function</dc:subject>
+	<dc:description xml:lang="en">The shoreline analysis around the Nanakita River mouth has been performed by utilizing aerial photographs to reveal the different behavior between left and right side of the river mouth. The shoreline on left side of river mouth has been moving more dynamically than the right side. The empirical orthogonal function (EOF) method is also applied on the shoreline data to reveal the behavior of shoreline change. The first mode of variability reflects the cross-shore movement which is shown by uniform advance and retreat movement along the beach. The shoreline change around the Nanakita River mouth is dominated by the cross-shore movement which is shown by around 80% contribution of first mode. The second mode of variability depicts the longshore sediment movement which is shown by different shoreline movement between left and right side of river mouth. The longshore movement only contributes around 10% to the shoreline change around the Nanakita River mouth. The second mode also reveals the influence of river mouth to the longshore sediment transport characterized by different shoreline response between left and right side.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1338</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.92</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.92</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1338/pdf_104</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

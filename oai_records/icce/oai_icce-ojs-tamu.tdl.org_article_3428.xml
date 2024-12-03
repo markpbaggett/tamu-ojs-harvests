@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3428</identifier>
+				<datestamp>2021-01-19T23:50:33Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RAY CURVATURE AND REFRACTION OF WAVE PACKETS</dc:title>
+	<dc:creator xml:lang="en">Breeding, J. Ernest</dc:creator>
+	<dc:subject xml:lang="en">wave packets</dc:subject>
+	<dc:subject xml:lang="en">ray curvature</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:description xml:lang="en">Directional wave data obtained simultaneously at two measurement sites is used to confirm the constancy, and therefore the validity, of Snell's laws for wave packets. It is found that the wave packets refract according to Snell's law with the geometric group velocity whereas the wavelets within a packet refract according to Snell's law with phase velocity. An expression for the ray curvature of a wave packet is derived which is suitable for use in wave prediction programs. The ray curvature of the wave packet is found to vanish if the packet direction becomes either perpendicular or parallel to the wave speed contours, assuming the wavelet direction is not parallel to the contours. This means that as a hydron (wave packet) moves into shoaling water refraction tends eventually to turn the hydron so that it is directed either perpendicular or parallel to the shoreline. The first case is similar to monochromatic waves. For parallel water depth contours, it is the result for hydrons which begin in deep water if the angle of incidence is between 0° and 74.8° with respect to the contour normal. However, for deep water angles of incidence equal to or greater than 74.8° the hydrons are turned and move parallel to shore in water of intermediate depth. The packet ray curvature approaches infinity as the wavelet direction, but not the hydron direction, becomes parallel to the wave speed contours. The result is total reflection of the waves. Total reflection occurs if a hydron is moving into deeper water and its initial direction exceeds a critical angle. At the reflection point the hydron direction becomes perpendicular to the water depth contours. Further, the hydron velocity goes to zero, which is consistent with a particle concept. As in quantum mechanics, the wave-particle duality is encountered.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3428</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3428/3108</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

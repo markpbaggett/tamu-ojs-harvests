@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5589</identifier>
+				<datestamp>2021-01-19T11:30:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GRAIN-SIZE INFLUENCE ON SAND TRANSPORT IN OSCILLATORY SHEET FLOW</dc:title>
+	<dc:creator xml:lang="en">Janssen, C. Marjolein</dc:creator>
+	<dc:creator xml:lang="en">Ribberink, Jan S.</dc:creator>
+	<dc:subject xml:lang="en">oscillatory flow</dc:subject>
+	<dc:subject xml:lang="en">sheetflow</dc:subject>
+	<dc:subject xml:lang="en">grain size</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">Experimental investigations (Ribberink &amp; Chen, 1993; Ribberink &amp; Al- Salem, 1994; Katopodi et al., 1994) indicated that the grain diameter is an important parameter for the prediction of the net (time-averaged) transport rates in oscillatory sheet flow. As only little is known about the influence of the grain diameter on the net transport rates and the transport mechanisms, new experiments with fine sand (D50 = 0.13 mm) were carried out in the Large Oscillating Water Tunnel (LOWT) of Delft Hydraulics. Since 1992 the LOWT is equipped with a recirculation system, such that experiments with combined wave-current flow can be performed at full scale (1:1). Several existing transport models are based on the assumption that the transport can be described in a quasi-steady way (see Janssen, 1995). In order to investigate whether or not this assumption is valid, both a 'quasi-steady' (Bailard, 1981) and a 'semi-unsteady' (Dibajnia &amp; Watanabe, 1992) transport model are verified with existing and new experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5589</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5589/5262</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

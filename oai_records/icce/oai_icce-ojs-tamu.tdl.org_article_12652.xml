@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12652</identifier>
+				<datestamp>2023-09-01T15:11:49Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF METHODS FOR DETECTING OCCURANCE OF RIP CURRENT USING IMAGE ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Shimada, Ryo</dc:creator>
+	<dc:creator xml:lang="en">Ishikawa, Toshinori</dc:creator>
+	<dc:creator xml:lang="en">Komine, Tsutomu</dc:creator>
+	<dc:description xml:lang="en">There are from 2,000 to 3,000 rescues every summer at bathing beaches in Japan, and the main cause of drowning accidents is rip currents. To analyze the rip current, a method for visualizing rip currents with average images can be used. However, in case of the investigation over a long period, such as several months, it is necessary to confirm the occurrence of rip currents through thousands of averaged images by human eyes. In this study, we suggested a new method for detecting the occurrence of rip currents automatically by analyzing the pixel values of averaged images. Images for the analysis were created from video data recorded in March and April 2021 by a camera overviewing the study beach located on the west coast of Japan. The accuracy results of this method were 99 percent for the validation dataset and 57 percent for the verification dataset, respectively. When the wave height was 0.5 m and higher for the verification dataset, the accuracy was 75percent. Therefore, it was considered that this method can detect the occurrence of rip currents when the wave height is 0.5 m and higher. As a result of applying this method to the 3-month image data recorded from October to December 2021, it was found that wave steepness was occurring lower under the conditions of rip currents. In conclusion, this method was able to automatically detect the rip currents from the images, and the conditions of waves when the rip currents that occurred could be investigated using this method.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12652</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12652/11925</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Ryo Shimada, Toshinori Ishikawa, Tsutomu Komine</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

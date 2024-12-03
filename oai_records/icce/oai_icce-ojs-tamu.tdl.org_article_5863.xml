@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5863</identifier>
+				<datestamp>2021-01-19T10:02:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF THE BEHAVIOR OF OXYGEN-DEFICIT WATER IN TOKYO BAY BY THREE-DIMENSIONAL WATER QUALITY MODEL</dc:title>
+	<dc:creator xml:lang="en">Mimura, Nobuo</dc:creator>
+	<dc:creator xml:lang="en">Tsukada, Mitsuhiro</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Masaharu</dc:creator>
+	<dc:subject xml:lang="en">water quality model</dc:subject>
+	<dc:subject xml:lang="en">water quality</dc:subject>
+	<dc:subject xml:lang="en">oxygen deficit water</dc:subject>
+	<dc:subject xml:lang="en">Tokyo Bay</dc:subject>
+	<dc:description xml:lang="en">Semi-enclosed bays have been suffering from eutrophication in many countries. The present study deals with simulation of this problem focusing on Tokyo Bay, Japan. Tokyo Bay faces blue tides and fish death events caused by the oxygen-deficit water formed in the bottom layer during summer. To study the formation of the oxygen-deficit water, a model is developed to simultaneously simulate the flow, density stratification, and the material circulation in the ecosystem. The behavior of oxygen-deficit water, such as formation, growth, and stagnation, in Tokyo Bay is reproduced and examined by the model. The present model is effective in studying the temporal and spatial changes in water quality in a detailed manner. Moreover, countermeasures such as reduction of the land-based pollutant loads and sand capping on the polluted bottom mud are also examined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5863</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5863/5531</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

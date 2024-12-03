@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8642</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SIMILARITY PARAMETER FOR BREAKWATERS: THE MODIFIED IRIBARREN NUMBER</dc:title>
+	<dc:creator xml:lang="en">Clavero, Maria</dc:creator>
+	<dc:creator xml:lang="en">Folgueras, Pedro</dc:creator>
+	<dc:creator xml:lang="en">Diaz-Carrasco, Pilar</dc:creator>
+	<dc:creator xml:lang="en">Ortega-Sanchez, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel A.</dc:creator>
+	<dc:description xml:lang="en">In the 14th ICCE, Battjes (1974) showed that a single similarity parameter only, embodying both the effects of slope angle and incident wave steepness, was important for many aspects of waves breaking on impermeable slopes, and suggested to call it the "Iribarren number", denoted by "Ir". Ahrens and McCartney (1975) verified the usefulness of Ir to describe run-up and stability on rough permeable slopes. Since then, many researchers applied Ir to characterize and to develop formulae for the design of breakwaters and to verify their stability. On the other hand, depending on their typology, breakwaters reflect, dissipate, transmit, and radiate incident wave energy. Partial standing wave patterns are likely to occur at all types of breakwater, thus playing an important role in defining the wave regime in front of, near (seaward and leeward), and inside the breakwater. The characteristics of the porous medium, relative grain size D/L and relative width, Aeq/L2, are relevant magnitudes in that wave pattern (Vilchez et al. 2016), being D the grain diameter, L the wave length and Aeq the porous area per unit section under the mean water level. Aeq/L2 is a scattering parameter controlling the averaged transformation of the wave inside the porous section of the structure. For a vertical porous breakwater (Type A), Aeq is simply B · h, and for a constant depth, the scattering parameter is reduced to B/L, which is the relative breakwater width.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8642</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.structures.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; structures.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8642/7444</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8642/8035</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

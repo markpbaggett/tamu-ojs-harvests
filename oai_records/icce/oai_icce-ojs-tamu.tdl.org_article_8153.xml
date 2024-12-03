@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8153</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING LONG-TERM SHORELINE EVOLUTION: FIGUEIRA DA FOZ BEACH, PORTUGAL</dc:title>
+	<dc:creator xml:lang="en">Pereira, Carla</dc:creator>
+	<dc:creator xml:lang="en">Coelho, Carlos</dc:creator>
+	<dc:creator xml:lang="en">Silva, Paulo A.</dc:creator>
+	<dc:subject xml:lang="en">numerical models</dc:subject>
+	<dc:subject xml:lang="en">longshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">accretion rates</dc:subject>
+	<dc:subject xml:lang="en">jetty</dc:subject>
+	<dc:subject xml:lang="en">calibration and validation</dc:subject>
+	<dc:description xml:lang="en">This work applies two different shoreline evolution numerical models (LTC and GENESIS) in two different time periods (1980 2010 and 2010-2014) to compare respectively the calibration and validation performance of the models. The models were applied to evaluate long-term shoreline position and longshore sediments transport evolution, considering as a case study a sandy beach stretch located updrift of the Figueira da Foz harbor jetty, on the Northwest Portuguese coast. Due to the jetty extension, this stretch exhibits a clear accretion trend during the analyzed time periods. For this region, the longshore sediment transport rate estimated by several authors varies between 200 and 1500x103m3/year. According to the modelling results, it was observed that both models reproduce reasonably well the shoreline evolution between 1980 and 2010. In average, the LTC model reproduces a 2010 shoreline position nearest the observed and GENESIS presents better approximation in the Northern part of the beach and also near the South (downdrift) border (just close to the Northern jetty of the harbor). The modeled shoreline average accretion rates for the considered stretch is quite similar and close to the values referred in the bibliography, which indicates that the beach presents 500 meters of maximum accretion width updrift the jetty (about 16.6m/year). In what concerns to the longshore sediment transport it was observed that numerical models generally indicate lower values than the bibliography, being GENESIS results higher and closer to the observed than the LTC. These results are common in the numerical modelling of shoreline evolution, showing that is difficult to simultaneously represent both the shoreline position and sediment transport volumes. After calibration, LTC validation was evaluated for the time period between 2010 and 2014 to allow confidence in the extrapolation of results to the future. Estimated deposition rates of about 350x103m3/year were obtained at the harbor entrance.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8153</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.sediment.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; sediment.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8153/6968</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

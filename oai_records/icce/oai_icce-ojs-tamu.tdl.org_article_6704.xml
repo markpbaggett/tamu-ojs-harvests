@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6704</identifier>
+				<datestamp>2023-10-04T02:43:41Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT SORTING AND BEACH MORPHOLOGY UNDER PLUNGING WAVE BREAKING</dc:title>
+	<dc:creator xml:lang="en">Pedrozo-Acuña, Adrián</dc:creator>
+	<dc:creator xml:lang="en">Resendiz, Diana</dc:creator>
+	<dc:creator xml:lang="en">Mendoza, Edgar</dc:creator>
+	<dc:creator xml:lang="en">Silva, Rodolfo</dc:creator>
+	<dc:subject xml:lang="en">plunging breaking</dc:subject>
+	<dc:subject xml:lang="en">advection</dc:subject>
+	<dc:subject xml:lang="en">sediment sorting</dc:subject>
+	<dc:subject xml:lang="en">beach morphology</dc:subject>
+	<dc:description xml:lang="en">This paper presents an experimental investigation into the response of coarse-grained beaches under the action of plunging wave breaking. Beach profile results allowed the identification of three main morphological responses. These are: a beach profile which presented the generation of a clear step below the SWL; a beach shape that did not form any beach step; and a beach face which evolved a bar-like step. Additionally, high-resolution velocity measurements illustrate the prevailing hydrodynamic conditions in the surf-swash transition zone. These results were validated with ADV measurements collected at two cross-shore locations. Through Euler's equation the pressure field was associated to the total acceleration in the fluid, allowing a careful assessment of the contribution of each the acceleration terms to the resulting momentum balance. In the region close to the impact point, the magnitude of the local acceleration under the plunging waves is insignificant, while at the same location the role of advective terms cannot be overlooked. Results indicate the relevance of including advection processes for the accurate calculation of sediment transport under the action of plunging breakers across the nearshore zone.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6704</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6704/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6704/7752</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6704/7753</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

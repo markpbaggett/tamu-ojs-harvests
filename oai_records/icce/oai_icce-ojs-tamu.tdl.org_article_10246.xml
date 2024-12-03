@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10246</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE-DRIVEN COASTAL DYNAMICS: CAN WE RELY ON PHASE-RESOLVING MODELS?</dc:title>
+	<dc:creator xml:lang="en">Azouri, Assaf</dc:creator>
+	<dc:creator xml:lang="en">Roeber, Volker</dc:creator>
+	<dc:creator xml:lang="en">Guiles, Martin David</dc:creator>
+	<dc:creator xml:lang="en">Iwamoto, Melissa</dc:creator>
+	<dc:creator xml:lang="en">Owens, Tara</dc:creator>
+	<dc:creator xml:lang="en">Becker, Janet</dc:creator>
+	<dc:creator xml:lang="en">Luther, Douglas S</dc:creator>
+	<dc:description xml:lang="en">Wave simulations from two Boussinesq-type models: BOSZ (Roeber &amp; Cheung, 2012) and FUNWAVE (Shi et al., 2012), and a non-hydrostatic model: XBeach (Roelvink et al., 2009), are compared to observational data in a harbor and along the exposed coast of northwest O'ahu Island, Hawai'i, under highly energetic sea/swell forcing conditions. In the present comparison we attempt to address whether the models can (i) reproduce the observed spectra at different locations over a fringing reef and inside a harbor, and; (ii) draw a consistent 2-dimensional picture of the gravity and IG wave fields throughout the computational domain.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/kbbOT0ZpnEo</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10246</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10246/9532</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Assaf Azouri, Volker Roeber, Martin David Guiles, Melissa Iwamoto, Tara Owens, Janet Becker, Douglas S Luther</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

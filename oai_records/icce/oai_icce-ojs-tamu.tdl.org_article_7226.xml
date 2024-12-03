@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7226</identifier>
+				<datestamp>2021-01-20T03:41:34Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WHAT COULD HAPPEN IF THE PARBUCKLING OF COSTA CONCORDIA HAD FAILED: ANALYTICAL AND  CFD-BASED INVESTIGATION OF POSSIBLE GENERATED WAVE</dc:title>
+	<dc:creator xml:lang="en">Lamberti, Alberto</dc:creator>
+	<dc:creator xml:lang="en">Antonini, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Ceccarelli, Giovanni</dc:creator>
+	<dc:subject xml:lang="en">Costa Concordia</dc:subject>
+	<dc:subject xml:lang="en">parbuckling</dc:subject>
+	<dc:subject xml:lang="en">motion equation</dc:subject>
+	<dc:subject xml:lang="en">CFD</dc:subject>
+	<dc:subject xml:lang="en">STAR-CCM </dc:subject>
+	<dc:description xml:lang="en">Costa Concordia is well known throughout the world as the ship which partially sank after a collision with rocks near to Giglio Island. The successful parbuckling operation has received wide coverage from the media. The estimated presence of hundreds of persons, journalists and tourists near the location of the partially sank ship during the recovery operations required an estimation of which wave could be generated if any malfunctioning might occur and the vessel might fall down into the water with its huge mass. Due to the short time between the analysis require and parbuckling start-up, a quick estimation of the possible generated wave was carried out. The present contribution aims to verify the accuracy of the estimation by comparison with a state of the art numerical simulation. A CFD simulation of the vessel partially emerged falling into the water has been done. Different configurations of the wreck positions at failure and different failure modes are investigated in order to identify the worst scenario.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7226</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7226/pdf_960</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7226/7774</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7226/7775</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7226/7776</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

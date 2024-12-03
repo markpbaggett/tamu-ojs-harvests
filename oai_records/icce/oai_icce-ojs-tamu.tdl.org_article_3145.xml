@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3145</identifier>
+				<datestamp>2021-01-20T01:24:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRAULICS OF GREAT LAKES INLET - HARBORS SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Sorenson, Robert M.</dc:creator>
+	<dc:creator xml:lang="en">Seelig, William N.</dc:creator>
+	<dc:subject xml:lang="en">inlet hydraulics</dc:subject>
+	<dc:subject xml:lang="en">Great Lakes</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">harbor system</dc:subject>
+	<dc:description xml:lang="en">Reversing currents in inlets on the Great Lakes are generated primarily by long wave seiching modes of the lakes rather than by the tide. In order to investigate the nature of long wave excitation and the generating mechanism for significant inlet velocities, to establish techniques for predicting inlet-harbor system response, and to develop base data for future planning and design studies, field measurements were conducted in 1974-75 at several harbors on the Great Lakes. Data collected includes continuous harbor water level measurements at all sites, inlet velocity measurements at the primary site (Pentwater, Michigan), and channel hydrographic surveys at the sites where more recent data were needed. Historic water level and velocity data for some of the harbor sites was also available. Amplification of harbor oscillations and generation of the highest inlet velocities are caused by the Helmholtz resonance mode which has a period of 1 to 3 hours for the inlet-harbor systems studied. A recently developed simple lumped-parameter numerical model is shown to be quite effective in predicting inlet-harbor response over the range of excitation periods encountered. Selected data from Pentwater are presented to demonstrate the hydraulic response of the inlet harbor system and the applicability of the lumped-parameter numerical model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3145</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3145/2809</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

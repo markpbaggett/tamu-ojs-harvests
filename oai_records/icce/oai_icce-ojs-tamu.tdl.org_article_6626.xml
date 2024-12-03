@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6626</identifier>
+				<datestamp>2023-10-04T03:10:31Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OUTLIER SENSITIVITY ON THE SEA EXTREMES BY  THE TEMPORAL AND CLIMATE INDEX COVARIATIONS</dc:title>
+	<dc:creator xml:lang="en">Kitano, Toshikazu</dc:creator>
+	<dc:creator xml:lang="en">Kioka, Wataru</dc:creator>
+	<dc:creator xml:lang="en">Takahashi, Rinya</dc:creator>
+	<dc:subject xml:lang="en">degree of experience</dc:subject>
+	<dc:subject xml:lang="en">influential outlier</dc:subject>
+	<dc:subject xml:lang="en">return period</dc:subject>
+	<dc:subject xml:lang="en">climate index</dc:subject>
+	<dc:description xml:lang="en">Outlier detection is one of the classical problem in the regression analysis.  For this purpose the Cook's distance was proposed as the amount of changing the predictions by removing the candidate outlier in comparison with the total variation of the residuals against the fitting plane.  This distance is considered to be so useful that it is  rearranged and discribed in the two terms of the leverage of covariates and the contingent discrepancy.  Hence the outlier detection can be displayed as a diagram with these two terms.  Extremes generally accompanies outliers.  Unfortunately the Cook's distance wouldn't be applicable to the outlier among the extremes.  It is one of the reason that the extreme value distribution doesn't belong to the exponential family. Thus we should find the alternative way.  The degree of experience, proposed originally for evaluating the limitation of extrapolation, will play an important role of detecting the outliers, because it is decomposed into two parts of the leverage of covariates and the contingent discrepancy in the average sense.  Not only the mathematical derivations are shown but also a practical judgement for the removal of outliers is demonstrated in a diagram of leverage and residual of extremes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6626</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6626/pdf_611</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

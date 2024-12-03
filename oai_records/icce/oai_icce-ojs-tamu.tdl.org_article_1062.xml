@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1062</identifier>
+				<datestamp>2023-10-04T04:40:42Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACTS OF DEEP WATERWAY PROJECT ON LOCAL CIRCULATIONS AND SALINITY IN THE CHANGJIANG ESTUARY, CHINA</dc:title>
+	<dc:creator xml:lang="en">Ge, Jianzhong</dc:creator>
+	<dc:creator xml:lang="en">Ding, Pingxing</dc:creator>
+	<dc:creator xml:lang="en">Chen, Changsheng</dc:creator>
+	<dc:subject xml:lang="en">Deep Waterway Project</dc:subject>
+	<dc:subject xml:lang="en">dikes</dc:subject>
+	<dc:subject xml:lang="en">unstructured-grid modeling</dc:subject>
+	<dc:description xml:lang="en">With an aim to improve and maintenance water depth along the navigational channel, the Deep Waterway Project has been conducted in the Changjiang Estuary. The structures of dikes and groins have greatly changed the local circulation with the combined effects of astronomical tide and strong freshwater discharge. A high-resolution fully three-dimension unstructured-grid model (FVCOM) has been applied to study the complicated hydrodynamics with the implementation of unstructured-grid dike-groin module. With the model validation with observation data, the simulation shows the dikes and groins has converted the rotational current into reciprocating flow along the navigational channel between the dikes, and produced the geometrically controlled eddies. The significant southward crossover current was produced along the dike during high tide when the water level is higher than the dike height. The strong saltwater intrusion is also revealed in the observation and model simulation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1062</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1062/pdf_26</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

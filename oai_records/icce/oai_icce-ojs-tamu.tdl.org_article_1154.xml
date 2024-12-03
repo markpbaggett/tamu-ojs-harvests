@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1154</identifier>
+				<datestamp>2021-01-19T09:45:55Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INCORPORATION OF WEIBULL DISTRIBUTION IN L-MOMENTS METHOD FOR</dc:title>
+	<dc:creator xml:lang="en">Goda, Yoshimi</dc:creator>
+	<dc:creator xml:lang="en">Kudaka, Masanobu</dc:creator>
+	<dc:creator xml:lang="en">Kawai, Hiroyasu</dc:creator>
+	<dc:subject xml:lang="en">extreme wave analysis</dc:subject>
+	<dc:subject xml:lang="en">distribution function</dc:subject>
+	<dc:subject xml:lang="en">Weibull distribution</dc:subject>
+	<dc:subject xml:lang="en">GPA distribution</dc:subject>
+	<dc:subject xml:lang="en">L-moments</dc:subject>
+	<dc:subject xml:lang="en">regional</dc:subject>
+	<dc:description xml:lang="en">The L-moments of the Weibull distribution are derived and incorporated in the regional frequency analysis of peaksover-threshold significant wave heights at eleven stations along the eastern coast of Japan Sea. The effective duration of wave measurements varies from 18.0 to 37.2 years with the mean rate of 10.4 to 15.1 events per year. The eleven stations are divided into three regions to assure homogeneity of the data. Both the Weibull and Generalized Pareto (GPA) distributions fit well to the observed data. The 100-year wave height varied from 8.2 to 11.2 m by the Weibull and 7.6 to 10.3 m by the GPA. The GPA distribution is not recommended for determination of design waves for these stations because it has an inherent upper limit and a tendency of under-prediction.
+
+
+References
+
+Coles, S. 2001. An Introduction to Statistical Modeling of Extreme Values, Springer, 208p.
+ 
+Goda, Y., Konagaya, O., Takeshita, N., Hitomi, H., and T. Nagai. 2000. Population distribution of extreme wave heights estimated through regional analysis, Coastal Engineering 2000 (Proc. 26th ICCE, Sydney), ASCE, Sydney, 1078-1091.
+ 
+Greenwood, J A., J. M. Landwehr, N. C. Matalas, and J. R. Wallis. 1978. Probability weighted moments: Definition and relation to parameters of several distributions expressable in inverse form, Water Resources Res., Vol. 15, No. 5, pp. 1049-1064.
+ http://dx.doi.org/10.1029/WR015i005p01049
+ 
+Hosking, J. R. M. 1990. L-moments: Analysis and estimation of distributions using linear combinations of order statistics, J. Roy. Statistical Soc., Series B, 52, pp. 105-24.
+ 
+Hosking, J. R. M. and J. R. Wallis. 1997. Regional Frequency Analysis, Cambridge Univ. Press, 224p.
+ http://dx.doi.org/10.1017/CBO9780511529443
+ 
+Ma, Q.-S., Li, Y.-B., and J. Li .2006. Regional frequency analysis of siginicant wave heights based on L-moments, China Ocean Engineering, 20(1), pp. 85-98.
+ 
+Petruaskas, C. and P. M. Aagaard. 1971. Extrapolation of historical storm data for estimating design wave heights, J. Soc. Petroleum Engrg., 11, pp. 23-27.
+ 
+van Gelder, P. H. A. J. M. 2000. Statistical Methods for the Risk-Based Design of Civil Structures, Ph.D. thesis Delft University of Technology, 249p.
+ 
+van Gelder, P. H. A. J. M., J. De Ronde, N. W. Neykov, and P. Neytchev. 2000. Regional frequency analysis of extreme wave heights: trading space for time, Coastal Engineering 2000</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1154</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1154/pdf_42</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

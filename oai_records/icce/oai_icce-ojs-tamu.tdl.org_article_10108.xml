@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10108</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXAMINATION OF MANGROVE MODELING IN NUMERICAL CALCULATION </dc:title>
+	<dc:creator xml:lang="en">Tadokoro, Ayaka</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">A number of studies which handle wave height attenuation effect due to coastal vegetation such as mangroves and coastal forests have been performed. In recent years, for considering effect of the mangrove roots, actual trees have been used for laboratory test. Chang (2019) proposed a formula for calculating C_D and C_M from Re and KC through experiments using a mangrove 3D model printed using actual tree. The C_D and C_M have been estimated experimentally under the condition that the water depth is relatively large and the waves don't break. However, the relationship between the Re number and the KC number and the C_D and C_M have not been investigated. Therefore, we conducted experiments focusing on the arrangement and density of the forest zone and trunk thickness. Then we demonstrated the validity of our analysis based on the comparison of our result and results of previous studies. The aim of this study is to establish a modeling method for coastal vegetation in order to enable calculation of the wave attenuation effect due to mangroves using numerical calculation.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/bcNlvRSvJQk</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10108</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.management.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; management.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10108/9394</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Ayaka Tadokoro, Taro Arikawa</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12759</identifier>
+				<datestamp>2023-09-01T15:12:55Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CROSS-SHORE TRANSFORMATION OF BOUND AND FREE INFRAGRAVITY WAVES OFF THE DUTCH COAST</dc:title>
+	<dc:creator xml:lang="en">Rutten, Jantien</dc:creator>
+	<dc:creator xml:lang="en">Tissier, Marion</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Xinyi</dc:creator>
+	<dc:creator xml:lang="en">Reniers, Ad</dc:creator>
+	<dc:creator xml:lang="en">Wiechen, Paul van</dc:creator>
+	<dc:creator xml:lang="en">Vries, Sierd de</dc:creator>
+	<dc:creator xml:lang="en">Rijnsdorp, Dirk</dc:creator>
+	<dc:creator xml:lang="en">Mol, Jan Willem</dc:creator>
+	<dc:creator xml:lang="en">Wilmink, Rinse</dc:creator>
+	<dc:description xml:lang="en">Infragravity (IG) waves are key drivers for coastal erosion and thus need to be properly included in process-based modelling of coastal hazards. Uncertainties remain regarding the offshore boundary conditions for these long waves. Typically, only bound IG waves are included at the boundary, which means that the possible contribution of free IG waves, such as those radiated from distant coastlines, is neglected. Recent studies however suggest that incoming free IG waves could be significant, particularly in semi-enclosed basins such as the North Sea where they could contribute to coastal hazards (e.g., Reniers et al., 2021, Rijnsdorp et al. 2021). The objective of this work is to improve the understanding of the incoming IG wave field along the Dutch coast. We will quantify how bound and free IG waves develop in intermediate water depths and assess in which conditions (onshore directed) free IG waves become significant.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12759</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12759/12032</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jantien Rutten, Marion Tissier, Xinyi Zhang, Ad Reniers, Paul van Wiechen, Sierd de Vries, Dirk Rijnsdorp, Jan Willem Mol, Rinse Wilmink</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

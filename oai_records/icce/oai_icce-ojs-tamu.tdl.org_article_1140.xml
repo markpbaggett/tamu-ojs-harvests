@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1140</identifier>
+				<datestamp>2021-01-19T09:47:11Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE HEIGHT DISTRIBUTIONS IN SHALLOW WATERS</dc:title>
+	<dc:creator xml:lang="en">Mai, Stephan</dc:creator>
+	<dc:creator xml:lang="en">Wilhelmi, Jens</dc:creator>
+	<dc:creator xml:lang="en">Barjenbruch, Ulrich</dc:creator>
+	<dc:subject xml:lang="en">wave height statistics</dc:subject>
+	<dc:subject xml:lang="en">radar measurement</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">Battjes-Groenendijk / Rayleigh distribution</dc:subject>
+	<dc:description xml:lang="en">In shallow waters the wave height distribution significantly differs from Rayleigh distribution during extreme wind
+conditions. The EurOtop manual (Pullen et al. 2007) recommends the use of a composite Rayleigh-Weibull distribution proposed by Battjes and Groenendijk (2000) in order to describe the wave statistics in shallow waters. A test of this recommendation by using wave measurements with continuously operated radar level gauges at three different sites at the German North Sea coast for comparison revealed the necessity for a change in the parameterization given in the EurOtop manual.
+
+
+References
+
+Barjenbruch, U., S. Mai, N. Ohle, and U. Mertinatis. 2002. Monitoring Water Level, Waves and Ice with Radar Gauges, Proceedings of the Hydro 2002 Conference, DHyG, 328-337.
+ 
+Barjenbruch, U., and J. Wilhelmi. 2008. Application of radar gauges to measure the water level and the sea state, Proceedings of 31st International Conference on Coastal Engineering, ASCE, 687-695.
+ 
+Battjes, J.A., and H.W. Groenendijk. 2000. Wave height distributions on shallow foreshores, Coastal Engineering, 40, 161-182. http://dx.doi.org/10.1016/S0378-3839(00)00007-7
+ 
+Burcharth, H.F., P. Frigaard, J. Uzcanga, J.M. Berenguer, B.G. Madrigal, and J. Villanueva. 1996. Design of the Ciervana breakwater, Bilbao, Advances in coastal structures and breakwaters, Thomas Telford, London, 26-43.
+ 
+Forristall, G. 2008. Offshore LNG terminal designs must overcome complications of shallow water, Oil &amp; Gas Journal, 106(43).
+ 
+IAHR Working Group on Wave Generation and Analysis. 1989. List of Sea-State Parameters, Journal of Waterway, Port, Coastal and Ocean Engineering, 115(6), pp. 793-80 http://dx.doi.org/10.1061/(ASCE)0733-950X(1989)115:6(793)
+ 
+Klopman, G., and M.J.F. Stive. 1989. Extreme waves and wave loading in shallow water, Proceedings of E&amp;P Forum Workshop: Wave and current kinematics and loading, Paris, Oct. 25-26.
+ 
+Longuet-Higgins, M. S. 1952. On the Statistical Distribution of the Heights of Sea Waves. Journal of Marine Research, 11(3), 245-266.
+ 
+Mai, S. 2008. Statistics of Waves in the Estuaries of the Rivers Ems and Weser - Measurement vs. Numerical Wave Model, Proceedings of the 7th Int. Conf. on Coastal and Port Engineering in Developing Countries COPEDEC, CD-ROM.
+ 
+Nelson, R.C. 1994. Depth limited design wave heights in very flat regions, Coastal Engineering, 23, 43-59. http://dx.doi.org/10.1016/0378-3839(94)90014-0
+ 
+Pullen, T., N.W.H. Allsop, T. Bruce, A. Kortenhaus, H. Schuttrumpf, and J.W. van der Meer. 2007. EurOtop - Wave Overtopping of Sea Defences and Related Structures: Assessment Manual, Die Kuste, 73, 193 pp. (online: </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1140</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1140/pdf_38</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

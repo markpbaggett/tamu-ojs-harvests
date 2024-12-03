@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5621</identifier>
+				<datestamp>2021-01-19T11:19:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MASS TRANSPORT OF PROGRESSIVE EDGE WAVES: A COMPARISON BETWEEN THE FULL AND SHALLOW-WATER WAVES THEORIES</dc:title>
+	<dc:creator xml:lang="en">Mok, K.M.</dc:creator>
+	<dc:creator xml:lang="en">Yeh, Harry</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">wave theory</dc:subject>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:subject xml:lang="en">edge waves</dc:subject>
+	<dc:description xml:lang="en">The differences between the full and shallow-water wave theories for edge waves are reviewed. Detailed comparisons between the solutions of the second-order mass transport velocities within the laminar boundary layer obtained through the two theories are carried out for the first three edge-wave modes. The results clearly show that the error of the shallow-water approximation is larger as the mode number gels larger, and/or the beach slope gets steeper. It is also found that the magnitude ofshallow-water approximation error increases in the offshore direction first, then it decreases as the distance approaches further offshore due to the energy decay in that direction. The affecting area of the shallow water approximation is relatively larger for the longshore transport than for the cross-shore transport in higher-mode edge waves. The significant differences between the full and shallow water-wave solutions in the near shore region identified in the present study issue a warning to the modellers ofcoastal hydrodynamics and nearshore topography, who utilize the shallow water approximation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5621</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5621/5293</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

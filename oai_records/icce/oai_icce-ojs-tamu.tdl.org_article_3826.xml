@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3826</identifier>
+				<datestamp>2021-01-19T21:31:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE GROUP ANATOMY OF OCEAN WAVE SPECTRA</dc:title>
+	<dc:creator xml:lang="en">Thompson, Warren C.</dc:creator>
+	<dc:creator xml:lang="en">Nelson, Arthur R.</dc:creator>
+	<dc:creator xml:lang="en">Sedivy, Dean G.</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">group anatomy</dc:subject>
+	<dc:subject xml:lang="en">wave spectra</dc:subject>
+	<dc:description xml:lang="en">This paper inquires into the questions of how wave groups are related to the wave spectrum, and how they differ in sea versus swell. Some results are presented in the form of a wave group model for sea spectra and for swell spectra. The models were developed from statistical analysis of a large number of wave records and apply to deep water only.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3826</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3826/3509</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

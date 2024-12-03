@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8221</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN AGENT-BASED MODEL TO EVALUATE HOUSING DYNAMICS OF COASTAL COMMUNITIES FACING STORMS AND SEA LEVEL RISE</dc:title>
+	<dc:creator xml:lang="en">Karanci, Ayse</dc:creator>
+	<dc:creator xml:lang="en">Berglund, Emily</dc:creator>
+	<dc:creator xml:lang="en">Overton, Margery</dc:creator>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">coupled human-natural system modeling</dc:subject>
+	<dc:subject xml:lang="en">community attractiveness</dc:subject>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:subject xml:lang="en">Nags Head</dc:subject>
+	<dc:description xml:lang="en">An agent-based model (ABM) is developed to explore the effects of storms and sea level rise (SLR) on soft-engineered coastal management actions and households' housing decisions at the coastal town of Nags Head in North Carolina, USA. The ABM links the behavior of household agents (individual homeowners) and town agents (coastal managers) with morphological coastal evolution caused by long-term erosion, sea level rise, and storms. Storm impacts are determined by combining the process-based model XBeach (Roelvink, 2009) outputs with the ABM framework. The integrated ABM framework is applied to simulate occupation dynamics and community viability under forcing from storms and sea level rise over a time frame of 50 years. A timeline with storm events was created using historical data and the intensity of the storm in the midpoint of the timeline was varied to explore the effect of storm intensity on the community. Simulations demonstrated a strong link between the intensity of storms and household occupancy. Results suggest that increased storm intensity hinders development and in some cases can cause community occupation growth to stagnate or decline. The results also indicate a feedback loop between the natural processes, management decisions, and household decisions. After a severe storm, buildings are damaged, expenses are increased, and occupation declines. A diminished community cannot invest in protection measures and in turn becomes more vulnerable to future storms. A tipping point may occur, where the community stagnates with respect to its household occupation. To investigate the influence of varying sea level rise rates on community occupancy dynamics, the model was forced with different sea level rise scenarios, including no sea level rise, a constant rate of sea level rise, and two scenarios with accelerated sea level rise. The scenario with no sea level rise showed a considerably more attractive community than the scenarios with sea level rise. This was attributed to (1) absence of expenses incurred in other scenarios to mitigate recession caused by sea level rise and (2) lower flooding risk.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8221</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.management.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; management.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8221/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

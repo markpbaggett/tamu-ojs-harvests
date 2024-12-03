@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5499</identifier>
+				<datestamp>2021-01-19T12:01:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-DIMENSIONAL HYDRODYNAMICS ON A BARRED BEACH</dc:title>
+	<dc:creator xml:lang="en">Oh, Tae-Myoung</dc:creator>
+	<dc:creator xml:lang="en">Dean, Robert G.</dc:creator>
+	<dc:subject xml:lang="en">barred beach</dc:subject>
+	<dc:subject xml:lang="en">3D hydrodynamics</dc:subject>
+	<dc:description xml:lang="en">Results are described from fixed bed wave tank tests to examine the generation and existence of three-dimensional flows on a barred beach. All tests were carried out with the use of two-dimensional and three-dimensional bar, which represented periodic forms parallel to the coast superimposed on a linear sloping beach. For these tests, wave heights and wave direction fields within and adjacent to the surf zone were documented to calculate the wave-induced horizontal torque based on mean vorticity and momentum equations. The circulation pattern clearly demonstrated that rip currents were stable on a three-dimensionally barred beach. It was found that the individual component including the depth gradients in the longshore direction, i.e., the effects of the bar morphology, tended to stabilize the bar-induced celluar circulation on the three-dimensional beach morphology although increased momentum fluxes of waves in the area with opposing currents induced by the bar tended to exert a counter force against them. It appeared that the mass transport over the more elevated portions of the bar tended to return to offshore through the deeper portions of the bar, where the depth gradients in the longshore direction existed. The cause is believed to be due to the greater hydraulic efficiency of flows through deeper portions of the profile.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5499</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5499/5174</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

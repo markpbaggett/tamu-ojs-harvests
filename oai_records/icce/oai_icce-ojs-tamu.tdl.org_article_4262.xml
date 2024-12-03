@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4262</identifier>
+				<datestamp>2021-01-19T19:00:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OSCILLATORY BOTTOM BOUNDARY LAYER BY LOW-REYNOLDS NUMBER TURBULENCE MODEL</dc:title>
+	<dc:creator xml:lang="en">Asano, Toshiyuki</dc:creator>
+	<dc:creator xml:lang="en">Goda, Hitomi</dc:creator>
+	<dc:creator xml:lang="en">Iwagaki, Yuichi</dc:creator>
+	<dc:subject xml:lang="en">low Reynolds number turbulence</dc:subject>
+	<dc:subject xml:lang="en">turbulence model</dc:subject>
+	<dc:subject xml:lang="en">bottom boundary layer</dc:subject>
+	<dc:subject xml:lang="en">oscillatory boundary layer</dc:subject>
+	<dc:description xml:lang="en">Characteristics of mean velocity and turbulence properties in oscillatory bottom boundary layers are investigated with low- Reynolds number turbulence model. Since this model is capable to describe the flow field close to the bottom, special attentions are paid on the characteristics of the viscous sublayer. Several interesting results, which coincide with or differ from existing knowledge on steady bottom boundary layers, are presented in paticular on the mean velocity profile, turbulent viscosity coefficient and growth of the viscous sublayer.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4262</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4262/3943</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

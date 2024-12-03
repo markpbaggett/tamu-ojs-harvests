@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12934</identifier>
+				<datestamp>2023-09-01T15:14:28Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDROSTATIC STABILITY EXPLORATION ON FLOATING STRUCTURES USING MACHINE LEARNING</dc:title>
+	<dc:creator xml:lang="en">ElDarwich, Hamid S.</dc:creator>
+	<dc:creator xml:lang="en">Garlock, Krisna Adi Pawitan, Iman Mansouri, Maria M.</dc:creator>
+	<dc:description xml:lang="en">A hydrostatic stability analysis is an important first step in designing floating structures. Most of the currently available commercial software is limited to hydrostatic stability curves. Current research tries to address this limitation, by developing a framework which couples numerical hydrostatic stability analysis based on potential energy minimization, with a machine learning (ML) model based on genetic programming (GP). In this way, potential energy functions are efficiently obtained. The resulting analytical formulations offer a wider understanding of the hydrostatic stability of floating structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12934</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12934/12207</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Hamid S. ElDarwich, Krisna Adi Pawitan, Iman Mansouri, Maria M. Garlock</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

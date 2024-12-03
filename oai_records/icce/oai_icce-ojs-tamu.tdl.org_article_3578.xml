@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3578</identifier>
+				<datestamp>2021-01-19T22:59:26Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDAL PRISM-INLET AREA RELATIONS FOR SMALL TIDAL INLETS</dc:title>
+	<dc:creator xml:lang="en">Byrne, R.J.</dc:creator>
+	<dc:creator xml:lang="en">Gammisch, R.A.</dc:creator>
+	<dc:creator xml:lang="en">Thomas, G.R.</dc:creator>
+	<dc:subject xml:lang="en">tidal prism</dc:subject>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">inlet area relations</dc:subject>
+	<dc:description xml:lang="en">Fourteen tidal inlets within the lower Chesapeake Bay were studied to examine whether significant differences existed in their hydraulic behavior relative to the larger oceanic inlets hitherto studied. Measurements included simultaneous external and internal tides, gauging of discharge through a tidal cycle, measurements of inlet geometry, and basin area. The results indicate that: a.) smaller inlets (A,- &lt; 100 m ) depart from the relationship between inlet throat area and tidal prism developed for oceanic inlets; b.) examination of inlet width versus depth indicates the departure from ocean inlet geometry occurs at Ac values between 100 and 500 m ; c.) the maximum velocity in smaller inlets is significantly less than oceanic inlets (-0.35 vs 1.0 m/s); d.) tidal phase lags and tidal range ratio were generally equal. However, for conditions of significant tide range reduction, the low water phase lags more closely approximated the tide range ratio.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3578</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.149</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 149</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3578/3260</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

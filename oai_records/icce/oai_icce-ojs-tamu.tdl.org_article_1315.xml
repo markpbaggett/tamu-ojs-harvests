@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1315</identifier>
+				<datestamp>2023-10-04T04:27:21Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING OF WAVE-CURRENT INTERACTION USING A MULTIDIRECTIONAL WAVE-ACTION BALANCE EQUATION</dc:title>
+	<dc:creator xml:lang="en">Ding, Yan</dc:creator>
+	<dc:creator xml:lang="en">Wang, Sam S. Y.</dc:creator>
+	<dc:subject xml:lang="en">Wave Action Model</dc:subject>
+	<dc:subject xml:lang="en">Wave-Current Interaction</dc:subject>
+	<dc:subject xml:lang="en">Coastal Processes</dc:subject>
+	<dc:subject xml:lang="en">Numerical Modeling</dc:subject>
+	<dc:description xml:lang="en">This study presents an integrated numerical model to simulate wave deformation/transformation in tidal inlets or river mouths with ambient currents (e.g. tidal currents, river inflows) by carefully modeling the effect of wave-current interaction. A multidirectional wave-action balance equation is used to compute random/directional wave processes such as diffraction, refraction, shoaling, wave breaking, as well as wave-current interaction. This wave action model is coupled with a two-dimensional hydrodynamic model, the feedback effect of wave and current can be effectively simulated. This model is validated by simulating wave laboratory experiments in an inlet entrance, and waves and tidal currents in Grays Harbor, WA by using available field observation data in 1999. The capabilities of the wave model for simulating wave-current interaction and the corresponding breaking effect are confirmed in the study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1315</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1315/pdf_99</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

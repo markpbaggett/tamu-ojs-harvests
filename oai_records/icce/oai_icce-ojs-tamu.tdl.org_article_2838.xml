@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2838</identifier>
+				<datestamp>2021-01-20T03:15:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORCES ON SUBMERGED PIPE LINES</dc:title>
+	<dc:creator xml:lang="en">Brater, Ernest F.</dc:creator>
+	<dc:creator xml:lang="en">Wallace, Roger</dc:creator>
+	<dc:subject xml:lang="en">pipe line</dc:subject>
+	<dc:subject xml:lang="en">forces on pipe line</dc:subject>
+	<dc:subject xml:lang="en">submerged pipe</dc:subject>
+	<dc:description xml:lang="en">This is a presentation of the analyses of data obtained from a laboratory investigation of horizontal forces produced by oscillatory waves on submerged pipes. The research program was planned to help solve design problems for pipe lines located on or below the bottom in the oceans or the Great Lakes. The project was financed by the National Science Foundation. A continuous record of wave height and horizontal force was obtained for pipes of four diameters, for three wave heights and three wave lengths. Forces were measured at four locations below the water surface, the lowest position being as near the bottom as possible. Other tests were conducted with the pipes located in various positions within trenches of several different shapes. The actual pipe diameters, wave heights and wave periods used in the laboratory tests were such that on the basis of a scale ratio of 1 to 75 the range of prototype parameters would include pipe diameters varying from 8 to 15 feet, wave heights varying from 8 to 23 feet and wave periods in the range from 6 seconds to 12 seconds. Results are presented in the form of coefficients of inertial resistance and drag which can be used with the Airy equations to compute forces.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2838</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2838/2502</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

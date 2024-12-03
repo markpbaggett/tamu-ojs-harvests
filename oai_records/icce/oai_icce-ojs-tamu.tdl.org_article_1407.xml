@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1407</identifier>
+				<datestamp>2023-10-04T04:22:58Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF A HIGH-RESOLUTION NEARSHORE WAVE FORECASTING/HINDCASTING SYSTEM FOR THE ITALIAN COASTS</dc:title>
+	<dc:creator xml:lang="en">Catini, Francesca</dc:creator>
+	<dc:creator xml:lang="en">Montagna, Francesca</dc:creator>
+	<dc:creator xml:lang="en">Franco, Leopoldo</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:creator xml:lang="en">Corsini, Stefano</dc:creator>
+	<dc:creator xml:lang="en">Inghilesi, Roberto</dc:creator>
+	<dc:creator xml:lang="en">Orasi, Arianna</dc:creator>
+	<dc:subject xml:lang="en">wave forecasting</dc:subject>
+	<dc:subject xml:lang="en">nearshore</dc:subject>
+	<dc:subject xml:lang="en">WAM</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Italian coast</dc:subject>
+	<dc:description xml:lang="en">This paper describes a research aimed at developing a high-resolution nearshore wave forecasting/hindcasting system for the Italian coasts. Data recorded by buoys located in shallow water are compared with hindcasted data. The model uses the results of the well-tested large scale meteorological forecasting system named 'Idro-meteo-mare' (SIMM) managed by ISPRA, the Italian Agency for the Environmental Protection and Research, as wind input for WAM and SWAN models. Two different approaches are used for the Adriatic and the Tyrrhenian/Ligurian Sea. In the first eastern basin two/three SWAN nested grids have been used, while in the second western basins two WAM nested grids and a finer SWAN grid have been used. Both methodologies have shown a good accuracy and and a reasonable level of efficiency.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1407</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1407/pdf_124</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

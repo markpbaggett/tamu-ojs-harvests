@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1360</identifier>
+				<datestamp>2023-10-04T03:48:37Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MORPHODYNAMIC MODELING OF THE MEDIUM-TERM MIGRATION OF A TIDAL CHANNEL USING PROCESS-BASED MODEL</dc:title>
+	<dc:creator xml:lang="en">Nguyen, Diem</dc:creator>
+	<dc:creator xml:lang="en">Etri, Talal</dc:creator>
+	<dc:creator xml:lang="en">Runte, Karl-Heinz</dc:creator>
+	<dc:creator xml:lang="en">Mayerle, Roberto</dc:creator>
+	<dc:subject xml:lang="en">tidal channel migration</dc:subject>
+	<dc:subject xml:lang="en">process-based model</dc:subject>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:description xml:lang="en">This paper investigates the predictive capability of a morphodynamic model in capturing the development of a tidal channel on the German North Sea coast which experienced migration in the last few years. A depth-averaged version of a process-based model, Delft3D, is used. A description of the set-up, calibration and validation of the process-based models is presented. Field measurements with a dense spatial and temporal coverage were used for the development of the models. Results from the hydrodynamic and sediment transport simulations were in agreement with observations. The morphodynamic model simulations were speeded up with a morphological acceleration factor in conjunction with a representative period. Results of model calibration and validation covering periods of several years proved the capability of the model to reproduce the migration of the tidal channel. According to the standards usually adopted for checking the accuracy of morphodynamic models, the performance of the model presented here was quite good. The model ability in predicting the migration in the medium-term was found to be dependent primarily on the accuracy of the starting bathymetry, characteristics of the substrata and of the mud sediment fraction as well as on the selection of the representative period. A reduction in the rate of migration of the tidal channel is predicted from 2008 till 2010.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1360</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1360/pdf_335</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

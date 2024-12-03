@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7954</identifier>
+				<datestamp>2021-01-20T03:46:43Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE GENERIC UTILIZATION OF PROBABILISTIC METHODS FOR QUANTIFICATION  OF UNCERTAINTY IN PROCESS-BASED MORPHODYNAMIC MODEL APPLICATIONS</dc:title>
+	<dc:creator xml:lang="en">Scheel, Freek</dc:creator>
+	<dc:creator xml:lang="en">de Boer, Wiebe P.</dc:creator>
+	<dc:creator xml:lang="en">Brinkman, Rob</dc:creator>
+	<dc:creator xml:lang="en">Luijendijk, Arjen P.</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:subject xml:lang="en">morphodynamics</dc:subject>
+	<dc:subject xml:lang="en">process-based morphodynamic  models</dc:subject>
+	<dc:subject xml:lang="en">uncertainties</dc:subject>
+	<dc:subject xml:lang="en">probabilistics</dc:subject>
+	<dc:subject xml:lang="en">uncertainty  quantification</dc:subject>
+	<dc:subject xml:lang="en">probabilistic-morphodynamic modelling framework</dc:subject>
+	<dc:subject xml:lang="en">Unibest CL </dc:subject>
+	<dc:subject xml:lang="en">Holland coast</dc:subject>
+	<dc:description xml:lang="en">A variety of uncertainty sources  are inherent  in  process-based morphodynamic modelling  applications.  There is an  increasing demand for the quantification of these uncertainties.  This contribution  introduces  a probabilistic-morphodynamic  (PM)  modelling framework  that enables this  quantification. The PM modelling framework provides  a systematic  approach,  while also  lowering  the required effort  for  inclusion of  uncertainty quantification  in  morphodynamic model studies. Applicability and added value is shown using a pilot application to the Holland coast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7954</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7954/pdf_945</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

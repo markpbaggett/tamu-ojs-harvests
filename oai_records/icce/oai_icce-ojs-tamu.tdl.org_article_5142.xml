@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5142</identifier>
+				<datestamp>2021-01-19T13:59:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHORECIRC: A QUASI 3-D NEARSHORE MODEL</dc:title>
+	<dc:creator xml:lang="en">Van Dongeren, A.R.</dc:creator>
+	<dc:creator xml:lang="en">Sancho, F.E.</dc:creator>
+	<dc:creator xml:lang="en">Svendsen, I.A.</dc:creator>
+	<dc:creator xml:lang="en">Putrevu, U.</dc:creator>
+	<dc:subject xml:lang="en">quasi-3D model</dc:subject>
+	<dc:subject xml:lang="en">SHORECIRC</dc:subject>
+	<dc:subject xml:lang="en">nearshore model</dc:subject>
+	<dc:description xml:lang="en">A depth-integrated, short wave-averaged nearshore circulation model is presented, which includes the effects of the 3-D current structure over depth. The model includes the description of time-varying currents such as infra-gravity waves. Two numerical schemes are developed, which will be used for intercomparison in the absence of analytical solutions. An absorbing-generating boundary condition is developed based on the Method of Characteristics in order to allow propagating waves to leave the computational domain with a minimum of reflection while specifying incoming waves at the same boundaries. The model is tested for the time-varying start-up of a longshore current on a cylindrical coast, and the temporal development of both the cross-shore profiles of the longshore current and characteristic samples of the vertical structure of the velocity profiles are given.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5142</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5142/4820</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

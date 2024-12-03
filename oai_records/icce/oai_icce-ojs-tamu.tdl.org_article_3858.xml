@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3858</identifier>
+				<datestamp>2021-01-19T21:20:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF OPPOSING CURRENT ON WAVE TRANSFORMATION ON SLOPING SEA BED</dc:title>
+	<dc:creator xml:lang="en">Sakai, Shigeki</dc:creator>
+	<dc:creator xml:lang="en">Saeki, Kiroshi</dc:creator>
+	<dc:subject xml:lang="en">bed</dc:subject>
+	<dc:subject xml:lang="en">sloping bed</dc:subject>
+	<dc:subject xml:lang="en">wave transformation</dc:subject>
+	<dc:subject xml:lang="en">opposing current</dc:subject>
+	<dc:description xml:lang="en">The transformation and the breaking of waves affected by an opposing current on the sloping sea bed were discussed. It was found that the characteristics of wave transformation before breaking point can be determined by the deep water wave steepness and the dimensionless unit width discharge. Concerning the wave decaying due to breaking, the characteristics of the change in the wave height depend only on the slope of the sea bed. Fourth order solutions of Stokes wave on a uniform current were calculated based on the first and second definition of the wave celerity, respectively. The theoretical solutions for wave transformation by the energy flux method were presented. Comparisons between the theoretical solutions and the experimental results gave the criteria of the applicability of our solutions corresponding to the dimensionless unit width discharge. In the calculation of energy flux, it was pointed out that the change in the mean level of the free surface should be taken into account. It was made clear that the change in the mean level of the free surface can be evaluated by Bernoulli's equation, and the energy flux in which the change in the mean level of the free surface was taken into account was proposed. The criteria of breaking corresponding to the dimensionless unit width discharge were clarified, experimentally.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3858</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3858/3541</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

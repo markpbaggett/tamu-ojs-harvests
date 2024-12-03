@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3762</identifier>
+				<datestamp>2021-01-19T21:55:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT INVESTIGATIONS IN A NEW ZEALAND TIDAL INLET</dc:title>
+	<dc:creator xml:lang="en">Black, K.P.</dc:creator>
+	<dc:creator xml:lang="en">Healy, T.R.</dc:creator>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">New Zealand</dc:subject>
+	<dc:description xml:lang="en">A study of sand and shell movement under the action of tidal flow was initiated in 1980 to ascertain the suitability of Whangarei Harbour at Marsden Point, New Zealand, for a proposed timber port. The aim was to assess the effects such a development may have on the sediment fluxes and the potential shoreline and channel instability that might be induced in the sandy inlet system. Vertical water velocity profiles were analysed to determine bed friction coefficients which were subsequently broken into two component parts: one due to form drag and the other associated with the skin friction. It was shown that the Vanoni and Hwang (1967) equation for form drag can be extrapolated to include drag under tidal flow over megaripples. The skin friction component was obtained from the speed at 1m above the bed and the De5 grain size, by utilising the Karman-Prandtl equation. This was applied to analysis of bedload trap yields and bedform advance rates over megaripples and good agreement with the Yalin bedload equation for plane beds was obtained. Suspended sediment transport was found to vary with U^7-75 and total load rates were in general agreement with the Engelund Hansen equation but deviations occurred due partly to expected form drag components being out of phase with the flow because of bedform hysteresis. Under tidal flow, the velocity at 1m was found to be a better predictor of sediment transport than the shear stress obtained from the velocity profile, thus methods presented in this paper use the lm speed for determination of total load transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3762</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.147</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 147</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3762/3445</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

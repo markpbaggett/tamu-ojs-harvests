@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5521</identifier>
+				<datestamp>2021-01-19T11:54:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN ENERGETICS APPROACH FOR SUSPENDED SAND TRANSPORT ON MACROTIDAL RIDGE AND RUNNEL BEACHES</dc:title>
+	<dc:creator xml:lang="en">Voulgaris, George</dc:creator>
+	<dc:creator xml:lang="en">Mason, Travis</dc:creator>
+	<dc:creator xml:lang="en">Collins, Michael B.</dc:creator>
+	<dc:subject xml:lang="en">runnel beach</dc:subject>
+	<dc:subject xml:lang="en">macrotidal ridge</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">energetics approach</dc:subject>
+	<dc:description xml:lang="en">High frequency observations of hydrodynamics and suspended sediment concentration were acquired from the intertidal zone of a macrotidal ridge and runnel beach. The hydrodynamic data from the electromagnetic current meters were used to calculate sediment transport rates according to Bailard's (1981) energetics model. Additionally, suspended sediment fluxes were calculated for the period of data collection. The contribution of long waves, short waves and mean currents to suspended sediment transport was examined. Application of the energetics model suggested that suspended sediment is the dominant mode of transport. Further, it showed that the waves define net sediment transport rate and direction. However, the measurements revealed that the transport due to mean currents was dominant. The discrepancy between the model and measurements was attributed to vortex ripples which were developed in the intertidal zone. Bailard's model failed to predict the oscillatory mode of transport but it was found to predict accurately the mean mode of suspended sediment transport assuming an efficiency factor value of 0.021 is used in the calculations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5521</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5521/5195</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8694</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A METHOD FOR EVALUATING THE MAXIMUM TSUNAMI LOADINGS ON SEAWALLS</dc:title>
+	<dc:creator xml:lang="en">Toriyama, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Azuma, Kisaburo</dc:creator>
+	<dc:creator xml:lang="en">Moritani, Hiroshi</dc:creator>
+	<dc:creator xml:lang="en">Ishida, Nobuo</dc:creator>
+	<dc:description xml:lang="en">A seawall in a nuclear power station is one of the important structures to protect from tsunami. Estimation of tsunami loadings on structures is an important part of the proper design of seawalls. In this study, hydraulic flume tests was conducted to investigate the characteristics of tsunami loadings. Correlations between the loading on a seawall and the Froude number as characteristics of the tsunami flow were investigated. Finally, we proposed a new evaluation method to evaluate the design wave pressure on a seawall. A new evaluation method can predict the design wave pressure on a seawall with taking the characteristics of the tsunami flow into consideration.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8694</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8694/7497</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8694/8074</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

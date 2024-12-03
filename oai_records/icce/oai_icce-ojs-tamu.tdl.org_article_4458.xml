@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4458</identifier>
+				<datestamp>2021-01-19T17:53:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF THE GULF STREAM ON NEARBY COASTAL WAVES</dc:title>
+	<dc:creator xml:lang="en">Holthuijsen, L.H.</dc:creator>
+	<dc:creator xml:lang="en">Tolman, H.L.</dc:creator>
+	<dc:subject xml:lang="en">Gulf Stream</dc:subject>
+	<dc:description xml:lang="en">In the present study a third-generation numerical wave model is used to study effects of a straight Gulf Stream and a Gulf Stream ring, on ocean waves along the coast in swell and storm conditions. The model accounts for all relevant processes of propagation, generation and dissipation of the waves (including current effects) without imposing a priori restraints on the spectral development of the waves. The dominating mechanism affecting the waves appears to be current induced refraction even though the short-crestedness of the incoming waves tends to mask its effects. Depending on wind and wave conditions, refraction may trap locally generated waves in the straight Gulf Stream or it may reflect wave energy back to the open ocean. In the Gulf Stream ring, refraction induces a considerable variation in significant wave height and short-crestedness but it hardly affects the mean wave direction. In storm conditions the processes of generation and dissipation are considerably enhanced in counter-current situations and reduced in following-current situations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4458</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4458/4139</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

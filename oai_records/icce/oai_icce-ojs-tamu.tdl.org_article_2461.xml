@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2461</identifier>
+				<datestamp>2021-01-17T04:59:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE INFLUENCE OF PILE DIMENSION ON FORCES EXERTED BY WAVES</dc:title>
+	<dc:creator xml:lang="en">Paape, A.</dc:creator>
+	<dc:creator xml:lang="en">Breusers, H.N.C.</dc:creator>
+	<dc:subject xml:lang="en">pile dimension</dc:subject>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">wave/pile interaction</dc:subject>
+	<dc:description xml:lang="en">The increase in applications of off-shore structures has raised a growing interest in the determination of wave forces on piles. Both theory and model experiments have been applied to establish relations between wave characteristics, shape and dimensions of piles and wave forces exerted. As far as theory and computations are involved, the wave forces are generally assumed to be the resultant of drag and inertia forces. The influence of typical features of the flow pattern around the pile on the forces exerted is expressed in coefficients of drag (C_) and inertia (C..) which are, in practice, generally assumed to be dependent on the shape of the pile only. The latter assumption is not correct, which partly explains the variety in magnitude of CD. and CM,, which is found in literature, The time-dependancy of the flow pattern leads to an influence of pile dimensions relative to those of orbital motions. The aim of the paper is to draw attention to this phenomenon and to provide a possible starting point for a more reliable approach of wave forces. The nature of forces exerted by oscillating flow is briefly discussed and illustrated by results of model experiments and computations. Subsequently model investigations on piles are described, the results of which are compared with computations for constant coefficients of drag and inertia.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2461</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2461/2126</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

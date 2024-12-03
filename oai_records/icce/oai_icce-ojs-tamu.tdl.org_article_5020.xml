@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5020</identifier>
+				<datestamp>2021-01-19T14:42:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE BREAKING OVER PERMEABLE SUBMERGED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Hattori, Masataro</dc:creator>
+	<dc:creator xml:lang="en">Sakai, Hiroyuki</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">submerged breakwater</dc:subject>
+	<dc:subject xml:lang="en">permeable breakwater</dc:subject>
+	<dc:description xml:lang="en">A laboratory experiment was carried out in a wave tank to examine significant features of wave breaking over permeable submerged breakwaters and to determine the breaker height and depth indices. Submerged trapezoidal-shaped breakwaters were place on a 1/20 steel slope, and permeability of the breakwaters was varied. The experiment showed that the breaker height and depth change with the breakwater permeability governing the strength of return flow over the breakwater. Breaker height index was developed in terms of the integrated parameter 2=s" proposed by Hara et al. (1992), which consists of the geometrical and structure properties of the breakwater as well as properties of incident waves. To determine the breaking position or depth, additional indices were also proposed. Validity of the computation scheme of the breaker height and position were confirmed by comparisons with the experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5020</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5020/4700</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

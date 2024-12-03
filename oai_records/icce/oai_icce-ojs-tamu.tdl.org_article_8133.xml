@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8133</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON BETWEEN MIKE 21 FM, DELFT3D AND DELFT3D FM FLOW MODELS OF WESTERN PORT BAY, AUSTRALIA</dc:title>
+	<dc:creator xml:lang="en">Symonds, Andrew Mark</dc:creator>
+	<dc:creator xml:lang="en">Vijverberg, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Post, Sander</dc:creator>
+	<dc:creator xml:lang="en">van der Spek, Bart-Jan</dc:creator>
+	<dc:creator xml:lang="en">Henrotte, Johan</dc:creator>
+	<dc:creator xml:lang="en">Sokolewicz, Marius</dc:creator>
+	<dc:subject xml:lang="en">hydrodynamic model</dc:subject>
+	<dc:subject xml:lang="en">structured</dc:subject>
+	<dc:subject xml:lang="en">unstructured</dc:subject>
+	<dc:subject xml:lang="en">computational efficiency</dc:subject>
+	<dc:description xml:lang="en">The performance of three different hydrodynamic modelling packages is compared in this study, namely Delft3D, Delft3D FM (both developed by Deltares) and MIKE 21 FM (developed by DHI). Delft3D and MIKE 21 FM are internationally known software packages while Delft3D FM (formerly known as D-Flow FM) is a relatively new package. The models use structured approaches (Delft3D), unstructured approaches utilising triangular and quadrilateral elements (MIKE 21 FM) and unstructured approaches utilising elements ranging from linear to six sided (Delft3D FM). Models of Western Port, Australia, were developed using the three different packages to allow a comparison of performance and to determine if there are any differences in using structured versus unstructured approaches. Model performance has been assessed based on model calibration, representation of channel flows and computational efficiency. Despite the inherent differences in the grid configuration and the implementation of the numerical schemes between structured and unstructured approaches, both approaches have been shown to be able to accurately predict hydrodynamic conditions in a complex estuarine environment. The unstructured approach was found to be the most computationally efficient both when run on multiple cores (MIKE 21 FM was the most efficient) and when run on a single core (Delft3D FM was the most efficient).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8133</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8133/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

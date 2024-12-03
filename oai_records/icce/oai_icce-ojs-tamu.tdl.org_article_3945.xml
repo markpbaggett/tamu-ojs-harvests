@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3945</identifier>
+				<datestamp>2021-01-19T20:49:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SAFETY AND RELIABILITY OF BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Mol, A.</dc:creator>
+	<dc:creator xml:lang="en">Groeneveld, R.L.</dc:creator>
+	<dc:creator xml:lang="en">Waanders, A.J.</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater safety</dc:subject>
+	<dc:subject xml:lang="en">breakwater reliability</dc:subject>
+	<dc:description xml:lang="en">This paper discusses the need to incorporate a reliability analysis in the design procedures for rubble mound breakwaters. Such an analysis is defined and a suggested approach is outlined. Failure mechanisms are analysed and categorized in Damage Event Trees. The probability of failure is computed using a level III simulation method to include time and cumulative effects and to account for skewed probability distributions. Typical outputs of the computer program are shown and compared with results according to traditional design approaches. The paper concludes that there is a definite need to include reliability analysis in the design procedures for larger breakwaters and such an analysis must consider the accuracy of design parameters and methods.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3945</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.164</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 164</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3945/3628</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

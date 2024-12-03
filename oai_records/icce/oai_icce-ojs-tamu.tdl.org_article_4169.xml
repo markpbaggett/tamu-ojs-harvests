@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4169</identifier>
+				<datestamp>2021-01-19T19:32:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPULSIVE BREAKING WAVE FORCES ON AN INCLINED PILE EXERTED BI RANDOM WAVES</dc:title>
+	<dc:creator xml:lang="en">Tanimoto, K.</dc:creator>
+	<dc:creator xml:lang="en">Takahashi, S.</dc:creator>
+	<dc:creator xml:lang="en">Kaneko, T.</dc:creator>
+	<dc:creator xml:lang="en">Shiota, K.</dc:creator>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">impulsive breaking</dc:subject>
+	<dc:subject xml:lang="en">inclined pile</dc:subject>
+	<dc:subject xml:lang="en">pile</dc:subject>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:description xml:lang="en">A calculation method of the impulsive breaking wave forces on piles is proposed in this paper. It is derived on the basis of experimental results with some theoretical considerations. Wave forces on a cylinder caused by both regular and irregular trains of waves are measured in a large wave flume. The experimental results are compared with the values predicted by both Wagner and Karman. In the proposed method, it is assumed that the impulsive force acts on the upper half of the pile between the still water level and the wave crest, and that the force distribution along the pile is triangular shape. The peak value in the distribution is expressed by the function of both the breaking force parameter and the inclination angle of the cylinder. The breaking force parameter is the ratio of the bottom slope to wave steepness. The time history of the impact force is given as a triangular pulse with a vertical rise. The duration time is determined as half of the value predicted by Karman's theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4169</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.168</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 168</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4169/3850</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3817</identifier>
+				<datestamp>2021-01-19T21:34:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STATISTICAL PROPERTIES OF SHORT-TERM OVERTOPPING</dc:title>
+	<dc:creator xml:lang="en">Kimura, Akira</dc:creator>
+	<dc:creator xml:lang="en">Seyama, Akira</dc:creator>
+	<dc:subject xml:lang="en">short term overtopping</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">statistical properties</dc:subject>
+	<dc:description xml:lang="en">It has been recognized recently that large waves tend to form a group in random sea waves. Overtopping tends to occur particularly when a group of high waves attacks a sea wall. If the capacity of a storage reservoir inside the sea wall is not sufficiently large enough to store a total amount of overtopping brought about by a single group of consecutive high waves, and if a drainage facility is not large enough to pump out sufficient water from the storage reservoir before the next overtopping starts, there is a danger of flooding inside the sea wall. Hence, storage and drainage facilities should be planned to be able to cope with the total amount of overtopping produced by a single group of high waves which overtop the sea wall consecutively. The term "short-term overtopping" referred in this study is that caused by a single group of high waves (see Fig.l). This study aims to clarify the following points: (1) the statistical properties of the amount of short-term overtopping, (2) the method to evaluate a security factor inside a sea wall against flooding by overtopping and an extension of the theory to the short-term overtopping from a comparatively long sea wall.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3817</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3817/3500</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

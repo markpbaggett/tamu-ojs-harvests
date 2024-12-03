@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1005</identifier>
+				<datestamp>2023-10-04T04:01:38Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-DIMENSIONAL NUMERICAL MODEL FOR SIMULATING THE ACCUMULATION PROCESS OF IMMERSED TUBE TANK OF HMZ BRIDGE</dc:title>
+	<dc:creator xml:lang="en">Wang, Zhili</dc:creator>
+	<dc:creator xml:lang="en">Geng, Yanfen</dc:creator>
+	<dc:creator xml:lang="en">Lu, Yongjun</dc:creator>
+	<dc:subject xml:lang="en">3D model</dc:subject>
+	<dc:subject xml:lang="en">finite volume</dc:subject>
+	<dc:subject xml:lang="en">unstructured grid</dc:subject>
+	<dc:subject xml:lang="en">HMZ Bridge</dc:subject>
+	<dc:subject xml:lang="en">tube tank</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">In this paper, the development and implementation of a three-dimensional, numerical sediment transport model, which is based on staggered C-unstructured grids in the horizontal direction and Z-level grids in the vertical direction, is delineated. The three dimensional model is discretized by semi-implicit finite volume method, in that the free-surface and vertical diffusion are semi-implicit, thereby removing stability limitations associated with the surface gravity wave and vertical diffusion terms. The remaining terms in the momentum equations are discretized explicitly by integral method. The model is closed physically and mathematically using the Mellor and Yamada level-2.5 turbulent closure submodel. The numerical model is used for simulation accumulation process of immersed tube tank of HMZ (Hong Kong-Macau-Zhuhai) bridge. The model is calibrated and its performance extensively assessed against on-site experiment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1005</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1005/pdf_269</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

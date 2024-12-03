@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5544</identifier>
+				<datestamp>2021-01-19T11:46:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING TIDAL CIRCULATION IN FLORIDA BAY</dc:title>
+	<dc:creator xml:lang="en">Sheng, Peter</dc:creator>
+	<dc:creator xml:lang="en">Davis, Justin</dc:creator>
+	<dc:subject xml:lang="en">Florida bay</dc:subject>
+	<dc:subject xml:lang="en">circulation</dc:subject>
+	<dc:subject xml:lang="en">bar</dc:subject>
+	<dc:subject xml:lang="en">tidal circulation</dc:subject>
+	<dc:description xml:lang="en">A preliminary modeling study on tidal circulation in Florida Bay has been conducted, based on a set of high resolution (20 meters x 20 meters) bathymetric data and a comprehensive set of water level data for Florida Bay obtained by the Everglades National Park in 1993 and 1994. Using the data and a 3-D curvilineargrid model developed by Sheng (1989, 1994), we conducted preliminary model simulations of tidal, wind-driven and density-driven circulations in Florida Bay (Sheng et al. 1995). This paper presents some results of tidal simulation and comparison with tidal data. The results indicate that the 3-D model is capable of simulating many of the observed circulation features in Florida Bay, including tidal amplitude, tidal phase and residual circulation. Additional work is being conducted with the use of a very fine 50m grid and a robust wetting-and-drying scheme.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5544</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5544/5218</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

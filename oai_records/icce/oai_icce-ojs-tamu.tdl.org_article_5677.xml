@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5677</identifier>
+				<datestamp>2021-01-19T11:01:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG-PERIOD WAVE RESPONSES IN A HARBOR WITH NARROW MOUTH</dc:title>
+	<dc:creator xml:lang="en">Jeong, Weon Me</dc:creator>
+	<dc:creator xml:lang="en">Lee, Kil Seong</dc:creator>
+	<dc:creator xml:lang="en">Park, Woo Sun</dc:creator>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">harbor mouth</dc:subject>
+	<dc:subject xml:lang="en">narrow harbor mouth</dc:subject>
+	<dc:subject xml:lang="en">wave response</dc:subject>
+	<dc:description xml:lang="en">Field measurements of long-period wave have been preformed for the Gamcheon Harbor in Korea. A Galerkin finite element model based on the extended mild-slope equation has been developed for simulating harbor oscillation more accurately. Infinite and joint elements are introduced to accomodate radiation condition at infinity and matching conditions at harbor mouth for the consideration of the energy loss due to flow separation, respectively. Comparisons with the results obtained by hydraulic experiments by Lepelletier (1980) show that the present model gives fairly good results. Model results reveal that the influence of entrance loss at the harbor mouth is considerably significant. From the application to the Gamcheon Harbor it is seen that the computed resonant periods and amplification ratios well agree with the measured results. The entrance loss effects were found to be insignificant unless the incident wave height is large.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5677</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5677/5347</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3586</identifier>
+				<datestamp>2021-01-19T22:56:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY ON VORTEX CURRENT IN STRAIT WITH REMOTE-SENSING</dc:title>
+	<dc:creator xml:lang="en">Onishi, Sotoaki</dc:creator>
+	<dc:creator xml:lang="en">Nishimura, Tsukasa</dc:creator>
+	<dc:subject xml:lang="en">vortex current</dc:subject>
+	<dc:subject xml:lang="en">strait</dc:subject>
+	<dc:subject xml:lang="en">remote sensing</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">With rapid increases of industrial activity in present time, water pollution in the coastal environment has "become an urgent problem to cope with. This problem is especially serious in enclosed bays or inland seas. Hydrodynamic character of the strait connecting the inland sea to the open ocean must be understood well in order to analyse the diffusion of pollutants in the Inland sea, because its character determine boundary conditions in the mathematical models of the water pollution problem. So far however, it is seemed that the main efforts exerted by coastal engineers have concentrated mainly on the development of mathematical models, lacking satisfactory knowledge of the boundary conditions through field measurements. One reason of this state is resulted from the fact that the relating phenomena in the field are of too large scale, in general, to perform the field measurements. Connecting with this point, the authors present in this paper, that remote-sensing technology is very useful to get information of the hydrodynaniical phenomena occurring in the water body around the strait. To show the above, the authors selected as an object of the study , Naruto Strait in the Seto Inland Sea, which is world famous for the existence of rapid tidal currents and dynamic vortices. Remote-sensing data both from the airplanes and from a space satellite Landsat are analysed with the aid of theoretical considerations and hydraulic mo-del tests to disclose the behavior of the vortices of various scales and the roles of them in the sea water mixing phenomena at the strait.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3586</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.157</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 157</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3586/3268</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

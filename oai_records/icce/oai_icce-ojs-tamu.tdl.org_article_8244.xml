@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8244</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE REDUCTION OF WAVE OVERTOPPING BY MEANS OF A STORM WALL</dc:title>
+	<dc:creator xml:lang="en">Van Doorslaer, Koen</dc:creator>
+	<dc:creator xml:lang="en">De Rouck, Julien</dc:creator>
+	<dc:creator xml:lang="en">Van der Meer, Jentsje</dc:creator>
+	<dc:subject xml:lang="en">Wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">reduction factor</dc:subject>
+	<dc:subject xml:lang="en">wave wall</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">non-breaking waves</dc:subject>
+	<dc:subject xml:lang="en">storm wall</dc:subject>
+	<dc:description xml:lang="en">A second edition of the EurOtop manual, a manual on wave overtopping of sea defenses and related structures, became available as pre-release in October 2016 on the website www.overtopping-manual.com. One of the improvements in this manual is based on the material in the current paper: how wave walls can reduce wave overtopping discharges. The base data set for the original advice in the previous EurOtop from 2007 is compared to the new developed procedures and new (unpublished) data collected in the wave flume of Ghent University. The comparative study shows that the differences are due to hydraulic differences in the test program. The original dataset from 1994 has tests with the still water level SWL both above and below the foot of the wall and was analyzed with an average slope analysis, where the UGent dataset only has tests with SWL below the foot of the wall and the small wall on top of the dike slope did not influence the average slope so that the actual slope could be used. The reduction factors deduced in analyzing the UGent datasets also work well for part of the original dataset, but not the other way around. The advice in the second edition of the EurOtop is thus to use the reduction factors by the UGent data analysis for wave walls above SWL, where the method proposed in the first edition can still be used for wave walls that have their foot below SWL. Both methodologies are explained in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8244</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8244/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

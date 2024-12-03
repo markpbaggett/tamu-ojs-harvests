@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12729</identifier>
+				<datestamp>2023-09-01T15:12:40Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RECOVERY OF SURFACE WAVES FROM BOTTOM PRESSURE BY NEURAL NETWORK WITH BISPECTRUM</dc:title>
+	<dc:creator xml:lang="en">Yoshino, Hiyori</dc:creator>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:creator xml:lang="en">Ide, Yoshihiko</dc:creator>
+	<dc:creator xml:lang="en">Kawaguchi, Koji</dc:creator>
+	<dc:creator xml:lang="en">Mitsui, Masao</dc:creator>
+	<dc:description xml:lang="en">The Nationwide Ocean Wave Information Network for Ports and Harbors (NOWPHAS) conducted by the Port and Harbor Bureau of the Ministry of Land, Infrastructure, Transport and Tourism (MLIT) in Japan, uses a Doppler Wave Meter (DWM) as a standard equipment for wave observation. Depending on the situation, the system supplements the missing data by estimating surface waves based on water pressure data as appropriate. Meanwhile, in the case of cargo handling in harbors, the significant wave height is generally used as a criterion. It has been reported that even under conditions where wave heights are considered calm, there are many cases where large ship motions occur, causing problems with cargo handling operations. Since large ship motions occur when the long-period wave component is close to characteristic period of the vibration system consisting of the hull and mooring cables, it is necessary to examine the frequency domain based on spectra instead of the significant wave height. Therefore, in this study, the frequency-domain analysis was used as the basis for the estimation of surface waves from bottom pressure waves. The transfer function that relates the two wave quantities is estimated to convert the pressure wave to a water surface wave. The purpose of this study is to develop a method for estimating surface waves that can be used not only during storms, but also for examining the marginal loading wave conditions for long period waves at all times.    </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12729</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12729/12002</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Hiyori Yoshino, Noriaki Hashimoto, Yoshihiko Ide, Koji Kawaguchi, Masao Mitsui</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

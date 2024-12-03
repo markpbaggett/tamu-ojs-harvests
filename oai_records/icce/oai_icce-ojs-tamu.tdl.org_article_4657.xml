@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4657</identifier>
+				<datestamp>2021-01-19T16:45:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING OF COHESIVE SEDIMENT TRANSPORT. A CASE STUDY: THE WESTERN SCHELDT ESTUARY</dc:title>
+	<dc:creator xml:lang="en">Mulder, Herman P.J.</dc:creator>
+	<dc:creator xml:lang="en">Udink, Connie</dc:creator>
+	<dc:subject xml:lang="en">Western Schedlt Estuary</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">case study</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">cohesive sediment</dc:subject>
+	<dc:description xml:lang="en">A depth-averaged numerical model for the erosion, sedimentation and transport of cohesive sediment is applied to a mesotidal estuary. The transport model is coupled to a hydrodynamic and a wave model. First results are presented as part of the aim to predict year-averaged quantities. Comparisons with measured data of net sedimentation and suspended concentration are made. As the bed of the estuary consists mainly of non-cohesive sediments, the erosion formula is adapted to account for the local (non-)cohesive fraction in the bed. The effect of the spatial variation in this property of the bed is significant. Furthermore the influence of surface waves is investigated and showed to be of great importance in a qualitative and quantitative sense. The model can take into account the dumping of dredged material and gives reasonable results in case of the spreading and sedimentation of mud from one source, as shown by a simulation of the transport of fluvial mud.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4657</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4657/4338</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

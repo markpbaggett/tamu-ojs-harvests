@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3618</identifier>
+				<datestamp>2021-01-19T22:44:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SOUTH AFRICAN WAVE CLIMATE STUDY</dc:title>
+	<dc:creator xml:lang="en">Rossouw, J.</dc:creator>
+	<dc:creator xml:lang="en">Coetzee, L.W.</dc:creator>
+	<dc:creator xml:lang="en">Visser, C.J.</dc:creator>
+	<dc:subject xml:lang="en">wave climate</dc:subject>
+	<dc:subject xml:lang="en">South Africa</dc:subject>
+	<dc:description xml:lang="en">A study was made, using all the available sources of deepsea wave data around the South African coast, to establish a statistical representation of the wave climate in this region. Data obtained from clinometer observations, the Datawell Waverider and voluntary observing ships were found to be the most useful. The most accurate source of height, period and spectral information came from the Waverider which has been in extensive use in the region since 1969. To optimise the information value of these data a sophisticated data qualification technique was developed for digitised Waverider data in order to exclude poor data. This technique was also found to be useful in optimising the operational efficiency of a Waverider station. A clear pattern was obtained for the general wave climate around the South African coast; this is in accordance with the pattern that may be expected from the weather climate affecting this region. Of interest are the SE'ly winds generating increased wave heights in proportion to the distance offshore from the west coast as well as the effect of the Agulhas current, opposing the SW'ly waves along the east coast, also creating high-wave conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3618</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3618/3300</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

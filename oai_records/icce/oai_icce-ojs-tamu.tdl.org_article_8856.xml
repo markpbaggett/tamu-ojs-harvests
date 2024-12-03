@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8856</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACCUMULATED DAMAGE EVOLUTION AND INVESTMENT COSTS OF BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Folgueras, P.</dc:creator>
+	<dc:creator xml:lang="en">Del-Rosal-Salido, J.</dc:creator>
+	<dc:creator xml:lang="en">Moragues, M. V.</dc:creator>
+	<dc:creator xml:lang="en">Lopez, J.D.</dc:creator>
+	<dc:creator xml:lang="en">Losada, M.A.</dc:creator>
+	<dc:description xml:lang="en">Since the pioneering work by Borgman, (for vertical walls), and Paape, (for rubble mound breakwaters) in the 50´s of the last century, the design of new breakwaters and rehabilitation of existing breakwaters can be based on lifecycle analysis targeting the optimum investment costs, including the construction costs, maintenance, repairs and demolition, costs, and downtime costs. The estimation of these costs is based on the performance criteria of each failure mode for the structural and hydraulic responses related to the design limit stages SLS and ULS, including both a physical measure and a probability of occurrence, ROM 0.0 and 1.0 (2000 and 2007) and PIANC 2017. To evaluate these costs including their uncertainty it is necessary to apply, (1) a spatial and temporal damage evolution model of each failure mode, (2) to define the interdependence between modes including the decision criteria when start to repair, and (3) to compute the costs depending on the real sea conditions, the strategy of construction and the available construction power. The main objective of this work is to present a methodology to estimate the probability distribution function of the investment costs in the useful life of the structure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8856</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.structures.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; structures.73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8856/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8856/8184</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

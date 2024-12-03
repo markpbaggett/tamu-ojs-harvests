@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6781</identifier>
+				<datestamp>2023-10-04T02:55:23Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REMOTELY SENSED DATA FOR WAVE PROFILE ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Harry, Matthew</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Hong</dc:creator>
+	<dc:creator xml:lang="en">Colleter, Gildas</dc:creator>
+	<dc:subject xml:lang="en">LiDAR</dc:subject>
+	<dc:subject xml:lang="en">remote sensing</dc:subject>
+	<dc:subject xml:lang="en">wave measurement</dc:subject>
+	<dc:description xml:lang="en">Laser scanning technology (LiDAR) is a form of remote sensing from which a water surface can be measured rapidly and accurately without in-situ sensors. An experimental setup for the measurement of waves in a wave flume is detailed with an analysis of various wave parameters. The experiments function as a source of reliable laboratory controlled data while the data analysis presents the range of research fields that the data can be applied to.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6781</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6781/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

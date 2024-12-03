@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4009</identifier>
+				<datestamp>2021-01-19T20:26:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TRANSFORMATION OF RANDOM BREAKING WAVES ON SURF BEAT</dc:title>
+	<dc:creator xml:lang="en">Dally, William R.</dc:creator>
+	<dc:creator xml:lang="en">Dean, Robert G.</dc:creator>
+	<dc:subject xml:lang="en">surf beat</dc:subject>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">wave transformation</dc:subject>
+	<dc:description xml:lang="en">Based on a previous study by the authors of regular breaking waves in the surf zone, a model for random wave transformation across the nearshore region is developed. The results of a laboratory investigation of the effect of a steady opposing current on the wave decay process are presented and a proposed governing equation verified. Surf beat effects on wave transformation are then included in the model by representing the long wave as a temporally and spatiallyvarying current and mean water level. The concept of an equivalent water depth, which contains the effect of the current, is introduced and then included in a stochastic form in the random wave model. Surf beat is found to noticeably increase the decay of the root mean square wave height, especially in the inner surf where the beat is strongest. Comparison of the models to two field data sets show very good agreement for Hotta and Mizuguchi (1980), but rather poor for Thornton and Guza (1983). Possible explanations for the unexpected behavior of the second data set, pertaining to filtering, are discussed. Finally, a possible explanation for the dependence of random wave decay on deepwater steepness, noted by Battjes and Stive (1985), is presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4009</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4009/3692</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

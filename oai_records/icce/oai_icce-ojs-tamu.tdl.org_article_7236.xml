@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7236</identifier>
+				<datestamp>2021-01-19T05:02:23Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE SCALE EXPERIMENTS ON BEACH EVOLUTION INDUCED BY BICHROMATIC WAVE GROUPS WITH VARYING GROUP PERIOD</dc:title>
+	<dc:creator xml:lang="en">Alsina, Jose M</dc:creator>
+	<dc:creator xml:lang="en">Caceres, Ivan</dc:creator>
+	<dc:creator xml:lang="en">van der Zanden, Joep</dc:creator>
+	<dc:creator xml:lang="en">Ribberink, Jan S.</dc:creator>
+	<dc:creator xml:lang="en">Baldock, Tom E.</dc:creator>
+	<dc:subject xml:lang="en">wave groups</dc:subject>
+	<dc:subject xml:lang="en">beach morphology</dc:subject>
+	<dc:subject xml:lang="en">bed level changes</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">breaker bar location</dc:subject>
+	<dc:description xml:lang="en">New large scale experimental data have been presented showing the wave group influence on beach morphodynamics at the surf and swash zones. Bichromatic wave conditions were generated varying the modulation bandwidth but keeping the wave energetic content constant within the experimentation limits. The wave group influence in the surf zone is observed in the form of the cross-shore location of the breaker bar respect to the initial still water level (SWL) location, which has been shown to increase as increases the wave group period. This influence is explained in terms of differences on the surf zone width induced by the varying wave group periods. In the swash zone, time dependent bed level elevation measurements were done using a newly developed conductivity technique, the CCM+ system. Bed level time variations at the swash zone have shown to be composed of a long scale trend and bed level oscillations of shorter frequencies related to the wave group forcing. A good spectral correlation has been found between the water surface elevation and bed level variation at the wave group period for every bichromatic component indicating an important influence of wave groups on the swash zone morphodynamics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7236</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7236/pdf_690</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

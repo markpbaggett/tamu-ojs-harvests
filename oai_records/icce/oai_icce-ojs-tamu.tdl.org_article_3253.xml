@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3253</identifier>
+				<datestamp>2021-01-20T00:45:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE INDUCED OSCILLATIONS OF HARBORS WITH VARIABLE DEPTH</dc:title>
+	<dc:creator xml:lang="en">Raichlen, F.</dc:creator>
+	<dc:creator xml:lang="en">Naheer, E.</dc:creator>
+	<dc:subject xml:lang="en">variable depth</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">wave induce oscillaiton</dc:subject>
+	<dc:description xml:lang="en">A numerical method is presented to treat the wave-induced oscillations of a harbor with a variable depth and width. A two-dimensional finite difference approach is used inside the harbor matched at the entrance to a solution for the open-sea based on the Helmholtz Equation which includes incident, reflected, and radiated wave energy. Examples of the response and the modal shapes of the water surface are presented for harbors with simple and complex shapes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3253</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.203</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 203</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3253/2917</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

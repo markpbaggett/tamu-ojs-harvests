@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8611</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AVERAGE AND WAVE-BY-WAVE OVERTOPPING PERFORMANCE OF STEEP LOW-CRESTED STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Gallach-Sánchez, David</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:creator xml:lang="en">Kortenhaus, Andreas</dc:creator>
+	<dc:description xml:lang="en">Wave overtopping is a key process in coastal protection. The assessment of the wave overtopping rates is an important aspect in the design of coastal structures. In this paper, the focus is on steep low-crested structures, which include structures with steep slopes up to the limit case with vertical structures, with small relative freeboards up to the case with zero freeboards. This type of structures is of use for coastal protection in the case of sea level rise within climate change process and for overtopping wave energy converters. A literature review of the overtopping knowledge available for steep low-crested structures is carried out, identifying a knowledge gap. To fill this knowledge gap, 2D hydraulic model tests were performed at the wave flume of the Department of Civil Engineering at Ghent University, measuring wave conditions and the overtopping performance. Average and individual wave overtopping were analysed and compared to existing prediction formulae. Inaccuracies in the existing prediction formulae are detected and studied, and enhanced prediction formulae are presented for the average overtopping and the probability distribution of the individual overtopping volumes. The new prediction formulae improve the accuracy of wave overtopping volumes for steep low-crested structures range while maintaining the accuracy for other types of structures. The improved understanding of the overtopping behaviour allows a safer design of coastal structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8611</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8611/7458</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8611/8048</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

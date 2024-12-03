@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8275</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPOT APPLICATION TOOL FOR WAVE DRIVEN NEARSHORE HYDRODYNAMICS</dc:title>
+	<dc:creator xml:lang="en">el Safty, Hoda</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">Tidal Inlet</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq model</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:description xml:lang="en">Nearshore hydrodynamics are driven by a wide spectrum of motions/scales that vary on the order of O (10) m to O (100) km.  These scales have different effects on the dynamics of the nearshore areas, and capturing these effects is essential in accurately modeling the nearshore processes such as: mixing and transport of pollutants, wave steeping and/or wave damping, erosion and deposition of sediments, and infragravity wave propagation.   For example, in tidal inlets, waves interact with tidal-currents and bathymetry.  The presences of waves alter the kinematics and the dynamics of the tidal-currents such as increasing the bottom friction due to wave bottom boundary layer and changing the vertical profile of the horizontal velocity from the well-known log profile.  The tidal-currents affect the wave kinematics and dynamics such as Doppler shift, wave refraction, and wave steeping in opposite currents, wave breaking and infragravity wave propagation. The time and length scales of the current are much larger than those of the waves, and modeling this interaction using a single numerical model is numerically expensive. One approach to overcome this issue is through using multi-scale numerical modeling by coupling two or more numerical models. In literature, spectral wave models have been widely coupled with circulation models to study wave-current interaction. These spectral models can provide accurate predictions for wave height but they don't provide accurate information about nonlinear wave statistics, i.e. wave skewness and asymmetry, which is a key parameter in sediment transport models. On the other hand, the phase-resolving models are capable of providing this information. In the current study, the large-scale circulation model, Delft3D, is coupled with time-domain Boussinesq-type wave model. The use of time domain wave model in the numerical coupling will improve the prediction of various nearshore processes such as: wave breaking and thus infragravity wave release and propagation, combined vertical velocity structure under external forcings of tidal currents. Such an application will fulfill the community needs for a "spot application tool" where we simulate wave-driven processes in a large domain with fine-resolution.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8275</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8275/7077</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

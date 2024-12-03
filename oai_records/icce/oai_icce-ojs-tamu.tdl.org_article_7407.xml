@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7407</identifier>
+				<datestamp>2021-01-19T04:43:49Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATING SHORELINE RESPONSE IN A CHANGING WAVE CLIMATE</dc:title>
+	<dc:creator xml:lang="en">Splinter, Kristen D.</dc:creator>
+	<dc:creator xml:lang="en">Davidson, Mark A.</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian L</dc:creator>
+	<dc:creator xml:lang="en">Beuzen, Tom</dc:creator>
+	<dc:subject xml:lang="en">equilibrium shoreline model</dc:subject>
+	<dc:subject xml:lang="en">shoreline forecasting</dc:subject>
+	<dc:subject xml:lang="en">future wave climates</dc:subject>
+	<dc:description xml:lang="en">Estimates of the impacts of sea level rise and changing wave climates on shoreline change in the future are an increasing area of interest for many coastal stakeholders, engineers, and scientists. The ability to predict such change requires accurate information on the temporal evolution of key forcing parameters, such as wave height and period. An added complexity in modelling shoreline change is that beaches evolve in time. Higher wave conditions produce more dissipative beaches, resilient to further change, while periods of low waves produce highly dynamic low to intermediate beach states. Here, a simple shoreline model based on an equilibrium principle and forced by wave height and period is used to explore potential shoreline change projections at two different beach types: a highly dynamic storm dominated beach and a more dissipative seasonally dominated coastline. In all cases, the model parameters (which are previously shown to be a function of mean beach state) are assumed to not change after the 7-year calibration period, despite changes in wave energy. At both sites, an increase in average wave energy is predicted to either slightly accrete or stabilize a beach, while increases to storm waves results in severe erosion at the dynamic storm-dominated beach and only mild erosion at the dissipative beach. The paper concludes with a discussion on the validity of constant model parameters and poses the question over what timescales does a beach evolve to changing waves and how can this information be incorporated into simple empirical-based equilibrium shoreline models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7407</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7407/pdf_750</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7407/7730</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7407/7731</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

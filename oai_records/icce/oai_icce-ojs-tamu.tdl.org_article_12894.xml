@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12894</identifier>
+				<datestamp>2023-09-01T15:14:10Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INFLUENCE FACTORS FOR CREST WIDTH, ROUGHNESS AND WAVE PERIOD ON OVERTOPPING OF RUBBLE MOUND STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Doorslaer, Koen Van</dc:creator>
+	<dc:creator xml:lang="en">Eldrup, Mads Røge</dc:creator>
+	<dc:creator xml:lang="en">Andersen, Thomas Lykke</dc:creator>
+	<dc:creator xml:lang="en">Meer, Jentsje van der</dc:creator>
+	<dc:description xml:lang="en">New data was collected in the wave flumes of Ghent University and Aalborg University on wave overtopping discharges over rubble mound structures, focusing on the influence of (large) crest width and surface roughness in combination with wave period. Combining these new data with existing data, analysis has led to the improvement of the guidance for wave overtopping prediction. The data and full analysis are presented in Eldrup et al. (2022). The present extended abstract adds a comparison of this improved guidance to the Neural Network prediction by Formentin et al. (2017), and to the EurOtop (2018) prediction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12894</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12894/12167</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Koen Van Doorslaer, Mads Røge Eldrup, Thomas Lykke Andersen, Jentsje van der Meer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

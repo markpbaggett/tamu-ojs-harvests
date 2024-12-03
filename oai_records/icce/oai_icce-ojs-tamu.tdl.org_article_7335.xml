@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7335</identifier>
+				<datestamp>2021-01-20T03:40:54Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-DIMENSIONAL HYDRO-ENVIRONMENT CHARACTERIZATION AND MODELING OF THE NORTHERN ARABIAN GULF</dc:title>
+	<dc:creator xml:lang="en">Pokavanich, Tanuspong</dc:creator>
+	<dc:creator xml:lang="en">Alosairi, Yousef</dc:creator>
+	<dc:creator xml:lang="en">Graaff, Reimer de</dc:creator>
+	<dc:creator xml:lang="en">Morelissen, Robin</dc:creator>
+	<dc:creator xml:lang="en">Verbruggen, Wilbert</dc:creator>
+	<dc:creator xml:lang="en">Al-Refail, Kholood</dc:creator>
+	<dc:creator xml:lang="en">Taqi, Altaf</dc:creator>
+	<dc:creator xml:lang="en">Al-Said, Turki</dc:creator>
+	<dc:subject xml:lang="en">Arabian Gulf</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic</dc:subject>
+	<dc:subject xml:lang="en">water quality</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:description xml:lang="en">A three-dimensional integrated hydrodynamic and water quality model of the Arabian Gulf has been developed in this study based on the hydrodynamic modeling program Delft3D. The model was forced by seasonal estimated discharges from all major rivers, validated tidal constituents, time- and depth-varying offshore boundary conditions, measured meteorological data and time- and space-varying wind and atmospheric pressure. The model performs well, especially when comparing results with measured coastal data in Kuwait, situated at the northwestern part of the Arabian Gulf. Simulation results suggests strong short-term dynamics and long-term seasonal variation of hydrodynamic and water quality processes of the Arabian Gulf including its northwestern part. It was pointed out from the results that the northwestern part of the Arabian Gulf has a strong dependency on river discharges and meteorology. Although only preliminary water quality modeling has been done in this study, results indicated relevant general characteristics of some water quality parameters and its great dependencies on forcing data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7335</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7335/pdf_962</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7335/7728</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

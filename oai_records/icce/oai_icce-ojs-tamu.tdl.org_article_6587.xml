@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6587</identifier>
+				<datestamp>2023-10-04T03:15:33Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE DYNAMICS AND ITS IMPACT TO WAVE CLIMATE PROJECTION</dc:title>
+	<dc:creator xml:lang="en">Shimura, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:subject xml:lang="en">wave climate projection</dc:subject>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">uncertainty</dc:subject>
+	<dc:description xml:lang="en">Impacts and adaptations of climate change have been studied in various fields. In order to assess the impacts of climate change on coastal areas, it is necessary to evaluate how wave change due to climate changes. Projections of global wave climate have been carried out by some research groups for next IPCC report. Projection of wave climate contains uncertainties, such as scenario uncertainty, GCM uncertainty and wave model uncertainty. Impacts and adaptations of climate change have been studied in various fields. In order to assess the impacts of climate change on coastal areas, it is necessary to evaluate how wave change due to the climate changes. Projections of global wave climate have been carried out by some research groups for next IPCC report. Projection of wave climate contains uncertainties, such as scenario uncertainty, GCM uncertainty and wave model uncertainty. The uncertainties need to be estimated for reliable projections. In this study, wave model uncertainty was evaluated. Global wave hindcasts were conducted using SWAN with four different models of source terms and the impacts of different wave models on global long-term wave statistics were made clear. Furthermore, the global characteristics of differences in long-term wave statistics due to different models were compared with the result of global wave climate projection (Mori et al., 2010). Global long-term wave statistics are varied depending on choice of formula of Sin and Swc rather than that of Snl4. The uncertainty is larger in eastern lower latitude of ocean especially in the Pacific where swells dominate. On the other hand, the uncertainty of future wave climate change due to wave model is negligibly small in higher latitude where wind-waves dominate.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6587</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6587/pdf_580</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

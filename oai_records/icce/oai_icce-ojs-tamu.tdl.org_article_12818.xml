@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12818</identifier>
+				<datestamp>2023-09-01T15:13:27Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MONITORING OF A DYNAMIC REVETMENT DURING A SPRING TIDAL CYCLE IN NORTH COVE, WASHINGTON STATE, USA</dc:title>
+	<dc:creator xml:lang="en">Kaminsky, George M.</dc:creator>
+	<dc:creator xml:lang="en">Bayle, Paul M.</dc:creator>
+	<dc:creator xml:lang="en">Blenkinsopp, Chris E.</dc:creator>
+	<dc:creator xml:lang="en">Weiner, Heather</dc:creator>
+	<dc:creator xml:lang="en">Cottrell, David</dc:creator>
+	<dc:description xml:lang="en">A dynamic revetment is a cobble-gravel berm constructed around the high tide wave runup limit. These structures mimic composite beaches, which consist of a lower foreshore of sand and a backshore berm constructed of gravel or cobbles, which stabilizes the upper beach and provides overtopping protection to the hinterland. Dynamic revetments contrast with static coastal defense structures as they are “dynamic” and are expected to reshape under wave attack. The idea of a dynamic structure made of smaller material than a classic riprap type of revetment is not new, and previous laboratory and field research has investigated the use of dynamic revetments for coastal protection (Allan et al., 2016). However, applications of such a structure remain sporadic and often differ to each other in terms of their design and aim. Furthermore, few existing dynamic revetments have been monitored to evaluate their function, and therefore, the way they behave at the particle and global scale remains poorly understood. In this study, 2D Lidar, GPS topography, particle tracking, and sub-surface particle composition data were collected on the dynamic revetment at North Cove, Washington State, USA, during a spring tidal cycle. Together they enabled investigation of the revetment dynamics and evolution in response to waves and water levels. In addition, this monitoring is proposed as a suitable protocol for short and long-term monitoring of dynamic revetments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12818</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12818/12091</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 George M. Kaminsky, Paul M. Bayle, Chris E. Blenkinsopp, Heather Weiner, David Cottrell</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

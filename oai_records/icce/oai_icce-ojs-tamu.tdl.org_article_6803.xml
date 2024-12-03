@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6803</identifier>
+				<datestamp>2023-10-04T02:36:22Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICABILITY OF SUSPENDED SEDIMENT CONCENTRATION FORMULAE TO LARGE-SCALE BEACH MORPHOLOGICAL CHANGES</dc:title>
+	<dc:creator xml:lang="en">Jayaratne, Ravindra</dc:creator>
+	<dc:creator xml:lang="en">Takayama, Yasufumi</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">large-scale beach morphological changes</dc:subject>
+	<dc:subject xml:lang="en">sediment suspension</dc:subject>
+	<dc:subject xml:lang="en">wave-generated sand ripples</dc:subject>
+	<dc:subject xml:lang="en">sheet flow</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">sediment concentration</dc:subject>
+	<dc:subject xml:lang="en">Quasi-3D beach deformation model</dc:subject>
+	<dc:description xml:lang="en">Study of beach morphological changes under storm conditions and its prediction capability are of paramount importance in coastal zone management. Seabed sediment is picked up violently in and outside the surf zone due to suspension mechanisms, therefore a considerable amount of sand is transported in coastal waters due to such mechanisms. For the construction of an accurate beach morphological model, it is necessary to elucidate the sediment suspension and to introduce it properly into the modelling of sediment transport. Jayaratne and Shibayama (2007) developed a complete set of explicit theoretical formulae to predict the time-averaged concentration on sandy beaches due to three suspension mechanisms: a) vortical motion over wave-generated sand ripples, b) from sheet flow, and c) turbulent motion under breaking waves. The present paper focuses on the development of a quasi-3D beach deformation model using the sediment concentration models of Jayaratne and Shibayama (2007), the bed load model of Watanabe (1982), the wave propagation model of Onaka et al. (1988), the nearshore current model of Philips (1977) and the undertow model of Okayasu et al. (1990) to predict the large-scale morphodynamics of sandy beaches. The predicted beach profiles and total sediment transport rates were compared with two sets of large-scale laboratory experimental data [Kajima et al. (1983); Kraus and Larson (1988)] and Seisho beach at Kanagawa Prefecture, Japan. It can be concluded that the present numerical model is capable of predicting sediment transport direction, on-offshore sand bar formation and the general trend of the beach profiles of large-scale erosive- and accretive-type sandy beaches to a satisfactory level.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6803</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.57</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.57</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6803/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

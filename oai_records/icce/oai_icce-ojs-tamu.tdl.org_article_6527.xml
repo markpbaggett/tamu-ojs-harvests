@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6527</identifier>
+				<datestamp>2023-10-04T03:25:23Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF TIDE ON WAVES IN THE OUTER SEINE ESTUARY AND THE HARBOR OF LE HAVRE</dc:title>
+	<dc:creator xml:lang="en">Guillou, Nicolas</dc:creator>
+	<dc:creator xml:lang="en">Chapalain, Georges</dc:creator>
+	<dc:subject xml:lang="en">Bay of Seine</dc:subject>
+	<dc:subject xml:lang="en">English Channel</dc:subject>
+	<dc:subject xml:lang="en">Port 2000</dc:subject>
+	<dc:subject xml:lang="en">Le Havre</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">ARTEMIS</dc:subject>
+	<dc:subject xml:lang="en">TOMAWAC</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">TELEMAC 2D</dc:subject>
+	<dc:subject xml:lang="en">COHERENS</dc:subject>
+	<dc:description xml:lang="en">The present study examines the influences of time-varying tide-induced water depths and currents on waves in the outer Seine estuary (southern central English Channel) and their penetration in the harbor of Le Havre and its new infrastructures Port 2000. The investigation is based on a numerical procedure which links regional phase-averaged wave modules with a local phase-resolving wave module within Port 2000 harbor. Required spatio-temporal evolutions of tidal free-surface elevation and current are computed by circulation modules. Numerical results of wave height are compared with field data collected at three wave buoys in the access harbor channel and its inner basin. Predictions exhibit a local increase (up to 30 %) of wave height induced by current refraction at slack tide in the access harbor channel. Respective mappings of the wave height modified by the tide, the water levels alone and the currents alone confirm this finding. The effect of currents on waves are pronounced along the southern breakwater of Port 2000 harbor and in the vicinity of coastal topographic features of the outer Seine estuary. Ultimate predictions of wave propagation within Port 2000 basin exhibit, however, the negligible direct influence of local ambient currents on wave height. Observed-semidiurnal wave-height variations in the inner basin are thus mainly associated with the propagation of the outer tide-induced modulation. Mappings of maximum wave-height within harbor basin reveal an increased exposition of the northern wharves at high tide and the southern western breakwater at low tide in relation to current-induced changes in the approaching-waves direction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6527</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6527/pdf_523</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

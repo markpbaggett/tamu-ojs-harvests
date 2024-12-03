@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1877</identifier>
+				<datestamp>2021-01-17T06:32:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DETERMINATION OF THE WAVE HEIGHT IN NATURE FROM MODEL TESTS SUPPLEMENTED BY CALCULATION</dc:title>
+	<dc:creator xml:lang="en">Diephuis, J. G.H.R.</dc:creator>
+	<dc:creator xml:lang="en">Gerritze, J. G.</dc:creator>
+	<dc:subject xml:lang="en">wave refraction</dc:subject>
+	<dc:subject xml:lang="en">model studies</dc:subject>
+	<dc:subject xml:lang="en">energy balance</dc:subject>
+	<dc:description xml:lang="en">This paper deals with the problem of determining the wave characteristics in shallow water from those in deep water. In general this can be done by means of a refraction calculation. If the sea bottom topography is too irregular the height of the waves can be determined by means of a small-scale refraction model. In both cases, however, some additional effects have to be taken into account, viz. the influence of the bottom friction and the influence of the wind.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1957-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1877</dc:identifier>
+	<dc:identifier>10.9753/icce.v6.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 6 (1957): Proceedings of 6th Conference on Coastal Engineering, Gainesville, Florida, 1957.; 12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1877/1150</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

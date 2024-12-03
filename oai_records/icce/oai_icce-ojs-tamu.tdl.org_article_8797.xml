@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8797</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF FRAGILITY CURVES FOR REINFORCED DUNES</dc:title>
+	<dc:creator xml:lang="en">Maggi, Brian</dc:creator>
+	<dc:creator xml:lang="en">Baxter, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Bradshaw, Aaron</dc:creator>
+	<dc:creator xml:lang="en">Grilli, Annette</dc:creator>
+	<dc:creator xml:lang="en">Licht, Stephen</dc:creator>
+	<dc:creator xml:lang="en">Stegagno, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Al Naser, Naser</dc:creator>
+	<dc:description xml:lang="en">The objective of this paper is to present the results of on-going field studies to assess the performance of geotextile sand-filled container (GSC) reinforced dunes and to develop probabilistic fragility curves for a range of damage states to these structures. While numerous lab experiments and numerical models have been developed to predict the hydraulic stability of coastal revetments made of GSCs, there has been limited in situ validation of these systems, especially when they are used to reinforce the core of a natural system (Dassanayake and Oumeraci, 2012). Furthermore, the formulas and nomograms developed to characterize GSC systems are not intuitive for coastal community stakeholders to assess the level of resiliency provided by a beach and GSC dune system. The development of fragility curves offers a solution to assess the performance and understand the tradeoffs of reinforced dunes for coastal protection systems.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8797</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.structures.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; structures.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8797/7597</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8797/8145</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

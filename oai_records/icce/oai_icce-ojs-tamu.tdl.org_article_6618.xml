@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6618</identifier>
+				<datestamp>2023-10-04T03:38:52Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEHAVIOR OF FISH REEF BLOCKS FALLING THROUGH WATER</dc:title>
+	<dc:creator xml:lang="en">Mitsui, Jun</dc:creator>
+	<dc:creator xml:lang="en">Ogata, Shin-ichi</dc:creator>
+	<dc:creator xml:lang="en">Shibata, Sanae</dc:creator>
+	<dc:creator xml:lang="en">Matsumoto, Akira</dc:creator>
+	<dc:creator xml:lang="en">Yamamoto, Masato</dc:creator>
+	<dc:subject xml:lang="en">fish reef block</dc:subject>
+	<dc:subject xml:lang="en">snow crab</dc:subject>
+	<dc:subject xml:lang="en">falling behavior</dc:subject>
+	<dc:subject xml:lang="en">deep sea area</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic force coefficient</dc:subject>
+	<dc:subject xml:lang="en">OpenFOAM</dc:subject>
+	<dc:description xml:lang="en">An accurate and economical placement method for fish reef blocks utilizing free fall in the deep sea area is presented in this paper. Falling behavior of concrete blocks in water was investigated by hydraulic model experiments and 3-D numerical computations. As a result, a new fish reef block which falls through water with highly stable behavior was developed. The distribution range of the developed block on the sea bottom was predicted by a stochastic model and it was proved to be sufficiently narrow. In addition, a quick estimation method for the placement position was developed to determine the release point of the block in actual construction. By using hydrodynamic force coefficients to evaluate the forces acting on the block, the method can estimate the falling behavior of the block in a flow field with sufficient accuracy and in a short time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-09-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6618</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6618/pdf_443</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

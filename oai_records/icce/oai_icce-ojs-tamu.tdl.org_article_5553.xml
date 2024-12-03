@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5553</identifier>
+				<datestamp>2021-01-19T11:43:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL STUDY ON THE BEHAVIOR OF BIVALVES BY OSCILLATORY FLOW</dc:title>
+	<dc:creator xml:lang="en">Yamashita, Toshihiko</dc:creator>
+	<dc:creator xml:lang="en">Wada, Akira</dc:creator>
+	<dc:creator xml:lang="en">Matsuoka, Gaku</dc:creator>
+	<dc:creator xml:lang="en">Yano, Kenji</dc:creator>
+	<dc:creator xml:lang="en">Akeda, Sadamitsu</dc:creator>
+	<dc:subject xml:lang="en">oscillatory flow</dc:subject>
+	<dc:subject xml:lang="en">experimental study</dc:subject>
+	<dc:subject xml:lang="en">bivalve</dc:subject>
+	<dc:description xml:lang="en">To improve propagation of bivalves living in exposed sandy beach, we need to clarify the behavior of bivalves affected by water waves. Using a U-shape tube, the behavior of bivalves (surf clam and sunray surf clam) in an oscillatory flow was experimentally studied. It was found that the critical condition at which bivalves are forced out of the sand into the water is determined by the ratio between the velocity of bed erosion and the burrowing rate of bivalves, and until the bivalves are forced out into the water their own movement is significant. Also the experimental values measuring their behavior on a smooth surface fixed bed was found to be theoretically explained by setting CD(drag coefficient), CM(added mass coefficient) and u '(coefficient of dynamic friction) at 1.0,0.5 and 0.1, respectively. After the bivalves are forced out into the water from the sand, therefore, their behavior is hardly affected by their own movement and we can regard them as inanimate objects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5553</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5553/5227</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

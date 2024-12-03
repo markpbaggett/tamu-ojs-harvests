@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3465</identifier>
+				<datestamp>2021-01-19T23:37:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI PRONE FRICTION FACTORS FROM WIND MEASUREMENTS</dc:title>
+	<dc:creator xml:lang="en">Bretschneider, Charles L.</dc:creator>
+	<dc:subject xml:lang="en">friction factors</dc:subject>
+	<dc:subject xml:lang="en">wind measurements</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:description xml:lang="en">The long wave equations, used for tsunami run-up and flood wave calculations, have an unknown friction term. As an alternative to hydraulically determined friction factors, an adjustable three-level anemometer staff system is used for making wind profile measurements over typical Hawaii terrain. Results from measurements taken during trade wind conditions are given for three types of terrain: (1) golf course, (2) large flat knoll covered with 2 to 2 1/2 feet tall grass thin to medium dense, and (3) a large rock farm covered with several layers of stone 2 1/2 to 3 feet or more in diameter. Average values of Manning's "n" determined approximately from the von Karman friction length, n = .06 z ' vary from 0.028 over the golf course, 0.046 over the grass knoll, and 0.051 over the rock farm. The top level anemometer for both systems is at elevation 10.6 meters (35.8 feet) and the remaining anemometers are equally spaced on the log scale, with the bottom level anemometer at 1.3 meters (4.28 feet) above the support base. We are presently repeating the experiments using an adjustable five-level anemometer staff system. It is pointed out that the results obtained from wind experiments have not yet been correlated with hydraulic experiments, and it is known that the friction factor decreases with increase in the Froude number, given by F = V//gR, where V is the mean velocity over the vertical distance of the hydraulic radius, R. The question seems to be, what is the equivalent hydraulic radius for the adiabatic atmosphere that would give the same friction factor for the same roughness for the von Karman velocity profile in hydraulic experiments? The wind experiments do show that there is a tendency for the friction factor to decrease with increase of mean wind speed. It would be of scientific interest to determine an equivalent hydraulic radius for wind profile experiments, making it possible to correlate the data with hydraulic experiments. This needs further investigation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3465</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3465/3145</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

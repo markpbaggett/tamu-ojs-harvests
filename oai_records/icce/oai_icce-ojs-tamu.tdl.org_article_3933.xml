@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3933</identifier>
+				<datestamp>2021-01-19T20:53:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SOME TECHNIQUES TO CALCULATE DESIGN CURRENTS IN SHELF AND STRATIFIED COASTAL WATERS</dc:title>
+	<dc:creator xml:lang="en">Murray, Stephen P.</dc:creator>
+	<dc:creator xml:lang="en">Young, Myron H.</dc:creator>
+	<dc:subject xml:lang="en">stratified water</dc:subject>
+	<dc:subject xml:lang="en">shelf</dc:subject>
+	<dc:subject xml:lang="en">design current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">current calculations</dc:subject>
+	<dc:description xml:lang="en">Increasing use of marine environments for (a) petroleum-related structures (both explorational and production), (b) subsea mining (e.g., sulfur and salt), (c) brine disposal from onshore salt domes excavated for oil storage, and (d) offshore waste disposal has necessitated more frequent and more accurate predictions of current speeds and directions in coastal and shelf waters. No analytical techniques for such predictions of wind- and density-driven currents in coastal waters are presented at all in the Shore Protection Manual (1973). Wiegel (1964), however, does discuss wind-driven currents, but offers no modern methodologies for their application to coastal and ocean engineering problems. Simple predictive models as outlined in this paper are especially valuable in feasibility studies, where the expense of a field measurement program is not yet justified. The prediction of oil spill trajectories is another important application for these procedures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3933</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.152</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 152</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3933/3616</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

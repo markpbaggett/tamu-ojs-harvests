@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6501</identifier>
+				<datestamp>2023-10-04T03:28:32Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENTS OF VORTEX GENERATION AND MOTION AT WIND WAVE SURFACES</dc:title>
+	<dc:creator xml:lang="en">Takano, Yasuhide</dc:creator>
+	<dc:creator xml:lang="en">Etoh, Goji T.</dc:creator>
+	<dc:creator xml:lang="en">Tsujimoto, Gozo</dc:creator>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">Vortex Motion</dc:subject>
+	<dc:subject xml:lang="en">Particle Tracking Velocimetry</dc:subject>
+	<dc:subject xml:lang="en">Moving Least Square Method</dc:subject>
+	<dc:description xml:lang="en">Vortices generated at water surface under wind wave condition are most important phenomena for mass exchange between atmosphere and ocean.  To extract vortices from randomly distributed velocity vectors obtained by a PTV, a new method to accurately estimate vorticity is proposed. The proposed method uses the Moving Least Square method which has been developed for grid-less numerical simulation. The optimal size of fitting area is derived theoretically and is confirmed by Monte Carlo simulation. Comparison of the accuracy between the proposed method and the commonly used method shows the advantage of the proposed method. The developed method is applied to the measurements of vorticity near the wind wave interfaces. The results show the generation and movements of the vortices at water surfaces.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6501</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6501/pdf_504</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

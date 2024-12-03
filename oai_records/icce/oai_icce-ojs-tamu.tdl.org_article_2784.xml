@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2784</identifier>
+				<datestamp>2021-01-20T03:35:56Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRAULICS AND SEDIMENTARY STABILITY OF COASTAL INLETS</dc:title>
+	<dc:creator xml:lang="en">O'Brien, M.P.</dc:creator>
+	<dc:creator xml:lang="en">Dean, R.G.</dc:creator>
+	<dc:subject xml:lang="en">coastal inlet</dc:subject>
+	<dc:subject xml:lang="en">sediment stability</dc:subject>
+	<dc:subject xml:lang="en">inlet hydraulic</dc:subject>
+	<dc:description xml:lang="en">A method is presented for investigating the stability of coastal inlets against closure due to transport and deposition of sand in the inlet cross-section. The method utilizes earlier contributions by: (1) Keulegan representing the hydraulics of inlets, (2) O'Brien which describes an equilibrium relationship between the cross-sectional area of an inlet and the bay tidal prism, and (3) Escoffier which relates to the stability of an inlet under changes in conditions which tend to close or enlarge an inlet. A "stability index" is defined which incorporates the buffer storage area available in the inlet cross-section, prior to the onset of closure and also includes the capability of the inlet to transport excess sand from its cross-section. In order to apply the method, geometric and hydraulic data representing the inlet are necessary; the minimum data required include a survey of the inlet throat cross-section and the lag between high (or low) water in the ocean and the following slack water in the inlet. In addition, it is necessary to conduct measurements or make assumptions concerning the minor and gradual hydraulic loss coefficients. Based on assumed depositional patterns in the inlet, the method is applied to five real inlets and the stability indices are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2784</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2784/2448</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

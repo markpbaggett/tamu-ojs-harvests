@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12736</identifier>
+				<datestamp>2023-10-03T03:13:56Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EFFECT OF REEF GEOMETRY ON BREAKING WAVE SHAPE. COMPUTATIONAL AND FIELD DATA COMPARATIVE STUDY</dc:title>
+	<dc:creator xml:lang="en">Fincham, Adam</dc:creator>
+	<dc:creator xml:lang="en">Pieszka, Michal</dc:creator>
+	<dc:description xml:lang="en">Detailed investigation, accurate Computational Fluid Dynamics (CFD) modeling and understanding of surf-zone processes are essential for recreating world-class surfing wave conditions. Parametric studies of different reef shapes have been carried out to analyze the effects on the barrel vortex ratio for a solitary-type wave. The computational models are based on the Volume of Fluid (VOF) method and are compared against field data from the WSL Surf Ranch facility in Lemoore, CA. Results from these studies highlight the importance of reef shape and have implications to the quality of surfing experiences in both coastal regions and artificial wave environments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12736</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12736/12009</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Adam Fincham, Michal Pieszka</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

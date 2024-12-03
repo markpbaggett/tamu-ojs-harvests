@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8669</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPLORING THE INFLUENCE OF LAND RECLAMATION ON SEDIMENT GRAIN SIZE DISTRIBUTION ON TIDAL FLATS: A NUMERICAL STUDY</dc:title>
+	<dc:creator xml:lang="en">Chen, Lei</dc:creator>
+	<dc:creator xml:lang="en">Zhou, Zeng</dc:creator>
+	<dc:creator xml:lang="en">Xu, Mengpiao</dc:creator>
+	<dc:creator xml:lang="en">Xu, Fan</dc:creator>
+	<dc:creator xml:lang="en">Tao, Jianfeng</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Changkuan</dc:creator>
+	<dc:description xml:lang="en">We explore the effects of land reclamation on the morphological evolution and sediment sorting on a tidal flat using a state-of-the-art numerical model (Delft3D). Consistent with existing field observations and analytical theories, model results indicate that the longitudinal profile adjusts itself converging to new equilibrium states (narrower and steeper) after a series of reclamations. Relatively fine sediments deposit adjacent to the sea dike, due to the flood-dominated tidal hydrodynamics. The amount of sediment deposition in front of the dike peaks when the dike is designed at mean sea level. After sequential reclamations, sediment grain size appears to be coarser offshore and on the tidal flat. Overall, this study suggests that land reclamation can lead to the readjustment of tidal flat profile shapes and coarsening of sediment grain size, which should be taken into account when reclamation projects are planned.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8669</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.85</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.85</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8669/7473</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

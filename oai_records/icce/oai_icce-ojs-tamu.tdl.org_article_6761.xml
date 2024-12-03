@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6761</identifier>
+				<datestamp>2023-10-04T02:40:21Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE PROBABILITY DISTRIBUTION OF FREAK WAVES IN FINITE WATER DEPTH</dc:title>
+	<dc:creator xml:lang="en">Ahn, Kyungmo</dc:creator>
+	<dc:creator xml:lang="en">Kim, Sun-Kyung</dc:creator>
+	<dc:creator xml:lang="en">Cheon, Se-Hyun</dc:creator>
+	<dc:subject xml:lang="en">freak wave</dc:subject>
+	<dc:subject xml:lang="en">occurrence probability</dc:subject>
+	<dc:subject xml:lang="en">extreme wave</dc:subject>
+	<dc:subject xml:lang="en">significant wave height</dc:subject>
+	<dc:description xml:lang="en">This paper presents the occurrence probability of freak waves based on the analysis of extensive wave data collected during ARSLOE project. It is suggested to use the probability distribution of extreme waves heights as a possible means of defining the freak wave criteria instead of conventional definition which is the wave height greater than the twice of the significant wave height.  Analysis of wave data provided such finding as 1) threshold tolerance of 0.2 m is recommended for the discrimination of the false wave height due to noise, 2) no supportive evidence on the linear relationship between the occurrence probability of freak waves and the kurtosis of surface elevation 3) nonlinear wave-wave interactions is not thh primary cause of the generation of freak waves 4) the occurrence of freak waves does not depend on the wave period 5) probability density function of extreme waves can be used to predict the occurrence probability of freak waves. Three different distribution functions of extreme wave height  by Rayleigh, Ahn, and Mori were compared for the analysis of freak waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6761</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6761/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1106</identifier>
+				<datestamp>2023-10-04T04:13:25Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVES OVERTOPPING A WIDE-CRESTED DIKE</dc:title>
+	<dc:creator xml:lang="en">Verwaest, Toon</dc:creator>
+	<dc:creator xml:lang="en">Vanpoucke, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Willems, Marc</dc:creator>
+	<dc:creator xml:lang="en">De Mulder, Tom</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">dike</dc:subject>
+	<dc:subject xml:lang="en">wide-crested</dc:subject>
+	<dc:description xml:lang="en">If a coastal dike has a crest width of more than say a few meters, then wave overtopping will be significantly reduced due to the crest width, because kinetic energy can be dissipated on the crest and water on the crest can flow back towards the seaside. In coastal towns built on dune belts often a wide-crested coastal dike was constructed as both coastal protection and sea promenade. However, quantifying the effect of such a wide crest on wave overtopping is not straightforward because no empirical overtopping formulas are given in literature for this kind of configuration. Therefore physical scale model research was carried out. Also a simplified theoretical model concept was used based on an energy balance formulation of a single overtopping wave. Combining the scale model measurements with the theoretical model, a semi-empirical formula was developed and calibrated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1106</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1106/pdf_196</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

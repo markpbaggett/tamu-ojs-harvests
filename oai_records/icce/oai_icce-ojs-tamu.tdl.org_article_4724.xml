@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4724</identifier>
+				<datestamp>2021-01-19T16:22:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EFFECT OF SHEARED CURRENTS ON WAVE KINEMATICS AND SURFACE PARAMETERS</dc:title>
+	<dc:creator xml:lang="en">Skyner, D.J.</dc:creator>
+	<dc:creator xml:lang="en">Easson, W.J.</dc:creator>
+	<dc:subject xml:lang="en">sheared current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:description xml:lang="en">Steep, steady non-linear waves have been generated onto strongly sheared currents. Quantitative, full-field velocity measurements have been made for a number of wave/current combinations using the method of Particle Image Velocimetry (PIV). For one of the combinations, the measured kinematics are compared to the estimate obtained by adding the stretched current profile to the predictions from irrotational theory. The steadiness of the conditions is assessed by calculating the vorticity distribution for different cycles in the wavetrain. Finally, the measured wavelengths for a range of wave frequencies are used to estimate the effective current.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4724</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4724/4405</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

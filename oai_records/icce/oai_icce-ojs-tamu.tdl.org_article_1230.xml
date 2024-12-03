@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1230</identifier>
+				<datestamp>2021-01-19T08:38:49Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REFINED HYDRODYNAMIC MODELLING OF THE GIRONDE ESTUARY, FRANCE</dc:title>
+	<dc:creator xml:lang="en">Huybrechts, Nicolas</dc:creator>
+	<dc:creator xml:lang="en">Van, Lan Anh</dc:creator>
+	<dc:creator xml:lang="en">Hervouet, Jean-Michel</dc:creator>
+	<dc:creator xml:lang="en">Villaret, Catherine</dc:creator>
+	<dc:subject xml:lang="en">hydrodynamic of estuary</dc:subject>
+	<dc:subject xml:lang="en">friction prediction</dc:subject>
+	<dc:subject xml:lang="en">tide prediction</dc:subject>
+	<dc:description xml:lang="en">In the centre of the Gironde estuary, EDF exploits a power plant. A hydrodynamic model is required to prevent different risks. Indeed, accurate water levels and velocity field are needed for flood control, sediment transport and associated deposition and transport of algae or pollutant. In order to enhance the accuracy of the hydrodynamic results and to tend to a fully predictive model, two attempts have been envisaged. The first one focuses on the tide imposed at the border by a combination of different harmonic waves whose constant harmonics are extracted from a tide model. Harmonic constants from different tide models have been compared and the influence of the harmonics number have been studied. The second attempt focuses on the friction coefficient. The values of the friction coefficient have been calibrated and compared to values predicted by the equation of van Rijn 2007.
+With the calibrated values, the differences between the measured and computed water levels are less than 10 cm.
+With the predictive friction formula, limited accuracy losses have been observed, which demonstrates the feasibility of using van Rijn formula for a configuration such as the Gironde.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1230</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1230/pdf_253</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

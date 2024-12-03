@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1092</identifier>
+				<datestamp>2023-10-04T04:15:04Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE CHOICE OF RANDOM WAVE SIMULATION IN THE SURF ZONE PROCESSES</dc:title>
+	<dc:creator xml:lang="en">Yuan, Jing</dc:creator>
+	<dc:creator xml:lang="en">Madsen, Ole S.</dc:creator>
+	<dc:subject xml:lang="en">wave-by-wave approach</dc:subject>
+	<dc:subject xml:lang="en">simulation of random waves</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">bedload transport</dc:subject>
+	<dc:subject xml:lang="en">nonlinearity</dc:subject>
+	<dc:description xml:lang="en">In this paper, the two common approaches to account for wave randomness, the spectral approach and the wave-by-wave approach, are compared through numerical experiments conducted with the coupling of a surf zone hydrodynamic model and a bedload sediment transport model. Special attention is paid to the wave nonlinearity and net cross-shore bedload transport predictions. The two approaches are found to have negligible difference in their predictions of certain average hydrodynamics, such as wave heights, set-up and undertow. However, the wave-by-wave approach outperforms the spectral approach in the wave nonlinearity prediction, and the two approaches differ significantly in their predictions of wave-induced net cross-shore bedload transport which strongly depends on wave nonlinearity. This suggests the necessity of using the wave-by-wave approach. The computational efficiency of the wave-by-wave approach is also discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1092</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.71</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.71</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1092/pdf_186</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

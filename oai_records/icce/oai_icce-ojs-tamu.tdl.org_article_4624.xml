@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4624</identifier>
+				<datestamp>2021-01-19T16:56:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MOVABLE BED MODELING CRITERIA FOR BEACH PROFILE RESPONSE</dc:title>
+	<dc:creator xml:lang="en">Wang, Hsiang</dc:creator>
+	<dc:creator xml:lang="en">Toue, Takao</dc:creator>
+	<dc:creator xml:lang="en">Dette, Hans H.</dc:creator>
+	<dc:subject xml:lang="en">beach profile</dc:subject>
+	<dc:subject xml:lang="en">profile response</dc:subject>
+	<dc:subject xml:lang="en">movable bed</dc:subject>
+	<dc:subject xml:lang="en">bed modeling</dc:subject>
+	<dc:subject xml:lang="en">modeling criteria</dc:subject>
+	<dc:description xml:lang="en">Modeling coastal phenomena using movable bed means is a complicated problem with no general solution at present. Most modeling laws that are realizable in the laboratory usually only apply to certain restricted conditions. This paper, like many others, elects to deal with a restricted case, here, the two dimensional beach profile changes under the influence of wave action. Numerous papers have been written on this subject. A general review can be found in Hudson et.al. (1979), LeMenhaute (1990) and Wang (1985). Those of particular relevance to the present study are briefly reviewed here. Noda (1978) examined several theoretical scaling laws but recommended a completely empirical model Law based on similarity of equilibrium profiles in the breaker zone. His model involves three scaling parameters, the sediment diameter ratio, the vertical and horizontal length scales. Vellinga (1982) and Graaff (1977) conducted a comprehensive laboratory study by using different scales in attempting to duplicate the beach and dune erosion of the Dutch's coast. Vellinga also settled on a pair of empirical relationships. The geometrical scale relationship bears certain resemblance to the Noda's with an additional fall velocity scale incorporated into it. A morphological time scale is also added. Both Noda's and Vellinga's laws require that the wave steepness and the Froude number be preserved. Hughes (1983) presented a model based upon preserving the Froude number and a non-dimensional fall velocity parameter. Hughes' model allows for wave distortion. There are similarities as well as very settled differences among the three modeling laws. All these modeling laws compared well with its own data set. Inter comparisons in most cases were not successful. Kamphis (1974) using an entirely different approach listed four different non-dimensional parameters as requirement for complete similarity. Realizing that preserving all of them in the model is impractical, he proposed a set of four different modeling laws requiring preservation one or more non-dimensional parameters but not all of them. Each modeling law is suitable for a specific range of environmental conditions. There was no comparison with Laboratory data reported. Table 1 summarized the modeling laws by these authors.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4624</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4624/4305</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

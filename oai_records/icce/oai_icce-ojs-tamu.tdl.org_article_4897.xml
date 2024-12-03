@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4897</identifier>
+				<datestamp>2021-01-19T15:23:48Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MECHANISM OF SEDIMENT TRANSPORT AROUND A LARGE CIRCULAR CYLINDER</dc:title>
+	<dc:creator xml:lang="en">Toue, Takao</dc:creator>
+	<dc:creator xml:lang="en">Katsui, Hidehiro</dc:creator>
+	<dc:creator xml:lang="en">Nadaoka, Kazuo</dc:creator>
+	<dc:subject xml:lang="en">cylinder</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">transport mechanism</dc:subject>
+	<dc:description xml:lang="en">Mean currents have impotant roles in sediment transport. The mean currents around a large circular cylinder are carefully measured. The theoretical mass transport rate is verified experimentally, and the movement of sediment on a flat and smooth bed can be numerically simulated well. On the contrary, the currents on sand ripples are quite different with the theoretical value. The currents are caused by the interaction of the return flow and the mass transport on sand ripples.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4897</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4897/4578</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

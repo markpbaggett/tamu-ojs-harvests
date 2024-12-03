@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8571</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EMPIRICAL AND NUMERICAL MODAL ANALYSIS OF COASTAL AREAS PRONE TO TSUNAMI RISK</dc:title>
+	<dc:creator xml:lang="en">Bellotti, Giorgio M.</dc:creator>
+	<dc:creator xml:lang="en">Romano, Alessandro</dc:creator>
+	<dc:description xml:lang="en">In this paper the Empirical Orthogonal Function (EOF) method and the k-f spectral technique are applied to extract from experimental data related to landslide-tsunamis propagating around the coast of a conical island, the wave modes that contribute to the wave field. The relevant modes are then compared with those obtained through numerical eigenanalysis of the long wave equation around the considered island. It is shown that it is possible to associate each EOF mode with some eigenvectors and the corresponding eigenfrequencies, both on the basis of the spatial shape, the wavenumber calculated along the coast and the frequency. Results confirm that landslide-generated waves propagate along the coast as trapped edge waves and the zero-th order mode is the most important.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8571</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8571/7375</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8571/7983</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

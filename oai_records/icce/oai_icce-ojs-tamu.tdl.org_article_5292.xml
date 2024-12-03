@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5292</identifier>
+				<datestamp>2021-01-19T13:09:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FAST METHODS FOR COMPUTING THE SHOALING OF NONLINEAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Fenton, J.D.</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, A.B.</dc:creator>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">wave computation</dc:subject>
+	<dc:description xml:lang="en">Accurate nonlinear numerical methods for wave propagation have existed for some years. Most of these are very demanding of computer resources as they use global means of approximation which usually requires the costly solution of a full matrix equation at each time step. It is the aim of the present paper to describe and to compare the features of two new methods for the two-dimensional propagation of nonlinear waves over varying topography. A method based on local polynomial approximation is presented, which was found to be efficient, cheap and accurate. A novel boundary integral method is also presented, which was capable of good accuracy even for waves which overturned. For practical purposes, the local polynomial approximation method is to be preferred and may have some useful contributions to make.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5292</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5292/4970</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

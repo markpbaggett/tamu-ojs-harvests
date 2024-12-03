@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12909</identifier>
+				<datestamp>2023-09-01T15:14:18Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BERM MIGRATION UNDER SCALED STORM EVENTS</dc:title>
+	<dc:creator xml:lang="en">Chapman, Emily</dc:creator>
+	<dc:creator xml:lang="en">Gangadharan, Manoj K.</dc:creator>
+	<dc:creator xml:lang="en">Idowu, Temitope</dc:creator>
+	<dc:creator xml:lang="en">Puleo, Jack A.</dc:creator>
+	<dc:description xml:lang="en">Berms are one of the natural barriers protecting beaches from wave action and are the first intermittently exposed coastal feature to experience hydrodynamic forcing. Berms erode when storm activity mobilizes sediment offshore or carries it onshore through overwash. However, berm response under varied storm conditions requires further study. Pore water pressure response has been shown to potentially impact beach erosion (Stark, 2022). The infiltration from wave runup followed by exfiltration from rundown destabilize the sediment bed resulting in particle motion. Wave runup increases bed shear stress (Sumer, 2011), and horizontal pressure gradients have been shown to mobilize sediment in the surf zone (e.g. Anderson, 2017). Erosion occurs from numerous physical processes acting together to mobilize the sediment. This study aims to identify these physical processes and berm response for variety of scaled storm sequences.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12909</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12909/12182</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Emily Chapman, Manoj K. Gangadharan, Temitope Idowu, Jack A. Puleo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

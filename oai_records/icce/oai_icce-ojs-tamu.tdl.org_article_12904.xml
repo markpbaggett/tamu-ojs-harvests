@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12904</identifier>
+				<datestamp>2023-09-01T15:14:16Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF SMOOTHED PARTICLE HYDRODYNAMICS ON A LOW LEVEL QUAY DECK</dc:title>
+	<dc:creator xml:lang="en">Alboom, Wim Van</dc:creator>
+	<dc:creator xml:lang="en">Altomare, Corrado</dc:creator>
+	<dc:creator xml:lang="en">Willems, Marc</dc:creator>
+	<dc:creator xml:lang="en">Vansompel, Barbara</dc:creator>
+	<dc:creator xml:lang="en">Devos, Kristof</dc:creator>
+	<dc:creator xml:lang="en">Lorente, David Martinez</dc:creator>
+	<dc:creator xml:lang="en">Verachtert, Ramses</dc:creator>
+	<dc:description xml:lang="en">Rising sea water level projections challenge the existing levels within ports. Although air gaps have been a traditional means to avoid a fight with the force of the sea, such principle cannot be implemented easily in existing ports, or even for new projects, since these projects require interfacing with their surroundings. More and more, the interaction between the sea (and in particular extreme wave climates) and existing low quay deck levels for open types of quay walls has to be estimated. Apart from relying on physical model testing, the numerical world comes to our rescue. Significant advances have been made over the past decennium with the practical commercial implementation of smoothed particle hydrodynamics for practical engineering problems. This article describes a practical example of such an assessment for a particular project in the port of Ostend, Belgium.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12904</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12904/12177</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Wim Van Alboom, Corrado Altomare, Marc Willems, Barbara Vansompel, Kristof Devos, David Martinez Lorente, Ramses Verachtert</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

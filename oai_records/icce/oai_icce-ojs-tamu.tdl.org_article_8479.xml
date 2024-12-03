@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8479</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INCORPORATING THREE-DIMENSIONAL BAROCLINIC PROCESSES FOR ACCURATE DEPTH-INTEGRATED COASTAL CIRCULATION MODELLING</dc:title>
+	<dc:creator xml:lang="en">Pringle, William</dc:creator>
+	<dc:creator xml:lang="en">Westerink, Joannes</dc:creator>
+	<dc:description xml:lang="en">Depth-integrated coastal circulation models have proven to provide high-fidelity solutions to storm surge, tides, tsunamis, and those with wave-coupling (Westerink et al. 2008; Titov &amp; Synolakis 1998). They are able to provide high horizontal resolution, and stable, high-order and low-diffusion numerical schemes making them often more useful than their three-dimensional counterparts despite more assumptions on the physics. However, the assumptions of no baroclinicity means that some processes such as steric effects, barotropic energy to baroclinic tidal energy conversion, and major baroclinic current systems cannot be directly modelled, creating limitations. This is directly problematic for example in storm surge forecasting systems where an offset between measured and predicted hydrographs may be present due to seasonal heating and cooling, changes to nearshore stratification and to the transport rates of major current systems and fresh water outflows.
+
+This study presents a process coupling paradigm to incorporate three-dimensional baroclinic effects into a depth-integrated model from a widely used and available baroclinic model, HYCOM (http://hycom.org). The depth-integrated finite-element model, ADCIRC (Westerink et al. 1992) is able to provide high-resolution to the coastal area, and has proven to be extremely accurate for storm surge modelling in e.g. the Gulf of Mexico (Westerink et al. 2008). However, along the Gulf of Mexico and east-coast of USA there are noticeable seasonal and inter-annual trends in the coastal sea level making forecasting more challenging than hindcasting. We present the effects of applying the information provided by HYCOM to ADCIRC in order to improve predicted hydrographs throughout the year of 2012 and in particular during Hurricane Sandy.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8479</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.71</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.71</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8479/7285</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8479/7896</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

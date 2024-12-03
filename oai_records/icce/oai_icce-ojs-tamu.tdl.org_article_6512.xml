@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6512</identifier>
+				<datestamp>2023-10-04T03:26:56Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOUSSINESQ-TYPE EQUATIONS WITH VARIABLE COEFFICIENTS FOR NARROW-BANDED WAVE PROPAGATION FROM ARBITRARY DEPTHS TO SHALLOW WATERS</dc:title>
+	<dc:creator xml:lang="en">Simarro, Gonzalo</dc:creator>
+	<dc:creator xml:lang="en">Galan, Alvaro</dc:creator>
+	<dc:creator xml:lang="en">Orfila, Alejandro</dc:creator>
+	<dc:subject xml:lang="en">Boussinesq-type equations</dc:subject>
+	<dc:subject xml:lang="en">deep water propagation</dc:subject>
+	<dc:description xml:lang="en">A fully nonlinear Boussinessq-type model with 7 Nwogu's Î±-like coefficients is considered. The model is one-layer and low-order to simplify the numerical solvability. The coefficients of the model are here considered functions of the local water depth so as to allow an improvement of the dispersive properties for narrow banded trains in very deep waters. The proposed model is fully nonlinear in weakly dispersive conditions, so that nonlinear wave  decomposition in shallower waters is well reproduced.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6512</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6512/pdf_514</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

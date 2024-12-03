@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2936</identifier>
+				<datestamp>2021-01-20T02:39:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTER EVALUATION OF LITTORAL TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Mogel, Theodor R.</dc:creator>
+	<dc:creator xml:lang="en">Street, Robert L.</dc:creator>
+	<dc:subject xml:lang="en">littoral transport</dc:subject>
+	<dc:subject xml:lang="en">computer aid</dc:subject>
+	<dc:subject xml:lang="en">computer evaluation</dc:subject>
+	<dc:description xml:lang="en">Hindcast deepwater wave statistics and bottom hydrographic data are combined with a water-wave refraction analysis to estimate the littoral transport in a beach zone. The effects of hindcast data station location, of wave ray density in the breaker zone, of changes in the bottom-fitting surface in the depth calculation of the refraction analysis, and of methods of smoothing the contribution of individual rays to the littoral transport computation are explored.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2936</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2936/2601</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

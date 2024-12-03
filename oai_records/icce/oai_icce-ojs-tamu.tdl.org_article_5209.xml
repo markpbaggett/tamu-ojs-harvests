@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5209</identifier>
+				<datestamp>2021-01-19T13:38:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACTIVE ABSORPTION OF MULTIDIRECTIONAL WAVES</dc:title>
+	<dc:creator xml:lang="en">Schaffer, Hemming A.</dc:creator>
+	<dc:creator xml:lang="en">Skourup, Jesper</dc:creator>
+	<dc:subject xml:lang="en">multidirectional waves</dc:subject>
+	<dc:subject xml:lang="en">active absorption</dc:subject>
+	<dc:description xml:lang="en">The development of a control system for active absorption of multidirectional waves is described. The present work is an extension of a two-dimensional flume system to include the wave propagation direction. The hydrodynamic feedback necessary for the active absorption is taken to be the surface elevation measured at each segment of the multidirectional wavemaker. A frequencydirection domain transfer function relating the paddle position to the measured and desired elevations is derived. For practical applications a two-dimensional digital filter is used for a time-space realization of the generation/absorption procedure. Experimental verification is made in a numerical wave tank using a Boundary Element Model. The numerical setup includes a moving boundary representing a segmented wavemaker. This ensures a realistic reproduction of evanescent wave modes, which can be important for the system performance. The numerical tests show that a quasi three-dimensional system consisting of an array of absorbing wavemakers developed for wave flumes is far better than having no active absorption. The present fully three-dimensional absorption system is shown to further reduce spurious reflections to around one third in the examples treated. Although the system is capable of simultaneous wave generation and active absorption, only the absorption ability was used in these preliminary tests.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5209</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5209/4887</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

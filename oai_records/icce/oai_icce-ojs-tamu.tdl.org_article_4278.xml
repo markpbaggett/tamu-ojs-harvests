@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4278</identifier>
+				<datestamp>2021-01-19T18:54:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STORM STATISTICS IN THE NORTH SEA</dc:title>
+	<dc:creator xml:lang="en">Salih, B.A.</dc:creator>
+	<dc:creator xml:lang="en">Burrows, R.</dc:creator>
+	<dc:creator xml:lang="en">Tickell, R.G.</dc:creator>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:subject xml:lang="en">storm</dc:subject>
+	<dc:subject xml:lang="en">storm statistics</dc:subject>
+	<dc:description xml:lang="en">Effective planning of offshore activities requires statistical information detailing storm occurrences and durations (defined as exceedences of an Hs threshold). This information is often referred to as persistence. The frequency of storm events and the probability associated with a number of successive sea states being above (or below) a given threshold level is often required by engineers to estimate the potential work period and down-time as well as to incorporate the lead and lag times needed to stop and restart interrupted operations due to severe weather conditions. However, until recently, a lack of sufficiently long data bases has precluded any meaningful investigation of this nature. Unrepresentative or misleading results can follow from data records that were measured over only a limited number of years. Furthermore, significant distortions may be introduced if the data record is not continuous as data gaps interrupt the persistence pattern. As more recorded data have become available, concerted efforts have been ' made on this topic; most notably by Houmb and Vik who developed a probabilistic model describing the statistics of storm (and calm) durations and frequencies at varying levels of sea state intensity. The present study investigates the adequacy of the semi-empirical procedure proposed by Houmb and Vik and also discusses the development of two new modelling techniques. The performance of these models are examined against wave data measured at the BP Forties field in the North Sea. A number of new statistical descriptors relating to the profile and intensity of storms have also been developed. It is recognised that wave period (Tz) and directional information must ultimately be incorporated in a storm climate model. However, this is beyond the scope of the present discussion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4278</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.71</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 71</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4278/3959</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

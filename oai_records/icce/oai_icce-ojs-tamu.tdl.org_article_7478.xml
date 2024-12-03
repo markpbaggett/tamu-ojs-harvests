@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7478</identifier>
+				<datestamp>2021-01-19T04:37:40Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COUPLING OF HYDRODYNAMIC AND WAVE MODELS CASE STUDY FOR WINTER STORM SURGE IN BOHAI SEA</dc:title>
+	<dc:creator xml:lang="en">Zhang, Weisheng</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Jinshan</dc:creator>
+	<dc:creator xml:lang="en">Wang, Jinhua</dc:creator>
+	<dc:creator xml:lang="en">Zhao, Hongjun</dc:creator>
+	<dc:subject xml:lang="en">winter storm</dc:subject>
+	<dc:subject xml:lang="en">ADCIRC SWAN</dc:subject>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">Bohai Sea</dc:subject>
+	<dc:description xml:lang="en">A hydrodynamic and wave coupled model, ADCIRC+SWAN, is used to simulate winter storm during 8th, Oct 2003 to 14th, Oct 2003 in Bohai Sea. Effect of wave radiation Stress on the current and the elevation is studied through numerical test. The sea surface elevation can increase over 2.0m in the Bohai Bay and Laizhou Bay, and decrease in the same order in Liaodong Bay under the effect of strong north wind. The currents change in a wide range and large scale counterclockwise circulations occur in the area. The evaluation induced by wave radiation stress can reach 0.10m to 0.20m and the current can reach 0.20m/s to 0.40m/s near the coastline during the winter storm.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7478</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7478/pdf_771</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

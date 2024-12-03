@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8349</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE PRESSURE DISTRIBUTIONS ON A U-OWC BREAKWATER: EXPERIMENTAL DATA VS CFD MODEL</dc:title>
+	<dc:creator xml:lang="en">Filianoti, Pasquale G. Fabio</dc:creator>
+	<dc:creator xml:lang="en">Gurnari, Luana</dc:creator>
+	<dc:description xml:lang="en">U-OWCs are Wave Energy Converters belong in to the family of Oscillating Water Column. The interaction between waves and a U-OWC breakwater produces an unknown pressure distribution on the breakwater wall, due to the motion inside the plant. In order to evaluate the force acting on a U-OWC breakwater produced by regular waves, we carried out an experiment in a 2D numerical flume. The computational domain is equipped by a piston-type wavemaker, in the left extremity side and a U-OWC breakwater on the opposite side. The water-air interaction is taken into account by means of the Volume Of Fluid (VOF) model implemented in the commercial CFD code Ansys Fluent. Both air and water flow fields are assumed to be unsteady and are computed by solving the Reynolds-Averaged Navier-Stokes (RANS) equations. In the numerical model, air is considered as an ideal gas, in order to take into account the compressibility inside the plenum chamber. Results were compared with a theoretical model on a traditional vertical breakwater and experimental results obtained through an experiment directly at sea, off the beach of Reggio Calabria, in the eastern coast of the Straits of Messina (Southern Italy). As observed in the physical experiment at sea, the pressure distribution are strongly influenced by the absorption of the plant. Indeed, in case of high performance of the U-OWC, we found a deformation of the pressure distribution in respect to the theoretical one, especially near the outer opening of the plant. This deformation produces a lower in line force on the structure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8349</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8349/7157</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5844</identifier>
+				<datestamp>2021-01-19T10:08:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEARSHORE COASTAL PROCESSES ADJACENT TO A TIDAL INLET</dc:title>
+	<dc:creator xml:lang="en">Herrington, Thomas O.</dc:creator>
+	<dc:creator xml:lang="en">Bruno, Michael S.</dc:creator>
+	<dc:creator xml:lang="en">Yavary, Majid</dc:creator>
+	<dc:creator xml:lang="en">Rankin, Kelly L.</dc:creator>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">coastal processes</dc:subject>
+	<dc:description xml:lang="en">Two tidal inlets with strikingly different physical characteristics have been investigated through an analysis of multi-year beach survey results and field investigations of the nearshore wave and current structure adjacent to the inlets. The survey results indicate that the downdrift shoreline adjacent to both inlets is dominated by persistent inlet directed currents, which run counter to the net sediment transport direction. The two wave and current studies differed in both their spatial and temporal resolution, requiring the use of separate analysis techniques to determine the forcing mechanisms responsible for the observed inlet directed currents. The two analysis techniques produced similar results which indicate that tidal-induced circulation generates the persistent nearshore current structure. Episodic wind-generated currents and nonlinear wave and current interactions were found to reach the same order of magnitude as the tide-induced currents, and could either enhance or reverse the observed nearshore current structure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5844</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5844/5512</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

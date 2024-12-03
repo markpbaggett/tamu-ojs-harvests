@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12664</identifier>
+				<datestamp>2023-09-01T15:11:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEEP LEARNING OBJECT DETECTION APPLICATION TO SURFING WAVE QUALITY</dc:title>
+	<dc:creator xml:lang="en">Atkin, Edward A</dc:creator>
+	<dc:creator xml:lang="en">Davies-Campbell, Jai</dc:creator>
+	<dc:creator xml:lang="en">McIntosh, Rhys</dc:creator>
+	<dc:description xml:lang="en">Quantitative monitoring is imperative to the sustainable management of coastal resources. Surfing resources have been both created and degenerated or destroyed by activities in the coastal zone. Effective surfing wave quality monitoring requires identification and tracking of the breaking part of the wave and the unbroken wave crest. Remote Camera Systems (RCS) have proven their utility in being able to monitor the coastal zone and provide almost continuous, high frequency data collection. RCSs lend themselves very well to the monitoring of surf breaks which are highly dynamic. The images captured from an RCS monitoring a surf break on the west coast of Aotearoa New Zealand are used to train a Convolutional Neural Network (CNN) to detect the break points (BP), associated crest orientation and relative Still Water Level (SWL) of each instance of breaking waves in each image. Model settings and image annotations were modified over a suite of training cases to improve model efficacy, which was evaluated each epoch of training with mean Average-Precision (mAP; max 1). A mAP of 0.794 was achieved for the BP and Crest Point (CP) CNN, and 8.634 for the SWL. The model was used to detect ~1.6 M objects across ~1 million images, with a mean confidence value of all BP-CP detections of 0.63 and more than 70percent of detections being greater than 0.5. This model enables the first automation of meaningful surfing wave quality monitoring.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12664</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12664/11937</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Edward A Atkin, Jai Davies-Campbell, Rhys McIntosh</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8521</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILISTIC SHORELINE CHANGE MODELING AND RISK ESTIMATION OF EROSION</dc:title>
+	<dc:creator xml:lang="en">Ding, Yan</dc:creator>
+	<dc:creator xml:lang="en">Frey, Ashley E.</dc:creator>
+	<dc:creator xml:lang="en">Kim, Sung-Chan</dc:creator>
+	<dc:creator xml:lang="en">Permenter, Rusty E.</dc:creator>
+	<dc:description xml:lang="en">Prediction of long-term shoreline changes is a key task in planning and management of coastal zones and regional sediment management. Due to complex natural features of offshore waves, sediments, and longshore sediment transport, quantifying uncertainties of shoreline evolution and risks of extreme shoreline changes (erosion and accretion) is of vital importance for practicing uncertainty- or risk-based design of shorelines. This paper presents probabilistic shoreline change modeling to quantify uncertainties of shoreline variations by using numerical-model-based Monte-Carlo simulations. A shoreline evolution model, GenCade, is used to simulate longshore sediment transport and shoreline changes induced by random waves from offshore. A probability density function with a modified tail distribution is developed to capture stochastic features of wave heights under fair weather and storm conditions. It produces a time series of wave heights including small and extreme waves based on their probabilities (or frequencies of appearance). Probabilistic modeling of shoreline change is demonstrated by computing spatiotemporal variations of statistical parameters such as mean and variance of shoreline changes along an idealized coast bounded by two groins. Maximum shoreline changes in return years with a confidence range are also estimated by using maximum likelihood method. Reasonable results of obtained probabilistic shoreline changes reveal that this model-based Monte-Carlo simulation and uncertainty estimation approach are applicable to facilitate risk/uncertainty-based design and planning of shorelines.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8521</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8521/7325</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8521/7947</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

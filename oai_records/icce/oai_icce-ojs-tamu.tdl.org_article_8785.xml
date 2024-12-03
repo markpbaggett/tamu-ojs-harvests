@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8785</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A REVISIT ON THE LEADING WAVEFORM DUE TO A TRANSIENT DISTURBANCE</dc:title>
+	<dc:creator xml:lang="en">Chan, I-Chi</dc:creator>
+	<dc:description xml:lang="en">A tsunami is a series of transient waves often triggered by a submarine earthquake over a sufficiently large area. The horizontal scale of the wave motion of tsunamis is considerably large, which can be a few hundreds of kilometers in the deep ocean. While a tsunami travels across an open ocean as a packet of very long waves, we have learned from the past tsunami events that the knowledge of the first few leading waves is of particular importance since it provides necessary information for tsunami scientists to predict the arrival time and runup height of the tsunami waves. Based on the theoretical arguments, experimental studies, or field observations, a number of simple wave models, namely sinusoidal waves, Gaussian profiles, solitary waves, N-waves among others, have been proposed in literature as the model waveforms for the leading tsunami waves. Undoubtedly, each model has achieved considerable success in representing leading waves when comparing to certain sets of field or laboratory data. However, a universal model for describing the waveform of leading tsunami waves is seemly still unavailable. In this paper, we will study theoretically the evolution of leading waves due to a sudden disturbance. We will first revisit the asymptotic solutions of linear dispersive equations for the leading wave train caused by a surface disturbance in a constant depth (Kajiura 1963). The applicability of these theoretical predictions will then be examined. Finally, we attempt to explore the connection between the profiles of the asymptotic solutions and the familiar sinusoidal waves and solitary waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8785</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8785/7585</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8785/8136</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

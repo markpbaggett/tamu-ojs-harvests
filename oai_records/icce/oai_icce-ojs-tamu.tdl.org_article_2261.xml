@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2261</identifier>
+				<datestamp>2021-01-17T05:50:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMILARITY IN SEDIMENT TRANSPORT DUE TO WAVES</dc:title>
+	<dc:creator xml:lang="en">Yalin, S.</dc:creator>
+	<dc:creator xml:lang="en">Russell, R.C.H.</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">cohesionless sediment</dc:subject>
+	<dc:subject xml:lang="en">two phase motion</dc:subject>
+	<dc:description xml:lang="en">The paper concerns the movement by waves of cohesionless sediment lying on a horizontal bed. In particular it concerns the number of dimensionless parameters that are necessary to define the 2-phase motion at the bed; the specification of which would enable perfect similarity to be obtained. It is shown that in general four dimensionless parameters are necessary but that when the motion of the water at the bed can be adequately defined by an orbit length (a) and a period (T), the two-phase motion can be described by the numerical value of three dimensionless parameters. This condition is satisfied when the wave-height is low, because then the orbital motion at the bed is sinusoidal and the drift velocity is negligible.
+Model and prototype experiments were conducted in a wave channel, using low waves, in which the scale for depth of water and for wavelengths was -37?. The dependent parameters, three of -which are sufficient to verify similarity of all aspects of the phenomenon were chosen to be ripple height, ripple length and transport of sediment. The identity of the dimensionless numbers signifying the ripple height, ripple length and transport in model and prototype, shown in Figs, 8, 9 and 11, is proof that similarity had been obtained.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2261</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2261/1952</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

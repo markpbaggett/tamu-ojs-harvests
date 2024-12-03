@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12941</identifier>
+				<datestamp>2023-09-01T15:14:31Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL EXPERIMENTS ON OVERHANGING PARAPETS UNDER NON-BREAKING WAVE CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Castellino, Myrta</dc:creator>
+	<dc:creator xml:lang="en">Antonini, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Celli, Daniele</dc:creator>
+	<dc:creator xml:lang="en">Dermentzoglou, Dimitrios</dc:creator>
+	<dc:creator xml:lang="en">Pasquali, Davide</dc:creator>
+	<dc:creator xml:lang="en">Risio, Marcello Di</dc:creator>
+	<dc:creator xml:lang="en">Girolamo, Paolo De</dc:creator>
+	<dc:description xml:lang="en">Sea-wall and storm-wall structures aim to protect coastal areas and harbours from wave attacks. They are often located in the neighbours of city centres, that in turn impose rather severe visual limits affecting the maximum height of the structure. To combine the architectonical visual restrictions and the overtopping safety limits, imposed by different national standards, alternative solutions such as recurved parapet are often applied. Even for non-breaking wave conditions, these structures are subjected to large impulsive pressure that has been recently described and named as Confined-Crest impact, (C-CI, Castellino et al., 2018). The C-CI has been the cause of recent failures such as in the Civitavecchia harbour (Italy, Castellino et al., 2021 and Dermentzoglou et al., 2020). Accordingly, this phenomenon raised the attention of researchers and professionals who require an additional tool to design these curvilinear structures by considering the overtopping reduction performance, the structure complexity and the C-CI.             </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12941</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.85</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.85</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12941/12214</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Myrta Castellino, Alessandro Antonini, Daniele Celli, Dimitrios Dermentzoglou, Davide Pasquali, Marcello Di Risio, Paolo De Girolamo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

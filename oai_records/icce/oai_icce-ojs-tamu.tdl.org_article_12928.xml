@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12928</identifier>
+				<datestamp>2023-09-01T15:14:26Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FAILURE OF SEAWALLS DUE TO TSUNAMI-INDUCED SCOUR</dc:title>
+	<dc:creator xml:lang="en">Jayaratne, Ravindra</dc:creator>
+	<dc:creator xml:lang="en">Balasubramaniam, Nilakshan</dc:creator>
+	<dc:creator xml:lang="en">Kim, Taeksang</dc:creator>
+	<dc:creator xml:lang="en">Bricker, Jeremy</dc:creator>
+	<dc:description xml:lang="en">The Indian Ocean tsunami in 2004 and the Tohoku tsunami in 2011 have shown that tsunami-induced scour is one of the primary reasons for the failure of coastal defence structures (Bricker et al., 2012; Jayaratne et al., 2016). In a coastal structure, scour can occur when the plunging jet impacts the landward toe of the structure, resulting in digging a hole around the foundation which eventually may destabilize the structure. This can be exacerbated by rapid drawdown induced liquefaction during the receding wave, and can lead to the failure of the structure. Therefore, accurate prediction of local and plunging scour is very vital in order to ensure the safety of the coastal structures under such conditions. Data we have at present are based on final or equilibrium scour depths, not the maximum scour depths. Survey teams measure scour profile once the extreme event is over. However, the trough or scour hole made can be partly filled by sediment transport from upstream (in the live bed case) or from sediment suspended within the scour hole that settles after the flow slows down. Thus, the scour depth survey teams measure are less than the actual maximum depths. Therefore, a novel experimental and numerical study is proposed to tackle this problem with the funding of the Royal Society, UK.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12928</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.72</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.72</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12928/12201</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Ravindra Jayaratne, Nilakshan Balasubramaniam, Taeksang Kim, Jeremy Bricker</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

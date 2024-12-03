@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12738</identifier>
+				<datestamp>2023-09-01T15:12:43Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GENERATION OF LINEAR WAVES WITH BOTTOM WAVE MAKERS IN A FLUME: AN EFFICIENT WAY TO ABSORB REFLECTED WAVES</dc:title>
+	<dc:creator xml:lang="en">Tran, Minh Thang</dc:creator>
+	<dc:creator xml:lang="en">Jung, Jae-Sang</dc:creator>
+	<dc:creator xml:lang="en">Lee, Changhoon</dc:creator>
+	<dc:creator xml:lang="en">Park, Yong Sung</dc:creator>
+	<dc:description xml:lang="en">When waves are generated in a flume by the conventional piston or flap wave maker, waves reflected from structures will arrive at the wave maker and experience re-reflection. These re-reflected waves will propagate to the structures so that the target wave energy cannot be accurately obtained. Since 1980s, methods of internally generating waves inside a computational domain and putting sponge layers at the domain end have been developed in numerical modelling. Internally generated waves will propagate both directions from the wave generation zone and waves reflected from the structures will pass through the wave generation zone without any reflection by the wave maker and be absorbed in the sponge layers. Using the idea of internal generation of waves, Jung et al. (2018) developed bottom wave makers in a flume which have paddles moving up and down from the bottom (see also Lu et al. (2017)). In this study, following Jung et al.’s (2018) techniques, we numerically develop both rectangular and triangular bottom wave makers in a flume using the analytical method and the extended mild-slope equations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12738</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12738/12011</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Minh Thang Tran, Jae-Sang Jung, Changhoon Lee, Yong Sung Park</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

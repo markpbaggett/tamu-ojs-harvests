@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7722</identifier>
+				<datestamp>2021-01-20T04:09:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF TSUNAMI ACCOMPANIED BY BREAKING SHORT-PERIOD WAVES</dc:title>
+	<dc:creator xml:lang="en">Tomita, Takashi</dc:creator>
+	<dc:creator xml:lang="en">Takahashi, Kenya</dc:creator>
+	<dc:subject xml:lang="en">Tsunami</dc:subject>
+	<dc:subject xml:lang="en">undular bore</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">wave breaking model</dc:subject>
+	<dc:subject xml:lang="en">non-hydrostatic model</dc:subject>
+	<dc:description xml:lang="en">The 2011 Tohoku tsunami hitting Kuji port, Japan, was high whose height of 5.4 m was measured in the water area of 49.5 m deep in front of the open mouth of the port. This tsunami was accompanied by short-period waves while it propagated in the port, and then it broke in the port of 18 m deep approximately ahead on a breakwater. Since wave pressure by a tsunami with short-period waves is important for design of breakwaters according to Ikeno et al. (2006), such wave transformation and deformation should be able to be calculated for planning and designing measures to save people and reduce property loss. In this study, a non-hydrostatic mathematical model was developed to calculate tsunamis including short period waves, and validated in comparison with experimental results in which the tsunami in Kuji port was modeled.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7722</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7722/pdf_871</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

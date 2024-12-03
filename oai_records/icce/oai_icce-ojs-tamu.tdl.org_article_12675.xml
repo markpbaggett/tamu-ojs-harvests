@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12675</identifier>
+				<datestamp>2023-09-01T15:12:06Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AGENT-BASED SIMULATION OF HURRICANE RISK INFORMATION DISSEMINATION</dc:title>
+	<dc:creator xml:lang="en">Yeates, Elissa M.</dc:creator>
+	<dc:creator xml:lang="en">Chen, Chen</dc:creator>
+	<dc:creator xml:lang="en">Lindell, Michael K.</dc:creator>
+	<dc:creator xml:lang="en">Shao, Wanyun</dc:creator>
+	<dc:creator xml:lang="en">Harris, Ce’Ne</dc:creator>
+	<dc:creator xml:lang="en">Cass, Evan</dc:creator>
+	<dc:description xml:lang="en">The effectiveness of official warning dissemination and interpretation determines the adoption of protective actions in response to hurricane threat. This paper describes the development of a conceptual warning diffusion model that articulates the whole process of the hurricane warning diffusion and individual decision-making, drawing on emergency management and social science bodies of literature. This conceptual model is then partially encoded into a NetLogo agent-based simulation model to demonstrate the effects of various warning diffusion components on evacuation decisions for areas of interest. The translation of the conceptual model into agent-based simulations can inform the coastal engineering and science communities of the importance of communicating risk information to the public, and also helps to identify future research needed to illuminate hurricane risk communication pathways.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12675</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12675/11948</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Elissa M. Yeates, Chen Chen, Michael K. Lindell, Wanyun Shao, Ce’Ne Harris, Evan Cass</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

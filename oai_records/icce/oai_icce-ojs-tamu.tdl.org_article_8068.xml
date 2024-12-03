@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8068</identifier>
+				<datestamp>2021-01-20T03:29:48Z</datestamp>
+				<setSpec>icce:foreword</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROCEEDINGS DEDICATION: Fredric Raichlen</dc:title>
+	<dc:creator xml:lang="en">Synolakis, Costas E.</dc:creator>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:description xml:lang="en">This Proceedings is dedicated to Fredric Raichlen, Professor of Civil and Mechanical Engineering at the California Institute of Technology, who passed away on December 13, 2014 in his home in Pasadena, California. He was the quintessential civil engineer with a talent for identifying what was important to first order and thus able to come up with simple and elegant computations for complex problems, through surgical idealizations of the important physics. His was a magician in terms of determining the important dimensionless parameters to scale problems. His work covered turbulence measurements in waves, wave breaking, the propagation of bores, harbor oscillations, run-up and flooding problems, wave energy extraction devices, wave-structure interactions, the interaction of long waves with sea floors and submerged pipelines, and the generation and propagation of tsunamis caused by submarine earthquakes and landslides.
+
+Fred Raichlen was born on October 12, 1932 and grew up in Baltimore, Maryland, and he got his B.Sc. degree from Johns Hopkins University in 1953. He earned his doctoral degree under the mentorship of Arthur T. Ippen at MIT, where from he graduated in 1962, and started working there as an assistant Professor. He was immediately grabbed by Caltech and was promoted to the rank of professor in 1972, and stayed there until his death. While he formally retired in 2002, he remained active until last summer, working with colleagues, students and consultants almost to his last few weeks.
+
+In 1993, Fred Raichlen was inducted to the National Academy of Engineering. In 1994, he was awarded the John G. Moffatt-Frank E. Nichol Harbor and Coastal Engineering Award of the American Society of Civil Engineers. He was awarded in 2003, the International Coastal Engineering Award of the American Society of Civil Engineers.
+
+Fred Raichlen was a pioneer in the studies of harbor excitation due to long waves and in tsunamis. He described the fundamentals and introduced the basic analytical methodology for understanding harbor resonance. Results of that research have provided the profession with a means of investigating harbor-ship dynamics in an exploratory or preliminary manner without resorting to more costly laboratory investigation.. Fred Raichlen and his students developed several numerical models utilizing the finite difference, boundary elements, and finite elements methods for modeling complicated coastal engineering problems. This methodology is still in use today
+
+Fred Raichlen pursued possibly the most systematic study of tsunami hydrodynamics worldwide. In a series of landmark PhD theses, he first started with understanding tsunami generation, by considering the uplift and subsidence of a portion of a laboratory channel. The main result was that the height of the initial wave height was never larger
+than the size of the seafloor deformation. He then studied how long waves evolve over shelfs of different shapes and determined how they split, with one wave reflecting back and the other moving onto the shelf. Then, he focused on the terminal effects, and explored how long waves run up onto the beaches. Finally, he studied the generation and terminal effects of landslide waves.
+
+The hallmark of Fred Raichlen's work was the quality of the experiments. By working with the different experimental set up for over three decades, it was possible to cross-reference different experiments referring to different stages of wave evolution, given that they were all done at similar scales. His legacy remains the integration of analytical, laboratory and numerical simulations for the same physical problem, all done by the same investigator, an approach which helped identify the limitations of different approaches. Many of his experimental results are continuing being used for calibration and verification.
+
+Fred Raichlen published 75 scientific works in different venues. He refused to follow trends, sink to writing the least publishable unit,or republish the same work, if he had written about in conference proceedings. He often encouraged students to publish their thesis work on their own, in the firm belief that newly minted PhD needed monographs to establish themselves. He followed the classic pattern of engineering for a substantial part of the 20th century, where university or government laboratory reports stood on their own. His Caltech reports remain the seminal contributions on their specific subjects.
+
+He started attending the ICCEs in 1966 and continued to do so until 2008, when doctor's orders prohibited him overseas travel. Exactly because of his no duplication policy, his ICCE papers remain highly cited. Many of us in the meetings remember his humor, enthusiasm to promote the work of junior colleagues, and his sharp criticism of sub standard, preliminary or derivative works that he felt did not belong in high quality meetings.
+
+Fredric Raichlen is survived by his wife Judy ( his lifetime companion in ICCEs and other technical meetings), his two sons, Robert and David, two grandchildren and ten PhD students who are active professionals in coastal engineering.
+
+Contributed by:
+Profs. Costas Synolakis and Jiin-Jen Lee
+Sonny Astani Department of Civil and Environmental Engineering
+Viterbi School of Engineering
+University of Southern California</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8068</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.forward.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; forward.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8068/pdf_754</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2015 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

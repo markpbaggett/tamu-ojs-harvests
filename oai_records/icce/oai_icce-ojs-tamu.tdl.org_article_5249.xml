@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5249</identifier>
+				<datestamp>2021-01-19T13:23:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PARTICLE VELOCITY DISTRIBUTION IN SURFACE WAVES</dc:title>
+	<dc:creator xml:lang="en">Moe, Geir</dc:creator>
+	<dc:creator xml:lang="en">Arntsen, Oivind</dc:creator>
+	<dc:subject xml:lang="en">particle velocity</dc:subject>
+	<dc:subject xml:lang="en">velocity distribution</dc:subject>
+	<dc:description xml:lang="en">In offshore and ocean engineering it is often of interest to be able to model particle velocities in the so-called splash zone, in which during a wave cycle, a given point is sometimes submerged, sometimes in air. (Emergence effects.) This paper applies the so-called Gerstner wave theory, extends it to narrow banded irregular waves, and presents it in an Eulerian description to second order in wave amplitude, so that the results may be compared with measurements made at fixed positions in the fluid. Mean horizontal velocities have been determined, and shown to compare excellently to laboratory measurements, both for regular and irregular waves. At this point in time, it can not be said whether the fit will be equally good in real ocean waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5249</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5249/4927</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

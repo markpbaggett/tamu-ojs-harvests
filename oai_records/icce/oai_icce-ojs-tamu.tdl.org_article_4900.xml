@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4900</identifier>
+				<datestamp>2021-01-19T15:22:48Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT IN DREDGED TRENCHES</dc:title>
+	<dc:creator xml:lang="en">Vithana, S. Opatha</dc:creator>
+	<dc:subject xml:lang="en">dredged trench</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">An attempt was made, using a 3-dimensional turbulent model coupled with a comparatively simple depth averaged sand transport model, to assess the computational feasibility of predicting sediment transport in a dredged trench, caused by a steady flow passing across the trench. A sophisticated computer software package was used to simulate 3-dimensional turbulent flow by the finite element method. A Profile Model, which discretized the transport process to enable sucessive computation of the flow field, was used for morphological evolution of the channel bed. A physical model was built and tested to validate the numerical models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4900</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4900/4581</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

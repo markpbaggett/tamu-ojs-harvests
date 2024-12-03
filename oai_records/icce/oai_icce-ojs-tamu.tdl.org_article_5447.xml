@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5447</identifier>
+				<datestamp>2021-01-19T12:17:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEACH EVOLUTION UNDER RANDOM WAVES</dc:title>
+	<dc:creator xml:lang="en">Holmes, Patrick</dc:creator>
+	<dc:creator xml:lang="en">Baldock, Thomas E.</dc:creator>
+	<dc:creator xml:lang="en">Chan, Ray T.C.</dc:creator>
+	<dc:creator xml:lang="en">Neshaei, M. Ahmad L.</dc:creator>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:subject xml:lang="en">beach evolution</dc:subject>
+	<dc:description xml:lang="en">This paper considers the evolution of steep mobile sediment beaches under random waves and results from a new experimental investigation are presented. Both hydrodynamic data obtained over fixed beds and the resulting profile evolution of fine, coarse and bimodal sediment beaches are discussed. Wave heights and undertow in the inner surf zone are found to be poorly predicted by commonly used numerical solutions. In addition, the undertow appears to be strongly influenced by wave grouping in the nearshore. The behaviour of the fine, coarse and bimodal sediment beaches are compared and contrasted. The fine sand beaches tend to erode in the inner surf and swash zones, with the sediment moving predominantly offshore to form a bar. In contrast, onshore sediment transport dominates over the coarse sand beaches, resulting in the formation of a berm above the initial still water level. The bimodal beaches show a similar evolution to the fine sand beaches. However, considerable sediment sorting occurs, with the swash zone largely denuded of fines and the coarser sediment deposited between the still water line and the bar. The data suggests that the stability of the coarse material is significantly reduced by the presence of fines, with little evidence of armouring effects under high incident energy conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5447</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5447/5123</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

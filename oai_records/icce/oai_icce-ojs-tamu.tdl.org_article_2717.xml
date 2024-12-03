@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2717</identifier>
+				<datestamp>2021-01-20T04:00:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MATHEMATICAL MODEL OF MIXING IN NEW HAVEN HARBOR</dc:title>
+	<dc:creator xml:lang="en">Disko, Michael D.</dc:creator>
+	<dc:creator xml:lang="en">Norris, Robert A.</dc:creator>
+	<dc:creator xml:lang="en">Lutz, Francis C.</dc:creator>
+	<dc:subject xml:lang="en">mixing</dc:subject>
+	<dc:subject xml:lang="en">mathematical model</dc:subject>
+	<dc:subject xml:lang="en">New Haven Harbor</dc:subject>
+	<dc:description xml:lang="en">A mathematical model of New Haven Harbor, a shallow embayment with approximately 8 square nautical miles of water surface within boundaries established by Long Island Sound and the mouths of the Quinnipiac, West and Mill Rivers, has been developed. The Harbor has extensive tidal flats and dredged channels which help to produce large lateral variations of velocity and mixing over a tidal cycle. In order to adequately consider these lateral variations, a two-dimensional model of mixing, dispersion, pollutant reactions, and reaeration is made by linking together 28 segments of the Harbor, using a series of mass-balance equations. Mixing, or dispersion, is a complex function of reversing tidal currents, salinity-induced circulation patterns, fresh-water inflow, and the physical boundaries of the Harbor. Field measurements of salinity, dissolved oxygen, BOD, and tidal and hydraulic factors are used, in conjunction with laboratory studies, to evaluate coefficients and rate constants for the model. The linked system of equations is solved by matrix inversion procedures on a large computer. After verification, the model was used to predict the effect of treatment levels, outfall locations, and hydrologic parameters on oxygen levels and water quality m the Harbor. An important aspect of the work is that it presents a rational evaluation of estuarine water quality as a function of tidal mixing, outfall location, and the degree of BOD removal by proposed treatment plants, rather than the acceptance of arbitrary treatment standards,</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2717</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.112</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 112</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2717/2381</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

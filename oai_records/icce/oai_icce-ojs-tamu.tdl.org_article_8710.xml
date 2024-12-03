@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8710</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RESPONSE OF OREGON INLET TO PEA ISLAND BREACHING</dc:title>
+	<dc:creator xml:lang="en">Velasquez-Montoya, Liliana</dc:creator>
+	<dc:creator xml:lang="en">Sciaudone, Elizabeth J.</dc:creator>
+	<dc:creator xml:lang="en">Overton, Margery F.</dc:creator>
+	<dc:description xml:lang="en">This study aims to assess the effects of a new inlet on the hydrodynamics of a semi-permanent tidal inlet and the back-barrier sound. Research on dual-inlet interactions is motivated by the increased vulnerability of barrier islands to breaching during hurricanes, phenomenon that can have important consequences on the hydrodynamics and morphology of a barrier island system with pre-existing inlets. This particular study takes place in the northern Outer Banks of North Carolina, where Oregon Inlet is the main inlet connecting the Atlantic Ocean with the Albemarle-Pamlico Sound. During Hurricane Irene in 2011, Pea Island - the island south of Oregon Inlet - was breached creating a new inlet that remained open until 2013. Dual-inlet interactions between Oregon Inlet and the new inlet in Pea Island are analyzed by means of numerical modeling experiments. Changes in flow velocities, water levels, and the tidal prism of Oregon Inlet due to the new inlet are computed for different wave and water level conditions. In addition to the actual inlet that opened in 2011, the effects of idealized inlets with different geometries and location are also included in this study. Results indicate that the original breach in Pea Island did not modify the dynamics of Oregon Inlet. Instead, its effects were restricted to a 5 km radius that extended mostly into the sound. The relative small size of the breach and its distance from Oregon Inlet are the two main factors that prevented dual-inlet interaction. Exploration of idealized breaching scenarios in Pea Island suggests that inlet spacing and breaching geometry play a major role in multiple inlet stability theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8710</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.82</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.82</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8710/7512</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

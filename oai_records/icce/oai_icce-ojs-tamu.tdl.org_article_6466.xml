@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6466</identifier>
+				<datestamp>2023-10-04T03:32:47Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY MEASUREMENTS OF A STEADY BREAKER USING PIV AND BIV</dc:title>
+	<dc:creator xml:lang="en">Lin, Chang</dc:creator>
+	<dc:creator xml:lang="en">Hsieh, Shih-Chun</dc:creator>
+	<dc:creator xml:lang="en">Lin, I-Ju</dc:creator>
+	<dc:creator xml:lang="en">Chang, Kuang-An</dc:creator>
+	<dc:creator xml:lang="en">Raikar, Rajkumar</dc:creator>
+	<dc:subject xml:lang="en">Hydraulic jump</dc:subject>
+	<dc:subject xml:lang="en">Velocity measurement</dc:subject>
+	<dc:subject xml:lang="en">Turbulence</dc:subject>
+	<dc:subject xml:lang="en">Particle image velocimetry</dc:subject>
+	<dc:subject xml:lang="en">Multiphase flow</dc:subject>
+	<dc:description xml:lang="en">Image-based particle image velocimetry (PIV) and bubble image velocimetry (BIV) techniques were employed to measure the flow field in both the non-aerated and aerated regions in a steady hydraulic jump.  The jump has a Froude number of 4.62 with a large amount of air entrainment.  The mean velocities and turbulence properties were obtained by ensemble averaging the repeated measurements.  The spatial variations of mean velocity profiles, turbulent intensity, and Reynolds stress were discussed in details.  The results show that the ratio between the maximum bubble velocity and the maximum water velocity is almost constant with a value about 0.6.  The turbulence intensity of bubbles is very high in the aerated region and reaches about 0.4, while the turbulence velocity of water below the roller is significantly lower.  The Reynolds stress is mostly negative and increases as elevation increases.  The maximum Reynolds stress occurs at the free surface.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-11</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6466</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6466/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

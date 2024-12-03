@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3786</identifier>
+				<datestamp>2021-01-19T21:46:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE KINEMATICS AND DIRECTIONALITY IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">van Heteren, J.</dc:creator>
+	<dc:creator xml:lang="en">Stive, M.J.F.</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:subject xml:lang="en">wave direction</dc:subject>
+	<dc:description xml:lang="en">Measurements of surface elevations and internal velocities have been conducted in a natural surf zone. The results were used to investigate the quantitative performance of linear theory in predicting the wave kinematics from the surface elevations. It appears that linear theory systematically overpredicts the horizontal velocities by 20 % in the frequency range around the peak, where the coherence with the surface motion is high, by 15 % at 2 times the peak frequency, changing in an underprediction of 15 % at higher frequencies. In these higher frequency ranges the rate of turbulent energy induced by breaking, contributes to the variance, so that the ratio of measured to theoretical r.m.s. fluctuation shows a trend of 25 % theoretical overprediction at negligible turbulent energy rates to 5 % underprediction at high turbulent energy rates. Furthermore the results were used to investigate the linear prediction of radiation stress and the effect of directionality on the radiation stress. Prediction of the radiation stress by unidirectional, linear theory gives an overestimation of 50 % at negligible turbulent energy rates to 35 % at high energy rates, which percentages reduce to 45 % and 25 i when the effect of shortcrestedness is taken into account.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3786</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3786/3469</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

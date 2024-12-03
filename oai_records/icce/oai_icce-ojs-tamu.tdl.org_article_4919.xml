@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4919</identifier>
+				<datestamp>2021-01-19T15:15:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRAULIC APPROACH TO DETERMINING OPTIMUM INTERVAL OF DISCHARGE SITES OF BARGE IN CONSTRUCTING RUBBLE FOUNDATION OF DEEP WATER BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Matsumi, Yoshiharu</dc:creator>
+	<dc:creator xml:lang="en">Kimura, Akira</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">deep water</dc:subject>
+	<dc:subject xml:lang="en">discharge site</dc:subject>
+	<dc:subject xml:lang="en">rubble foundation</dc:subject>
+	<dc:description xml:lang="en">This study aims to establish the effective and economical construction scheme of the rubble mounds which are constructed by discharging a large amount of rubble from hopper barge. Since the plane scatter of the landing rubble on the sea floor directly depends on the random drift force exerted on the settling rubble, the statistical properties for the scattering range of the settling rubble in the still water are fully investigated in experiments. On the basic of the experiments and the discrete block method which equipped to cope with the steeper slope of rubble mound than the angle of repose for rubble, a numerical technique to simulate the spatial geometry of the discharged rubble on the sea floor taking the angle of repose for the rubble into account is developed. An optimum interval of the discharge sites of the barge which makes the uneven property of the mound's surface minimum is discussed in connection with the change in the the design water depth of breakwater and the discharge times.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4919</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4919/4600</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

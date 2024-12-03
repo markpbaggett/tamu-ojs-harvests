@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10216</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RANS SIMULATION OF BREAKER BAR DEVELOPMENT USING A STABILIZED TURBULENCE MODEL</dc:title>
+	<dc:creator xml:lang="en">Larsen, Bjarke Eltard</dc:creator>
+	<dc:creator xml:lang="en">Fuhrman, David R.</dc:creator>
+	<dc:description xml:lang="en">The results demonstrate the significant advantages of utilizing formally stabilized turbulence closure models in accurately predicting the surf zone dynamics, sediment transport, and breaker bar morphology in the shoaling region and in the outer surf zone using RANS models. Simulated evolution using a stabilized turbulence model is demonstrated to predict cross-shore breaker bar position, growth and evolution. This is in contrast to results using (otherwise identical) standard turbulence closure, which tend to flush the bar further offshore. Further improvements are still needed to increase hydrodynamic accuracy, hence sediment transport and morphological evolution, in the inner surf zone.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/R_sm_06qQGM</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10216</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10216/9502</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Bjarke Eltard Larsen, David R. Fuhrman</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

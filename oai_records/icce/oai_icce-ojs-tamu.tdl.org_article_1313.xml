@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1313</identifier>
+				<datestamp>2023-10-04T03:51:52Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PRESSURE DISTRIBUTIONS ON A VERTICAL BREAKWATER: EXPERIMENTAL</dc:title>
+	<dc:creator xml:lang="en">Perez, Dulce Maria</dc:creator>
+	<dc:creator xml:lang="en">Correa, Mariana</dc:creator>
+	<dc:creator xml:lang="en">Ortega, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Clavero, María</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel Angel</dc:creator>
+	<dc:subject xml:lang="en">vertical breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave height</dc:subject>
+	<dc:subject xml:lang="en">pressure distribution</dc:subject>
+	<dc:subject xml:lang="en">porous media</dc:subject>
+	<dc:description xml:lang="en">This work studies the horizontal and uplift pressure distributions over a caisson founded on porous materials, and their dependence on the stone diameter and the height of the foundation. For this, tests at a wave flume with an idealized composite breakwater of rectangular section, varying the depth of the foundation of the caisson and the diameter of the stones, were carried on. Eight resistive gauges and eight pressures sensors were used to measure free surface elevations and horizontal and uplift pressure variation, respectively. Results show that: 1) there exist a "saturation† of the reflection coefficient for B/L&gt;0.4, being B the width of the dike and L the wave length, 2) by using the total wave height measured at the toe of the dike in the analysis, the dispersion of the results is significantly reduced; 3) dimensionless run-up and pressures obtained using total wave height mainly depends on the reflection regime and on the relative height of the foundation; 4) maximum uplift and horizontal forces are not always in phase, and three regimes are identified depending on which force dominates; and 5) the relation between the dimensionless forces with the total wave height at the toe of the dike depends mainly on the reflection regime and on the relative foundation height.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1313</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1313/pdf_318</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

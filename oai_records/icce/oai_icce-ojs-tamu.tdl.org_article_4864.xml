@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4864</identifier>
+				<datestamp>2021-01-19T15:34:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUASI-TURBULENT BOUNDARY LAYER OF OSCILLATING FLOW OVER RIPPLES</dc:title>
+	<dc:creator xml:lang="en">Sato, Yukio</dc:creator>
+	<dc:creator xml:lang="en">Hamanaka, Ken-ichiro</dc:creator>
+	<dc:subject xml:lang="en">ripples</dc:subject>
+	<dc:subject xml:lang="en">oscillating flow</dc:subject>
+	<dc:subject xml:lang="en">boundary layer</dc:subject>
+	<dc:subject xml:lang="en">quasi-turbulent boundary layer</dc:subject>
+	<dc:description xml:lang="en">When the surface waves propagate in shallow water region, the bottom boundary layer may be turbulent because of sand ripples or other kind of roughness of sea bed. But before the flow becomes fully developed turbulence, there is a state, in a certain range of the Reynolds number, in which the flow is still laminar but has separation and complex structure of vortex. This is termed as quasi-turburent flow in the present paper. The flow structure of this boundary layer affects the mass transport and sedimataion. In the present paper, we use a numerical method to solve the boundary layer of oscillatary flow over ripples. When we discuss the overall wave field, the sand ripples can be considered as ruoghness of the bollom and the flow with the separation and the vortex can be considered as disturbance around mean flow. Therefore, to discuss the averaged flow structure of wave field, the mass transport for example, it is necessary to know some kind of statistical properties of the boundary layer. A particular attention is paid to investigate the mean velocity, the Reynolds stress and turbulent viscosity. It is found that the turbulent viscosity varies along the time during the period of the oscillation. And not only it diverses as the space derivative of the mean velocity diminishes, but also it has a complex distribution in space and time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4864</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4864/4545</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

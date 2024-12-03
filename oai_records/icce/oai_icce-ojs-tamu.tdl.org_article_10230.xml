@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10230</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MORPHOLOGICAL RESPONSE OF A REEF-FRONTED BEACH TO SEA LEVEL RISE AND REEF DEGRADATION </dc:title>
+	<dc:creator xml:lang="en">Baldock, Tom</dc:creator>
+	<dc:creator xml:lang="en">Ginzo, William</dc:creator>
+	<dc:description xml:lang="en">The morphological response of reef-fronted beaches to sea level rise and reef degradation is investigated by physical modelling. Coral barrier and fringing reefs limit the wave energy reaching sandy beaches, providing protection to many communities worldwide (Ferrario et al., 2014). Sea level rise and loss of reef flat elevation through coral mortality are expected to alter water levels over such reefs in the future. Assessing the morphological response to these processes in the field is very difficult due to the timescale involved, and lack of data for current conditions. Numerical modelling of beach profile response is also poor, even for open coast sandy beaches, and there is limited work modelling of reef fronted beaches, although hydrodynamics can be modelled reasonably well (Buckley et al., 2014). Here, new experiments on beach response to rising water levels and reducing reef flat elevation without tides are presented and compared to a conceptual model that links total sediment transport to the wave height landward of the reef (Baldock et al., 2015). A summary of recent numerical modelling of 2D planform changes for the same scenario will also be presented.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/0ya0UH1Vpsk</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10230</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10230/9516</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Tom Baldock, William Ginzo</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

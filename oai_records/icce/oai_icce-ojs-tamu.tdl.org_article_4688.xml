@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4688</identifier>
+				<datestamp>2021-01-19T16:34:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IRREGULAR WAVE TRANSFORMATION PROCESSES IN SURF AND SWASH ZONES</dc:title>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:creator xml:lang="en">Wurjanto, Andojo</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">wave transformation</dc:subject>
+	<dc:description xml:lang="en">A frequency-domain model is developed for elucidating the nonlinear transformation processes of the Fourier amplitudes and phases of normally incident random waves in surf and swash zones. The verticallyintegrated continuity and momentum equations which have been used to describe a turbulent bore on a beach are rearranged to derive the equations expressing the cross-shore variations of the Fourier components of normally incident random waves. The derived equations are solved numerically using forcing terms computed from a previously developed time-domain model. The frequencydomain model attempts to quantify the importance of the nonlinear forcing due to the cross-shore variations of instantaneous radiation stress and bottom shear stress as well as the seaward boundary condition related to incoming low frequency waves for generating two-dimensional surf beat in the surf and swash zones.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4688</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4688/4369</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

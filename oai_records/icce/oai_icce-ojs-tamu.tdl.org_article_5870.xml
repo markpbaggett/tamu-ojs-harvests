@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5870</identifier>
+				<datestamp>2021-01-19T10:00:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG-PERIOD OSCILLATIONS IN A HARBOUR WITH FLUID MUD BOTTOM</dc:title>
+	<dc:creator xml:lang="en">Kioka, Wataru</dc:creator>
+	<dc:creator xml:lang="en">Mossain, M. Akter</dc:creator>
+	<dc:creator xml:lang="en">Kashihara, Kenji</dc:creator>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">mud</dc:subject>
+	<dc:subject xml:lang="en">fluid mud</dc:subject>
+	<dc:subject xml:lang="en">harbor oscillation</dc:subject>
+	<dc:description xml:lang="en">Non-linear dynamic responses of fluid mud to the oscillating surface waves in a harbour basin and their consequential effects on the long-period harbour excitations are investigated. A set of Boussinesq-type equations based on the weakly nonlinear, dispersive and viscous wave theories is developed for coupled two-layer density stratified system, incorporating the boundary layer corrections for the interfacial shear and mud viscosity. Laboratory experiments are also conducted with fluid mud for different wave periods, and the generation, behavior and different propagation modes of the interfacial waves are examined. Both experimental and numerical results demonstrate that the amplification of water surface displacements is significantly reduced near the first peak of resonance oscillations in the harbour where the internal mode of the interfacial waves governs the surface mode in the motion of the interface. Near the second peak of resonance oscillations the surface mode of the interfacial waves dominates and the interface oscillates nearly in phase of surface waves. The amplification of water surface displacements at the second peak is also reduced to some extent.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5870</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5870/5538</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3925</identifier>
+				<datestamp>2021-01-19T20:55:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEACH AND SURF ZONE EQUILIBRIA AND RESPONSE TIMES</dc:title>
+	<dc:creator xml:lang="en">Wright, L.D.</dc:creator>
+	<dc:creator xml:lang="en">May, S.K.</dc:creator>
+	<dc:creator xml:lang="en">Short, A.D.</dc:creator>
+	<dc:creator xml:lang="en">Green, M.O.</dc:creator>
+	<dc:subject xml:lang="en">response time</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">beach equilibria</dc:subject>
+	<dc:description xml:lang="en">Analyses were performed on a 6% year time series of daily wave data, daily beach state data and monthly beach and surf zone profile data. Beach state changes, which involve the relatively rapid redistribution of sediment already stored locally, are predictable in terms of Dean's (3) simple parameter A - H, /(w T) where H, is breaker height, w is sediment fall velocity and T is wave period. Each of the six beach states has a different equilibrium range of S2 values and the direction of change (erosion or accretion) depends on the departure from the equilibrium association. Empirical eigenvector analyses performed on the profile data permitted separation of different response components. The lower order vectors expressing the grosser aspects of the profile features such as beach volume and surf zone gradient displayed maximum variance at periods in excess of 2 years whereas much shorter response times characterized the higher order components such as bar-trough shapes and asymmetries. We infer that the fast response, and more predictable, components of beach and surf zone change largely involve smaller scale sediment exchanges between the beach and surf zone whereas the slower responses are related to larger scale exchanges between the surf zone and the inner continental shelf.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3925</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.144</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 144</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3925/3608</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

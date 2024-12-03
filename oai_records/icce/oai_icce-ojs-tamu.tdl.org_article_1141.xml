@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1141</identifier>
+				<datestamp>2023-10-04T04:08:27Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INUNDATION FLOW VELOCITY OF TSUNAMI ON LAND AND ITS PRACTICAL USE</dc:title>
+	<dc:creator xml:lang="en">Matsutomi, Hideo</dc:creator>
+	<dc:creator xml:lang="en">Okamoto, Kensuke</dc:creator>
+	<dc:creator xml:lang="en">Harada, Kenji</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">field survey</dc:subject>
+	<dc:subject xml:lang="en">hydraulic experiments</dc:subject>
+	<dc:subject xml:lang="en">inundation flow velocity</dc:subject>
+	<dc:subject xml:lang="en">degree of damage to buildings</dc:subject>
+	<dc:description xml:lang="en">Based on field data of inundation depth and inundation flow velocity u estimated using Bernoulli's theorem and inundation depth, fundamental characteristics of relationship between inundation flow velocity and inundation depth are examined. Velocity coefficient Cv (=                       where g is gravitational acceleration, hf and hr are inundation depths at the front and the back of structure such as a rectangular building with vertical walls respectively) implicitly included in the relationship is examined through steady flow experiments. As the result, Cvï€½0.6 is recommended as its simple and practical value. By using the relationship and Cvï€½0.6, two simple and practical relationships are presented for two cases where inundation flow velocity exerts the largest or the smallest fluid force on structures. Fundamental characteristics of waterline (tsunami-trace) distribution around a square pillar model are also examined through steady flow experiments. Examples of tsunami-trace distribution around building in the 2009 Samoa Earthquake tsunami are presented, and compared with those by steady flow experiments. It is confirmed through the comparison and examination that the tsunami-trace distributions around buildings by the field survey are consistent with those by the steady flow experiments and contain information such as inundation flow direction, velocity and fluid force at the maximum incident inundation depth, and strength of buildings. Variation coefficient C.V. of inundation flow velocity caused by the measured point difference at the front and the back of building is also examined. In addition, based on the above results of inundation flow velocity, the existing simple and practical judgment criterion for the degree of damage to buildings is re-examined, and it is confirmed that newly proposed judgment criterion for the degree of damage to wooden buildings is consistent with the tsunami fragility curve for Japanese wooden buildings by Koshimura et al.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1141</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1141/pdf_215</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

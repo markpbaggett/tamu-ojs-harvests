@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5487</identifier>
+				<datestamp>2021-01-19T12:05:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTERANNUAL SHORELINE VARIATIONS AT DUCK, NC, USA</dc:title>
+	<dc:creator xml:lang="en">Plant, Nathaniel</dc:creator>
+	<dc:creator xml:lang="en">Holman, Rob</dc:creator>
+	<dc:subject xml:lang="en">Duck</dc:subject>
+	<dc:subject xml:lang="en">North Carolina</dc:subject>
+	<dc:subject xml:lang="en">shoreline variation</dc:subject>
+	<dc:subject xml:lang="en">interannual variation</dc:subject>
+	<dc:description xml:lang="en">We have analyzed 3 years of daily observations of the shoreline position along a 2 km segment of the coast at Duck, NC. Shoreline variations were found to be dominated by length scales of order 1 kilometer, with an amplitude that was modulated by a seasonal cycle, and a spatial structure that progressed alongshore at an average rate of 1 m/day. Surprisingly, the alongshore-averaged shoreline position did not display an annual cycle. Instead, the most pronounced alongshore-averaged shoreline changes occurred over several years. The dominance of large spatial and temporal scales suggests that short scale studies at Duck (typical duration &lt; 1 month and lengths &lt; 500 m) seriously under-resolve an important component of shoreline variability</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5487</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>en</dc:language>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12901</identifier>
+				<datestamp>2023-09-01T15:14:14Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING WAVE OVERTOPPING AND WAVE IMPACTS BY MEANS OF IMAGE CLUSTERING TECHNIQUES</dc:title>
+	<dc:creator xml:lang="en">Formentin, Sara Mizar</dc:creator>
+	<dc:creator xml:lang="en">Dallavalle, Elisa</dc:creator>
+	<dc:creator xml:lang="en">Zanuttigh, Barbara</dc:creator>
+	<dc:description xml:lang="en">The experimental modelling of the wave-structure interaction processes is a very complicated issue, due to the highly non-linear turbulent flow conditions, including wave breaking and air entrainment (Stringari et al., 2021). Recently, Formentin et al. (2021) demonstrated that videography can provide a reliable representation of the wave breaking, of the wave overtopping and of the wave impact at walls. They filmed laboratory tests of wave overtopping at smooth dikes with crown walls (Formentin et al., 2018; Palma et al., 2020) with a low-cost full-HD camera and compared the results of the video-cluster analysis applied to its records with the measurements obtained through traditional techniques. They derived accurate quantitative estimations of free-surface elevation, wave overtopping discharge, volumes, velocities and celerities. The aim of this paper is to further investigate the possibilities of the videography by focusing on the analysis of the wave impacts at the walls and on the detection of the amount of air entrapped during the impacts themselves.                              </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12901</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12901/12174</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Sara Mizar Formentin, Elisa Dallavalle, Barbara Zanuttigh</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

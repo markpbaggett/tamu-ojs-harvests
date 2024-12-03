@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4585</identifier>
+				<datestamp>2021-01-19T17:10:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEARSHORE CURRENT PATTERNS ON BARRED BEACHES</dc:title>
+	<dc:creator xml:lang="en">Hazen, David G.</dc:creator>
+	<dc:creator xml:lang="en">Greenwood, Brian</dc:creator>
+	<dc:creator xml:lang="en">Bowen, Anthony J.</dc:creator>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">current patterns</dc:subject>
+	<dc:subject xml:lang="en">barred beach</dc:subject>
+	<dc:subject xml:lang="en">nearshore current</dc:subject>
+	<dc:description xml:lang="en">The last few years have been marked by a renewed interest in the old concept of undertow, the seaward flow which balances the surface flux of water associated with waves, particularly with breaking waves (Svendsen, 1984; Stive and Wind, 1986; etc.). This is clearly an important current in terms of the sedimentary processes which determine the beach profile. Roelvink and Stive have provided laboratory data that suggests the profile results from a net balance between three main factors; the wave skewness, the undertow, and the beach slope. However, in the field the third dimension, the longshore direction, may play a significant role. Even if the system is assumed uniform alongshore, strong longshore currents certainly influence the mobility of the sediment and may play more complex roles, in generating shear waves for example. It seems appropriate to represent the system, both on/offshore and alongshore, in one self-consistent model. Recent work has been clearly progressing in this direction (Stive and DeVriend, 1987; Svendsen and Lorenz, 1989). It is therefore also appropriate at this stage to look at existing field data to see how well one can define trends that the modelling results should reproduce. There are some very clear limitations. In the field it is difficult to describe, in any detail, the longshore variability. Small hydraulic gradients in the alongshore direction may drive longshore currents, rip currents, or some general nearshore circulation associated with larger scale topography. Even in a relatively 2-D situation, it is known that the longshore currents are strongly dependent on the directional distribution of the wave spectrum, a factor which is hard to estimate well, unless the angle of wave approach is large.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4585</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4585/4266</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

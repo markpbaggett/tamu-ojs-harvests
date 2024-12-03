@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6642</identifier>
+				<datestamp>2023-10-04T03:08:24Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING ANTHROPOGENIC EFFECT OF A TIDAL BASIN EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Dissanayake, Pushpa Kumara</dc:creator>
+	<dc:creator xml:lang="en">Wurpts, Andreas</dc:creator>
+	<dc:creator xml:lang="en">Miani, Marco</dc:creator>
+	<dc:creator xml:lang="en">Knaack, Heiko</dc:creator>
+	<dc:subject xml:lang="en">anthropogenic effect</dc:subject>
+	<dc:subject xml:lang="en">morphological evolution</dc:subject>
+	<dc:subject xml:lang="en">wave schematization</dc:subject>
+	<dc:subject xml:lang="en">Ley Bay</dc:subject>
+	<dc:description xml:lang="en">A numerical approach was undertaken to investigate an anthropogenic effect (i.e., construction of a peninsula in 1984) on the tidal basin evolution of the Ley Bay in the East Frisian Wadden Sea. Coupled hydro-morphodynamic model runs span from 1975 to 1990 applying both tidal and wave boundary forcings with a multiple-sediment bed. The offshore tidal force was transformed to the study area applying a cascade modeling approach while a highly schematised wave climate was adopted in this simulation. Two bathymetries (i.e., 1975 and 1990) were available for this study and therefore the peninsula was implemented based on the 1984 predicted bed. Resulting morphodynamic evolution indicates that the deeper areas (channels) are well reproduced by the model rather than the shallow areas (inter-tidal areas). In addition to the peninsula construction, the human interference by dredging and dumping appears to have influenced the Ley Bay evolution. Due to the lack of data availability, such information was not incorporated in this study. Comparisons of predicted and measured 1990 topographies in terms of qualitative and quantitative parameters show that the predicted bathymetry sufficiently resembles with the data. Application of a highly schematised wave climate affects on the bed evolution. Further investigation on the wave schematization could help to optimize the model prediction. On-going work uses this model set-up in order to forecast the Ley Bay evolution under future sea level rise scenarios.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6642</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.50</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.50</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6642/pdf_624</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

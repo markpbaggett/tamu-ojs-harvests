@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2985</identifier>
+				<datestamp>2021-01-20T02:21:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRAULIC CONSTANTS OF TIDAL ENTRANCES</dc:title>
+	<dc:creator xml:lang="en">O'Brien, M.P.</dc:creator>
+	<dc:creator xml:lang="en">Clark, R.R.</dc:creator>
+	<dc:subject xml:lang="en">tidal entrance</dc:subject>
+	<dc:subject xml:lang="en">tide</dc:subject>
+	<dc:subject xml:lang="en">hydraulic constants</dc:subject>
+	<dc:description xml:lang="en">Data contained in the Tide Tables, Current Tables and navigation charts of National Ocean Survey pertaining to tidal entrances along the coasts of the continental United States are analyzed to obtain flow coefficients defined by a simple hydraulic equation. The evaluation of the published data indicates that the data are sufficiently accurate and representative, despite some unexplained anomalies, to permit determination of the approximate discharge coefficients and, more importantly, to identify categories of flow regimes of inlets. A few conclusions are: 1. The Keulegan approach and similar analyses of inlet hydraulics provide a useful qualitative framework for ordering data but they apply quantitatively only to small inlets and lagoons with simple inlet channel geometry. 2. The lag of slack water in the entrance channel after HW and LW is a powerful tool in the analysis of the hydraulic regime. It is easily measured in the field and should become an identifying characteristic of each entrance. 3. The resistance coefficient F represents the overall impedance and exit losses, reflections from the lagoon shore, fresh water discharge and the configuration of the channel between the inner and outer bars. It may be determined from measurements of lag and maximum velocity at the throat and the range of ocean tide.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2985</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.90</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 90</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2985/2650</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

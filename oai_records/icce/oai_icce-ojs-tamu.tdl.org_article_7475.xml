@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7475</identifier>
+				<datestamp>2021-01-19T04:38:00Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FULLY NONLINEAR AND DISPERSIVE MODELING OF SURF ZONE WAVES: NON-BREAKING TESTS</dc:title>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:creator xml:lang="en">Raoult, Cécile</dc:creator>
+	<dc:creator xml:lang="en">Yates, Marissa</dc:creator>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">coastal hydrodynamics</dc:subject>
+	<dc:subject xml:lang="en">wave modeling</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:description xml:lang="en">With the objective of modeling coastal wave dynamics taking into account nonlinear and dispersive effects, an accurate nonlinear potential flow model is studied. The model is based on the time evolution of two surface quantities: the free surface position and the free surface velocity potential (Zakharov, 1968). The spectral approach of Tian and Sato (2008) is used to resolve vertically the velocity potential in the whole domain, by decomposing the potential using the orthogonal basis of Chebyshev polynomials. The model mathematical theory and numerical development are described, and the model is then validated with the application of three 1DH test cases: (1) propagation of nonlinear regular wave over a submerged bar, (2) propagation of nonlinear irregular waves over a barred beach, and (3) wave generation and propagation after an abrupt deformation of the bottom boundary. These three test cases results agree well with the reference solutions, confirming the model's ability to simulate accurately nonlinear and dispersive waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7475</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7475/pdf_770</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

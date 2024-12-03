@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3791</identifier>
+				<datestamp>2021-01-19T21:44:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A RANKIN VORTEX NUMBER AS A GUIDE TO THE SELECTION OF A MODEL HURRICANE</dc:title>
+	<dc:creator xml:lang="en">Bretschneider, Charles L.</dc:creator>
+	<dc:creator xml:lang="en">Lo, Jen-Men</dc:creator>
+	<dc:subject xml:lang="en">Rankin Vortex Number</dc:subject>
+	<dc:subject xml:lang="en">model hurricane</dc:subject>
+	<dc:subject xml:lang="en">hurricane</dc:subject>
+	<dc:subject xml:lang="en">model selection</dc:subject>
+	<dc:description xml:lang="en">A model hurricane is defined by a model pressure profile, which is the same in all radial directions from the center of the hurricane. The model describes concentric circles of constant pressure known as isobars. The slope of the pressure profile gives the pressure gradient used in the gradient wind equation, together with other considerations determines the time history moving hurricane wind and pressure fields. The appropriate model hurricane can then be coupled with various other models for the determination of design criteria such as wind, waves, currents, wave forces, storm surge, wave run-up, coastal flooding and inundation limits. Because of the many requirements for accurate output data, there have always been concerns of the proper use of and selection of the appropriate hurricane model for a particular task and location. The primary purpose of the paper is to begin to build a guide for determining the appropriate model to be used for a particular situation and criteria. When the data pressure profile is available, there is no need for a model since the slope of the data pressure profile gives the pressure gradient, which can be used directly in the gradient wind equation. The data pressure profile can also be fitted to the most appropriate model by various techniques of correlation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3791</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3791/3474</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1016</identifier>
+				<datestamp>2023-10-04T04:41:39Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENTS OF PARTICLE VELOCITIES AND TRAJECTORIES IN A WAVE-CURRENT MOTION USING PARTICLE IMAGE VELOCIMETRY</dc:title>
+	<dc:creator xml:lang="en">Umeyama, Motohiko</dc:creator>
+	<dc:creator xml:lang="en">Shintani, Tetsuya</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Shinya</dc:creator>
+	<dc:subject xml:lang="en">Surface waves</dc:subject>
+	<dc:subject xml:lang="en">Velocity</dc:subject>
+	<dc:subject xml:lang="en">Trajectory</dc:subject>
+	<dc:subject xml:lang="en">Flow measurement</dc:subject>
+	<dc:subject xml:lang="en">Imaging techniques</dc:subject>
+	<dc:description xml:lang="en">This article deals with some physical aspects of a water particle under surface waves, which propagate with or without a current in a constant water depth, using an imaging technique. The use of particle image velocimetry (PIV) made it possible to investigate the velocity and trajectory of each individual water particle. The velocity vector fields and its vertical distributions were estimated at several phases in one wave cycle. The theory of progressive waves based on finite-amplitude approximation was adapted to express the velocity potential, surface displacement and angular frequency. The PIV result showed suitable agreement with a solution solved to the third order by a perturbation method. In addition, the distributions of horizontal and vertical velocity components by the PIV measurement were compared with those by an EC meter. These attempts proved the ability of the PIV technique to accurately measure both temporal and spatial variations of the velocity. This technique was applied to the prediction of particle trajectory in a Eulerian scheme. In the method, the surrounding grid velocities were used to identify a Lagrangian velocity. The measured particle path was compared with the positions found theoretically by integrating the Eulerian velocity to the second order of a Taylor series expansion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1016</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1016/pdf_20</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

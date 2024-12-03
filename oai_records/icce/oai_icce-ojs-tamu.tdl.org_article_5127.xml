@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5127</identifier>
+				<datestamp>2021-01-19T14:04:11Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT UNDER (NON)-LINEAR WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Ribberink, Jan S.</dc:creator>
+	<dc:creator xml:lang="en">Katopodi, Irene</dc:creator>
+	<dc:creator xml:lang="en">Ramadan, Khaled A.H.</dc:creator>
+	<dc:creator xml:lang="en">Koelewijn, Ria</dc:creator>
+	<dc:creator xml:lang="en">Longo, Sandro</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">Two series of experiments were carried out in the Large Oscillating Water Tunnel of Delft Hydraulics, which was recently extended with a recirculation flow system. Combined wave-current boundary layer flows were studied with a mobile sand bed in the sheet flow regime. Detailed intra-wave concentration and velocity measurements were carried out and revealed a three-layer system, i.e. a pick-up layer, a sheet flow layer and a suspension layer. In the suspension layer time-lag effects of the sediment concentration led to sediment fluxes in upstream direction. The suspended sediment was more confined to the near-bed region than according to diffusion theories, most likely due to turbulence damping. The horizontal timedependent and net sediment fluxes were concentrated in the sheet flow and pick-up layer. Measured net sediment transport rates could be described as a linear relation with the third-order velocity moment  near the bed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5127</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5127/4805</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

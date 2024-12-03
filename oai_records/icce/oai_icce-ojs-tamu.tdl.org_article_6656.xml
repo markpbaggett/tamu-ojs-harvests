@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6656</identifier>
+				<datestamp>2023-10-04T03:06:33Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BASIC EXAMINATION OF FUTURE CHANGE OF TROPICAL CYCLONE AND STORM SURGE PROPERTIES UNDER CLIMATE CHANGE</dc:title>
+	<dc:creator xml:lang="en">Nakajo, Sota</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:subject xml:lang="en">tropical cyclone</dc:subject>
+	<dc:subject xml:lang="en">Monte-Calro simulation</dc:subject>
+	<dc:subject xml:lang="en">cluster analysis</dc:subject>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:description xml:lang="en">Recently high-resolution Global Climate Model (GCM) shows that global climate changes may cause the future change of the Tropical Cyclone (TC) characteristics, such as frequency, developing process and intensity. However, there are two difficulties for assessment of future TC disaster, one is uncertainty of future prediction in GCM, and another is shortage of sample TC data. In this paper, we estimated future changes of TC properties and reduced uncertainty by ensemble averaging of multi-GCM prediction results, and generated many synthetic TC data with Global Stochastic Tropical Cyclone Model (GSTCM).  In addition, GSTCM which have empirical temporal correlation algorithm was improved for the reproducibility of arrival TC statistics by cluster analysis of TC data. This upgrade could pave the way to local future prediction of TC disaster.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6656</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6656/pdf_636</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

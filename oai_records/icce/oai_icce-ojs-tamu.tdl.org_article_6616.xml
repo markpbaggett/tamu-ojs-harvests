@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6616</identifier>
+				<datestamp>2023-10-04T03:11:56Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG-TERM PREDICTION OF BEACH PROFILE AND SEDIMENT GRAIN SIZE CHARACTERISTIC AT LOW ENERGY BEACH</dc:title>
+	<dc:creator xml:lang="en">Tsujimoto, Gozo</dc:creator>
+	<dc:creator xml:lang="en">Tamai, Masahiro</dc:creator>
+	<dc:creator xml:lang="en">Yamada, Fumihiko</dc:creator>
+	<dc:subject xml:lang="en">principal component analysis</dc:subject>
+	<dc:subject xml:lang="en">quadratic polynomial equations</dc:subject>
+	<dc:description xml:lang="en">Artificial sandy beach profiles and vertical distributions of sediment grain size were measured monthly along two cross-shore lines at Azure Maiko Beach for 2 years. All measured profiles and vertical distributions are approximated using quadratic profiles. To interpret temporal variations of these profiles, six parameters are introduced. Principle component analysis was applied to evolution of the six parameters to detect major variation modes. Relationships between the detected modes and external forces, wave height and tidal level are expressed using multiple linear regression analysis. The first mode was found to be caused by tidal oscillations and the second by energetic wave motions. Long-term prediction of the modes is examined using these regression results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6616</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6616/pdf_603</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

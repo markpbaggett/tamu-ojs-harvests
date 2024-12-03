@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10339</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF THE IMPACT PROCESS AT DIKES WITH CROWN WALLS AND PARAPETS</dc:title>
+	<dc:creator xml:lang="en">Palma, Giuseppina</dc:creator>
+	<dc:creator xml:lang="en">Formentin, Sara Mizar</dc:creator>
+	<dc:creator xml:lang="en">Zanuttigh, Barbara</dc:creator>
+	<dc:description xml:lang="en">This paper is focused on the analysis of the impact process at dikes with crown walls and parapets under breaking and non-breaking waves. A small-scale laboratory campaign was performed at the Hydraulic Laboratory of Bologna. The experiments were aimed to analyze the vertical pressure distribution along the crown wall and the resulting wave forces, by varying geometrical and hydraulic parameters. The tested configurations included different off-shore slopes, dike crest widths, crown-wall heights, dike crest freeboards and the inclusion of the parapet. The measurements were combined with the image analysis of the run-up and of the wave impact process. A sub-set of the experiments was numerically reproduced, with the openFOAM modelling suite, to support and to extend the experimental results. The results confirmed the link between the air content, the shape and the magnitude of the pressures according to the breaker type, already observed for larger-scale experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10339</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10339/9625</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Giuseppina Palma, Sara Mizar Formentin, Barbara Zanuttigh</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

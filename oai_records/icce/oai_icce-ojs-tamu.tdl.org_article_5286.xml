@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5286</identifier>
+				<datestamp>2021-01-19T13:11:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NONLINEAR REFRACTION-DIFFRACTION OF SURFACE WAVES OVER ARBITRARY DEPTHS</dc:title>
+	<dc:creator xml:lang="en">Beji, Serdar</dc:creator>
+	<dc:creator xml:lang="en">Nadaoka, Kazuo</dc:creator>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">diffraction</dc:subject>
+	<dc:description xml:lang="en">A nonlinear dispersive wave model recently introduced by the authors is used for sample simulations of directional wave transformations over gently varying depths. Various forms of the generic equation are presented first, and the dispersion and nonlinear characteristics of the model are investigated analytically. Following the numerical descriptions, the experimental data for linear wave propagation over a circular shoal and for nonlinear wave propagation over a topographical lens are compared to the model predictions with satisfactory agreements. Finally, as a demonstration of the unified character of the model, the unidirectional version of the wave equation is implemented for simulating the gradual transformation of an initially second-order Stokes wave train over decreasing depth into a cnoidal wave train.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5286</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5286/4964</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

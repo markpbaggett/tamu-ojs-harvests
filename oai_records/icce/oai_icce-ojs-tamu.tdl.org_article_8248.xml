@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8248</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RUN-UP SIMULATIONS ON REAL DIKES</dc:title>
+	<dc:creator xml:lang="en">Steendam, Gosse Jan</dc:creator>
+	<dc:creator xml:lang="en">van der Meer, Jentsje Wouter</dc:creator>
+	<dc:creator xml:lang="en">van Hoven, Andre</dc:creator>
+	<dc:creator xml:lang="en">Labrujere, Astrid</dc:creator>
+	<dc:subject xml:lang="en">wave run-up</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">hydraulic simulator</dc:subject>
+	<dc:subject xml:lang="en">grass cover</dc:subject>
+	<dc:subject xml:lang="en">dike</dc:subject>
+	<dc:subject xml:lang="en">levee</dc:subject>
+	<dc:subject xml:lang="en">breach</dc:subject>
+	<dc:description xml:lang="en">A new Wave Run-up Simulator has been designed, constructed, calibrated and used for testing of the seaward face of dikes. The upper part of dikes or levees often have a clay layer with a grass cover. The new device is able to test the strength of the grass cover under simulation of up-rushing waves for pre-defined storm conditions. The cumulative overload method has been developed to describe the strength of grass covers on the crest and landward side of dikes, for overtopping wave volumes. In essence there is not a lot of difference between the hydraulic load from an overtopping wave volume or from an up-rushing wave. Therefore the hypothesis has been evaluated that the cumulative overload method should also be applicable for up-rushing waves. Tests on a real dike have been used to validate this hypothesis. The main conclusions are that the new Wave Overtopping Simulator works really well, but that the results on testing till so far has not yet been sufficient for a full validation of the method. More research is required. Furthermore, a new technique has been developed to measure the strength of a grass sod on a dike: the grass pulling device. Tests with this device showed that it is possible to measure the critical velocity (= strength) of a grass cover, which is much easier than performing tests with a Wave Run-up or Overtopping Simulator.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8248</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8248/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8248/7780</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7973</identifier>
+				<datestamp>2021-01-20T03:45:42Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF VORTEX STRUCTURES UNDER A BROKEN SOLITARY WAVE USING SMOOTHED PARTICLE HYDRODYNAMICS METHOD</dc:title>
+	<dc:creator xml:lang="en">Jalali Farahani, Rozita</dc:creator>
+	<dc:creator xml:lang="en">Dalrymple, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">Solitary wave</dc:subject>
+	<dc:subject xml:lang="en">Obliquely descending eddies</dc:subject>
+	<dc:subject xml:lang="en">Smoothed Particle Hydrodynamics</dc:subject>
+	<dc:description xml:lang="en">Water wave breaking and the resulting surf-zone turbulence play a role in sediment transport, wave damping, and mixing processes.  The vortex structures associated with wave breaking carry large amount of turbulent momentum and turbulent kinetic energy and therefore have a crucial effect on the safety of vessels and structures located in the surf zone. In this study, turbulent vortical structures under a broken solitary waves is studied using a three-dimensional Smoothed Particle Hydrodynamics (SPH) method. A broken solitary wave is of interest since the generation and evolution of the three-dimensional vortex structures under a broken wave can be isolated from the case of a periodic wave train, which has undertow and residual turbulence induced from previously broken waves. Further, a solitary wave is a first approximation to a tsunami wave. The numerical model predicts water surface evolution very well in comparison with the experimental results of Ting (2006). The numerical results show organized coherent structures trailing the wave and characterized by reversed horseshoe (hairpin) vortices, traveling downward, which appear to be the previously found obliquely descending eddies. These horseshoe coherent structures transport momentum and turbulent kinetic energy downward into the water column and likely have a significant role in bed and beach erosion. Different terms of vorticity equations are studied and it is concluded that vortex stretching and vortex bending play an important role on the generation and evolution of reversed horseshoe structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7973</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7973/pdf_948</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

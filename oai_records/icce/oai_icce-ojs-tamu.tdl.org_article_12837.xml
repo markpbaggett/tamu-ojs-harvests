@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12837</identifier>
+				<datestamp>2023-09-01T15:13:39Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SIMPLE LABORATORY CALIBRATION METHOD FOR MITIGATING SEAWATER EFFECTS ON SOIL MOISTURE SENSORS</dc:title>
+	<dc:creator xml:lang="en">Brilli, Nicola C.</dc:creator>
+	<dc:creator xml:lang="en">Stark, Nina</dc:creator>
+	<dc:creator xml:lang="en">Raubenhiemer, Britt</dc:creator>
+	<dc:creator xml:lang="en">Elgar, Steve</dc:creator>
+	<dc:creator xml:lang="en">Korka, Bennet</dc:creator>
+	<dc:description xml:lang="en">The importance of moisture content for sediment dynamics in coastal environments is well documented, particularly in reference to aeolian sediment transport (Davidson-Arnott, 2005). Tidally-induced changes in moisture content in partially saturated environments, such as beaches, cause significant changes in surface shear strength through the development of suction stresses, which can affect erodibility (Sassa and Watabe, 2007). Thus, the accurate measurement of moisture content in these environments is important for determination of strength properties and for predicting sediment transport. Most moisture sensors work by measuring dielectric permittivity, the ability to carry electric charge, of the substrate, which is proportional to the moisture content. However, most moisture sensors are not calibrated for seawater, which has a higher dielectric permittivity than freshwater, causing overestimation of the moisture content. Therefore, the goal of this study is to develop and demonstrate a laboratory calibration scheme to account for this overestimation, and thus to allow for more accurate measurements of moisture content in coastal environments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12837</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12837/12110</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Nicola C. Brilli, Nina Stark, Britt Raubenhiemer, Steve Elgar, Bennet Korka</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

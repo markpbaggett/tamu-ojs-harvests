@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2609</identifier>
+				<datestamp>2021-01-17T04:07:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPECTRAL. COMPUTATIONS ON PRESSURE WAVE GAUGE RECORDS</dc:title>
+	<dc:creator xml:lang="en">de Carvalho, Manuel Mandes</dc:creator>
+	<dc:creator xml:lang="en">Ramos, Fernando Silveira</dc:creator>
+	<dc:creator xml:lang="en">Moraes, Carlos de Campos</dc:creator>
+	<dc:subject xml:lang="en">spectral computation</dc:subject>
+	<dc:subject xml:lang="en">wave pressure</dc:subject>
+	<dc:subject xml:lang="en">pressure gauge</dc:subject>
+	<dc:description xml:lang="en">With a view to establish sea wave data processing procedures to be applied to records obtained at the Portuguese coast, a detailed study is made of different choices of certain parameters used in one-dimensional spectral analysis of a pressure wave gauge record Statistics computed by the selected spectral procedure are then compared with results of a Tucker-Draper analysis of the same record Finally a hindcast of sea conditions for the date and place of the record is made by different methods and comparisons with previous results are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2609</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2609/2274</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

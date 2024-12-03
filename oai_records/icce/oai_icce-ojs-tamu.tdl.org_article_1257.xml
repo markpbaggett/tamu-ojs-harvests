@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1257</identifier>
+				<datestamp>2023-10-04T04:31:44Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EROSION DUE TO HIGH FLOW VELOCITIES: A DESCRIPTION OF RELEVANT PROCESSES</dc:title>
+	<dc:creator xml:lang="en">Bisschop, Frederik</dc:creator>
+	<dc:creator xml:lang="en">Visser, Paul</dc:creator>
+	<dc:creator xml:lang="en">van Rhee, Cees</dc:creator>
+	<dc:creator xml:lang="en">Verhagen, Henk Jan</dc:creator>
+	<dc:subject xml:lang="en">(hindered) erosion</dc:subject>
+	<dc:subject xml:lang="en">granular sediments</dc:subject>
+	<dc:subject xml:lang="en">breaching</dc:subject>
+	<dc:subject xml:lang="en">jetting</dc:subject>
+	<dc:description xml:lang="en">Convential models for the erosion of non-cohesive sediments overestimate the erosion rate induced by high flow velocities. These high flow velocities occur, for instance, in breaching of embankments or dunes (flow velocities up to 10 m/s) or in jetting sand with a trailing suction hopper dredger (30 to 60 m/s). At these very large flow velocities the erosion process is significantly influenced by the properties of the soil mass (non-cohesive particles). Governing parameters at higher flow velocities are dilatancy, permeability and the (un)drained shear strength of the soil. The sediment concentration in the water also influences the erosion process, especially in case of higher erosion rates. Based on the concept of Van Rhee (2007, 2010) a simple analytical formula is derived that gives a clear insight into the parameters influencing hindered erosion. The concept of hindered erosion is explained by two properties of granular soils: dilatancy and permeability. This implicates that the erosion behaviour of granular soils cannot be described by the behaviour of single particles alone. The properties of the whole soil mass should be considered in predicting erosion at higher flow velocities. Results of a large-scale breach experiment performed in 1994 in the Zwin Channel in the Netherlands (Visser, 1998) are analyzed to evaluate the formula.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1257</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1257/pdf_75</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

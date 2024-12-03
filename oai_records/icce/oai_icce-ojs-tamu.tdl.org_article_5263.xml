@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5263</identifier>
+				<datestamp>2021-01-19T13:19:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTEGRAL CONTROL DATA ASSIMILATION IN WAVE PREDICTIONS</dc:title>
+	<dc:creator xml:lang="en">Holthuijsen, L.H.</dc:creator>
+	<dc:creator xml:lang="en">Booij, N.</dc:creator>
+	<dc:creator xml:lang="en">van Endt, M.</dc:creator>
+	<dc:creator xml:lang="en">Caires, S.</dc:creator>
+	<dc:creator xml:lang="en">Soares, C. Guedes</dc:creator>
+	<dc:subject xml:lang="en">integral control data</dc:subject>
+	<dc:subject xml:lang="en">data assimilation</dc:subject>
+	<dc:subject xml:lang="en">wave prediction</dc:subject>
+	<dc:description xml:lang="en">In the present study a technique for assimilating observed wave data in numerical wave predictions is developed that exploits (a) the efficiency of a limited number of integral control variables and (b) the effectiveness of variational (model-consistent) assimilation. The formal procedure is independent of the type of control variables and of the wave model. The integral control variables in this study are chosen to represent large-scale errors in the driving wind fields and uncertainties in the wave model. The assimilation technique is validated with observations of the ERS-1 satellite altimeter and two waverider buoys in two consecutive storms in the Norwegian Sea. The assimilation of the observations reduced the errors in the predicted significant wave height at the buoy locations typically from 25% to 15%. The technique is also demonstrated with an simulation of swell prediction in the Indian Ocean based on simulated buoy data and satellite data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5263</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5263/4941</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1266</identifier>
+				<datestamp>2023-10-04T03:55:27Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSIMILATING MODELS AND DATA TO ENHANCE PREDICTIONS OF SHORELINE EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Long, Joseph W.</dc:creator>
+	<dc:creator xml:lang="en">Plant, Nathaniel G.</dc:creator>
+	<dc:subject xml:lang="en">data assimilation</dc:subject>
+	<dc:subject xml:lang="en">shoreline change</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">morphology</dc:subject>
+	<dc:description xml:lang="en">A modeling system that considers both long- and short-term process-driven shoreline change is presented.  The modeling system is integrated into a data assimilation framework that uses sparse observations of shoreline change to correct a model forecast and to determine unobserved model variables and free parameters.  Application of the assimilation algorithm also provides quantitative statistical estimates of uncertainty that can be applied to coastal hazard and vulnerability assessments.  Significant attention is given to the estimation of four non-observable quantities using the data assimilation framework that utilizes only one observable process (i.e. ,shoreline change). The general framework discussed here can be applied to many other geophysical processes by simply changing the model component to one applicable to the processes of interest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1266</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1266/pdf_294</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

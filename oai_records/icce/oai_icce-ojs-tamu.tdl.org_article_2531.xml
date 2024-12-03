@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2531</identifier>
+				<datestamp>2021-01-17T04:35:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF HORIZONTAL TURBULENT DIFFUSION OF PARTICLES UNDER WAVES</dc:title>
+	<dc:creator xml:lang="en">Murray, Stephen P.</dc:creator>
+	<dc:subject xml:lang="en">diffusion</dc:subject>
+	<dc:subject xml:lang="en">diffusion simulation</dc:subject>
+	<dc:subject xml:lang="en">particle diffusion</dc:subject>
+	<dc:description xml:lang="en">By oscillation of an array of turbulence-generating grids in still water, the turbulent fluid velocity field m shoaling waves near the bottom is simulated in a laboratory channel. Solid particles with fall velocities varying between 1 and 40 mm/sec are introduced into the test volume from above. Multiple- image photography using ultraviolet lighting techniques and a suitably placed mirror allow recording of the gram trajectories as functions of time and three space dimensions simultaneously. The Lagrangian intensities of turbulence and diffusion coefficients are then directly measured from the photographic data. The scale times, scale lengths, and the frequencies of the power spectra modes can then be calculated. Properties of the fluid turbulence are inferred from the quasi-neutral particles. The analysis, which is restricted to the component of diffusion in the hori2ontal direction normal to the grid motion, shows that the turbulent velocity distributions of both fluid and heavy particles are Gaussian, and that their standard deviations (intensities of turbulence) increase regularly with increasing grid Reynolds numbers (grid speeds). Diffusion coefficients likewise generally increase with increasing grid Reynolds numbers. Diffusivities of the heavy particles relative to the fluid are a function of both particle fall velocity and the structure of the fluid turbulence itself.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2531</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2531/2196</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

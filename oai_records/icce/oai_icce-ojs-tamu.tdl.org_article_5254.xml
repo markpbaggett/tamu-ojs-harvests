@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5254</identifier>
+				<datestamp>2021-01-19T13:22:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVEMENT OF SUBMERGED DOPPLER-TYPE DIRECTIONAL WAVE METER AND ITS APPLICATION TO FIELD OBSERVATIONS</dc:title>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:creator xml:lang="en">Mitsui, Masao</dc:creator>
+	<dc:creator xml:lang="en">Goda, Yoshimi</dc:creator>
+	<dc:creator xml:lang="en">Nagai, Toshihiko</dc:creator>
+	<dc:creator xml:lang="en">Takahashi, Tomoharu</dc:creator>
+	<dc:subject xml:lang="en">field observation</dc:subject>
+	<dc:subject xml:lang="en">wave meter</dc:subject>
+	<dc:subject xml:lang="en">submerged meter</dc:subject>
+	<dc:subject xml:lang="en">Doppler-type directional meter</dc:subject>
+	<dc:description xml:lang="en">This paper presents an improved submerged Doppler-type directional wave meter which has the capability of measuring water surface elevations and multiple current velocity components. These components are determined from Doppler frequency shifts of ultrasonic waves in water. The improved system has proven to be capable of successfully obtaining tide, current and directional wave data. In addition, this directional wave meter has accurately estimated directional wave spectra in severe sea conditions with the use of some techniques introduced in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5254</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5254/4932</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

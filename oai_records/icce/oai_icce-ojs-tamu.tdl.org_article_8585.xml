@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8585</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INFRAGRAVITY PERIOD OSCILLATIONS IN A CHANNEL HARBOR NEAR A RIVER MOUTH</dc:title>
+	<dc:creator xml:lang="en">Bellafont, Florian</dc:creator>
+	<dc:creator xml:lang="en">Morichon, Denis</dc:creator>
+	<dc:creator xml:lang="en">Roeber, Volker</dc:creator>
+	<dc:creator xml:lang="en">André, Gaël</dc:creator>
+	<dc:creator xml:lang="en">Abadie, Stéphane</dc:creator>
+	<dc:description xml:lang="en">Port of Bayonne, located in SW France, is a channel harbor situated near the river mouth of the Adour. Long-period oscillations have repeatedly caused snapping of mooring lines of berthed ships and have led to wave resonances in an adjacent marina (seiche). To investigate mechanisms for generation of theses oscillations, a field campaign was carried out during a one-year return-period storm (Hs = 6 m and Tp = 15 s): four pressure sensors were deployed inside the port. To complement the data and to better understand the governing processes that lead to the wave transformations in Port of Bayonne, the storm event was computed with the Boussinesq-type model, BOSZ. The data confirm the model results, which show generation of long infragravity (IG) waves by the incident swell around the harbor entrance and free propagation of these waves without amplification over far distances inside Port of Bayonne. Excited by these long waves, resonance oscillations are only noticeable in a small enclosed marina. Though the IG-waves are not causing substantial changes to the water level along the harbor channel, they are suspected to excite the ships' eigen modes, which consequently results in mooring problems.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8585</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8585/7389</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8585/7994</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

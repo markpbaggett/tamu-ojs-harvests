@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3567</identifier>
+				<datestamp>2021-01-19T23:03:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEPARATION OF CLIMATIC FLUCTUATIONS AND IMPACTS OF ENGINEERING ACTIVITIES IN ESTUARIES</dc:title>
+	<dc:creator xml:lang="en">Krause, G.</dc:creator>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">climatic fluctuation</dc:subject>
+	<dc:subject xml:lang="en">engineering environmental impacts</dc:subject>
+	<dc:description xml:lang="en">Using salinity as an example of dissolved substances in estuarine waters it is shown how the long term trend of concentrations can be split up into a man-made and a climatic contribution. The understanding of long term mixing processes and adequate sampling techniques are essential for this purpose. The physical state of the estuary can be described in terms of 3 basic variables, the river discharge, the filtered water level and the filtered salinity. The river discharge represents the climatic fluctuations in the catchment area, and the filtered water level is a record of the large scale weather pattern over the adjacent ocean basin. Salinity trends which cannot be attributed to these two variables must originate from man-made actions, such as dredging or other engineering activities which change the geometry of an estuary. Two models are used for the trend analysis, the simplest possible mixing equation (which always holds for a sufficiently long time scale), and a salt flux consideration.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3567</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.138</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 138</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3567/3249</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

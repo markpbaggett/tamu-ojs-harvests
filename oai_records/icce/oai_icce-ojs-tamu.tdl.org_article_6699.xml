@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6699</identifier>
+				<datestamp>2023-10-04T03:00:39Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SECONDARY WAVES IN COASTAL ZONE: PHYSICAL MECHANISMS OF FORMATION AND POSSIBLE APPLICATION FOR COASTAL PROTECTION</dc:title>
+	<dc:creator xml:lang="en">Kuznetsov, Sergey</dc:creator>
+	<dc:creator xml:lang="en">Saprykina, Yana</dc:creator>
+	<dc:subject xml:lang="en">nonlinear- dispersive waves</dc:subject>
+	<dc:subject xml:lang="en">secondary waves</dc:subject>
+	<dc:subject xml:lang="en">floating breakwater</dc:subject>
+	<dc:subject xml:lang="en">underwater bar</dc:subject>
+	<dc:description xml:lang="en">The formation of secondary wave in a coastal zone was investigated on the base of field, laboratory and numerical experiments. It was found that formation of secondary waves is essentially part of weakly nonlinear-dispersive wave transformation and determined by a periodic exchange of energy between the first and second harmonics. The formation of secondary waves depends on a stage of wave transformation and defined by amplitude of secondary harmonic and by phase shift between first and second harmonics. On the base of numerical modeling and laboratory experiments an idea of combination of underwater structures with floating breakwater is investigated. Waves propagating above submerged bar generate secondary waves that decrease the mean period of waves. Each additional bar reinforces and stabilizes this effect. Behind the bars the floating breakwater can be applied, because it suppresses successfully only short waves. Advantages and disadvantages of this idea are discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6699</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6699/pdf_671</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

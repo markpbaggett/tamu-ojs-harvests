@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4284</identifier>
+				<datestamp>2021-01-19T18:52:47Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW PARAMETER FOR WAVE BREAKING WITH OPPOSING CURRENT ON SLOPING SEA BED</dc:title>
+	<dc:creator xml:lang="en">Sakai, Shigeki</dc:creator>
+	<dc:creator xml:lang="en">Hirayama, Ken-ichi</dc:creator>
+	<dc:creator xml:lang="en">Saeki, Hiroshi</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">opposing current</dc:subject>
+	<dc:subject xml:lang="en">sloping bed</dc:subject>
+	<dc:description xml:lang="en">Opposing currents affect the wave breaking processes. The condition of wave breaking caused by opposing currents in deep water is described by the ratio of the wave celerity to the velocity of the opposing current(Yu(1952)). For the wave breaking caused by the opposing currents in shallow water on a flat bed, the equation given by Miche(1951) for the breaking criteria without current remains available (Iwagaki et al.(1980)). However, it is the breaking of shoaling wave in the presence of opposing current on a uniform slope, which is of concern in this paper. Sakai et al.(1981) showed that the wave breaking affected by opposing currents on a sloping sea bed is characterized by a normalized unit width discharge q*, as well as an incident wave steepness Ho/Lo and a slope of sea bed S, where q* is defined as q*= q/g2T3; q: a unit width discharge, g; the gravitational acceleration, T: a wave period. They proposed diagrams for the breaker height and the breaking depth as a function of these three parameters. The breaker index curves in their diagrams show the relationships between the breaker height (or the breaking depth) and q* for waves with particular values of Ho/Lo and S, and it is much more convenient to give a general expression for the breaker indices for arbitrary conditions of q*, Ho/Lo and S. The purpose of this study is to formulate the effects of these parameters on wave breaking, based on the results of systematic experiments performed by the authors, and to derive an empirical and simplified expression for the breaker height and depth in the presence of opposing currents.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4284</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4284/3965</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

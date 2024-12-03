@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7672</identifier>
+				<datestamp>2021-01-20T04:14:40Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUB-MESOSCALE WAVE HEIGHT RETURN LEVELS ON THE BASIS OF HINDCAST DATA: THE NORTH TYRRHENIAN SEA</dc:title>
+	<dc:creator xml:lang="en">Sartini, Ludovica</dc:creator>
+	<dc:creator xml:lang="en">Mentaschi, Lorenzo</dc:creator>
+	<dc:creator xml:lang="en">Besio, Giovanni</dc:creator>
+	<dc:subject xml:lang="en">Wave modelling  wave hindcasting spectral models</dc:subject>
+	<dc:description xml:lang="en">A 32-years wave re-analysis has been employed in order to develop an extreme value analysis for the whole Ligurian Sea (North Tyrrhenian Sea). Wave hindcast data have been obtained through numerical modelling implemented at DICCA, University of Genoa, covering the whole Mediterranean Sea. Model outputs for wave characteristics (wave height, period and direction of propagation) have been extracted on 30 virtual buoys displaced in the area covering the whole temporal domain (32-years) at hourly frequency in order to develop an exhaustive wave climate analysis. A non stationary model is presented and applied in wave climate assessment with the purpose of taking account for the effects of seasonality in providing return level estimates. Time-varying model employed proved to be versatile in modelling different wave fields largely diversified in such kind of area and wave hincast data apply well in order to perform waves statistical downscaling.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7672</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7672/pdf_856</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

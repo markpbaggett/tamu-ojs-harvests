@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2961</identifier>
+				<datestamp>2021-01-20T02:30:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SAND CONCENTRATION IN AN OSCILLATOR! FLOW</dc:title>
+	<dc:creator xml:lang="en">Bakker, W.T.</dc:creator>
+	<dc:subject xml:lang="en">oscillatory flow</dc:subject>
+	<dc:subject xml:lang="en">sand concentration</dc:subject>
+	<dc:description xml:lang="en">In this paper first a numerical model is described concerning the velocity distribution in an oscillatory flow, respectively without and with resultant current . From the momentaneous velocity gradients eddy viscosities are derived . Using the approach of VANONI [13 , a numerical model is given for the calculation of sediment concentration and suspended sediment transport. In order to give reliable results, the bed-load concentration should be known This will be investigated in the future; at the moment the model only provides qualitative results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2961</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2961/2626</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

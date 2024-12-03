@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4424</identifier>
+				<datestamp>2021-01-19T18:05:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DYNAMIC BEHAVIOR OF A MOORING BUOY INSTALLED IN OPEN SHORE</dc:title>
+	<dc:creator xml:lang="en">Shigemura, Toshiyuki</dc:creator>
+	<dc:creator xml:lang="en">Hayashi, Kenjiro</dc:creator>
+	<dc:subject xml:lang="en">open shore</dc:subject>
+	<dc:subject xml:lang="en">dynamic behavior</dc:subject>
+	<dc:subject xml:lang="en">mooring buoy</dc:subject>
+	<dc:description xml:lang="en">To investigate the dynamic behavior of a mooring buoy installed in an open shore, a simplified simulation model is developed, which consists of the surging and heaving motions of a mooring buoy. A series of the model tests is performed to examine the reliability of the developed model. The model tests verify that the developed model can predict the dynamic motion of a mooring buoy satisfactorily. Finally, simulation is made for the buoy installed in the west shore of Iwo-jima which failed during a stormy weather. This simulation indicates that the external loads enough to cause the failure has been loaded on the buoy at the moment of the failure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4424</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.217</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 217</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4424/4105</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12785</identifier>
+				<datestamp>2023-09-01T15:13:09Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SANDSNAP – AMASSING A BEACH GRAIN SIZE DATABASE IN THE UNITED STATES</dc:title>
+	<dc:creator xml:lang="en">McFall, Brian C.</dc:creator>
+	<dc:creator xml:lang="en">Young, David L.</dc:creator>
+	<dc:creator xml:lang="en">Whitmeyer, Shelley J.</dc:creator>
+	<dc:creator xml:lang="en">University, James Madison</dc:creator>
+	<dc:creator xml:lang="en">Buscombe, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Science, Marda</dc:creator>
+	<dc:creator xml:lang="en">Stever, Shannon</dc:creator>
+	<dc:description xml:lang="en">U.S. beaches are data rich environments with readily accessible topographic and hydrodynamic data, but a national database of beach grain size information does not exist. Unfortunately, grain size is often poorly parameterized, particularly for geographically large studies, because it is unfeasible to collect beach grain size information on a large, multi-state or national scale with traditional methods. As a result, sediment size often has the largest uncertainty of the input parameters for sediment transport modeling (Soulsby, 1997). “SandSnap” is a research initiative to amass the first nationwide beach sand grain size database with the help of citizen scientists using their smart phones.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12785</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12785/12058</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Brian C. McFall, David L. Young, Shelley J. Whitmeyer, James Madison University, Daniel Buscombe, Marda Science, Shannon Stever</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

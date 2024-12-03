@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8219</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPECTRAL PARTITIONING AND SWELLS IN THE BLACK SEA</dc:title>
+	<dc:creator xml:lang="en">Vledder, Gerbrant van</dc:creator>
+	<dc:creator xml:lang="en">Akpinar, Adem</dc:creator>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Wind-wave modelling</dc:subject>
+	<dc:subject xml:lang="en">Swell climate</dc:subject>
+	<dc:subject xml:lang="en">Spectral Partitioning</dc:subject>
+	<dc:subject xml:lang="en">Black Sea</dc:subject>
+	<dc:description xml:lang="en">The swell climate of the Black Sea has been determined using a long-term 31-year wave hindcast with the third-generation spectral wave model SWAN in combination with spectral partitioning. This technique enables decomposing wave spectra into individual wave systems representing wind seas or swells and computing integral wave parameters of each partition. Results are presented of the partition technique and of spatial and seasonal characteristics of wind sea and swell systems. In addition, the average amount of swell energy and the occurrence probability of dangerous crossing sea states are determined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8219</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8219/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

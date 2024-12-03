@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3422</identifier>
+				<datestamp>2021-01-19T23:53:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORCES ON A ROW OF CYLINDRICAL PILES OF LARGE DIAMETER</dc:title>
+	<dc:creator xml:lang="en">Berkhoff, J.C.W.</dc:creator>
+	<dc:creator xml:lang="en">v.d. Weide, J.</dc:creator>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">cylindrical pile</dc:subject>
+	<dc:subject xml:lang="en">row of piles</dc:subject>
+	<dc:description xml:lang="en">In order to determine wave forces on a row of three cylindrical piles (Figure 2), a numerical computation procedure was applied using a solution of the Helmholz equation, in which the scattered wave field is described as the result of a series of singular sources located along the circumference of the pile [^Berkhoff, 1976, reference lj . Results of the computations were verified by means of model experiments, using both regular and irregular waves. It is shown that for the two pile geometries, included in the study, strong mutual interference will occur, resulting in transverse forces which are much higher than those found for single piles.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3422</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.146</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 146</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3422/3102</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

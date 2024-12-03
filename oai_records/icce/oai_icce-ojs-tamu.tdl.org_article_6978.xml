@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6978</identifier>
+				<datestamp>2021-01-19T06:24:40Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CONTROL OF THE SIX DEGREES OF FREEDOM OF A FLOATING BODY USING VIDEO IMAGING TECHNIQUES: MONITORING THE OPERATION OF FLOATING GATE OPENING AND CLOSING AT CAMPAMENTO'S DRY DOCK (ALGECIRAS BAY)</dc:title>
+	<dc:creator xml:lang="en">Molina Sánchez, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Cabrerizo Morales, Miguel ngel</dc:creator>
+	<dc:creator xml:lang="en">de los Santos Ramos, Francisco</dc:creator>
+	<dc:creator xml:lang="en">Camarero Orive, Alberto</dc:creator>
+	<dc:creator xml:lang="en">Matutano Molina, Clara</dc:creator>
+	<dc:subject xml:lang="en">floating body</dc:subject>
+	<dc:subject xml:lang="en">video imaging</dc:subject>
+	<dc:subject xml:lang="en">monitoring</dc:subject>
+	<dc:description xml:lang="en">The activity of floating structures within the harbours is influenced by physical and exploitation agents. Therefore, the study of operational thresholds overcoming is crucial to limit the risk in port operations.
+In order to achieve this objective it is necessary, a deep knowledge of use, exploitation and environmental agents, as well as the response of the system. To study the response of such systems it is necessary to measure, besides the forces that coerce the free float, the displacements, rotations and accelerations in all six degrees of freedom of rigid bodies. With this aim up to now, gyroscopes (Stahl et al.1983 B.), accelerometers (LJWeyers et al. 1985), load cells, RTK-GPS systems infrared (Johanning et al.2007), laser, etc., have been used to carry out the monitoring of floating elements, on both model and prototype. However, these instrumental techniques are associated with large investments, setting up and calibration procedures, and equipment  maintenance.
+Since 2008, the Laboratory of Ports at  UPM ( Chair Pablo Bueno), is developing new instrumental techniques, for field and laboratory application, in the framework of following two strategic lines, part of the agreement reached with the Public Entity Puertos del Estado: "Development of non-intrusive instrumentation oriented monitoring of port infrastructure" and "Study of reliability in the areas of design, optimization and exploitation of maritime infrastructure". The use of video imaging techniques offers advantages, such as low maintenance, non intrusive and low implementation costs. Therefore, this paper aims to explore the practical application of video imaging techniques for monitoring floating structures, as a tool to support harbour operations. Precisely in this work we develop a monitoring example of the floating gate of Campamento's dry dock, in Algeciras' Bay.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6978</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6978/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

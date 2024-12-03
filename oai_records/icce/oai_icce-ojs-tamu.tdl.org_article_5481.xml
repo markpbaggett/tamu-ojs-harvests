@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5481</identifier>
+				<datestamp>2021-01-19T12:06:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TURBULENT STRESSES IN THE SURF-ZONE: WHICH WAY IS UP?</dc:title>
+	<dc:creator xml:lang="en">Haines, John W.</dc:creator>
+	<dc:creator xml:lang="en">Gelfenbaum, Guy</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">turbulent stress</dc:subject>
+	<dc:description xml:lang="en">Velocity observations from a vertical stack of three-component Acoustic Doppler Velocimeters (ADVs) within the energetic surf-zone are presented. Rapid temporal sampling and small sampling volume provide observations suitable for investigation of the role of turbulent fluctuations in surf-zone dynamics. While sensor performance was good, failure to recover reliable measures of tilt from the vertical compromise the data value. We will present some cursory observations supporting the ADV performance, and examine the sensitivity of stress estimates to uncertainty in the sensor orientation. It is well known that turbulent stress estimates are highly sensitive to orientation relative to vertical when wave motions are dominant. Analyses presented examine the potential to use observed flow-field characteristics to constrain sensor orientation. Results show that such an approach may provide a consistent orientation to a fraction of a degree, but the inherent sensitivity of stress estimates requires a still more restrictive constraint. Regardless, the observations indicate the degree to which stress estimates are dependent on orientation, and provide some indication of the temporal variability in time-averaged stress estimates.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5481</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5481/5157</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

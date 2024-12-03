@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10330</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY OF SMALL BARRIER ESTUARIES: FIRST PASS ASSESSMENT USING PUBLIC DATA AND ATTRACTOR MODELLING</dc:title>
+	<dc:creator xml:lang="en">Hinwood, Jon</dc:creator>
+	<dc:creator xml:lang="en">McLean, Errol</dc:creator>
+	<dc:description xml:lang="en">Small barrier estuaries are common in temperate latitudes where catchment runoff is small. The entrance state controls the tidal exchange and hence the salinity regime and flushing. To aid the study and management of these estuaries, predictions of the stability and future evolution of the estuary entrance must be made. This paper demonstrates the application of the attractor method to determine the stability of a wide sample of estuaries on the south-eastern coast of Australia, using only data available in broad-based public data bases. The method uses a simple hydrodynamic-sediment balance model, run for thousands of scenarios and thousands of tide cycles to identify the long-term dynamic equilibria - the attractors. The model predictions are shown to match stability data in the data bases and to provide realistic predictions of the entrance evolution. The results have direct applicability to high-level assessment of coastal assets and to optimal selection of model scenarios for more detailed modelling of any selected estuary.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10330</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.64</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.64</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10330/9616</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Jon Hinwood, Errol McLean</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2991</identifier>
+				<datestamp>2021-01-20T02:19:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL INVESTIGATION OF TURBULENCE NEAR CYLINDERS</dc:title>
+	<dc:creator xml:lang="en">Carstens, Torkild</dc:creator>
+	<dc:creator xml:lang="en">Kjeldsen, Soren Peter</dc:creator>
+	<dc:creator xml:lang="en">Gjorsvik, Ola</dc:creator>
+	<dc:subject xml:lang="en">turbulence</dc:subject>
+	<dc:subject xml:lang="en">turbulence near cylinders</dc:subject>
+	<dc:subject xml:lang="en">experimental investigation</dc:subject>
+	<dc:description xml:lang="en">Model tests with locally generated turbulence near horizontal and vertical cylinders are reported. Turbulence is measured with newly developed ultra-sonic probes, and spectral density functions and auto-correlation functions are given. Tests are carried out in uniform currents, in sinusoidal waves, and in combinations of current and waves. Results are given for a viscous laminar boundary layer corresponding to a very fine sediment, and for a turbulent boundary layer corresponding to a hydraulically rough bottom. In Norway recent scour research, initiated by the North Sea oil operations, has been guided in three directions: 1) Scour around big gravity structures 2) Distribution of pore pressures in the ground under wave loads. 3) Local scour near unburied pipelines.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2991</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.96</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 96</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2991/2656</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

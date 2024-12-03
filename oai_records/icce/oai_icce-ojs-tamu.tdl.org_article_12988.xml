@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12988</identifier>
+				<datestamp>2023-09-01T15:14:54Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EFFECT OF HARBOR DEVELOPMENTS ON HIGH-TIDE FLOODING IN MIAMI (FL)</dc:title>
+	<dc:creator xml:lang="en">Leo, Francesco De</dc:creator>
+	<dc:creator xml:lang="en">Talke, Stefan Andreas</dc:creator>
+	<dc:creator xml:lang="en">Orton, Philip Mark</dc:creator>
+	<dc:creator xml:lang="en">Wahl, Thomas</dc:creator>
+	<dc:description xml:lang="en">We develop and validate a tidal-inference based methodology that leverages estimates of historical tidal ranges to obtain historical tidal predictions and constituents. Next, the method is applied to a case study in Miami (Florida), where mean tidal range has more than doubled since 1900, from 0.32 m to 0.66 m today. Water level predictions that represent historical and modern water level variations are projected forward in time using different sea level rise (SLR) scenarios, to see how the historical increase in tidal range affects the occurrence of present-day and future high-tide flooding. To this end, we apply the method of Li et al., (2021), which implies to remove tidal oscillations from present-day water levels and replace them with constant tidal prediction, obtained with tidal constituents representing historic conditions. This creates a synthetic time series that approximates what water levels would have been, had tides not evolved. Possible future water levels are estimated for each SLR scenario for (a) a “tide-only” scenario, using tidal oscillation on top of SLR and accounting for average seasonal cycle of mean sea level (MSL); and (b) a “total water level” approach that includes SLR, non-tidal fluctuations and seasonal sea level. While the first approach neglects relevant forcing (e.g., inter-annual to decadal MSL variability, river discharge, storm surge), it enables us to isolate the contribution of tides to HTF and provides useful metrics for quantifying the effects that tides and SLR have on coastal flooding.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12988</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12988/12261</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Francesco De Leo, Stefan Andreas Talke, Philip Mark Orton, Thomas Wahl</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

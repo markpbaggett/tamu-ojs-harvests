@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3637</identifier>
+				<datestamp>2021-01-19T22:37:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND TURBULENCE OVER SEAS IN TROPICAL CYCLONES</dc:title>
+	<dc:creator xml:lang="en">Melbourne, W.H.</dc:creator>
+	<dc:creator xml:lang="en">Blackman, D.R.</dc:creator>
+	<dc:subject xml:lang="en">turbulence</dc:subject>
+	<dc:subject xml:lang="en">wind turbulence</dc:subject>
+	<dc:subject xml:lang="en">tropical cyclone</dc:subject>
+	<dc:subject xml:lang="en">cyclone</dc:subject>
+	<dc:description xml:lang="en">A study of wind data collected from the Waglan Island anemometer (Hong Kong) during 39 tropical cyclones indicates that turbulence intensity values in excess of 20% at a reference height of 50 m are likely during extreme wind conditions in a tropical cyclone. The implied surface drag coefficient of approximately 0.01 in these extreme wind conditions is consistent with wind flow over a land surface roughness of trees and suburban housing, but is much higher (by a factor of five) than that predicted by the currently accepted formulae from the reviews of Garratt and Wu for wind flow over a fully developed sea in neutral atmospheric conditions. For wind loading design calculations in extreme wind in tropical cyclone conditions it is recommended that mean wind and turbulence intensity profiles should be calculated with a roughness length zQ = 0.20 m in the Deaves and Harris wind model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3637</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3637/3320</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

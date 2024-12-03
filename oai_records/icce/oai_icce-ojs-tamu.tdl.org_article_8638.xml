@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8638</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ADAPTATION PATHWAY FOR A BARRIER ISLAND TO FUTURE HURRICANES</dc:title>
+	<dc:creator xml:lang="en">Smallegan, Stephanie</dc:creator>
+	<dc:creator xml:lang="en">Mazur, Evan</dc:creator>
+	<dc:description xml:lang="en">The numerical model XBeach is used to simulate hydrodynamics and morphological change of Bay Head, NJ, which is located on a developed barrier island. Bay Head is fronted with a seawall buried beneath its dunes, and the seawall has been shown to mitigate damage due to storm surge and waves during Hurricane Sandy (2012). The objective of this study is to re-evaluate the effectiveness of the seawall in mitigating damage from a synthetic storm and sea level rise, and refine an adaptation pathway previously created for Bay Head. Utilizing the wave and surge data generated from the North Atlantic Coast Comprehensive Study, synthetic Storm 391 is simulated using XBeach. Model results show the seawall is overtopped by storm surge and waves, causing overwash and reducing dune heights. As sea levels rise, the backbarrier region of the barrier island is severely eroded and the seawall acts as a barrier preventing elevated bay water levels from freely flowing across the island and into the ocean, exacerbating sediment transport on the backbarrier. To fully evaluate the capabilities and limitations of the seawall in mitigating storm damage, additional synthetic storms need to be simulated and the results re-evaluated. This will, in turn, lead to a comprehensive, more robust adaptation pathway for Bay Head.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8638</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8638/7440</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8638/8032</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

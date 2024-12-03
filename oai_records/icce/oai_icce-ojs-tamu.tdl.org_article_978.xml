@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/978</identifier>
+				<datestamp>2023-10-04T04:02:33Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE NUMERICAL MODELLING OF THE EFFECT OF OCCURRENCE DURATION ON THE WATER LEVEL DIFFERENCE FOR THE BOSPHORUS STRAIT</dc:title>
+	<dc:creator xml:lang="en">Ozturk, Mehmet Nuri</dc:creator>
+	<dc:creator xml:lang="en">Yuksel, Yalçın</dc:creator>
+	<dc:subject xml:lang="en">stratified flow</dc:subject>
+	<dc:subject xml:lang="en">the Bosphorus</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic modeling</dc:subject>
+	<dc:description xml:lang="en">The straits connecting two large water bodies show highly strong and stratified currents related to meteorological, morphological and hydrodynamic conditions. The Bosphorus is a long sea strait connecting the Black Sea and the Sea of Marmara. There is a two layer current system in the Bosphorus, which is largely determined by conditions at the Black Sea. The upper layer flows from the Black Sea to the Sea of Marmara caused by decline in surface elevation between the Black Sea and Sea of Marmara. The lower layer flows in opposite direction caused by the density difference which is due to the difference in salinities.
+In this study the effect of occurrence duration of water level difference (Î"h) on the Bosphorus current structure was modelled using a three dimensional hydrodynamic modelling approach. The approach is based on an unstructured flexible mesh and uses a finite volume solution technique, which provides an optimal flexibility while retaining an efficient numerical solution. The meshes are based on linear triangular elements. An uniform rectangular channel which has simple geometry compare with Bosphorus was used for modelling. The channel has Bosphorus average values in dimensions. It is 900 m in width, 32,000 m in length and 64 m in depth. The constant salinty bondary conditions were described at the open bondaries corresponding Marmara and Black Sea boundaries and no water level difference as initial surface elevation. Using k-Îµ turbulence choice and hydrostatic pressure assumption, the two different occurrence duration for the same increase at the water level difference were modelled. In the first case the increasing of the duration for the water level difference described shorter than the second case. The model results show that, in the first case one-layered flow becomes dominated whole the channel flow, on the other hand in the second case two-layered flow persisted.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/978</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/978/pdf_261</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

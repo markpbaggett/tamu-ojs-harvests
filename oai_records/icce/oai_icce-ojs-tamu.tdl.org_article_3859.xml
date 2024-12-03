@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3859</identifier>
+				<datestamp>2021-01-19T21:20:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENTS OF MASS TRANSPORT OVER A ROUGH BED</dc:title>
+	<dc:creator xml:lang="en">Sleath, J.F.A.</dc:creator>
+	<dc:subject xml:lang="en">rough bed</dc:subject>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:subject xml:lang="en">mass transport measurements</dc:subject>
+	<dc:description xml:lang="en">Measurements have been made with a laser doppler anemometer of the time-mean velocity of the fluid close to the bed in a wave flume. Both a rough bed, consisting of gravel of median diameter 11 mm, and a smooth bed were investigated. With the rough bed the time-mean velocity at a given height was found to be strongly dependent on position relative to prominent roughness elements. At one point the time-mean drift at a given height might be in the direction of wave propagation while, at another, in the opposite direction. Significant variation in time-mean drift with horizontal position was observed at all values of Reynolds number tested. The effect of bed roughness on the average value of the time-mean velocity at a given height was found to be most marked at low Reynolds numbers: the maximum near bed value with this gravel bed was about 3 times that for a smooth bed at the lowest Reynolds numbers tested. At the highest Reynolds numbers there was no clear difference between the rough and smooth bed values even though the boundary layer over the rough bed was fully turbulent whereas that over the smooth bed was laminar. However, at these high Reynolds numbers both the rough and the smooth beds showed a reduction in drift velocity below that predicted by Longuet-Higgins (9) because of the increased importance of higher harmonics in the flow.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3859</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3859/3542</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

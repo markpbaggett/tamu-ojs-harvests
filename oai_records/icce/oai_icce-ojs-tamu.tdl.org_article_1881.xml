@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1881</identifier>
+				<datestamp>2021-01-17T06:31:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE USE OF THE STOKES-STRUIK APPROXIMATION FOR WAVES OF FINITE HEIGHT</dc:title>
+	<dc:creator xml:lang="en">Borgman, L. E.</dc:creator>
+	<dc:creator xml:lang="en">Chappelear, J. E.</dc:creator>
+	<dc:subject xml:lang="en">wave theory</dc:subject>
+	<dc:subject xml:lang="en">particle velocities</dc:subject>
+	<dc:subject xml:lang="en">wave profile</dc:subject>
+	<dc:description xml:lang="en">A formal approximate solution is derived for the profile and velocity components of a wave with permanent form of finite height m moderate water depths. The approximation is carried to the third order, sufficiently far to represent all except the very high "design" waves. The relationship of the formulas to others found in the literature is discussed.
+
+The wavelengths and the coefficients in the third-order series for the wave profile, and the water particle velocities and local accelerations are tabulated for approximately 2000 waves. The depths, heights, and periods for the listed wave conditions vary respectively from 10 to 500 feet, 5 to 40 feet, and 4 to 20 seconds. The range of applicability of the theory is discussed and approximate limits estimated. As an aid in calculations, tables of the trigonometric and hyperbolic sines and cosines for integral multiples of the argument are included.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1957-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1881</dc:identifier>
+	<dc:identifier>10.9753/icce.v6.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 6 (1957): Proceedings of 6th Conference on Coastal Engineering, Gainesville, Florida, 1957.; 16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1881/1154</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

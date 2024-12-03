@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4013</identifier>
+				<datestamp>2021-01-19T20:25:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WATER-WAVE MODULATION</dc:title>
+	<dc:creator xml:lang="en">Dold, J.W.</dc:creator>
+	<dc:creator xml:lang="en">Peregrine, D.H.</dc:creator>
+	<dc:subject xml:lang="en">wave modulation</dc:subject>
+	<dc:subject xml:lang="en">numerical computation</dc:subject>
+	<dc:description xml:lang="en">Accurate numerical computations of wave trains with small modulations that grow are described. The range of wave steepness and modulation lengths that give breaking waves are determined. The number of wave crests is reduced for a time at greatest modulation but frequency downshifting is not observed. Near-breaking wave-group structure is always similar, with energy concentrated into one or two wavelengths.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4013</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4013/3696</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4779</identifier>
+				<datestamp>2021-01-19T16:04:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTERACTION OF NONLINEAR WAVES WITH COASTAL STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Lee, J.J.</dc:creator>
+	<dc:creator xml:lang="en">Chang, C.</dc:creator>
+	<dc:creator xml:lang="en">Zhang, F.</dc:creator>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">coastal structures</dc:subject>
+	<dc:description xml:lang="en">Interaction of transient nonlinear waves (modeled by solitary waves with moderate wave height) with submerged breakwater has been studied both numerically and experimentally. The emphasis is on the comparison between the numerical solution and the laboratory experiments on the wave transformation and the water particle velocity of the induced flow field. For the numerical analysis, the Boundary Element Method (BEM) has been used for analyzing the wave field induced by the coastal structure. For the laboratory experiments the wave profiles are obtained by resistance type wave gauge; the two dimensional water particle velocities are obtained by a four-beam Laser Doppler Velocimeter (LDV) equipped with frequency shifting and with a fiber optics system. The LDV measurements are directed to obtain the detail of the wave kinematic properties important for ascertaining the dynamics of the modified wave field in the vicinity of the submerged breakwater. This serves as a critical check for the validity of the numerical computations. Results of the numerical model have been found to compare well with the experimental data for the conditions studied in both the wave profiles and the water particle velocities beneath the waves as they interact with the breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4779</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4779/4460</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

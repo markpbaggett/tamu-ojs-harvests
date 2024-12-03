@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4378</identifier>
+				<datestamp>2021-01-19T18:20:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE UPLIFT FORCES ON PLATFORMS WITH ENERGY ABSORBERS</dc:title>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:creator xml:lang="en">Lai, C.P.</dc:creator>
+	<dc:subject xml:lang="en">energy absorber</dc:subject>
+	<dc:subject xml:lang="en">wave uplift</dc:subject>
+	<dc:subject xml:lang="en">uplift force</dc:subject>
+	<dc:subject xml:lang="en">uplift on a platform</dc:subject>
+	<dc:description xml:lang="en">Interaction of large amplitude wave with platforms or docks in a variable depth medium has been studied theoretically and numerically. The underside of the platform is equipped with energy absorbing linear spring in order to study the energy absorbing effect for reducing the uplift forces on the platform or dock. The flow is assumed to be inviscid, irrotational without current. Laplace equation with full non-linear free surface equations are solved by isoparametric mapping technique. A Galerkin finite element model is used to model the transformed equations. The adaptive line SOR (Successive-Over-Relaxation) technique is used. The results indicate that uplift wave forces on platforms or docks can be significantly reduced by very soft springs. Wave profile history confirms the manifested mechanism of energy absorption. The results also indicate that larger uplift forces are easier to be damped out by the prescribed energy absorbing mechanism than the smaller uplift forces.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4378</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.171</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 171</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4378/4059</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

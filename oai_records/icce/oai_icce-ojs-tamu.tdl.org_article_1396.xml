@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1396</identifier>
+				<datestamp>2023-10-04T04:43:21Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF DRAG AND INERTIA COEFFICIENTS FOR A CIRCULAR CYLINDER IN RANDOM WAVES DERIVED FROM DIFFERENT METHODS</dc:title>
+	<dc:creator xml:lang="en">Mai, Tri Cao</dc:creator>
+	<dc:creator xml:lang="en">Wilms, Mayumi</dc:creator>
+	<dc:creator xml:lang="en">Hildebrandt, Arndt</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:subject xml:lang="en">Wave load</dc:subject>
+	<dc:subject xml:lang="en">Morison equation</dc:subject>
+	<dc:subject xml:lang="en">Drag and inertia coefficient</dc:subject>
+	<dc:subject xml:lang="en">random waves.</dc:subject>
+	<dc:description xml:lang="en">This paper presents results from experimental works to investigate wave loading on a vertical circular cylinder in random wave conditions in a wave flume with different water depths . In-line force coefficients (drag and inertia coefficient) are estimated from the measured pressures on cylinder's surface at different elevations along the length of the cylinder. The wave kinematics are estimated by using different wave theories. Methods of max-min and least-squares (simplified by fit on wave-by-wave basis) are applied to determine force coefficients.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-16</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1396</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1396/pdf_8</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

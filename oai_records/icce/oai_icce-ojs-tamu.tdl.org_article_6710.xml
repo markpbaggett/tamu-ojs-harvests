@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6710</identifier>
+				<datestamp>2023-10-04T02:42:59Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDYING THE EFFECT OF LINEAR REFRACTION ON LOW-FREQUENCY WAVE PROPAGATION (PHYSICAL AND NUMERICAL STUDY)</dc:title>
+	<dc:creator xml:lang="en">Eslami Arab, Sepehr</dc:creator>
+	<dc:creator xml:lang="en">van Dongeren, Ap</dc:creator>
+	<dc:creator xml:lang="en">Wellens, Peter</dc:creator>
+	<dc:subject xml:lang="en">Refraction</dc:subject>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Laboratory measurements</dc:subject>
+	<dc:subject xml:lang="en">experimental techniques</dc:subject>
+	<dc:description xml:lang="en">This paper describes a laboratorium data set of wave propagation over steep slopes with large angles of incidence, and the model-data comparison with linear and nonlinear wave models (SWAN and TRITON). The reason for this study is that the SWAN model showed an underestimation of the observed low frequency wave energy at nearshore sites in the Eastern Wadden Sea tidal inlet. Van Vledder (2010) showed that potential inaccuracies in modeling refraction over steep slopes of the tidal channel may result in observed discrepancies. The paper addresses the set up of the laboratory experiment, the novel measurement techniques and an analysis of the observed differences between models and data. The results show that there is not one single mechanism that explains the differences, but a combination of mechanisms, and perhaps other phenomena such as reflection play role.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6710</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6710/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6746</identifier>
+				<datestamp>2023-10-04T02:40:48Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF CELERITY AND VELOCITY FOR TSUNAMI PROPAGATION INTO RIVERS</dc:title>
+	<dc:creator xml:lang="en">Roh, Min</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Hitoshi</dc:creator>
+	<dc:creator xml:lang="en">Aditaywan, Mohammad Bagus</dc:creator>
+	<dc:creator xml:lang="en">Mano, Akira</dc:creator>
+	<dc:creator xml:lang="en">Udo, Keiko</dc:creator>
+	<dc:subject xml:lang="en">Tohoku Tsunami</dc:subject>
+	<dc:subject xml:lang="en">tsunami propagation</dc:subject>
+	<dc:subject xml:lang="en">rivers</dc:subject>
+	<dc:subject xml:lang="en">flow velocity</dc:subject>
+	<dc:subject xml:lang="en">Particle Image Velocimetry(PIV)</dc:subject>
+	<dc:subject xml:lang="en">Particle Tracking Velocimetry (PTV)</dc:subject>
+	<dc:description xml:lang="en">Tsunami propagation into river is one of important real phenomenon. During this process, tsunami celerity and flow velocity are significant physical parameters to understand tsunami behaviors. However, the availability of observation was not sufficient in the 2011 off the Pacific Coast of Tohoku Tsunami, whereas several video data can be used to assess the physical parameters such as tsunami celerity and flow velocity. In this study, as a video image analysis method, Particle Image Velocimetry(PIV) and Particle Tracking Velocimetry(PTV) were used to estimate the tsunami flow velocity. Furthermore, the analysis result of video image data was verified by using the conservation equation. Tsunami physical parameter was successfully estimated by the comparison analysis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6746</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6746/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

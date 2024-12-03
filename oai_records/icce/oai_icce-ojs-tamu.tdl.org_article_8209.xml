@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8209</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW HYBRID ANN MODEL FOR EVALUATING THE EFFICIENCY OF Î -TYPE FLOATING BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Ghasemi, Hadi</dc:creator>
+	<dc:creator xml:lang="en">Kolahdoozan, Morteza</dc:creator>
+	<dc:creator xml:lang="en">Pena, Enrique</dc:creator>
+	<dc:creator xml:lang="en">Ferreras, Javier</dc:creator>
+	<dc:creator xml:lang="en">Figuero, Andrés</dc:creator>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">Floating breakwater</dc:subject>
+	<dc:subject xml:lang="en">neural network</dc:subject>
+	<dc:subject xml:lang="en">particle swarm optimization</dc:subject>
+	<dc:description xml:lang="en">Floating breakwaters (FBs) have been specially regarded in recent years as a means to protect small harbors and marine structures against affection of short period waves. FBs have different types in terms of geometric shapes; one of the most common of which is the Ï€-type FB. Generally, FBs are designed to reduce wave energy. The parameter used to evaluate the efficiency of FBs in the wave energy reduction is the wave transmission coefficient (Kt). Thus, accurate estimate of Kt is an important aspect in FBs design.  In the present study, new hybrid artificial neural network (ANN) models are developed for predicting Kt of Ï€-type FBs. Actually, a new algorithm that combines particle swarm optimization (PSO) and Levenberg-Marquardt (LM) is used for learning ANN models. These models are developed by the use of experimental data sets obtained from the Kt of Ï€-type FBs using a wave basin of the University of a Coruña, Spain. A proposed model performance was evaluated and results show that this model can be successfully applied for the prediction of the Kt. Also, results of proposed model show that the efficiency of this model is improved in compare with the introduced formulas cited in the literature. After assuring the acceptability of the prediction results, this model as one of an efficient tool was used for extending the experimental data and selection of the optimal design of Ï€-type FBs in terms of the geometric characteristics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8209</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8209/7011</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

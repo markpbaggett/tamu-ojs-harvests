@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7088</identifier>
+				<datestamp>2021-01-19T05:26:29Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Interannual variability of the Antarctic Circumpolar Current (ACC) around the western Drake Passage</dc:title>
+	<dc:creator xml:lang="en">Hsu, Yu Chen</dc:creator>
+	<dc:creator xml:lang="en">Wu, Chau-Ron</dc:creator>
+	<dc:creator xml:lang="en">Lee, Chung-Pan</dc:creator>
+	<dc:subject xml:lang="en">the Drake Passage</dc:subject>
+	<dc:subject xml:lang="en">Antarctic Circumpolar Current (ACC)</dc:subject>
+	<dc:subject xml:lang="en">MEI</dc:subject>
+	<dc:subject xml:lang="en">HHT</dc:subject>
+	<dc:description xml:lang="en">An empirical mode decomposition (EMD) was applied to 20-year (1992-2012) time series of Maps of Absolute Dynamic Topography (MADT) distributed by the AVISO. The Hilbert-Huang transform (HHT) uses the EMD method to decompose a complicated dataset into a finite number of components, the so-called intrinsic mode functions (IMFs). As a result, low frequency and higher relationships have been found in the vicinity of the Western Drake Passage. Lee (2005) has provided a hypothesis that vortex shedding in the eastern South America might trigger El Niño in the tropical Pacific. It could provide a mechanism to explain that there exists a mechanism to trigger both phenomena simultaneously.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-07-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7088</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7088/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5149</identifier>
+				<datestamp>2021-01-19T13:56:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CROSS-SHORE PROFILE MODELLING UNDER RANDOM WAVES</dc:title>
+	<dc:creator xml:lang="en">Wu, Yongjun</dc:creator>
+	<dc:creator xml:lang="en">Dette, Hans-H.</dc:creator>
+	<dc:creator xml:lang="en">Wang, Hsiang</dc:creator>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:subject xml:lang="en">profile modelling</dc:subject>
+	<dc:subject xml:lang="en">cross-shore profile</dc:subject>
+	<dc:description xml:lang="en">This paper presents part of the test results conducted in the Large Wave Flume (LWF) for 2D beach profile response under random wave input as well the numerical modelling effort to simulate the laboratory data. The tests were conducted with various input wave spectra, initial profiles and for both erosional and accretional cases. The numerical model is a 2DV(two dimensional vertical) beach profile model. It couples a sediment transport model with a random wave model. The sediment model is a modified version of the SBEACH model developed by Larson and Kraus (1989) for regular waves. The input wave condition is a time-series of irregular waves simulated from a given wave height probability density function, here selected as the Rayleigh distribution. The final profile is then computed from the cumulative changes due to each randomly occurring individual wave.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5149</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5149/4827</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

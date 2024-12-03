@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4736</identifier>
+				<datestamp>2021-01-19T16:18:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATING INCIDENT AND REFLECTED WAVE FIELDS USING AN ARBITRARY NUMBER OF WAVE GAUGES</dc:title>
+	<dc:creator xml:lang="en">Zelt, J.A.</dc:creator>
+	<dc:creator xml:lang="en">Skjelbreia, James E.</dc:creator>
+	<dc:subject xml:lang="en">wave gauge</dc:subject>
+	<dc:subject xml:lang="en">incident waves</dc:subject>
+	<dc:subject xml:lang="en">reflection</dc:subject>
+	<dc:subject xml:lang="en">wave fields</dc:subject>
+	<dc:description xml:lang="en">A method based on linear wave theory is presented to decompose onedimensional wave fields into left and right-travelling components using an arbitrary number of wave gauges. Results are presented to show that an increased accuracy is possible if more than three wave gauges are used. The technique uses a least squares scheme with variable weights. Results will also be presented that indicate a further improvement in accuracy is possible by an appropriate choice of the weighting coefficients.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4736</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4736/4417</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

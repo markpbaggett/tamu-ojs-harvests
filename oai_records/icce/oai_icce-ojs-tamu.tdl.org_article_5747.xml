@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5747</identifier>
+				<datestamp>2021-01-19T10:39:18Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEURAL NETWORK MODELLING OF FORCES ON VERTICAL STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">van Gent, Marcel R.A.</dc:creator>
+	<dc:creator xml:lang="en">van den Boogaard, Henk F.P.</dc:creator>
+	<dc:subject xml:lang="en">neural network</dc:subject>
+	<dc:subject xml:lang="en">force modeling</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">vertical structure</dc:subject>
+	<dc:description xml:lang="en">For the design of vertical breakwaters, reliable predictions of the horizontal forces are required. Through physical modelling useful predictions can be made but, due to the very complex interaction between waves and structures, the derivation of reliable empirical relations based on such tests can still be rather difficult. Here, based on a large data-set from physical model tests, use is made of Neural Network modelling to predict horizontal forces on vertical structures. In addition, a method is developed to estimate the reliability-intervals around the predictions. The resulting tool is a complementary design-tool for predicting forces on vertical breakwaters and also a suitable tool for application in probabilistic design methods.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5747</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5747/5417</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

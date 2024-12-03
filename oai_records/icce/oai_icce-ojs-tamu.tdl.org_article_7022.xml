@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7022</identifier>
+				<datestamp>2023-10-04T02:44:30Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A LABORATORY AND FIELD STUDY ON 2DH SPECTRAL WAVE TRANSFORMATION IN MUDDY ENVIRONMENTS</dc:title>
+	<dc:creator xml:lang="en">Soltanpour, Mohsen</dc:creator>
+	<dc:creator xml:lang="en">Haghshenas, S. Abbas</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">wave attenuation</dc:subject>
+	<dc:subject xml:lang="en">fluid mud</dc:subject>
+	<dc:subject xml:lang="en">visco-elastic model</dc:subject>
+	<dc:subject xml:lang="en">wave-mud interaction</dc:subject>
+	<dc:subject xml:lang="en">wave transformation</dc:subject>
+	<dc:description xml:lang="en">The present paper offers a set of wave basin experiments on muddy beds together with field measurements data at Hendijan Mud Coast in the north-west corner of the Persian Gulf in order to investigate the 2DH spectral wave transformation over muddy beds. A dissipation model was added to REF/DIF S wave model to develop a numerical wave spectrum transformation model for muddy beaches. The proposed model was utilized to analyze the experimental and field measurements data on muddy beds. The simulated wave spectra over-mud bed are in fair agreement with the measurements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7022</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7022/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

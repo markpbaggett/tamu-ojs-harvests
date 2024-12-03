@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2359</identifier>
+				<datestamp>2021-01-17T05:31:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE ENERGY AND LITTORAL TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Castanho, Jose</dc:creator>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">littoral drift</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:description xml:lang="en">As is known the breaking of oblique waves generates currents roughly parallel to the shore line usually designated by long shore currents. The intensity of these currents which are present almost exclusively between the breaking line and the shore depends on the characteristics of the waves (angle of approach, height and period) and on the characteristics of the shore (slope and roughness). A certain amount of energy E is transmitted by the breaking wave along its direction of propagation. As this is a transmitted energy, it is possible to speak about its component parallel to the shoreline which would be indicated by E sen a , being the angle of approach of waves, i.e. the angle that crests make with the shoreline .</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1964-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2359</dc:identifier>
+	<dc:identifier>10.9753/icce.v9.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 9 (1964): Proceedings of 9th Conference on Coastal Engineering, Lisbon, Portugal, 1964.; 17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2359/2036</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

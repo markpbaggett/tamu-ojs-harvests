@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4299</identifier>
+				<datestamp>2021-01-19T18:47:40Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENVIRONMENTAL CONTROLS ON LITTORAL SAND TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Komar, Paul D.</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">littoral drift</dc:subject>
+	<dc:subject xml:lang="en">environmental controls</dc:subject>
+	<dc:description xml:lang="en">Quantities of sand transported along beaches are generally related to the "longshore component of wave power", F^, through the proportionality is = KF£ where l8 is the immersed-weight sand transport rate and K is a dimensionless proportionality factor. A more-generally applicable relationship is that of Bagnold, ls = K'(ECn)bvL/um where (ECn)b is the energy flux or total power of the breaking waves, y^ is the longshore current, um is the mean orbital velocity under the waves, and K' is another dimensionless coefficient. It is apparent that sediment transport rates on beaches should depend on environmental factors such as the grain diameter or settling velocity, and possibly on factors such as the beach slope or wave steepness. However, examinations of such dependencies for K and K' within the field data are hampered by problems with large random scatter within any one data set, and by systematic differences between separate studies which have employed diverse measurement techniques. Examinations of the field data for K and K' variations indicate that meaningful dependencies on sediment grain diameters and other factors cannot be established with confidence in the sand-size range. Limited data available from gravel beaches support the expected decreases in K and K' with increasing grain sizes. These data are too few in numbers to establish firm trends, but do suggest that future investigations to establish dependencies on environmental factors would be most profitably undertaken on gravel beaches. The measurements collected in recent years from sand beaches suggest revisions in average K and K' coefficients to be used in transport evaluations, but such revisions must be coordinated such that K/K' = 2.7 so as to maintain agreement with the longshore current data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4299</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.92</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 92</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4299/3980</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

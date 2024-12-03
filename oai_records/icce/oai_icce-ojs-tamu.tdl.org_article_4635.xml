@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4635</identifier>
+				<datestamp>2021-01-19T16:53:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OP RADIOACTIVE SAND TRACERS TO MEASURE LONGSHORE SEDIMENT TRANSPORT RATES</dc:title>
+	<dc:creator xml:lang="en">Drapeau, G.</dc:creator>
+	<dc:creator xml:lang="en">Long, B.</dc:creator>
+	<dc:creator xml:lang="en">Kamphuis, J.W.</dc:creator>
+	<dc:subject xml:lang="en">radioactive tracer</dc:subject>
+	<dc:subject xml:lang="en">sediment tracer</dc:subject>
+	<dc:subject xml:lang="en">longshore transport</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">transport rate</dc:subject>
+	<dc:description xml:lang="en">This paper analyzes and compares radioactive sand tracer experiments with beach profile measurements and calculations of littoral sand transport rates performed at Pointe Sapin, N.B. in the Gulf of St. Lawrence, Canada, The three methods give comparable results. In theory, all sediment tracers should be dealt with the same way, but in practice the nature of the tracers has to be taken into account. Tracers do fulfill the purpose for which they are used and they can solve sediment transport problems when used with knowledge and care. The wide variation among littoral sediment transport formulas should not be attributed to the lack of accuracy of tracer experiments but rather to the fact that expressions are over-simplistic and important factors such as the influence of beach slope and grain size are not taken into account.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4635</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4635/4316</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

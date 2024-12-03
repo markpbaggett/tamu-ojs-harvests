@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8594</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SENSITIVITY OF OCCURRENCE FREQUENCY OF STORM TIDE ELEVATION TO RANDOM TIDAL PHASES IN MACRO-TIDAL AREA</dc:title>
+	<dc:creator xml:lang="en">Chen, Siyu Aaron</dc:creator>
+	<dc:creator xml:lang="en">Anderson, Mike</dc:creator>
+	<dc:creator xml:lang="en">Tabar, Jeff</dc:creator>
+	<dc:description xml:lang="en">Storm tides result from meteorological forces (storm) acting over tidal waters. To derive the reoccurrence frequency of storm tide elevation (STE), of particular interest is to reduce the bias due to random tide selection, since the storm occurrence is independent of tidal phase. This aleatory bias can be reduced by modelling each storm at increasing number of random tides, which, however, adds to the computational cost. Therefore, it is useful to investigate the number of random tides required for each storm to reduce the concerns of aleatory bias. This study firstly explored the nonlinear interaction between tide and surge for a single extratropical (ET) storm in a macrotidal study area. In general, the non-linearity is 90 degrees out of phase with tide. Although the nonlinearity is important, especially over tidal flats, it is a second order term to the linear combination of tide and surge. This enables the possibility to evaluate the sensitivity of occurrence frequency of storm tides to the number of random tidal phases through a Monte-Carlo Simulation (MCS), where storm tides with surge occurring at random tidal phases can be derived by linear super-position. It was determined that the variance of 100-year STE can be significantly reduced if 10 or more random tides for each storm are considered. It is also possible to eliminate the bias using the MCS with the nonlinearity accounted for by linear regression relating modeled STEs and that derived from linear superposition. The accuracy of the approach can be estimated by introducing the regression error randomly to the STEs obtained from linear regression during the analysis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8594</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8594/7398</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8594/7999</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

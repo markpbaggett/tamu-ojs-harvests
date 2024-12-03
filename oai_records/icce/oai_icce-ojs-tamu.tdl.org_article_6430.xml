@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6430</identifier>
+				<datestamp>2023-10-04T03:36:30Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW METHOD OF APPROACHING EXTREME STORM EVENTS FOR DESIGN LEVEL OR RISK ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Goennert, Gabriele</dc:creator>
+	<dc:creator xml:lang="en">Gerkensmeier, Birgit</dc:creator>
+	<dc:subject xml:lang="en">extreme events</dc:subject>
+	<dc:subject xml:lang="en">storm surge components</dc:subject>
+	<dc:subject xml:lang="en">non-linear interaction</dc:subject>
+	<dc:description xml:lang="en">The North Sea coast is seriously threatened by storm surges. Climate change and its consequences, such as a rising sea level, will have serious effects on the safety of people and economic assets in coastal areas. Within the joint research project XtremRisK (bmbf-funded) the Agency of roads bridges and Waters of the Free and Hanseatic City of Hamburg developed a new method to calculate extreme storm surge events. The purpose of the research work, to calculated physically feasible extreme events is given consideration by detailed analyses of the single storm-surge components (tide, external surge from the Atlantic and wind surge) and their non-linear interactions by combining deterministic-empirical, statistical and numerical methods. The non-linear interactions can be comprised by hydrodynamic equations such as equation of momentum, continuity equation and volume balance. The claim to develop a comprehensive and physically feasible method is satisfied by the diversity of methodical approaches for analyzing the storm surge components and their interaction processes. Therefore a 2-method concept is developed on the basis of empirical and numerical approaches. The resultant new method is a new way of calculating extreme storm surges and can be used within new design concepts to calculate design level heights or could be a part of risk analysis</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6430</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6430/pdf_463</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

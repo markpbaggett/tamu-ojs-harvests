@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1378</identifier>
+				<datestamp>2023-10-04T04:24:23Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RAPID CALCULATION OF NONLINEAR WAVE-WAVE INTERACTIONS</dc:title>
+	<dc:creator xml:lang="en">Lin, Lihwa</dc:creator>
+	<dc:creator xml:lang="en">Demirbilek, Zeki</dc:creator>
+	<dc:creator xml:lang="en">Zheng, Jinhai</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:subject xml:lang="en">nonlinear wave-wave interaction</dc:subject>
+	<dc:subject xml:lang="en">wave-action balance equation</dc:subject>
+	<dc:subject xml:lang="en">directional wave spectrum</dc:subject>
+	<dc:description xml:lang="en">This paper presents an efficient numerical algorithm for the nonlinear wave-wave interactions that can be important in the evolution of coastal waves.  Indeed, ocean waves truly interact with each others.  However, because ocean waves can also interact with the atmosphere such as under variable wind and pressure fields, and waves will deform from deep to shallow water, it is generally difficult to differentiate the actual amount of the nonlinear energy transfer among spectral waves mixed with the atmospheric input and wave breaking.  The classical derivation of the nonlinear wave energy transfer has involved tedious numerical calculation that appears impractical to the engineering application. The present study proposed a theoretically based formulation to efficiently calculate nonlinear wave-wave interactions in the spectral wave transformation equation.  It is approved to perform well in both idealized and real application examples.  This rapid calculation algorithm indicates the nonlinear energy transfer is more significant in the intermediate depth than in deep and shallow water conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1378</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1378/pdf_98</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

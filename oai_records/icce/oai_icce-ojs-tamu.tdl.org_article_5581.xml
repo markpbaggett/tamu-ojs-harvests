@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5581</identifier>
+				<datestamp>2021-01-19T11:34:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BREAKWATER DAMAGE IN OKUSHIRI PORT DUE TO THE HOKKAIDO NANSEI-OKI EARTHQUAKE TSUNAMI</dc:title>
+	<dc:creator xml:lang="en">Kimura, Katsutoshi</dc:creator>
+	<dc:creator xml:lang="en">Mizuno, Yuzo</dc:creator>
+	<dc:creator xml:lang="en">Tsuruya, Hirochi</dc:creator>
+	<dc:creator xml:lang="en">Nakagawa, Yasuyuki</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater damage</dc:subject>
+	<dc:subject xml:lang="en">Okushiri Port</dc:subject>
+	<dc:subject xml:lang="en">Kokkaido Nansei-Oki</dc:subject>
+	<dc:subject xml:lang="en">earthquake</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:description xml:lang="en">A tsunami caused by the Hokkaido-Nansei-oki earthquake struck Okushiri Island and the southwest coast of Hokkaido damaging many port facilities. This paper describes typical breakwater damage at Okushiri Port and the applicability of Tanimoto's formula for tsunami wave forces on vertical walls based on prototype failure analyses and the result of numerical simulations. The armor stability and the rubble mound scourings were examined from the results of 3-D model tests at a scale of 1/15. The damage patterns at the narrow opening of breakwaters were reproduced by the tests. The necessary weight of armor blocks and foot-protection blocks for breakwater heads were calculated by the C.E.R.C. formula using averaged flow speed at the peak of tsunami.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5581</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5581/5254</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3022</identifier>
+				<datestamp>2021-01-20T02:08:35Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE EFFECTS ON BUOYANT PLUMES</dc:title>
+	<dc:creator xml:lang="en">Shuto, Mobuo</dc:creator>
+	<dc:creator xml:lang="en">Ti, Le Huu</dc:creator>
+	<dc:subject xml:lang="en">plume</dc:subject>
+	<dc:subject xml:lang="en">buoyant plume</dc:subject>
+	<dc:description xml:lang="en">When a buoyant plume is discharged into water where wave motions exist, the axis of plume is "bent over and horizontally fluctuated. The dilution rate of the plume is affected by this motion. Experiments are carried out to investigate the dilution rate of plumes when they arrive at the free surface. An analogy to the case of buoyant plumes discharged into uniform steady cross streams is applied to analyse the experimental data. Within the experimental range, it is found that the dilution rate is inversely proportional to the square of the ratio of the water depth to the diameter of outlet and is proportional to the ratio of the discbarge velocity to a characteristic horizontal velocity of the ambient fluid. The entrainment coefficient is given as a function of a densimetric Eroude number for small Eroude number and is a constant, 0.28, for bigger Eroude number than 4.3.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3022</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.127</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 127</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3022/2687</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

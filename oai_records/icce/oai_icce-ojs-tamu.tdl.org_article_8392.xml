@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8392</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IRREGULAR WAVE MODELLING WITH CFD IN SULAFJORD FOR THE E39 PROJECT</dc:title>
+	<dc:creator xml:lang="en">Wang, Weizhi</dc:creator>
+	<dc:creator xml:lang="en">Kamath, Arun</dc:creator>
+	<dc:creator xml:lang="en">Bihs, Hans</dc:creator>
+	<dc:description xml:lang="en">The E39 project aims at building a continuous ferry-free coastal highway along the west coast of Norway. Sulafjord is one of the fjords where ferries are to be replaced with floating bridges or floating tunnels. The floating structures demand accurate and realistic numerical simulations of the wave propagation and transformation in the fjords. The Norwegian coastline is characterized by dramatic water depth changes and deep water conditions. The coastal water also contains both swells and local wind-generated waves. These conditions, along with series of islands outside the fjords and very irregular coastline, make wave modeling more challenging for this region. Thus, the application of CFD models which provide high-resolution and phase-resolved solutions for complicated wave freesurface is explored. First, the spectral wave model SWAN is used to estimate the wave properties at the inlet of the Sulafjord from offshore wave data. Using the estimated wave data at the inlet as input, a large-scale 3D regular wave CFD simulation is performed using the open-source model REEF3D. Then unidirectional and multi-directional irregular wave CFD simulations are performed to represent a more realistic sea state, using a frequency spectra and a directional spreading function. The statistical properties of the simulated irregular ocean waves at three locations inside the fjord are compared among the CFD simulations and with the spectral wave model. The differences in the simulation results are discussed and studied.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8392</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8392/7200</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

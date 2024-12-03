@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5244</identifier>
+				<datestamp>2021-01-19T13:25:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">KINEMATIC PREDICTIONS IN LARGE SHALLOW WATER WAVES</dc:title>
+	<dc:creator xml:lang="en">Smith, Susan</dc:creator>
+	<dc:creator xml:lang="en">Swan, Christopher</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:subject xml:lang="en">large waves</dc:subject>
+	<dc:subject xml:lang="en">wave prediction</dc:subject>
+	<dc:description xml:lang="en">The present paper concerns the description of extreme waves in shallow water, and in particular contrasts the success of two recently developed wave theories (Sobey, 1992 and Baldock and Swan, 1994) to model the maximum water particle velocities arising beneath a highly nonlinear and transient (or unsteady) wave event. To achieve these comparisons exact numerical calculations were undertaken using the time-stepping procedure outlined by Dold and Peregrine (1984). Comparisons between this numerical "data" and the kinematics models confirm the importance of both the non-linearity and the unsteadiness, and further suggest that the nature of the wave-wave interactions has important implications for the accuracy of the kinematics predictions. In particular, the local Fourier series solution (Sobey, 1992) is shown to be unable to model the global wave frequency-difference terms, and therefore tends to over-predict the fluid velocities beneath the still water level. In contrast, the double Fourier series solution (Baldock and Swan, 1994) explicitly incorporates both the nonlinearity and the unsteadiness of the wave, and typically provides a good description of the flow field beneath the still water level. However, this solution is limited in terms of the total number of Fourier components included, and consequently the largest velocities arising close to the water surface are typically under-predicted in the largest wave events. Nevertheless, both kinematics models provide a significant improvement over the existing design solutions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5244</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5244/4922</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

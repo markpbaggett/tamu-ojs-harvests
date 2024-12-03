@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12745</identifier>
+				<datestamp>2023-09-01T15:12:47Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENVIRONMENTAL CONTOUR ESTABLISHMENT BASED ON OPENLY AVAILABLE EMODNET WAVE AND WIND DATA FOLLOWING HEFFERNAN AND TAWN METHODOLOGIES</dc:title>
+	<dc:creator xml:lang="en">Bach, Joachim S.</dc:creator>
+	<dc:description xml:lang="en">In this paper, I present methodologies and routines for inference of environmental contours based on openly available data from the European EMODnet service, specifically wind and wave timeseries from oil platform 6200146. The conditional marginal distribution models, known as environmental contours, is established based on measured wind and wave heights, at platform 6200146 located in the North Sea. The data is provided through the openly available data platform, EMODnet. The environmental contour model is established by fitting univariate distributions to each data-series independently, whereafter an extremal dependence structure is established following methodologies outlined in (Janet E. heffernan, 2004).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12745</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12745/12018</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Joachim S. Bach</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

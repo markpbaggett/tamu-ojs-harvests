@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3368</identifier>
+				<datestamp>2021-01-20T00:12:11Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE NEARSHORE SEDIMENT TRANSPORT STUDY</dc:title>
+	<dc:creator xml:lang="en">Seymour, Richard J.</dc:creator>
+	<dc:creator xml:lang="en">Duane, David B.</dc:creator>
+	<dc:subject xml:lang="en">nearshore transport</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">The models for predicting longshore transport of sediment along straight coastlines that are presently in general use were derived empirically from very sparse measurements of both the forcing function (waves and currents) and the response function (sediment motions). A detailed treatment of these data sets is contained in Greer and Madsen (1978). In addition to the generally unsatisfactory nature of the basic measurements upon which they were based, the models may be deficient because they fail to employ such potentially significant factors as wind stress, sediment size distribution, bottom slope and spatial variations in waves and currents, including the effects of rip currents. Although these models have served certain engineering needs, there is a strong measure of uncertainty in the coastal engineering community about their general applicability. Certainly, because they are empirical rather than physically reasoned models, there is no rational means for extending their usefulness to predicting transport where coastlines are not straight -- such as the case of a tidal inlet. The economic impact of sediment transport in the nearshore regime is enormous and the need for improved predictive tools appears to be universally accepted. To be most useful, these improved models must be globally applicable. This implies very strongly that they must be based upon a thorough understanding of surf zone dynamics and the details of the response of the sediment. The surf zone flow fields are highly complex and nonlinear, implying an equally complex and difficult system of sediment responses. Characterizing the entire forcing and response functions simultaneously requires large and expensive field measurement programs that greatly exceed the present state of the art of measurement and analysis.' The approach of the last two decades of single investigators working at laboratory scale or in the ocean with a few single point measurements would not appear to ever meet these needs. However, the present costs for coastal dredging and shoreline protection, which can be measured in billions of dollars on a world scale, argue for a major undertaking to develop better predictive tools. In an attempt to satisfy these needs, an ad hoc group was formed at the Fifteenth Coastal Engineering Conference in Honolulu to plan a large scale and coordinated series of investigations leading to improved sediment transport predictive models. Less than a year later, the Nearshore Sediment Transport Study was initiated under the sponsorship of the Office of Sea Grant.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3368</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.92</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 92</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3368/3048</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

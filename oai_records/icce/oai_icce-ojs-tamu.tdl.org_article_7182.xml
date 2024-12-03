@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7182</identifier>
+				<datestamp>2021-01-19T05:09:24Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FUTURE PROJECTION OF OCEAN WAVE CLIMATE CHANGE USING MULTI-SST ENSEMBLE EXPERIMENTS</dc:title>
+	<dc:creator xml:lang="en">Shimura, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:subject xml:lang="en">wave climate</dc:subject>
+	<dc:subject xml:lang="en">future projection</dc:subject>
+	<dc:description xml:lang="en">Long term changes in ocean waves elicit a variety of impacts on a coastal environment. In order to assess the future changes in ocean wave climate, future projections of global wave climates have been carried out by previous studies. However, previously there has been little discussion about the causes behind changes in future wave climate and the differences between projections. The objective of this study is to estimate the future changes in mean wave climate and the sensitivity of the wave climate to Sea Surface Temperature (SST) conditions, in an effort to understand the mechanism behind the wave climate changes by specifically looking at spatial SST variation. A series of wave climate projections forced by surface winds from the MRI-AGCM3.2H were conducted based on SST ensemble experiments. The results show future changes in seasonal mean wave heights that are within about ± 0.4 m depending on the region and season. The future changes in summertime wave heights in the Western North Pacific (WNP) are highly sensitive to SST conditions that are influenced by tropical cyclone changes. The spatial variation of SST in the tropical Pacific Ocean is a major factor in the wave climate changes for the WNP during summer.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7182</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7182/pdf_674</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

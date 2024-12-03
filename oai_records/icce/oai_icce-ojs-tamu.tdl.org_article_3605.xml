@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3605</identifier>
+				<datestamp>2021-01-19T22:50:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">On the Synthesis of Realistic Sea States</dc:title>
+	<dc:creator xml:lang="en">Funke, E.R.</dc:creator>
+	<dc:creator xml:lang="en">Mansard, E.P.D.</dc:creator>
+	<dc:subject xml:lang="en">sea state</dc:subject>
+	<dc:subject xml:lang="en">realistic sea state</dc:subject>
+	<dc:subject xml:lang="en">sea state synthesis</dc:subject>
+	<dc:description xml:lang="en">Recent investigations by some researchers (Johnson et al, 1978; Burchart, 1979; Gravesen and Sorensen, 1977) have indicated that it is no longer sufficient to match the variance spectral density of a simulated sea state to that of the prototype. When testing models of various fixed and floating structures, it appears to be most important to simulate the wave grouping phenomenon as veil. Some researchers also believe that the wave steepness, the particular sequencing of high and low waves (Burchart, 1979) and the ratio of the maximum to the significant wave height within a wave train are also of significance. Methods for the generation of 'random1 waves throughout the world vary greatly. One may, however, categorize these in terms of two substantially different approaches. These may be referred to as "probabilistic" on the one hand and "deterministic" on the other. In the former, a random or pseudo-random noise source is used which will never repeat or which has a very long repetition period. The assumption is then made that, in the course of the long testing period, all possible outcomes of wave heights, wave periods and wave groups will occur. The only constraint, which is usually placed on the synthesis, is the shape of the variance spectral density and its zeroth moment. The "deterministic" approach, on the other hand, attempts to create very specific and typically extreme conditions. Subsequent analysis of structural response to these conditions must, of course, be related to the likelihood of these conditions occurring in the prevailing climate. The old standby method of testing with monochromatic waves is a typical example of this category. However, other technigues such as Funke and Mansard (1979a) and the reproduction of prototype wave trains as favoured by several laboratories (Gravesen and Sorensen, 1977) may also be described as deterministic.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3605</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.176</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 176</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3605/3287</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

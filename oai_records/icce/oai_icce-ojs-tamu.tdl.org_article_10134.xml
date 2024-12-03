@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10134</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NATURE-BASED COASTAL PROTECTION: WAVE DAMPING BY FLEXIBLE SALT MARSH VEGETATION</dc:title>
+	<dc:creator xml:lang="en">Veelen, Thomas J van</dc:creator>
+	<dc:creator xml:lang="en">Karunarathna, Harshinie</dc:creator>
+	<dc:creator xml:lang="en">Bennett, William G</dc:creator>
+	<dc:creator xml:lang="en">Fairchild, Tom P</dc:creator>
+	<dc:creator xml:lang="en">Reeve, Dominic E</dc:creator>
+	<dc:description xml:lang="en">The ability of coastal vegetation to attenuate waves has been well established (Moller et al., 2014). Salt marshes are vegetated coastal wetlands that can act as nature- based coastal defenses. They exhibit a range of plant species, which have been shown to differ in the amount of wave damping they provide (Mullarney &amp; Henderson, 2018). Recent studies have shown that plant flexibility is a key parameter that controls wave energy dissipation (Paul et al., 2016). Yet, no model exists that includes plant flexibility in computationally efficient manner for large-scale coastal zones. Therefore, we have developed a new model for flexible vegetation based on the key mechanisms in the wave-vegetation interaction and applied it to an estuary with diverse salt marsh vegetation.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/AjnFx3aFSzs</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10134</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.management.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; management.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10134/9420</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Thomas J van Veelen, Harshinie Karunarathna, William G Bennett, Tom P Fairchild, Dominic E Reeve</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

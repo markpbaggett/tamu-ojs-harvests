@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2769</identifier>
+				<datestamp>2021-01-20T03:40:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A METHOD OF NUMERICAL ANALYSIS OF WAVE PROPAGATION APPLICATION TO WAVE DIFFRACTION AND REFRACTION</dc:title>
+	<dc:creator xml:lang="en">Ito, Yoshiyuki</dc:creator>
+	<dc:creator xml:lang="en">Tanimoto, Katsutoshi</dc:creator>
+	<dc:subject xml:lang="en">numerical analysis</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">diffraction</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:description xml:lang="en">A method is presented to obtain numerically wave patterns in the region of arbitrary shape. The principle is to solve the linearized wave equations under given boundary conditions from a certain initial state. In this paper, two principal applications of our method of numerical analysis are presented in the fundamental fashion. The first application of our method is related to wave diffraction. The distribution of wave height along a semi-infinite breakwater and a detached breakwater is calculated and compared with that obtained from the conventional analytic solutions to confirm the validity of our numerical method. Three examples of application are presented to the wave height distribution along breakwaters of arbitrary shape and of arbitrary reflecting power and to wave force upon a large isolated vertical structure. The second application is to wave refraction. In particular, this method of numerical analysis is applicable to the analysis of wave propagation in the region of ray intersections which are indicated by the conventional geo-optic wave refraction theory. An example of application to a submerged shoal with concentric circular contours where a cusped caustics is formed is presented and the calculated wave height distribution around the shoal is compared with that obtained from hydraulic model experiments. Our method of numerical analysis might be applied to the calculation of wave height distribution in the region of more realistic bottom topography and it is possible to include vertical boundaries of arbitrary shape.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2769</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2769/2433</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

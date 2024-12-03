@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7867</identifier>
+				<datestamp>2021-01-20T03:54:34Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EULER-LAGRANGE SIMULATIONS OF SEDIMENT TRANSPORT IN OSCILLATORY BOUNDARY LAYERS WITH BEDFORMS</dc:title>
+	<dc:creator xml:lang="en">Finn, Justin R.</dc:creator>
+	<dc:creator xml:lang="en">Li, Ming</dc:creator>
+	<dc:creator xml:lang="en">Apte, Sourabh Vasant</dc:creator>
+	<dc:subject xml:lang="en">Euler-Lagrange</dc:subject>
+	<dc:subject xml:lang="en">Sediment Transport</dc:subject>
+	<dc:subject xml:lang="en">Bedforms</dc:subject>
+	<dc:subject xml:lang="en">Sand Ripples</dc:subject>
+	<dc:description xml:lang="en">Accurate prediction of sediment transport in the presence of bedforms such as sand ripples requires an advanced understanding of how dynamic sediment beds interact with turbulent oscillatory flows.  In this paper we propose a new approach for simulating these interactions, based on a fixed grid multiphase Euler-Lagrange simulation, that fully couples dynamic bed evolution to the motion of a sub-grid scale Lagrangian sediment phase.  The sediment phase is evolved by computing hydrodynamic and inter-particle forces and torques acting on individual particles, and is coupled to the fluid phase through the volume-filtered Navier-Stokes equations.  We validate the approach for sediment transport applications using hindered settling velocity tests, and show very good agreement with the experimental data of Baldock et al. (2004).  We then apply the approach to simulate sediment transport and ripple bed morphology in oscillatory flow conditions corresponding to the experimental studies of Van der Werf et al. (2007).  During the simulation, particles near ripple surface are isolated from immobile ones below allowing the computation to devote resources only to particles that may be become mobilized.   Although preliminary in nature, the simulation results demonstrate that that the model can correctly capture the near bed velocities, suspended sediment concentrations, and pick-up of sediment by key vortical structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7867</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.80</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.80</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7867/pdf_920</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

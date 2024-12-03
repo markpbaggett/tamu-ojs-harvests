@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10324</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEAR-FIELD TSUNAMI FORECASTING BASED ON A TSUNAMI RUN-UP RESPONSE FUNCTION</dc:title>
+	<dc:creator xml:lang="en">Lee, Juh-Whan</dc:creator>
+	<dc:creator xml:lang="en">Irish, Jennifer L.</dc:creator>
+	<dc:creator xml:lang="en">Weiss, Robert</dc:creator>
+	<dc:description xml:lang="en">Since near-field-generated tsunamis can arrive within a few minutes to coastal communities and cause immense damage to life and property, tsunami forecasting systems should provide not only accurate but also rapid tsunami run-up estimates. For this reason, most of the tsunami forecasting systems rely on pre-computed databases, which can forecast tsunamis rapidly by selecting the most closely matched scenario from the databases. However, earthquakes not included in the database can occur, and the resulting error in the tsunami forecast may be large for these earthquakes. In this study, we present a new method that can forecast near-field tsunami run-up estimates for any combination of earthquake fault parameters on a real topography in near real-time, hereafter called the Tsunami Run-up Response Function (TRRF).Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/tw1D29dDxmY</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10324</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10324/9610</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Juh-Whan Lee, Jennifer L. Irish, Robert Weiss</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5412</identifier>
+				<datestamp>2021-01-19T12:29:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DESIGN WAVE HEIGHT RELATED TO STRUCTURE LIFETIME</dc:title>
+	<dc:creator xml:lang="en">Liu, Zhou</dc:creator>
+	<dc:creator xml:lang="en">Burcharth, Hans F.</dc:creator>
+	<dc:subject xml:lang="en">design height</dc:subject>
+	<dc:subject xml:lang="en">structure lifetime</dc:subject>
+	<dc:description xml:lang="en">The determination of the design wave height (often given as the significant wave height) is usually based on statistical analysis of long-term extreme wave height measurement or hindcast. The result of such extreme wave height analysis is often given as the design wave height corresponding to a chosen return period. Sometimes confidence band of the design wave height is also given in order to include various sources of uncertainties. In this paper the First Order Reliability Method (FORM) is used to determine the design wave height corresponding to a certain exceedence probability within the structure lifetime. This includes the statistical vagrancy of nature, sample variability and the uncertainty due to measurement or hindcast error. Moreover, based on the discussion on the statistical vagrancy of nature, a formula for the calculation of encounter probability is presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5412</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5412/5088</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

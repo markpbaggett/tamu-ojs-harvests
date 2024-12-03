@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4099</identifier>
+				<datestamp>2021-01-19T19:56:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TURBIDITY - SEDIMENTATION IN CLOSED-END CHANNELS</dc:title>
+	<dc:creator xml:lang="en">Lin, Chung-Po</dc:creator>
+	<dc:creator xml:lang="en">Lott, Jonathon W.</dc:creator>
+	<dc:creator xml:lang="en">Mehta, Ashish J.</dc:creator>
+	<dc:subject xml:lang="en">turbidity</dc:subject>
+	<dc:subject xml:lang="en">sedimentation</dc:subject>
+	<dc:subject xml:lang="en">closed-end channel</dc:subject>
+	<dc:subject xml:lang="en">channel</dc:subject>
+	<dc:description xml:lang="en">In order to investigate the mechanism by which turbidity currents cause sedimentation in closed-end channels such as pier slips or residential canals, a laboratory investigation using fine-grained sediments was carried out. Two similar flume systems were used, each consisting of a main channel carrying sediment-laden flow and an orthogonally placed closed-end channel with a gate at the entrance. Characteristics of the turbidity current and sediment deposition in the closed-end channel were investigated following gate opening. Behavioral similarities between turbidity current and non-settling gravity currents were observed. Several properties, e.g. suspension concentration, showed exponential-type decay with distance. The ratio of sediment settling velocity to the densimetric velocity was found to be a useful parameter for comparing different test results. A relationship for estimating the sediment influx through the entrance is presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4099</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.98</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 98</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4099/3781</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

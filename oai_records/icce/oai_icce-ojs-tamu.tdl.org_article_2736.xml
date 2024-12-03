@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2736</identifier>
+				<datestamp>2021-01-20T03:54:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RESONANCE IN HARBORS OF ARBITRARY SHAPE</dc:title>
+	<dc:creator xml:lang="en">Lee, Jun-Jen</dc:creator>
+	<dc:creator xml:lang="en">Raichlen, Frederic</dc:creator>
+	<dc:subject xml:lang="en">harbor shape</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:subject xml:lang="en">resonance</dc:subject>
+	<dc:description xml:lang="en">A theory is presented for analyzing the wave induced oscillations in an arbitrary shape harbor with constant depth which is connected to the open-sea The solution is formulated as an integral equation which is then approximated by a matrix equation The final solution is obtained by equating, at the harbor entrance the wave amplitude and its normal derivative obtained from the solutions for the regions outside and inside the harbor The results of experiments conducted using a harbor model of the East and West Basins of Long Beach Harbor (Long Beach, California) are presented and compared to the theory Good agreement has been found between the theory and experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2736</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.131</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 131</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2736/2400</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

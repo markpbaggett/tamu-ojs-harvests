@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3431</identifier>
+				<datestamp>2021-01-19T23:49:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SURVEY OF "RANDOM" WAVE GENERATION TECHNIQUES</dc:title>
+	<dc:creator xml:lang="en">Ploeg, J.</dc:creator>
+	<dc:creator xml:lang="en">Funke, E.R.</dc:creator>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">wave generation</dc:subject>
+	<dc:subject xml:lang="en">technique survey</dc:subject>
+	<dc:description xml:lang="en">Techniques of producing waves in hydraulic models and laboratory flumes have evolved from the simple electrical-mechanical technique of some 15 years ago, to the present sophisticated hydraulic-electric servo systems, controlled by on-line computers and capable of producing a large number of different types of sea states. An accurate definition of the required sea state has become very important, since it has been shown that different types of wave trains, although all having the same significant wave heights and periods, can produce large differences in the results of model tests. Even a specification of the input spectrum, including all relevant spectral parameters, is not sufficient. The occurrance of wave groups, for instance, has to be defined separately. Table 1 illustrates which sea state parameters (A-E) need to be defined and controlled in the laboratory for different types of model studies (1-9). This is just shown as an example, and does not pretend to be a definitive statement. There exists presently a great variety of different techniques and methods to produce irregular waves and there is no assurance that testing the same model in different laboratories will give similar results. As a first step to address this problem, it was thought to be useful to determine the variety (or perhaps similarity) of all laboratory wave generation systems presently used. A discussion with representatives of a number of hydraulics laboratories and ship towing tanks in the spring of 1979 led to the organisation of a survey of wave generation and analysis systems. The results of the survey are shown in the same format as the questionnaire. A list of all institutes which participated is also included.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3431</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3431/3111</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

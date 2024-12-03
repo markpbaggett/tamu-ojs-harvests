@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6598</identifier>
+				<datestamp>2023-10-04T03:39:03Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NON-HYDROSTATIC MODELLING OF INFRAGRAVITY WAVES USING SWASH</dc:title>
+	<dc:creator xml:lang="en">Rijnsdorp, Dirk Pieter</dc:creator>
+	<dc:creator xml:lang="en">Smit, Pieter Bart</dc:creator>
+	<dc:creator xml:lang="en">Zijlema, Marcel</dc:creator>
+	<dc:subject xml:lang="en">infragravity waves</dc:subject>
+	<dc:subject xml:lang="en">non-hydrostatic modelling</dc:subject>
+	<dc:subject xml:lang="en">nearshore wave transformation</dc:subject>
+	<dc:subject xml:lang="en">SWASH</dc:subject>
+	<dc:description xml:lang="en">This paper presents numerical modelling of the nearshore transformation of infragravity waves induced by bichromatic wave groups over a horizontal and a sloping bottom. The non-hydrostatic model SWASH is assessed by comparing model predictions with analytical solutions over a horizontal bottom and with detailed laboratory observations for a sloping bottom. Good agreement between model predictions and data is found throughout the domain for bound infragravity waves. Furthermore the model predicts greater outgoing free infragravity wave-heights for steeper slope regimes which is consistent with the measurements. The model however tends to overestimate the magnitude of the outgoing infragravity waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-09-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6598</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6598/pdf_442</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

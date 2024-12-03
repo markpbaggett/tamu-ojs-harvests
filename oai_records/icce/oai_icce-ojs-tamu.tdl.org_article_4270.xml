@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4270</identifier>
+				<datestamp>2021-01-19T18:57:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPECTRAL WAVE ATTENUATION BY BOTTOM FRICTION: EXPERIMENTS</dc:title>
+	<dc:creator xml:lang="en">Madsen, Ole Secher</dc:creator>
+	<dc:creator xml:lang="en">Rosengaus, Moises Michel</dc:creator>
+	<dc:subject xml:lang="en">spectral wave</dc:subject>
+	<dc:subject xml:lang="en">wave attenuation</dc:subject>
+	<dc:subject xml:lang="en">bottom friction</dc:subject>
+	<dc:subject xml:lang="en">friction experiments</dc:subject>
+	<dc:description xml:lang="en">This paper presents a summary of carefully conducted laboratory experiments on sediment response and resulting wave attenuation for waves, periodic as well as simulating a wave spectrum, propagating over an 18-m-long bottom section covered by a 10-cm-thick layer of 0.2-mm-diameter quartz sand. The results for wave-generated bedform geometry as well as the equivalent Nikuradse roughness are obtained. The results show that the sediment response to the agitation of a wave spectrum may be approximately described by the sediment response to an equivalent periodic wave having the same root-mean-square near-bottom orbital velocity and excursion amplitude as the spectral wave. This equivalent wave, defined by the near-bottom characteristics of the spectral wave, is identical to that derived by Madsen et al. (1988) in the context of dissipation within the wave boundary layer. Although limited by the range of experimental conditions achieved in this study, the results obtained here and in the companion paper suggest a predictive methodology for the evaluation of spectral wave attenuation from knowledge of sediment and wave characteristics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4270</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4270/3951</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8405</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVING THE ACCURACY OF SURGE MODELS USING SUBGRID CORRECTIONS</dc:title>
+	<dc:creator xml:lang="en">Kennedy, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Wirasaet, Damrongsak</dc:creator>
+	<dc:creator xml:lang="en">Bolster, Diogo</dc:creator>
+	<dc:creator xml:lang="en">Dietrich, J. Casey</dc:creator>
+	<dc:description xml:lang="en">Modern storm surge models to predict hurricane water levels have gone in two opposite directions: (1) Low resolution, fast, models that may be run thousands of times as a storm approaches land; and (2) High resolution, more accurate, models that are largely used for planning and hindcasts, and are too slow for real-time ensemble forecasts. Differences in predictions between the two types of models are particularly large over flooded ground, which is most important for human activities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8405</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8405/7213</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

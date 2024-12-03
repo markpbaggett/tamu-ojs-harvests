@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12650</identifier>
+				<datestamp>2023-09-01T15:11:47Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHORELINE VARIATION OF AN ISLAND IN RESPONSE TO CHANGE IN WAVE DIRECTION </dc:title>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Noshi, Yasuhito</dc:creator>
+	<dc:creator xml:lang="en">Yokota, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Sekine , Masato</dc:creator>
+	<dc:description xml:lang="en">We selected Komaka Island located 3 km offshore of Chinen Peninsula in Okinawa and surrounded by coral reef as a study site, and we conducted field observation of the shoreline changes on this coral cay on 13 July 2019, and the shoreline changes were investigated using satellite images. The shape of the sandbar behind the island was classified into one of three types (circular, slender oval, and elongated oval). Then, the changes in the sandbar were numerically simulated using the modified BG model (a model for predicting 3-D beach changes based on Bagnold’s concept). In this model, waves were assumed to be incident from every direction so as to focus at the center of the circular island. Under this condition, the distribution of the wave diffraction coefficient Kd was assumed, taking the wave-sheltering effect of the cay into account, and longshore sand transport was assumed to be induced owing to the change in Kd in the direction normal to the wave direction. The results of numerical simulation explained well the deformation of the sandbar on Komaka Island. </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12650</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12650/11923</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Takaaki Uda, Yasuhito Noshi, Takuya Yokota, Masato Sekine </dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

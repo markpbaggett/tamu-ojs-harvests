@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6436</identifier>
+				<datestamp>2021-01-19T07:42:38Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL FOR PREDICTING BEACH CHANGES USING CELLULAR AUTOMATON METHOD</dc:title>
+	<dc:creator xml:lang="en">Endo, Masatoshi</dc:creator>
+	<dc:creator xml:lang="en">Kobayash, A.</dc:creator>
+	<dc:creator xml:lang="en">Uda, T.</dc:creator>
+	<dc:creator xml:lang="en">Serizawa, M.</dc:creator>
+	<dc:creator xml:lang="en">Noshi, Y.</dc:creator>
+	<dc:subject xml:lang="en">cellular automaton</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">bech changes</dc:subject>
+	<dc:description xml:lang="en">Sand deposition on the gently-sloping revetment, the slope of which is steeper than the equilibrium slope of sand, is often observed when storm waves ran up the beach. Serizawa et al. (2006) have developed the BG model, in which the cross-shore sand transport depends on the balance between the equilibrium slope of sand and the local slope of the beach, and seaward sand transport will occur when the local slope of the beach or the structure is larger than the equilibrium slope. This implies that shoreward sand transport on the slope steeper than the equilibrium slope of sand cannot be predicted by the BG model. This is because the fundamental equation of the BG model is expressed by the net sand transport defined by the sum of the sand transport under the ongoing and outgoing waves. In this study, sand transport under the ongoing and outgoing waves is independently taken into account, and a new model for predicting beach changes is developed using the cellular automaton method.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-11</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6436</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6436/pdf_474</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6436/7769</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1418</identifier>
+				<datestamp>2023-10-04T03:42:59Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LOADS ON WIND TURBINES ACCESS PLATFORMS WITH GRATINGS</dc:title>
+	<dc:creator xml:lang="en">Lykke Andersen, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Frigaard, Peter</dc:creator>
+	<dc:creator xml:lang="en">Rasmussen, Michael R</dc:creator>
+	<dc:creator xml:lang="en">Martinelli, Luca</dc:creator>
+	<dc:subject xml:lang="en">offshore wind</dc:subject>
+	<dc:subject xml:lang="en">run-up</dc:subject>
+	<dc:subject xml:lang="en">slamming</dc:subject>
+	<dc:subject xml:lang="en">entrance platforms</dc:subject>
+	<dc:subject xml:lang="en">grates</dc:subject>
+	<dc:subject xml:lang="en">large scale tests</dc:subject>
+	<dc:description xml:lang="en">The present paper deals with loads on wind turbine access platforms. The many planned new wind turbine parks together with the observed damages on platforms in several existing parks make the topic very important. The paper gives an overview of recently developed design formulae for different types of entrance platforms. Moreover, the paper present new results on loads on grates based on both drag coefficient measurements and preliminary results on
+slamming from large scale tests. As expected both investigations show that platforms with grates give a significant reduction in the loads compared to closed plate platforms. The grate multiplication factor, defined as the peak load on the grate platform relative to the peak load on a closed plate platform was found approximately equal to the solidity of the grate.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1418</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1418/pdf_377</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

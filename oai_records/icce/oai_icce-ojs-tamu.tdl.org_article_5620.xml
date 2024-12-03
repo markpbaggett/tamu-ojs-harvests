@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5620</identifier>
+				<datestamp>2021-01-19T11:20:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LINEAR AND NONLINEAR MODELING OF LONG WAVES PROPAGATING AROUND CHANNEL BENDS</dc:title>
+	<dc:creator xml:lang="en">Shi, Aimin</dc:creator>
+	<dc:creator xml:lang="en">Teng, Michelle H.</dc:creator>
+	<dc:subject xml:lang="en">channel</dc:subject>
+	<dc:subject xml:lang="en">channel bend</dc:subject>
+	<dc:subject xml:lang="en">wave modeling</dc:subject>
+	<dc:subject xml:lang="en">linear waves</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:description xml:lang="en">In the present study, the transmission and reflection of long waves traveling through right-angled channel bends of constant depth and width are investigated by using numerical simulation based on the linear and nondispersive long wave equations. The present linear results are compared with the results obtained by Shi, Teng and Wu (1998) based on the weakly nonlinear and dispersive Boussinesq equations. The objective is to examine the difference between linear and nonlinear modeling of long waves propagating through curved channels.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5620</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5620/5292</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3263</identifier>
+				<datestamp>2021-01-20T00:42:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE USE OF IMAGING RADAR IN STUDYING OCEAN WAVES</dc:title>
+	<dc:creator xml:lang="en">Mattie, M.G.</dc:creator>
+	<dc:creator xml:lang="en">Harris, D. Lee</dc:creator>
+	<dc:subject xml:lang="en">imaging radar</dc:subject>
+	<dc:subject xml:lang="en">radar</dc:subject>
+	<dc:subject xml:lang="en">ocean waves</dc:subject>
+	<dc:description xml:lang="en">Imaging radar can be used to provide information about the two dimensional character of the wave field. This is especially important near shore where the effects of refraction and shoaling interfere with the simple interpretation of a directional spectrum based on records from a network of gages. Imaging radar has the advantages of providing full two-dimensional information of the type provided by aerial photography and of being available continuously, including night time and during storms. Imaging radar, of course, also has some disadvantages when compared to other data gathering systems. Specifically, the imaging radar does not provide a measure of wave height. It does not provide as much resolution as aerial photography and the shorter waves of interest may be missed. The most important disadvantage is that short ripples are essential to the detection of long waves, hence swell is not detected outside the breaker zone when the wind is calm or the high frequency waves are inhibited by oil slicks. Several characteristics of the radar images of waves, as compared to aerial photography, are illustrated in Figure 1. Note the similarity of the wave patterns in the radar image and the aerial photograph. The image does not show any features of the land. The location of the radar is shown on the aerial photography by an "X". Ijima et al (1964) and Wright (1965) appear to have been among the first to report the use of radar for imaging ocean waves. Oudshoorn (1960), Wills and Beaumont (1971), Evmenov et al (1973) and others have published photographs of a radar scope showing waves. This report differs from earlier papers on this topic by providing a discussion of practical procedures for overcoming some o£ the more mundane technical difficulties associated with routine data collection.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3263</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3263/2927</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

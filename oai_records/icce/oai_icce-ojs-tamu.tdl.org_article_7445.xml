@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7445</identifier>
+				<datestamp>2021-01-19T04:40:08Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF IRREGULAR WAVE-CURRENT-MUD INTERACTION</dc:title>
+	<dc:creator xml:lang="en">Soltanpour, Mohsen</dc:creator>
+	<dc:creator xml:lang="en">Samsami, Farzin</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Yamao, Sho</dc:creator>
+	<dc:subject xml:lang="en">Wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">fluid mud</dc:subject>
+	<dc:subject xml:lang="en">wave dissipation</dc:subject>
+	<dc:subject xml:lang="en">wave flume experiments</dc:subject>
+	<dc:description xml:lang="en">The dissipation of regular and irregular waves on a muddy bed with the existence of following and opposing currents are investigated through a series of wave flume laboratory experiments.  The commercial kaolinite is used as fluid mud layer.  The laboratory results show the increase of both regular and irregular wave heights due to opposing currents. On the other hand, the following currents result to the decrease of the wave heights. In the numerical treatment, the deformation of wave due to current was first calculated based on the conservation equation of wave action and then the attenuation of this deformed wave due to the muddy bed is simulated by a multi-layered wave-mud interaction model. Acceptable agreements were observed between the numerical results and laboratory data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7445</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7445/pdf_763</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

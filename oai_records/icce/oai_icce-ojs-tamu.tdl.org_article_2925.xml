@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2925</identifier>
+				<datestamp>2021-01-20T02:42:56Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD MEASUREMENTS OF NEARSHORE VELOCITIES</dc:title>
+	<dc:creator xml:lang="en">Huntley, David A.</dc:creator>
+	<dc:creator xml:lang="en">Bowen, Anthony J.</dc:creator>
+	<dc:subject xml:lang="en">nearshore velocity</dc:subject>
+	<dc:subject xml:lang="en">field measurement</dc:subject>
+	<dc:description xml:lang="en">Two component electromagnetic flowmeters are being used as the basis of an apparatus to measure nearshore velocities on natural beaches. The flowmeters are mounted on free standing tripods, 1 m. base side and 0.3 m. high, to measure the two components of horizontal flow, and have been used in depths of up to 4 m. and up to 150 m. from the shoreline. The apparatus has proved both flexible and reliable on beaches ranging from steep shingle (slope ^ 0.13) to very shallow sand (slope'*' 0.01) and under a wide variety of wave conditions, including full storm waves on a beach of intermediate slope ( ^ 0.04). Results show that a single flowmeter can be used on a tidal beach to measure the variation of the flow field along a line perpendicular to the shoreline. In this way edge waves and steady nearshore circulation patterns have been detected. If several flowmeters are placed on a line perpendicular to the shoreline, the progress of individual waves can be followed as they pass over each flowmeter in turn, and hence propagation speeds, changes of wave form and the development of lower frequency wave motion close to the shoreline can be studied.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2925</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2925/2590</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

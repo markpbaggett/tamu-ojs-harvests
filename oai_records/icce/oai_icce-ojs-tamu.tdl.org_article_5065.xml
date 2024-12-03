@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5065</identifier>
+				<datestamp>2021-01-19T14:26:26Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND EFFECTS ON RUNUP AND OVERTOPPING</dc:title>
+	<dc:creator xml:lang="en">Ward, Donald L.</dc:creator>
+	<dc:creator xml:lang="en">Wibner, Christopher G.</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Jun</dc:creator>
+	<dc:creator xml:lang="en">Edge, Billy</dc:creator>
+	<dc:subject xml:lang="en">run up</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">wind effects</dc:subject>
+	<dc:description xml:lang="en">The maximum distance a wave may travel up the face of a coastal structure, or rate of overtopping if runup exceeds structure crest elevation, are critical parameters in planning and design of a coastal structure. Runup and overtopping are usually estimated by empirical equations based on physical model studies that do not include the effects of strong onshore winds that are typically present during design storm conditions. While it is generally assumed that onshore winds will increase runup and overtopping over no-wind conditions, there is currently no means of accurately calculating effects of these winds on runup and overtopping. A joint research project by US Army Corps of Engineers and Texas A&amp;M University (TAMU) is currently investigating wind effects on runup and overtopping of revetments and vertical walls through a series of physical model studies conducted in a combined wind/wave flume at TAMU. Initial tests measured runup and overtopping rates on a 1:3 smooth revetment for a range of incident monochromatic wave conditions, with wind speeds varying from no wind to maximum blower output. With the addition of wind, large increases in runup and overtopping were recorded over the no wind condition. The combined wind/wave spectrum recorded during tests with wind was then reproduced mechanically.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5065</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5065/4743</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

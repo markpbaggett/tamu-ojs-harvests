@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2999</identifier>
+				<datestamp>2021-01-20T02:16:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACT PRESSURES PRODUCED BY BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Ackerman, Norbert L.</dc:creator>
+	<dc:creator xml:lang="en">Chen, Ping-Ho</dc:creator>
+	<dc:subject xml:lang="en">impact pressure</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:description xml:lang="en">Experiments were conducted in a vacuum tank in order to investigate the effect which entrained air has on impact loads which are produced when waves break upon a structure. In these experiments a flat plate was dropped onto a still water surface in an environment where the ambient pressure of the surrounding air could be controlled. Rings of varying height were fixed to the surface of the falling plate in order to trap different volumes of air between the falling plate and the water, Experimentally determined values were obtained of the maximum pressure pmax when the plate struck the water surface for various ring heights 6 and ambient pressures p0 in the vacuum tank. Experimental results indicate that the pressure rise or shock pressure Ps ~ (Pmax~Po) decreased with reductions in the ambient pressure and volume of entrapped air. Even when air was removed such that the absolute pressure in the tank was equal to the vapor pressure of the water, water hammer conditions, where the peak pressures depend upon the celerity of sound waves in the media, were never found to occur.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2999</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.104</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 104</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2999/2664</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

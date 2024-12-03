@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6561</identifier>
+				<datestamp>2023-10-04T03:19:37Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE USE OF SPATIAL RADAR OBSERVATIONS IN WAVE HINDCASTS</dc:title>
+	<dc:creator xml:lang="en">Gautier, Caroline</dc:creator>
+	<dc:creator xml:lang="en">Groeneweg, Jacco</dc:creator>
+	<dc:subject xml:lang="en">X-band radar</dc:subject>
+	<dc:subject xml:lang="en">remote sensing</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">wave observations</dc:subject>
+	<dc:subject xml:lang="en">Wadden Sea</dc:subject>
+	<dc:description xml:lang="en">Ten years ago, an extensive measurement has been set up in the tidal inlet of Ameland, to obtain validation data in tidal inlets. Then the focus was on buoy measurements. In addition to these scarce point measurements wave radar data became available two years ago. The aim of this paper is to gain insight in the use and reliability of the wave radar data by comparing the radar data with SWAN model results in a storm hindcast in the Wadden Sea. In order to use the SWAN results as a benchmark the SWAN model performance was assessed first by comparing the model results with buoy measurements. In the comparison between radar and SWAN, the wave direction is considered, as well as the spectral distribution. Consistent results give confidence in both radar data and SWAN results. In general, the radar data seems to be reliable. An exception on this are regions with large bed gradients and small wave heights. At many locations, the wave spectra turn out to be bimodal. This makes it difficult to catch the wave direction in one value. In these cases, it is better to consider the full 2d spectra. The study has given insight into the quality and usefulness of the radar data. The radar observations provide an interesting data source, in addition to buoy data. Based on the first experiences with the radar data we believe that in the future the radar will be a reliable source for spatial wave data, providing proper insight in the wave models being applied in a complex area like the tidal inlet of Ameland. This will improve the prediction of extreme current and wave conditions in the Wadden Sea and thus decrease uncertainties in the safety assessments of our flood defense structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6561</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6561/pdf_558</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7792</identifier>
+				<datestamp>2021-01-20T04:02:06Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSMENT OF FAST SPECTRAL WAVE TRANSFER METHODOLOGIES FROM DEEP TO SHALLOW WATERS IN THE FRAMEWORK OF ENERGY RESOURCE QUANTIFICATION IN THE CHILEAN COAST</dc:title>
+	<dc:creator xml:lang="en">Dominguez, Juan Carlos</dc:creator>
+	<dc:creator xml:lang="en">Cienfuegos, Rodrigo</dc:creator>
+	<dc:creator xml:lang="en">Catalán, Patricio</dc:creator>
+	<dc:creator xml:lang="en">Zamorano, Luis</dc:creator>
+	<dc:creator xml:lang="en">Lucero, Felipe</dc:creator>
+	<dc:subject xml:lang="en">wave modeling</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">wave transfer</dc:subject>
+	<dc:subject xml:lang="en">spectral reconstruction</dc:subject>
+	<dc:subject xml:lang="en">parametric reconstruction</dc:subject>
+	<dc:description xml:lang="en">Alternative wave transfer methodologies from deep to shallow water that aim at reducing the computational time in cases where the full propagation of a large number of wave climates is often prohibitive are defined and tested against full spectral propagation using complex measured wave climates. A proposed method is presented in this work which is able to accurately reproduce the shape transformation of directional spectra while significantly reducing the computational time. Another transfer method is also validated, which can achieve relatively good results when there is no spectral information and only statistical wave parameters (e.g. significant wave height, peak period and mean wave direction) are available. Finally, an application of the proposed method in the framework of energy resource quantification in Chile is presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7792</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7792/pdf_896</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

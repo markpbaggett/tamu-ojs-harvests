@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10289</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEFECT FUNCTION MODELS FOR THE WAVE BOUNDARY LAYERS</dc:title>
+	<dc:creator xml:lang="en">Teng, Yunfei</dc:creator>
+	<dc:creator xml:lang="en">Lu, Lin</dc:creator>
+	<dc:creator xml:lang="en">Tong, Liang Cheng, Feifei</dc:creator>
+	<dc:creator xml:lang="en">Tang, Guoqiang</dc:creator>
+	<dc:description xml:lang="en">The boundary layer flow induced by surface waves has been extensively investigated due to its significance in engineering applications such as sediment transport and hydrodynamic forces on subsea structures. Several forms of defect functions (referred to as DF hereafter) were developed in the past decades, e.g. Sleath (1970, 1982), Nielsen (1985, 2016) and etc., due to their good efficiency in the description of the velocity distribution in one dimensional wave boundary layer (WBL). In this work, two forms of DFs are proposed: (i) DF-I describes the velocity distributions and bottom shear stresses in phase space with 4 model parameters; (ii) DF-II describes the maximum WBL profile with 3 model parameters. A number of datasets to support the validation of the DFs were obtained through experimental and numerical tests. Two sets of experiments were conducted individually in a free-surface-wave flume located in Dalian University of Technology and an oscillating-flow flume located in the University of Western Australia. For the free surface wave tests, the velocity was measured.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/RK-z0Q8rTjk</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10289</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10289/9575</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Yunfei Teng, Lin Lu, Liang Cheng, Feifei Tong, Guoqiang Tang</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

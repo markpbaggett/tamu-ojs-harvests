@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6913</identifier>
+				<datestamp>2023-10-04T02:22:06Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RUNUP PREDICTION FOR FLOOD MAPPING</dc:title>
+	<dc:creator xml:lang="en">Melby, Jeffrey</dc:creator>
+	<dc:creator xml:lang="en">Caraballo-Nadal, Norberto</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:subject xml:lang="en">wave runup</dc:subject>
+	<dc:subject xml:lang="en">wave setup</dc:subject>
+	<dc:subject xml:lang="en">flood mapping</dc:subject>
+	<dc:subject xml:lang="en">coastal flood</dc:subject>
+	<dc:subject xml:lang="en">CSHORE</dc:subject>
+	<dc:description xml:lang="en">Wave runup determines the extent over which waves act. Wave runup is therefore an important parameter to determine flood inundation extents from coastal storms. Cross-shore and longshore sediment transport are a function of the hydrodynamics on the beach and are therefore related to wave runup. Several benchmark wave runup data sets are summarized and used to evaluate the available tools for predicting wave runup for flood hazard assessment. Benchmark data span a range of shoreline conditions including sandy beaches on the Pacific and Atlantic coasts, dissipative to reflective beaches, as well as structures ranging from impermeable smooth levees to rough permeable rubble mounds. Data include laboratory and prototype measurements. Tools for predicting wave runup are analyzed including empirical equations, computer programs based on empirical equations, and the CSHORE time-averaged cross-shore model. Most of the tools show fairly high degrees of skill but some do not. The study recommends using CSHORE to model runup for most beach and structure conditions. However, CSHORE is not likely to predict wave runup on infragravity-dominated dissipative beaches well. For these cases, it is recommended that one of the recommended empirical equations for beaches be used.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6913</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.79</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.79</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6913/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

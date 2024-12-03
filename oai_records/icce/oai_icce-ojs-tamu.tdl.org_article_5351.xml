@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5351</identifier>
+				<datestamp>2021-01-19T12:49:59Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AGING AND STABILITY OF PLACED BLOCK REVETMENTS</dc:title>
+	<dc:creator xml:lang="en">Stoutjesdijk, Theo</dc:creator>
+	<dc:creator xml:lang="en">Johanson, Hans</dc:creator>
+	<dc:creator xml:lang="en">Breteler, Mark Klein</dc:creator>
+	<dc:subject xml:lang="en">block revetments</dc:subject>
+	<dc:subject xml:lang="en">revetment stability</dc:subject>
+	<dc:subject xml:lang="en">revetment aging</dc:subject>
+	<dc:description xml:lang="en">Since the early 1980's fundamental research on the behaviour of placed block revetments has been carried out in the Netherlands. This research has focussed on understanding the physics of this particular revetment type, which has resulted in emperical (Pilarczyk, 1985), analytical (Burger et al, 1990) and numerical (Bezuijen et al, 1987) design methods. These methods have been tested extensively in large and small scale model tests (for instance Klein Breteler, 1988, den Boer et al, 1983). During the last years extensive field research has been carried out (Stoutjesdijk, 1992). This research has shown that a large difference in physical behaviour can exist between newly placed revetments or large scale models, and older ('aged') revetments in the field. To investigate this phenomenom further, field work, laboratory tests and modelling efforts have been carried out. This paper describes the current state of affairs. Purpose of this research is to quantify the net effect of aging on the stability of placed block revetments. If the net effect proves to be positive, it may prove possible to upgrade the stability of revetments by artificial simulation of aging effects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5351</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5351/5029</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

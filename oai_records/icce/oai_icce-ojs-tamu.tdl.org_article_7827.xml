@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7827</identifier>
+				<datestamp>2021-01-20T03:57:42Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUSPENDED PARTICLE DYNAMICS IN A WELL-MIXED ESTUARY: DEVIATIONS FROM MORPHODYNAMIC EQUILIBRIUM</dc:title>
+	<dc:creator xml:lang="en">Díez-Minguito, Manuel</dc:creator>
+	<dc:creator xml:lang="en">Ortega-Sánchez, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Baquerizo, Asunción</dc:creator>
+	<dc:creator xml:lang="en">de Swart, Huib E.</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel A.</dc:creator>
+	<dc:subject xml:lang="en">Guadalquivir Estuary</dc:subject>
+	<dc:subject xml:lang="en">Suspended Sediment Transport</dc:subject>
+	<dc:subject xml:lang="en">Estuarine Turbidity Maxima</dc:subject>
+	<dc:subject xml:lang="en">Box Model</dc:subject>
+	<dc:subject xml:lang="en">Morphodynamic Equilibrium</dc:subject>
+	<dc:description xml:lang="en">This paper presents an analysis of turbidity and suspended sediment transport during low river flows in the Guadalquivir river estuary (Spain). The distribution and sources of the suspended particulate matter (SPM) are identified. The analysis of the transport rates allow us to devise a semi-analytical model for transport of SPM in well-mixed estuaries. The model solves the mass balance equation for SPM on a tidally-averaged timescale. The main inputs are the along channel transport rates and the vertical turbulent difusion cofecients at several locations. The model is applied to the Guadalquivir estuary, where a comprehensive monitoring network was installed from 2008 to 2011. Its application to this estuary allows to check how the SPM concentrations in different reaches of the estuary deviate from their equilibrium values. The results indicate that erosion is dominant in the stretches near to the mouth and that the estuary seems to move towards equilibrium during weak tidal forcing conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7827</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7827/pdf_910</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

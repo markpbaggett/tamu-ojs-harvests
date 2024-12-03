@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1162</identifier>
+				<datestamp>2023-10-04T04:07:32Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-DIMENSIONAL NUMERICAL ANALYSIS ON DEFORMATION OF RUN-UP TSUNAMI AND TSUNAMI FORCE ACTING ON SQUARE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Nakamura, Tomoaki</dc:creator>
+	<dc:creator xml:lang="en">Mizutani, Norimi</dc:creator>
+	<dc:creator xml:lang="en">Fujima, Koji</dc:creator>
+	<dc:subject xml:lang="en">three-dimensional numerical model</dc:subject>
+	<dc:subject xml:lang="en">run-up tsunami</dc:subject>
+	<dc:subject xml:lang="en">tsunami force</dc:subject>
+	<dc:subject xml:lang="en">structure</dc:subject>
+	<dc:subject xml:lang="en">vortex</dc:subject>
+	<dc:description xml:lang="en">A three-dimensional two-way coupled fluid-sediment interaction model (FSM) is applied to investigate run-up tsunami deformation and tsunami force acting on square structures on land.  The FSM consists of a generalized Navier-Stokes solver (GNS) for multi-phase flow including porous flow, a volume of fluid module (VFM) for air-water interface tracking, and a sediment transport module (STM) for fluid-sediment interface tracking.  In the FSM, a two-way coupling procedure is implemented at each time step to connect the GNS with the VFM and the STM.  The predictive capability of the FSM is demonstrated through comparison between numerical results and experimental data in terms of water surface elevation, inundation depth, and tsunami force.  The process of tsunami run-up in the presence of square structures is investigated in terms of vortex structures.  The result shows that the FSM is a useful tool providing detailed information in discussing run-up tsunami deformation and tsunami force.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1162</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1162/pdf_221</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

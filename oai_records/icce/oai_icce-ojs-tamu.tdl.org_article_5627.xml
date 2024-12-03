@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5627</identifier>
+				<datestamp>2021-01-19T11:17:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATIONS OF DIRECTIONALLY SPREAD SHOALING SURFACE GRAVITY WAVES</dc:title>
+	<dc:creator xml:lang="en">Becq, Francoise</dc:creator>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:creator xml:lang="en">Forget, Philippe</dc:creator>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">gravity waves</dc:subject>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:description xml:lang="en">The study aims at investigating the non-linear triad interaction process affecting shoaling surface gravity wave fields in shallow water areas. Attention is specifically paid to analyse the effects of these second-order non-linearities on the directional distribution of incident waves. A stochastic approach was chosen to model the triad interaction process. Three source terms have been implemented in the spectral wave model TOMAWAC developed at the Laboratoire National d'Hydraulique (LNH). The model results are compared to the laboratory data of Nwogu (1994).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5627</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5627/5299</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

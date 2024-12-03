@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4033</identifier>
+				<datestamp>2021-01-19T20:18:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION OF WATER PARTICLE VELOCITIES OF SHALLOW WATER WAVES BY A MODIFIED TRANSFER FUNCTION METHOD</dc:title>
+	<dc:creator xml:lang="en">Koyama, Hirofumi</dc:creator>
+	<dc:creator xml:lang="en">Iwata, Koichiro</dc:creator>
+	<dc:subject xml:lang="en">particle velocity</dc:subject>
+	<dc:subject xml:lang="en">velocity estimation</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">modified transfer function</dc:subject>
+	<dc:description xml:lang="en">This paper Is intended to propose a simple, yet highly reliable approximate method which uses a modified transfer function in order to evaluate the water particle velocity of finite amplitude waves at shallow water depth in regular and irregular wave environments. Using Dean's stream function theory, the linear function is modified so as to include the nonlinear effect of finite amplitude wave. The approximate method proposed here employs the modified transfer function. Laboratory experiments have been carried out to examine the validity of the proposed method. The approximate method is shown to estimate well the experimental values, as accurately as Dean's stream function method, although its calculation procedure is much simpler than that of Dean's method.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4033</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4033/3716</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

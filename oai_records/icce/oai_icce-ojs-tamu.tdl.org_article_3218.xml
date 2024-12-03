@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3218</identifier>
+				<datestamp>2021-01-20T00:58:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BUOYANCY-DRIVEN GRAVITATIONAL SPREADING</dc:title>
+	<dc:creator xml:lang="en">Koh, Robert C.Y.</dc:creator>
+	<dc:subject xml:lang="en">spreading</dc:subject>
+	<dc:subject xml:lang="en">buoyancy</dc:subject>
+	<dc:subject xml:lang="en">buoyancy spreading</dc:subject>
+	<dc:description xml:lang="en">It frequently occurs in environmental fluid mechanics that a mass of less heavy fluid spreads horizontally on top of a heavier one or a more homogeneous parcel of fluid spreads within a stratified one. Examples of such phenomena include spreading of diluted sewage effluent either at the surface or in a submerged layer, the spreading of heated effluent discharged from power plants, and the spreading of oil on the surface of the sea. The general problem is rather complex, being influenced not only by the buoyancy but also by momentum, ambient turbulence and flow, surface tension, waves, wind and other complicating factors. This paper attempts to examine gravitational buoyancy-driven flow in a homogeneous otherwise motionless ambient by casting it in the form of an initial value problem. Several assumptions are made and two empirical coefficients are introduced which must be determined from experiments. Experimental data are also presented, compared with the results of the analysis and the empirical coefficients determined. Previous investigations on similar problems include Sharp (1969, 1971), Koh and Fan (1968, 1969, 1971), and Koh and Chang (1973).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3218</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.168</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 168</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3218/2882</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

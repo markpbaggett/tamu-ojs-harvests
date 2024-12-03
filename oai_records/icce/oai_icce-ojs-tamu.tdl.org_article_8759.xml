@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8759</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A MULTIVARIATE STATISTICAL MODEL TO SIMULATE STORM EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Lira-Loarca, Andrea</dc:creator>
+	<dc:creator xml:lang="en">Cobos, Manuel</dc:creator>
+	<dc:creator xml:lang="en">Baquerizo, Asunción</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel A.</dc:creator>
+	<dc:description xml:lang="en">The design and management of a coastal structure must take into account not only the different levels of damage along its useful life but also the construction, reparation and dismantling costs. Therefore, it should be addressed as an optimization problem that depends on random multivariate climate variables. In this context it is essential to develop tools that allow the simulation of storms taking into account all the main maritime variables and their evolution (Borgman, 1969). In general, most studies focusing on storm characterization and evolution use geometric shapes like the equivalent triangular storm (Bocotti, 2000; ROM-1.0; 2009) to characterize individual storms. Actual storms have, however, irregular and random histories. In this work, we present a simple and efficient methodology to simulate time-series of storm events including several maritime variables. This methodology includes the use of non-stationary parametric distributions (Solari, 2011) to characterize each variable, a vector autoregressive (VAR) model to describe the temporal dependence between variables, and a copula model to link the seasonal dependency of the storm duration and the interarrival time between consecutive storms.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8759</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.84</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.84</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8759/7560</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8759/8120</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

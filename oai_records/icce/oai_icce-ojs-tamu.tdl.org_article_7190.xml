@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7190</identifier>
+				<datestamp>2021-01-19T05:08:09Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOE STABILITY OF RUBBLE MOUND BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">van Gent, Marcel</dc:creator>
+	<dc:creator xml:lang="en">van der Werf, Ivo</dc:creator>
+	<dc:subject xml:lang="en">coastal structures</dc:subject>
+	<dc:subject xml:lang="en">breakwaters</dc:subject>
+	<dc:subject xml:lang="en">toe structures</dc:subject>
+	<dc:subject xml:lang="en">toe blocks</dc:subject>
+	<dc:subject xml:lang="en">rock slopes</dc:subject>
+	<dc:subject xml:lang="en">cubes</dc:subject>
+	<dc:subject xml:lang="en">physical model tests</dc:subject>
+	<dc:subject xml:lang="en">design formula</dc:subject>
+	<dc:description xml:lang="en">The toe of rubble mound structures is important since toe structures need to provide support to the armour layer and prevent scour to occur directly beneath the armour layer. In Van Gent and Van der Werf (2014) an expression for the prediction of the required stone size in toe structures has been derived. This prediction formula was derived for toe structures that consist of rock in combination with rock slopes. Additional tests have been performed a) to analyse the influence of the slope of the rock armour layer, b) to analyse the influence of the roughness of the armour layer, and c) to analyse the potential use of interlocking toe blocks, either in combination with rock slopes or slopes that consist of Cubes in a single layer. It appeared that the derived prediction method is accurate for 1:1.5 slopes and 1:2 slopes, that the roughness of the slope plays an important role and can be incorporated in the prediction method as well, and that interlocking toe blocks with a V-shape are an alternative to rock toe structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7190</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7190/pdf_677</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

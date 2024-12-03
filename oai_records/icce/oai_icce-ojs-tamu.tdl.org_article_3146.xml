@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3146</identifier>
+				<datestamp>2021-01-20T01:24:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERISTICS OF TIDAL INLETS ON THE PACIFIC COAST OF JAPAN</dc:title>
+	<dc:creator xml:lang="en">Shigemura, Toshiyuki</dc:creator>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">Pacific Ocean</dc:subject>
+	<dc:subject xml:lang="en">inlet characterization</dc:subject>
+	<dc:description xml:lang="en">Tidal inlets on the Pacific coast of Japan were studied with respect to three characteristic variables of the throat section:(1) Throat area, A;(2) Throat width, B; and (3) Direction of throat section,0-t-s. For each of these three variables, multiple regression analysis was performed stepwise by introducing external variables such as tidal prism, mean flow rate of tidal flow, wind energy, wave energy and so on into a linear regression model. Exposure condition of throat section to open sea was also introduced into the analysis. First step analysis derived quite reliable result on the direction of throat section: n ,, , ,. n ,, ,,,, . ,, , ,, ,,,,, ' 0ts(degree) = -60.0 + 0.88 Gp^(degree) , r=0.964 where OpWv i-s the direction of wave energy which penetrates into a backed bay through tidal inlet and r the correlation coefficient between 0ts and Spwy However, results on both throat area and throat width were not satisfactory enough even after the performance of more than eighth step analysis on them. Similar analysis was further performed on both throat area and throat width of the classified data due to the magnitude of geometrical parameters ras and rhxb respectively, where ras is the ratio of throat area to mean surface area of backed bay and rhxjj the ratio of the maximum depth at the throat section to throat width. As a result, the former regressions on both throat area and throat width were improved remarkably. Multiple correlation of the regressions were all greater than 0.930.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3146</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.96</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 96</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3146/2810</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

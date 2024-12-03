@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6804</identifier>
+				<datestamp>2023-10-04T02:36:12Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GRAVEL BEACH PROFILE EVOLUTION IN WAVE AND TIDAL ENVIRONMENTS</dc:title>
+	<dc:creator xml:lang="en">Jamal, Mohamad Hidayat</dc:creator>
+	<dc:creator xml:lang="en">Simmonds, David J.</dc:creator>
+	<dc:creator xml:lang="en">Magar, Vanesa</dc:creator>
+	<dc:subject xml:lang="en">gravel beach</dc:subject>
+	<dc:subject xml:lang="en">tides</dc:subject>
+	<dc:subject xml:lang="en">infiltration</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:description xml:lang="en">This paper reports progress made in modifying and applying the X-Beach code to predict and explain the observed behaviour of coarse grained beaches. In a previous study a comparison of beach profile evolution measured during large scale experiments under constant water level with numerical model simulations was made. This placed particular emphasis on the tendency for onshore transport and profile steepening during calm conditions (Jamal et al., 2010).  The present paper extends that investigation to study the influence of the advection of surf processes induced by tidal water level variations effects, on gravel beach profile evolution. The parameter values and numerical model used in the simulation is similar to that presented previously. It is assumed that, to good approximation, the groundwater interface inside the beach follows the tidally modulated water level. The results obtained from the model shows that the model provides reasonable simulations of beach profile change in a tidal environment. In comparison with simulations under stationary water levels, a larger berm is produced in agreement with literature.  Finally, good agreement is obtained between the model simulations and an example of field observations from a beach at Milford on Sea, UK.  Further developments are outlined for future work.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6804</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6804/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

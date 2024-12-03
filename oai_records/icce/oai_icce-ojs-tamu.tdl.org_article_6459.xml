@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6459</identifier>
+				<datestamp>2023-10-04T03:33:07Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF A NEW SAND TRANSPORT FORMULA WITHIN THE CROSS-SHORE MORPHODYNAMIC MODEL UNIBEST-TC</dc:title>
+	<dc:creator xml:lang="en">van der Werf, Jebbe</dc:creator>
+	<dc:creator xml:lang="en">Nomden, Harm</dc:creator>
+	<dc:creator xml:lang="en">Ribberink, Jan</dc:creator>
+	<dc:creator xml:lang="en">Walstra, Dirk-Jan</dc:creator>
+	<dc:creator xml:lang="en">Kranenburg, Wouter</dc:creator>
+	<dc:subject xml:lang="en">morphodynamic modeling</dc:subject>
+	<dc:subject xml:lang="en">sand transport</dc:subject>
+	<dc:subject xml:lang="en">sand transport formulas</dc:subject>
+	<dc:subject xml:lang="en">wave flume experiments</dc:subject>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:description xml:lang="en">In this paper, we have implemented and tested the new SANTOSS sand transport formula with the cross-shore morphodynamic model UNIBEST-TC using data from the LIP and Grasso wave flume experiments. It is shown that the total net sand transport is a delicate balance between wave- and current-related transport in the wave boundary layer (which can be on- or offshore-directed) and offshore-directed current-related suspended load above it. The change from onshore to offshore net transport for the two Grasso cases was reproduced by the SANTOSS model and seems to be due to the increasing importance of phase-lags between intra-wave velocities and sand concentrations. More generally, measured net sand transport rates are reasonably well reproduced by the SANTOSS formula outside the surf zone if orbital velocities and ripple heights are predicted correctly and phase-lags between velocities and suspended sand concentrations are accounted for.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-11</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6459</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6459/pdf_477</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

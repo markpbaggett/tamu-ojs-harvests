@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8386</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COUPLED COASTAL TOWN RISK FRAMEWORK TO EVALUATE MANAGEMENT DECISIONS</dc:title>
+	<dc:creator xml:lang="en">Karanci, Ayse</dc:creator>
+	<dc:creator xml:lang="en">Dietrich, Casey</dc:creator>
+	<dc:description xml:lang="en">Past research has shown feedback between natural and human decision systems in coastal areas influence the efficiency of management actions. To capture these feedbacks, a coupled coastal town risk framework was developed (Karanci et. al., 2017) which uses storms and sea level rise as exogenous drivers and simulates the evolution of the morphological landscape, implementation of soft-engineered coastal protection measures and household's occupation/abandonment decisions through the years. Employing scenario analysis, the framework can be used to illustrate and explore the ramifications of coastal management decisions and policies. Numerous scenarios with diverse conditions can be considered by varying natural (storm frequency, SLR) and socio-economic conditions (insurance rates, flooding risk perception, costs of prevention measures). The utilization of the process-based model XBeach (1-D) to determine the coastal response and inundation depths due to storms enables the framework to accurately estimate the morphological response (Roelvink et al., 2009). However, it also imposes steep computational time requirements when conducting scenario analysis which call for numerous XBeach simulations (~2100 simulation runs for a single scenario of 50-year time frame). Additionally, the implementation of XBeach requires broad knowledge of coastal processes and modeling skills which constrains the potential user community. To overcome this challenge, a Bayesian network (BN) was created to act as a surrogate for XBeach simulations in the framework. This study describes the surrogate storm impact estimation BN and demonstrates its integration to the framework through a scenario analysis study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8386</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.69</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.69</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8386/7194</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8386/7851</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

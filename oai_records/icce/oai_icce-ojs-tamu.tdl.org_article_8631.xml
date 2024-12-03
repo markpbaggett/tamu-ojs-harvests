@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8631</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EROSION AND BREACHING OF COASTAL BARRIERS IN A CHANGING CLIMATE: ASSOCIATED PROCESSES AND IMPLICATION FOR CONTAMINATION OF COASTAL AQUIFERS</dc:title>
+	<dc:creator xml:lang="en">Elsayed, Saber M.</dc:creator>
+	<dc:creator xml:lang="en">Oumeraci, Hocine</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:description xml:lang="en">Europe and many other countries all over the world are often surrounded by coastal defence systems (e.g. protective dunes and dykes) in order to protect coastal areas from threats of wave attack, storm surges and subsequent coastal floods. During moderate sea conditions, wave attack and coastal erosion is limited to nearshore areas and may only cause shore erosion. Under the same conditions, fresh groundwater, which is hydraulically interconnected with seawater, is in equilibrium with the laterally intruding seawaters. Such equilibrium prevails as long as the moderate sea level (MSL) and the hydrogeological conditions at the sea/land boundary are stationary. However, during extreme storm surges, the higher water levels may temporally threaten the coastal defence systems. In fact, shortwaves riding on the temporally rising sea level during storm surge events may directly runup, rundown and/or impact on barriers, possibly causing seaward erosion followed by lowering of barrier's crest and hence wave overtopping or overflow through combined surge and waves. As a result, barriers may breach, inducing coastal inundation and subsequent vertical saltwater intrusion (VSWI) behind the breached barriers due to the vertical infiltration of inundating seawater into the fresh groundwater. In this study, a new integral physically based methodology is developed to reliably assess the possible implications of extreme storm surges on the safety of coastal barriers and the implications of possible breaching for contamination of coastal aquifers. The integral model is therefore capable to successively simulate breaching/overtopping of coastal barriers forced by storm surges as a hydraulic load, induced flood propagation in the hinterland and subsequent VSWI into coastal aquifers while considering the complexity of these processes and mutual interaction among them. The modelling methodology consists of an improved XBeach code (Roelvink et al., 2009) for hydro-morphodynamics unidirectionally coupled with the SEAWAT code (Langevin et al., 2008) for groundwater flow. The model is applied to a case study in northern Germany, showing that marine floods represent a serious threat to usability of coastal aquifers which are extremely important water resources. Outcomes of model application showed that a coastal flood event of a few hours may contaminate coastal aquifers for many decades, thus reducing the agricultural yield and hindering the sustainable development in coastal areas prone to coastal floods. This study represents, to the knowledge of the author, the first systematic research study that addresses the safety of natural coastal sandy barriers under extreme storm surge conditions together with the consequences of possible barrier breaching and overwash on subsequent flooding and saltwater intrusion into fresh groundwater. Moreover, it is probably the foremost study that attempts to mitigate storm-driven saltwater intrusion through the use and modelling of a subsurface drainage network. Besides improving the agricultural yield in coastal areas, the use of subsurface drainage network significantly reduces the natural remediation interval required for aquifers recovery after a coastal flood event. Moreover, it limits the vertical extent of the salt intrusion. The multiple flow domains and aspects discussed in this research make it a multi-disciplinary study that is quite relevant for the coastal engineering community, for flood risk managers, for coastal hydrologists, for groundwater suppliers as well as for sustainable development planners.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8631</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.107</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.107</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8631/7433</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8631/8027</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

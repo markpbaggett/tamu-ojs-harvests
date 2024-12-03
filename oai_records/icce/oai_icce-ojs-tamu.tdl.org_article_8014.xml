@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8014</identifier>
+				<datestamp>2021-01-19T04:29:00Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING MEMORY OF COASTAL FLOOD SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Karunarathna, Harshinie</dc:creator>
+	<dc:creator xml:lang="en">Brown, Jennifer</dc:creator>
+	<dc:creator xml:lang="en">Briganti, Riccardo</dc:creator>
+	<dc:creator xml:lang="en">Pockrajac, Dabravka</dc:creator>
+	<dc:creator xml:lang="en">Haigh, Ivan</dc:creator>
+	<dc:creator xml:lang="en">Beck, Christian</dc:creator>
+	<dc:creator xml:lang="en">Dissanayake, Pushpa</dc:creator>
+	<dc:creator xml:lang="en">Pedrozo-Acuna, Diego</dc:creator>
+	<dc:creator xml:lang="en">Sparrow, Kathryn</dc:creator>
+	<dc:creator xml:lang="en">Wadey, Mathew</dc:creator>
+	<dc:subject xml:lang="en">coastal flooding</dc:subject>
+	<dc:subject xml:lang="en">storm sequence</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">morphodynamic change</dc:subject>
+	<dc:subject xml:lang="en">statistical storm analysis</dc:subject>
+	<dc:description xml:lang="en">Flooding and coastal erosion is a frequent and widespread natural hazard in the UK. With increasing urban development pressures on flood systems and changing global climate, frequency and severity of flooding is rapidly increasing. Temporal clustering of flood events in time has a critical effect in reducing the ability of systems to recover to the pre-flood 'norm', leading to amplified flood damages in the second flood event. This can be considered as system memory, the timeframes of which will be highly variable and range from days to years according to system components. The current assumptions of flood risk are based on single-event simulations and fail to consider the spatio-temporal dynamics of morphological memory due to coastal erosion. The floodMEMORY project attempts to address this issue through a continuous flood simulation framework based on temporal clustering of flood drivers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8014</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8014/pdf_799</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

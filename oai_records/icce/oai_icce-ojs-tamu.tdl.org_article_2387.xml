@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2387</identifier>
+				<datestamp>2021-01-17T05:21:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL PREDICTION ON TYPHOON TIDE IN TOKYO BAY</dc:title>
+	<dc:creator xml:lang="en">Ito, Takeshi</dc:creator>
+	<dc:creator xml:lang="en">Hino, Mikio</dc:creator>
+	<dc:creator xml:lang="en">Wantanbe, Jiro</dc:creator>
+	<dc:creator xml:lang="en">Hino, Kazuko</dc:creator>
+	<dc:subject xml:lang="en">typhoon tide</dc:subject>
+	<dc:subject xml:lang="en">Tokyo Bay</dc:subject>
+	<dc:subject xml:lang="en">numerical prediction</dc:subject>
+	<dc:description xml:lang="en">The paper discusses firstly mathematical problems on the numerical calculation of storm surges. The partial differential equations of motion adopted here take into account the Coriolis force and the nonlinear terms such as the inertial terms and a quadratic form of bottom friction. As a result, special care must be taken in order to obtain stable forms of finite-difference equations. It is shown that inadequate forms accumulate errors to cause divergence of the step by step calculations. A set of stable forms of the finite-difference equations of motion and continuity has been derived. Sometimes, it is convenient to divide the numerical integration region into two or more sub-regions, the mesh-dimensions of which are not equal. A method is described to calculate both regions by one procedure. Japan coasts were frequently damaged by severe storm surges (Typhoon Tides). To protect the metropolitan area from storm surges, a proposal has been made to construct a dike across Tokyo Bay. A numerical calculation has been made by means of IBM 7090 to estimate for several opening width of the proposed dike its effects on the reduction of surges. Interactions between daily tides (astronomical tide) and surges are also discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1964-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2387</dc:identifier>
+	<dc:identifier>10.9753/icce.v9.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 9 (1964): Proceedings of 9th Conference on Coastal Engineering, Lisbon, Portugal, 1964.; 43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2387/2062</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

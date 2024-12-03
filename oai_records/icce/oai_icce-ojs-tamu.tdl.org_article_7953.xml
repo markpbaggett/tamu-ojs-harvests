@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7953</identifier>
+				<datestamp>2021-01-20T03:47:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SOLITARY WAVES AND BORES PASSING THREE CYLINDERS - EFFECT OF DISTANCE AND ARRANGEMENT</dc:title>
+	<dc:creator xml:lang="en">Leschka, Stefan</dc:creator>
+	<dc:creator xml:lang="en">Oumeraci, Hocine</dc:creator>
+	<dc:subject xml:lang="en">vertical emerged cylinders</dc:subject>
+	<dc:subject xml:lang="en">solitary waves</dc:subject>
+	<dc:subject xml:lang="en">bores</dc:subject>
+	<dc:subject xml:lang="en">RANS models</dc:subject>
+	<dc:description xml:lang="en">Depth-averaged models such as non-linear shallow water (NLSW) and Boussinesq based codes usually use the quadratic friction law with Manning's coefficient to describe the surface roughness of the bottom. Large roughness elements such as buildings and tree vegetation, which are too small to be resolved by the grid of the bottom topography, are mainly considered by using purely empirical Manning coefficients. This approach, however, is not physically sound and may thus result in very large uncertainties in inundation modeling. A more physically-based approach is to determine prediction formulae for the hydraulic resistance of large roughness elements, considering for example different shapes, sizes and arrangements which can then be directly implemented in such models. Such prediction formulae can be determined on the basis of systematic simulations using a validated 3D numerical model. To better understand complex flow phenomena involved in tsunami inundation, three vertical emerged cylinders have been arranged in four different configurations with four different distances between each other and subject to a solitary wave and to a bore. A validated three-dimensional two-phase Reynolds-averaged Navier-Stokes (RANS) model and the Volume of Fluid (VOF) method (OpenFOAM) has been used to assess flow velocities and water levels near the cylinders and the inline forces acting on the cylinders. The effects of side-by-side, tandem and two staggered arrangements as well as the effect of the distances between them on the flow induced by a solitary wave and a bore are discussed. The study led to an improved understanding in the near field of cylinders, which forms the basis for further studies related to larger groups of cylinders and other shapes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7953</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7953/pdf_944</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

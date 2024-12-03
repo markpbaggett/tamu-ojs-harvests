@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5790</identifier>
+				<datestamp>2021-01-19T10:25:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF SHEAR STRESS ON A MOVEABLE BED</dc:title>
+	<dc:creator xml:lang="en">Rankin, Kelly L.</dc:creator>
+	<dc:creator xml:lang="en">Bruno, Michael S.</dc:creator>
+	<dc:creator xml:lang="en">Hires, Richard I.</dc:creator>
+	<dc:subject xml:lang="en">movable bed</dc:subject>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">stress measurement</dc:subject>
+	<dc:description xml:lang="en">A shear plate has been developed to obtain direct measurements of bottom shear stress under non-breaking surface gravity waves on a movable sand bed. The shear plate provides a direct measurement of the bottom shear stress on a sand bend under complex flow conditions particularly over bottom roughnesses. It was designed for use under laboratory oscillatory flow conditions where the periods of motion range from 1.5 to 6 seconds and the range of shear forces are from 0.08 Nm'2 to 84 Nm'2. The spatially averaged bottom shear stress was determined and the quadratic drag law was used to convert measurements of bottom shear stress to values of wave friction factor. The apparent roughness of the bed was specified using four times the sum of the mean and standard deviation of the sediment profile on the shear plate. Values of wave friction factor compared well with both theory and data obtained through previous laboratory studies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5790</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5790/5458</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

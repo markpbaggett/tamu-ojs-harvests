@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5839</identifier>
+				<datestamp>2021-01-19T10:09:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INLET CROSS-SECTIONAL AREA CALCULATED BY PROCESS-BASED MODEL</dc:title>
+	<dc:creator xml:lang="en">Kraus, Nicholas C.</dc:creator>
+	<dc:subject xml:lang="en">process based model</dc:subject>
+	<dc:subject xml:lang="en">inlet</dc:subject>
+	<dc:subject xml:lang="en">inlet area</dc:subject>
+	<dc:description xml:lang="en">This paper introduces a process-based model for calculating the equilibrium cross-sectional area of a tidal inlet and temporal behavior of small perturbations in channel area from equilibrium. The model accounts for the dynamic balance between inlet ebb-tidal transport and longshore sand transport at the inlet entrance. Expressed in terms of a water discharge through the inlet and the gross longshore sand transport rate, the formulation can account for tidal, river, and wind-driven flows. The resultant predictive equation recovers the form of the well-known empirical formula AE = CPn, where AE is the equilibrium (minimum) cross-sectional area, P is the tidal prism, and C and n are empirical coefficients. An explicit expression is obtained for C in terms of coastal sediment-transport processes, and the value of n derived is in the range found empirically. The process-based model qualitatively predicts the difference in trends in inlet crosssectional area on wave-sheltered and fully-exposed coasts. In time-dependent mode, the model reproduces qualitative behavior of the departure of the crosssectional area from equilibrium under perturbations in the driving forces of discharge and waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5839</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5839/5507</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8423</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERIZATION OF SPATIAL VARIATION IN HURRICANE SURGE</dc:title>
+	<dc:creator xml:lang="en">Irish, Jennifer L.</dc:creator>
+	<dc:creator xml:lang="en">Resio, Donald T.</dc:creator>
+	<dc:creator xml:lang="en">Asher, Taylor G.</dc:creator>
+	<dc:creator xml:lang="en">Liu, Yi</dc:creator>
+	<dc:description xml:lang="en">Planning, engineering, and development along surgeprone coasts rely on probabilistic surge hazard assessments. Over the last decade, U.S. agencies have implemented the joint probability method with optimal sampling (JPM-OS) (e.g., Resio et al. 2009) to overcome shortcomings in probabilistic estimates developed from the limited set of observed surges alone. Here, optimal sampling is used to reduce the number of high-fidelity surge simulations needed, given computational resource limitations. In current practice, hazard assessments with the JPM-OS use discrete storm simulations (order of 200 to 1000 storms), where each is assigned a probability mass (e.g., Toro et al. 2010), rather than defining surges for the continuum of probability densities. Such an approach introduces uncertainty because it does not fully capture the natural structure inherent in surge response (meteorological and larger-scale bathymetric effects) (Resio et al. 2017). On the other hand, physically based surge response functions (SRFs) that capture natural structure in the surge response provide an accurate-0.2 to 0.5 m rootmean- square error depending on topographic and geographic complexity-and efficient means for continuously defining probability densities (e.g., Taylor et al. 2015). But, application of SRFs in JPM-OS (JPMOS- SRF) has not been widely used in practice due a lack of systematic methods for spatial interpolation along complex shorelines and throughout the floodplain. Herein, we explore the use of spatially derived empirical orthogonal functions (EOFs) to overcome this spatial interpolation challenge.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8423</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8423/7230</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8423/7876</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

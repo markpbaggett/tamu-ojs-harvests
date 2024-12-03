@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13142</identifier>
+				<datestamp>2023-09-01T15:16:12Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACT OF INCLUDING OVERTOPPING IN HYDRODYNAMIC MODELLING FOR COASTAL INUNDATION IN PORT PHILLIP BAY</dc:title>
+	<dc:creator xml:lang="en">Cohen, Raymond C. Z.</dc:creator>
+	<dc:creator xml:lang="en">O’Grady, Julian</dc:creator>
+	<dc:creator xml:lang="en">Prakash, Mahesh</dc:creator>
+	<dc:creator xml:lang="en">McInnes, Kathy</dc:creator>
+	<dc:description xml:lang="en">During 2019-2021 CSIRO led the Port Phillip Bay Coastal Hazard Assessment (PPBCHA) project, concerning the bay located in Victoria, Australia. This study looked into the three main hazards of inundation, erosion and groundwater. As part of the inundation hazard component, coastal inundation involving wave setup, seawall overtopping, drainage and urban flooding was considered. Computational modelling was the tool used to study these key elements, necessitating the development of a coupled hydrodynamic and overtopping model. This paper details the assessment of the overall flooding sensitivity to the inclusion of the overtopping modelling, surge (storm tide), rainfall, and drainage.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13142</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.184</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.184</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13142/12415</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Raymond C. Z. Cohen, Julian O’Grady, Mahesh Prakash, Kathy McInnes</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6525</identifier>
+				<datestamp>2023-10-04T03:25:42Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TEMPORAL AND SPATIAL EVOLUTION OF EXTREME EVENTS</dc:title>
+	<dc:creator xml:lang="en">Groeneweg, Jacco</dc:creator>
+	<dc:creator xml:lang="en">Caires, Sofia</dc:creator>
+	<dc:creator xml:lang="en">Roscoe, Kathryn</dc:creator>
+	<dc:subject xml:lang="en">extreme value analysis</dc:subject>
+	<dc:subject xml:lang="en">extreme events</dc:subject>
+	<dc:subject xml:lang="en">wind velocity</dc:subject>
+	<dc:subject xml:lang="en">non-stationarity</dc:subject>
+	<dc:subject xml:lang="en">spatial variation</dc:subject>
+	<dc:description xml:lang="en">In this study two statistical methods for computing time- and space-evolving extreme events are implemented and assessed. The implementation and application of the methods are carried out with a view towards the safety assessment of water defences. With this type of application in mind, the methods are used to produce time- and space-varying extreme wind fields, which are needed to force wave and hydrodynamic models. Furthermore, the results of the two methods are compared and effects of the choice of distribution, threshold and reference location on
+the resulting wind fields are assessed. Although the wind fields produced by the methods show more erratic spatial variations, due to the associated uncertainties, than those of the observed wind fields, they seem realistic and can in principle be used to drive wave and hydrodynamic models. However, an assessment of the results of these statistical methods in terms of the underlying physics still needs to be carried out and is part of future work.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6525</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6525/pdf_521</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

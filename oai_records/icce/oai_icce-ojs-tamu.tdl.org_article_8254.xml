@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8254</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL VERSUS NATURE: HYDRODYNAMICS IN MANGROVE PNEUMATOPHORES</dc:title>
+	<dc:creator xml:lang="en">Horstman, Erik M</dc:creator>
+	<dc:creator xml:lang="en">Bryan, Karin R</dc:creator>
+	<dc:creator xml:lang="en">Mullarney, Julia C</dc:creator>
+	<dc:creator xml:lang="en">Pilditch, Conrad A</dc:creator>
+	<dc:subject xml:lang="en">vegetated flows</dc:subject>
+	<dc:subject xml:lang="en">pneumatophores</dc:subject>
+	<dc:subject xml:lang="en">flume experiments</dc:subject>
+	<dc:subject xml:lang="en">flow profiles</dc:subject>
+	<dc:subject xml:lang="en">turbulence production</dc:subject>
+	<dc:description xml:lang="en">Water flows through submerged and emergent vegetation control the transport and deposition of sediment in coastal wetlands. Many past studies into the hydrodynamics of vegetation fields have used idealized vegetation mimics, mostly rigid dowels of uniform height. In this study, a canopy of real mangrove pneumatophores was reconstructed in a flume to quantify flow and turbulence within and above this canopy. At a constant flow forcing, an increase in pneumatophore density, from 71 m-2 to 268 m-2, was found to cause a reduction of the within-canopy flow velocities, whereas the over-canopy flows increased. Within-canopy velocities reduced to 46% and 27% of the free-stream velocities for the lowest and highest pneumatophore densities, respectively, resulting in stronger vertical shear and hence greater turbulence production around the top of the denser pneumatophore canopies. The maximum Reynolds stress was observed at 1.5 times the average pneumatophore height, in contrast to uniform-height canopies, in which the maximum occurs at approximately the height of the vegetation. The ratios of the within-canopy velocity to the free-stream velocity for the pneumatophores were found to be similar to previous observations with uniform-height vegetation mimics for the same vegetation densities. However, maxima of the scaled friction velocity were two times smaller over the real pneumatophore canopies than for idealized dowel canopies, due to the reduced velocity gradients over the variable-height pneumatophores compared to uniform-height dowels. These findings imply that results from previous studies with idealized and uniform vegetation mimics may have limited application when considering sediment transport and deposition in real vegetation, as the observed turbulence characteristics in non-uniform canopies deviate significantly from those in dowel canopies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8254</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.management.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; management.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8254/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

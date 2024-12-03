@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6658</identifier>
+				<datestamp>2023-10-04T03:00:14Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OPERATIONAL FORECASTING OF BEACH MORPHODYNAMICS. RELIABILITY AND PREDICTIONS LIMITS</dc:title>
+	<dc:creator xml:lang="en">Sánchez-Arcilla, Agustín</dc:creator>
+	<dc:creator xml:lang="en">Gracia, Vicenç</dc:creator>
+	<dc:creator xml:lang="en">Grifoll, Manel</dc:creator>
+	<dc:creator xml:lang="en">Garcia, Manuel</dc:creator>
+	<dc:creator xml:lang="en">Pallarés, Elena</dc:creator>
+	<dc:subject xml:lang="en">operational</dc:subject>
+	<dc:subject xml:lang="en">beach morphodynamics</dc:subject>
+	<dc:description xml:lang="en">.The paper presents a nested and coupled modelling suite including meteorological, waves, currents and morphodynamics sub-routines. The sequence has been applied to two distinctive beaches along the Catalan coast in the Spanish Mediterranean. Models and observations from two intensive campaigns have been compared to establish the accuracy and reliability of morphodynamic simulations, with the aim to determine uncertainty intervals and to assess the suitability of using such a modelling tool for reducing storm induced risks in beach management</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6658</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6658/pdf_672</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

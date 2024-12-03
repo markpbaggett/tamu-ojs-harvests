@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1161</identifier>
+				<datestamp>2023-10-04T04:36:52Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF IRREGULAR WAVE PRESSURE ON PERFORATED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Chen, Xuefeng</dc:creator>
+	<dc:creator xml:lang="en">Li, Yucheng</dc:creator>
+	<dc:creator xml:lang="en">Long, Liu</dc:creator>
+	<dc:subject xml:lang="en">wave pressure</dc:subject>
+	<dc:subject xml:lang="en">perforated caissons</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">numerical calculation</dc:subject>
+	<dc:description xml:lang="en">In this paper, the wave pressures on the perforated caissons breakwaters are investigated. The front wall of the perforated caissons is usually perforated above a certain water level considering the stability of the structure, and the chamber of the perforated caisson is filled with rock. Based on the RANS and k-ï¥ equations, the numerical method to simulate the interaction of the irregular wave with the perforated breakwaters is researched. Moreover, the wave pressures distribution on the front perforated wall and the back wall are discussed through the numerical calculations, respectively. Then, the simplified formulas to compute the wave pressures on the different position of perforated caisson are obtained from experimental data by using the least-squares method.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1161</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1161/pdf_45</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

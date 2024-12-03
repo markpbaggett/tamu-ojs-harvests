@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4254</identifier>
+				<datestamp>2021-01-19T19:03:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RUN-UP PREDICTION VS. MODEL TEST RESULTS: A COMPARISON</dc:title>
+	<dc:creator xml:lang="en">Gadd, Peter E.</dc:creator>
+	<dc:creator xml:lang="en">Manikian, Victor</dc:creator>
+	<dc:creator xml:lang="en">Machemehl, Jerry L.</dc:creator>
+	<dc:subject xml:lang="en">prediction vs. model test</dc:subject>
+	<dc:subject xml:lang="en">run up</dc:subject>
+	<dc:description xml:lang="en">Large-scale physical model test measurements of wave run-up are compared with wave run-up prediction derived from the Shore Protection Manual (SPM). Noteworthy discrepancies between the results of these two methods have been identified that include substantial overestimation of wave run-up elevations using the SPM approach, and computation of roughness coefficient values that vary as a function of wave steepness. The slope armors tested in the study at model scales of 1:3 and 1:4 include linked concrete matting and overlapped gravel-filled fabric bags.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4254</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4254/3935</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

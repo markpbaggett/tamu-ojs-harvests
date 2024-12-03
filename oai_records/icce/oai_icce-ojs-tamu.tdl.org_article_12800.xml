@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12800</identifier>
+				<datestamp>2023-09-01T15:13:16Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD OBSERVATIONS AND MODELING OF BEACH CUSP EVOLUTION IN THE PRESENCE OF AN ARTIFICIAL VEGETATION PATCH</dc:title>
+	<dc:creator xml:lang="en">Mansur, Maqsood</dc:creator>
+	<dc:creator xml:lang="en">Salatin, Reza</dc:creator>
+	<dc:creator xml:lang="en">McCormack, Tyler</dc:creator>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:creator xml:lang="en">Hopkins, Julia</dc:creator>
+	<dc:creator xml:lang="en">Dickhudt, Patrick J.</dc:creator>
+	<dc:description xml:lang="en">Vegetation has been shown to reduce beach erosion by attenuating wave energy and trapping sediments (Feagin et al., 2015). To date, most of the studies on erosion reduction by vegetation are either theoretical, numerical, or based on laboratory experiments. Field data that quantify the effectiveness of beach vegetation as a protective measure against erosion is sparse owing to the difficulty in conducting controlled field experiments (Feagin et al., 2015). To improve our understanding of wave-beach-vegetation interaction, we conducted a field experiment from September 19 to October 10, 2021, at the US Army Corps of Engineers’ Field Research Facility (FRF) in Duck, North Carolina, as part of DUNEX (DUring Nearshore Event eXperiment). For this experiment, we installed a patch of artificial vegetation in the swash zone, constructed out of materials with known mechanical properties, to test how beach vegetation attenuates wave energy and reduces erosion. It is to be noted that we used zipties to build our vegetation patch.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12800</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12800/12073</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Maqsood Mansur, Reza Salatin, Tyler McCormack, Qin Chen, Julia Hopkins, Patrick J. Dickhudt</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

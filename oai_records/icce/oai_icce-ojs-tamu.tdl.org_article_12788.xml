@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12788</identifier>
+				<datestamp>2023-09-01T15:13:10Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INFLUENCE ON EVENT-SPECIFIC CALIBRATION DATA IN MODELLING SUBAERIAL STORM EROSION UNDER COMPLEX BATHYMETRY</dc:title>
+	<dc:creator xml:lang="en">Jin, Hyeok</dc:creator>
+	<dc:creator xml:lang="en">Do, Kideok</dc:creator>
+	<dc:creator xml:lang="en">Kim, Inho</dc:creator>
+	<dc:creator xml:lang="en">Kang, Tae-Soon</dc:creator>
+	<dc:creator xml:lang="en">Choi, Heung-Bae</dc:creator>
+	<dc:description xml:lang="en">Key parameters in the process-based model for morphological changes during storm events (i.e., XBeachX, Roelvink et al., 2018) should be adjusted to simulate morpho-hydrodynamics to a specific area of interest, leading to site-, profile-, and event-specific calibration. Although 2-dimensional simulations (area model) eliminate variability in calibrated parameters along with each profile in complex bathymetry, the degree to which datasets having different wave conditions influence model performance is still unclear in the area model at a given parameter space. The main objective of this study is to examine the influence of event-specific calibration data (single storm event and storm clusters) in modelling subaerial storm erosion under complex bathymetry. Using bathymetric field data over four different storm conditions, this study presented guidance for the selection of event-specific data in modeling calibration.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12788</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12788/12061</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Hyeok Jin, Kideok Do, Inho Kim, Tae-Soon Kang, Heung-Bae Choi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

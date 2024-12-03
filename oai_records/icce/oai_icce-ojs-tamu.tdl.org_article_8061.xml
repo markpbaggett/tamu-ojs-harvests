@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8061</identifier>
+				<datestamp>2021-01-20T04:25:30Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMAGE-BASED FIELD OBSERVATION OF INFRAGRAVITY WAVES ALONG THE SWASH ZONE</dc:title>
+	<dc:creator xml:lang="en">Tajima, Yoshimitsu</dc:creator>
+	<dc:subject xml:lang="en">image-based monitoring</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">infragravity wave</dc:subject>
+	<dc:subject xml:lang="en">edge wave</dc:subject>
+	<dc:description xml:lang="en">This study develops an image-based monitoring techniques for observations of surf zone hydrodynamics especially focusing on evolution and propagations of infragravity waves along the coast. Laboratory experiment was first performed to investigate the relationship between image-captured shoreline fluctuations and recorded actual water surface fluctuations inside the surf zone. Frequency components of infragravity waves were extracted respectively from observed shoreline changes and recorded water surface fluctuations. Both components showed good agreement in terms of their alongshore distributions of phases and amplitudes. The same image-based technique was applied to the field, the Seisho coast when the typhoon 1112 approached the site and extracted infragravity wave components were found to be consistent with offshore wave data and showed characteristics of edge waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8061</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8061/pdf_822</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

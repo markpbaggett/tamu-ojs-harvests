@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7349</identifier>
+				<datestamp>2021-01-19T04:50:56Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERISING LONG WAVE AGITATION IN THE PORT OF NGQURA USING A BOUSSINESQ WAVE MODEL</dc:title>
+	<dc:creator xml:lang="en">Stuart, Duncan</dc:creator>
+	<dc:creator xml:lang="en">Toms, Geoffrey</dc:creator>
+	<dc:creator xml:lang="en">Luger, Stephen</dc:creator>
+	<dc:creator xml:lang="en">Rossouw, Marius</dc:creator>
+	<dc:subject xml:lang="en">Port of Ngqura</dc:subject>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">infra-gravity waves</dc:subject>
+	<dc:subject xml:lang="en">resonance</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq</dc:subject>
+	<dc:subject xml:lang="en">seiche</dc:subject>
+	<dc:subject xml:lang="en">white noise simulation</dc:subject>
+	<dc:description xml:lang="en">This paper summarises an investigation of long waves at the port of Ngqura, South Africa. An analysis of simultaneous wave measurements from both outside and inside the port has provided insight into long wave agitation at the port. The analysed wave data were also used to calibrate a Boussinesq wave model. It was found that the geometry of the port induced standing long waves at certain resonant frequencies. The resonant long waves were further identified and visualised over the full port domain by use of the calibrated Boussinesq wave model, with a white noise signal as input. Reflections from the adjacent beach as well as simultaneous multiple resonant modes within the port were found to provide complex oscillation characteristics which this study was able to describe, facilitated by three-dimensional temporal spectrograms and band-pass filtering techniques.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7349</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7349/pdf_727</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

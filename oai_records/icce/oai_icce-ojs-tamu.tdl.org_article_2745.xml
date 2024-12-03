@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2745</identifier>
+				<datestamp>2021-01-20T03:49:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULTANEOUS DATA SYSTEM FOR INSTRUMENTING THE SHELF</dc:title>
+	<dc:creator xml:lang="en">Lowe, Robert L.</dc:creator>
+	<dc:creator xml:lang="en">Inman, Douglas L.</dc:creator>
+	<dc:creator xml:lang="en">Brush, Richard M.</dc:creator>
+	<dc:subject xml:lang="en">shelf</dc:subject>
+	<dc:subject xml:lang="en">instrumentation</dc:subject>
+	<dc:subject xml:lang="en">simultaneous data system</dc:subject>
+	<dc:description xml:lang="en">A system, designed to give maximum flexibility and portability, has been developed to collect wave, current and other physical data within the dynamic environment from the surf zone to the edge of the shelf. The system consists of a radio-linked shore station, housed in a mobile van and as many as six shelf stations mounted in bottom referencing spars. A shelf station can be deployed from a small boat with minimum diver time. The ease of deployment of the shelf stations coupled with the mobile self-contained shore station, allows the use of a modern data acquisition system, and rapid deployment of sensors, for the field study of remote coastal areas. Each of the shelf stations is designed to accomodate as many as fifteen sensors. All simultaneous sensor outputs are digitized and transmitted by radio to the mobile shore station, where the received signals are processed and selected for recording on strip charts or digital magnetic tapes for computer analyses. Very high sampling rates and a real time system are used to insure precise time correlation between all data channels including those from separate shelf stations. A single shelf station would transmit data from an array of wave sensors, thus providing continuous wave climate including the two dimensional wave spectra. Some different combinations of shelf station ensembles are shown.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2745</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2745/2409</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

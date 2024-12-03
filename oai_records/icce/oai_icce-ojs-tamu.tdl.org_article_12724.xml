@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12724</identifier>
+				<datestamp>2023-09-01T15:12:37Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FUTURE CHANGES IN EXTREME WAVES AND THEIR SEASONALITY IN THE MEDITERRANEAN SEA</dc:title>
+	<dc:creator xml:lang="en">Loarca, Andrea Lira</dc:creator>
+	<dc:creator xml:lang="en">Mentaschi, Lorenzo</dc:creator>
+	<dc:creator xml:lang="en">Besio, Giovanni</dc:creator>
+	<dc:description xml:lang="en">Climate change impacts threaten coastal areas all over the world, driven by increasing extreme sea levels. With higher sea surface and air temperatures, continued sealevel rise and high exposure and vulnerability of about 20 million people living in low-lying coastal areas, climate change affects the Mediterranean Sea significantly more than the world average and is therefore defined as a vulnerability hotspot (Ali, 2022). Projected changes in waves vary on a regional and local scale and play a crucial role in future extreme coastal water levels and coastal impacts. Several past studies used Global Climate Models (GCM) with coarse spatial resolution to study the future changes of wave climate. However, wave models driven by high-resolution dynamicallydownscaled surface winds from Regional Climate Models RCM) allow an enhanced characterization of wave climate at local scale, which is fundamental for coastal impact assessment and adaptation studies. Here we present the analysis of extreme wave events and their seasonality using a state-of-the-art regional ensemble of wave climate projections developed with the numerical wave model Wavewatch III forced by surface wind field data of 17 EURO CORDEX GCM-RCMs.         </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12724</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12724/11997</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Andrea Lira Loarca, Lorenzo Mentaschi, Giovanni Besio</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7444</identifier>
+				<datestamp>2021-01-19T05:26:10Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MORPHOLOGIC MODELLING OF THE COASTAL EVOLUTION IN ADA, GHANA</dc:title>
+	<dc:creator xml:lang="en">van Holland, Gijsbert</dc:creator>
+	<dc:creator xml:lang="en">Bolle, Annelies</dc:creator>
+	<dc:creator xml:lang="en">Verheyen, Bart</dc:creator>
+	<dc:creator xml:lang="en">Gruwez, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Zimmermann, Nicolas</dc:creator>
+	<dc:subject xml:lang="en">beach morphology</dc:subject>
+	<dc:subject xml:lang="en">beach nourishment</dc:subject>
+	<dc:subject xml:lang="en">groynes</dc:subject>
+	<dc:subject xml:lang="en">Xbeach</dc:subject>
+	<dc:subject xml:lang="en">morphological modelling</dc:subject>
+	<dc:description xml:lang="en">A couple of years ago, the Ghanaian government decided to protect the coast in Ada. In total a stretch of about 16 km had to be defended with a combination of groynes and a beach nourishment.  The project was split into two phases: first the groynes in the most critical stretch  were built (and finished summer 2013), next the remaining groynes and the beach nourishment will be executed in the second phase (currently ongoing).
+This paper will focus on the design of the "soft† element of this coastal protection: the beach nourishment. In order to select the most suitable design, different kinds of morphological modeling have been undertaken: long term morphological modeling (with Litpack) to predict the effect of the groynes and nourishment on the long term, and shorter term modelling with XBeach to investigate the coastal processes and to select the best design for the beach nourishment.
+For this XBeach modelling, first the model was calibrated and validated based on the in-situ measurements of the hydrodynamic conditions (nearshore waves) and the coastal response (beach profiles and coastlines) over several months.  The model proved to be able to reproduce the most important processes of beach erosion, both also overwash over the low lying dunes. Therefore it has been used in a next step to investigate the most suited beach profile, the interaction between groynes and the nourishment and thus also the lay-out for the nourishment. 
+This paper will present some key steps during the construction of the model, and how it has been used to support the design of the coastal protection with groynes and a beach nourishment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-07-10</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7444</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7444/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7444/7664</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

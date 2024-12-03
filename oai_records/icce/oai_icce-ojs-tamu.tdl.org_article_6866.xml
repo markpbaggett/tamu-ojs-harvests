@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6866</identifier>
+				<datestamp>2023-10-04T02:28:24Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">iCOASST - INTEGRATING COASTAL SEDIMENT SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Nicholls, Robert J.</dc:creator>
+	<dc:creator xml:lang="en">Bradbury, Andy</dc:creator>
+	<dc:creator xml:lang="en">Burningham, Helene</dc:creator>
+	<dc:creator xml:lang="en">Dix, Justin</dc:creator>
+	<dc:creator xml:lang="en">Ellis, Michael</dc:creator>
+	<dc:creator xml:lang="en">French, Jon</dc:creator>
+	<dc:creator xml:lang="en">Hall, Jim W.</dc:creator>
+	<dc:creator xml:lang="en">Karunarathna, Harshinie U.</dc:creator>
+	<dc:creator xml:lang="en">Lawn, Jonathan</dc:creator>
+	<dc:creator xml:lang="en">Pan, Shunqi</dc:creator>
+	<dc:creator xml:lang="en">Reeve, Dominic E.</dc:creator>
+	<dc:creator xml:lang="en">Rogers, Benedict</dc:creator>
+	<dc:creator xml:lang="en">Souza, Alejandro</dc:creator>
+	<dc:creator xml:lang="en">Stansby, Peter K.</dc:creator>
+	<dc:creator xml:lang="en">Sutherland, James</dc:creator>
+	<dc:creator xml:lang="en">Tarrant, Owen</dc:creator>
+	<dc:creator xml:lang="en">Walkden, Michael</dc:creator>
+	<dc:creator xml:lang="en">Whitehouse, Richard</dc:creator>
+	<dc:subject xml:lang="en">coastal management</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">erosion</dc:subject>
+	<dc:subject xml:lang="en">reduced complexity models</dc:subject>
+	<dc:subject xml:lang="en">climate change impacts</dc:subject>
+	<dc:description xml:lang="en">UK coasts are subject to widespread erosion in part due to the cumulative effect of human intervention on soft coastlines, and further threatened due to more rapid change due to climate change, especially sea-level rise. At the same time, Shoreline Management now requires predictions of coastal evolution up to 100 years in the future. This leads to the challenge of predicting coastal geomorphic behaviour at the mesoscale (10 to 100 km and 10 to 100 years). Currently, this is often based on expert judgement. However, relevant components for mesoscale coastal simulation are emerging, including: (1) new methods for system-level analysis of coast, estuary and offshore landform behaviour, which include engineering and management interventions in a consistent manner to natural drivers; (2) well validated 'bottom-up' hydrodynamic and sediment transport models such as POLCOMS and TELEMAC; (3) operational 'reduced complexity models' of selected coastal landforms (e.g., cliffs (SCAPE), estuaries (ASMITA), saltmarsh (SLAMM)); and (4) growing observational datasets that allow data-driven approaches to coastal analysis and prediction. The iCOASST Project will use these components to develop and apply an integrated systems modelling framework for mesoscale coastal simulation as explained in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6866</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.100</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.100</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6866/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

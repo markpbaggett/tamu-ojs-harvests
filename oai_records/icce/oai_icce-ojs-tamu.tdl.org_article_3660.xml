@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3660</identifier>
+				<datestamp>2021-01-19T22:29:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF. TIDAL RECORDS OF THE 1964 ALASKAN TSUNAMI</dc:title>
+	<dc:creator xml:lang="en">Wilson, Basil W.</dc:creator>
+	<dc:subject xml:lang="en">tidal records</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">Alaska</dc:subject>
+	<dc:description xml:lang="en">The 8. 5 magnitude Alaskan earthquake of March 27, 1964,generated a great tsunami in the Pacific Ocean. This paper presents results of energy spectrum analyses conducted on a sampling of 24 of the marigrams from some 105 tide-stations which recorded the waves. In the numerical digital procedure used, two important properties of the evolving energy spectra are invoked; the frequency resolution and statistical confidence. High confidence is obtainable only at the expense of poor resolution, and vice versa. Excessive resolution may give rise to physically unreal spectral peaks, just as excessive restrictions for confidence may cause blunting of the spectrum and possible loss of physically real spectral components. A trial-anderror compromise between these properties was sought by testing the effects on the energy spectra, for Hilo, Hawaii, of the parameters that control the digital process. An optimum selection of spectrum parameters was finally made so that the primary and secondary wave forms of components, identified by the analysis for the marigram of San Francisco, Calif., most closely agree with the corresponding wave forms obtained by use of Chrystal's (1904) graphical method of residvation analysis. Using the parameters so determined, and by application of band-pass filters in the digital analysis, the most prominent peaks of spectral energy in the marigrams of the 24 stations are isolated and their wave-forms computer-plot - ed. In all cases a recognizable long-period wave component is found having a frequency between 0.50 and 0.65 cy/hr (average period 1.73 hrs). General similarity of these primary wave forms as to period and shape of beats suggests their common origin at the source of the earthquake disturbance. The secondary wave forms of higher frequency (periods generally less than 40 mins) are ascribed to local free oscillations forced by the primary wave trains at the receiving stations. In some, but not all of the marigrams there is evidence of wave systems averaging 3.2 hrs in period. These are thought to be an independent wave-train originating at source.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3660</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3660/3343</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

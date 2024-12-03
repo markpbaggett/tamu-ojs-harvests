@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12683</identifier>
+				<datestamp>2023-09-01T15:12:10Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE OVERTOPPING REDUCTION BY MODULAR CONCRETE ARMOUR UNITS</dc:title>
+	<dc:creator xml:lang="en">Bakker, Pieter</dc:creator>
+	<dc:creator xml:lang="en">Ruwiel, Tim</dc:creator>
+	<dc:creator xml:lang="en">Koppel, Michael van de</dc:creator>
+	<dc:creator xml:lang="en">Yang, Zi Qian</dc:creator>
+	<dc:creator xml:lang="en">Donnelly, James</dc:creator>
+	<dc:description xml:lang="en">This paper describes a new armour unit called XP-Overtop which is applied together with XblocPlus armour units in a modular armour layer in order to reduce wave overtopping. This unit is placed close to the crest of the structure. Physical model tests have been performed to study the hydraulic stability and the overtopping reduction of the XP-Overtop as a function of the relative freeboard. Based on the model tests performed, the following conclusions can be drawn: 1) XPOvertop generates substantial overtopping reduction which increases with increasing relative freeboard; 2) because of the limited effectiveness and hydraulic stability for a low relative freeboard, it is not recommended to apply XP-Overtop for structures with a relative freeboard below Rc/Hm0=1; 3) the roughness factor γf for a structure with XP-Overtop is a function of the relative freeboard and varies between γf=0.42 and γf=0.41; 4) XP-Overtop enables a designer to reduce the crest level of a structure; 5) this reduction translates to significant reductions in the construction materials, costs and CO2 emissions.          </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12683</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12683/11956</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Pieter Bakker, Tim Ruwiel, Michael van de Koppel, Zi Qian Yang, James Donnelly</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

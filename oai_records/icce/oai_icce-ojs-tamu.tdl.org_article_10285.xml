@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10285</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOUSSINESQ MODELING OF COMBINED STORM SURGE AND WAVES OVER WETLANDS FORCED BY WIND </dc:title>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:creator xml:lang="en">Zhu, Ling</dc:creator>
+	<dc:creator xml:lang="en">Shi, Fengyan</dc:creator>
+	<dc:creator xml:lang="en">Brandt, Steve</dc:creator>
+	<dc:description xml:lang="en">Coastal wetlands protect the shoreline and infrastructure by attenuating wind waves and reducing storm surge. It is of importance to accurately quantify the flood protection provided by vegetation. Existing numerical models for hurricane waves and storm surge are based on the phase-averaged wave action balance equation and the nonlinear shallow water equations, respectively, with the wind forcing and vegetal drag as the free surface and bottom boundary conditions. To consider the interaction of waves and surge, the phase-averaged short wave and long wave (storm surge) models can be coupled in a staggered fashion. If the time step of the wave model and storm surge model are 30 minutes and 1 s, respectively, both models would exchange information every 30 minutes. There is no iteration between the wave and surge models at each coupling interval. An alternative to this state-of-the-practice of hurricane wave and storm surge modeling is to simulate the combined wave and surge motion driven by wind and attenuated by wetland vegetation using a phase-resolving Boussinesq model. The objective of this study is threefold: 1) to demonstrate the capability of modeling wave growth by wind, wave reduction by vegetation, and the total water level (wave setup, wind setup and wave runup) using the extended FUNWAVE-TVD model; 2) to analyze the energy balance of the combined wave and surge motion; 3) to examine the momentum balance with an emphasis on the vegetal drag owing to the combined wave orbital velocity and wind-driven current velocity.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/-o_kx4hPvC8</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10285</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10285/9571</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Qin Chen, Ling Zhu, Fengyan Shi, Steve Brandt</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

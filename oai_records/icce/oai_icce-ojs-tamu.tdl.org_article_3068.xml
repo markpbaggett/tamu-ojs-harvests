@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3068</identifier>
+				<datestamp>2021-01-20T01:51:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE DIRECTION COMPUTATIONS WITH THREE GAGE ARRAYS</dc:title>
+	<dc:creator xml:lang="en">Esteva, D.</dc:creator>
+	<dc:subject xml:lang="en">wave direction</dc:subject>
+	<dc:subject xml:lang="en">three gage array</dc:subject>
+	<dc:subject xml:lang="en">direction computation</dc:subject>
+	<dc:description xml:lang="en">Wave direction is an important parameter in the solution of many coastal engineering problems such as the estimation of sediment transport and the response of coastal structures. Wave-gage arrays are among the most widely proposed systems for measuring wave direction. In late March 1970, the U.S. Army Coastal Engineering Research Center (CERC) installed an array of five pressure sensors off the California coast. Figure 1 gives the location of the array, its geometry and dimensions. The water depth at the site was approximately 9.14 meters (30 feet) and the gages were positioned .76 meters (2.5 feet) from the bottom. One use for the array data would be to compare redundant values of wave direction and estimate the level of accuracy of the computations. Redundant values of direction were obtained from the ten three-gage arrays possible with five gages. Three-gage arrays offer some advantages over arrays involving a larger number of gages and have been proposed by many investigators. An obvious advantage involves economics. Non-linear arrays offer the advantage over linear arrays that straight forward mathematical expressions can be derived for the unambigous computation of direction. These expressions involve the phase differences between gage pairs for the waves present, no recourse to two-dimensional spectral analysis is necessary. However, it is necessary to assume long and relatively straight crested waves, traveling in well determined directions, and geometrically stationary over the array. The first two assumptions are supported by high altitude aerial photographs, Figure 2 and, by radar scans of the wave field, Figure 3. Fujinawa (1975) conjectures that narrow directional spread is responsible for the incomplete recovery of the true directional spectrum from field records in his computations using high directional resolution.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3068</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3068/2733</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1469</identifier>
+				<datestamp>2021-01-17T07:24:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CURRENTS IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Inman, D. L.</dc:creator>
+	<dc:creator xml:lang="en">Quinn, W. H.</dc:creator>
+	<dc:subject xml:lang="en">surf zone currents</dc:subject>
+	<dc:subject xml:lang="en">field measurements</dc:subject>
+	<dc:subject xml:lang="en">longshore currents</dc:subject>
+	<dc:description xml:lang="en">Surface and bottom currents in the surf zone were measured at 15 equally spaced points along two straight beaches with approximately parallel bottom contours. The measurements showed that offshore currents predominate over onshore currents at the bottom, while at the surface there is a slight predominance in the onshore direction. With regard to the longshore component, it was found that surface and bottom currents have a similar velocity distribution. The variability of the longshore component as measured by its standard deviation is equal to or larger than the mean longshore velocity. This wide variation in longshore currents indicates the impracticability of estimating the mean velocity from a single observation of longshore current. It was found that the momentum approach to the prediction of longshore currents by Putnam, Munk and Traylor (1949) leads to useful forecasts provided the beach friction coefficient k is permitted to vary with the longshore velocity, V. The indicated relation is k~v^(-3/2).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1951-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1469</dc:identifier>
+	<dc:identifier>10.9753/icce.v2.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 2 (1951): Proceedings of Second Conference on Coastal Engineering,  Houston, Texas, 1951.; 3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1469/755</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

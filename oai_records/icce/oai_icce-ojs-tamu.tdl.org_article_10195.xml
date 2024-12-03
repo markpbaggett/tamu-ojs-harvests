@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10195</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEACH SLOPES FROM SATELLITE-DERIVED SHORELINES</dc:title>
+	<dc:creator xml:lang="en">Vos, Kilian</dc:creator>
+	<dc:creator xml:lang="en">Harley, Mitchell D.</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen D.</dc:creator>
+	<dc:creator xml:lang="en">Walker, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian L.</dc:creator>
+	<dc:description xml:lang="en">The slope of the beach face is a critical parameter for coastal scientists and engineers studying sandy coastlines. However, despite its importance for coastal applications (engineering formulations, coastal flood modelling, swimming safety), it remains extremely difficult to obtain reliable estimates of the beachface slope over large spatial scales (hundreds to thousands of km of coastline). This presentation describes a new method to estimate the beach-face slope exclusively from space-borne observations: shoreline positions derived from publicly available optical imaging satellites and tide heights from satellite altimetry. This new technique is first validated against field measurements and then applied across hundreds of beaches in eastern Australia and California, USA (data available at http://coastsat.wrl.unsw.edu.au/).Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/U9zMbFX4gPk</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10195</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10195/9481</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Kilian Vos, Mitchell D. Harley, Kristen D. Splinter, Andrew Walker, Ian L. Turner</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

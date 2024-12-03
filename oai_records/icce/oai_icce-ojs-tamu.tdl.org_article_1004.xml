@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1004</identifier>
+				<datestamp>2021-01-19T08:34:03Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEPARATION OF LOW-FREQUENCY WAVES BY AN ANALYTICAL METHOD</dc:title>
+	<dc:creator xml:lang="en">Ma, Yuxiang</dc:creator>
+	<dc:creator xml:lang="en">Dong, Guohai</dc:creator>
+	<dc:creator xml:lang="en">Ma, Xiaozhou</dc:creator>
+	<dc:subject xml:lang="en">low-frequency wave</dc:subject>
+	<dc:subject xml:lang="en">separation technique</dc:subject>
+	<dc:subject xml:lang="en">analytic signal</dc:subject>
+	<dc:description xml:lang="en">A new method for separating low-frequency waves in time domain is proposed by constructing the analytical signals of the measured waves. Using three simultaneous wave records, the time series of incident bound, free and reflected low-frequency waves can be obtained by the present method. This method is only suitable for separating monochromatic low-frequency waves. The applicability of the method is examined by numerical tests. The results show that the present method can give accurate results over sloping beaches when water depth (kh) is larger than 0.2. Then, the present method is used to study an experiment of low-frequency waves over a mild slope beach.
+
+
+References
+
+Bakkenes, H.J. 2002. Observation and separation of bound and free low-frequency waves in the nearshore zone, in Faculty of Civil Engineering and Geosciences. Delft University of Technology: Delft.
+ 
+Baldock, T.E., D.A., Huntley, P.A.D., Bird, T.O., Hare, and G.N., Bullock. 2000. Breakpoint generated surf beat induced by bichromatic wave groups. Coastal Engineering. 30 (2-4): 213-242.
+ http://dx.doi.org/10.1016/S0378-3839(99)00061-7
+ 
+Battjes, J.A., Bakkenes, H.J., Janssen, T.T., van Dongeren, A.R. 2004. Shoaling of subharmonic gravity waves. J. Geophys. Res., 109(C2): C02009.
+ http://dx.doi.org/10.1029/2003JC001863
+ 
+Bowers, E.C. 1977. Harbour resonance due to set-down beneath wave groups. Journal of Fluid Mechanics. 79: 71-92.
+ http://dx.doi.org/10.1017/S0022112077000044
+ 
+Cohen, L. 1995. Time Frequency Analysis: Theory and Applications. Prentice Hall Englewood Cliffs, New Jersey.
+ 
+Dong, G.H., X.Z., Ma, M., Perlin, Y.X., Ma, B., Yu, and G., Wang. 2009. Experimental Study of long wave generation on sloping bottoms. Coastal Engineering, 56(1), 82-89.
+ http://dx.doi.org/10.1016/j.coastaleng.2008.10.002
+ 
+Kamphuis, J.W. 2000. Designing for low frequency waves. Proceedings of 27th International Conference on Coastal Engineering. Sydney, Australian. 1434-1447.
+ 
+Kostense, J.K. 1984. Measurements of surf beat and set-down beneath wave groups. Proceedings of 19th International Conference on Coastal Engineering. Houston, USA. 724-740.
+ 
+Longuet-Higgins, M.S. and R.W., Stewart. 1962. Radiation stress and mass transport in gravity waves with application to 'surfbeat'. Journal of Fluid Mechanics. 13: 481-504
+ http://dx.doi.org/10.1017/S0022112062000877
+ 
+Mallat, S. 1999. A Wavelet Tour of Signal Processing. Academic Press. PMCid:407895
+ 
+Nagai, T., N., Hashimoto, T., Asai, et al. 1994. Relationship of a moored vessel in a harbor and a long wave caused by wave groups. Proceedings of 17th International Conference on Coastal Engineering. Kobe, Japan. 847-861.
+ 
+Schäffer, H.A. 1993. Second-orderwavemaker theory for irregularwaves.Ocean Engineering. 23 (1), 47-88.
+ http://dx.doi.org/10.1016/0029-8018(95)00013-B
+ 
+Symonds, G.D.A., D.A., Huntley, and A.J., Bowen. 1982. Two-dimensional surf beat-long-wave generation by a time-varying breakpoint. Journal of Geophysical Research. 87(C1): 492-498.
+ http://dx.doi.org/10.1029/JC087iC01p00492
+ 
+Yu, J. and C.C., Mei. 2000. Formation of sand bars under surface waves. Journal of Fluid Mechanics. 416: 315-348.
+ http://dx.doi.org/10.1017/S0022112000001063</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1004</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.64</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.64</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1004/pdf_268</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

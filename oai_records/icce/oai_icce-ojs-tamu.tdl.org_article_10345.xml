@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10345</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL FOR PREDICTING 3-D BEACH CHANGES UNDER COMPOUND ACTIONS OF WAVES AND WIND</dc:title>
+	<dc:creator xml:lang="en">Yokota, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Akio</dc:creator>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Serizawa, Masumi</dc:creator>
+	<dc:creator xml:lang="en">Noshi, Yasuhito</dc:creator>
+	<dc:creator xml:lang="en">Katsuki, Atsunari</dc:creator>
+	<dc:description xml:lang="en">A model for predicting 3-D beach changes in an extensive area including beach and backshore areas was developed, taking the effects due to both waves and windblown sand into account. In the calculation of beach changes, the BG model (a model for predicting beach changes based on Bagnold's concept) was employed, and a cellular automaton method was used to calculate the backshore changes due to the effect of windblown sand. To validate the model applicability, a reproduction calculation was carried out for the beach formed at the corner of Futtsu new port. The calculation results were in good agreement with the measurement results.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/905aRlNAOjA</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10345</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10345/9631</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Takuya Yokota, Akio Kobayashi, Takaaki Uda, Masumi Serizawa, Yasuhito Noshi, Atsunari Katsuki</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

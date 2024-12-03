@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6786</identifier>
+				<datestamp>2023-10-04T02:38:32Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INFLUENCE OF A INFRASTRUCTURE ON TSUNAMI INUNDATION IN A COASTAL CITY: LABORATORY EXPERIMENT AND NUMERICAL SIMULATION</dc:title>
+	<dc:creator xml:lang="en">Shin, Sungwon</dc:creator>
+	<dc:creator xml:lang="en">Lee, Kwang-Ho</dc:creator>
+	<dc:creator xml:lang="en">Park, Hyoungsu</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Kim, Kyuhan</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">inundation</dc:subject>
+	<dc:subject xml:lang="en">experiment</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">large eddy simulation</dc:subject>
+	<dc:subject xml:lang="en">momentum flux</dc:subject>
+	<dc:description xml:lang="en">Laboratory experiments were conducted for tsunami inundation to an urban area with large building roughness. The waterfront portion of the city of Seaside which is located on the US Pacific Northwest coast, was replicated in 1/50 scale in the wave basin. Tsunami heights and velocities on the inundated land were measured at approximately 31 locations for one incident tsunami heights with an inundation height of approximately 10 m (prototype) near the shoreline. The inundation pattern and speed were more severe and faster in some areas due to the arrangement of the large buildings. Momentum fluxes along the roads were estimated using measure tsunami inundation heights and horizontal fluid velocities. As expected, the maximum momentum flux was near the shoreline and decreased landward. 3D LES (Large Eddy Simulation) model with two-phase flow was used to compare its simulation results with experimental results. The model results of tsunami heights qualitatively agreed with the data collected from the experiment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6786</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6786/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

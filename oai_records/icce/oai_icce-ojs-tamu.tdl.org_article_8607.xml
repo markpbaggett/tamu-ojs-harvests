@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8607</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OBSERVATIONS OF BEACH-DUNE MORPHOGOLICAL RESPONSE TO STORM WAVES USING LIDAR BATHYMETRIC MAPPING IN A WAVE BASIN</dc:title>
+	<dc:creator xml:lang="en">Marmoush, Ramy Y.</dc:creator>
+	<dc:creator xml:lang="en">Mulligan, Ryan P.</dc:creator>
+	<dc:description xml:lang="en">Waves during major storms can cause significant changes to coastal morphology (Lee et al., 1998). The beach-dune system is known to be highly vulnerable to erosion when the wave run-up exceeds the threshold of the base of the dune in the collision regime, according to the Storm Impact scale defined by Sallenger (2000). Detailed bathymetric measurements are very difficult to obtain during storms due to the hazardous wave conditions. However, bathymetric surveys can be easily and intermittently performed during smaller scale physical model experiments (e.g., Hamilton et al., 2001) and high resolution can be achieved using laser scanning with Light Detection and Ranging (LIDAR) sensors (Smith et al., 2017). In the present study, a laboratory experiment of beach-dune morphology change is conducted in a rectangular wave basin that has recently been used to simulate erosion of a 2-dimensional sand dune (Berard et al., 2017). The objective of the present study is to investigate the 3-dimensional morphologic response of a sand beach-dune system to storm waves approaching at an oblique angle.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8607</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8607/7411</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8607/8009</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

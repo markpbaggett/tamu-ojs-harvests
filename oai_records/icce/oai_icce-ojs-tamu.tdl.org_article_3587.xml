@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3587</identifier>
+				<datestamp>2021-01-19T22:56:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DYNAMIC SIMILARITY OF TRANSPORT PHENOMENA</dc:title>
+	<dc:creator xml:lang="en">Yalin, M.S.</dc:creator>
+	<dc:creator xml:lang="en">Gerritsen, F.</dc:creator>
+	<dc:subject xml:lang="en">dynamic similarity</dc:subject>
+	<dc:subject xml:lang="en">transport phenomena</dc:subject>
+	<dc:description xml:lang="en">The discharges issued by OTEC plants, thermal power plants and other engineering devices, give rise to the transport of "foreign" properties and substances into the natural ocean environment. In order to predict the functioning of such structures and assess their environmental impact, physical modelling has already been utilized. Since the simultaneous fulfillment of both Reynolds and Froude criteria is impossible (in a conventional small scale model operating with the prototype fluid) in the models mentioned the transport phenomenon was reproduced on the basis of the densimetric Froude number (Fr) only, the influence of the Reynolds number (Re) being neglected. On the other hand, the identification of the scale of Fr (viz Apr) with unity can lead to substantial differences between the model and prototype values of Re. (Because AFr = 1 yields AR6 = Ax 3/2 where Xjt is the linear model scale.) Yet many of the pertinent aspects of a turbulent diffusion (energy dissipation, thickness of mixing zones, separation processes, etc.) are strongly dependent on Re, and therefore an appreciable distortion of Re (AJJ3/2 </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3587</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.158</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 158</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3587/3269</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

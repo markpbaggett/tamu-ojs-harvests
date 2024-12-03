@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3680</identifier>
+				<datestamp>2021-01-19T22:23:58Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTATIONAL ALGORITHM FOR LONGSHORE ENERGY FLUX INCORPORATING FRICTION</dc:title>
+	<dc:creator xml:lang="en">Walton, T.L.</dc:creator>
+	<dc:creator xml:lang="en">Weggel, J.R.</dc:creator>
+	<dc:subject xml:lang="en">longshore energy</dc:subject>
+	<dc:subject xml:lang="en">friction</dc:subject>
+	<dc:subject xml:lang="en">energy flux</dc:subject>
+	<dc:subject xml:lang="en">computational algorithm</dc:subject>
+	<dc:description xml:lang="en">The calculation of longshore sand transport on "beaches is a significant coastal engineering problem with application to various areas of coastal structure design (i.e., jetties, groins, and offshore "breakwaters), and inlet navigation channel design (i.e., studies of required maintenance dredging). Longshore sand transport as a first approximation is linearly related to longshore energy flux (see Bruno, et al. (1981)), hence, this paper simply presents a method for computing longshore energy flux as a means of determining longshore sand transport. The approach used herein for calculating longshore energy flux includes an analytical method for incorporating frictional wave energy dissipation. The method is simple enough to program on a hand-held programmable calculator. It therefore provides a method hy which rapid calculations can he made for a site at which offshore wave data exist. If offshore directional random wave data are available (i.e. directional wave spectra) then more advanced techniques should he used (see Walton and Dean (1981)).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3680</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3680/3363</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1392</identifier>
+				<datestamp>2023-10-04T04:24:04Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODELING OF SCOUR AROUND TRIPOD FOUNDATION STRUCTURES FOR OFFSHORE WIND ENERGY CONVERTERS</dc:title>
+	<dc:creator xml:lang="en">Stahlmann, Arne</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:subject xml:lang="en">offshore wind energy</dc:subject>
+	<dc:subject xml:lang="en">tripod</dc:subject>
+	<dc:subject xml:lang="en">large-scale physical modeling</dc:subject>
+	<dc:description xml:lang="en">As a step to further develop the share of renewable energies, the first German offshore test site alpha ventus has been installed in the North Sea in 2009 in water depths of 30 m, where experience shall be gained and made available for
+future offshore wind farms. Regarding converter foundations in deep water, it is well known that in most cases scour phenomena occur around the structures. Due to the complexity of the tripod foundations, significant knowledge gaps in scour progression in general and especially in detail as well as its probable effects on the stability and durability are given. Therefore, investigations on scouring phenomena around complex foundation structures like the tripod are
+carried out within the research project. The investigation method consists of a unique combination of local scour monitoring as well as physical and numerical modeling, whereas the physical modeling part was carried by means of 1:40 laboratory tests and 1:12 large-scale physical model tests in wave flumes. The results show that scours around the tripod foundation do not only occur directly around the foundation piles, but also in the near-field of the structure. Compared to first in-situ measured scours in the test site, at least a good qualitative agreement of the modeled scour depths and evolutions could be shown.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1392</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.67</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.67</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1392/pdf_118</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

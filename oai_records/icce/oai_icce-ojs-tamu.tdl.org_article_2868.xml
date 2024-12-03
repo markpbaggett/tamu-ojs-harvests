@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2868</identifier>
+				<datestamp>2021-01-20T03:04:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMIC ANALYSIS OF SLUDGE DUMPED IN COASTAL WATERS</dc:title>
+	<dc:creator xml:lang="en">Edge, Billy L.</dc:creator>
+	<dc:subject xml:lang="en">hydrodynamic analysis</dc:subject>
+	<dc:subject xml:lang="en">sludge</dc:subject>
+	<dc:subject xml:lang="en">dumped sludge</dc:subject>
+	<dc:description xml:lang="en">Due to increased environmental pressures, there is a rapidly growing tendency to shift from traditional land disposal of dredged material to offshore or ocean disposal. The quantities of such materials are quite large, resulting in a very serious disposal problem. For example, maintenance dredging alone produces approximately six million cubic yards of material annually in Charleston Harbor. Existing techniques are reasonably adequate to describe the transport and settling characteristics of coarse, sandy dredge materials discharged from barges or hopper dredges at sea. However, such approaches need to be modified to describe the transport of fine-grained clay and silt materials. This material constitutes a significant portion of the dredged material resulting from both new harbor and channel construction and maintenance dredging along the coast of the Carolinas and Georgia. These fine-grained materials are subject to many additional physical forces as well as chemical phenomena, e.g., flocculation, salinity and temperature variations, etc. A hydrodynamic model for fine-grained dredged material has been developed which considers many of these forces. It is also applicable for describing the transport mechanisms associated with barge disposal of wastewater sludges from municipal and industrial sources. The results of the model indicate what discharge strategies are necessary for placing the sludge at a desired location or depth with a predetermined concentration.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2868</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.121</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 121</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2868/2532</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

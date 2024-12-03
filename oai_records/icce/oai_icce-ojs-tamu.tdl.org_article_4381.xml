@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4381</identifier>
+				<datestamp>2021-01-19T18:19:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENTS OF FORCES ON DOLOS ARMOR UNITS AT PROTOTYPE SCALE</dc:title>
+	<dc:creator xml:lang="en">Howell, Gary L.</dc:creator>
+	<dc:subject xml:lang="en">prototype scale</dc:subject>
+	<dc:subject xml:lang="en">dolos</dc:subject>
+	<dc:subject xml:lang="en">armor unit</dc:subject>
+	<dc:subject xml:lang="en">dolos forces</dc:subject>
+	<dc:subject xml:lang="en">force measurements</dc:subject>
+	<dc:description xml:lang="en">In-situ measurements of the structural bending moments and torque about the shank-fluke interface of the dolos armor unit have been made for 42-ton (36-metric tonne) dolosse at Crescent City, California jetty. The measurements include the static loads on the dolosse as well as wave induced forces. The data were obtained from internal strain gages cast into the dolos during construction along with a special data acquisition system. The measurement system was also capable of capturing impact forces caused by dolos rocking or movement. Measurements were made during the winter storm seasons from January 1987 through May 1988. Coincident with the structural measurements, wave height and period were measured at several water depths approaching the breakwater, including a site directly in front of the dolos test section. The Crescent City jetty is a shallow water breakwater with depth limited waves in about 10 meters of water depth. The structural measurements were made from 14 dolos units arranged in a rectangular section on the top layer of the trunk portion of the jetty. Four of these dolosse are also instrumented with an accelerometer platform to measure motion with six degrees of freedom. In addition, there are three instrumented dolosse on the bottom layer of the breakwater. These dolosse measure the static stress due to the units placed on top of them, as well as pulsating forces. The structural and wave measurements, reported here, are supplemented with hydrostatic pore pressure measurements in the core material of the breakwater, and by aerial photogrammetric motion analysis (Kendall, 1988), land based surveys, boudary condition surveys, hydrographic surveys, and side scan sonar surveys.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4381</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.174</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 174</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4381/4062</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

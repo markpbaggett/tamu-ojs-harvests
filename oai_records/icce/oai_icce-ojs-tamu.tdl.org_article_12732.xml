@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12732</identifier>
+				<datestamp>2023-09-01T15:12:41Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF STEEPNESS-LIMITED BREAKING WAVES IN A FULLY NONLINEAR POTENTIAL FLOW MODEL</dc:title>
+	<dc:creator xml:lang="en">Mohanlal, Sunil</dc:creator>
+	<dc:creator xml:lang="en">Kimmoun, Lili</dc:creator>
+	<dc:creator xml:lang="en">Grilli, Stephan</dc:creator>
+	<dc:creator xml:lang="en">Harris, Jeffrey</dc:creator>
+	<dc:description xml:lang="en">Steepness-limited wave breaking is simulated in a fully nonlinear potential flow model and validated with laboratory data. Breaking onset is based on the ratio of horizontal particle velocity at the crest, relative to the crest velocity reaching a threshold value. A breaking dissipation model, where the non-dimensional breaking strength parameter is predicted based on the linear wave steepness is used. A new time-dependent dissipation is tested, and the breaking termination criterion is studied.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12732</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12732/12005</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Sunil Mohanlal, Lili Kimmoun, Stephan Grilli, Jeffrey Harris</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7563</identifier>
+				<datestamp>2021-01-19T04:29:55Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">3D MORPHOLOGICAL IMPACT MODELLING OF OFFSHORE WIND FARMS USING LES AND HPC</dc:title>
+	<dc:creator xml:lang="en">Yin, Yue</dc:creator>
+	<dc:creator xml:lang="en">Christie, Elizabeth</dc:creator>
+	<dc:creator xml:lang="en">Li, Ming</dc:creator>
+	<dc:creator xml:lang="en">Moulinec, Charles</dc:creator>
+	<dc:creator xml:lang="en">Emerson, David</dc:creator>
+	<dc:subject xml:lang="en">offshore wind farms</dc:subject>
+	<dc:subject xml:lang="en">TELEMAC3D</dc:subject>
+	<dc:subject xml:lang="en">large eddy simulation</dc:subject>
+	<dc:description xml:lang="en">A model based on TELEMAC 3D using Large Eddy Simulation has been developed to simulate of complex flows and sediment transport around offshore wind farm foundations. The model was tested against available laboratory experimental data with satisfactory agreement. The model results reveal that with fine resolution, using Large Eddy Simulation allows to capture the turbulence eddy shedding behind the structure better than using conventional RANS models. Application of the model to the Burbo Bank OWF in Liverpool Bay, in North West England helps capturing the strong 3D structures across the depth, which can have considerable influence on sediment suspension and transport around the structure, particularly for fine sediments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7563</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7563/pdf_796</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

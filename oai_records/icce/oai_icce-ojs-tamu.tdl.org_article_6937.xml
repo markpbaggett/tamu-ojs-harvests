@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6937</identifier>
+				<datestamp>2023-10-04T02:51:06Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE ATTENUATION MODELLING BY SUBMERGED VEGETATION: ECOLOGICAL AND ENGINEERING ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Maza, Maria</dc:creator>
+	<dc:creator xml:lang="en">Lara, Javier</dc:creator>
+	<dc:creator xml:lang="en">Ondiviela, Barbara</dc:creator>
+	<dc:creator xml:lang="en">Losada, Inigo J.</dc:creator>
+	<dc:subject xml:lang="en">seagrass</dc:subject>
+	<dc:subject xml:lang="en">Navier-Stokes modeling</dc:subject>
+	<dc:subject xml:lang="en">wave plant interaction</dc:subject>
+	<dc:subject xml:lang="en">drag coefficient</dc:subject>
+	<dc:description xml:lang="en">The correct address of wave characteristics in the vicinity of submerged vegetation is crucial to perform an ecological analysis. Although several attempts have been done in the past using an analytical approach or depth averaged models, the rigidity of the assumptions used to solve the physics produced limited application to real cases. The use of a NS model called IH-2VOF is used first to minimize the number of predefined assumptions for wave propagation and the non-linear interactions between waves and plants and second to explore the possibility to improve existing turbulence models to consider wave interaction with vegetation. The IH2-VOF model has been validated using large scale experiments developed by Stratigaki et al. (2011). The model has shown a high degree of accordance between the lab data and the numerical predictions in free surface evolution. Numerical predictions of the velocity field have been compared both over and inside the vegetation showing also a high degree of accordance. Drag coefficients obtained during the model calibration are in accordance with previous studies such as Mendez et al. (1999). The influence of wave height, wave period, water depth and patch density have been studied using additional numerical simulations with irregular waves. Both the wave period and the water depth have been revealed as the most important parameters in the modification of the flow patterns around the patch.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6937</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6937/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

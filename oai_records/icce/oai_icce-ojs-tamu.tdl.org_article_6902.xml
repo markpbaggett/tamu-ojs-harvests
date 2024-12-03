@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6902</identifier>
+				<datestamp>2021-01-19T06:11:13Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING OF A NEARSHORE PLACED SAND MOUND</dc:title>
+	<dc:creator xml:lang="en">Smith, Ernest R.</dc:creator>
+	<dc:creator xml:lang="en">D'Alessandro, Felice</dc:creator>
+	<dc:creator xml:lang="en">Tomasicchio, Giuseppe Roberto</dc:creator>
+	<dc:creator xml:lang="en">Gailani, Joseph Z.</dc:creator>
+	<dc:subject xml:lang="en">sand mound</dc:subject>
+	<dc:subject xml:lang="en">dredging</dc:subject>
+	<dc:subject xml:lang="en">physical model experiment</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">empirical model</dc:subject>
+	<dc:description xml:lang="en">Nearshore placement of sand is becoming a more popular option in two related types of coastal engineering projects: beach nourishment and inlet dredging. Placing the sand in the nearshore instead of directly on the beach can reduce the costs of a beach nourishment project (Douglass 1995); furthermore, the environmental impact to the beach and dune ecosystem may be perceived to be less for open-water disposal with subsequent migration than for direct placement on the beach. Nearshore placement of sand is also an option in navigation dredging projects for similar reasons. Several design and planning questions relate to the fate of dredged sand placed in the nearshore. Can we economically use profile nourishment, and what is the certainty that a constructed submerged feature will move onshore or remain in place? And if it will move, what is the rate of its movement? Another question concerns how deep material should be placed. In order to answer these questions, together with physical model experiments, several empirical/numerical models have been developed in the past in the United States as a part of the Corps of Engineers 'Dredging Research Program' (DRP) (Hands 1991, Larson and Kraus 1992).  
+Hydrodynamic modelling of the nearshore environment has reached a verifiable level of maturity in the last decades as a result of well-defined equations, established numerical solutions and quality laboratory and field data. On the contrary, modelling of sediment transport and beach profile evolution has not yet approached a similar level of accuracy. Most commonly applied models to predict beach profile modifications and to estimate the migration rate of nearshore constructed sand mounds rely on empirical relationships (Douglass 1995). More recently, the numerical model C-SHORE (Kobayashi et al. 2007; Figlus et al. 2011) was developed resulting in simple, practical and accurate code that predicts beach-dune profile evolution over the near-shore region in response to waves, currents and water levels. In the present work, a calibration and verification procedure is considered for the numerical model C-SHORE (Kobayashi et al. 2007) and the empirical model (Douglass 1995).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6902</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6902/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1102</identifier>
+				<datestamp>2023-10-04T04:13:53Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVED ESTIMATES OF MEAN SEA LEVEL CHANGES IN THE SOUTH-EASTERN NORTH SEA SINCE 1843</dc:title>
+	<dc:creator xml:lang="en">Jensen, Juergen</dc:creator>
+	<dc:creator xml:lang="en">Wahl, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Frank, Torsten</dc:creator>
+	<dc:subject xml:lang="en">German Bight</dc:subject>
+	<dc:subject xml:lang="en">regional sea level changes</dc:subject>
+	<dc:subject xml:lang="en">tide gauge data</dc:subject>
+	<dc:subject xml:lang="en">vertical land movements</dc:subject>
+	<dc:description xml:lang="en">This contribution focuses on presenting the results from analysing mean sea level changes in the German Bight, the south-eastern part of the North Sea. Data sets from 13 tide gauges covering the entire German North Sea coastline and the period from 1843 to 2008 have been used to estimate high quality mean sea level time series. The overall results from nonlinear smoothing and linear trend estimations for different time spans are presented. Time series from single tide gauges are analysed as well as different 'virtual station' time series. An accelerated sea level rise in the German Bight is detected for a period at the end of the 19th century and for another one covering the last decades. In addition, different patterns of sea level change are found in the German Bight compared to global patterns, highlighting the urgent need to derive reliable regional sea level projections to be considered in coastal planning strategies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1102</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1102/pdf_193</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

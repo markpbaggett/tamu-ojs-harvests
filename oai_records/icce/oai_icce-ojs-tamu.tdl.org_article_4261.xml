@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4261</identifier>
+				<datestamp>2021-01-19T19:00:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NONLINEAR EFFECTS ON FOCUSSED WATER WAVES</dc:title>
+	<dc:creator xml:lang="en">Peregrine, D.H.</dc:creator>
+	<dc:creator xml:lang="en">Skyner, D.</dc:creator>
+	<dc:creator xml:lang="en">Stiassnie, M.</dc:creator>
+	<dc:creator xml:lang="en">Dodd, N.</dc:creator>
+	<dc:subject xml:lang="en">focused waves</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">nonlinear effects</dc:subject>
+	<dc:description xml:lang="en">A brief account is given of theory and experiments for water wave focussing. The theory uses weakly nonlinear wave modulation theory, that is the nonlinear Schrodinger equation, summarises earlier theoretical papers and augments them with numerical results. Experiments were performed to compare with theory. The limited comparison shown here indicates that the theory gives satisfactory results even for waves close to breaking. Both the numerical and experimental results indicate the importance of linear diffraction when waves are focussed. The relevance of diffraction is easily assessed, and is likely to dominate in many coastal examples of weak focussing.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4261</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4261/3942</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6522</identifier>
+				<datestamp>2023-10-04T03:26:08Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIME-DEPENDENT PERFORMANCE-BASED DESIGN OF CAISSON BREAKWATER CONSIDERING CLIMATE CHANGE IMPACTS</dc:title>
+	<dc:creator xml:lang="en">Kim, Seung-Woo</dc:creator>
+	<dc:creator xml:lang="en">Suh, Kyung-Duck</dc:creator>
+	<dc:subject xml:lang="en">caisson breakwater</dc:subject>
+	<dc:subject xml:lang="en">caisson sliding</dc:subject>
+	<dc:subject xml:lang="en">performance-based design</dc:subject>
+	<dc:subject xml:lang="en">climate change impacts</dc:subject>
+	<dc:description xml:lang="en">A time-dependent performance-based analysis was conducted to analyze the influences of sea-level rise and wave-height increase due to climate change on caisson sliding of the breakwaters designed in different water depths. We used the Goda's spectral method to overcome the time-consuming problem in the calculation of the wave height at the breakwater site. In general, severe caisson sliding occurred when considering the climate change impacts. However, the influence of sea-level rise on the stability of caisson sliding is insignificant compared with that of wave-height increase. Especially, since the characteristics of caisson sliding are different depending on water depths, we have to establish countermeasure against these features for the design and maintenance of a caisson breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6522</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6522/pdf_519</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

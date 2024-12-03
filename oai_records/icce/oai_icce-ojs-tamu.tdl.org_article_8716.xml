@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8716</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY MODEL TEST OF TRANSIENT RIP CURRENTS DUE TO PSEUDO HONEYCOMB PATTERN WAVES</dc:title>
+	<dc:creator xml:lang="en">Choi, Junwoo</dc:creator>
+	<dc:creator xml:lang="en">Roh, Min</dc:creator>
+	<dc:creator xml:lang="en">Hwang, Hyung-sik</dc:creator>
+	<dc:description xml:lang="en">The Haeundae coast of South Korea is famous for its beautiful beach, but the rip current, from which the beach-guards rescue more than 100 people every summer at the beach, is now a notorious phenomenon. The large-scale Haeundae rip current is known to be a transient rip current caused by multi-directional wave trains rather than the topography-induced rip current, for example, due to a gap of sandbar. In other words, the rip current seems develop along the cross-shore nodal line area in the honeycomb wave-crest pattern (Dalrymple et al., 2011) which are generated in a shallow water when two wave trains propagate with slightly different wave directions (i.e., interference pattern). The wave pattern is formed by the refraction of incident swells over submerged shoals and ridges of the Haeundae coast. The Haeundae rip current is an example explained by the vortex generation due to the ends of wave crests in Peregrine(1998), which is known of the basic generation mechanism of rip currents(Johnson and Pattiaratchi, 2006; Clark et al., 2012; Feddersen, 2014). To understand the generation mechanism and verify the numerical model results of the Haeundae rip current, the laboratory experiment was planned. This study showed the preliminary laboratory observations which include the pseudo honeycomb pattern of incident waves and its resultant rip current.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8716</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8716/7518</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

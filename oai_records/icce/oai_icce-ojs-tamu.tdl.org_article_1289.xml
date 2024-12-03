@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1289</identifier>
+				<datestamp>2023-10-04T04:28:49Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF WAVE PENETRATION IN OSTEND HARBOUR</dc:title>
+	<dc:creator xml:lang="en">Stratigaki, Vasiliki</dc:creator>
+	<dc:creator xml:lang="en">Vanneste, Dieter</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:creator xml:lang="en">Gysens, Stefaan</dc:creator>
+	<dc:creator xml:lang="en">Willems, Marc</dc:creator>
+	<dc:subject xml:lang="en">rubble-mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave penetration in harbour</dc:subject>
+	<dc:subject xml:lang="en">wave propagation model</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq model</dc:subject>
+	<dc:subject xml:lang="en">mild-slope model</dc:subject>
+	<dc:subject xml:lang="en">MILDwave</dc:subject>
+	<dc:description xml:lang="en">The initial Ostend harbour entrance at the North Sea coast of Belgium is being modified and extended with two new rubble-mound breakwaters. Through an integrated study of the wave penetration in Ostend harbour, the waves are being acquired by prototype measurements and physical and numerical modelling is carried out. Two numerical models are used. SimWave is a numerical model based on Nwogu's extended Boussinesq equations. The second numerical model is MILDwave, a mild-slope wave propagation model based on the equations of Radder and Dingemans. The present study concentrates on applications of the numerical models, throughout the different design stages and construction phases of the new breakwaters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1289</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1289/pdf_91</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

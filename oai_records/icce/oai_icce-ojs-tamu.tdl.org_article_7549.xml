@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7549</identifier>
+				<datestamp>2021-01-19T04:31:09Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NON-STATIONARY FLOW AROUND BUILDINGS DURING RUN-UP OF  TSUNAMI WAVES ON A PLAIN BEACH</dc:title>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">long wave</dc:subject>
+	<dc:subject xml:lang="en">wave run-up</dc:subject>
+	<dc:subject xml:lang="en">wake angle</dc:subject>
+	<dc:subject xml:lang="en">obstacle</dc:subject>
+	<dc:subject xml:lang="en">wave-structure interaction</dc:subject>
+	<dc:description xml:lang="en">This paper presents an experimental investigation that focuses on some predominant flow features that arise around surface mounted vertical obstacles which are exposed to a transient flow. The flow under investigation is caused by a tsunami-like long wave that climbs up a 1:40 sloping plain beach. In this study the wave height in offshore waters is varied. A single obstacle of 10 cm width as well as side-by-side arrangement of two identical square obstacles with different spacing are considered at an approximate length scale of 1 in 100. The analysis reveals important flow features around the various obstacle configurations. Particular emphasize is laid on the spatiotemporal evolution of the wake angle that linearly increases over time irrespective of the obstacle spacing. The growth rate of the wake angle reciprocally depends on the gap ratio over the investigated range of g* = 0.0 to g* = 3.0.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7549</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7549/pdf_792</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

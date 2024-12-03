@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4852</identifier>
+				<datestamp>2021-01-19T15:38:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-MODE PRINCIPLE COMPONENT ANALYSIS OF BATHYMETRIC DATA, APPLIED TO "PLAYA DE CASTILLA" (HUELVA, SPAIN)</dc:title>
+	<dc:creator xml:lang="en">Medina, Raul</dc:creator>
+	<dc:creator xml:lang="en">Vidal, Cesar</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel A.</dc:creator>
+	<dc:creator xml:lang="en">Roldan, Antonio J.</dc:creator>
+	<dc:subject xml:lang="en">Spain</dc:subject>
+	<dc:subject xml:lang="en">bathymetric data</dc:subject>
+	<dc:subject xml:lang="en">Playa de Castilla</dc:subject>
+	<dc:description xml:lang="en">Three-Mode Principal Component Analysis is applied to bathymetric data from a beach nourishment at "Playa de Castilla", Huelva, Spain. This approach is used to separate the temporal and spatial variability of the beach shoreface. The method is shown to describe variations occurring in the cross-shore and in the alongshore direction as well as temporal variations. The results of the analysis show a clear seasonality in the shoreface variations, with bar-berm processes involved in the cross-shore direction and complex sand variations in the alongshore direction. These alongshore variations are induced by the nourished area which avoids the formation of a uniform bar along the beach resulting in a complex sediment redistribution. The results also show an erosion trend in "Playa de Castilla". This erosion, however, is not related to the "spreading out" losses at the nourished beach but with the background erosion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4852</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4852/4533</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

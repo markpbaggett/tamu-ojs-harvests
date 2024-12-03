@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8706</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT AND VALIDATION OF A STORM SURGE AND WAVE MODEL FOR LAKE HURON (GREAT LAKES, USA)</dc:title>
+	<dc:creator xml:lang="en">Salisbury, Michael</dc:creator>
+	<dc:creator xml:lang="en">DeMunda, Todd</dc:creator>
+	<dc:creator xml:lang="en">Walker, Nicole</dc:creator>
+	<dc:description xml:lang="en">The Federal Emergency Management Agency (FEMA) is tasked with developing flood insurance rate maps along coastlines and major water bodies within the United States, which includes the U.S. portion of the Great Lakes shoreline. Previous flood studies have developed storm surge and wave models of the Great Lakes (including Lake Huron) in support of FEMA's efforts; however, an independent technical review of those previous coastal flood studies in Lake Huron revealed technical deficiencies in the methods and tools used to generate the wave conditions needed to support overland mapping. Most paramount of these was the fact that starting wave conditions for one dimensional (1D) transformation from a two-dimensional (2D) model were taken from deep water. Using 1D methods to shoal and refract waves to the coastline for runup and/or overland wave analysis may fail to capture the more complex nature of wave refraction/diffraction that 2D wave models can capture. Further, this method omits the development of the directional wave spectra in the nearshore region. To address this concern, a coupled 2D wave and water level model (ADCIRC+SWAN) was developed to hindcast historical storms that have occurred in Lake Huron. These model results will be used to drive the 1D methods to assess nearshore wave hazards from locations near the surfzone limit.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8706</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.79</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.79</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8706/7508</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8706/8082</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

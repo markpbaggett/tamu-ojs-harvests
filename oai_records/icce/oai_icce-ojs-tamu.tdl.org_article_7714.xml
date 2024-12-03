@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7714</identifier>
+				<datestamp>2021-01-20T04:10:54Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">KM-SCALE SHORELINE SAND WAVES: NUMERICAL MODELLING AND OBSERVATIONS</dc:title>
+	<dc:creator xml:lang="en">Arriaga, Jaime</dc:creator>
+	<dc:creator xml:lang="en">Ribas, Francesca</dc:creator>
+	<dc:creator xml:lang="en">Mariño-Tapia, Ismael</dc:creator>
+	<dc:creator xml:lang="en">Falqués, Albert</dc:creator>
+	<dc:subject xml:lang="en">Shoreline sand waves</dc:subject>
+	<dc:subject xml:lang="en">High angle wave instability</dc:subject>
+	<dc:subject xml:lang="en">Yucatán coast</dc:subject>
+	<dc:description xml:lang="en">Km-scale shoreline sand waves have been studied with a quasi two dimensional model (Q2D-morfo model) and with observations from a populated coastal zone in Yucatán (México) with frequent human interventions. The model was modified to improve the physics in the case of large amplitude shoreline sand waves that develop due to the high angle wave instability (HAWI). The modified version of the model can better reproduce the formation of large-amplitude shoreline sand waves, compared with the original model. Shorelines of Yucatán, from 2004 to 2012, were digitized and analyzed. Although undulations can be observed, they do not exhibit clear migration or growth, an indication of being in the limit of instability, in accordance with the results of the model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7714</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.68</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.68</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7714/pdf_868</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2264</identifier>
+				<datestamp>2021-01-17T05:49:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONGSHORE CURRENTS IN ONE AND MULTI-BAR PROFILES RELATION TO LITTORAL DRIFT</dc:title>
+	<dc:creator xml:lang="en">Bruun, Per</dc:creator>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">multibar profile</dc:subject>
+	<dc:subject xml:lang="en">littoral drift</dc:subject>
+	<dc:description xml:lang="en">This paper deals with longshore current theories. Introductorily it gives a brief review of wave theories for breaking waves including theoretical, laboratory as well as field results. Next the longshore current theory based on the momentum inflow over a uniformly sloping beach and bottom (Putnam, Munk and Traylor, 1949) is discussed with special reference to its friction factor. The following chapters deal with two new longshore current theories - both based on the continuity principle. One of them called the rip current approach assumes that all water thrown in by wave breaking runs out in rip currents and will probably be valid for profiles with well developed bars and waves approaching the shore almost perpendicularly. The other theory considers the fact that water from a wave breaking under an angle with the bar flows in with a certain phase difference in time longshore and this will create a longshore slope of the average water table, therefore also a longshore current. The water may return to sea uniformly as undertow or in rip currents or by a combination of both. This theory is particularly valid for waves breaking under a certain, not too small, angle with the bar. In both cases the momentum in the breaking waves is ignored because field observations show that in a well developed bar profile most of the momentum has disappeared inside the bar after wave breaking.
+Examples of computation of current velocities for one bar as well as multi-bar profiles are given. Next the possible relation between longshore currents and littoral drift is discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2264</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2264/1955</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6888</identifier>
+				<datestamp>2023-10-04T02:26:23Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOPOGRAPHY-INDUCED FOCUSING OF RANDOM WAVES</dc:title>
+	<dc:creator xml:lang="en">Smit, Pieter Bart</dc:creator>
+	<dc:creator xml:lang="en">Janssen, T. T.</dc:creator>
+	<dc:creator xml:lang="en">Herbers, T. H. C.</dc:creator>
+	<dc:subject xml:lang="en">wave focusing</dc:subject>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:subject xml:lang="en">stochastic wave model</dc:subject>
+	<dc:description xml:lang="en">Refraction of narrow-band surface waves in coastal areas can result in wave-focal zones where  due to interference, wave statistics vary  rapidly and on similar length scales as those of individual waves. However such interference patterns, or wave coherence, are not accounted for in conventional stochastic wave models that are based on the energy balance equation or radiative transfer equation. In this work we present a quasi-coherent theory, which is an extension of the radiative transfer equation and quasi-homogeneous theory. We show that this new stochastic modelling approach can resolve rapid variations in wave statistics that occur in the vicinity of a wave caustic. The results compare favourably to those obtained from ensemble averages calculated with a deterministic phase resolving model (SWASH) and, in a focal zone, constitute a significant improvement over those obtained with a conventional stochastic wave model based on an energy balance equation (SWAN).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6888</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6888/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

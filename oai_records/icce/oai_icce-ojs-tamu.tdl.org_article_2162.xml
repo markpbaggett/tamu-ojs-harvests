@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2162</identifier>
+				<datestamp>2021-01-17T06:15:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RECORDING ON THE IJSSELMEER</dc:title>
+	<dc:creator xml:lang="en">Roest, P. W.</dc:creator>
+	<dc:subject xml:lang="en">Ijsselmeer</dc:subject>
+	<dc:subject xml:lang="en">wave recording</dc:subject>
+	<dc:subject xml:lang="en">dike</dc:subject>
+	<dc:description xml:lang="en">The dimensions of the dikes in the Ijsselmeer are mainly determined by wave-attack. The dimensions of the waves as a result of the design gale are calculated with the diagram of the Hydraulics Laboratory at Delft (ref« 1). This diagram is based on data of Sverdrup for deep water and principally on laboratory studies for shallow water. For a long time there has been a need of wave recordings on the lake in order to verify the calculated wave heights. A problem is the impossibility of maintaining a permanent recording station on the lake due to ice-drift in wintertime. Otherwise the Ijsselmeer lends itself admirably to wave-research, because there are vast regions with only small variations in waterdepth. Another advantage is that frequently more or less stationary conditions will occur under the influence of winds of constant force and direction. When Dr. Dorrestein of the Royal Dutch Meteorological Institute introduced his new floating waverecorder, it was possible to take observations in every place of the lake. Soon it appeared that this recorder has many advantages. The equipment consists of an accelerometer mounted on a little raft of one meter each way, that follows the movement of the water surface. The signal of the accelerometer is transmitted by an electric cable to the ship, where it is double integrated and then recorded (ref. 3). During the last winter several observations have been carried out with an instrument of this type* As a result of initial troubles with the electronic equipment the number of observations during gale-conditions has been limited. The usual duration of each recording is about 15 minutes. The average period of the waves lies between three and a half and five seconds, so each diagram consists of 180 to 250 waves. Wave height is measured as the difference in height between a trough and the next crest. The average period is determined by dividing the total recording time by half the number of zerocrossings.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2162</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2162/1856</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

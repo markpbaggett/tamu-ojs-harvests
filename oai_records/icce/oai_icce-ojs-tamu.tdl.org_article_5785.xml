@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5785</identifier>
+				<datestamp>2021-01-19T10:27:18Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYTICAL MODEL FOR WAVE-RELATED TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Bosboom, Judith</dc:creator>
+	<dc:creator xml:lang="en">Klopman, Gert</dc:creator>
+	<dc:creator xml:lang="en">Reniers, Ad</dc:creator>
+	<dc:creator xml:lang="en">Stive, Marcel J.F.</dc:creator>
+	<dc:subject xml:lang="en">analytical model</dc:subject>
+	<dc:subject xml:lang="en">transport</dc:subject>
+	<dc:description xml:lang="en">A computationally efficient, analytical model to determine net sediment transport rates in oscillatory flow is presented. The model is based on (approximate) analytical solutions to the IDV momentum and advection-diffusion equations and on the subsequent analytical integration of the sediment flux over time and depth. The model is validated against measurements of sediment concentrations and net transport rates performed in WL|DELFT HYDRAULICS' Large Oscillating Water Tunnel (LOWT). Further, comparisons are made with the predictions of numerical IDV models and sediment transport formulae. The model gives accurate estimates of the net transport rates for medium sand. For finer sand, although qualitatively correct, the model fails to predict the strong offshore sediment transport rates at higher velocities, mainly due to limitations of the diffusion approach for the upward transport of sediment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5785</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5785/5454</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

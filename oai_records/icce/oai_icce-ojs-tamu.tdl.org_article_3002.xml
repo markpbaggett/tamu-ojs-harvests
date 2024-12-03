@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3002</identifier>
+				<datestamp>2021-01-20T02:15:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTERACTION OF PLANE WAVES WITH VERTICAL CYLINDERS</dc:title>
+	<dc:creator xml:lang="en">Spring, Bradford H.</dc:creator>
+	<dc:creator xml:lang="en">Monkmeyer, Peter L.</dc:creator>
+	<dc:subject xml:lang="en">plane waves</dc:subject>
+	<dc:subject xml:lang="en">vertical cylinder</dc:subject>
+	<dc:description xml:lang="en">This study deals with the interaction of linear, plane water waves with stationary groups of rigid, vertical, circular cylinders under conditions in which the inertial forces on the cylinders dominate over the drag forces. A direct matrix solution as well as multiple scattering as suggested by Twersky (1952) are used to obtain the velocity potential in the vicinity of the cylinders. The groups may consist of a number of cylinders having any geometric arrangement, may have Dirichlet, Neumann, or mixed boundary conditions, and need not have identical diameters. The study represents an extension of the single cylinder case presented by MacCamy and Fuchs in 1954. Basic scattering coefficients for 192 different arrangements of two cylinders are obtained with the aid of a Bessel coordinate transformation and a matrix inversion procedure. The resulting potential function is then applied to calculate force components in the direction of wave advance and orthogonal to it. For the cases considered the former departs as much as 65% from the force on a single cylinder and the mass coefficient is found to range from 1.19 to 3.38 - a not insignificant departure from the often used value of 2.0. Furthermore the orthogonal force may be as large as 67% of the single-cylinder force.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3002</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.107</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 107</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3002/2667</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7735</identifier>
+				<datestamp>2021-01-20T04:08:23Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BASIC STUDY ON ESTIMATION METHOD OF RETURN PERIOD AND VARIATION RANGE OF SEVERE STORM SURGE EVENT</dc:title>
+	<dc:creator xml:lang="en">Nakajo, Sota</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Soo-Youl, Kim</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Yamada, Fumihiko</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">return period</dc:subject>
+	<dc:subject xml:lang="en">stochastic tropical cyclone model</dc:subject>
+	<dc:description xml:lang="en">Probability risk assessment of storm surge is difficult because the number of historical data of tropical cyclone is not enough for region. Most hazard maps for storm surge were designed based on the assumption that intense tropical cyclone approached in target area. However, its return period and variation range of storm surge have not been considered carefully so much. In this study, we examined them by using stochastic tropical cyclone model and physical storm surge model. Target area was Yatsushiro bay in west Kyshu Island in Japan. From physical storm surge height caused by 300 causes, we decided the severe storm surge scenario and the variation range of maximum storm surge height caused by change of translation speed and radius of tropical cyclone. Finally, by using stochastic tropical cyclone model, the return period of severe storm surge event was estimated about 370 year.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7735</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7735/pdf_876</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

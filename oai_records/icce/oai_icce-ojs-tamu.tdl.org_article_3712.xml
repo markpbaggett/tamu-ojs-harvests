@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3712</identifier>
+				<datestamp>2021-01-19T22:12:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SURVEY TECHNIQUES/PROCEDURES AND DATA PROCESSING FOR MONITORING NEARSHORE SEDIMENT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Zacks, J.</dc:creator>
+	<dc:subject xml:lang="en">data processing</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">nearshore transport</dc:subject>
+	<dc:subject xml:lang="en">transport monitoring</dc:subject>
+	<dc:subject xml:lang="en">survey techniques</dc:subject>
+	<dc:description xml:lang="en">The cost of many coastal projects is often increased by the expensive beach repair and maintenance required to remedy the destabilising effects of structures on the adjoining coastline. Physical and/or mathematical models have been developed for use in planning these projects in order to predict and quantify the effects of marine sediment transport on the coastal topography. Such models need to be calibrated against prototype data and one method of gauging volumetric sediment movement is by successive bathymetric/ topographic profiting surveys which are performed seasonally and annually. Since large quantities of sediment are related to small changes in bed elevation it is clear that this profiling needs to be done with the utmost precision* The areas most affected extend from the beach through the surf zone to water depths of about 25 metres. The surf zone in particular is a dynamic and hostile area which falls outside the traditional activities of both the hydrographic and land surveyors. Consequently innovative methods, deficient in sound survey principle and practice, have often been pursued in this area without any attempt being made to assess the tolerance on the data. This paper attempts to show that it is possible to produce reliable and verifiable results to the required accuracy by using conventional survey equipment and techniques, also by taking the necessary precautions against the many possible sources of survey error. The procedures and techniques described have evolved from NRIO's involvement over the past decade in major projects at Richards Bay, Durban, Koeberg and in False Bay. The results of a recent verification investigation are fully reported in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3712</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.97</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 97</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3712/3395</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

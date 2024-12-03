@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4969</identifier>
+				<datestamp>2021-01-19T14:59:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE JOINT DISTRIBUTION OF WAVE HEIGHT, PERIOD AND DIRECTION OF INDIVIDUAL WAVES IN A THREE-DIMENSIONAL RANSOM SEA</dc:title>
+	<dc:creator xml:lang="en">Kwon, J.G.</dc:creator>
+	<dc:creator xml:lang="en">Deguchi, Ichiro</dc:creator>
+	<dc:subject xml:lang="en">random sea</dc:subject>
+	<dc:subject xml:lang="en">joint distribution</dc:subject>
+	<dc:subject xml:lang="en">height distribution</dc:subject>
+	<dc:subject xml:lang="en">wave direction</dc:subject>
+	<dc:description xml:lang="en">A theoretical expression for the joint disribution of wave height, period and direction is derived based on the hypothesis that sea surface is a Gaussian stochastic process and that a band-width of energy spectra is sufficiently narrow. The derived joint distribution is found to be an effective measure to investigate characteristics of three-dimensional random wave fields in shallow water through field measurements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4969</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4969/4649</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

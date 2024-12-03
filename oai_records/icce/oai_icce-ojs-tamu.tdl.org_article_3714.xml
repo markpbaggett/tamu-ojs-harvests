@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3714</identifier>
+				<datestamp>2021-01-19T22:12:11Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEW FRAMEWORK FOR PREDICTION OF LONGSHORE CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Fleming, C.A.</dc:creator>
+	<dc:creator xml:lang="en">Swart, D.H.</dc:creator>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">current prediction</dc:subject>
+	<dc:description xml:lang="en">The accuracy of prediction of longshore sediment transport depends largely on the accuracy with which the wave-driven longshore currents within the breaker zone can be predicted. Longuet-Higgins (1970) developed a formulation for longshore transport which is widely used today. In the present paper the basic theory of Longuet-Higgins is reexamined. The effect of bed roughness on the magnitude of the longshore current is quantified with the aid of over 350 individual data sets and the theory is theoretically extended to include the effect of random waves, in a similar way to Battjes (1974), and higher-order waves. For this latter purpose the Vocoidal water wave theory of Swart (1978) is used. It is shown that the use of Vocoidal theory leads to a velocity distribution which is in closer correspondence to measured data than that predicted by using linear wave theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3714</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.99</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 99</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3714/3397</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

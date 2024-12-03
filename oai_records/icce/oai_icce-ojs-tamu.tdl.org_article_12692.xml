@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12692</identifier>
+				<datestamp>2023-09-01T15:12:17Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATION OF SPECTRAL ENERGY DISTRIBUTION IN WAVE GROUPS DUE TO PRESENCE OF VEGETATION</dc:title>
+	<dc:creator xml:lang="en">Ram, N Hari</dc:creator>
+	<dc:creator xml:lang="en">Sriram, V</dc:creator>
+	<dc:creator xml:lang="en">Murali, K</dc:creator>
+	<dc:description xml:lang="en">This work presents an experimental study of long-period waves passing over modelled vegetation belts, focusing on the energy attenuation process through vegetation belts and their characteristics. The wave passing over a slope and interacting with vegetation has complex flow characteristics. Thus, the process of energy attenuation by the vegetation has been investigated in this study. Monochromatic waves were considered, and the attenuation characteristics over vegetation belts of different lengths have been discussed in detail. The wave characteristics were discussed in the spectral domain considering the primary frequency and higher harmonics of incident waves to understand the attenuation process of vegetation. The attenuation by vegetation consists of shifting of energy from primary frequencies to higher harmonics and the dissipation of energy from the higher harmonics. The importance of vegetation belt length in energy attenuation has been proved through this investigation in detail.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12692</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12692/11965</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 N Hari Ram, V Sriram, K Murali</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

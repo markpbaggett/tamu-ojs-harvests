@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3876</identifier>
+				<datestamp>2021-01-19T21:14:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCALE-MODEL RELATIONSHIP OF BEACH PROFILE</dc:title>
+	<dc:creator xml:lang="en">Ito, Masahiro</dc:creator>
+	<dc:creator xml:lang="en">Tsuchiya, Yoshito</dc:creator>
+	<dc:subject xml:lang="en">beach profile</dc:subject>
+	<dc:subject xml:lang="en">scale model</dc:subject>
+	<dc:subject xml:lang="en">scale relationship</dc:subject>
+	<dc:description xml:lang="en">This paper presents a scale-model relationship for the similarity between large and small scale-models in two-dimensional equilibrium beach profiles. Taking large scale-models using large scale equipment as prototypes, the experimental scale of a medium-sized model was gradually varied keeping the grain size ratio of model to prototype constant. A similarity-comparison between large and small scale beach profiles is made by considering the degree of experimental errors. Judgement results are graphically shown, and a scale-model relationship is proposed. It is found that the scale-model relationship proposed agrees with the ones derived from the empirical formulae expressing the properties of beach profiles. Additionally, the applicability of this scale-model relationship to the reproduction test of natural beaches is examined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3876</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3876/3559</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6837</identifier>
+				<datestamp>2023-10-04T02:32:16Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SAND BORROW AREA DESIGN REFINEMENT TO REDUCE MORPHOLOGICAL IMPACTS: A CASE STUDY OF PANAMA CITY BEACH, FLORIDA, USA.</dc:title>
+	<dc:creator xml:lang="en">Taiani, Luana</dc:creator>
+	<dc:creator xml:lang="en">Benedet, Lindino</dc:creator>
+	<dc:creator xml:lang="en">Silveira, Lucas</dc:creator>
+	<dc:creator xml:lang="en">Keehn, Stephen</dc:creator>
+	<dc:creator xml:lang="en">Sharp, Nicole</dc:creator>
+	<dc:creator xml:lang="en">Bonanata, Rafael</dc:creator>
+	<dc:subject xml:lang="en">dredge pit</dc:subject>
+	<dc:subject xml:lang="en">erosion hot-spot</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:description xml:lang="en">The coastline of Panama City Beach, Florida (FL) has been stricken by several hurricanes during the last decades, especially after 1995. In 1998, beach nourishment projects started being implemented to address the impacts of the hurricanes on the coast. Sources of sand for that purpose are commonly from borrow areas located just offshore of the nourishment site. Impacts of these nearshore dredge pits on adjacent coasts will depend on incident wave conditions, nourishment sediment characteristics and some features of the borrow pit (distance from the shore, depth of cut, cross-shore extent, alongshore extent and orientation - Bender &amp; Dean, 2003; Benedet &amp; List, 2008). The practical goal of the current study was to mitigate for the negative potential effects by discovering the less impactful design of dredge pit geometries on the Borrow Area S1 in Bay County-FL. Five different cut widths and excavation depths within the permitted limits were herein evaluated. Evaluation of morphological impacts on adjacent beaches was carried with the processed-based morphodynamic model Delft3D, calibrated and simulated for a period of 13 years. Results were evaluated in terms of beach volume changes compared against a baseline simulation (no action).Switching from Alternative 1 (6,260,000 m³) to Alternative 2 (5,380,000 m³) does not result in a substantial reduction of the borrow area's projected impact. The cut depth is still deep, and the surface area is unchanged. Alternative 3 (3,555,000 m³) is able to provide more substantial reductions in the borrow area's impact. By reducing the acreage of the borrow area and switching to a uniform cut depth, the projected impact of the borrow area decreases 39% for 1.56 km along the downdrift beach. Under Alternatives 4 (3,060,000 m³) and 5 (2,755,000 m³), the impacts of the borrow area are projected to be less than 3.75 m³/m/yr. While both alternatives are viable, Alternative 5 minimizes potential impacts, and has a uniform cut depth and a volume that still satisfies the project's requirements. Given these considerations, Alternative 5 is the preferred alternative. Additionally, all the alternatives increase the net-accretion along 6.5 km of Shell Island between 0.25 to 1 m³/lm/yr., a valuable side effect in a region with high net erosion. By conducting various simulations an optimal borrow area design has been identified that reduces its effects on the adjacent beaches.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6837</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.103</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.103</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6837/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

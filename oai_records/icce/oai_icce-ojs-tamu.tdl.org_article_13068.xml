@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13068</identifier>
+				<datestamp>2023-09-01T15:15:35Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME RAINFALL-RUNOFF MODELING DURING REMNANTS OF IDA IN NEW YORK</dc:title>
+	<dc:creator xml:lang="en">Kurum, Onur</dc:creator>
+	<dc:creator xml:lang="en">Kelly, Dave M.</dc:creator>
+	<dc:creator xml:lang="en">J.Roberts, Keith</dc:creator>
+	<dc:creator xml:lang="en">Nairn, Rob</dc:creator>
+	<dc:description xml:lang="en">While the effects of wind and pressure on coastal waters can generate large storm surges that lead to coastal flooding, storm surge represents only one driver of flooding. In reality, flooding is often driven by the combined action of several geophysical drivers (Couasnon et al., 2020; Zscheischler et al., 2018). Formally compound flooding is defined as the combined action of meteorological forces, tidal forces,, fluvial, and pluvial discharge (Zscheischler et al., 2018). Recent events such as the extreme rainfall associated with the remnants of Hurricane Ida in the Northeast United States have demonstrated the need to model the rainfall-runoff impact (i.e., pluvial flooding) and its downstream impact (i.e., fluvial flooding).  In extreme rainfall cases in which large quantities of precipitation fall in short periods, urban environments often flood, and wastewater collection systems often exceed their design limit. In severe scenarios, surcharged sewer systems can significantly exacerbate urban flooding. While several existing flood risk methods consider storm surge in them approach, it remains active research topic concerning how and when rainfall-runoff processes should be incorporated in flooding models to assess site-specific flood risk. Often an approach is pursued that involves loosely coupling multiple numerical models each modeling a particular flood driver; however, this approach can become cumbersome. Instead in this work we pursue a different approach in which compound flooding can be resolved in a single numerical model (herein termed a monolithic approach).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13068</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.110</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.110</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13068/12341</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Onur Kurum, Dave M. Kelly, Keith J.Roberts, Rob Nairn</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12806</identifier>
+				<datestamp>2023-09-01T15:13:20Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATION INTO THE MECHANISMS OF CREST GROWTH ON GRAVEL BERMS</dc:title>
+	<dc:creator xml:lang="en">Foss, Oliver</dc:creator>
+	<dc:creator xml:lang="en">Blenkinsopp, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Bayle, Paul</dc:creator>
+	<dc:description xml:lang="en">The continual sea-level rise predicted over the next century poses a significant threat to coastal regions. Preserving the coastline will require innovative coastal protection techniques and structures. A potential defence is to introduce artificial gravel beaches (Loman et al., 2010), or dynamic revetments (Bayle et al., 2020), a gravel berm placed at the high tide berm(Bayle et al., 2020). A key feature of these types of defences is their ability to maintain the berm elevation relative to the water level. As the water level rises, the structure is overtopped by waves which drives sediment up and over the berm crest peak. This leads to elevation gain for the berm and limits the landward excursion of waves. Berm crest behaviour has only been recorded at frequencies that do not allow wave-by-wave analysis of the process and the resultant ‘snapshot’ profiles may not be representative of the true variability of gravel berms. Through application of continuous 2-D Lidar monitoring on several active gravel berms this paper addresses this gap. It presents new findings related to sediment transport at the berm crest, the morphodynamic behavior under wave attack and a conceptual model for berm state.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12806</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12806/12079</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Oliver Foss, Christopher Blenkinsopp, Paul Bayle</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1166</identifier>
+				<datestamp>2023-10-04T04:07:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF A SIMPLE HYDRODYNAMIC MODEL TO ESTUARY ENTRANCE</dc:title>
+	<dc:creator xml:lang="en">McLean, Errol J.</dc:creator>
+	<dc:creator xml:lang="en">Hinwood, Jon B.</dc:creator>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">model</dc:subject>
+	<dc:subject xml:lang="en">decision support</dc:subject>
+	<dc:subject xml:lang="en">tidal analysis</dc:subject>
+	<dc:description xml:lang="en">Tidal inlets which link a tidal basin to the sea via a constricted entrance are common on the south-east Australian coast. Closure, or even significant constriction, raises water levels but restricts tidal range within the basin, while open entrances provide regular and significant tidal exchange with the ocean. A rapid assessment procedure with minimal data requirements has been shown to be informative for monitoring and a useful component of any Decision Support System set up as part of a management structure. Such a system is presented in this paper. It is based on one permanent water level gauge inside the inlet plus the use of a simple, first-order hydrodynamic model to relate the tide range, mean water level and river flow to the inlet cross sectional area. The method is tested against data from the
+Snowy River Estuary in south-eastern Australia but would be suitable over a range of estuaries. In addition, the framework presented can also provide a mechanism to explore conditions over the range of expected data, thus allowing better selection of model schematization and runs in estuarine systems where the use of 2 or 3D modeling can be justified.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1166</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1166/pdf_224</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1166/7673</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1166/7674</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8757</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TURBULENT OSCILLATORY FLOW OVER RIPPLES AT HIGH REYNOLDS NUMBERS FOR PETA-SCALE SIMULATIONS</dc:title>
+	<dc:creator xml:lang="en">Oyarzun, Guillermo</dc:creator>
+	<dc:creator xml:lang="en">Dimas, Athanassios</dc:creator>
+	<dc:description xml:lang="en">Surface waves in the coastal zone induce oscillatory flow motions in the vicinity of the seabed. These wave-induced coastal flows interact with the sandy seabed and modify the bed shape by generating coherent small-scale bed structures, which are generally known as ripples. The presence of ripples in oscillatory flows is important due to the impact they have on the seabed roughness and how they affect the near-bed boundary layer hydrodynamics. Simulations of higher and more real-scale Reynolds number (Re) require the use of supercomputers in order to obtain results in a reasonable amount of time. However, the constant evolution of the computing facilities makes the development of parallel algorithms a rather difficult task. The objective of the proposed research is to advance in the comprehension of coastal processes utilizing high performance computing (HPC) for the numerical simulation of the three-dimensional, turbulent flow, which is induced in the coastal zone by wave propagation. In particular, our CFD code (SimuCoast) has been developed using a hybrid MPI+OpenACC execution model that increases its scalability and allows it to engage the vast majority of high-end supercomputers. Special attention has been paid in the parallelization strategy of the Poisson solver that is the most computational demanding operation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8757</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8757/7558</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8757/8119</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

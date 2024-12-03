@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6934</identifier>
+				<datestamp>2023-10-04T02:51:39Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSMENT OF HYDRAULIC LOADS AND DERIVATION OF FAILURE PROBABILITIES AS A BASIS FOR THE DEERMINATION OF FRAGILITY CURVES FOR FLOOD DEFENCE DUNES</dc:title>
+	<dc:creator xml:lang="en">Gruhn, Angelika</dc:creator>
+	<dc:creator xml:lang="en">Salecker, Dörte</dc:creator>
+	<dc:creator xml:lang="en">Fröhle, Peter</dc:creator>
+	<dc:creator xml:lang="en">Schuttrumpf, Holger</dc:creator>
+	<dc:creator xml:lang="en">Thorenz, Frank</dc:creator>
+	<dc:subject xml:lang="en">flood defence dunes</dc:subject>
+	<dc:subject xml:lang="en">failure probability</dc:subject>
+	<dc:subject xml:lang="en">fragility curve</dc:subject>
+	<dc:subject xml:lang="en">bivariate statistics</dc:subject>
+	<dc:subject xml:lang="en">copula models</dc:subject>
+	<dc:description xml:lang="en">Low lying coastal areas have always been preferred settlement areas as well as trading and industrial areas. Unfortunately, those areas are strongly endangered by extreme storm surges. In the event of a flood defence failure, protected areas are flooded and damages have to be expected. For the assessment and management of flood risk, the European Union approved the "Directive of the European Parliament and the Council on the assessment and management of flood risk†. 
+As one part of a risk and damage analysis the risk of flooding - being the product of failure probability of a certain flood defence and the damages resulting from a failure of this flood defence - has to be determined. One possibility for the assessment of the failure probability is provided by fragility curves. A method for the derivation of fragility curves for flood defence dunes is described. Hence, the applied dune erosion model as well as the method for the derivation of the required input data is explained. Furthermore, first results of the calculation of failure probabilities and fragility curves are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6934</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6934/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

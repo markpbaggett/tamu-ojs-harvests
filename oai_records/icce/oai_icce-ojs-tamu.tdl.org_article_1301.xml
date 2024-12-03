@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1301</identifier>
+				<datestamp>2023-10-04T03:53:18Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DOWNSCALING EFFECTS ON MODELLING WAVES, TIDES AND STORM SURGE</dc:title>
+	<dc:creator xml:lang="en">Chen, Yongping</dc:creator>
+	<dc:creator xml:lang="en">Pan, Shunqi</dc:creator>
+	<dc:creator xml:lang="en">Wolf, Judith</dc:creator>
+	<dc:creator xml:lang="en">Du, Yanliang</dc:creator>
+	<dc:subject xml:lang="en">downscaling effect</dc:subject>
+	<dc:subject xml:lang="en">nested model</dc:subject>
+	<dc:subject xml:lang="en">wave</dc:subject>
+	<dc:subject xml:lang="en">tide and surge modelling</dc:subject>
+	<dc:subject xml:lang="en">POLCOMS</dc:subject>
+	<dc:subject xml:lang="en">WAM</dc:subject>
+	<dc:subject xml:lang="en">ProWAM</dc:subject>
+	<dc:subject xml:lang="en">Celtic Sea</dc:subject>
+	<dc:description xml:lang="en">This paper presents the results of downscaling effects when modelling waves, tides and storm surge using a nested modelling system. In this study, the coupled POLCOMS/ProWAM models are used, with 3 nested computational domains, the largest of which covers part of north-eastern Atlantic Ocean with a coarse resolution grid and the smallest covers the surrounding waters of south-west Cornish coast of the UK with a finer resolution grid. Applying the identical surface wind forcing to all 3 computational domains and the wave and tide boundary conditions provided from the coarse to finer domains, the computed wave heights, tides and surge levels are examined at selected locations to study the downscaling effects. The results show that downscaling could considerably increase accuracy of model predictions in the local domain. For the particular test conditions used in the present study, 3-level and 2-level downscaling produces similar results in the local domain. The results also indicate that downscaling with reduction of grid resolution by 6 times is acceptable for the study site.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1301</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1301/pdf_309</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

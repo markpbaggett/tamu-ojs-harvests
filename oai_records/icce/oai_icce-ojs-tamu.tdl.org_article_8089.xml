@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8089</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LINEAR SOLUTION FOR GENERATION OF TSUNAMI WAVES WITH GROUND MOTION AND TIMESCALES</dc:title>
+	<dc:creator xml:lang="en">Le Gal, Marine</dc:creator>
+	<dc:creator xml:lang="en">Violeau, Damien</dc:creator>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:subject xml:lang="en">tsunami wave generation</dc:subject>
+	<dc:subject xml:lang="en">timescales</dc:subject>
+	<dc:subject xml:lang="en">linear theory</dc:subject>
+	<dc:description xml:lang="en">Tsunami generation have commonly been modeled by using the Okada method (see Okada (1992)), i.e. from seismic data, the final ground deformation is calculated and applied to the free surface as an initial deformation. Using this method, lot of aspects of the generation are neglected, including timescales. The aim of this study is to measure the influence of temporal parameters during a simplified kinematic generation. In this purpose, a junction between the work of Hammack (1973) and Todorovska and Trifunac (2001) is done to built a linear semi-analytical solution of the free surface deformation depending simultaneously of the the rise time, tr, and the rupture velocity, vp. They characterize the vertical and horizontal motions respectively. This solution is compared and validated with numerical simulations and the influence of the temporal parameters is measured by varying their values in a large range. A resonance phenomenon appears, as noticed by Todorovska and Trifunac (2001), but only for short rise times. It manifests an amplification of the generated wave amplitude against the ground deformation amplitude at the end of the motion. Then, using numerical simulations, this conclusion is briefly extended to the nonlinear regime.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8089</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8089/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

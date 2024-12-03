@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4469</identifier>
+				<datestamp>2021-01-19T17:49:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STOCHASTIC MODELING OF SURFING CLIMATE</dc:title>
+	<dc:creator xml:lang="en">Rally, William E.</dc:creator>
+	<dc:subject xml:lang="en">surfing climate</dc:subject>
+	<dc:subject xml:lang="en">stochastic modeling</dc:subject>
+	<dc:description xml:lang="en">A continued increase in the popularity of surfing, coupled with the potential for adverse impacts by coastal construction projects on favored surfbreaks, has recently confronted engineers with the problem of defining and quantifying a 'good' surfbreak. A rudimentary analysis of surfing mechanics demonstrates that conditions can be examined in terms of the joint statistical climate of 1) breaker peel rate, and 2) attainable board speed as characterized by the Irribarren Number. Assuming a planar beach and using linear wave theory, two theoretical models for the joint probability density of peel rate and Irribarren Number can be used to appraise short-term surfing conditions. Results indicate that the shortcrested character of real waves plays a primary role in enhancing surfbreak. For practical calculations of longterm surfing climate at specific sites, offshore wave gage data can be transformed across a measured beach profile to predict breaker conditions in the outer surf zone. Application of such a numerical algorithm to the beach at Duck, North Carolina indicates that the waves are suitable for surfing roughly 25% of the time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4469</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4469/4150</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

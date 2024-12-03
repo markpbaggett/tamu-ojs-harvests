@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3643</identifier>
+				<datestamp>2021-01-19T22:35:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE ENERGY VARIATION NEAR CAPE TOWN, SOUTH AFRICA</dc:title>
+	<dc:creator xml:lang="en">Shillington, F.A.</dc:creator>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">energy variation</dc:subject>
+	<dc:subject xml:lang="en">Cape Town</dc:subject>
+	<dc:subject xml:lang="en">South Africa</dc:subject>
+	<dc:description xml:lang="en">A three month time series of wave height measurements taken every six hours for twenty minutes duration at two sites (one in 24 m deep water and the other in 15 m deep water) off the South African coast have been used to examine wave energy dissipation. The rocky nature of the bottom has ruled out the possibility of dissipation due to sediment motion and percolation and only dissipation due to bottom friction has been considered. The theoretical work of Hasselmann and Collins 1968 has provided the basic technique. Average friction factors obtained have been in the range 0.17 to 0.50 but have very large scatter. Such large friction factors were not considered possible until recently (Grant and Madsen 1982) when it has been shown that if the hydraulic roughness is of the same order as the bottom orbital excursion, the friction factor tends to a value of 0.23. An attempt will be made in future work to reduce the scatter of the results by careful selection from a longer subsection of the original time series.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3643</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3643/3326</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7720</identifier>
+				<datestamp>2021-01-20T04:10:15Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">3D LBM NUMERICAL SIMULATION OF MIXED SAND SORTING UNDER OSCILLATORY FLOWS AND PROGRESSIVE WAVES</dc:title>
+	<dc:creator xml:lang="en">He, Lulu</dc:creator>
+	<dc:creator xml:lang="en">Souda, Kouhei</dc:creator>
+	<dc:creator xml:lang="en">Kioka, Wataru</dc:creator>
+	<dc:creator xml:lang="en">Kitano, Toshikazu</dc:creator>
+	<dc:subject xml:lang="en">LBM</dc:subject>
+	<dc:subject xml:lang="en">vertical sorting</dc:subject>
+	<dc:subject xml:lang="en">mixed-grain-size sediments</dc:subject>
+	<dc:subject xml:lang="en">oscillatory flow</dc:subject>
+	<dc:subject xml:lang="en">cnoidal wave</dc:subject>
+	<dc:description xml:lang="en">A 3D numerical model based on Lattice Boltzmann Method (LBM) has been developed to investigate the particle behavior of mixed-grain-size sediments under oscillatory flows and progressive waves. The model considers both particle-particle interaction and particle-fluid interaction with free surface flow and SGS turbulence model. By applying the present model, simulations of mixed-grain-size sediments with different influence factors (i.e., Shields parameters, periods, bottom layer thicknesses) under symmetric oscillatory flows as well as under progressive cnoidal wave are performed to understand the vertical sorting process of graded sands. The results of mixed sands under symmetric oscillatory flows show that the water particle semi-excursion is a key influence factor on the armoring effect. For the cnoidal wave, the vertical sorting proceeds until the wave crest passes by and it fully develops in a complete period. The concentration centroid of large particles becomes higher landward within 2 periods.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7720</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.69</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.69</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7720/pdf_870</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

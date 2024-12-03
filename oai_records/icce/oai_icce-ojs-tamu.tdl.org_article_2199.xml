@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2199</identifier>
+				<datestamp>2021-01-17T06:02:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL TESTS ON THE MOTION OF MOORED SHIPS PLACED ON LONG WAVES</dc:title>
+	<dc:creator xml:lang="en">Kilner, F.A.</dc:creator>
+	<dc:subject xml:lang="en">moored ship</dc:subject>
+	<dc:subject xml:lang="en">longitudinal mooring</dc:subject>
+	<dc:subject xml:lang="en">harmonic motion</dc:subject>
+	<dc:description xml:lang="en">The equation of motion for a moored ship, subject to stationary wave action, is presented and discussed. The moorings are longitudinal, the ship is considered to be aligned to the direction of wave motion and positioned at a node, and the wave length is assumed long compared with the ship length. If the motion of the ship is assumed to be simple harmonic, and frictional forces between the ship and the water are neglected, an elementary analysis gives the required relation between the amplitudes of the ship's movement and of the water particle motion associated with the wave, A description is given of some tests carried out on model ships moored in a flume where stationary waves can be generated, and the amplitude and period can be varied independently. In these experiments, the amplitude of ship movement could be measured visually, or inferred from strain gauge readings, and the water motion was also observed. The results of these tests are compared with the simple theory. A table tilting harmonically is shown to be a mechanical analogy to stationary wave action on ships. The hydrodynamic mass for a ship moving in surge or sway motion is measured and is found to depend on the depth of water in which the ship is moored.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2199</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2199/1893</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5658</identifier>
+				<datestamp>2021-01-19T11:08:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INFLUENCE OF FALSE WAVES ON WAVE RECORDS STATISTICS</dc:title>
+	<dc:creator xml:lang="en">Gimenez, Marcos H.</dc:creator>
+	<dc:creator xml:lang="en">Sanchez-Carratala, Carlos R.</dc:creator>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:subject xml:lang="en">false waves</dc:subject>
+	<dc:subject xml:lang="en">wave record</dc:subject>
+	<dc:subject xml:lang="en">record statistics</dc:subject>
+	<dc:description xml:lang="en">Wave discretization is a usual procedure in ocean engineering for the statistical analysis of wave records. Different criteria can be used for performing that discretization. The orbital criterion presents important advantages with respect to the zero-up-crossing criterion, more commonly used. These criteria provide significantly different statistical results, as shown when applied to wave records from the scalar Waverider buoy of Valencia, off the Mediterranean Spanish coast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5658</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5658/5328</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5513</identifier>
+				<datestamp>2021-01-19T11:56:40Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN ANALYSIS OF PARTICLE SALTATION DYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Krecic, Michael R.</dc:creator>
+	<dc:creator xml:lang="en">Hanes, Daniel M.</dc:creator>
+	<dc:subject xml:lang="en">saltation</dc:subject>
+	<dc:subject xml:lang="en">saltation dynamics</dc:subject>
+	<dc:subject xml:lang="en">particle dynamics</dc:subject>
+	<dc:description xml:lang="en">A two-dimensional particle saltation model for unidirectional flow is applied to simulate the motion of single particles. The equations of motion include added mass, gravity, drag, shear lift, Basset history, and Magnus or spin lift forces. A sensitivity analysis is performed on the forces, initial lift-off speeds and angles, and for different size particles. The Magnus lift force is found to have a significant effect on a particle's trajectory for coarse sand sized and larger particles. The shear lift and Basset history forces cause particles to saltate farther. Most of the forces vary with particle size. The model predictions compare favorably to observations if appropriate initial conditions are assumed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5513</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5513/5187</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

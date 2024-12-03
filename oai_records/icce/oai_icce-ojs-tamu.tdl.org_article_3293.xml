@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3293</identifier>
+				<datestamp>2021-01-20T00:33:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION OF WATER PARTICLE VELOCITY OF BREAKING WAVE</dc:title>
+	<dc:creator xml:lang="en">Sakai, Tetsuo</dc:creator>
+	<dc:creator xml:lang="en">Iwagaki, Yuichi</dc:creator>
+	<dc:subject xml:lang="en">breaking wave</dc:subject>
+	<dc:subject xml:lang="en">particle velocity</dc:subject>
+	<dc:subject xml:lang="en">velocity estimation</dc:subject>
+	<dc:description xml:lang="en">A possibility to estimate the water particle velocity of breaking wave on beaches by giving only the values of the beach slope i and the deep-water wave steepness H0/Lo is investigated. The data of the water particle velocity and profile of breaking wave on the beaches measured by Iwagaki, Sakai, Tsukioka and Sawai(1974) are used for this purpose. A method of using empirical curves relating the coefficients of Dean's stream function to i and H0/L0 does not give good results. The relations between the asymmetric breaking wave profile, i and Ho/L0 are examined. As well as the front face of the profile, the slope behind the crest above some level is found to become steep when H0/L0 becomes small. The breaking wave profiles are reproduced by using the empirical curves relating the parameters characterizing the breaking wave profile to i and Ho/L0. The velocity of Dean's stream function calculated from the reproduced profile explains the measured velocity better than that of Stokes waves. It is therefore possible to estimate the water particle velocity of breaking wave on beaches by giving only the values of i and Ho/Lo.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3293</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3293/2961</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12810</identifier>
+				<datestamp>2023-09-01T15:13:22Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">S2SHORES: A PYTHON LIBRARY FOR ESTIMATING COASTAL BATHYMETRY</dc:title>
+	<dc:creator xml:lang="en">Bergsma, Erwin W. J.</dc:creator>
+	<dc:creator xml:lang="en">Almar, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Giros, Alain</dc:creator>
+	<dc:creator xml:lang="en">Lemai-Chenevier, Solange</dc:creator>
+	<dc:creator xml:lang="en">Thoumyre, Gregoire</dc:creator>
+	<dc:creator xml:lang="en">Artigues, Stephanie</dc:creator>
+	<dc:creator xml:lang="en">Garlan, Thierry</dc:creator>
+	<dc:creator xml:lang="en">Degoul, Romain</dc:creator>
+	<dc:description xml:lang="en">Understanding coastal zone dynamics covering large spatial and dense temporal scales is paramount to understand and mitigate emerging coastal issues relating to climatological changes. However, the uncertainties on the coastal zone risks are still too large to predict effectively impacts on an overall increasing coastal population. Prediction, by deploying numerical models for waves, tide, and currents in the coastal zone, requires accurate and up-to-date bottom boundary conditions (bathymetry) to simulate coastal hydrodynamics accurately, let alone predict morphological change. There are three main approaches for estimating coastal bathymetry using satellite sensors: 1) linking water depth to a spectral response (colour), 2) underwater photogrammetry and 3) linking wave kinematics to a water depth.  Here, we present S2Shores (Satellite to Shores), a python library that detects and extracts local wave parameters (geometry and kinematics) to derive coastal bathymetry.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12810</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12810/12083</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Erwin W. J. Bergsma, Rafael Almar, Alain Giros, Solange Lemai-Chenevier, Gregoire Thoumyre, Stephanie Artigues, Thierry Garlan, Romain Degoul</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

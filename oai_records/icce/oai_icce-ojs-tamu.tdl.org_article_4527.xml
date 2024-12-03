@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4527</identifier>
+				<datestamp>2021-01-19T17:30:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ROCK SLOPES UNDER IRREGULAR WAVE ATTACK</dc:title>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:creator xml:lang="en">Wurjanto, Andojo</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:subject xml:lang="en">rock slope</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">wave attack</dc:subject>
+	<dc:description xml:lang="en">The numerical model that was shown to be in fair agreement with six test runs of available data on the stability of rock units under irregular wave attack is used to examine the critical incident wave profile associated with the minimum rock stability for each run. The minimum rock stability computed for the runs with dominant plunging waves on gentler slopes is caused by the large wave with the maximum crest elevation during its uprush on the slope. The minimum rock stability computed for the runs with dominant surging waves on steeper slopes is caused by the downrushing water with high velocities resulted from a large zero-upcrossing wave with a high crest followed by a deep trough. In addition, a simplified model is proposed to predict the eroded area due to the movement and dislodgement of rock units using the probability of armor movement computed by the numerical model. This model is shown to be in qualitative agreement with the empirical formula of Van der Meer (1988).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4527</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4527/4208</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

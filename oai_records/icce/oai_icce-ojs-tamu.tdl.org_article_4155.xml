@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4155</identifier>
+				<datestamp>2021-01-19T19:37:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERIFICATION OF THE ANALYTICAL MODEL FOR OCEAN WAVE-SOIL-CAISSON INTERACTION</dc:title>
+	<dc:creator xml:lang="en">McDougal, William G.</dc:creator>
+	<dc:creator xml:lang="en">Tsai, Yau-Tang</dc:creator>
+	<dc:creator xml:lang="en">Sollitt, Charles K.</dc:creator>
+	<dc:subject xml:lang="en">caisson</dc:subject>
+	<dc:subject xml:lang="en">analytical model</dc:subject>
+	<dc:subject xml:lang="en">wave-soil-caisson interaction</dc:subject>
+	<dc:description xml:lang="en">An analytical model for wave-soil-caisson interaction is verified by comparison with a finite element model and large scale experimental results. The analytical and finite element model estimates of the stresses and surface displacements of an elastic layer of finite thickness are in good agreement. The physical model experiments were conducted at the O.H. Hinsdale Wave Research Facility at Oregon State University. A 10-ft high, 8-ft long caisson was constructed on a bedding layer overlying 1 to 3 ft of soil. The caisson was exposed to waves with heights of 0.68 to 4.4 ft with periods of 1.77 to 8.80 sec. Experimental and analytical comparisons for porewater pressure were in agreement but the displacements were quite scattered.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4155</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.154</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 154</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4155/3836</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

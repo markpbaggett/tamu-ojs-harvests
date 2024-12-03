@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12681</identifier>
+				<datestamp>2023-09-01T15:12:09Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY OF BURIED SCOUR PROTECTION IN SHALLOW COASTAL WATERS</dc:title>
+	<dc:creator xml:lang="en">Kerpen, Nils B.</dc:creator>
+	<dc:creator xml:lang="en">Schendel, Alexander</dc:creator>
+	<dc:creator xml:lang="en">Forgan, Henry</dc:creator>
+	<dc:creator xml:lang="en">Peters, Dirk Jan</dc:creator>
+	<dc:creator xml:lang="en">Zigterman, Erik</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:description xml:lang="en">Physical model tests were conducted to verify the stability of a conceptual scour protection design placed around monopiles in varying water depth and under combined wave and current load. The tests were performed in a 3D wave-current basin at Ludwig-Franzius-Institute, Leibniz University Hannover in a model scale of 1:35. As a unique boundary condition compared to previous studies, the scour protection around the monopile was placed below a mobile sand bed. Before waves and current could act on the scour protection, the overlaying sand layer had to be eroded. The scouring process of this sand layer was evaluated, and the stability of the armour layer of the underlying scour protection quantitatively assessed. The characteristics of the scour development and the damage of the armour layer were described as a function of several wave-current load combinations and different morphodynamic stages of the beach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12681</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12681/11954</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Nils B. Kerpen, Alexander Schendel, Henry Forgan, Dirk Jan Peters, Erik Zigterman, Torsten Schlurmann</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

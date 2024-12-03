@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4327</identifier>
+				<datestamp>2021-01-19T18:38:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CARIBBEAN BEACH-FACE SLOPES AND BEACH EQUILIBRIUM PROFILES</dc:title>
+	<dc:creator xml:lang="en">Boon, John D.</dc:creator>
+	<dc:creator xml:lang="en">Green, Malcolm O.</dc:creator>
+	<dc:subject xml:lang="en">beach equilibrium profiles</dc:subject>
+	<dc:subject xml:lang="en">beach profiles</dc:subject>
+	<dc:subject xml:lang="en">Caribbean</dc:subject>
+	<dc:subject xml:lang="en">beach slope</dc:subject>
+	<dc:description xml:lang="en">Field measurements performed on two Caribbean islands revealed that two-dimensional nearshore bottom morphology is well represented by Dean's (1977) model of the beach equilibrium profile, h - A xm, where h is depth below mean water level at a distance x offshore and A is a scale factor. For the curvature, m, we obtained an average value of approximately m - 1/2 through least squares curve fitting of observed profile data, yielding a more concave and therefore steeper profile inshore than m - 2/3, the average previously reported by Dean for quartz sand beaches in the United States. Furthermore, an objective measure of beach steepness was found to be A-*-'1", a quantity which utilizes both of Dean's parameters and which may serve as a surrogate for the beach-face slope, tan /3, on highly concave beaches. Reasonable correlations were found between A?-'m and the environmental parameter, H^ /gDT , where H^ is breaker height, D is sediment grain size, T is wave period and g is gravitational acceleration. Improved prediction of Caribbean beach slopes and beach equilibrium profiles is an important practical result.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4327</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.120</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 120</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4327/4008</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4189</identifier>
+				<datestamp>2021-01-19T19:25:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE INTERACTION WITH MOORED SLOPING BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Kharaghani, S.</dc:creator>
+	<dc:creator xml:lang="en">Lee, J.J.</dc:creator>
+	<dc:subject xml:lang="en">sloping breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">moored breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave interaction</dc:subject>
+	<dc:description xml:lang="en">Interaction of periodic waves with a moored inclined floating breakwater has been studied theoretically and numerically. The floating breakwater is inclined at a well defined angle with the sea bottom; its seaward end in protruding above the water surface. In static equilibrium, without incoming waves, the body weight, the buoyance force, and the restoring forces from the mooring lines which are modeled using linear springs keep the breakwater at a fixed angle. The theoretical formulation is based on a suitable variational principle. For the numerical solution a combination of finite element approximation as well as eigen function expansion technique is used. The result is obtained in terms of wave transmission and reflection coefficient as well as the sway, heave and roll motion of the breakwater. The sensitivity of the solution on the parameters such as the bottom gap size, angle of inclination, and the mooring line stiffness are investigated over a range of incident wave transmission coefficient for dimensionless wave number hk &gt; 0.60 ( k is wave number, h is the water depth). The results suggest that a certain degree of sheltering effect can be realized by employing this type of sloping breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4189</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.188</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 188</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4189/3870</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

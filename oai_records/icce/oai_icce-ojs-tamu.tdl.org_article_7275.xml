@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7275</identifier>
+				<datestamp>2021-01-19T04:57:27Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE ROLE OF FLUID INFILTRATION ON BEDFORM EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Bartzke, Gerhard</dc:creator>
+	<dc:creator xml:lang="en">Podszun, Lina</dc:creator>
+	<dc:creator xml:lang="en">Huhn, Katrin</dc:creator>
+	<dc:subject xml:lang="en">bedform</dc:subject>
+	<dc:subject xml:lang="en">pore space flow</dc:subject>
+	<dc:subject xml:lang="en">fluid infiltration</dc:subject>
+	<dc:subject xml:lang="en">Smooth Particle Hydrodynamics (SPH)</dc:subject>
+	<dc:description xml:lang="en">At present no general concept regarding key role of fluid infiltration on bedform evolution exists, basically because of difficulties in mapping the fluid stream in the vicinity of the sediment bed in a non-destructive way. Although numerous analogue wave tank or in-situ experiments provide high-resolution data, e.g., fluid profiles, there is still a clear lack in knowledge about the hydrodynamic conditions in the interior of bedforms particularly in-between single sediment grains.  We generated a 3D numerical wave tank model using Smoothed Particle Hydrodynamics (SPH) to study the nature of flows near and in the interior of bedforms, as an alternative to the difficult task of in-situ measurements. With typical wave tank dimensions (i.e., X = 2.5 [m], Y = 0.35 [m], Z = 0.8 [m]), experiments were undertaken to test a simplified bedform geometry (stoss side slope = 13[°]) using a unimodal grain fraction. The water column was represented by 11 million fluid particles and the bedform by 480 immobile solid particles. A single solitary wave was introduced using a vertical paddle that accelerated to 0.8 [m/s] perpendicular to the bedform. During the entire simulation flow conditions above and in the interior of the bedform were monitored as a function of wave activity. Fluid velocities, extracted at each time step at each point of the tank, were used to determine free stream and inflow velocities, pore water flow track lines and residence time within the bedform.	
+The results showed that inflow and pore water flow were evident in the bedforms and their flow directions appeared highly dependent on the location of the wave crest. In particular the development of a flow separation zone at the lee side of the bedform influenced the location of inflow into the bedform and thereby the flow direction within the pore spaces. This has been summarized in a new conceptual model for a better understanding of the hydrodynamic conditions in the interior of bedforms indicating the controlling effects of bed destabilization and bedform evolution.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7275</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7275/pdf_706</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

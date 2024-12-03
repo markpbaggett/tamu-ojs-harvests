@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3423</identifier>
+				<datestamp>2021-01-19T23:52:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE LOADS ON HORIZONTAL CYLINDERS</dc:title>
+	<dc:creator xml:lang="en">Holmes, P.</dc:creator>
+	<dc:creator xml:lang="en">Chaplin, J.R.</dc:creator>
+	<dc:subject xml:lang="en">wave loading</dc:subject>
+	<dc:subject xml:lang="en">cylinder</dc:subject>
+	<dc:subject xml:lang="en">horizontal cylindet</dc:subject>
+	<dc:description xml:lang="en">The problem of predicting wave induced loads on cylinders is an enormously complex one. It is clear from the scatter present in most experimental determinations of force coefficients that there are many individual factors which influence the mechanisms of flow induced loading. Among these are some, for instance Reynolds number, separation and periodic vortex shedding, which are inter-related and whose influences cannot be studied in isolation. Others, such as shear flow, irregular waves and free surface effects, can at least be eliminated in the laboratory, in order to approach an understanding of the more fundamental characteristics of the flow. A vertical cylinder in uniform waves experiences an incident flow field which can be described in terms of rotating velocity and acceleration vectors, always in the same vertical plane, containing also the cylinder axis, whose magnitudes are functions of time and of position along the length of the cylinder. Some of the essential features of this flow can be studied under two-dimensional oscillatory conditions, in which either the cylinder or the fluid is oscillated relative to the other along a straight line (planar oscillatory flow). The incident velocity and acceleration vectors are then always concurrent, normal to the cylinder axis, and oscillating in magnitude with time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3423</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.147</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 147</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3423/3103</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

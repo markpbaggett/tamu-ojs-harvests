@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5343</identifier>
+				<datestamp>2021-01-19T12:52:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE CLIMATE SIMULATION AND BREAKWATER STABILITY</dc:title>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater stability</dc:subject>
+	<dc:subject xml:lang="en">wave climate</dc:subject>
+	<dc:subject xml:lang="en">climate simulation</dc:subject>
+	<dc:description xml:lang="en">The nonstationarity of the sea waves is usually significant for periods longer than 3 hours (1,000 waves) with a correlation coefficent rHH(3) below 95% on most coasts of the world. Therefore, the actual engineering problem is to define an appropriate armor damage model applicable for nonstationary processes and not only for stationary sea states with a given storm duration. In deep water, five conditions are identified for any rational armor damage model to properly take into consideration the storm duration. A new exponential model applied on individual waves is shown to acomplish the five necessary conditions identified, and is compared with the Teisson's and Vidal's models based on totally different assumptions, but acomplishing most of the conditions. The three models provide similar results for a wide range of values if the parameters are n63%=30 and Nw=50 for the exponential and Vidal's models respectively. An example of the application of the exponential model to nostationary processes is given, applying the new method to the case of the partial failure of the Zierbana breakwater (Port of Bilbao, Spain) under construction in February 1996.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5343</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5343/5021</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

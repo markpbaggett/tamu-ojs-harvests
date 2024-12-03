@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2256</identifier>
+				<datestamp>2021-01-17T05:52:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF ENTRANCE ON SEICHE MOTION IN OCEAN PORTS</dc:title>
+	<dc:creator xml:lang="en">Roy, Nikhilesh</dc:creator>
+	<dc:subject xml:lang="en">seiche motion</dc:subject>
+	<dc:subject xml:lang="en">standing wave</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:description xml:lang="en">The seiche motion induced in a partially open harbour is uniquely determined by the standing wave pattern formed in the outside ocean. The variable location and size of the coupling makes the problem essentially three-dimensional. Existing potential theory has been extended, for the case of a simple rectangular port, to simulate ocean conditions by approximating the open ocean by another rectangular basin of large size. The theoretical problem then reduces to solving the Neunan problem for the two-dimensional Helmholtz equation V*F + K*F m o for a polygonal contour. The finite dimensional approximation of an infinite domain is, however, unsatisfactory at least from the analytical point of view.
+This difficulty has been removed, in this paper, by using elliptic-cylindrical co-ordinates for the semi-infinite domain in which the perturbation potential has been expanded in terms periodic Mathieu functions. These theoretical developments have been verified by a series of numerical calculations and experimental studies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2256</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2256/1947</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

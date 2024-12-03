@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7203</identifier>
+				<datestamp>2021-01-19T05:06:18Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEW ANALYTICAL APPROACHES FOR THE ASSESSMENT OF SHORELINE EVOLUTION IN THE VICINITY OF COASTAL STRUCTURES.</dc:title>
+	<dc:creator xml:lang="en">Valsamidis, Antonios</dc:creator>
+	<dc:creator xml:lang="en">Reeve, Dominic E.</dc:creator>
+	<dc:description xml:lang="en">In this study new analytical schemes are presented for the assessment of the shoreline evolution in the vicinity of a newly constructed coastal defence on the beach of Borth in Wales.  The innovation introduced in this study is that the analytical schemes which were used exceed the usual purpose of analytical modelling to describe simplified cases of beach change. Therefore, the new complex coastal defence system, recorded data of the local wave climate and a river-mouth which acts a source of sediment discharge could be used as input data for the assessment of the shoreline evolution. Initially, the coastal defence system was represented by a single impermeable groyne. The subsequent shoreline change was described mathematically by a relative partial differential equation (diffusion equation). The analytical solution to this equation was produced by using Laplace transforms, and the evaluation of this solution was executed with a Heaviside technique which allowed an arbitrary sequence of wave incidents to be taken into account.  Then, the coastal defence scheme was represented by 2 groynes and artificial beach nourishment. The analytical solution to the relative partial differential equation describing the shoreline evolution was produced with the use of Fourier cosine transforms.  Results for both simulations demonstrate the capability of the introduced analytical methods to deal with complicated situations but also their constraints</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7203</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7203/pdf_683</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4369</identifier>
+				<datestamp>2021-01-19T18:23:47Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOATING BREAKWATER RESPONSE TO WAVE ACTION</dc:title>
+	<dc:creator xml:lang="en">Isaacson, Michael</dc:creator>
+	<dc:creator xml:lang="en">Byres, Ronald</dc:creator>
+	<dc:subject xml:lang="en">wave action</dc:subject>
+	<dc:subject xml:lang="en">floating breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:description xml:lang="en">The present paper describes a study carried out to investigate floating breakwater behavior in waves. Components of the study include a field survey of floating breakwaters in British Columbia, Canada, the development of a numerical model of breakwater behavior and the experimental testing of a particular breakwater design. The numerical model has been developed to provide breakwater motions, transmission coefficients and mooring forces. The model combines linear diffraction theory for obliquely incident waves, a mooring analysis, the inclusion of viscous damping coefficients obtained from experimental or field data, and the inclusion of drag and wave drift forces for use in the static analysis of the moorings. The experiments were carried out with normally incident regular waves of different heights and periods. Preliminary results indicate that the numerical model should prove to be a useful tool in floating breakwater design.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4369</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.162</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 162</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4369/4050</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

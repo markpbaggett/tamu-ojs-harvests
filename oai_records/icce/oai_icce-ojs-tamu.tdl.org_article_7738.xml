@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7738</identifier>
+				<datestamp>2021-01-20T03:38:32Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG WAVE PROPAGATION, SHOALING AND RUN-UP IN NEARSHORE AREAS</dc:title>
+	<dc:creator xml:lang="en">Sriram, Venkatachalam</dc:creator>
+	<dc:creator xml:lang="en">Didenkulova, Ira</dc:creator>
+	<dc:creator xml:lang="en">Schimmels, Stefan</dc:creator>
+	<dc:creator xml:lang="en">Sergeeva, A.</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:subject xml:lang="en">ong wave dynamics</dc:subject>
+	<dc:subject xml:lang="en">elongated solitons</dc:subject>
+	<dc:subject xml:lang="en">propagation</dc:subject>
+	<dc:subject xml:lang="en">run-up</dc:subject>
+	<dc:subject xml:lang="en">large-scale experimental facility</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:description xml:lang="en">This paper discusses the possibility to study propagation, shoaling and run-up of these waves over a slope in a 300- meter long large wave flume (GWK), Hannover. For this purpose long bell-shaped solitary waves (elongated solitons) of different amplitude and the same period of 30 s are generated. Experimental data of long wave propagation in the flume are compared with numerical simulations performed within the fully nonlinear potential flow theory and KdV equations. Shoaling and run-up of waves on different mild slopes is studied hypothetically using nonlinear shallow water theory. Conclusions about the feasibility of using large scale experimental facility (GWK) to study tsunami wave propagation and run-up are made.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7738</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7738/pdf_969</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

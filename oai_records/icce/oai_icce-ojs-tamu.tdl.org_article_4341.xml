@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4341</identifier>
+				<datestamp>2021-01-19T18:33:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODELLING OF BEACH EROSION AND LITTORAL DRIFT</dc:title>
+	<dc:creator xml:lang="en">Sayao, Otavio J.</dc:creator>
+	<dc:creator xml:lang="en">Nairn, Robert B.</dc:creator>
+	<dc:subject xml:lang="en">littoral drift</dc:subject>
+	<dc:subject xml:lang="en">physical modelling</dc:subject>
+	<dc:subject xml:lang="en">beach erosion</dc:subject>
+	<dc:description xml:lang="en">A new procedure for physical modelling of beach sedimentary processes is presented. It is shown that the modelling requirements proposed by Dean (1985) are necessary but not sufficient for dynamic similarity. Quantification of scale effects due to slope and relative grain size scaling conditions enables extrapolation of the physical model results to prototype situations. Selected examples of the application of the proposed model design are also given.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4341</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.134</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 134</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4341/4022</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

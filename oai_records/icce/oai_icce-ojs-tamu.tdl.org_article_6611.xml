@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6611</identifier>
+				<datestamp>2021-01-19T07:03:02Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OVERTOPPING CHARACTERIZATION FOR THE ELABORATION OF VULNERABILITY MAPS IN PORTS FACILITIES</dc:title>
+	<dc:creator xml:lang="en">Campos, Alvaro</dc:creator>
+	<dc:creator xml:lang="en">Llana, Alberto</dc:creator>
+	<dc:creator xml:lang="en">Molina, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Alises, Ana</dc:creator>
+	<dc:creator xml:lang="en">Gomez, Rebeca</dc:creator>
+	<dc:creator xml:lang="en">Castillo, Carmen</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">mean overtopping rate</dc:subject>
+	<dc:subject xml:lang="en">risk evaluation</dc:subject>
+	<dc:subject xml:lang="en">parameter map</dc:subject>
+	<dc:subject xml:lang="en">McConell</dc:subject>
+	<dc:subject xml:lang="en">vulnerability map</dc:subject>
+	<dc:description xml:lang="en">Overtopping has been widely studied (European project CLASH 2000-2010), and mean and maximum overtopping discharge values have already been proposed. However, fundamental variables for determining overtopping affections and risks, such as the shape and energy of the overtopped water mass and how it is distributed in the possible affected zones (vulnerable areas), are not yet defined. 
+
+This study focuses on getting deeper comprehension of the flow-structure interaction. Different overtopping types have been characterized and a first step in the extension of the parametric map proposed by Mc Conel (1998) by including an overtopping term has been done. Also, a new mean overtopping rate (qnew) has been proposed, taking into account just the total overtopping time instead of the total test's duration (q). This new way of measuring the mean overtopping rate seems to permit a more realistic characterization of overtopping as it gives a clue of the individual volumes of each overtopping event, which is fundamental for a risk evaluation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6611</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6611/pdf_599</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3840</identifier>
+				<datestamp>2021-01-19T21:26:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IS SURF BEAT FORCED OR FREE?</dc:title>
+	<dc:creator xml:lang="en">Huntley, David A.</dc:creator>
+	<dc:creator xml:lang="en">Kim, Chang S.</dc:creator>
+	<dc:subject xml:lang="en">surf beat</dc:subject>
+	<dc:subject xml:lang="en">forced surf beat</dc:subject>
+	<dc:subject xml:lang="en">free surf beat</dc:subject>
+	<dc:description xml:lang="en">Although many field experiments have shown that surf beat motion, with periods longer than incident wave periods, becomes the dominant feature of the nearshore velocity field as the shoreline is approached, the nature of this motion is still not fully understood. This paper describes a field experiment on a sheltered beach which was designed to distinguish between long wave motion directly forced by the incident wave envelope (as suggested by Longuet-Higgins and Stewart, 1962), and wave motion which is only weakly coupled to the local incident waves and therefore essentially free. The results for on/offshore flows show that low frequency surf beat (frequency less than 0.03 Hz) is strongly correlated with the wave envelope, suggesting the dominance of forced wave motion at these frequencies. In a higher frequency band, between 0.06 and 0.095 Hz, the correlation is generally much lower, suggesting that free wave motion, possibly subharmonic edge waves, is significant in this band. The longshore flows are much more weakly correlated to the envelope of either the longshore or on/offshore components of the orbital velocity. This is consistent with previous observations that edge wave motion dominates the longshore surf beat motion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3840</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3840/3523</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3642</identifier>
+				<datestamp>2021-01-19T22:36:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODEL STUDY OF TEMPERATURE DISTRIBUTIONS IN A HARBOUR</dc:title>
+	<dc:creator xml:lang="en">Falconer, Roger A.</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">model study</dc:subject>
+	<dc:subject xml:lang="en">temperature distribution</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:description xml:lang="en">The paper gives details of a study to predict numerically the background temperature rise in Poole Harbour and Holes Bay, in Dorset, England, caused by the siting of either a 700MW or a 350MW power station. The numerical model is based on the numerical integration of the flow equations which simulate the water movements of tides and upon numerical integration of the advective-diffusion equation representing the movement of heat. The results of the study predominantly suggest that the temperature field is proportional to the station capacity, with the maximum and mean temperatures across the basin for the 700MW station capacity being almost exactly double the corresponding values predicted for the 350MW station capacity. Observations from the velocity fields and tidal prism ratios both tend to suggest that Poole Harbour and Holes Bay have poor flushing characteristics, which confirm the relatively high temperature predictions in that only a relatively small volumetric percentage of the heated water is flushed out of the basin during each flood tide.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3642</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3642/3325</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

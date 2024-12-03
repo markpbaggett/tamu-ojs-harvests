@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6864</identifier>
+				<datestamp>2023-10-04T02:28:48Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LAGRANGIAN MEASUREMENTS OF TURBULENT DISSIPATION OVER A SHALLOW TIDAL FLAT FROM PULSE COHERENT ACOUSTIC DOPPLER PROFILERS</dc:title>
+	<dc:creator xml:lang="en">Mullarney, Julia C</dc:creator>
+	<dc:creator xml:lang="en">Henderson, Stephen M</dc:creator>
+	<dc:subject xml:lang="en">drifters</dc:subject>
+	<dc:subject xml:lang="en">turbulent dissipation</dc:subject>
+	<dc:subject xml:lang="en">Lagrangian measurements</dc:subject>
+	<dc:subject xml:lang="en">shallow flows</dc:subject>
+	<dc:subject xml:lang="en">structure functions</dc:subject>
+	<dc:subject xml:lang="en">pulse coherent profilers</dc:subject>
+	<dc:subject xml:lang="en">tidal flats</dc:subject>
+	<dc:description xml:lang="en">We present high resolution (25 mm spatial, 8 Hz temporal) profiles of velocity measured over a shallow tidal flat using pulse-coherent Acoustic Doppler Profilers mounted on surface drifters.  The use of Lagrangian measurements mitigated the problem of resolving velocity ambiguities, a problem which often limits the application of high-resolution pulse-coherent profilers.  Turbulent dissipation rates were estimated from second-order structure functions of measured velocity.  Drifters were advected towards, and subsequently trapped on, a convergent surface front which marked the edge of a freshwater plume.  Measured dissipation rates increased as a drifter deployed within the plume approached the  front.  A drifter then propagated with and along the front as the fresh plume spread across the tidal flats.  Near-surface turbulent dissipation measured at the front roughly matched a theoretical mean-shear-cubed relationship, whereas dissipation measured in the stratified plume behind the front was suppressed.  After removal of estimates affected by surface waves, near-bed dissipation  matched the  velocity cubed relationship, although scatter was substantial.  Dissipation rates appeared to be enhanced when the drifter propagated across small subtidal channels.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6864</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6864/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

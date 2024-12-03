@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13009</identifier>
+				<datestamp>2023-09-01T15:15:05Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LANDSLIDE TSUNAMI HAZARD ASSESSMENT: A NUMERICAL MODEL FOR THE SIMULATION OF MULTIPLE LANDSLIDE-INDUCED TSUNAMIS SCENARIOS IN A MONTE CARLO FRAMEWORK</dc:title>
+	<dc:creator xml:lang="en">Cecioni, Claudia</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:creator xml:lang="en">Iorio, Verdiana</dc:creator>
+	<dc:creator xml:lang="en">Grilli, Stephan T.</dc:creator>
+	<dc:description xml:lang="en">Submarine landslides can pose serious tsunami hazard to coastal communities. However, performing a comprehensive landslide tsunami hazard assessment for a given area is in general difficult in view of the large uncertainties associated with tsunamigenic source parameters. These are often known only approximately, on the basis of estimates of the landslide geometry, slide material properties, and kinematics. Here, we present an efficient model to perform such hazard analyses, based on solving the linear mildslope equation with a time-dependent source term representing the seafloor motion as detailed in Iorio et al. (2021). This approach allows carrying out many computations, for a large number of landslide scenarios, in a Monte Carlo (MC) approach framework, at a reduced computational cost compared to other available methods, while still providing physically accurate simulations of most landslide tsunami generation and propagation.              </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13009</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13009/12282</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Claudia Cecioni, Giorgio Bellotti, Verdiana Iorio, Stephan T. Grilli</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

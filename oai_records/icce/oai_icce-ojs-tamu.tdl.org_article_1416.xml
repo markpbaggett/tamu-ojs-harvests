@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1416</identifier>
+				<datestamp>2023-10-04T04:22:28Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF MORPHODYNAMIC CHANGES IN THE JADE ESTUARY - GERMANY</dc:title>
+	<dc:creator xml:lang="en">Gelfort, Almut</dc:creator>
+	<dc:creator xml:lang="en">Ladage, Florian</dc:creator>
+	<dc:creator xml:lang="en">Stoschek, Oliver</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">morphodynamic</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic</dc:subject>
+	<dc:subject xml:lang="en">case study</dc:subject>
+	<dc:subject xml:lang="en">Jade estuary</dc:subject>
+	<dc:subject xml:lang="en">Jade Weser Port</dc:subject>
+	<dc:subject xml:lang="en">MIKE 3 by DHI</dc:subject>
+	<dc:description xml:lang="en">Based on a case study sediment transport was modeled numerically for the Jade estuary. Due to the construction of the JadeWeserPort the morphology in the area is undergoing a relocation. The study gives an overview on various studies undertaken as a consultant tool to help designers and decisions makers. A hydrodynamic as well as a morphodynamic numerical model was set up. Although the input data on the morphodynamic part was limited, the results showed that the tool at hand is capable of producing reliable results in the field of modeling sediment transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1416</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.84</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.84</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1416/pdf_127</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

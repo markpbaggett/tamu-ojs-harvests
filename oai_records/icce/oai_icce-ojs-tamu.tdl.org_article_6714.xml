@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6714</identifier>
+				<datestamp>2023-10-04T02:42:33Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE QUASI-STREAMFUNCTION FORMALISM</dc:title>
+	<dc:creator xml:lang="en">Tian, Miao</dc:creator>
+	<dc:creator xml:lang="en">Cottrell, William</dc:creator>
+	<dc:creator xml:lang="en">Sheremet, Alex</dc:creator>
+	<dc:creator xml:lang="en">Smith, Jane</dc:creator>
+	<dc:subject xml:lang="en">stream function</dc:subject>
+	<dc:subject xml:lang="en">variational principle</dc:subject>
+	<dc:subject xml:lang="en">hamiltonian</dc:subject>
+	<dc:subject xml:lang="en">lagrangian</dc:subject>
+	<dc:description xml:lang="en">This paper provides a review of our recent developments in reformulating the quasi streamfunction (Î¨) formalism proposed by Kim et al. (2001) to relax the common constraint of kinematic bottom boundary condition. A restricted form of the Hamilton's principle for irrotational flows is formulated only on surface variables. This transforms the problem to dynamical equations on the surface and a constraint equation related to the interior water column. The interior solution can be applied to express Î¨ in terms of the natural canonically conjugate variable. The modified Î¨-formalism promises to provide a natural framework for the study of wave over arbitrary bathymetry and in the presence of strong shear flow if Clebsch variables are included. We demonstrate the formalism for horizontally homogeneous flows over mild topography, where asymptotic formulations for the Hamiltonian and Lagrangian are derived. The Hamiltonian shows consistency with Zakharov's results up to the cubic order and the Lagrangian is written in terms of measurable variables.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6714</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6714/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6575</identifier>
+				<datestamp>2023-10-04T03:17:16Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD INVESTIGATION OF WAVE DISSIPATION OVER SALT MARSH VEGETATION DURING TROPICAL CYCLONE</dc:title>
+	<dc:creator xml:lang="en">Jadhav, Ranjit S</dc:creator>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:subject xml:lang="en">salt marsh</dc:subject>
+	<dc:subject xml:lang="en">vegetation</dc:subject>
+	<dc:subject xml:lang="en">bulk drag coefficient</dc:subject>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:subject xml:lang="en">wave attenuation</dc:subject>
+	<dc:subject xml:lang="en">energy dissipation</dc:subject>
+	<dc:subject xml:lang="en">tropical cyclone</dc:subject>
+	<dc:description xml:lang="en">Wave data were measured along a 28 m transect using 3 pressure transducers over a 2-day period during a tropical storm. The tropical storm force winds produced waves up to 0.4 m high (zero-moment) that propagated over vegetation of Spartina alterniflora submerged under a surge of over 1 m above the marsh floor. Measured wave heights, energy losses between gages and spectral energy dissipation models of rigid vegetation were utilized to estimate wave height decay rates, integral and frequency-dependent bulk drag coefficients, and frequency distribution of energy dissipation induced by the vegetation. Measurements showed that incident waves attenuated exponentially over the vegetation. The exponential wave height decay rate decreased as Reynolds number increased. The swell was observed to decay at a slower rate than the wind sea regardless of the wave height. The linear spatial wave height reduction rate increased from 1.5% to 4% /m as incident wave height decreased. The bulk drag coefficient estimated from the field measurement decreased with increasing Reynolds and Keulegan-Carpenter numbers. The energy dissipation varied across the frequency scales with the largest magnitude observed near the spectral peaks, above which the dissipation gradually decreased. The wave energy dissipation did not linearly follow the incident energy, and the degree of non-linearity varied with the frequency. For a given spectrum, the frequency-distributed drag coefficient increased gradually up to the peak frequency and remained approximately at a stable value at the higher frequencies. This spectral variation was parameterized by introducing a frequency-dependent velocity attenuation parameter inside the canopy. The spectral drag coefficient is shown to predict the distribution of energy dissipation with more accuracy than the integral coefficients, which results in a more accurate prediction of the mean wave period and spectral width of a wave field with vegetation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6575</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6575/pdf_571</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

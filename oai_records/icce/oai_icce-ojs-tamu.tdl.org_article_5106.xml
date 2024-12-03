@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5106</identifier>
+				<datestamp>2021-01-19T14:11:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODEL FOR LONGSHORE CURRENT DISTRIBUTION ON A BAR-TROUGH BEACH</dc:title>
+	<dc:creator xml:lang="en">Kuriyama, Yoshiaki</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">current distribution</dc:subject>
+	<dc:subject xml:lang="en">bar-trough beach</dc:subject>
+	<dc:description xml:lang="en">A numerical model for the time-averaged nearshore current in the surf zone is developed to simulate the longshore current distribution on a bar-trough beach that has a peak velocity shoreward of the bar crest. Momentum fluxes due to mass transport under broken waves, which are ignored in other models, are included in the present model. The validity of the model is verified with field data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5106</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5106/4784</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

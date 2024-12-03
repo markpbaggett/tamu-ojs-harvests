@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4234</identifier>
+				<datestamp>2021-01-19T19:10:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF WAVE DEFORMATION WITH A CURRENT</dc:title>
+	<dc:creator xml:lang="en">Ohnaka, Susumu</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Akira</dc:creator>
+	<dc:creator xml:lang="en">Isobe, Mashiko</dc:creator>
+	<dc:subject xml:lang="en">wave deformation</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:description xml:lang="en">A numerical computation method for a wave field coexisting with a current is presented to study wave-current interaction on a slowly varying bottom topography. Derivation is given for a new set of time-dependent mildslope equations extended to a wave and current coexisting field, which can deal with wave deformation due to combined refraction, diffraction, reflection and breaking as well as to wave-current interaction. Discussion is made on the numerical computation schemes, boundary conditions and breaking conditions. Some examples of the numerical computations are shown for wave and current coexisting fields.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4234</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4234/3915</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

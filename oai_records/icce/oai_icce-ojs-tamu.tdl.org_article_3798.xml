@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3798</identifier>
+				<datestamp>2021-01-19T21:41:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HURRICANE SURGE PROTOTYPE DATA COLLECTION</dc:title>
+	<dc:creator xml:lang="en">Flor, Thomas H.</dc:creator>
+	<dc:creator xml:lang="en">Scott, Susan C.</dc:creator>
+	<dc:subject xml:lang="en">data collection</dc:subject>
+	<dc:subject xml:lang="en">hurricane</dc:subject>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:subject xml:lang="en">prototype data collection</dc:subject>
+	<dc:description xml:lang="en">Storm surges from hurricanes have even more devastating effects on human lives and property than the high wind velocities associated with such storms. Storm surge forecasts are necessary as a guide for emergency action to prevent disasters due to coastal flooding caused by tropical storms. The design and evaluation of coastal structures are also dependent on estimates of storm surge levels. Several numerical models have been developed that appear to reasonably predict the surge from storms of given size and intensity, but they sometimes differ significantly among themselves. A comprehensive data set is needed to quantitatively evaluate these models. These data will also provide a better understanding of coastal processes during periods of severe wave activity and high water levels, and will better define coastal and inland water elevation time histories, high water marks, and water velocity fields caused by tropical storms and hurricanes. The U. S. Army Engineer Waterways Experiment Station (WES), Coastal Engineering Research Center (CERC), under the sponsorship of the Office Chief of Engineers (OCE), has been involved for several years in a project entitled Hurricane Surge Prototype Data Collection Work Unit, the primary objective of which is to collect such a data set. In addition to the work being performed by CERC personnel, a cooperative program has been established with the Nuclear Regulatory Commission (NRC) and the University of Florida to collect surge data along the coast of Florida. A cooperative program has also been established with the National Ocean Service (NOS) to "harden" tide stations in the Gulf of Mexico and along the Atlantic Coast of Florida to survive hurricane forces and record the full range of anticipated surge levels. This paper describes CERC's long term, ongoing Hurricane Surge Prototype Data Collection project, as well as the data collected.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3798</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3798/3481</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

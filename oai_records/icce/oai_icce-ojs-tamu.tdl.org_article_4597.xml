@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4597</identifier>
+				<datestamp>2021-01-19T17:06:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEARSHORE SEDIMENT FLUX AND BOTTOM BOUNDARY DYNAMICS THE CANADIAN COASTAL SEDIMENT TRANSPORT PROGRAMME (C-COAST)</dc:title>
+	<dc:creator xml:lang="en">Greenwood, Brian</dc:creator>
+	<dc:creator xml:lang="en">Osborne, Philip D.</dc:creator>
+	<dc:creator xml:lang="en">Bowen, Anthony J.</dc:creator>
+	<dc:creator xml:lang="en">Hazen, David G.</dc:creator>
+	<dc:creator xml:lang="en">Hay, Alex E.</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">sediment flux</dc:subject>
+	<dc:subject xml:lang="en">bottom boundary dynamics</dc:subject>
+	<dc:description xml:lang="en">The Canadian Coastal Sediment Transport Programme (CCOAST) is designed to increase our knowledge of the dynamics of non-cohesive shorefaces through field measurement of sediment transport and the response of the bottom boundary under combined waves and currents. Suspended sediment concentrations are measured using Optical Backscatterance Suspended Solids Sensors (0BS-1P - D &amp; A Associates) and a new multi-frequency, Remote Acoustic Sediment Transport system (RASTRAN). Near-bed velocities are measured using electromagnetic and eleqtroacoustic flowmeters; cross-products of velocity and concentration provide estimates of sediment flux. The bottom boundary response is determined at the roughness (bedform) scale using a High Resolution Remote Tracking Sonar (HRRTS II) and at the shoreface scale using Depth-of-Activity rods and standard survey. Suspended sediment flux is extremely episodic, responding to individual waves, wave groups and low frequency motions, including mean flows. A significant timedependent transport is revealed in the vertical structure. Net transport includes contributions from wind waves, low frequency waves and mean flows. A sediment transport balance controlling local slopes can therefore be achieved by spatial and/or temporal divergence of these components. Reservations must exist with respect to transport models which use depth and/or time averaged terras and which fail to recognize the distinct components of fluid motion contributing to the total sediment transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4597</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4597/4278</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

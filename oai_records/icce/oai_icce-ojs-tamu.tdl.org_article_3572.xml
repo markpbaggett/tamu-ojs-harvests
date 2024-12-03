@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3572</identifier>
+				<datestamp>2021-01-19T23:01:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PARAMETER IDENTIFICATION IN ESTUARINE MODELING</dc:title>
+	<dc:creator xml:lang="en">Chu, Wen-Sen</dc:creator>
+	<dc:creator xml:lang="en">Yeh, William W-G.</dc:creator>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">estuarine modeling</dc:subject>
+	<dc:subject xml:lang="en">parameter identification</dc:subject>
+	<dc:description xml:lang="en">Parameter Identification (PI) algorithm is an optimization procedure that systematically searches the parameters embedded in a mathematical model. These parameters are not measurable from a physical point of view. The optimization is based on the minimization of a selected norm of the differences between the solution of the mathematical model and scattered observations collected from the system. Parameter identification (or inverse problem) has been studied in groundwater systems extensively for the past decade (15), and it has also drawn many researchers in the fields of open-channel flow and estuarine modeling since 1972 (1,2,9,17). All the past estuarine PI works in the literature are confined to the one-dimensional case, and hydrodynamics and transport equations are treated separately. This study deals with PI in a two-dimensional vertically-averaged estuarine salinity model. The salinity transport equation is coupled with the hydrodynamics equations. The coupled relationship introduces extra density terms in the hydrodynamics equations, which must be solved simultaneously with the transport equation. One of the most difficult problems in PI is the collection of needed observations from the system which is being modeled. With limited exception, the currently available data from the prototype estuaries are not adequate for the purposes of developing a PI algorithm. This is usually critical in quantity (the number of stations and/or the period of time) and in quality (noise of data). However, if an operational hydraulic model is available, the data could then be obtained economically and accurately under an ideally controlled environment. The large amount of data that can be collected from a hydraulic model of an estuary will provide a sufficient number of observations and the required initial and boundary conditions for the development of a PI algorithm. The use of the estuary hydraulic model could provide a better source of prototype data than would be available from the real estuary. It will be much easier to distinguish between the inadequacy of the mathematics and the inadequacy of our understanding of the prototype. Thus, it will give us an idea of how well we could expect to mathematically model the real estuary if we had an unlimited amount of prototype data. Additionally, when these types of data are used in PI, parameters can be optimally identified and the mathematical model can then be used conjunctively with the hydraulic model for prototype applications, provided that the mathematical model is consistently formulated. How well a hydraulic model simulates the prototype estuary is not considered in this study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3572</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.143</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 143</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3572/3254</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

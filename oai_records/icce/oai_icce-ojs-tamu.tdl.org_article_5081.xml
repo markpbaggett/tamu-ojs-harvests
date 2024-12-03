@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5081</identifier>
+				<datestamp>2021-01-19T14:20:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE DIMENSIONAL MORPHOLOGY IN A NARROW WAVE TANK: MEASUREMENTS AND THEORY</dc:title>
+	<dc:creator xml:lang="en">Dean, Robert G.</dc:creator>
+	<dc:creator xml:lang="en">Oh, Tae-Myoung</dc:creator>
+	<dc:subject xml:lang="en">3D morphology</dc:subject>
+	<dc:subject xml:lang="en">wave tank</dc:subject>
+	<dc:subject xml:lang="en">narrow tank</dc:subject>
+	<dc:subject xml:lang="en">wave theory</dc:subject>
+	<dc:description xml:lang="en">Results are described from movable and fixed bed wave tank tests to examine the characteristics and causes of three dimensional beach profiles occurring in a narrow wave tank. The movable bed tests demonstrated a strongly repeatable sequence in which both the hydrodynamics and sediment transport patterns were two-dimensional over the initial stages of testing; however, after approximately 200 to 240 minutes, a horizontal circulation appeared and strengthened and resulted in a narrow channel incised adjacent to one of the tank walls. This circulation was reminiscent of a rip current system and resulted in a net landward transport of sediment. During the later stages of profile evolution, an equilibrium was reached in which the profile was steeper and the channel adjacent to the wall persisted. The fixed bed tests were conducted to examine, under controlled conditions, the mechanisms and causes of the horizontal circulation. Tests were carried out specifically to examine generation and maintenance mechanisms for rip currents and edge waves. One set of the fixed bed tests induced a jet into the surf zone and examined its interaction with incident waves. The interaction was found to exert a torque which was counter to that of the induced jet and thus would reduce its circulation. Edge wave mechanisms were examined in the second set of fixed bed tests by generating incident waves with the wave period corresponding to the edge wave length equal to twice the width of the tank for various edge wave modes. No indication of edge waves were found in the experiments. It is concluded that the sequence of profile evolution documented in the movable bed model tests is most likely caused by a long term instability and is reminiscent of and may be representative of the beach recovery stages from a storm profile.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5081</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5081/4759</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

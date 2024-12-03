@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4727</identifier>
+				<datestamp>2021-01-19T16:21:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON SPECTRAL INSTABILITIES AND DEVELOPMENT OF NON- LINEARITIES IN PROPAGATING DEEP-WATER WAVE TRAINS</dc:title>
+	<dc:creator xml:lang="en">Stansberg, C.T.</dc:creator>
+	<dc:subject xml:lang="en">spectral instability</dc:subject>
+	<dc:subject xml:lang="en">wave trains</dc:subject>
+	<dc:subject xml:lang="en">deep water</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:description xml:lang="en">Modulation instabilities in surface waves on deep water are investigated. Experimental wave elevation records from laboratory tests are analysed, based on simultanous records at different distances from the wavemaker. Initially monochromatic and biohromatic wave trains are seen to gradually change with the propagation, by splitting up into smaller groups. After further propagation, large individual waves, and wave breaking, may occur. Results from tests with irregular (random) waves indicate that the skewness of the record, which is mainly a measure of 2nd order nonlinearities, is closely connected to the wave steepness during the whole propagation, more or less independently of other wave processes going on. The non-linear wave group formation, however, which is related to higher-order instabilities, show a development during the propagation. This may lead to frequency down-shift of the wave energy, combined with energy dissipation and wave breaking.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4727</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4727/4408</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

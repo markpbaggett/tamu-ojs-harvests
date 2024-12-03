@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12980</identifier>
+				<datestamp>2023-09-01T15:14:49Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNRAVELLING THE DRIVERS OF SHORELINE CHANGE</dc:title>
+	<dc:creator xml:lang="en">Luijendijk, Arjen</dc:creator>
+	<dc:creator xml:lang="en">Kras, Etienne</dc:creator>
+	<dc:creator xml:lang="en">Calkoen, Floris</dc:creator>
+	<dc:creator xml:lang="en">Moreno-Rodenas, Antonio</dc:creator>
+	<dc:description xml:lang="en">The availability of public satellite imagery, combined with advanced image processing, machine learning and cloud computing, triggered an unprecedented flow of information relevant to the coastal engineering community. From satellite imagery we can nowadays for example derive subtidal bathymetry, beach slopes, beach sediment types and coastline dynamics, at accuracies that increasingly allow for engineering applications. Regarding the latter two, global datasets on the occurrence of sandy beaches and historic shorelines have recently become available (Luijendijk et al., 2018). The high spatial and temporal resolution of this information yields more comprehensive understanding of our coasts and its dynamics (see Figure 1). This is not only of great added value in data-poor environments, it will also allow for more cost-effective coastal monitoring in data rich environments as the necessity of in-situ measurements will reduce in future. In this study we will expose the main drivers for coastal change for sandy and muddy coasts using satellite-derived shoreline (SDS) and machine learning algorithms.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12980</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12980/12253</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Arjen Luijendijk, Etienne Kras, Floris Calkoen, Antonio Moreno-Rodenas</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

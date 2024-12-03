@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3320</identifier>
+				<datestamp>2021-01-20T00:24:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STORM SURGE FORECASTING METHODS IN ENCLOSED SEAS</dc:title>
+	<dc:creator xml:lang="en">Hamblin, P.F.</dc:creator>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">surge forecasting</dc:subject>
+	<dc:subject xml:lang="en">enclosed sea</dc:subject>
+	<dc:description xml:lang="en">Storm surges in enclosed seas although generally not as large in amplitude as their oceanic counterparts are nonetheless of considerable importance when low lying shoreline profiles, shallow water depth, and favourable geographical orientation to storm winds occur together. High water may result in shoreline innundation and in enhanced shoreline erosion. Conversely low water levels are hazardous to navigation. The purpose of this paper is to discuss the problem of storm surge forecasting in enclosed basins with emphasis on automated operational procedures. In general, operational forecasting methods must be based on standard forecast parameters, require a minimum of computational effort in the preparation of the forecast, must be applicable to lakes of different geometry and to any point on the shore, and to be able to resolve water level changes on an hourly basis to 10 cm in the case of high water level excursions associated with large lakes and less than that for smaller lakes. Particular physical effects arising in lakes which make these constraints difficult to fulfill are the reflections of resurgences of water levels arising from lateral boundaries, the stability of the atmospheric boundary layer and the presence of such subsynoptic disturbances as squall lines and travelling pressure jumps.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3320</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3320/2988</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

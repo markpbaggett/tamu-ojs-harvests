@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1307</identifier>
+				<datestamp>2023-10-04T03:52:30Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL AND NUMERICAL MODELING OF THE WAVECAT© WAVE ENERGY CONVERTER</dc:title>
+	<dc:creator xml:lang="en">Fernandez, Hernan</dc:creator>
+	<dc:creator xml:lang="en">Iglesias, Gregorio</dc:creator>
+	<dc:creator xml:lang="en">Carballo, Rodrigo</dc:creator>
+	<dc:creator xml:lang="en">Castro, Alberte</dc:creator>
+	<dc:creator xml:lang="en">Bartolomé, Pedro</dc:creator>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">physical model</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:description xml:lang="en">Wave energy presents a great potential in many coastal regions. This paper deals with WaveCat©, a new Wave Energy Converter (WEC) recently patented by the University of Santiago de Compostela. First, the WaveCat© concept and its main design elements. It is a floating WEC intended for intermediate water depths (50-75 m), whose principle of energy capture is wave overtopping. WaveCat© consists of two hulls, like a catamaran (hence its name); however, unlike a catamaran, the hulls are convergent so as to leave a wedge between them. Waves propagate into this wedge and, eventually, overtop the inner hull sides. Overtopping water is collected in onboard tanks and, subsequently, drained back to sea, propelling ultra-low head turbines in the process. The wave flume tests carried out on a 3D, fixed model at a 1:67 scale are presented. Development work is ongoing, including a numerical model-which is currently being validated based on the results from the physical model-and a 3D, floating physical model at a larger scale (1:30).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1307</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.64</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.64</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1307/pdf_314</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

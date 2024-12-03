@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3834</identifier>
+				<datestamp>2021-01-19T21:28:35Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATES OF LONG WAVES IN THE WESER ESTUARY</dc:title>
+	<dc:creator xml:lang="en">Barthel, V.</dc:creator>
+	<dc:creator xml:lang="en">Funke, E.R.</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">wave estimate</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">Weser estuary</dc:subject>
+	<dc:description xml:lang="en">Long waves of small amplitudes can excite harbour oscillations as well as the motion of floating structures or vessels. Field data from the Weser Estuary, German Bight of the North Sea were analysed with respect to waves with periods greater than 8 s. After preprocessing of the mostly noisy data records, special analysis incorporated the reconstruction of incorrectly recorded frequency components below .03 Hz and bivariate distributions of heights and periods. Results suggest that long wave activity increases towards the inner estuary. Grouping properties are dependent on wind direction and on directionality of the sea state. Further investigations and model studies for the response of travelling vessels to this wave climate are recommended.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3834</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3834/3517</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

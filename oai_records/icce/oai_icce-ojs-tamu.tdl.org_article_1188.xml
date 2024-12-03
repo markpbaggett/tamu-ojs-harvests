@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1188</identifier>
+				<datestamp>2023-10-04T04:35:06Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATIONS OF SPILLING BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Lubin, Pierre</dc:creator>
+	<dc:creator xml:lang="en">Glockner, Stéphane</dc:creator>
+	<dc:creator xml:lang="en">Kimmoun, Olivier</dc:creator>
+	<dc:creator xml:lang="en">Branger, Hubert</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">Navier-Stokes</dc:subject>
+	<dc:subject xml:lang="en">numerical simulations</dc:subject>
+	<dc:subject xml:lang="en">Large Eddy Simulation</dc:subject>
+	<dc:description xml:lang="en">Numerical simulation of spilling breaking waves is still a very challenging aim to achieve since small interface
+deformations, air entrainment and vorticity generation are involved during the early stage of the breaking of the wave.
+High mesh grid resolutions and appropriate numerical methods are required to capture accurately the length scales of
+the complex mechanisms responsible for the start of the breaking (small plunging jet, white foam, etc.). Numerical
+works usually showed better agreements when simulating plunging breaking waves than the spilling case compared
+with available experimental data. Kimmoun and Branger (2007) recently experimented surf-zone breaking waves.
+Detailed pictures showed a short spilling event occurred at the crest of the waves, before degenerating into strong
+plunging breaker. This work is devoted to the qualitative comparison of our numerical results with the experimental
+observations, as we will focus on capturing and describing the spilling phase experimented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1188</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1188/pdf_55</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

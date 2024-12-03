@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3472</identifier>
+				<datestamp>2021-01-19T23:35:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN ELECTROMAGNETIC ANALOGY FOR LONG WATER WAVES</dc:title>
+	<dc:creator xml:lang="en">Jackson, G.W.</dc:creator>
+	<dc:creator xml:lang="en">Wilkinson, D.L.</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">electromagnetic analogy</dc:subject>
+	<dc:subject xml:lang="en">seiching</dc:subject>
+	<dc:description xml:lang="en">Seiching must be considered when designing mooring, berthing or navigational facilities in semi enclosed basins and harbours. The considerable oscillatory currents which may be generated along nodal lines of a seiche can result in serious surging of a vessel moored in such areas. Hydraulic modelling of the long gravity waves which form the seiche poses particular problems for the hydraulic modeller. In the prototype situation, a balance is achieved between the long wave energy entering a basin, the energy dissipation within the basin, and the wave energy which is radiated back into the ocean. The presence of the wave generator in the model may result in much of the radiated energy being reflected back into the basin, thereby distorting the seiche observed in the model. The relatively low Reynolds numbers present in the model leads to exaggerated frlctional damping of the waves and possible suppression of certain resonant modes. Scaling of long wave amplitudes in resonance' situations cannot be determined from simple Froude laws but must be based on equivalent dissipation rates in the model and the prototype (Ippen, 1966). Alternative methods of physically reproducing long wave behaviour have been studied, such- as acoustic modelling (Nakamura, 1977). However, these models also have their limitations and are largely confined to constant depth situations. It Is suggested that electromagnetic radiation in the microwave range may be used to model long gravity waves and that this method has many advantages over the various techniques which have previously been used. It can be rigorously shown that the laws which govern the propagation, reflection and dissipation of electromagnetic radiation (Maxwell's equations) are identical to the linearised equations describing the motion of long gravity waves, (Jackson and McKee, 1980). The linear wave equation gives an accurate description of long wave oscillation in basins as the wave length is of the same order as the basin dimensions and non-linear effects do not have time to develop.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3472</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3472/3152</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

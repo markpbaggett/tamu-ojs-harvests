@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2768</identifier>
+				<datestamp>2021-01-20T03:40:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REFRACTION DE LA HOULE AVEC DIFFRACTION MODEREE</dc:title>
+	<dc:creator xml:lang="en">Biesel, Francis</dc:creator>
+	<dc:description xml:lang="en">la methode "g£ometriquen de construction des epures de houle n'est qu'une approximation qui cesse d'etre applicable, par exemple, lorsque deux orthogonales se croisent. En effet, la regie de calcul de 1»amplitude donnerait alors utie valeur infinie au point de croisement, ce qui n'a eVidemment pas de sens physique. Pour traiter de tels cas, d'ailleurs frequents, il est indispensable d'utiliser une approximation meilleure, et pour cela de revenir aux equations fondamentales. Ceci est typique des problemes ou les effets de diffraction cessent d'Stre negligeables, cependant ceux-ci n'ont pas l1importance qu'ils prennent en presence de discontinuites brutales (contournement de l'extre'- mite d'une jete'e, par exemple). Nous disons done qu'il y a diffraction moderee. Ce que nous presentons lei est une methode de construction d1epures de propagation de la houle qui peut tenir compte de ce tifpe de diffraction. Cette methode a l'avantage d'etre une construction front d'onde par front d'onde, comme pour 1'approximation geometrique, mais les orthogonales ne peuvent plus Stre calculees independamment les unes des autres. Au total, le calcul est plus long, mais il reste cependant beaucoup moins lourd que les calculs de diffraction tenant compte e'galement des variations de profondeur.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2768</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2768/2432</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5316</identifier>
+				<datestamp>2021-01-19T13:01:35Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE DEVELOPMENT OF AN ON-LINE, INTERACTIVE, TSUNAMI-INFORMATION RESOURCE</dc:title>
+	<dc:creator xml:lang="en">Cook, Benjamin</dc:creator>
+	<dc:creator xml:lang="en">Petroff, Catherine</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">online resource</dc:subject>
+	<dc:subject xml:lang="en">online site development</dc:subject>
+	<dc:description xml:lang="en">Tsunami! (http://www.geophys.washington.edu/tsunami/welcome.html) is a WWW site developed at the University of Washington with collaborative support from the global tsunami research community. The site originated as an on-line documentation of the 1994 East Java tsunami survey. The field survey documentation was developed to serve as a prototypical WWW resource whose form can be amended and improved upon for future on-line tsunami survey documentation. Educational and hazard mitigation resources were added to the site to provide the general public with an on-line source of tsunami information. The site's content and interface design were strongly influenced by the wide range of network connections and browser applications utilized by the target audience.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5316</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5316/4994</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

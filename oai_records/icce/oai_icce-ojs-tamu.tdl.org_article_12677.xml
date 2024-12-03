@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12677</identifier>
+				<datestamp>2023-09-01T15:12:07Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLEXIBLE FLUID-STRUCTURE INTERACTION OF A FLEXIBLE PLANT MODEL FOR NATURE-BASED SOLUTIONS</dc:title>
+	<dc:creator xml:lang="en">Henteleff, Ross</dc:creator>
+	<dc:creator xml:lang="en">Markov, Acacia</dc:creator>
+	<dc:creator xml:lang="en">Stolle, Jacob</dc:creator>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:creator xml:lang="en">Sriram, V</dc:creator>
+	<dc:description xml:lang="en">Nature-based solutions (NBS) represent a new field of research and engineering applications, becoming increasingly popular in the coastal engineering field. Salt marsh restoration, an example of NBS, is particularly appealing due to the variety of benefits they can provide, especially their capacity to induce sediment accretion, potentially keeping pace with sea-level rise. This study investigates the applicability of the flexible fluid-structure (FSI) interaction module being developed for open-source software REEF3D to the motion of marsh plants under wave action using data from a physical model study performed by Paul et al. (2016). The model consistently overestimates the drag force response of a flexible plastic plant surrogate under wave action. This suggests that this new tool may not be suited for this case. However, further investigation must be performed to test the limits of the model’s application.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12677</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12677/11950</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Ross Henteleff, Acacia Markov, Jacob Stolle, Ioan Nistor, V Sriram</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

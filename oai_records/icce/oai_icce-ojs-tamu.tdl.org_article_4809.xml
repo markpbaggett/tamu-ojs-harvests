@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4809</identifier>
+				<datestamp>2021-01-19T15:53:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE PERMEABILITY OF RUBBLE MOUND BREAKWATERS. NEW MEASUREMENTS AND NEW IDEAS</dc:title>
+	<dc:creator xml:lang="en">Williams, A.F.</dc:creator>
+	<dc:creator xml:lang="en">Burcharth, H.F.</dc:creator>
+	<dc:creator xml:lang="en">Adel, H.</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">rubble mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater permeability</dc:subject>
+	<dc:description xml:lang="en">The results of an extensive series of permeability experiments originally analysed by Shih (1990) are reinterpreted in the light of new experiments. It is proposed that the Forchheimer equation might not fully describe flow at the high Reynolds numbers found in the interior of rubble material. A new series of tests designed to test for deviations from the Forchheimer equation and investigate the effects of material shape are described. While no evidence can be found to indicate a deviation from the Forchheimer equation a dependency of permeability and the surface roughness the material is demonstrated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4809</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4809/4490</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

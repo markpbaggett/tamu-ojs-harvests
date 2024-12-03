@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3454</identifier>
+				<datestamp>2021-01-19T23:41:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VELOCITY FIELD IN A STEADY BREAKER</dc:title>
+	<dc:creator xml:lang="en">Battjes, J.A.</dc:creator>
+	<dc:creator xml:lang="en">Sakai, T.</dc:creator>
+	<dc:subject xml:lang="en">velocity field</dc:subject>
+	<dc:subject xml:lang="en">steady breaker</dc:subject>
+	<dc:subject xml:lang="en">breaking wave</dc:subject>
+	<dc:description xml:lang="en">An experimental investigation is described of the velocity field in a steady, spilling-type breaker, generated on a steady current by a submerged hydrofoil. Velocities have been measured with a laser-doppler system, and analysed with respect to mean and rms-values as well as Reynolds stresses. The results indicate that the turbulent flow field downstream of the initiation of the separation at the surface resembles that in a turbulent wake.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3454</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3454/3134</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

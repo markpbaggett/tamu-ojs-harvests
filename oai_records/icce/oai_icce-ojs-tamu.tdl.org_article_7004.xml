@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7004</identifier>
+				<datestamp>2023-10-04T02:45:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF HYDRODYNAMICS AND SEDIMENT TRANSPORT IN THE SURF ZONE : A SENSITIVITY STUDY WITH DIFFERENT TYPES OF NUMERICAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Trouw, Koen Jacobus Martha</dc:creator>
+	<dc:creator xml:lang="en">Zimmermann, Nicolas</dc:creator>
+	<dc:creator xml:lang="en">Mathys, Mieke</dc:creator>
+	<dc:creator xml:lang="en">Delgado, Rosalia</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:subject xml:lang="en">morphological modeling</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:subject xml:lang="en">beach dynamics</dc:subject>
+	<dc:description xml:lang="en">A comparison between two very different numerical models is presented: Delft3D and XBeach.  Delft3D (Deltares) calculates non-steady flow and transport phenomena that result from tidal and meteorological forcing.  The wave propagation is calculated in the frequency domain.  XBeach (Unesco-IHE, Delft University and Deltares) consists of formulations for short wave envelope propagation (time-dependent wave action balance), non-stationary shallow water equations, sediment transport and bed update.  The model is able to resolve the time dependent long waves, which are important in the surf zone.  A number of simplified cases are defined beforehand taking into account actual features and conditions existing in chosen problem areas. The examination of these simplified cases allows for the identification of driving processes and the assessment of the sensitivity to certain relevant parameters, with the advantage of working in scenarios of limited complexity and without excessive computational load.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7004</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7004/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4988</identifier>
+				<datestamp>2021-01-19T14:53:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BRAGG SCATTERING OF WAVES OVER POROUS RIPPLED BED</dc:title>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:creator xml:lang="en">Takeba, Ken</dc:creator>
+	<dc:subject xml:lang="en">rippled bed</dc:subject>
+	<dc:subject xml:lang="en">porous bed</dc:subject>
+	<dc:subject xml:lang="en">bed</dc:subject>
+	<dc:subject xml:lang="en">Bragg scattering</dc:subject>
+	<dc:subject xml:lang="en">wave scattering</dc:subject>
+	<dc:description xml:lang="en">A time-dependent and a time-independent wave equations are developed for waves propagating over porous rippled beds taking account of the effects of porous medium. The mean water depth and the thickness of porous layer are assumed to be slowly varying compared to the wavelength of surface gravity waves, and the spatial scale of ripples is assumed to be the same as the wavelength of surface waves. By using the time-independent equation, the Bragg scattering is examined in onedimensional case. The results show that the reflected and transmitted waves become smaller than those in the case of impermeable rigid rippled bed due to energy dissipation in porous medium.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4988</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4988/4668</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

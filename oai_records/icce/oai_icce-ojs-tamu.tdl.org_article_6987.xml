@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6987</identifier>
+				<datestamp>2023-10-04T02:20:52Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WHAT DETERMINES THE WAVELENGTH OF SELF-ORGANIZED SHORELINE SAND WAVES?</dc:title>
+	<dc:creator xml:lang="en">Falqués, Albert</dc:creator>
+	<dc:creator xml:lang="en">van den Berg, Niels</dc:creator>
+	<dc:creator xml:lang="en">Ribas, Francesca</dc:creator>
+	<dc:creator xml:lang="en">Caballeria, Miquel</dc:creator>
+	<dc:subject xml:lang="en">shoreline sand waves</dc:subject>
+	<dc:subject xml:lang="en">shoreline instability</dc:subject>
+	<dc:subject xml:lang="en">wave driven longshore transport</dc:subject>
+	<dc:subject xml:lang="en">high angle waves</dc:subject>
+	<dc:description xml:lang="en">Shoreline undulations extending into the bathymetric contours with a length scale larger than that of the rhythmic surf zone bars are referred to as shoreline sand waves. Many observed undulations along sandy coasts display a wavelength in the order 1-7 km. Several models that are based on the hypothesis that sand waves emerge from a morphodynamic instability in case of very oblique wave incidence predict this range of wavelengths. Here we investigate the physical reasons for the wavelength selection and the main parametric trends of the wavelength in case of sand waves arising from such instability. It is shown that the existence of a minimum wavelength depends on an interplay between three factors affecting littoral drift: (A) the angle of wave fronts relative to local shoreline, which tends to cause maximum transport at the downdrift flank of the sand wave, (B) the refractive energy spreading which tends to cause maximum transport at the updrift flank and (C) wave focusing (de-focusing) by the capes (bays), which tends to cause maximum transport at the crest or slightly downdrift of it. Processes A and C cause decay of the sand waves while process B causes their growth. For low incidence angles, B is very weak so that a rectilinear shoreline is stable. For large angles and long sand waves, B is dominant and causes the growth of sand waves. For large angles and short sand waves C is dominant and the sand waves decay. Thus, wavelength selection depends on process C, which essentially depends on shoreline curvature. The growth rate of very long sand waves is weak because the alongshore gradients in sediment transport decrease with the wavelength. This is why there is an optimum or dominant wavelength. It is found that sand wave wavelength scales with Î»0/Î² where Î»0 is the water wave wavelength in deep water and Î² is the mean bed slope from shore to the wave base.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6987</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6987/6063</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

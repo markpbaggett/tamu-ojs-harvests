@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10166</identifier>
+				<datestamp>2021-01-06T03:13:27Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPATIAL DISTRIBUTION OF WAVE-BY-WAVE OVERTOPPING AT VERTICAL SEAWALLS</dc:title>
+	<dc:creator xml:lang="en">Dong, Shudi</dc:creator>
+	<dc:creator xml:lang="en">Abolfathi, Soroush</dc:creator>
+	<dc:creator xml:lang="en">Salauddin, Md</dc:creator>
+	<dc:creator xml:lang="en">Pearson, Jonathan</dc:creator>
+	<dc:description xml:lang="en">Over the years, many physical and numerical modelling research has been carried out to investigate the wave-structure interactions and the resulting mean overtopping characteristics at sea defences. The most reliable empirical predication formulae for prediction of mean overtopping rates have been reported in the overtopping manual, EurOtop (2018). In addition to average overtopping rates, in recent years, the spatial distribution of overtopped water has become an important topic of research to understand the safe zone behind coastal defences. The existing empirical formulae for spatial distribution of overtopping provide conservative predictions, as it has been derived from the mean overtopping volumes. The extreme wave overtopping hazards in generally originate from individual overtopping events rather than the mean overtopping volumes. This study presents comprehensive laboratory investigations on the spatial distribution of wave-by-wave overtopping at vertical seawalls.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10166</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10166/9452</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Shudi Dong, Soroush Abolfathi, Md Salauddin, Jonathan Pearson</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

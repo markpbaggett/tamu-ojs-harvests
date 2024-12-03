@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3920</identifier>
+				<datestamp>2021-01-19T20:57:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OP A SEDIMENT TRANSPORT MEASURING SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Renger, Eberhard</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">transport measurement</dc:subject>
+	<dc:subject xml:lang="en">system developement</dc:subject>
+	<dc:description xml:lang="en">A new method for continuously recording sediment concert - trations with high accuracy has been developed. It is proposed to apply the method for In-situ measurements in connection with investigations of tidal control and sediment transport induced by shipping traffic. The operating principle is as follows: at the measurement location, sedime~nt laden water is continuously sucked-in by means of a pump and is forced under pressure into a hydrocyclone ( solid bowl centrifuge ) through a delivery pipe of varying length. Here the extracted sediment flux (particle size *&gt; 5 nm) is delivered by the shortest route to a settling tank and continuously weighed under water (wet-weighing). Following calculation and appropriate adjustment to the sample discharge ( Q ) the weight increase for selected time intervals ( AG (At)) yields the mean concentration for the time interval ( c (At)) in weight / unit volume ( mg/1 ) (direct measurement, calibration not required ). Details and experiences of the 3 major development stages will be described. A fully-automatic instrument for continuously measuring nonsteady sediment movement is now available. The instrument may be installed above as well as below water as desired.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3920</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.139</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 139</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3920/3603</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

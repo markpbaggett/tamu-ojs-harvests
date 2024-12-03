@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1195</identifier>
+				<datestamp>2023-10-04T03:59:31Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VULNERABILITY TO COASTAL FLOODING INDUCED BY TROPICAL CYCLONES</dc:title>
+	<dc:creator xml:lang="en">Posada-Vanegas, Gregorio</dc:creator>
+	<dc:creator xml:lang="en">Durán-Valdez, Gerardo</dc:creator>
+	<dc:creator xml:lang="en">Silva-Casarin, Rodolfo</dc:creator>
+	<dc:creator xml:lang="en">Maya-Magaña, Maria Elena</dc:creator>
+	<dc:creator xml:lang="en">Salinas-Prieto, Jose Antonio</dc:creator>
+	<dc:subject xml:lang="en">Hurricanes</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:description xml:lang="en">Hurricanes are a recurrent feature on Mexican coasts; they create floods whose economic and social damages are evident. The necessity to evaluate the natural hazard related to storm surge is fundamental to reduce risk in coastal areas. In order to generate flooding hazard maps, storm surge associated to different return periods is computed with a 2D numerical model. The first part of this work is related with the data and numerical models used to calculate the storm surge, the second part contain the results obtained with the simulations. This work has been done for the entire Mexican coastline but only results for the Gulf of Mexico are presented</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1195</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1195/pdf_282</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

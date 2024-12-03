@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12911</identifier>
+				<datestamp>2023-10-03T03:11:15Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTER SIMULATION OF WAVE OVERTOPPING RATE ON VERTICAL WALL BY BOUSSINESQ WAVE MODEL</dc:title>
+	<dc:creator xml:lang="en">Kwak, Moon Su</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:description xml:lang="en">Recently, Boussinesq equation models have been used in research on wave overtopping. The advantage of this model is that compared to the NLSW model or the NS model, it is possible to simulate a wider wave field to the intermediate water depth. This model can set offshore boundary conditions further away from the structure, so that the start of the wave breaking can be figured out and the wave propagation from the foreshore can be well reproduced. When waves propagate to the shallow water, the nonlinearity of the waves is increasing as the ratio of amplitude and water depth increases. In order to simulate the wave transformation in shallow water, a strong nonlinear wave model is required. In addition, the 2D wave model capable of simulation of wave field in a wide area is needed for study of the countermeasures of wave overtopping. In this study, a computer simulation model capable of calculating the wave overtopping rate in a horizontal wave field was established by adding a subroutine to the FUNWAVE-TVD model, a fully nonlinear Bussinesq wave model. The subroutine was composed by coding the wave overtopping rate equations of EurOtop (2018) and Goda (2009)'s empirical formulas obtained from many experimental and field observations. The verification of the model was carried out by comparing the computer simulation results of the wave overtopping rate of irregular waves on the vertical wall with new experiment results in Korea. Froude similitude with a length scale of 1/36(model/prototype) is assumed in the following prototype computations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12911</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12911/12184</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Moon Su Kwak, Nobuhisa Kobayashi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

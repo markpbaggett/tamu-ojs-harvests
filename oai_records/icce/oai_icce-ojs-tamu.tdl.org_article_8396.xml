@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8396</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF DESALINATION ON HYDRODYNAMIC PROCESS IN PERSIAN GULF</dc:title>
+	<dc:creator xml:lang="en">Lee, Wonhyun</dc:creator>
+	<dc:creator xml:lang="en">Kaihatu, James M.</dc:creator>
+	<dc:description xml:lang="en">Desalination is a significant source of potable water to the Persian Gulf (simply, the Gulf) region. At present, the Gulf countries are the biggest users of seawater desalination with over 50% of the world's installed capacity. While, as ground- and surface water sources may become scarce or endangered in the Middle East and North Africa (MENA) region, water desalination activities are expected to continue growing in quantity and capacity, particularly in the Gulf region. However, it is not yet clear what the environmental effects are of increased brine discharge to the nearshore and offshore environments, as reliance on mass exchange through the Strait of Hormuz may be insufficient for necessary levels of flushing. To study this, a three-dimensional characterization of the Gulf has been developed using the Delft3D-FLOW hydrodynamic model. This model was used to obtain the hydrodynamics and flow transporting characteristics in the Gulf. In addition to meteorological and oceanographic forcing, the seasonal discharges of four major rivers and numerous desalination plants in the Gulf region were considered to the modeling system. Field measurements from Texas A&amp;M University at Galveston (TAMUG) Microstructure Group in 2013 provided the validation for the model. The maximum 4.21 ppt and 4.32â,,ƒ increases in salinity and temperature, respectively, due to the brine discharge of desalination were obtained at the adjacent area to six desalination plants in the Gulf.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8396</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8396/7204</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8396/7859</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

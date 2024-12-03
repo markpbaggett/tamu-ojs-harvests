@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3641</identifier>
+				<datestamp>2021-01-19T22:36:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RESONANCE IN SOUTH AFRICAN HARBOURS</dc:title>
+	<dc:creator xml:lang="en">Botes, W.A.M.</dc:creator>
+	<dc:creator xml:lang="en">Russell, K.S.</dc:creator>
+	<dc:creator xml:lang="en">Huizinga, P.</dc:creator>
+	<dc:subject xml:lang="en">resonance</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:subject xml:lang="en">South Africa</dc:subject>
+	<dc:description xml:lang="en">The geographic situation of Southern Africa, and the associated climate of the South Atlantic Ocean, cause the harbours on the west and south coasts of South Africa to be subjected to resonance or range action caused by longperiod 50 s to 300 s waves. Since the construction of Duncan Dock in Table Bay in 1940, Table Bay harbour has become a classical example of resonance. Range action in the harbour has been studied extensively in the past and extensive physical model studies were undertaken to optimise the layout of the Schoeman Dock, construction of which was completed in 1976. In 1976 South African Railways and Harbours (now South African Transport Services) commissioned the Coastal Engineering and Hydraulics Division of the National Research Institute for Oceanology to optimise plans for future extensions to Table Bay harbour. As a preliminary study, the advantages and disadvantages of all existing methods of simulating resonance were reviewed. For this investigation it was decided to adapt an existing "finite difference" numerical model developed by Leendertse (1967). Prototype long-wave data were gathered in Table Bay and at a later stage at the cooling water intake basin of the Koeberg Nuclear Power Station. These data were used to calibrate the numerical model and an attempt was made to find a correlation between long waves and short wind waves in order to determine the frequency of occurrence of long waves. A method was also developed to incorporate a range of frequencies in one model-run instead of single wave input conditions. This resulted in a considerable reduction of expense and time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3641</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3641/3324</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

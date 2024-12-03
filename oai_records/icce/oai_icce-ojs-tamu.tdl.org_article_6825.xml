@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6825</identifier>
+				<datestamp>2023-10-04T02:33:53Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL DUNES VULNERABILITY INDEXES: A NEW PROPOSAL</dc:title>
+	<dc:creator xml:lang="en">Sancho, Francisco</dc:creator>
+	<dc:creator xml:lang="en">Oliveira, Filipa S. B. F.</dc:creator>
+	<dc:creator xml:lang="en">Freire, Paula</dc:creator>
+	<dc:subject xml:lang="en">barrier island</dc:subject>
+	<dc:subject xml:lang="en">maritime-storm</dc:subject>
+	<dc:subject xml:lang="en">short term</dc:subject>
+	<dc:subject xml:lang="en">dune-erosion</dc:subject>
+	<dc:subject xml:lang="en">overwashing</dc:subject>
+	<dc:subject xml:lang="en">Ancão spit</dc:subject>
+	<dc:description xml:lang="en">In the present work it is proposed a new coastal dune vulnerability index based on its exposure (and resistance) to overwashing and erosion under storm events, focusing solely on the short-term events. The methodology is applied and validated against the available data for the Ria Formosa (Algarve, Portugal) coastal beaches. The overwash index is determined as a function of the dune crest height in relation with the maxima water levels for different return periods, and the storm-erosion index is computed as function of the remaining beach/dune volume after the impact of
+the 10-year return period extreme-wave conditions in relation to the pre-storm volume. It is discussed the results of this application, enhancing the necessity of further validation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6825</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.68</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.68</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6825/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/912</identifier>
+				<datestamp>2021-01-17T07:35:55Z</datestamp>
+				<setSpec>icce:ICCE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE ENGINEERING APPLICATION OF SEA AND SWELL DATA</dc:title>
+	<dc:creator xml:lang="en">Fleming, Richard H.</dc:creator>
+	<dc:creator xml:lang="en">Bates, Charles C.</dc:creator>
+	<dc:subject xml:lang="en">marine operations</dc:subject>
+	<dc:subject xml:lang="en">safety</dc:subject>
+	<dc:subject xml:lang="en">wave scale</dc:subject>
+	<dc:description xml:lang="en">In planning for any marine construction, information on ocean waves should be considered essential. Such information must be available to select the best season of operations and to indicate the types of floating equipment that can be operated economically with a minimum of lost time. Furthermore, from such advance information it will be possible to estimate whether or not special observing and forecasting services will be required to provide for safe and efficient day-to-day operations. Readily available sources of ocean wave information are the sea and swell atlases published by the U.S. Navy Hydrographic Office. These atlases, providing world-wide coverage on a monthly basis, have been compiled from visual observations of sea and swell recorded aboard merchant and naval vessels. These data therefore provide a means for making rapid evaluations of wave and swell conditions in the area of operations and along routes to and from this area. If the site is on an exposed coast, it is also possible to estimate surf conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1950-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/912</dc:identifier>
+	<dc:identifier>10.9753/icce.v1.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 1 (1950): Proceedings of First Conference on Coastal Engineering, Long Beach, California, October, 1950.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/912/009_Fleming</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

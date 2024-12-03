@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4089</identifier>
+				<datestamp>2021-01-19T19:59:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIME SCALE FOR MODELING BEACH CHANGE</dc:title>
+	<dc:creator xml:lang="en">Ito, Masahiro</dc:creator>
+	<dc:creator xml:lang="en">Tsuchiya, Yoshito</dc:creator>
+	<dc:subject xml:lang="en">time scale</dc:subject>
+	<dc:subject xml:lang="en">beach change</dc:subject>
+	<dc:subject xml:lang="en">beach model</dc:subject>
+	<dc:description xml:lang="en">A time scale in the similarity of beach change between model and prototype in transitional beach processes from an initial even slope to an equilibrium is developed using a series of small- and large-scale experiments in which the experimental conditions were set up with the scale-model relationship by the authors (1984). The time scale is obtained empirically as a function of experimental scale. Applied the proposed time scale and the scale-model relationship to model experiments, similarity of morphological beach change such as shoreline change and relative breaker point was well reproduced within the allowable range of experimental error. A semi-theoretical time scale is obtained from the continuity equation, the sediment transport rate, and the scale-model relationship of equilibrium beach profile in two-dimensional beach change. The relation between experimental and semi-theoretical time scale is discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4089</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4089/3771</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

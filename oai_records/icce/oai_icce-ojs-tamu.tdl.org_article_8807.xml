@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8807</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF BERM AND DUNE EROSION DUE TO WAVE OVERTOPPING AND SEDIMENT OVERWASH USING OPENFOAM</dc:title>
+	<dc:creator xml:lang="en">Karagiannis, Nikolaos</dc:creator>
+	<dc:creator xml:lang="en">Karambas, Theophanis</dc:creator>
+	<dc:creator xml:lang="en">Koutitas, Christopher</dc:creator>
+	<dc:description xml:lang="en">The present work follows authors' previous works, published and presented at ICCE 2016 and Coastal Dynamics 2017 conferences (Karagiannis et al. 2016, 2017) and concerns the numerical simulation of berm and dune cross-shore profile evolution due to wave overtopping and sediment overwash through an innovative repetitive approach of coupling a hydrodynamic model, synthesized on the OpenFoam platform with a morphodynamic one, whose origin code is developed in FORTRAN by the authors. The hydrodynamic model is used for the wave propagation, while the morphodynamic one gets the results of the first model and yields the new cross-shore seabed formation. The above process is repeated until the equilibrium profile is achieved.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8807</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8807/7607</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8807/8149</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10219</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENHANCED SHORELINE MODELLING USING DATA ASSIMILATION TO INCLUDE NON-STATIONARITY IN WAVE CLIMATES </dc:title>
+	<dc:creator xml:lang="en">Ibaceta, Raimundo</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen</dc:creator>
+	<dc:creator xml:lang="en">Harley, Mitchell</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian</dc:creator>
+	<dc:description xml:lang="en">Coastal zone planning requires tools to predict shoreline response to changes in waves, water levels and sediment supply at time scales ranging from daily to decades. Despite the complexity of the underlying processes driving coastal change, the emergence of a range of semi-empirical models is proving to be increasingly successful at predicting shoreline response at seasonal to interannual timescales (e.g. Davidson et al., 2013). Recent improvements include the addition of processes such as longshore sediment transport and shoreline recession by SLR (e.g. Vitousek et al., 2017). But notably, in all these model formulations to-date, free-parameters are assumed to be time-invariant, relying on calibration over relatively short periods to measured shorelines and wave climate. Adopting a time-invariant set of model free-parameters ignores the bias introduced by the training dataset and any likely future changes in beach state and forcing conditions. The alternative approach presented here allows for time-varying model parameters, with the potential to improve model predictability due to non-stationarity in the underlying forcing. This work makes significant advances on previous shoreline modelling efforts by considering model parameters as potential time-varying quantities, as is common in the field of hydrology (e.g. Pathiraja et al., 2016). This is achieved by adopting a suitable data assimilation technique (Dual State-Parameter Ensemble Kalman Filter, EnKF) within the established shoreline evolution model, ShoreFor (Splinter et al., 2014). The method is first tested and evaluated using synthetic scenarios, specifically designed to emulate a broad range of natural sandy shoreline behavior.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/doAvC89vs4s</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10219</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10219/9505</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Raimundo Ibaceta, Kristen Splinter, Mitchell Harley, Ian Turner</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

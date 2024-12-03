@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10161</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE COMPARISON OF EMPIRICAL FORMULAE FOR THE PREDICTION OF MEAN WAVE OVERTOPPING RATE AT ARMORED SLOPED STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Koosheh, Ali</dc:creator>
+	<dc:creator xml:lang="en">Etemad-Shahidi, Amir</dc:creator>
+	<dc:creator xml:lang="en">Cartwright, Nick</dc:creator>
+	<dc:creator xml:lang="en">Tomlinson, Rodger</dc:creator>
+	<dc:creator xml:lang="en">Hosseinzadeh, Shabnam</dc:creator>
+	<dc:description xml:lang="en">Armored sloped structures are generally used to provide the safety of their lee side, i. e. harbours and coastal regions against wave attacks and storm surge. Recently, due to the potential impact of climate change, increasing emphasis has been placed on their hydraulic performance (e.g. Pillai et al. 2019). Thus, accurate estimation of wave overtopping rate, as the hydraulic response of coastal structures, has an important role in design. Wave overtopping is a complex phenomenon and depends on structural geometry and wave characteristics. Hence, empirical formulae are generally used for estimation of mean overtopping rate. These formulae have been derived from laboratory measurements in which the dimensionless measured overtopping rates are correlated with the dimensionless structural and hydraulic parameters through physical arguments. The most well-known formulae for wave overtopping prediction can be found in the Coastal Engineering Manual (2012) and European Overtopping Manual (EurOtop, 2018). The CLASH database as one of the most comprehensive datasets, was initially provided by De Rouck and Geeraerts (2005). This data base was recently updated by including more test results (EurOtop, 2018). However, a detailed comparison of formulae proposed for the estimation of overtopping rates at rubble mound sloped structures is not reported. The present paper aims to evaluate the performance of existing empirical formulae namely EurOtop 2018 (hereafter ET18), Owen (1982), van der Meer and Janssen (1995) (hereafter VMJ) and Jafari and Etemad-Shahidi (2012) (hereafter JES) against EurOtop database (updated CLASH database). The analysis includes structures with different armor types (rock, concrete cubes etc.) with both impermeable and permeable cores, to evaluate the capability of used formulae under different conditions.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/0TL5zFCf6GU</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10161</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10161/9447</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Ali Koosheh, Amir Etemad-Shahidi, Nick Cartwright, Rodger Tomlinson, Shabnam Hosseinzadeh</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

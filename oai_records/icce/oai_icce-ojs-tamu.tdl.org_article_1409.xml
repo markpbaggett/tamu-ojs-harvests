@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1409</identifier>
+				<datestamp>2023-10-04T03:43:47Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A METHODOLOGY TO SIMULATE MEDIUM TERM MORPHOLOGICAL CHANGES IN A PRACTICAL COMPUTING TIME</dc:title>
+	<dc:creator xml:lang="en">Jimenez, Nestor</dc:creator>
+	<dc:creator xml:lang="en">Mayerle, Roberto</dc:creator>
+	<dc:subject xml:lang="en">medium-term morphodynamics</dc:subject>
+	<dc:subject xml:lang="en">empirical orthogonal functions</dc:subject>
+	<dc:subject xml:lang="en">morphological acceleration factor</dc:subject>
+	<dc:subject xml:lang="en">German Baltic Sea</dc:subject>
+	<dc:description xml:lang="en">In this paper the assessment of the preliminary results of a methodology to enable predictions of medium-term morphodynamics accounting for the effects of storms is carried out. The methodology integrates the approaches based on a morphological acceleration factor and on the empirical orthogonal functions to account respectively for the morphological changes on the medium and short term. In a very simplified fashion, the effects of the storms are represented by a superposition of most relevant bathymetrical changes. The effectiveness of the methodology was assessed for a coastal stretch along the German Baltic Sea. The analysis of the simulations of morphodynamics for a period of 10 years showed that the method is able to predict volumetric changes along the coastal stretches reasonably well. However it fails to describe the spatial variation of the morphological changes near the coast. Sensitivity studies show also that the results are significantly affected by the set-up scheme of the methodology. Preliminary results during the assessment of the methodology gave clues about the evolution of the morphology of the German Baltic Sea coast. The methodology can be used as a practical tool for initial assessments of tendencies of morphological evolution. Obviously, in this investigation, the method proposed to account for to the storms is a simplified representation of the reality. In this regard, further research is needed to include a more realistic representation of the chronology taking into account their intensity.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1409</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1409/pdf_373</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

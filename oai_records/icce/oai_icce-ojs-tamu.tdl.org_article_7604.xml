@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7604</identifier>
+				<datestamp>2021-01-20T04:21:11Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMIC MODELING OF NEW RIVER INLET, NORTH CAROLINA USING NEARCOM-TVD</dc:title>
+	<dc:creator xml:lang="en">Chen, Jia-lin</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Tian-Jian</dc:creator>
+	<dc:creator xml:lang="en">Shi, Fengyan</dc:creator>
+	<dc:creator xml:lang="en">Raubenheimer, Britt</dc:creator>
+	<dc:creator xml:lang="en">Elgar, Steve</dc:creator>
+	<dc:subject xml:lang="en">New River</dc:subject>
+	<dc:subject xml:lang="en">NearCoM-TVD</dc:subject>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:description xml:lang="en">The goal of this study is to investigate the role of wave-current interaction in tidal inlet hydrodynamics. A quasi-3D nearshore community model, NearCoM-TVD,  is  used  to simulate circulation and waves at New River Inlet, NC, USA. Model skill  for  waves and circulation  is evaluated at  about 30  locations  throughout the inlet, including a recently dredged navigation channel, a shallower channel, a flood tidal delta, and ebb tidal deltas, for a range of flow 
+conditions  in May 2012. Model skills for flow velocity and wave height are high in  the channels.  The numerical model also captures the sharp transition between wave-dominated and tide-dominated flows near the ebb tidal deltas. Model  results  demonstrate  that wave intensity  plays  an  important  role  in  circulation (vortex)  generation near inlet entrances.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7604</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7604/pdf_836</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

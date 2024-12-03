@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5646</identifier>
+				<datestamp>2021-01-19T11:11:56Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL STUDY OF WAVE BREAKING AND BLOCKING ON OPPOSING CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Chawla, Arun</dc:creator>
+	<dc:creator xml:lang="en">Kirby, James T.</dc:creator>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">opposing current</dc:subject>
+	<dc:subject xml:lang="en">wave blocking</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">experimental study</dc:subject>
+	<dc:description xml:lang="en">A series of experiments on monochromatic waves being blocked by opposing currents are presented in this paper. A heirarchial pattern in the wave field characteristics was observed with increasing wave amplitude. A shoaling model using a bore dissipation formulation to simulate current limited breaking is compared with the data. It is observed that amplitude dispersion plays an important role in wave blocking and cannot be ignored. For the large amplitude waves side band instabilities radically affect the wave field and prevent wave blocking.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5646</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5646/5316</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

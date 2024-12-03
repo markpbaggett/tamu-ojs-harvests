@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4359</identifier>
+				<datestamp>2021-01-19T18:27:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RELIABILITY ANALYSIS OF RUBBLE-MOUND BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Mizumura, Kazumasa</dc:creator>
+	<dc:creator xml:lang="en">Yamamoto, Masato</dc:creator>
+	<dc:creator xml:lang="en">Endo, Taiji</dc:creator>
+	<dc:creator xml:lang="en">Shiraishi, Naofumi</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">rubble mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater reliability analysis</dc:subject>
+	<dc:description xml:lang="en">To verify the effect of wave period on the motion of concrete blocks in rubble-mound breakwaters, simple physical models are employed and their motion is investigated by the numerical simulation. Finally, risk or reliability are calculated and the weight of concrete blocks for given physical condition is discussed by them.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4359</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.152</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 152</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4359/4040</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

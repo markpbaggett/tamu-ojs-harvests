@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4641</identifier>
+				<datestamp>2021-01-19T16:50:59Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTING DAMAGE BENEFITS OF SHORE PROTECTION PROJECTS</dc:title>
+	<dc:creator xml:lang="en">Bodge, Kevin R.</dc:creator>
+	<dc:subject xml:lang="en">shore protection</dc:subject>
+	<dc:subject xml:lang="en">protection project</dc:subject>
+	<dc:subject xml:lang="en">damage benefits</dc:subject>
+	<dc:subject xml:lang="en">predicting damage</dc:subject>
+	<dc:description xml:lang="en">A numerical simulation method is described to estimate damage and associated benefits to oceanfront (and "backrow") properties without-, with- and adjacent to shore protection project areas. Damage to structures, land, and structure contents is described - as is the effect of shoreline armoring. Input data include property attributes and estimates of beach recession for various intensity storms. Projects are described by their geometry, life expectency, construction intervals, and effect upon the chronic and storm-induced recession. Projects can include nourishment, armoring, or other types which have a quantifiable effect upon chronic and storm-induced recession. Damage is computed based upon (1) the encroachment of the eroded bluffline to the property by chronic (historical) erosion stress and by storms, and (2) functions which depend upon structure type or land use. Spatial and temporal resolution is adaptable to the user's needs.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4641</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4641/4322</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

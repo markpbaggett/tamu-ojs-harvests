@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3462</identifier>
+				<datestamp>2021-01-19T23:38:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TWO-DIMENSIONAL SURF BEAT</dc:title>
+	<dc:creator xml:lang="en">Flick, Reinhard E.</dc:creator>
+	<dc:creator xml:lang="en">Inman, Douglas L.</dc:creator>
+	<dc:creator xml:lang="en">Guza, Robert T.</dc:creator>
+	<dc:subject xml:lang="en">surf beat</dc:subject>
+	<dc:subject xml:lang="en">2D surf beat</dc:subject>
+	<dc:subject xml:lang="en">velocity measurement</dc:subject>
+	<dc:subject xml:lang="en">surface elevation</dc:subject>
+	<dc:description xml:lang="en">Surface elevation and velocity measurements in shallow water on beaches show large fluctuations known as surf beat in the long period range from approximately 20s to 2000s (Munk, 1949; Tucker, 1950). A laboratory study was conducted to determine if two shoaling primary waves of nearly equal frequency would generate two-dimensional surf beat at their difference frequency. The experiments, carried out in the Scripps Institution of Oceanography Hydraulics Laboratory 30 m glass walled wave channel, show that the beat frequency motion in the channel consists of the sum of a forced progressive wave and two free standing waves. The progressive wave is forced by the local nonlinear interaction of the primary waves and grows sharply in shallow water. One of the free standing waves is generated directly by the wavemaker. The data is consistent with the hypotheses that the second, much larger, free wave is generated in shallow water as the reflection of the long, forced progressive wave, leading to the observed standing wave surf beat pattern.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3462</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3462/3142</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

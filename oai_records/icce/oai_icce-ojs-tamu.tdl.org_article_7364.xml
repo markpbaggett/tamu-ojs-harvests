@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7364</identifier>
+				<datestamp>2021-01-19T04:49:04Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE RESISTANCE COEFFICIENT OF PERFORATED WALLS FOR JARLAN-TYPE CAISSONS</dc:title>
+	<dc:creator xml:lang="en">Liu, Yong</dc:creator>
+	<dc:creator xml:lang="en">Li, Yu-cheng</dc:creator>
+	<dc:subject xml:lang="en">resistance coefficient</dc:subject>
+	<dc:subject xml:lang="en">perforated wall</dc:subject>
+	<dc:subject xml:lang="en">KC number</dc:subject>
+	<dc:description xml:lang="en">The reflection coefficient of Jarlan-type perforated caissons can be well estimated using linear potential theory. But the resistance coefficient of perforated front wall must be known a priori. This study gives a new empirical formula in terms of Keulegan-Carpenter (KC) number for calculating the resistance coefficients of perforated walls. Then, the effects of wave height and period on the resistance coefficient are both involved. The calculated reflection coefficients using the new formula agree well with experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7364</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7364/pdf_733</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

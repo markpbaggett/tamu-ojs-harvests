@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8246</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF BREAKER DEPTH INDEX</dc:title>
+	<dc:creator xml:lang="en">D'Alessandro, Felice</dc:creator>
+	<dc:creator xml:lang="en">Tomasicchio, Giuseppe</dc:creator>
+	<dc:creator xml:lang="en">Chiaia, Giancarlo</dc:creator>
+	<dc:creator xml:lang="en">Ciardulli, Francesco</dc:creator>
+	<dc:creator xml:lang="en">Francone, Antonio</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq-type equations</dc:subject>
+	<dc:subject xml:lang="en">breaker depth index</dc:subject>
+	<dc:subject xml:lang="en">numerical models</dc:subject>
+	<dc:description xml:lang="en">The breaker depth index, Î³b, is commonly used to determine the wave height to water depth ratio where the wave will break (Horikawa, 1988). In the present study, Î³b has been calculated using a fully nonlinear Boussinesq Type Equations (BTE) wave model with implemented BCI (Breaking Celerity Index). The BCI is a phase-resolving type breaking criterion for calculating the incipient wave breaking conditions (D'Alessandro and Tomasicchio, 2008). The model suitability in predicting Î³b has been verified against physical data from an experimental investigation conducted with incident regular waves propagating along uniform 1:20 and 1:50 slope beaches (G.V. dos Reis, 1992), and estimates of Î³b from five existing empirical formulae (Battjes, 1974; Ostendorf and Madsen, 1979; Singamsetti and Wind, 1980; Smith and Kraus, 1990; Goda, 2010). The comparisons showed that BCI presents a better agreement with the physical data with respect to the other investigated formulae in determining the value of Î³b, independently from the breaker type. In addition, the verification of the BCI in determining Î³b has been extended to the observed data from a large-scale laboratory experiment on wave hydrodynamics performed over a fixed-bed barred beach (Tomasicchio and Sancho, 2002).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8246</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8246/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

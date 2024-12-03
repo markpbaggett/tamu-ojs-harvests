@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8565</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSING NON-LINEAR RESPONSE IN EXTREME COASTAL WATER LEVELS</dc:title>
+	<dc:creator xml:lang="en">Hicks, Betsy</dc:creator>
+	<dc:creator xml:lang="en">Dhingra, Emily</dc:creator>
+	<dc:creator xml:lang="en">Batten, Brian</dc:creator>
+	<dc:creator xml:lang="en">Moss, Alaurah</dc:creator>
+	<dc:creator xml:lang="en">Mahoney, Tucker</dc:creator>
+	<dc:creator xml:lang="en">Asher, Taylor</dc:creator>
+	<dc:creator xml:lang="en">Gralher, Christine</dc:creator>
+	<dc:description xml:lang="en">Rising sea levels and the resultant amplification of flood frequencies and magnitude has the potential to significantly change coastal flood hazards over the coming century. The Federal Emergency Management Agency (FEMA) has recognized the potential future implications of Sea Level Rise (SLR) on coastal hazards and flood insurance. However, at present, FEMA does not incorporate future conditions information in to their regulatory or non-regulatory products in the framework of their National Flood Insurance Program. Many other programs that create products to support risk recognition and resilient planning are based on "bathtub† approaches (for example NOAA's Sea Level Rise Viewer: https://coast.noaa.gov /digitalcoast/tools/slr). In order to better understand non-linear changes in coastal flood hazards, due to increased water depth and wave heights, or in the surge propagation pathway, FEMA has funded a series of pilot studies. For this study an end-of-the-century SLR condition has been imposed on storm surge simulations in West Florida to gain further understanding into how SLR may modify surge and wave effects, as well as potential techniques for approximating these via efficient approximate methods. Both the detailed nonlinear methods and approximate linear approaches for developing SLR advisory information will be evaluated and compared for this study. A second, mid-century SLR condition was utilized for a shoreline change analysis to evaluate how recession due to SLR may affect coastal flood hazards.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8565</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8565/7369</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

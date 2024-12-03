@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4048</identifier>
+				<datestamp>2021-01-19T20:13:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DIRECTIONAL GROWTH FOR NUMERICAL WIND WAVE MODELS</dc:title>
+	<dc:creator xml:lang="en">Neu, W.L.</dc:creator>
+	<dc:creator xml:lang="en">Kwon, S.H.</dc:creator>
+	<dc:subject xml:lang="en">directional growth</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:description xml:lang="en">This study is concerned with the operation of spectral wind wave models. Many spectral wind wave models use a growth mechanism which operates on the point spectrum with directionality being introduced after the fact by the use of a spreading function. It is recognized here that this approach leads to errors whenever the wind and wave fields are not aligned. This is demonstrated by comparing the performance of two first generation models under various conditions. One makes use of a point spectral growth mechanism and follows the operation of the Spectral Ocean Wave Model (SOWM). The other uses a directional growth mechanism but is otherwise the same as the first. A large difference between the models is noted for swell corrupted seas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4048</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4048/3730</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

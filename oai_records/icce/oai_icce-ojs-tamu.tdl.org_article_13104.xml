@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13104</identifier>
+				<datestamp>2023-09-01T15:15:56Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTUARINE SENSITIVITY TO NATURE-BASED SALT INTRUSION MITIGATION MEASURES</dc:title>
+	<dc:creator xml:lang="en">Hendrickx, Gijs G.</dc:creator>
+	<dc:creator xml:lang="en">Antolínez, José A.A.</dc:creator>
+	<dc:creator xml:lang="en">Herman, Peter M.J.</dc:creator>
+	<dc:creator xml:lang="en">Aarninkhof, Stefan G.J.</dc:creator>
+	<dc:description xml:lang="en">All around the world, deltas are among the most densely populated and heavily utilised regions, where crucial functions, such as freshwater availability and safety against flooding, strongly relate to the natural dynamics of the system. Therefore, a thorough understanding of the estuarine system is crucial, especially when developing nature-based solutions for safeguarding these essential functions for today’s society as well as future generations. To better understand the effect of different estuarine parameters on salt intrusion, an extensive sensitivity analysis has been executed based on an idealised estuary layout. The idealised estuary is parametrically designed using thirteen parameters that represent both boundary conditions and geometric features, such as river discharge and water depth. Subsequently, the Delft3D Flexible Mesh (DFM) model has been used to determine the salt intrusion, allowing the exploration of a wide range of estuary layouts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13104</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.146</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.146</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13104/12377</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Gijs G. Hendrickx, José A.A. Antolínez, Peter M.J. Herman, Stefan G.J. Aarninkhof</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

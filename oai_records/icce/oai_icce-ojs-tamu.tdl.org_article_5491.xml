@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5491</identifier>
+				<datestamp>2021-01-19T12:03:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON VALIDATION OF A SAND WAVES AND SAND BANKS MODEL</dc:title>
+	<dc:creator xml:lang="en">Hulscher, S.J.M.H.</dc:creator>
+	<dc:subject xml:lang="en">sand waves model</dc:subject>
+	<dc:subject xml:lang="en">sand bank model</dc:subject>
+	<dc:subject xml:lang="en">model validation</dc:subject>
+	<dc:description xml:lang="en">A morphological model is described for the interaction between tidal motion and an erodible bed. This model is able to distinguish between a flat bed, and the generation of tidal sand banks and/or sand waves, based on physical parameters. The physical meaning of the turbulence parameters Av and S, as used in this model is subject of discussion in the present paper, therefore a simpler system is investigated. A simple flow is described by a logarithmic profile model (a generally accepted turbulence model), as well as by a partial slip model, using Av and S. It is shown that the two models can be calibrated such that they produce the same bed shear stress, depth-averaged velocity and depth-averaged eddy viscosity. This leads to expressions for Av and S as function of the roughness height and a shape parameter in the logarithmic profile model. Application of this information to two locations shows that the bed form prediction model gives encouraging results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5491</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5491/5167</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

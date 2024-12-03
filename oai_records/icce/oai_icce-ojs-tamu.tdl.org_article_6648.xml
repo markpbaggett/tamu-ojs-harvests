@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6648</identifier>
+				<datestamp>2023-10-04T03:07:34Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RUBBLE MOUND BREAKWATER OVERTOPPING: ESTIMATION OF THE RELIABILITY OF A 3D NUMERICAL SIMULATION</dc:title>
+	<dc:creator xml:lang="en">Cavallaro, Luca</dc:creator>
+	<dc:creator xml:lang="en">Dentale, Fabio</dc:creator>
+	<dc:creator xml:lang="en">Donnarumma, Giovanna</dc:creator>
+	<dc:creator xml:lang="en">Foti, Enrico</dc:creator>
+	<dc:creator xml:lang="en">Musumeci, Rosaria E.</dc:creator>
+	<dc:creator xml:lang="en">Carratelli, Eugenio Pugliese</dc:creator>
+	<dc:subject xml:lang="en">rubble-mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">RANS/VOF</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:description xml:lang="en">Until recently, physical models were the only way to investigate into the details of  breakwaters behavior under wave attack. From the numerical point of view, the complexity of the fluid dynamic processes involved has so far hindered the direct application of Navier-Stokes equations within the armour blocks, due to the complex geometry and the presence of strongly non stationary flows, free boundaries and turbulence. In the present work the most recent CFD technology is used to provide a new and more reliable approach to the design analysis of breakwaters, especially in connection with run-up and overtopping. The solid structure is simulated within the numerical domain by overlapping individual virtual elements to form the empty spaces delimited by the blocks. Thus, by defining a fine computational grid, an adequate number of nodes is located within the interstices and a complete solution of the full hydrodynamic equations is carried out. In the work presented here the numerical simulations are carried out by integrating the three-dimensional Reynolds Average Navier-Stokes Equations coupled with the RNG turbulence model and a Volume of Fluid Method used to handle the dynamics of the free surface. The aim of the present work is to investigate the reliability of this approach as a design tool. Two different breakwaters are considered, both located in Southern Sicily: one a typical quarry stone breakwater, another a more complex design incorporating a spill basin and an armoured layer made up by Coreloc® blocks.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6648</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6648/pdf_630</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

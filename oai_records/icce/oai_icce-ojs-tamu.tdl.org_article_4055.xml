@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4055</identifier>
+				<datestamp>2021-01-19T20:11:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VORTEX FORMATION IN PLUNGING BREAKER</dc:title>
+	<dc:creator xml:lang="en">Sakai, T.</dc:creator>
+	<dc:creator xml:lang="en">Mizutani, T.</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, H.</dc:creator>
+	<dc:creator xml:lang="en">Tada, Y.</dc:creator>
+	<dc:subject xml:lang="en">vortex formation</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">plunging breaker</dc:subject>
+	<dc:subject xml:lang="en">vortex</dc:subject>
+	<dc:description xml:lang="en">By a flow visualization of a plunging breaker on 1/20 slope beach in a wave tank, an existence of 2nd and 3rd horizontal vortices(Miller, 1976) and slanting vortex (Nadaoka et al., 1986) is confirmed. A MAC method is applied to simulate a violent motion after an impinging of a jet from a crest of a plunging breaker on the trough surface. The calculated maximum water particle velocity in the jet is found to reach three times the linear long wave celerity. Values of circulation of the first four horizontal vortices are calculated and their changes in time are discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4055</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4055/3737</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

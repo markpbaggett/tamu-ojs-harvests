@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12883</identifier>
+				<datestamp>2023-09-01T15:14:04Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI FLOW PARAMETERS INFLUENCING PORT DAMAGE: A CASE-STUDY OF THE 2011 TOHOKU TSUNAMI</dc:title>
+	<dc:creator xml:lang="en">Chua, Constance Ting</dc:creator>
+	<dc:creator xml:lang="en">Pakoksung, Kwanchai</dc:creator>
+	<dc:creator xml:lang="en">Suppasri, Anawat</dc:creator>
+	<dc:creator xml:lang="en">Switzer, Adam</dc:creator>
+	<dc:description xml:lang="en">In the past decade, tsunami fragility models have emerged as a common way of quantifying the relationship between tsunami flow characteristics and structural vulnerability. Fragility functions describe the probability that a structure exceeds a prescribed damage threshold for a given tsunami intensity. Tsunami flow characteristics are represented by tsunami intensity measures (hereafter referred to as TIM) in fragility modelling. The use of an appropriate TIM is imperative to deriving models with as much accuracy as possible. This aspect of research is still an area of debate. In this study, the aim is to assess TIMs that are most optimal for the estimation of structural fragility of port structures. The 2011 Tohoku tsunami was selected as our case study, and we use the damage data for port structures obtained from Chua et al. (2021). We investigate the relationship between three TIMs – depth, velocity and hydrodynamic drag force, and structural response.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12883</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12883/12156</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Constance Ting Chua, Kwanchai Pakoksung, Anawat Suppasri, Adam Switzer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5614</identifier>
+				<datestamp>2021-01-19T11:21:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE ACCURACY OF PARABOLIC WAVE MODELS</dc:title>
+	<dc:creator xml:lang="en">Johnson, Hakeem K.</dc:creator>
+	<dc:creator xml:lang="en">Poulin, Sanne</dc:creator>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">parabolic wave model</dc:subject>
+	<dc:subject xml:lang="en">model accuracy</dc:subject>
+	<dc:description xml:lang="en">Errors in parabolic equation models (PEM) for wave refraction and diffraction are investigated by examining the case of waves propagating over a planar bathymetry for which the analytical solution is well known. The models investigated are: i) lowest order parabolic approximation (Simple method), ii) Fade approximation and Hi) Minimax approximation models. Errors in wave heights, wave directions, radiation stresses and resulting longshore currents are investigated analytically and by numerical tests using the parabolic equation model MIKE 21 PMS. The results indicate that, while the predicted wave directions are generally accurate, the wave heights, radiation stresses and longshore currents can contain significant errors depending on the parabolic approximation used.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5614</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5614/5286</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

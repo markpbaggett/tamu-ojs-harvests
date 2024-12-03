@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8224</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY EXPERIMENTS OF BICHROMATIC WAVE GROUPS PROPAGATION ON A GENTLE SLOPE BEACH PROFILE AND ENERGY TRANSFER TO LOW AND HIGH FREQUENCY COMPONENTS</dc:title>
+	<dc:creator xml:lang="en">Padilla, Enrique M</dc:creator>
+	<dc:creator xml:lang="en">Alsina, Jose M</dc:creator>
+	<dc:subject xml:lang="en">Grouping waves</dc:subject>
+	<dc:subject xml:lang="en">Bandwidth</dc:subject>
+	<dc:subject xml:lang="en">Energy transfer</dc:subject>
+	<dc:description xml:lang="en">This work presents a first analysis of experimental data studying the influence of the frequency bandwidth on the
+propagation of bichromatic wave groups over a constant 1:100 beach slope. The use of a large spatial cross-shore resolution
+and Bi-Spectral analysis techniques allows the identification of nonlinear energy transfers along the propagation
+of wave groups. During wave-group shoaling, nonlinear coupling between the primary wave frequencies results in a
+larger growth of superharmonics for narrow-banded wave conditions, increasing the skewness of the wave and leading
+to eventual instabilities and earlier high frequency (hf) wave breaking compared to the broad-banded wave condition.
+Regarding the growth of low frequency (lf) component, the data analysis has shown a larger growth of the incident
+bound long wave (IBLW) for broad-banded wave conditions. It is generally assumed that the transferred energy from
+the primary wave components to subharmonics does not affect the short wave energy budget. Here, the opposite is
+hypothesised, and a larger growth of the IBLW for broad-banded wave conditions is accompanied of a larger reduction
+of the primary wave components, a reduced growth of hf components and, consequently, a reduction in the growth
+of hf wave asymmetry during wave group shoaling. Conversely for narrow-banded wave conditions, a reduced IBLW
+growth is associated with a larger growth of hf wave asymmetry. After hf wave breaking, within the low frequency
+domain (lf), the IBLW decays slightly for narrow-banded conditions, consistent with a reduction in radiation stress
+forcing. This involves a nonlinear energy transfer from the wave group frequency back to hf components. The remaining
+lf energy, Outgoing Free Long Wave (OFLW), reflects back at the shoreline. However, for broad-banded wave
+conditions, strong dissipation and minimal reflection of lf components occurs close to the shoreline, which might be
+caused by lf wave breaking.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8224</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8224/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

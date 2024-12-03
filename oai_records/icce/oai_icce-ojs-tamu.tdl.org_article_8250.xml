@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8250</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GENERAL MODEL FOR ESTIMATION OF LONGSHORE TRANSPORT AT SHINGLE/MIXED BEACHES</dc:title>
+	<dc:creator xml:lang="en">Tomasicchio, Giuseppe Roberto</dc:creator>
+	<dc:creator xml:lang="en">D'Alessandro, Felice</dc:creator>
+	<dc:creator xml:lang="en">Barbaro, Giuseppe</dc:creator>
+	<dc:creator xml:lang="en">Ciardulli, Francesco</dc:creator>
+	<dc:creator xml:lang="en">Francone, Antonio</dc:creator>
+	<dc:creator xml:lang="en">Mahmoudi Kurdistani, Sahameddin</dc:creator>
+	<dc:subject xml:lang="en">Longshore transport</dc:subject>
+	<dc:subject xml:lang="en">shingle beaches</dc:subject>
+	<dc:subject xml:lang="en">mixed beaches</dc:subject>
+	<dc:subject xml:lang="en">field and laboratory data</dc:subject>
+	<dc:subject xml:lang="en">general model</dc:subject>
+	<dc:description xml:lang="en">In the present study, the accuracy of the GLT model (Tomasicchio et al., 2013) has been verified for the estimation of the Longshore Transport (LT) at shingle/mixed beaches. In order to verify the suitability of the GLT model in determining LT estimates at shingle beaches, without any further calibration, the comparison between the LT predictions and observations from two field data sets (Chadwick, 1989; Nicholls and Wright, 1991) has been considered. The comparison showed that the GLT predicted LT rates within a factor of 2 of the observed values. The predictive capability of the GLT has been also verified against an alternative general formula for the LT estimation at shingle beaches (Van Rijn, 2014). In addition, the suitability of the GLT model, even for the mixed beach case, has been assessed by means of the comparison between the LT prediction and the observation from a field experiment on a mixed sand and gravel beach at Hawke's Bay, on the east coast of New Zealand (Komar, 2010).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8250</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.sediment.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; sediment.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8250/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

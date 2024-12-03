@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4151</identifier>
+				<datestamp>2021-01-19T19:38:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEARSHORE CIRCULATIONS DUE TO WAVE INDUCED CURRENTS BY OFFSHORE BREAKWATER IN FINITE ELEMENTS</dc:title>
+	<dc:creator xml:lang="en">Liang, Shinn-Chung</dc:creator>
+	<dc:subject xml:lang="en">nearshore circulation</dc:subject>
+	<dc:subject xml:lang="en">wave induced current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">offshore breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">finite elements</dc:subject>
+	<dc:description xml:lang="en">The objective of the present study is concerned with the numerical prediction of wave patterns and wave induced currents adjacent to a breakwater. The wave theory used is that of Berkhoff's (1972) mild slope wave equation with effects of diffraction, refraction and reflection described as Bettess, Liang and Bettess (1984). A finite element model is applied with appropriate boundary conditions. The singularity in the velocity at the tip of the breakwater is modelled effectively using the technique of Henshell and Shaw (1975), originally developed for elasticity. In the case of waves induced currents a potential representation of velocity in the fluid has be€&gt;n used to derive a set of radiation stress expressions based on the theory of Longuet-Higgins (1964, 1970a,b), which are for an arbitrary wave pattern and the bottom variation. These expressions used account for the mean sea level and satisfy Mei's (1973) static balance of momentum flux. The radiation stress is applied to obtain forcing terms for use in a shallow water equation in conjunction with limiting ratio wave breaking where wave height, wave period, wave steepness and beach slope may be considered. Finally, an offshore breakwater on a beach for shore protection has been applied in a complete finite element model to predict both wave pattern and nearshore currents. Two angles of wave incidence are chosen. A series result has been produced.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4151</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.150</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 150</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4151/3832</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

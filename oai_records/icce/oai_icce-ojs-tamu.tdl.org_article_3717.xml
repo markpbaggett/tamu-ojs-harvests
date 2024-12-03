@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3717</identifier>
+				<datestamp>2021-01-19T22:11:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FORCES INDUCED BY BREAKERS ON PILES</dc:title>
+	<dc:creator xml:lang="en">Wiegel, Robert L.</dc:creator>
+	<dc:subject xml:lang="en">breaking wave</dc:subject>
+	<dc:subject xml:lang="en">pile force</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:description xml:lang="en">This paper consists of three parts. The first part presents a method for analyzing the forces exerted by breaking waves on a cirular pile. The force consists of two components, a slowly varying force and a much larger but very short duration quasi-impact force (probably of the order of 1/100 of a second). The second part is concerned with breaker characteristics, with emphasis being given to the few field data that have been measured. The third part consists of a presentation of some available data on surf zone bottom profile variations with time. Information on all three of these parts is needed for the proper design of a pile supported structure in the surf zone. If the bottom along the site of a proposed pier is sand, an estimate of the variability with time of the profile must be made. The effect of bottom depth and configuration on the height of waves moving shoreward, and the effect of this, in turn, on the wave loading is important in the calculations of wave-induced moments about the bottom. The ability of the structure to withstand these horizontal loads depends in part upon the depth of penetration of the piles. If the bottom varies with time, then calculations of wave characteristics and wave-induced loads on the piles should be made for appropriate bottom configurations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3717</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.102</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 102</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3717/3400</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

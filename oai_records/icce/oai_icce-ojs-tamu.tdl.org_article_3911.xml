@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3911</identifier>
+				<datestamp>2021-01-19T21:00:48Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON PREDICTING INFRAGRAVITY ENERGY IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Sallenger, Asbury H.</dc:creator>
+	<dc:creator xml:lang="en">Holman, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">infragravity energy</dc:subject>
+	<dc:subject xml:lang="en">energy prediction</dc:subject>
+	<dc:description xml:lang="en">Flow data were obtained in the surf zone across a barred profile during a storm. RMS cross-shore velocities due to waves in the infragravity band (wave periods greater than 20 s) had maxima in excess of 0.5 m/s over the bar crest. For comparison to measured spectra, synthetic spectra of cross-shore flow were computed using measured nearshore profiles. The synthetic spectra were calculated assuming a white runup spectrum of mode-4 edge waves of unit amplitude, although the results would be essentially the same for standing waves or any edge-wave mode above 2. The structure, in the infragravity band, of these synthetic spectra corresponded reasonably well with the structure of the measured spectra. Total variances of measured cross-shore flow within the infragravity band were nondimensionalized by dividing by total infragravity variances of synthetic spectra. These nondimensional variances were independent of distance offshore and increased with the square of the breaker height. Thus, cross-shore flow due to infragravity waves can be estimated with knowledge of the nearshore profile and incident wave conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3911</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.130</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 130</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3911/3594</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

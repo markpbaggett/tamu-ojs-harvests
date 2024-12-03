@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8843</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RECENT ADVANCES IN MODELING WAVE ATTENUATION BY VEGETATION</dc:title>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:creator xml:lang="en">Zhu, Ling</dc:creator>
+	<dc:creator xml:lang="en">Chakrabarti, Agnimitro</dc:creator>
+	<dc:description xml:lang="en">In the past decade, interest in wave attenuation by vegetation has increased considerably as coastal engineers and scientists search for sustainable solutions to mitigate the impacts of climate change and natural hazards. The interactions of surface weaves and natural vegetation span over a large range of scales, from turbulence and eddies at the vegetation stem scale to wave generation in vast inundated wetlands of hundreds of square miles under hurricane conditions. Restoring coastal wetlands and reducing flood risks of coastal communities require improved understanding and better predictive capability for wave attenuation over inundated coastal landscapes with vegetation. The objective of this paper is to present recent advances in multi-scale modeling of wave attenuation by wetland vegetation. Numerical modeling results ranging from vegetation-resolved large eddy simulation under idealized conditions to incorporating vegetation-induced drag forces into conservation laws of momentum and energy for engineering applications will be shown. Effects of vegetation flexibility and various wave theories on the prediction of wave attenuation and the choice of vegetation drag coefficients will be discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8843</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8843/7643</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

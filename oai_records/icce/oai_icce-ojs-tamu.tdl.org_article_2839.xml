@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2839</identifier>
+				<datestamp>2021-01-20T03:14:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORCE ON A VESSEL TIED AT OFFSHORE DOLPHINS</dc:title>
+	<dc:creator xml:lang="en">Goda, Yoshimi</dc:creator>
+	<dc:creator xml:lang="en">Yoshimura, Tomotsuka</dc:creator>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">vessel</dc:subject>
+	<dc:subject xml:lang="en">dolphin</dc:subject>
+	<dc:subject xml:lang="en">offshore dolphin</dc:subject>
+	<dc:description xml:lang="en">The solution of wave scattering by a vertical elliptical cylinder is
+applied to calculate the wave forces exerted upon it. The wave forces in
+the directions of long and short axes of ellipsis are shown in nondimensional
+forms as the functions of the angle of wave approach, the diameter-to-wavelength
+ratio, and the aspect ratio of ellipsis. The results of wave force computed
+are also shown in terms of the virtual mass coefficients associated with the
+reference volume of the circular cylinder the diameter of which is approximately
+equal to the apparent width of the elliptical cylinder observed from the direction
+of wave approach.
+Theory is further applied for the wave forces acting upon a vessel moored
+tight at offshore dolphins and the forces transmitted to the dolphins through
+the vessel. The vessel is approximated with the fixed elliptical cylinder
+having the same width-to-length ratio. The computation with directional wave
+spectra shows that a tanker of 200,000 D.W.T. may exert the force of about
+1,400 tons at the one-third maximum amplitude to each breasting dolphin when
+the tanker is exposed to the incident waves of H,/,,=1.0m and T» / =10 sec from
+the broadside.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2839</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.92</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 92</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2839/2503</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

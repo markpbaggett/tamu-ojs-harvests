@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6792</identifier>
+				<datestamp>2023-10-04T02:37:54Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE SCALE EXPERIMENTS ON FARMS OF HEAVING BUOYS TO INVESTIGATE WAKE DIMENSIONS, NEAR-FIELD AND FAR-FIELD EFFECTS</dc:title>
+	<dc:creator xml:lang="en">Stratigaki, Vasiliki</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:creator xml:lang="en">Stallard, Timothy</dc:creator>
+	<dc:creator xml:lang="en">Kofoed, Jens Peter</dc:creator>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:creator xml:lang="en">Mattarollo, Giovanni</dc:creator>
+	<dc:creator xml:lang="en">Babarit, Aurelien</dc:creator>
+	<dc:creator xml:lang="en">Forehand, David</dc:creator>
+	<dc:creator xml:lang="en">Folley, Matthew</dc:creator>
+	<dc:subject xml:lang="en">wave energy converters</dc:subject>
+	<dc:subject xml:lang="en">WEC</dc:subject>
+	<dc:subject xml:lang="en">WEC arrays</dc:subject>
+	<dc:subject xml:lang="en">WEC  farms</dc:subject>
+	<dc:subject xml:lang="en">WEC wakes</dc:subject>
+	<dc:subject xml:lang="en">wake effects</dc:subject>
+	<dc:subject xml:lang="en">renewable energy</dc:subject>
+	<dc:subject xml:lang="en">large-scale experiments</dc:subject>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">HYDRALAB IV</dc:subject>
+	<dc:description xml:lang="en">The shrinking reserves of fossil fuels in combination with the increasing energy demand have enhanced the interest in renewable energy sources, including wave energy. In order to extract a considerable amount of wave power, large numbers of Wave Energy Converters will have to be arranged in arrays or farms using a particular geometrical layout. The operational behaviour of a single device may have a positive or negative effect on the power absorption of the neighbouring WECs in the farm (near-field effects). Moreover, as a result of the interaction between the WECs within a farm, the overall power absorption and the wave climate in the lee of the WECs is modified, which may influence neighbouring farms, other users in the sea or even the coastline (far-field effects). Several numerical studies on large WEC arrays have already been performed, but large scale experimental studies on near-field and far-field wake effects of large WEC arrays are not available in literature. Within the HYDRALAB IV European programme, the research project WECwakes has been introduced to perform large scale experiments in the Shallow Water Wave Basin of DHI, in Denmark, on large arrays of point absorbers for different layout configurations and inter-WEC spacings. The aim is to validate and further develop the applied numerical methods, as well as to optimize the geometrical layout of WEC arrays for real applications.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6792</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.71</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.71</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6792/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

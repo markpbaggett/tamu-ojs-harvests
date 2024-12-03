@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3238</identifier>
+				<datestamp>2021-01-20T00:51:06Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODEL FOR DENSITY CURRENTS IN ESTUARIES</dc:title>
+	<dc:creator xml:lang="en">Fischer, Karsten</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">density current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:description xml:lang="en">In the estuarine mixing areas of salt water and fresh water the vertical stream velocity profile generally is strongly affected by the baroclinic forces, giving rise to upstream currents near the bottom. Such reverse currents occur not only in stratified estuaries, but also in estuaries of the well-mixed type |1|, and they may cause problems like strong shoaling areas, salt intrusion, or difficulties when disposing wastes or dredged material |3|. The contributions of the salinity variations to the tidal motion are comparable to the contributions from the fresh water upland discharge |1|. For well-mixed estuaries with negligible fresh water discharge, the tidal velocities and water elevations may be obtained from numerical vertically averaged models or from physical homogeneous-flow models, but for all other conditions or desired results one has to use numerical vertically discretized models or physical inhomogeneous-flow models. As numerical and physical models have different properties and deficiencies, they may be used complementarily rather than concurrently |4|, the farfield regime apparently becoming the domain of numerical models. The increased public and scientific interest in water quality problems led to the development and application of baroclinic numerical tidal models |5, 6| . The present paper is concerned with the question, how well the action of baroclinic forces can be represented by numerical techniques. As a test example, the salt wedge problems is tackled. Studies on salt wedges by means of physical models have been very sucessful |1, 7|, but mathematical approches were confined to analytical solutions for the stationary salt wedge |8 - 10| and simple geometric boundaries only. The numerical approach is free from these restrictions, giving a solution of the complete equations of motion, continuity, and convection-diffusion simultaneously.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3238</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.188</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 188</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3238/2902</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

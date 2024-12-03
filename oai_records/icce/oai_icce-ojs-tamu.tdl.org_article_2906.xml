@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2906</identifier>
+				<datestamp>2021-01-20T02:49:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CURRENT MEASUREMENTS USING A TILTING SPAR</dc:title>
+	<dc:creator xml:lang="en">Lowe, R.L.</dc:creator>
+	<dc:creator xml:lang="en">Inman, D.L.</dc:creator>
+	<dc:creator xml:lang="en">Winant, C.D.</dc:creator>
+	<dc:subject xml:lang="en">current measurements</dc:subject>
+	<dc:subject xml:lang="en">tilting spar</dc:subject>
+	<dc:subject xml:lang="en">spar</dc:subject>
+	<dc:description xml:lang="en">The dynamic response of the spar to oscillatory flow has been examined by modeling as well as computer analysis of the non-linear differential equation. Field measurements using the tilting spar have been made. These measurements are compared with theory and with other more direct measurements of the wave field. The tilting spar has been used to estimate wave direction. These estimates generally agree well with directional estimates made using a pressure sensor array and a two-component current meter.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2906</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2906/2571</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

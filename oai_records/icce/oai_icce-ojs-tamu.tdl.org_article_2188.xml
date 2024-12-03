@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2188</identifier>
+				<datestamp>2021-01-17T06:06:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A STUDY OF DIFFUSION IN AN ESTUARY</dc:title>
+	<dc:creator xml:lang="en">Maloney, W.E.</dc:creator>
+	<dc:creator xml:lang="en">Cline, C.H.</dc:creator>
+	<dc:subject xml:lang="en">dispersion of contaminants</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">flushing</dc:subject>
+	<dc:subject xml:lang="en">Ketchum's method</dc:subject>
+	<dc:description xml:lang="en">The problem of dispersion and flushing of contaminants from estuarine waters is of ever-increasing importance to engineers. To determine this reduction in concentration and removal of contaminants from estuarine water, several basic methods have been established. They are: (1) the classical tidal prism method, where the flushing is a function of the amount of water brought in and removed on each tide; (2) Ketchum's modified tidal prism method, where flushing is a function of tidal action and river discharge; and (3) a diffusion-advection method which may be based on a coefficient of eddy diffusivity. This third method, diffusion-advection, would seem to give the most realistic answer provided that confidence can be had in the coefficient of eddy diffusivity. This discussion will be confined to the third method. Furthermore, we will concern ourselves only with that portion of a contaminant that goes into solution and partakes of the motion of the water. Such factors as absorption onto particulate matter, settling out onto the bottom, and uptake of the contaminant by marine organisms will be neglected.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2188</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2188/1882</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

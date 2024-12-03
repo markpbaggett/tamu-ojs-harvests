@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8252</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF FLUID FLOW IMPACT OSCILLATORY PRESSURES WITH AIR ENTRAPMENT AT STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Mayon, Robert Brian</dc:creator>
+	<dc:creator xml:lang="en">Sabeur, Zoheir</dc:creator>
+	<dc:creator xml:lang="en">Tan, Mingyi</dc:creator>
+	<dc:creator xml:lang="en">Djidjeli, Kamal</dc:creator>
+	<dc:subject xml:lang="en">Porous structures</dc:subject>
+	<dc:subject xml:lang="en">fluid structure interaction</dc:subject>
+	<dc:subject xml:lang="en">compressible flow</dc:subject>
+	<dc:subject xml:lang="en">OpenFOAM</dc:subject>
+	<dc:description xml:lang="en">Hydrodynamic wave loading at coastal structures is a complex phenomenon to quantify. The chaotic nature of the fluid flow field as waves break against such structures has presented many challenges to Scientists and Engineers for the design of coastal defences. The provision of installations such as breakwaters to resist wave loading and protect coastal areas has evolved predominantly through empirical and experimental observations. This is due to the challenging understanding and quantification of wave impact energy transfer processes with air entrainment at these structures. This paper presents a numerical investigation on wave loading at porous formations including the effects of air entrapment. Porous morphologies generated from cubic packed spheres with varying characteristics representing a breakwater structure are incorporated into the numerical model at the impact interface and the effect on the pressure field is investigated as the wave breaks. We focus on analysing the impulse impact pressure as a surging flow front impacts a porous wall. Thereafter we investigate the multi-modal oscillatory wave impact pressure signals which result from a transient plunging breaker wave impinging upon a modelled porous coastal protective structure. The high frequency oscillatory pressure effects resulting from air entrapment are clearly observed in the simulations. A frequency domain analysis of the impact pressure responses is undertaken. We show that the structural morphology of the porous assembly influences the pressure response signal recorded during the impact event.  The findings provide good confidence on the robustness of our numerical model particularly for investigating the air bubbles formation and their mechanics at impact with porous walls.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8252</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8252/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

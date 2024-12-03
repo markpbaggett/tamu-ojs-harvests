@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2608</identifier>
+				<datestamp>2021-01-17T04:07:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MAXIMUM WAVE HEIGHT PROBABILITIES FOR A RANDOM NUMBER OF RANDOM INTENSITY STORMS</dc:title>
+	<dc:creator xml:lang="en">Borgman, L.E.</dc:creator>
+	<dc:subject xml:lang="en">probability</dc:subject>
+	<dc:subject xml:lang="en">random number</dc:subject>
+	<dc:subject xml:lang="en">random intensity storm</dc:subject>
+	<dc:description xml:lang="en">A very general model is presented for the probability distribution function for wave heights in storms with time-varying intensities Some of the possible choices for functions in the model are listed and discussed Techniques for determining the "equivalent rectangular storm" corresponding to a given historically recorded storm are developed The final model formula expresses the probabilities for a random number of random length storms each with random intensities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2608</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2608/2273</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

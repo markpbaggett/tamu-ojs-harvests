@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7193</identifier>
+				<datestamp>2021-01-19T05:07:14Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE IMPORTANCE OF LONG WAVE REFLECTIONS IN TIDAL MODELLING ON A CONTINENTAL SHELF</dc:title>
+	<dc:creator xml:lang="en">Luxford, Fay</dc:creator>
+	<dc:creator xml:lang="en">Stansby, Peter K</dc:creator>
+	<dc:creator xml:lang="en">Rogers, Benedict D</dc:creator>
+	<dc:subject xml:lang="en">tidal modelling</dc:subject>
+	<dc:subject xml:lang="en">reflections</dc:subject>
+	<dc:subject xml:lang="en">phase error</dc:subject>
+	<dc:subject xml:lang="en">Southern Bight</dc:subject>
+	<dc:description xml:lang="en">This paper investigates the tidal phase error found in a 2-D hydrodynamic model of the Southern Bight of the European continental shelf; an error also found in other models of the region. After identifying the predominant mechanisms controlling the tidal flow in the Southern Bight: bathymetry, bottom friction and coastline reflections, analysis of each mechanism is made. Sensitivity to bathymetry is tested, to bed friction using values based on physical bed properties and to coastline reflection of tidal waves by comparing standing/propagating wave analysis from model results with observations. It was found that using more physically realistic friction values improved the prediction of tidal amplitudes but had minimal effect on tidal phase and an unrealistic reduction in the bathymetry level would be required to correct the phase error. However analysis of tidal reflections revealed that the model under-predicts the amplitude of the reflected wave which may cause the erroneous phase pattern. It is proposed that the reflectiveness of the coastline has increased over time due to the cumulative effect of coastal engineering such as sea walls and barrages reducing energy dissipation. It is concluded that more attention needs to be given to the representation of coastlines in models; something which is currently neglected in model calibrations which focus on changing the bathymetry, bottom friction and boundary conditions to achieve the best model fit. It is suggested that the modelling of this process needs to be improved, especially when calculating long-term sediment transport from the hydrodynamic predictions where residual velocities are important and of small magnitude relative to velocity amplitudes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7193</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7193/pdf_680</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

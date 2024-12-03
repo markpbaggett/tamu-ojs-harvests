@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5375</identifier>
+				<datestamp>2021-01-19T12:41:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND EFFECTS ON RUNUP AND OVERTOPPIG OF COASTAL STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Ward, Donald L.</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Jun</dc:creator>
+	<dc:creator xml:lang="en">Wibner, Christopher G.</dc:creator>
+	<dc:creator xml:lang="en">Cinotto, Charles M.</dc:creator>
+	<dc:subject xml:lang="en">wind effects</dc:subject>
+	<dc:subject xml:lang="en">runup</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:description xml:lang="en">Effects of strong onshore winds on runup and overtopping of coastal revetments were studied in a wave flume with wind-generating capabilities. Runup and overtopping were measured during tests with onshore wind blowing over mechanically-generated waves. The addition of a constant wind over monochromatic waves added substantial energy to the wave field but the energy spectrum remained single peaked if the generated wave period was short (one second). These single-peaked incident spectra of the combined wind/wave tests were then reproduced mechanically using just the mechanical wave generator, with runup or overtopping again being measured. Runup and overtopping were both found to be considerably higher with similar incident spectra under the influence of onshore winds. Results are presented for a range of structure slopes, wind speeds, wave periods, and wave heights. Both smooth and rough revetments were tested.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5375</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5375/5052</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

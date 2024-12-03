@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7068</identifier>
+				<datestamp>2021-01-19T05:23:20Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RUN-UP PREDICTION ON ANTIFER ARMOR USING NEURAL NETWORK METHOD</dc:title>
+	<dc:creator xml:lang="en">Rabiei, Arezoo</dc:creator>
+	<dc:creator xml:lang="en">Najafi-Jilani, Ataollah</dc:creator>
+	<dc:creator xml:lang="en">Zakeri Niri, Mahmud</dc:creator>
+	<dc:subject xml:lang="en">Wave run-up</dc:subject>
+	<dc:subject xml:lang="en">Breakwater</dc:subject>
+	<dc:subject xml:lang="en">Antifer</dc:subject>
+	<dc:subject xml:lang="en">Armor</dc:subject>
+	<dc:subject xml:lang="en">Artificial Neural Network</dc:subject>
+	<dc:subject xml:lang="en">Multi-layer Perceptron</dc:subject>
+	<dc:subject xml:lang="en">MSE</dc:subject>
+	<dc:description xml:lang="en">The certainly goal of this study is to present the better way from terms of cost and experimenting duration, instead using experimental ways for investigates the wave run-up (Ru) over rubble-mound breakwater and examines the effect of placement pattern of Antifer units on the amount of wave run-up. In order to, it is suggested utilizing the Artificial Neural Networks (ANNs). For the sake of comparison, the proposed modeling is put into contrast by the ones obtained via other approaches in the literature. The Multi-Layer Perceptron (MLP) is selected as the artificial neural network exerted in this study. In the designed neural network, the numbers of inputs and outputs are selected as four and one, respectively. Additionally, the number of neurons in the single hidden layer of the network are appointed by trial and error. The Mean Square Error (MSE) of the training and correlating data set are investigated so that, seven hidden neurons is selected. This study has presented the regression equations and MSE for the results obtained by ANN are compared with other models. In conclusion, the regular placement would have offered to other placement patterns for the reason that its less MSE obtained by ANN.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7068</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7068/pdf_399</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7068/7068</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

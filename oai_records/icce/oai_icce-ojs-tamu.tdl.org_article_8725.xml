@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8725</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING WAVE ATTENUATION DUE TO SALTMARSH VEGETATION USING A MODIFIED SWAN MODEL</dc:title>
+	<dc:creator xml:lang="en">Christie, Elizabeth</dc:creator>
+	<dc:creator xml:lang="en">Möller, Iris</dc:creator>
+	<dc:creator xml:lang="en">Spencer, Tom</dc:creator>
+	<dc:creator xml:lang="en">Yates, Marissa</dc:creator>
+	<dc:description xml:lang="en">Vegetated shorelines have been increasingly recognized for their contribution to natural coastal protection due to their ability to dissipate wave energy. Within the UK, salt marshes are beginning to be included in flood defence schemes. Predicting wave dissipation over vegetation requires accurate representation of salt marsh canopies and the feedback relationship between vegetation and wave conditions. We present a modification to the SWAN vegetation model, which includes a variable drag coefficient and a spatially varying vegetation height. Its application is demonstrated by modelling wave propagation over UK salt marshes. The third generation wave model, SWAN includes a vegetation module for calculation of wave attenuation over vegetation. Wave dissipation is determined based on the vegetation properties and a drag coefficient. This drag coefficient, C_D, is used to calibrate the model, and a fixed value is used per model run. Empirically the drag coefficient has been found to vary with ambient wave conditions. Typically the drag coefficients are defined empirically as a function of either the stem Reynolds number, Rev, or the Keulegan-Carpenter number, KC. The parameter values have been shown to vary with vegetation type. In this paper, we modify the SWAN vegetation module to include a temporally varying CD. This allows the drag coefficient to vary with ambient wave parameters, which gives an improved prediction under time varying wave conditions (e.g. passage of a storm) and includes the change in wave conditions as they travel through the vegetation. We also incorporate spatially varying vegetation height into the model to further improve the representation of the complexity of vegetated shorelines. Using the new formulation we find improved prediction of wave dissipation over both idealized laboratory and field salt marsh vegetation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8725</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8725/7527</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8725/8093</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8690</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OBSERVATIONS OF CANOPY FLOW STRUCTURE AND FRICTIONAL VELOCITY OF CORAL COLONIES IN DONGSHA ATOLL</dc:title>
+	<dc:creator xml:lang="en">Huang, Zhi-Cheng</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Wen-Yang</dc:creator>
+	<dc:creator xml:lang="en">Yang, Jay</dc:creator>
+	<dc:description xml:lang="en">Understanding the hydrodynamics is important for biological, ecological, and biogeochemical processes in coral reef systems. The near-bed flow motion affects the benthic organism distributions, morphological evolution, larvae settlement, and nutrient uptake. The near-bed flow structures have been characterized as planar boundary-layer flows when the bottom roughness scale created by benthic organisms is much smaller than the water depth. On the other hand, when the bottom roughness scale becomes much larger, the resistance drag forces caused by these canopy elements should be considered (Rosman and Hench, 2011). The form drag of the multiple coral colonies generates turbulent wakes, enhances turbulent mixing, and changes the flow structure (Huang, 2015). Many laboratory and modeling studies have reported the drag parameterization and the flow structure for unidirectional flows through submerged canopy or vegetation (e.g., Finnigan, 2000; among many others). However, the vertical flow structures of the canopy layer caused by coral colonies (bommies) are rarely reported in fields. Here we present field measurements of flow structure over coral colonies using acoustic Doppler velocimetry (ADV) and pulse-coherent Doppler velocity profiler (PCADP) techniques. The measured current profiles and turbulence are used to study the flow dynamics in the canopy-layer created by coral colonies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8690</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8690/7494</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

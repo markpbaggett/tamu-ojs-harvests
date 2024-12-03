@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6784</identifier>
+				<datestamp>2023-10-04T02:38:41Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A 3D NUMERICAL INVESTIGATION OF FINE SEDIMENT TRANSPORT IN AN OSCILLATORY CHANNEL</dc:title>
+	<dc:creator xml:lang="en">Hsu, Tian-Jian</dc:creator>
+	<dc:creator xml:lang="en">Yu, Xiao</dc:creator>
+	<dc:creator xml:lang="en">Ozdemir, Celalettin E.</dc:creator>
+	<dc:creator xml:lang="en">Balachandar, S.</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">turbulence-resolving simulation</dc:subject>
+	<dc:subject xml:lang="en">wave boundary later</dc:subject>
+	<dc:subject xml:lang="en">fluid mud</dc:subject>
+	<dc:description xml:lang="en">Recent findings on a diverse range of muddy seabed states revealed by 3D, turbulence-resolving simulations are first reviewed. These transitions have critical implications to offshore delivery of fine sediment in the ocean and wave dissipation. Assuming a small particle Stokes number, the Equilibrium approximation to the Eulerian two-phase flow equations is applied. The resulting simplified equations are solved with a high-accuracy pseudo-spectral scheme in an idealized oscillatory bottom boundary layer (OBBL). For a typical energetic muddy shelf, the Stokes Reynolds number Reï,, is no more than 1000 and all of the scales of flow turbulence and their interaction with sediments are resolved. With increasing sediment availability or settling velocity, the seabed state evolves from well-mixed sediment distribution, to the formation of lutocline and a complete laminarization of the OBBL. More recently, we further include rheological stress in the simulations in order to study the interplay between turbulence and rheology in determining the flow regimes and hydrodynamic dissipation. To include rheological stress, we extend the numerical model with a hybrid spectral and compact finite difference scheme. A sixth-order compact finite difference is implemented in vertical direction to keep the spectral-like accuracy. The model is validated with analytical solutions using simple Newtonian rheology in laminar condition. Preliminary results at Reï¤=600 reveal that when rheology is incorporated, high viscosity can trigger earlier laminarization of OBBL. When OBBL is laminarized, sediments settle and higher concentration is accumulated near the bed that further enhances viscosity and hydrodynamic dissipation. Our preliminary finding that rheology encourages laminarization may explain why large attenuation of surface waves over muddy seabed is ubiquitous and the highest dissipation rate is often observed during the waning stage of a storm.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6784</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6784/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

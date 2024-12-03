@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3085</identifier>
+				<datestamp>2021-01-20T01:45:58Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LATERAL AND BOTTOM FORCES ON LONGSHORE CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Huntley, David A.</dc:creator>
+	<dc:subject xml:lang="en">lateral force</dc:subject>
+	<dc:subject xml:lang="en">bottom force</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">A two-component electromagnetic flowmeter has been used on a natural beach of slope 0.01 to measure mean longshore currents and the horizontal fluctuating velocities in the frequency range 0-1 Hz. The measurements extend up to 120 m offshore and span about one third of a wide surf-zone. The cross product of the fluctuating horizontal velocities, assumed to contain the combined effects of radiation and Reynold's stresses, is plotted as a function of distance from the shoreline. The on/offshore gradient of the cross-product is then equated with a bottom friction term either in the form used by Bowen (1969a) or in a form similar to that used by Longuet-Higgins (1970). The apparent values of bottom friction coefficient obtained in this way are at least a factor of two smaller than expected for Reynolds numbers and bottom roughness appropriate to the beach. Attempts to separate the radiation stress and the Reynold's stress contributions to the total stress term using cospectra fail to show distinguishable Reynold's stress contributions. Although this may be construed as being consistent with Battjes' (1975) beach slope dependent form for horizontal eddy viscosity rather than Longuet-Higgins' (1970) form, it is argued that, in fact, the significant horizontal turbulence was not measured at all but was confined to a surface layer above the flowmeter. This leads to the hypothesis that lateral friction, as a surface boundary layer, and the bottom friction act on a less turbulent central layer, and that the small measured friction coefficient in the present experiment is the result of the combined effects of these layers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3085</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3085/2750</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

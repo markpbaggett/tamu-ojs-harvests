@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12666</identifier>
+				<datestamp>2023-09-01T15:11:58Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AVERAGE OVERTOPPING DISCHARGE PREDICTION FOR BERM BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Andersen, T. Lykke</dc:creator>
+	<dc:creator xml:lang="en">Eldrup, M.R.</dc:creator>
+	<dc:creator xml:lang="en">Meer, J.W. Van der</dc:creator>
+	<dc:description xml:lang="en">The present paper deals with overtopping prediction for berm breakwaters in line with the EurOtop methodology. The basis for the paper is the recent advances proposed for EurOtop for conventional breakwaters with respect to the influence of the wave steepness and the crest width. New model tests have been performed to investigate the applicability of these influence factors to berm breakwaters. To cover a white spot in existing data for berm breakwaters, the model tests included wave conditions with very low wave steepness. The results show that the recently developed influence factors for conventional breakwaters also improve predictions for berm breakwaters. Based heron an additional influence factor for the dimensionless berm width is established. The berm width was in previous studies made dimensionless by the wave height, but the present study indicates that the wavelength is more appropriate.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12666</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12666/11939</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 T. Lykke Andersen, M.R. Eldrup, J.W. Van der Meer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

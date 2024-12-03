@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1258</identifier>
+				<datestamp>2023-10-04T03:55:46Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF DESIGN WATER LEVELS AT THE EMS-DOLLARD ESTUARY CONSIDERING THE EFFECT OF A STORM SURGE BARRIER</dc:title>
+	<dc:creator xml:lang="en">Herrling, Gerald</dc:creator>
+	<dc:creator xml:lang="en">Knaack, Heiko</dc:creator>
+	<dc:creator xml:lang="en">Kaiser, Ralf</dc:creator>
+	<dc:creator xml:lang="en">Niemeyer, Hanz Dieter</dc:creator>
+	<dc:subject xml:lang="en">storm surge modeling</dc:subject>
+	<dc:subject xml:lang="en">design water level</dc:subject>
+	<dc:subject xml:lang="en">Ems-Dollard estuary</dc:subject>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:subject xml:lang="en">single-value-method</dc:subject>
+	<dc:subject xml:lang="en">storm surge barrier</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:description xml:lang="en">In the Ems-Dollard estuary at the southern North Sea coast a revaluation of design water levels along the German dykes has become necessary, since the safety margin for sea level rise was increased by 25 cm due to a decision of the Lower Saxon Ministry for Environment and Climate Protection. The upstream part of the estuary is protected against high storm surges by a storm surge barrier. The closure of the barrier effects downstream surge water levels due to partial reflection. Deterministic-mathematical modeling is applied to evaluate design water levels and design wave run-up. Three severe storm surge events have been hindcasted by a cascade of three hierarchical models from the Continental Shelf over the German Bight into the area of interest. The models are forced by non-stationary and spatially varying data of atmospheric pressure, wind velocities and directions available of meteorological model investigations. The verification of the storm surge model with water level observations yields good agreements. With respect to legal boundary conditions, the single-value-method is applied to determine the highest expected high water level at Emden. Starting from this target water level, the wind velocities in the meteorological boundary conditions are increased with the aim to increase the surge level at the coast and to match the predetermined design water level at Emden. The responding water levels in the Ems-Dollard estuary assign the new design water levels.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1258</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1258/pdf_292</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

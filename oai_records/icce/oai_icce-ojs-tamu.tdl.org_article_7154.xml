@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7154</identifier>
+				<datestamp>2021-01-19T05:12:29Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE OCCURRENCE PROBABILITIES OF ROGUE WAVES IN DIFFERENT NONLINEAR STAGES</dc:title>
+	<dc:creator xml:lang="en">Tao, Aifeng</dc:creator>
+	<dc:creator xml:lang="en">Qi, Keren</dc:creator>
+	<dc:creator xml:lang="en">Zheng, Jinhai</dc:creator>
+	<dc:creator xml:lang="en">Peng, Ji</dc:creator>
+	<dc:creator xml:lang="en">Wu, Yuqing</dc:creator>
+	<dc:subject xml:lang="en">Rouge Waves</dc:subject>
+	<dc:subject xml:lang="en">HOS</dc:subject>
+	<dc:subject xml:lang="en">Nonlinear mechanism</dc:subject>
+	<dc:subject xml:lang="en">probability</dc:subject>
+	<dc:subject xml:lang="en">Kurtosis</dc:subject>
+	<dc:subject xml:lang="en">Entropy</dc:subject>
+	<dc:description xml:lang="en">The occurrence probabilities of Rogue Waves in different nonlinear states are investigated based on high-order spectral method (HOSM), which is a direct phase-resolved numerical method. The focus is given to the occurrence probability of Rogue Waves in the nonlinear evolution stage where the Benjamin-Feir Instability is not the dominate mechanism due to the quartet resonance interactions for wave fields with a broad range in frequencies. The initial wave trains are generated from Stokes waves and two sidebands. Based on the simulation, we find that the Kurtosis evolves distinctly at three nonlinear stages and shows a weak relation to the probabilities of the Rouge Waves. We also introduce a simple Entropy formula, turning out to close a stable value.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7154</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7154/pdf_434</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

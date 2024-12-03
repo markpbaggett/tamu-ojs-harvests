@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1403</identifier>
+				<datestamp>2023-10-04T04:23:19Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING WAVE-TIDE INTERACTIONS AT A WAVE FARM</dc:title>
+	<dc:creator xml:lang="en">Gonzalez-Santamaria, Raul</dc:creator>
+	<dc:creator xml:lang="en">Zou, Qingping</dc:creator>
+	<dc:creator xml:lang="en">Pan, Shunqi</dc:creator>
+	<dc:creator xml:lang="en">Padilla-Hernandez, Roberto</dc:creator>
+	<dc:subject xml:lang="en">Wave Hub</dc:subject>
+	<dc:subject xml:lang="en">marine renewable energy</dc:subject>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">wave-tide interaction</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">ROMS</dc:subject>
+	<dc:description xml:lang="en">The Wave Hub project will create the world's largest wave farm off the coast of Cornwall, Southwest England. This study is to investigate wave and tide interactions, in particular their effects on bottom friction and sediment transport at the wave-farm coast. This is an ambitious project research which includes the use of a very complex numerical modelling system. The main question to answer is how waves, tidal currents and winds affect the bottom friction at the Wave Hub site and the near-shore zone, as well as their impact on the sediment transport. Results show that tidal elevation and tidal currents have a significant effect on the wave height predictions, tidal forcing and wind waves have a significant effect on the bed shear-stress, relevant to sediment transport, waves via radiation stresses have an important effect on the long-shore and cross-shore velocity components, particularly during the spring tides, waves can impact on bottom boundary layer and the mixing in the water column. Interactions between waves and tides at the Wave Hub site is important when modelling coastal morphology influenced by wave energy devices, this open-source modelling system tool will help the study of physical impacts on the Wave Hub farm area.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1403</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1403/pdf_122</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

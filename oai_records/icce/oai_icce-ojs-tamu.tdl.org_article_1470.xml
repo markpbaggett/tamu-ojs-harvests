@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1470</identifier>
+				<datestamp>2021-01-17T07:24:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMICAL EVALUATION OF STORMS ON LAKE ERIE</dc:title>
+	<dc:creator xml:lang="en">Keulegan, Garbis H.</dc:creator>
+	<dc:subject xml:lang="en">coefficient of wind stress</dc:subject>
+	<dc:subject xml:lang="en">sea roughness</dc:subject>
+	<dc:subject xml:lang="en">wind velocities</dc:subject>
+	<dc:description xml:lang="en">The wind velocities observed over cities on the southern coast of Lake Erie during storms are modified, according to recently given meteorological theories, to obtain the wind velocities coexisting over the surface of the lake water. On the basis of these reduced velocities and the associated wind tides of the lake, the coefficient of wind stress of wind action on the water of the lake is determined. Due attention is given to the fact that the form of the lake affects the relation between the wind stress and the associated wind tide. The coefficient of stress arrived at for the larger wind velocities is in substantial agreement with the values which Neumann determined for the Gulf of Bothnia. The matter of sea roughness is discussed briefly.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1951-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1470</dc:identifier>
+	<dc:identifier>10.9753/icce.v2.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 2 (1951): Proceedings of Second Conference on Coastal Engineering,  Houston, Texas, 1951.; 4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1470/756</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

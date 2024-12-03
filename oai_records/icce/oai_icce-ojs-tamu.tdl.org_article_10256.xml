@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10256</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION AND BIAS CORRECTION OF MARINE SURFACE WINDS IN THE WESTERN NORTH PACIFIC FROM CMIP5 AND CMIP6 GCMS FOR WAVE CLIMATE MODELLING</dc:title>
+	<dc:creator xml:lang="en">Badriana, Mochamad Riam</dc:creator>
+	<dc:creator xml:lang="en">Lee, Han Soo</dc:creator>
+	<dc:description xml:lang="en">For over years, fundamental component and dataset in climate projection had been covered by general circulation models (GCMs) output mainly from the Coupled Model Inter-comparison Project (CMIP). Marine surface winds are an important output of GCMs and they provide input to marine forecasts and warning systems. Their accuracy have direct implications for marine safety, air-sea fluxes, and wave and ocean modellings. Western North Pacific (WNP) is known as a highly vulnerable region to oceanic and atmospheric hazards, such as storm surges, waves and typhoons. Therefore, this study aims to examine the quality of marine surface winds from CMIP5 and CMIP6 GCMs in the WNP and its sub-regions with respect to a reference data, and presents bias correction of marine surface winds for contributing to wave and ocean modelling communities.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/750mqrERbS8</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10256</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10256/9542</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Mochamad Riam Badriana, Han Soo Lee</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

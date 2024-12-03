@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2013</identifier>
+				<datestamp>2021-01-17T06:48:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GRAPHICAL RECORDING OF WAVE PROFILES IN THE LABORATORY; HARMONIC ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Santon, L.</dc:creator>
+	<dc:subject xml:lang="en">wave profile</dc:subject>
+	<dc:subject xml:lang="en">wave recorder</dc:subject>
+	<dc:subject xml:lang="en">amplitude</dc:subject>
+	<dc:description xml:lang="en">We have developed a laboratory wave recorder of great simplicity which plots a wave profile to a scale which can be either 1 or 3 for the amplitude and which varies between 0,5 and 1 for the horizontal distances. 
+
+The apparatus, the principle of which we have already described at a time when we had not proved all its possibilities, has shown itself to be extremely sensitive for the study of fine phenomena.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1954-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2013</dc:identifier>
+	<dc:identifier>10.9753/icce.v5.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 5 (1954): Proceedings of 5th Conference on Coastal Engineering, Grenoble, France, 1954.; 15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2013/1683</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

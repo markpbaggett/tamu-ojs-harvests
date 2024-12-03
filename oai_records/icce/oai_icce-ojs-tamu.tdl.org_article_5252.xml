@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5252</identifier>
+				<datestamp>2021-01-19T13:22:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF A DIGITAL PARTICLE IMAGE VELOCIMETRY (DPIV) SYSTEM TO BREAKING WAVES IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Craig, Kenneth R.</dc:creator>
+	<dc:creator xml:lang="en">Thieke, Robert J.</dc:creator>
+	<dc:subject xml:lang="en">DPIV</dc:subject>
+	<dc:subject xml:lang="en">velocimetry</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:description xml:lang="en">The modeling of cross-shore and longshore currents in the nearshore region has improved greatly over the past twenty years with accompanying advances in an understanding of the relevant physical processes in shallow water and the surf zone. The empirical guidance provided by numerous laboratory and field experiments has been an essential element in sustaining these advances. However good experimental data are still largely lacking for aspects of these flows, the most notable being the flow in waves following breaking, which coincidentally represents the single most important physical process in the nearshore region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5252</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5252/4930</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

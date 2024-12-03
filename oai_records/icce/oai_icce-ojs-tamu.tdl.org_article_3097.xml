@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3097</identifier>
+				<datestamp>2021-01-20T01:41:47Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DECOMPOSITION Of CO-EXISTING RANDOM WAVE ENERGY</dc:title>
+	<dc:creator xml:lang="en">Morden, Dennis B.</dc:creator>
+	<dc:creator xml:lang="en">Richey, Eugene P.</dc:creator>
+	<dc:creator xml:lang="en">Christensen, Derald R.</dc:creator>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">coexisting wave energy</dc:subject>
+	<dc:description xml:lang="en">Of the several transformations that water waves may undergo, the phenomenon of reflection has received relatively little quantitative attention, although the analyst is sensitized to reflection in a qualitative way. Commonly the investigator is interested in progressive or transmitted waves and the characteristics of reflected waves and the energy dissipated during the reflection process are of little consequence. There are, however, certain structures, such as piers, floating bridges, bulkheads, etc., where waves reflecting from the structure can be of concern if they should impinge on a site or shoreline sensitive to a new, or changed, wave climate. Quantitative assessment of the energy dissipated during reflection is essential to the evaluation of devices which are intended to reduce site interaction problems and/or reduce the loading on structures and anchor systems. This paper examines the analysis of sea states where wind-generated waves and their reflection co-exist. Using the results of a field test the characteristics of co-existing sea states are discussed. The decomposition of these waves to obtain separate incident and reflected wave spectra requires two applications of spectral analysis. First, spectral estimates are computed from co-existing wave data acquired simultaneously at multiple, fixed sensor locations. These spectra are then divided into frequency increments and the amplitude associated with each increment used as an independent input into a technique to decompose the co-existing waves into appropriate incident and reflected wave spectra. Because the incremental amplitudes of the original spectral estimates are used as independent inputs, the shape and accuracy of these original estimates naturally have a profound influence on the final separated wave spectra. Various spectral estimating techniques were used on the field data and the accuracy of the results were compared to three validation criteria. Because the findings and discussion are validated primarily by the analysis of specific data it seems appropriate to first describe the relevant features of the field test. Though the present study involves deep water waves and zero transmission, the principles apply equally well to any situation where wave reflections are of interest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3097</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3097/2762</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

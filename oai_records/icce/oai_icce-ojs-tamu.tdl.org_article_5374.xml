@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5374</identifier>
+				<datestamp>2021-01-19T12:42:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OVERTOPPING OF WAVES AT A WALL: A THEORETICAL APPROACH</dc:title>
+	<dc:creator xml:lang="en">Jervis, M.</dc:creator>
+	<dc:creator xml:lang="en">Peregrine, D.H.</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">theoretical approach</dc:subject>
+	<dc:description xml:lang="en">The flow of water due to the overtopping of a vertical wall by waves is modelled. The waves are computed with an accurate irrotational flow solver. The case where a jet of water is projected up the face of the wall is considered. A simple estimation is made from the computation of the amount of water that can pass over the crest of a wall of finite height. The results for overtopping volume per wave show a roughly exponential decaying dependence on the height of the wall above the still water level. Results are given for waves of differing height and also for various sizes of berm in front of the wall. The effects of surface tension are included to investigate the possibility of errors in scaling experimental results to prototype scale. These are larger than expected.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5374</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5374/5051</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

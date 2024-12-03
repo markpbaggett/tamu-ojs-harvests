@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12854</identifier>
+				<datestamp>2023-09-01T15:13:48Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATING ALONGSHORE SEDIMENT TRANSPORT FROM DREDGED ACCESS CHANNELS</dc:title>
+	<dc:creator xml:lang="en">Roest, Bart</dc:creator>
+	<dc:creator xml:lang="en">Rauwoens, Pieter</dc:creator>
+	<dc:description xml:lang="en">Alongshore sediment transport rates are important in sediment budget studies or design of coastal structures. Underestimated transport rates give rise to severe siltation updrift from cross-shore structures and severe erosion downdrift. Overestimates may lead to over-design and thus high costs. Currently, these estimates are generally obtained from sediment transport equations, morphodynamic numerical modelling or bathymetrical changes in accumulation areas (Vandebroek et al. 2017). However, alongshore transport is difficult to estimate from regular bathymetrical surveys, since only locations with gradients in the transport will provide information via volume changes. On a straight coastline the sediment will simply pass by. Here an alternative data-based approach is proposed, studying an access channel suffering from repeated siltation. As the access channel effectively serves as a sediment trap it can be used to study alongshore sediment transport rates. The access channel is frequently dredged and even more frequently surveyed. It is therefore suitable to make estimates of sediment transport on the time-scale of weeks to months.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12854</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.80</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.80</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12854/12127</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Bart Roest, Pieter Rauwoens</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

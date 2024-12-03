@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3656</identifier>
+				<datestamp>2021-01-19T22:31:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY PHOTOGRAMMETRIC WAVE HEIGHT MEASUREMENT</dc:title>
+	<dc:creator xml:lang="en">Pos, J.D.</dc:creator>
+	<dc:creator xml:lang="en">Kilner, F.A.</dc:creator>
+	<dc:subject xml:lang="en">wave height</dc:subject>
+	<dc:subject xml:lang="en">height measurement</dc:subject>
+	<dc:subject xml:lang="en">photography</dc:subject>
+	<dc:description xml:lang="en">The paper describes the experimental procedure used to produce a computor contour plot of the wave height distributions and wave directions in a model basin, using photogrammetric techniques. Only monochromatic waves are analysed. A technique is outlined to simulate and measure waves entering a basin of infinite extent, in other words to photograph the penetration of a wave train into a harbour basin before the pattern has been contaminated by reflections. Proof is offered that this infinite basin technique is a valid representation of the steady state situation of a continuous wave train entering an infinite basin.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3656</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3656/3339</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

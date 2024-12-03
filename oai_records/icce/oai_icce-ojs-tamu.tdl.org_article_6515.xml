@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6515</identifier>
+				<datestamp>2023-10-04T03:26:27Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CURRENT CHARACTERISTICS IN THE PRESENCE OF NEAR-ORTHOGONAL WAVES</dc:title>
+	<dc:creator xml:lang="en">Lim, Kian Yew</dc:creator>
+	<dc:creator xml:lang="en">Madsen, Ole Secher</dc:creator>
+	<dc:creator xml:lang="en">Cheong, Hin Fatt</dc:creator>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">boundary layer flow</dc:subject>
+	<dc:subject xml:lang="en">bottom roughness</dc:subject>
+	<dc:description xml:lang="en">An experimental study involving near-orthogonal wave-current interaction in a wave basin is reported in this paper. Due to previous shortcomings associated with 2D bottom configurations, i.e. occurrence of ripple-induced turning of flows close to the bed, the present experiments were conducted with the bottom covered by closely packed ceramic marbles (mean diameter of 1.25cm). Three types of flows were generated over this bottom: current-alone, wave-alone and combined wave-current flow. For current-alone and wave-current cases, the log-profile analysis was used to resolve the equivalent Nikuradse sand grain roughness, kn, while the energy dissipation method was used to estimate kn for wave-alone case. The results show that kn obtained for current- and wave-alone tests is roughly 2.2 times the diameter of the marbles. For orthogonal wave-current flows, the kn value, when used in combination with the Grant-Madsen (GM) model to reproduce the experimental apparent roughness, is found to be smaller than the measured current-alone and wave-alone kn. Similar under-prediction of bottom roughness is also observed when the GM model is compared with a numerical study, thus supporting the conjecture that when the current is weak compared to the waves, simple theoretical models like GM are not sufficiently sensitive to the angle of wave-current interaction. Experiments with currents at angles of 60° and 120° to the wave direction yield apparent roughness smaller than the 90° case, which is counter-intuitive since one would expect the mean flow to experience a stronger wave-induced turbulence when it is more aligned with the wave direction. This result indicates a possible contamination from wave-induced mass transport to the mean flow profile for non-orthogonal combined flow cases, and therefore highlights the need for other alternatives to the log-profile analysis when attempting to resolve kn from current velocity profiles from combined wave-current flows.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6515</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6515/pdf_517</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

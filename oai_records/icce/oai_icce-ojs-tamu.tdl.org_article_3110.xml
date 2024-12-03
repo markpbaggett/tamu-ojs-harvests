@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3110</identifier>
+				<datestamp>2021-01-20T01:37:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELS OF HUGE TSUNAMIS OFF THE SANRIKU COAST</dc:title>
+	<dc:creator xml:lang="en">Iwasaki, Toshio</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">Sanriku Coast</dc:subject>
+	<dc:description xml:lang="en">Although numerical computations of the generation and propagation of tsunamis are successfully achieved in recent years, modeling of their wave sources is still a big problem. Three kinds of, wave source model, that is statistical, oceanographic and fault model, are studied in this paper. It is found that the first model gives reasonable wave heights as shown in the previous paper, the second one presents roughly one half of those for the first model and the last one produces too small wave heights. Based on the analysis of computed results, nature of undulations off from the shore boundary, directivity of wave propagation and the spindle shaped leading part are discussed. Comparing magnitude of various wave parameters for the leading wave along the minor axis of the wave source, it is shown that the long wave approximation modified by the slope effect illustrates the tsunamis in deep region of the sea and the slope effect is most dominant in shallow region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3110</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.61</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 61</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3110/2775</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

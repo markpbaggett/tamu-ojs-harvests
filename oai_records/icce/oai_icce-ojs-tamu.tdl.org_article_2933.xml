@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2933</identifier>
+				<datestamp>2021-01-20T02:40:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FEASIBILITY OF COASTAL MORPHOLOGICAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Nielsen, Evald</dc:creator>
+	<dc:subject xml:lang="en">coastal model</dc:subject>
+	<dc:subject xml:lang="en">feasibility</dc:subject>
+	<dc:subject xml:lang="en">coastal morphology</dc:subject>
+	<dc:description xml:lang="en">The paper deals with the initial ideas and concepts for development of a morphological model for a Delta coast, having particularly the Nile Delta in mind. The paper concentrates on the offshore zone, in which sediment is assumed primarily to be transported in suspension and during periods of sufficient agitation by the combined action of waves and ocean currents. In the Nile Delta great offshore changes take place due to the deprivation of the shelf area of Nile sediments by the closure of the Aswan High Dam, and serious nearshore long-range changes are expected to result from the changes to the offshore morphology. The modeling aids in establishing the mechanisms of the Delta shore, but the primary goal of the model is reliable prediction of future coastal changes. Fundamentally, the modeling is based on verification of the model - by trial and error - against known states of the model domain. Part A of the paper deals with the general concepts, while especially the entrainment of sediments is treated in Part B of the paper, yielding practical formulas for determining the threshold values for sediment entrainment by unidirectional flow and by wave action.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2933</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2933/2598</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7454</identifier>
+				<datestamp>2021-01-19T04:39:31Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON WAVE-DRIVEN "SHINGLE† BEACH DYNAMICS IN A TABLE-TOP HELE-SHAW CELL</dc:title>
+	<dc:creator xml:lang="en">Bokhove, Onno</dc:creator>
+	<dc:creator xml:lang="en">van der Horn, A.J.</dc:creator>
+	<dc:creator xml:lang="en">van der Meer, Devaraj</dc:creator>
+	<dc:creator xml:lang="en">Thornton, Anthony R.</dc:creator>
+	<dc:creator xml:lang="en">Zweers, Wout</dc:creator>
+	<dc:subject xml:lang="en">shingle beaches</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">table-top realization</dc:subject>
+	<dc:subject xml:lang="en">Hele-Shaw cell</dc:subject>
+	<dc:description xml:lang="en">The primary evolution of beaches by wave action takes place during storms. Beach evolution by non-linear breaking waves is 3D, multi-scale, and involves particle-wave interactions. We will show how a novel, three-phase extension to the classic "Hele-Shaw† laboratory experiment is designed to create beach morphologies with breaking waves in a quasi-2D setting. Idealized beaches emerge in tens of minutes due to several types of breaking waves, with about 1s periods. The thin Hele-Shaw cell simplifies the inherent complexity of three-phase dynamics by reducing the turbulence. Given the interest in the Hele-Shaw table-top demonstrations at ICCE2014, we will also discuss how
+different versions of the Hele-Shaw cell have been constructed. Construction can be inexpensive thus yielding an
+accessible and flexible coastal engineering demonstration as well as research tool. Beach evolution is sufficiently fast
+and can start very far from equilibrium, allowing an unusually large dynamical range to be investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>image/jpeg</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7454</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7454/pdf_765</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7454/7667</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7454/7718</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

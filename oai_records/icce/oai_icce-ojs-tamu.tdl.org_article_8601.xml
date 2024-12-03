@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8601</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIME-VARYING EMULATOR FOR SHORT- AND LONG-TERM ANALYSIS OF COASTAL FLOODING (TESLA-FLOOD)</dc:title>
+	<dc:creator xml:lang="en">Anderson, Dylan</dc:creator>
+	<dc:creator xml:lang="en">Ruggiero, Peter</dc:creator>
+	<dc:creator xml:lang="en">Mendez, Fernando J.</dc:creator>
+	<dc:creator xml:lang="en">Rueda, Ana</dc:creator>
+	<dc:creator xml:lang="en">Antolinez, Jose A.</dc:creator>
+	<dc:creator xml:lang="en">Cagigal, Laura</dc:creator>
+	<dc:creator xml:lang="en">Storlazzi, Curt</dc:creator>
+	<dc:creator xml:lang="en">Barnard, Patrick</dc:creator>
+	<dc:creator xml:lang="en">Marra, John</dc:creator>
+	<dc:description xml:lang="en">The ability to predict coastal flooding events and associated impacts has emerged as a primary societal need within the context of projected sea level rise (SLR) and climate change. The duration and extent of flooding is the result of nonlinear interactions between multiple environmental forcings (oceanographic, meteorological, hydrological) acting at varying spatial (local to global) and temporal scales (hours to centuries). Individual components contributing to total water levels (TWLs) include astronomical tides, monthly sea level anomalies, storm surges, and wave setup. Common practices often use the observational record of extreme water levels to estimate return levels of future extremes. However, such projections often do not account for the individual contribution of processes resulting in compound TWL events, nor do they account for time-dependent probabilities due to seasonal, interannual, and long-term oscillations within the climate system. More robust estimates of coastal flooding risk require the computation of joint probabilities and the simulation of hypothetical TWLs to better constrain the projection of extremes (Serafin [2014]).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8601</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8601/7405</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8601/8004</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

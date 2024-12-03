@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4249</identifier>
+				<datestamp>2021-01-19T19:04:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COUPLING STOKES AND CNOIDAL WAVE THEORIES IN A NONLINEAR REFRACTION MODEL</dc:title>
+	<dc:creator xml:lang="en">Hardy, Thomas A.</dc:creator>
+	<dc:creator xml:lang="en">Kraus, Nicholas C.</dc:creator>
+	<dc:subject xml:lang="en">theory coupling</dc:subject>
+	<dc:subject xml:lang="en">Stokes theory</dc:subject>
+	<dc:subject xml:lang="en">cnoidal theory</dc:subject>
+	<dc:subject xml:lang="en">nonlinear refraction</dc:subject>
+	<dc:subject xml:lang="en">refraction model</dc:subject>
+	<dc:description xml:lang="en">An efficient numerical model is presented for calculating the refraction and shoaling of finite-amplitude waves over an irregular sea bottom. The model uses third-order Stokes wave theory in relatively deep water and second-order cnoidal wave theory in relatively shallow water. It can also be run using combinations of lower-order wave theories, including a pure linear wave mode. The problem of the connection of Stokes and cnoidal theories is investigated, and it is found that the use of second-order rather than first-order cnoidal theory greatly reduces the connection discontinuity. Calculations are compared with physical model measurements of the height and direction of waves passing over an elliptical shoal. The finite-amplitude wave model gives better qualitative and quantitative agreement with the measurements than the linear model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4249</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4249/3930</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

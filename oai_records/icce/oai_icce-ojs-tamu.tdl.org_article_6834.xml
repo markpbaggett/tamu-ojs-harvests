@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6834</identifier>
+				<datestamp>2023-10-04T02:32:36Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHEETFLOW SEDIMENT TRANSPORT UNDER SKEWED - ASYMMETRIC WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Phuong Dong, Le</dc:creator>
+	<dc:creator xml:lang="en">Sato, Shinji</dc:creator>
+	<dc:subject xml:lang="en">sheetflow sand transport</dc:subject>
+	<dc:subject xml:lang="en">skewed-asymmetric flows</dc:subject>
+	<dc:subject xml:lang="en">net transport rates modeling</dc:subject>
+	<dc:description xml:lang="en">Prototype scale laboratory experiments have been conducted to investigate the sheetflow sediment transport of uniform sands under different skewed-asymmetric oscillatory flows. Experimental results reveal that in most of the case with fine sand, the "cancelling effect†, which balances the on-/off-shore net transport under pure asymmetric/skewed flows and results a moderate net transport, was developed for combined skewed-asymmetric flow. However, under some certain conditions (T &gt; 5s) with coarse sands, the onshore sediment transport was enhanced by 50% under combined skewed-asymmetric flows. Sand transport mechanism under oscillatory sheetflow conditions is also studied by comparing the maximum bed shear stress and the phase lag parameter at each half cycle. A comparison of measurements including the new experimental data with a number of practical sand transport formulations shows that the Dong et al. (2013) formulation performs the best in predicting the measured net transport rates over a wide range of experimental conditions</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6834</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.50</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.50</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6834/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

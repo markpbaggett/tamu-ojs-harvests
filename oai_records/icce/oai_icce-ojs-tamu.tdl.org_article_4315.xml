@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4315</identifier>
+				<datestamp>2021-01-19T18:42:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE-INDUCED FLOW AND NEARSHORE SUSPENDED SEDIMENT</dc:title>
+	<dc:creator xml:lang="en">Doering, J.C.</dc:creator>
+	<dc:creator xml:lang="en">Bowen, A.J.</dc:creator>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">wave induced flow</dc:subject>
+	<dc:subject xml:lang="en">nearshore flow</dc:subject>
+	<dc:description xml:lang="en">It has been realized for nearly one hundred years that the transport of sediment is related to the characteristics of a wave, in particular its shape. Cornish (1898) noticed that the shoreward velocity associated with a wave crest was more effective at moving coarse sediment than was the seaward velocity associated with the wave trough. Cornish's observation was consistent with the theory of Stokes (1847), which predicts the onshore velocity associated with the wave crest is stronger and of shorter duration than the offshore velocity associated with the wave trough. This horizontal asymmetry of the cross-shore flow, which is a reflection of the wave shape, is known as velocity skewness. It has been suggested that "the existence of the beach depends on small departures from symmetry in the velocity field balancing the tendency for gravity to move material offshore"(Bowen, 1980). Although the concept of velocity skewness has been incorporated into detailed predictors of sediment transport (Bowen, 1980; Bailard and Inman, 1981) it is only one of many facets that needs to be understood in order to make the accurate prediction of sediment transport realizable. A comprehension of sediment transport is hampered by both an incomplete knowledge of the hydrodynamics and a lack of instrumentation to directly measure instantaneous sediment concentration and the accurate prediction of sediment transport is probably the most enigmatic problem in coastal engineering. Occasionally, suspended sediment concentration has been inferred from in situ pumps and hand-held tubes, but these methods lack the temporal and spatial resolution necessary to elucidate the details of the interaction between the waveinduced flow and the sediment. Recently, a miniature optical backscatter sensor (MOBS), which provides a time series of suspended sediment concentration at a "point", was developed by Downing et al. (1981). During a recent field experiment a vertical array of 5 of these optical backscatter sensors and a colocated flow meter was deployed close to the sea bed. These colocated measurements provide a unique opportunity to investigate the response of near-bed suspended sediment concentration to the wave-induced flow.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4315</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.108</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 108</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4315/3996</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

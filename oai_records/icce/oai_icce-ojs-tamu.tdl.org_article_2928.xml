@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2928</identifier>
+				<datestamp>2021-01-20T02:41:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RESULTS OF OCEAN WAVE-CONTINENTAL SHELF INTERACTION</dc:title>
+	<dc:creator xml:lang="en">Goldsmith, Victor</dc:creator>
+	<dc:creator xml:lang="en">Colonell, Joseph M.</dc:creator>
+	<dc:subject xml:lang="en">continental shelf</dc:subject>
+	<dc:subject xml:lang="en">shelf</dc:subject>
+	<dc:subject xml:lang="en">wave/shelf interaction</dc:subject>
+	<dc:description xml:lang="en">Extensive wave refraction computations and analyses have been made utilizing eleven depth grids on the inner continental shelf along the east coast of the United States. The most important process determining shelf and shoreline wave energy distribution is the interaction of the ocean surface waves with the numerous shelf relief elements. This ocean wave-continental shelf interaction results in a non-uniform wave energy distribution that varies widely with different wave input conditions such as wave approach direction, wave length, and tide level. Techniques are being developed to manipulate and analyze these extensive wave data (encompassing over 500 wave refraction diagrams and associated computations), in order to increase understanding of the complex wave behavior resulting from the ocean wave-continental shelf interaction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2928</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2928/2593</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

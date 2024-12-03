@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2847</identifier>
+				<datestamp>2021-01-20T03:12:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REFLECTION AND TRANSMISSION FOR A POROUS STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Kondo, Hideo</dc:creator>
+	<dc:creator xml:lang="en">Toma, Satoshi</dc:creator>
+	<dc:subject xml:lang="en">wave reflection</dc:subject>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">porous structure</dc:subject>
+	<dc:description xml:lang="en">Effects of characteristics of incident waves and of the thickenss of structure on wave reflection by and transmission through a porous structure were studied. Use of an idealized porous structure which is a lattice composed of circular cylinders was made. The relative thickness of structure B/L was found to have appreciable effects on reflected and transmitted wave energies. The reflection coefficient Kr reaches to a maximum of it for B/L of about 0.2 to 0.25, then decreases as B/L increases, and remains approximately uniform for B/L larger than about 0.6. The transmission coefficient Kt, however, decreases nearly exponentially as B/L increases. Measurement of wave height within structure revealed a Dattern of standing waves having a loop at the front face and a node at the rear face of it. That relates to the trend of Kr. Analytical approaches to predict the transmitted wave height, and wave heights before and within porous structures are found to be useful.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2847</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.100</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 100</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2847/2511</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

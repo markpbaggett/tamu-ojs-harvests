@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1051</identifier>
+				<datestamp>2023-10-04T04:18:21Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SHORELINE MODEL FOR BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Lo Re, Carlo</dc:creator>
+	<dc:creator xml:lang="en">Musumeci, Rosaria Ester</dc:creator>
+	<dc:creator xml:lang="en">Foti, Enrico</dc:creator>
+	<dc:subject xml:lang="en">Boussinesq model</dc:subject>
+	<dc:subject xml:lang="en">run-up</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">shoreline boundary</dc:subject>
+	<dc:description xml:lang="en">In order to simulate the wave motion and, in turn, the flow, within the nearshore region, in the last decades the derivation and the application of depth-integrated type of models have been widely investigated and developed. However, in such models, the problems of facing wave breaking and the moving shoreline are not trivial and therefore several approaches have been proposed. About wave breaking, approaches both based on the adoption of an artificial eddy viscosity Zelt (1991) and on the concept of roller Veeramony (2000), Karambas (2003), Musumeci (2005) have been implemented. As regards the shoreline boundary condition, a couple of numerical techniques have been mainly adopted, namely the porous beach method, also known as slot method Kennedy (2000), and the extrapolating method proposed by Lynett (2002). Such methods seems to be not very fiscally based.
+
+In the present work an effort toward a more physically based model of the surf and the swash zone (see Figure 1) has been accomplished. In particularly, a new version of the fixed grid shoreline model introduced by Prasad (2003) is proposed here and implemented in a Boussinesq type model for breaking waves Musumeci (2005). Moreover, in order to get over the numerical instabilities generated at the time of rapid variation of the flow, the aforementioned shoreline model has been coupled with the extrapolation method presented by Lynett, (2002) and a bottom friction term has been also included. To validate the model a classical test which adopts monochromatic waves along with other application with non breaking and breaking solitary waves have been performed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1051</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1051/pdf_167</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

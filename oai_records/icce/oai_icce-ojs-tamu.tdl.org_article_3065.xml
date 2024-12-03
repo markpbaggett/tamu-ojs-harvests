@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3065</identifier>
+				<datestamp>2021-01-20T01:53:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OCEAN WAVE RECORD ANALYSIS BY TUCKER'S METHOD - AN EVALUATION</dc:title>
+	<dc:creator xml:lang="en">Dattatri, J.</dc:creator>
+	<dc:creator xml:lang="en">Nayak, I.V.</dc:creator>
+	<dc:subject xml:lang="en">wave analysis</dc:subject>
+	<dc:subject xml:lang="en">Tucker's Method</dc:subject>
+	<dc:subject xml:lang="en">wave record</dc:subject>
+	<dc:description xml:lang="en">The planning and design of any Coastal Engineering structure requires adequate knowledge of the wave characteristics. It is desirable that this knowledge of waves is based on instrumentally recorded data over a number of years, so that reliable values could be used for the computation of the design wave. Analysis of instrumentally recorded data to yield the relevant wave characteristics like the significant wave height, though not complicated is too time consuming. A simple method of analysis has been proposed by Tucker (9, 10), wherein the relevant information is obtained with only a few measurements of the larger waves. This method is also recommended by Draper (6) in his plea for uniformity of the analysis and presentation of wave data. This paper deals with the application of the Tucker's method to analysis of waves recorded off the Mangalore Harbour on the West Coast of India.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3065</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3065/2730</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

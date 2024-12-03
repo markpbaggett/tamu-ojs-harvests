@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12858</identifier>
+				<datestamp>2023-09-01T15:13:50Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TURBULENCE MODELLING OF INCIPIENT WAVE BREAKING ON A VERTICAL CYLINDER ON A SLOPED BED</dc:title>
+	<dc:creator xml:lang="en">Li, Yuzhu</dc:creator>
+	<dc:creator xml:lang="en">Fuhrman, David R.</dc:creator>
+	<dc:description xml:lang="en">The extensive use of vertical piles as basic components of coastal structures, e.g. monopile wind turbine foundations, has made the study of wave impact on vertical cylindrical structures in the breaking zone of major practical importance. To investigate the breaking wave forces on a vertical cylinder located on a sloped bed, Reynolds-averaged Navier–Stokes equations (RANS) based turbulence models have been used as closure in most recent computational fluid dynamics (CFD) studies. The present study adopts a Reynolds stress model (RSM), namely the Wilcox (2006) stress-ww model, as our primary turbulence closure model to simulate the experiment of Irschik et al. (2004). The Wilcox (2006) stress-ww model has been analysed in the recent work of Li et al. (2022) and proven to be neutrally stable in the potential flow region beneath surface waves, thus it naturally avoids any unphysical turbulence over-production in the pre-breaking zone (unlike two-equation models in their standard forms). It has also shown good accuracy in predicting surf zone breaking waves in Li et al. (2022) and deep-water wave breaking due to modulational perturbations in Li and Fuhrman (2022). For comparison purposes, the present study also conducts simulations with the stabilized LF18 kk- ww model, as well as with no turbulence model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12858</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12858/12131</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Yuzhu Li, David R. Fuhrman</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

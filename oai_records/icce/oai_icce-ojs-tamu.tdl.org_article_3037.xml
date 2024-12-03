@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3037</identifier>
+				<datestamp>2021-01-20T02:03:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMILARITY CONDITIONS FOR THERMAL-HYDRAULIC MODEL TESTS OF TIDAL ESTUARIES</dc:title>
+	<dc:creator xml:lang="en">Flugge, Gerd</dc:creator>
+	<dc:creator xml:lang="en">Schwarze, Horst</dc:creator>
+	<dc:subject xml:lang="en">similarity conditions</dc:subject>
+	<dc:subject xml:lang="en">tidal estuary</dc:subject>
+	<dc:subject xml:lang="en">thermal hydraulic model test</dc:subject>
+	<dc:description xml:lang="en">In connection with the design of proposed nuclear power plants on the Lower Weser River and on the Lower Elbe River in Germany, tidal models were constructed and tests carried out at the Franzius-Institute of the Technical University of Hannover for the purpose of studying the mixing and spreading of the hot water discharge. Thermal-hydraulic models are today still the most reliable method for the prediction of temperature distributions in the total area of temperature increase, especially in tidal regions. Hydraulic models with free surface flow are in general based on the FROUDE scaling lav;. The flow fields in both the hydraulic model and in the prototype show a dynamic similitude when the FROUDE numbers of the flow in the model and in the nature are equal at corresponding points.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3037</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.142</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 142</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3037/2702</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

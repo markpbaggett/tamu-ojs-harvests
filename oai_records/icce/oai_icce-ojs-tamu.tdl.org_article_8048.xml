@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8048</identifier>
+				<datestamp>2021-01-20T04:27:10Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LAND COVER EFFECT ON DUNE EROSION AND OVERWASH</dc:title>
+	<dc:creator xml:lang="en">Karanci, Ayse</dc:creator>
+	<dc:creator xml:lang="en">Kurum, Onur Mustafa</dc:creator>
+	<dc:creator xml:lang="en">Overton, Margery</dc:creator>
+	<dc:subject xml:lang="en">dune erosion</dc:subject>
+	<dc:subject xml:lang="en">overwash</dc:subject>
+	<dc:subject xml:lang="en">land cover</dc:subject>
+	<dc:subject xml:lang="en">coastal morphological modeling</dc:subject>
+	<dc:description xml:lang="en">In this study, a numerical morphodynamic model eXtreme Beach behaviour (XBeach) was used to simulate the effects of land cover on the shape of the post storm profile s at two test sites on barrier islands at Outer Banks, North Carolina. The simulations included dune erosion and overwash regimes and were carried out with and without the inclusion of land cover effects. The model results were assessed by comparing post storm profiles extracted from XBeach and Light Detection And Ranging (LiDAR) data. The simulations showed that the morphological response of the profiles was sensitive to land cover and inclusion of these effects improved the model results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8048</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8048/pdf_817</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1411</identifier>
+				<datestamp>2023-10-04T03:43:27Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL AND NUMERICAL MODELING OF TSUNAMI LOADING ON STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:creator xml:lang="en">Palermo, Dan</dc:creator>
+	<dc:creator xml:lang="en">Cornett, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Al-Faesly, Taofiq</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">coastal inundation</dc:subject>
+	<dc:subject xml:lang="en">extreme hydrodynamic forces</dc:subject>
+	<dc:subject xml:lang="en">tsunami loading</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">SPH (Smooth Particle Hydrodynamics) Method</dc:subject>
+	<dc:description xml:lang="en">The results of a comprehensive research program on tsunami-induced forces on infrastructure located in coastal areas are presented. This research project is the result of an extensive interdisciplinary project (coastal and structural engineering) which spanned over the past five years and which included several field data reconnaissance missions, as well as analytical, experimental and numerical modeling of the extreme hydrodynamic forces on buildings and their component structural elements. The purpose of this research and engineering project is to elucidate the complex hydrodynamic mechanisms of the impact and extreme loadings on buildings and to properly quantify loads and further propose and derive new formulations for the design of structures located in the vicinity of the shoreline in tsunami-prone coastal areas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1411</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1411/pdf_374</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

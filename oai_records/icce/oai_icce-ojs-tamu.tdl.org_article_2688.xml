@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2688</identifier>
+				<datestamp>2021-01-20T04:11:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STOCHASTIC ANALYSIS OF BEACH PROFILE DATA</dc:title>
+	<dc:creator xml:lang="en">Sonu, Choule</dc:creator>
+	<dc:creator xml:lang="en">Young, Myron H.</dc:creator>
+	<dc:subject xml:lang="en">beach profile</dc:subject>
+	<dc:subject xml:lang="en">beach data</dc:subject>
+	<dc:subject xml:lang="en">stochastic analysis</dc:subject>
+	<dc:description xml:lang="en">Stochastic prediction of beach changes by means of a linear leastsquares transfer function requires a knowledge of power spectra Since most field data are too short to ensure stable analysis, an attempt was made to generate data artifically by a Monte Carlo simulation A beach profile transition model which considers the beach profile as a dynamic system allows beach width, sediment storage, and surface configuration to be determined m successive profiles and simulates beach cycles associated with random waves which are in sufficient agreement with the actual observation The simulated data are amenable to standard stochastic analysis to yield power spectra, cross spectra, coherence functions , and phase lags Comparison of the results with those derived from actual data shows reasonable agreement It appears that the process of beach sediment storage involves a combination of classes of Markov Gaussian random processes, whereas that of beach width resembles a white noise Coupling between these two parameters occurs in the lower frequency range with periodicities longer than about 8 days Moreover, the beach width shows phase advance before sediment storage Although the beach profile transition model requires further refinement, especially m regard to quantitative response to waves of various magnitudes and characteristics, the basic concept of the model is sound and will probably explain beach changes in various types of world coasts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2688</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.83</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 83</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2688/2352</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

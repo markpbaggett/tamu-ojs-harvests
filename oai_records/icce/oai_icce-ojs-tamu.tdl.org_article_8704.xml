@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8704</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL AND NUMERICAL MODELLING OF THE FLOW STRUCTURE BEHIND STRUCTURE IN TSUNAMI-LIKE FLOW</dc:title>
+	<dc:creator xml:lang="en">Ishii, Hidenori</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Stolles, Jacob</dc:creator>
+	<dc:description xml:lang="en">Coastal structures are expected to play a role as evacuation buildings. Numerous studies have been examined tsunami-induced wave force acting on an inland building (Shigihara et al., 2009; Arimitsu et al., 2014). In addition, coastal structures have the potential to obstruct inundating tsunami waves, protecting structure further from the coastline. Hydraulic experiments and numerical calculations on shielding effect are being carried out. Alternatively, the vortices from these structures can result in significant scour downstream, influencing downstream structure stability. In the 2011 Tohoku Region Pacific Offshore Earthquake, many cases were reported that the structure was scrubbed and the structure fallen down. Skakiyama et al. (2007) and Sakakiyma et al. (2008) pointed out that the standing vortex generated around the structure winds sand and causes scouring. Therefore, understanding the vortices generated around the structure is also important in predicting the scouring phenomenon. As such, the flow properties around coastal structures must be considered and acknowledged within the design process. However, there are a few studies focusing on the flow fields behind structure.Arnason et al. (2009) measured velocity fields of dam-break flow around/in the wake of a vertical column. Wei et al. (2015) reproduced the experiment performed using SPH. However, in the experiment, vortexes are not considered and the influence of the existence of structures on the surroundings has not been sufficiently considered. Therefore, in this study, the flow fields of a tsunami-like wave around structures were examined through hydraulic experiments. This experiment was performed to clarify the local vortex structure behind structures by measuring the plane flow velocity field. Also, the effect of obstructing protecting the land side structure is assessed by measuring the wave force behind structures. Furthermore, a three-dimensional model (OpenFOAM) was used to further analyze the flow, focusing on water-level and wave forces behind the structure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8704</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8704/7505</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

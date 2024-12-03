@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5075</identifier>
+				<datestamp>2021-01-19T14:22:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A BOTTOM BOUNDARY LAYER SEDIMENT RESPONSE TO WAVE GROUPS</dc:title>
+	<dc:creator xml:lang="en">Lee, J.</dc:creator>
+	<dc:creator xml:lang="en">O'Neil, S.</dc:creator>
+	<dc:creator xml:lang="en">Bedford, K.</dc:creator>
+	<dc:creator xml:lang="en">Van Evra, R.</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">bottom boundary layer</dc:subject>
+	<dc:subject xml:lang="en">sediment response</dc:subject>
+	<dc:description xml:lang="en">A field experiment measured in situ sediment resuspension in the bottom boundary layer. Spatially and temporally dense suspended sediment concentration profiles, three-dimensional velocities and pressures were obtained from a location with a flat, fine-sand bottom in Lake Erie in 1992. By use of a conceptual model, ten minute averaged near bottom sediment concentration is found to be proportional to significant wave orbital velocity and group wave parameters. The result attempts to clarify the ambiguity of using a monochromatic wave parameterization for bottom boundary layer model comparisons with measured data containing spectral wave conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5075</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5075/4753</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

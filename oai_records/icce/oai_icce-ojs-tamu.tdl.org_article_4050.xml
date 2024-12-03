@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4050</identifier>
+				<datestamp>2021-01-19T20:13:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION OF EXTREME SEA SEVERITY FROM MEASURED DAILY MAXIMA</dc:title>
+	<dc:creator xml:lang="en">Ochi, Michel K.</dc:creator>
+	<dc:creator xml:lang="en">Mesa, David</dc:creator>
+	<dc:creator xml:lang="en">Liu, De-Fu</dc:creator>
+	<dc:subject xml:lang="en">daily maxima</dc:subject>
+	<dc:subject xml:lang="en">extreme seas</dc:subject>
+	<dc:subject xml:lang="en">height estimation</dc:subject>
+	<dc:description xml:lang="en">This paper presents the results of a study to statistically estimate the most severe sea state (significant wave height) expected in 50 and 100 years from analysis of data consisting of the largest significant wave height observed each day by applying the Type III asymptotic extreme value distribution. In applying the Type III asymptotic distribution, the distribution parameters are estimated by three different methods: the maximum likelihood method, the skewness method, and a nonlinear regression method. Since none of these methods estimates values of the parameters which satisfactorily yield a distribution representing well the daily maximum data, a modified Type III asymptotic distribution is newly developed in the present study. The modified distribution yields an excellent fit over the entire range of the cumulative distribution, and the probability density function agrees well with the histogram constructed from the data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4050</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4050/3732</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

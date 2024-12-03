@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8709</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILISTIC TSUNAMI HAZARD ASSESSMENT (PTHA) AND PTHA-BASED TSUNAMI SCENARIO AT A PACIFIC COAST OF TOHOKU</dc:title>
+	<dc:creator xml:lang="en">Kihara, Naoto</dc:creator>
+	<dc:creator xml:lang="en">Kaida, Hideki</dc:creator>
+	<dc:creator xml:lang="en">Kimura, Tatsuto</dc:creator>
+	<dc:creator xml:lang="en">Fujii, Naoki</dc:creator>
+	<dc:creator xml:lang="en">Iizuka, Keiichi</dc:creator>
+	<dc:description xml:lang="en">When planning tsunami disaster mitigation and designing important infrastructure from the viewpoint of tsunami resistance in coastal areas, the scale and frequency of tsunamis that will arrive at coastal areas in future are important information. On the other hand, there are large uncertainties in predicting future tsunamis, and thus it is difficult to predict a future tsunami correctly. The technology of probabilistic tsunami hazard assessment (PTHA) has been proposed to evaluate the relationship between the height and frequency of tsunamis that will arrive at coastal areas in future. To consider the uncertainties of the prediction in the PTHA, the logic-tree approach is often adopted. In this approach, both epistemic and aleatory uncertainties are considered systematically. The epistemic uncertainties are caused by lack of knowledge and the aleatory uncertainties are variabilities due to natural randomness. In the logic-tree approach, the epistemic uncertainties are expressed by tree branches and the aleatory uncertainties are expressed by the probabilistic density functions of predicted tsunami heights. By carrying out PTHA, we can obtain a hazard curve, which expresses the relationship between the tsunami height and annual frequency of exceedance. Recently, methodologies by which PTHA-based-tsunami-scenarios are determined have been proposed. By using tsunami scenarios, detailed inundation processes and patterns can be evaluated. In this study, we apply the technologies of PTHA to the pacific coast of Tohoku, Japan. Then, we determine PTHA-based tsunami scenarios, that overflow a seawall constructed at the target coast and can be used for the evaluation of inundation processes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8709</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8709/7511</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

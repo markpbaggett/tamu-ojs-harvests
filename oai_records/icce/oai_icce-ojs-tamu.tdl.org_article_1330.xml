@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1330</identifier>
+				<datestamp>2023-10-04T03:46:51Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF AN INVERSE ESTIMATION METHOD OF SEA SURFACE DRAG COEFFICIENT UNDER STRONG WIND CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Yokota, Masaki</dc:creator>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:creator xml:lang="en">Kawaguchi, Koji</dc:creator>
+	<dc:creator xml:lang="en">Kawai, Hiroyasu</dc:creator>
+	<dc:subject xml:lang="en">sea surface drag coefficient</dc:subject>
+	<dc:subject xml:lang="en">data assimilation</dc:subject>
+	<dc:subject xml:lang="en">adjoint WAM</dc:subject>
+	<dc:description xml:lang="en">For the purpose of clarifying the mechanism of energy transfer from high wind to waves, the ADWAM, a wave prediction model incorporating the data assimilation method, was modified to deduce the sea surface drag coefficients as its control variables. Validity of the model was verified through the identical twin experiment in deep sea conditions. Also, the behavior of the deduced parameter was examined through several experiments. As a result, it was confirmed that the drag coefficient deduced by the model is accurate enough when the number of the given observation data is sufficient compared with the number of the unknown parameter. It was also confirmed that the accuracy of the deduced coefficient can be improved by adding an a priori condition even if the number of the observation data is insufficient.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1330</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1330/pdf_346</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

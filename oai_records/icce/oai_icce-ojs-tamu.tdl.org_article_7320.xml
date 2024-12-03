@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7320</identifier>
+				<datestamp>2021-01-19T04:52:31Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF A NEW 3D EULER-LAGRANGE MODEL FOR THE PREDICTION OF SCOUR AROUND OFFSHORE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Li, Yaru</dc:creator>
+	<dc:creator xml:lang="en">Kelly, David M.</dc:creator>
+	<dc:creator xml:lang="en">Li, Ming</dc:creator>
+	<dc:creator xml:lang="en">Harris, John M.</dc:creator>
+	<dc:subject xml:lang="en">hybrid Eulerian-Lagrangian model</dc:subject>
+	<dc:subject xml:lang="en">free surface</dc:subject>
+	<dc:subject xml:lang="en">mobile bed</dc:subject>
+	<dc:subject xml:lang="en">MP-PIC</dc:subject>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:description xml:lang="en">Numerical modelling of local scour around offshore structures has recently grown in importance with the increased deployment of offshore wind turbines. Compared to single-phase models, the multiphase approach is gaining in popularity due to its capability to better interpret the flow-sediment interaction, sediment-sediment interaction and flow-structure interaction. In Euler-Euler multiphase models, both the fluid and solid phases are treated as continuum, therefore, the fluid-particle interactions cannot be resolved naturally. Moreover, Eulerian models often struggle to model complex deformation and interface fragmentation. In contrast, in pure Lagrangian models, the inherent discrete-particle property of sediment can be better represented; however, Lagrangian models are particularly demanding on computational resource. Thus, Euler-Lagrange models provide an attractive alternative retaining the advantage of simulating the solid phase naturally while being computationally efficient. In this paper, a three-dimensional Euler-Lagrange scour model based on the open source CFD software OpenFOAM will be presented and validated. The fluid phase is resolved by solving modified Navier-Stokes equations, which take into consideration the influence of the solid phase, i.e., the particles. The sold phase is solved using multi-phase particle-in-cell (MP-PIC) approach. The particles follow Newton's Law of Motion. The hydrodynamic performance of the model is validated against experimental measurements. The impact of steady current on scour development around cylinders is also investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7320</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7320/pdf_722</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

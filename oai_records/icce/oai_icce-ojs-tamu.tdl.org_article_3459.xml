@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3459</identifier>
+				<datestamp>2021-01-19T23:39:33Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF THE SEVEREST SIGNIFICANT WAVE HEIGHT</dc:title>
+	<dc:creator xml:lang="en">Ochi, Michel K.</dc:creator>
+	<dc:creator xml:lang="en">Whalin, Joseph E.</dc:creator>
+	<dc:subject xml:lang="en">significant wave height</dc:subject>
+	<dc:subject xml:lang="en">height prediction</dc:subject>
+	<dc:subject xml:lang="en">severest wave</dc:subject>
+	<dc:description xml:lang="en">This paper presents a method to statistically estimate the severest sea state (significant wave height) from the observed data. For the estimation of extreme significant wave height, a precise representation of the data by a certain probability function is highly desirable. Since we do not have any specific technique to meet this requirement, this situation seriously affects the reliability of the current method of predicting the severest sea condition. The author's method is to express asymptotically the cumulative distribution of the significant wave height as a combination of an exponential and power of the significant wave height. The parameters involved are determined numerically by a nonlinear minimization procedure. The method is applied to available significant wave height data measured in the North Sea, the Canadian coast, and the U.S. coast. The results of the analysis show that the data are well represented by the proposed method over the entire range of the cumulative distribution.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3459</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3459/3139</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

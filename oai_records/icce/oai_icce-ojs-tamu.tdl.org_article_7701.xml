@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7701</identifier>
+				<datestamp>2021-01-20T04:11:32Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF EXTREME EVENTS OF OBLIQUE WAVE INTERACTION WITH POROUS BREAKWATER STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Jensen, Bjarne</dc:creator>
+	<dc:creator xml:lang="en">Christensen, Erik Damgaard</dc:creator>
+	<dc:creator xml:lang="en">Jacobsen, Niels Gj¸l</dc:creator>
+	<dc:subject xml:lang="en">Wave-structure interaction</dc:subject>
+	<dc:subject xml:lang="en">Extreme events</dc:subject>
+	<dc:subject xml:lang="en">Rubble mound breakwaters</dc:subject>
+	<dc:subject xml:lang="en">Porous media</dc:subject>
+	<dc:subject xml:lang="en">Navier-stokes equations</dc:subject>
+	<dc:subject xml:lang="en">OpenFoam</dc:subject>
+	<dc:description xml:lang="en">This paper introduces a numerical approach for the analysis of extreme events of wave interaction with coastal and ma- rine structures. The method is exemplified by investigating oblique wave interactions with a rubble mound breakwater structure. The use of numerical models for analysis of wave-structure interaction is seen more often. For many appli- cations a two-dimensional approximation is valid, however, for investigating complex structural details or e.g. oblique wave interaction with coastal structures, a three-dimensional simulation is required. One challenge for a practical use of three-dimensional simulations is the computational cost. For extreme event analysis it is necessary to determine the characteristics of the extreme events which will occur during an irregular sea state of a given duration. Therefore the complete irregular sea state must be simulated. A three-dimensional simulation of a full irregular sea state with duration of e.g. 3 hours will be a large computational burden. The present work proposes a methodology where the analysis is performed in two steps. 1) A two-dimensional simulation of a full 3 hour irregular sea state is performed including the breakwater structure. The extreme events are observed in terms of loads on the super-structure. 2) The extreme events are reproduced in a three-dimensional model as oblique waves by short realizations. The method was validated by comparing the surface elevation and sea-wall forces from a full irregular sea state to the short reproduction sequences. Good agreement was found for both surface elevation and horizontal sea-wall forces. The short reproduc- tion of extreme events was applied in a three-dimensional setup for investigating the effect of oblique waves. For an incident wave angle of 30â—¦ a reduction of the peak impact load of 25 âˆ' 50 % was found for the tested extreme events.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7701</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7701/pdf_866</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

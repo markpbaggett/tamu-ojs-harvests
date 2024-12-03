@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3928</identifier>
+				<datestamp>2021-01-19T20:54:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNIFORM LONGSHORE CURRENT MEASUREMENTS AND CALCULATIONS</dc:title>
+	<dc:creator xml:lang="en">Visser, P.J.</dc:creator>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">uniform current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">current measurement</dc:subject>
+	<dc:subject xml:lang="en">current calculation</dc:subject>
+	<dc:description xml:lang="en">A description is given of laboratory experiments on uniform longshore currents and the comparison of the data with longshore current profiles predicted by a mathematical model. For the mathematical model it is assumed that longshore current generation takes place between the plunge line and the shoreline (instead of shoreward of the breaker line) and Battjes' (2,3) lateral friction model is applied. Good agreement between theory and laboratory data is achieved with realistic values of the bottom roughness.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3928</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.147</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 147</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3928/3611</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

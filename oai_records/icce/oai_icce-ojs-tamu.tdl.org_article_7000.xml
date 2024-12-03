@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7000</identifier>
+				<datestamp>2021-01-19T06:35:19Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HOW TO WEIGH COASTAL HAZARD AGAINST ECONOMIC CONSEQUENCE</dc:title>
+	<dc:creator xml:lang="en">Wainwright, David</dc:creator>
+	<dc:creator xml:lang="en">Callaghan, David</dc:creator>
+	<dc:creator xml:lang="en">Jongejan, Ruben</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:creator xml:lang="en">Cowell, Peter</dc:creator>
+	<dc:subject xml:lang="en">coastal hazard</dc:subject>
+	<dc:subject xml:lang="en">risk</dc:subject>
+	<dc:subject xml:lang="en">economic consequence</dc:subject>
+	<dc:description xml:lang="en">It is well recognised that sea level change over the coming century will have an extraordinary economic impact on coastal communities. To overcome the uncertainty that still surrounds the mechanics of shoreline recession and stochastic forcing, landuse
+planning and management decisions will require a robust and quantitative risk-based approach. A new approach is presented, which has been evaluated using field measurements and assessed in economic terms. The paper discusses a framework for coastal risk analysis which combines four main components 1) the effects of non-stationary
+climate, including decade scale variability and anthropogenic change; 2) a full probabilistic assessment of incident wave and surge conditions; 3) determination of storm erosion extents; and 4) the economic impact of combined coastal erosion and
+recession. The framework is illustrated in Figure 1. The operation of this framework has been demonstrated, building upon previous work (Callaghan et al., 2008; Jongejan et al., 2011; Ranasinghe et al., 2011). The first three components relate to physical hazards. Using stochastic simulation, we quantify the 'likelihood' side of risk.
+That likelihood is typically represented by lines indicating a projected extreme landward shoreline condition and an associated quantitative probability. For the first time, the effects of non-stationary climate (e.g. sea level rise) have been included. This
+can be extended to include decadal scale climate variation effects such as beach rotation.
+The fourth component requires the determination of values associated with land threatened by coastal erosion during the time frame being considered. We assign a spatially varying value density relationship. The exceedance probability of erosion is
+combined with the value density to calculate the expected value of damage at a given point in time. In a non-stationary climate scenario, the exceedance probabilities change with time, and this is also considered. Given a known rate of return on investment, the differentials in the rates of return (between coastal and inland property
+investments) are subsequently used to determine the efficient position of the setback line. The results are presented within a GIS framework to effectively feed into the coastal land use planning process. We demonstrate the framework by applying it to
+using real data (both physical and economic) for our subject site, Narrabeen Beach in Sydney.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7000</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7000/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

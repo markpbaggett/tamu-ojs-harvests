@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4853</identifier>
+				<datestamp>2021-01-19T15:38:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE BREAKER TURBULENCE AS A MECHANISM FOR SEDIMENT SUSPENSION</dc:title>
+	<dc:creator xml:lang="en">Mocke, G.P.</dc:creator>
+	<dc:creator xml:lang="en">Smith, G.G.</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">wave turbulence</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:description xml:lang="en">The mechanism whereby sediment particles are suspended under broken waves in the surfzone is investigated through experimental data analysis and computational modelling. The concentration measurements referred to comprise continuous transmissometer and optical backscatter sensor (OBS) values recorded in the field as well as a large database of time-averaged recordings. The measurements analysis, which included a unique set of laboratory observations derived from a specially designed vertical mixing apparatus, clearly highlight the preeminent role of wave breaker turbulence in the suspension process. The wave period averaged turbulence structure is found to be well predicted by a two equation (k, e) turbulence model. With the parametrization of the bottom reference concentration using relevant breaker and bottom generated turbulence variables, a scalar extension of the k, s model is effective in predicting published time-averaged suspended sediment distributions. Analytical relations founded on the assumption of a predominately diffusive turbulent transport regime furthermore display favourable predictive capabilities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4853</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4853/4534</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

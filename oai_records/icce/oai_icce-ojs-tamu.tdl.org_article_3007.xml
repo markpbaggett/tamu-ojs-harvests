@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3007</identifier>
+				<datestamp>2021-01-20T02:13:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TRANSMISSION OF REGULAR WAVES PAST FLOATING PLATES</dc:title>
+	<dc:creator xml:lang="en">Sendil, Uygur</dc:creator>
+	<dc:creator xml:lang="en">Graf, W.H.</dc:creator>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">floating plates</dc:subject>
+	<dc:subject xml:lang="en">regular waves</dc:subject>
+	<dc:description xml:lang="en">Theoretical solutions for the transmission beyond and reflection of waves from fixed and floating plates are based upon linear wave theory, as put forth by John (1949), and Stoker (1957), according to which the flow is irrotational, the fluid is incompressible and frictionless, and the waves are of small amplitude. The resulting theoretical relations are rather complicated, and furthermore, it is assumed that the water depth is very small in comparison to the wave length. Wave transmissions beyond floating horizontal plates are studied in a laboratory wave flume. Regular (harmonic) waves of different heights and periods are generated. The experiments are carried out over a range of wave heights from 0.21 to 8.17 cm (0.007 to 0.268 ft), and wave periods from 0.60 to 4.00 seconds in water depth of 15.2, 30.5, and 45.7 cm (0.5, 1.0 and 1.5 ft). Floating plates of 61, 91 and 122 cm (2, 3 and 4 ft) long were used. From the analyses of regular waves it was found that: (1) the transmission coefficients, H /H , obtained from the experiments are usually less than those obtained from the theory. This is due to the energy dissipation by the plate, which is not considered in the theory. (2) John's (1949) theory predicts the transmission coefficients, H /H , reasonably well for a floating plywood plate, moored to the bottom and under the action of non-breaking incident waves of finite amplitude. (3) a floating plate is less effective in damping the incident waves than a fixed plate of the same length.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3007</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.112</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 112</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3007/2672</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

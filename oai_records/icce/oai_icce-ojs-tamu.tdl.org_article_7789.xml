@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7789</identifier>
+				<datestamp>2021-01-20T04:02:44Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYTICAL MODEL OF SAND SPIT EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Palalane, Jaime</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Hans</dc:creator>
+	<dc:subject xml:lang="en">analytical model</dc:subject>
+	<dc:subject xml:lang="en">spit</dc:subject>
+	<dc:subject xml:lang="en">longshore transport</dc:subject>
+	<dc:description xml:lang="en">Spits typically consist of sand or gravel and are commonly occurring morphological features at inlets, river mouths, and the down-drift ends of barrier islands. Thus, they may form at the ocean-, lake-, or bay-side of inlets, entrances, and river mouths. Apart from the scientific interest in spits and their evolution, engineers have often studied spits with regard to their penetration into river mouths or inlets, restricting the flow rate and possibly even causing closure of the inlet (river mouth). Governing processes for spit growth under a predominant longshore transport, causing down-drift accumulation of sand, were reviewed. Based on this review, equations for the simulation of spit growth from former studies were improved, and their analytical solutions employed to build a model able to reproduce linear spit elongation. Major modifications were introduced in the equations to account for variation in spit cross-section with time, and to better describe the increase in active profile height and transport at the down-drift end of the spit as it elongates through the inlet channel. The analytical solutions were compared with data from the laboratory and field case studies. The case studies represent situations of unrestricted and restricted growth, including time-varying cross-sectional spit area and increasing active profile height. Results showed that the generalized expression for time-varying spit cross-sectional area enabled the adoption of a more realistic trapezoidal cross-section for the modeled spits. The model also contributed to estimate the net longshore sediment transport rates, facilitating comparison with observations from the different case studies. For unrestricted spit growth, it was possible to give a satisfactory representation of spit elongation over the analyzed periods, although for some study areas a single elongation rate could not accurately predict increasing spit lengths over long periods of analysis, i.e., above 50 years. Nevertheless, the model has a high potential to make rapid quantitative predictions, being a useful and valid tool for initial estimates in engineering projects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7789</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.72</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.72</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7789/pdf_894</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

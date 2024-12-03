@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2905</identifier>
+				<datestamp>2021-01-20T02:50:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A LOW-COST INSHORE WAVE DIRECTION INDICATOR</dc:title>
+	<dc:creator xml:lang="en">Retief, G. de F.</dc:creator>
+	<dc:creator xml:lang="en">Vonk, A.P.M.</dc:creator>
+	<dc:subject xml:lang="en">wave direction</dc:subject>
+	<dc:subject xml:lang="en">direction indicator</dc:subject>
+	<dc:description xml:lang="en">Although many attempts have been made in the past to measure the direction of propagation of ocean waves, a need for a simple, reliable solution to the problem has remained. The technique described here, intended for near-shore usage, makes use of a simple bottom-mounted flow direction indicator. The influence of rip and longshore currents on wave direction recordings is identified and a means of reducing these steady state current effects by a reduction in gauge sensitivity is presented, along with various possible recording and analysis techniques. Usefulness of the gauge is established as a simple engineering tool with certain limitations and examples are given of »'aire direction recordings related to meteorological data. A possible usage of the gauge FE an approximate sediment transport indicator is also proposed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2905</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2905/2570</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

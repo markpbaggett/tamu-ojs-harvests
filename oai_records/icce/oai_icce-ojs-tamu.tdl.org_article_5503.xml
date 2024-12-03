@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5503</identifier>
+				<datestamp>2021-01-19T11:59:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACCURACY OF SAND VOLUMES AS A FUNCTION OF SURVEY DENSITY</dc:title>
+	<dc:creator xml:lang="en">Irish, Jennifer L.</dc:creator>
+	<dc:creator xml:lang="en">Lillycrop, W. Jeff</dc:creator>
+	<dc:creator xml:lang="en">Parson, Larry E.</dc:creator>
+	<dc:subject xml:lang="en">sand volumes</dc:subject>
+	<dc:subject xml:lang="en">survey density</dc:subject>
+	<dc:description xml:lang="en">Hydrographic surveys are the primary tool for calculating beach nourishment project volumes. With costs for beach-quality sand as high as $30 US per cubic meter, miscalculating project design volumes can result in significant cost differentials. Because conventional bathymetry and topography of beach projects are collected along shore-normal profile lines spaced anywhere from 30 m to 300 m, calculation of project volumes relies heavily on the assumption that there is little along-shore variability from one profile to another. In most cases, however, the beach and nearshore are highly irregular and this assumption is violated. With the development of high-resolution bathymeters, such as the SHOALS airborne lidar system, it is now feasible to collect accurate, high-density beach surveys. These types of data sets create a highly accurate, quantitative measurement of beach and nearshore conditions. This paper describes the SHOALS system and lidar technology and presents a comparison of volumes calculated using high-density lidar data and conventional nearshore profile surveys. Volumes are calculated to compare differences for beaches on the Atlantic Ocean, the Gulf of Mexico, and the Great Lakes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5503</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5503/5178</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

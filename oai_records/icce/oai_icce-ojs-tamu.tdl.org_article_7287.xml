@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7287</identifier>
+				<datestamp>2021-01-19T04:55:37Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FULLY PROBABILISTIC DUNE SAFETY ASSESSMENT USING AN ADVANCED PROBABILISTIC METHOD</dc:title>
+	<dc:creator xml:lang="en">den Bieman, Joost P.</dc:creator>
+	<dc:creator xml:lang="en">Stuparu, Dana E.</dc:creator>
+	<dc:creator xml:lang="en">Hoonhout, Bas M.</dc:creator>
+	<dc:creator xml:lang="en">Diermanse, Ferdinand L.M.</dc:creator>
+	<dc:creator xml:lang="en">Boers, Marien</dc:creator>
+	<dc:creator xml:lang="en">van Geer, Pieter F.C.</dc:creator>
+	<dc:subject xml:lang="en">probabilistics</dc:subject>
+	<dc:subject xml:lang="en">dune erosion</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:description xml:lang="en">In this paper, an advanced probabilistic method - Adaptive Directional Importance Sampling (ADIS) - is used in concert with a process-based dune erosion model - XBeach - to perform a dune safety assessment. The efficiency of the probabilistic method removes the restriction of only using simple empirical dune erosion models for probabilistic calculations. The proposed combination of ADIS and XBeach is able to handle complex cross-shore profiles that empirical dune erosion models cannot, as shown in several case studies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7287</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7287/pdf_712</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5551</identifier>
+				<datestamp>2021-01-19T11:44:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENHANCED MIXING THROUGH PERFORATED DISCS ON ROUND BUOYANT JET</dc:title>
+	<dc:creator xml:lang="en">Wu, Lilun</dc:creator>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:subject xml:lang="en">jet</dc:subject>
+	<dc:subject xml:lang="en">buoyant jet</dc:subject>
+	<dc:subject xml:lang="en">round jet</dc:subject>
+	<dc:subject xml:lang="en">perforated disc</dc:subject>
+	<dc:subject xml:lang="en">mixing</dc:subject>
+	<dc:subject xml:lang="en">enhanced mixing</dc:subject>
+	<dc:description xml:lang="en">Jets have been widely used in submarine outfall diffuser systems for discharging the sewage effluents into large bodies of sea water to facilitate rapid mixing of the effluent with the ambient water. The primary goal of an outfall diffuser system is to accomplish rapid mixing of the effluent with the ambient water. In an effort to enhance the near field mixing, various obstruction devices may be placed exterior to the diffuser nozzle. This experimental study focuses on the enhanced mixing mechanisms of the jets obstructed with perforated discs. Experiments are conducted in a deep water tank with glass walls on four sides of the tank. The tank has the dimension of 3.35 m in depth with a square cross-section of 1.15 m. The water particle velocities of the resulting flow field are measured by using a portable four-beam, two-component, fiber-optic Laser-Doppler Velocimeter system (LDV). The concentration of the entrained fluid is measured by using a Laser-Induced Fluorescence system (LIF). The data acquisition system used for obtaining data on the concentration profiles is processed by Labview's programmable virtual instruments software.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5551</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5551/5225</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

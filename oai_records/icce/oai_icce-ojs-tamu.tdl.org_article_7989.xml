@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7989</identifier>
+				<datestamp>2021-01-20T03:45:06Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL INVESTIGATION ON CAISSON BREAKWATER SLIDING</dc:title>
+	<dc:creator xml:lang="en">Ruol, Piero</dc:creator>
+	<dc:creator xml:lang="en">Martin, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Andersen, Thomas Lykke</dc:creator>
+	<dc:creator xml:lang="en">Martinelli, Luca</dc:creator>
+	<dc:subject xml:lang="en">breaker</dc:subject>
+	<dc:subject xml:lang="en">impulsive force</dc:subject>
+	<dc:subject xml:lang="en">sliding distance</dc:subject>
+	<dc:subject xml:lang="en">vertical breakwaters</dc:subject>
+	<dc:description xml:lang="en">This note presents wave flume experiments, carried out at Aalborg University, measuring the horizontal sliding distance of a vertical breakwater in 1:40 scale. Horizontal and uplift wave induced pressures were accurately measured simultaneously with the caisson movements. Caissons of different weight and same geometries are tested under regular and irregular waves. It is found that, under breaking conditions, the expected inaccuracy of the prediction of the force, inherent on the variability of the breaking process, induce unacceptable errors in the prediction of the sliding. This observation endorses other previous experimental results. Conversely, when the actual measured input force is used as input, the analytical Shimosako formula fit quite well the experimental sliding distance.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7989</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.74</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.74</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7989/pdf_950</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

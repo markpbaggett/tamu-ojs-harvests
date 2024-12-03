@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6458</identifier>
+				<datestamp>2023-10-04T03:30:40Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEW BOUSSINESQ SYSTEM FOR NONLINEAR WATER WAVES</dc:title>
+	<dc:creator xml:lang="en">Zhang, Yao</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, Andrew Brian</dc:creator>
+	<dc:creator xml:lang="en">Westerink, Joannes</dc:creator>
+	<dc:creator xml:lang="en">Panda, Nishant</dc:creator>
+	<dc:creator xml:lang="en">Dawson, Client</dc:creator>
+	<dc:subject xml:lang="en">Nonlinear</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq equations</dc:subject>
+	<dc:subject xml:lang="en">rotational</dc:subject>
+	<dc:subject xml:lang="en">asymptotic rearrangement</dc:subject>
+	<dc:description xml:lang="en">In this paper, a new Boussinesq water wave theory is derived which can simulate highly dispersive nonlinear waves, their depth-varying velocities, and wave-induced currents, from very deep, but still finite, depths through the surf zone to the shoreline.. Boussinesq scaling is employed. We removed the irrotationality assumption by using polynomial basis functions for velocity profile which are inserted into basic equations of motion. Keep terms up to the desired approximation level and solve the coupled weighted residual system together with vertically integrated mass equation. The computational cost is similar to normal Boussinesq theories although there are more unknown variables to be solved than that in normal Boussinesq models. Because we can reduce the number of the coupled equations by multiplying some coefficients and subtracting from each other which means the matix to be solved is in similar size as normal Boussinesq models. The models show rapid convergence to exact solutions for linear dispersion, shoaling, and orbital velocities; however, properties may be simultaneously and substantially improved for a given order of approximation using asymptotic rearrangements. This improvement is accomplished using the large numbers of degrees of freedom inherent in the definitions of the polynomial basis functions either to match additional terms in a Taylor series, or to minimize errors over a range. Future work will be focused on rotational performance in 2D model by including viscosity,breaking and turbulence.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6458</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6458/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

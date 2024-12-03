@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1234</identifier>
+				<datestamp>2023-10-04T04:33:11Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL AND NUMERICAL STUDIES ON WAVE PROPAGATION OVER COARSE GRAINED SLOPING BEACH</dc:title>
+	<dc:creator xml:lang="en">Hsu, Tai-Wen</dc:creator>
+	<dc:creator xml:lang="en">Lai, Jian-Wu</dc:creator>
+	<dc:creator xml:lang="en">Lan, Yuan-Jyh</dc:creator>
+	<dc:subject xml:lang="en">coarse grained sloping beach</dc:subject>
+	<dc:subject xml:lang="en">wave transformation</dc:subject>
+	<dc:subject xml:lang="en">turbulence characteristics</dc:subject>
+	<dc:subject xml:lang="en">particle image velocimetry</dc:subject>
+	<dc:subject xml:lang="en">digital image process</dc:subject>
+	<dc:description xml:lang="en">In this paper, the hydrodynamics and turbulence on wave propagation over coarse grained sloping beach is investigated by both experimental and numerical methods. The coarse grained sloping beach was conducted over a 1:5 smooth inclined bottom with two layers of spherical balls. A set of newly and rarely experimental data for the distribution and evolution of the wave and velocity field over porous sloping beach were measured in this study. The particle image velocimetry (PIV) and digital image process (DIP) techniques are employed to measure the flow field and free surface both inside and outside regions for a coarse grain porous sloping bed. Eleven fields of views (FOVs) were integrated to represent the global results converting the entire propagating waves from the outer to the inner surf zones and swash zones. In addition, a high-resolution CCD Camera was constructed to capture wave propagating images continuously. Subsequent digital image processing (DIP) techniques that including image enhancement, coordinate transformation, edge detection and sub-pixel concept for resolution advancement were developed to analysis the image and get the information of wave motions. In this experimental study, the PIV and DIP techniques offer a possibility for measuring full scale spatio-temporal information of the wave motions and velocity field within / without the porous sloping bed without instructive instrument. Furthermore, the FLOW-3D which based on the Navier-Stokes equations was adopted for CFD computations. The direct three-dimensional simulations were employed for simulating wave profile and velocity field for the sloping beach. Numerical results were favorably compared with experiments to examine the validity of the model. According to the comparison of the wave and velocity data of hydraulic physical model with computational results, the direct three-dimensional simulations method can offer results much agreement with the experimental data in the global regions. The results showed that direct three-dimensional simulations can resolve the wave and velocity profile more complete and reasonable descriptions from outer to the inner porous layer and it is true no matter in the surf zone, swash zone and within the porous layer. Moreover, according to the experimental analysis, the process of the turbulence characteristics of the maximum turbulent kinetic energy, turbulent kinetic energy dissipation rate and turbulence intensity occurred between the toe of breaker and surface of porous layer. In addition, general discussion of hydrodynamics and turbulence on wave propagation over coarse grained sloping beach and impermeable sloping bed were investigated with the results of direct three-dimensional simulations in this study. The results showed that wave propagation over coarse grained sloping beach effects the breaker types in the shallow water, i.e. the steepening and overturning of the front face due to plunging breaker over impermeable sloping beach becomes indistinctively and the breaker type transform into the collapsing type. Besides, the dissipation of wave energy due to the role of infiltration and friction are significant differences from surf zone to swash zone between the coarse grained and impermeable sloping beach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1234</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1234/pdf_68</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

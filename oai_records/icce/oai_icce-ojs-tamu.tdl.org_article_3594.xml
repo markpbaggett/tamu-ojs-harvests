@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3594</identifier>
+				<datestamp>2021-01-19T22:53:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISPERSION OF COOLING WATER FROM A COASTAL LNG PLANT</dc:title>
+	<dc:creator xml:lang="en">Ackers, P.</dc:creator>
+	<dc:creator xml:lang="en">Pitt, J.D.</dc:creator>
+	<dc:creator xml:lang="en">Thompson, G.</dc:creator>
+	<dc:creator xml:lang="en">Rippin, K.G.</dc:creator>
+	<dc:subject xml:lang="en">LNG plant</dc:subject>
+	<dc:subject xml:lang="en">cooling water</dc:subject>
+	<dc:subject xml:lang="en">dispersion</dc:subject>
+	<dc:description xml:lang="en">The object of this case study was to predict the likely degree of pollution resulting from the discharge of heated water from a proposed LNG plant into the sea (Figure 1). The expected thermal loading was 40 m-Vs at a temperature of 10°C above the natural ambient sea water temperature. The investigation was required to provide data for an ecological study to determine the possible impact of the plant on the coastal and marine environment. Information on tide levels, tidal currents, salinity, sea temperature, wind strength and direction was obtained in a general survey programme which had already been commissioned. These data provided vital information on seasonal variations in marine conditions and further local information was obtained from short intensive hydrographic surveys. The data were analysed to yield a simplified description of the tidal and wind induced currents and suitable values of mixing parameters for use in two numerical models. The first dealt with the "near field" processes of the spread of a buoyant layer of heated water under the convecting influence of the tidal currents. The second model simulated the "far field" processes which give rise to a general increase in the temperature of the sea in the region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3594</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.165</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 165</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3594/3276</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

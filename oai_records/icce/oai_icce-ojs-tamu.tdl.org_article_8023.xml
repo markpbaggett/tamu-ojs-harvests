@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8023</identifier>
+				<datestamp>2021-01-19T04:27:22Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESMENT OF ESTIMATION MODELS FOR SCOUR AROUND PIPELINES UNDER IRREGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Kiziloz, Burak</dc:creator>
+	<dc:creator xml:lang="en">Cevik, Esin Ozkan</dc:creator>
+	<dc:creator xml:lang="en">Yuksel, Yalcin</dc:creator>
+	<dc:creator xml:lang="en">Aydogan, Burak</dc:creator>
+	<dc:subject xml:lang="en">pipelines</dc:subject>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:subject xml:lang="en">modelling</dc:subject>
+	<dc:subject xml:lang="en">Artificial Neural Network</dc:subject>
+	<dc:description xml:lang="en">This study focuses on scour around submarine pipelines exposed to normal-incidence irregular waves over a live bed in shoaling region. The Artificial Neural Network (ANN) method was applied. The models of this study were compared to those of Kızıloz et al. (2013) who used multiple regression analysis method. Two wave characteristic pairs Hs -Tm and Hrms -Tp identify the sea state of irregular wave train as the representative wave parameter pairs of parametric model for scour process. Because these pairs result the same scour depth as regular waves do. The best ANN models for regular and irregular waves were obtained with Hs0-Tm0-d-D or Hs0-Lm0-d-D input parameters considering deep water wave parameters and Hs-Tm-d-D or Hs-Lm-Tm-D input parameters considering local wave parameters. The mean wave period, Tm, and the significant wave height, Hs, representing the irregular waves are more compatible with the wave period and wave height of regular waves, respectively.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8023</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8023/pdf_804</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

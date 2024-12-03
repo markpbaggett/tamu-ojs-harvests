@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5500</identifier>
+				<datestamp>2021-01-19T12:00:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RIP CURRENT GENERATION ON A PLANE BEACH</dc:title>
+	<dc:creator xml:lang="en">Suriamihardja, D.A.</dc:creator>
+	<dc:creator xml:lang="en">Tsuchiya, Yoshito</dc:creator>
+	<dc:subject xml:lang="en">plane beach</dc:subject>
+	<dc:subject xml:lang="en">rip current</dc:subject>
+	<dc:subject xml:lang="en">current generation</dc:subject>
+	<dc:description xml:lang="en">In order to establish a wave-current interactionmodel for rip currents, a set of first-order linearized governing equations describing the 2-D nearshore circulation is derived from the equations of nearshore currents by the perturbation method. Wave refraction induced by the generated currents is fully considered. The solutions to the field equations of rip currents both in the surf zone and shoaling zone are obtained, and expressed in the form of Gaussian hypergeometric functions and modified Bessel functions, respectively. The matching condition of the solutions at the breaking point determines the sparing of the tip currants. Comparison of the computed rip current spacing, circulation pattern, and rip current discharge, with laboratory and field data shows a satisfactory agreement especially in the so-called instability region of the surf similarity parameter.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5500</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5500/5175</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

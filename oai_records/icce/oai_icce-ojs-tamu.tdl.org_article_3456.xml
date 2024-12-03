@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3456</identifier>
+				<datestamp>2021-01-19T23:40:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SIMILARITY MODEL IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Wang, Hsiang</dc:creator>
+	<dc:creator xml:lang="en">Yang, Wei-Chong</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">similarity model</dc:subject>
+	<dc:subject xml:lang="en">pressure field</dc:subject>
+	<dc:description xml:lang="en">In fluid mechanics, a powerful tool known as the similarity model has been applied successfully to describe velocity and pressure fields in steady boundary layer flows, jet flows and wake flows. These flows, with the exception of a few laminar cases, are quite complex and are usually not amenable to theoretical analysis. The similarity analysis offers an alternative and often provides useful engineering information on the mean flow characteristics. The present work explores the possibility of applying the similarity concept to describe the flow field of breaking waves in the surf zone. Before presenting the similarity solution, a non-dimensional surf zone parameter is examined. This parameter, in addition to its many implications of characterizing surf zone properties, is pertinent to defining the region of validity of the similarity solutions. Solutions on mean flow characteristics are then established based upon a similarity hypothesis which states that the profiles of flow properties such as velocity and wave form preserve geometrical similarity downstream from the source of the disturbance and, therefore, can be defined by a few local characteristic parameters. Conditions required to preserve similarity are examined. Finally, laboratory results from a number of studies (Flick, 1978; Svendsen et al., 1978; Sakai and Iwagaki, 1978) and those from the authors are used to test the validity of the proposed model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3456</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3456/3136</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

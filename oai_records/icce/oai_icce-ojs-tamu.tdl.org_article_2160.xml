@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2160</identifier>
+				<datestamp>2021-01-17T06:16:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND WAVES AND SWELL</dc:title>
+	<dc:creator xml:lang="en">Wiegel, R. L.</dc:creator>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">irregular</dc:subject>
+	<dc:subject xml:lang="en">turbulence</dc:subject>
+	<dc:subject xml:lang="en">swell</dc:subject>
+	<dc:description xml:lang="en">Winds blowing over the water surface generate waves. In general the higher the wind velocity, the larger the fetch over which it blows, and the longer it blows the higher and longer will be the average waves . Waves still under the action of the winds that created them are called wind waves, or a sea. They are forced waves rather than free waves. They are variable in their direction of advance (Arthur, 1949). They are irregular in the direction of propagation. The flow is rotational due to the shear stress of the wind on the water surface and it is quite turbulent as observations of dye in the water indicates. After the waves leave the generating area their characteristics become somewhat different, principally they are smoother, losing the rough appearance due to the disappearance of the multitude of smaller waves on top of the bigger ones and the whitecaps and spray. When running free of the storm the waves are known as swell. In Fig. 1 are shown some photographs taken in the laboratory of waves still rising under the action of wind and this same wave system after it has left the windy section of the wind-wave tunnel. It can be seen thati-the freely running swell has a smoother appearance than the waves in the windy section. The motion of the swell is nearly irrotational and nonturbulent, unless the swell runs into other regions where the water is in turbulent motion. Turbulence is a property of the fluid rather than of the wave motion. After the waves have travelled a distance from the generating area they have lost some energy due to air resistance, internal friction, and by large scale turbulent scattering if they run into other storm areas, and the rest of the energy has become spread over a larger area due to the dispersive and angular spreading characteristics of water gravity waves. All of these mechanisms lead to a decrease in energy density. Thus, the waves become lower in height. In addition, due to their dispersive characteristic the component wave periods tend to segregate in such a way that the longest waves lead the main body of waves and the shortest waves form the tail of the main body of waves. Finally, the swell may travel through areas where winds are present, adding new wind waves to old swell, and perhaps directly increasing or decreasing the size of the old swell.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2160</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2160/1854</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

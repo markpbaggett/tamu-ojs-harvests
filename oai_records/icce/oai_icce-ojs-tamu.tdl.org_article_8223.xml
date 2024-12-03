@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8223</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING AND POWER TAKE OFF CHARACTERIZATION OF A WAVE ENERGY CONVERTER WITH BOUNDARY ELEMENT METHOD</dc:title>
+	<dc:creator xml:lang="en">Lopez, Mario</dc:creator>
+	<dc:creator xml:lang="en">Taveira-Pinto, Francisco</dc:creator>
+	<dc:creator xml:lang="en">Rosa-Santos, Paulo</dc:creator>
+	<dc:subject xml:lang="en">WEC</dc:subject>
+	<dc:subject xml:lang="en">oscillating body</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">panel model</dc:subject>
+	<dc:subject xml:lang="en">Aqwa</dc:subject>
+	<dc:subject xml:lang="en">capture width.</dc:subject>
+	<dc:description xml:lang="en">This paper deals with the numerical modelling of an innovative technology for harnessing wave energy and its power take-off system. The investigated wave energy converter is CECO, a device based on the principles of oscillating bodies that is being developed at the Faculty of Engineering of the University of Porto, Portugal. The particularity of this concept lies on the relative motion between a floating part and a supporting one, which is restricted to translations along an inclined direction. First, the wave energy converter is modelled in the frequency domain by means of a panel model that is based on the boundary element method. Once obtained the frequency-dependent hydrodynamic coefficients of the floating part, the dynamic equation of motion is solved in the time domain by including, not only the hydrodynamic forces, but also the force of the power take-off system. The results prove the ability of the numerical modelling approach to simulate the behavior of the device and provide insight into its performance.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8223</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8223/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

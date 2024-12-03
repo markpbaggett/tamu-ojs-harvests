@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3856</identifier>
+				<datestamp>2021-01-19T21:21:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CURRENT DEPTH REFRACTION OF REGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Jonsson, Ivar G.</dc:creator>
+	<dc:creator xml:lang="en">Christoffersen, John B.</dc:creator>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">depth refraction</dc:subject>
+	<dc:subject xml:lang="en">regular waves</dc:subject>
+	<dc:description xml:lang="en">The complete set of equations for the refraction of small surface gravity waves on large-scale currents over a gradually varying sea bed is derived and presented. Wave lengths, direction of propagation and wave heights are all determined along the so-called wave rays as solutions to ordinary, first-order differential equations. Dissipation due to bed friction in the combined current wave motion is included. The ray tracing method is used in an example. A method for the calculation of current depth refraction of weakly non-linear waves is proposed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3856</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3856/3539</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

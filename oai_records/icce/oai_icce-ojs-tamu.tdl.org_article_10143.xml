@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10143</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BULK DISSIPATION AND FLOW CHARACTERISTICS IN CUBE ARMORED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Moragues, M. Victoria</dc:creator>
+	<dc:creator xml:lang="en">Clavero, Maria</dc:creator>
+	<dc:creator xml:lang="en">Diaz-Carrasco, Pilar</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel A.</dc:creator>
+	<dc:description xml:lang="en">The main function of a breakwater is dissipating wave energy. The breakwater dissipates energy by means of three mechanisms: (1) wave breaking over the slope; (2) wave propagation through the secondary layers and porous core; (3) interaction with the main armor layer. A revised dimensional analysis shows that relative water depth, h/L, and wave steepness, H/L, are key factors of breakwater performance. The product of (h/L) (HI/L) (hereinafter named as , alternate slope similarity parameter) can be applied to quantify the reflected and transmitted energy coefficients and the dissipation rate (Daz-Carrasco et al., 2020) and to identify the type of wave breaking and the domains of wave energy transformation (Moragues et al., 2020). The aim of this work is to analyze the dissipation term and its relation with the alternate slope similarity parameter , as well as correlate the flow characteristics (run-up, rundown) with the type of wave breaking and the bulk dissipation. For that purpose, former data (Clavero et al. 2020) and data from new tests have been analyzed. Whereas it is not clear that the use of different experimental techniques will give the same results in the laboratory, three different techniques for sea states selection have been taken into account in the new tests: (1) keeping constant h/L; (2) keeping constant H/L or Ir; and (3) varying h/L and H/L.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/oMZ05U0igCs</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10143</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10143/9429</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 M. Victoria Moragues, Maria Clavero, Pilar Diaz-Carrasco, Miguel A. Losada</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

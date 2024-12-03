@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1343</identifier>
+				<datestamp>2023-10-04T03:49:54Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENGINEERING DESIGN IN THE PRESENCE OF WAVE GROUPS</dc:title>
+	<dc:creator xml:lang="en">Shand, Thomas D.</dc:creator>
+	<dc:creator xml:lang="en">Peirson, William L.</dc:creator>
+	<dc:creator xml:lang="en">Cox, Ronald J.</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">infragravity wave</dc:subject>
+	<dc:subject xml:lang="en">breaker index</dc:subject>
+	<dc:subject xml:lang="en">optical surface detection</dc:subject>
+	<dc:description xml:lang="en">Determining the largest wave height, H which can occur in water of depth, d without breaking is a fundamental reference quantity for the design of coastal structures. Current design guidelines, used to predict the ratio of breaking height to depth (Hb/d), also known as the breaker index, are based on investigations which predominantly used monochromatic waves, thereby implicitly neglecting group effects. Groupiness or height modulation in wave trains is an inherent characteristic of freely propagating waves in deep water and has been shown within previous studies to induce breaker indices substantially exceeding those predicted by design guidelines. Additionally, the raw data upon which present design guidelines have been based exhibit considerable scatter. This scatter is surprising given the monochromatic and uniform nature of the laboratory waves.	
+
+A physical investigation at the Water Research Laboratory using new techniques for data extraction and visualisation has yielded new insights into the shoaling and breaking processes of regular and grouped waves and revealed deficiencies in the present design techniques. Monochromatic waves trains were found to develop amplitude modulation with distance along the flume due to non-linear instabilities. These instabilities are well recognized in deep-water waves and contribute to group development and the occurrence of low-probability extreme waves. These modulations induced variation in breaking wave heights, locations and derived breaker indices. Such modulation of initially regular wave trains is proposed as a possible cause of the scatter observed in raw laboratory breaker index data.
+
+Wave group testing has revealed evolutionary cycles in local energy density during deep water propagation and that the spatial phasing of this evolution with the initiation of shoaling yielded considerably different shoaling and breaking regimes. Critically, smaller waves within the group, particularly those occurring at the front of the wave group were, at times, able to propagate into shallower water before breaking than is presently predicted by existing design guides. Causes for this discrepancy, including differences in definitions of water level and depth are investigated. However, discrepancies between observed and predicted values are found to remain. Revision to present design guidelines to directly incorporate non-linear group effects and group-induced water level variation are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1343</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.68</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.68</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1343/pdf_328</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1343/7690</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1343/7691</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

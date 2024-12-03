@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2423</identifier>
+				<datestamp>2021-01-17T05:13:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE BOUNDARY LAYERS AMD FRICTION FACTORS</dc:title>
+	<dc:creator xml:lang="en">Jonsson, Ivar G.</dc:creator>
+	<dc:subject xml:lang="en">boundary layer</dc:subject>
+	<dc:subject xml:lang="en">friction factor</dc:subject>
+	<dc:subject xml:lang="en">flow regimes</dc:subject>
+	<dc:description xml:lang="en">In the last two decades the problem of wave height damping due to bottom friction has received increasing attention among near-shore oceanographers. This fact is reflected in the wealth of papers on the subject; the list of references given herein presents a minor selection only. This paper is an attempt to re-evaluate and systematize the many observations and the rather few detailed measurements of the phenomenon. In nature the wave boundary layer will always be rough turbulent. This is not necessarily the case in a hydraulic model. The aim is therefore to make it possible to determine the proper flow regime for a pure short-period wave motion over a given bed. Values for the wave friction factor and the wave boundary layer thickness are also proposed. The main results of the study are presented in three diagrams giving flow regimes, friction factors and boundary layer thicknesses. Flow parameters are a-jjj/k and RE = U-|j_ ai~/v, a-]m and U-|m being maximum bottom amplitude and velocity according to first order potential wave theory, k is the Nikuradse roughness parameter.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2423</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2423/2090</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

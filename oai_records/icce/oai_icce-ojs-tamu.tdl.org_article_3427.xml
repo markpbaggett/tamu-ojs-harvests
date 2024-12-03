@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3427</identifier>
+				<datestamp>2021-01-19T23:50:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MASS TRANSPORT IN PROGRESSIVE WAVES OF PERMANENT TYPE</dc:title>
+	<dc:creator xml:lang="en">Tsuchiya, Toshito</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Takashi</dc:creator>
+	<dc:creator xml:lang="en">Yamashita, Takao</dc:creator>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:subject xml:lang="en">progressive waves</dc:subject>
+	<dc:description xml:lang="en">Mass transport phenomenon was first recognized by Stokes in 1847 using a Lagrangian description. Later, a basic theory for the mass transport in water waves in viscous fluid and of finite depth was derived by Longuet-Higgins in 1953. Theoretical solutions of mass transport in progressive waves of permanent type are subjected to the definitions of wave celerity in deriving the various finite amplitude wave theories. As it has been generally acknowledged that the Stokes wave theory can not yield a correct prediction of mass transport in the shallow depths, some new theories have been developed. Recently the authors(1974 § 1977) have derived a new finite amplitude wave theory in shallow water for quasi- Stokes and cnoidal waves by the so-called reductive perturbation method, in which the mass transport is formulated both in Lagrangian and Eulerian descriptions. On the experimental verification, Russell and 0sorio(1957) investigated and compared Longuet-Higgins' solution with experimental data of Lagrangian mass transport velocity obtained in a normal closed wave tank of finite length. Since then, many investigations, and nearly all of them, have employed the finite length of wave tank in carrying out their experiments. However, no experiment has yet been attempted at verifying the Stokes drift in progressive waves of permanent type in a wave tank of infinite length. It is not realistic nor economical in constructing such an infinitely long flume to investigate experimentally the mass transport velocity in progressive waves. Instead of using such an ideal wave tank, a new one incorporated with natural water re-circulation was equipped to carry out experiments by the authors(1978). It was confirmed from these experiments that mass transport in progressive waves of permanent type exists in the Same direction of wave propagation throughout the depth, and agrees with both the Stokes drift and the authors' new formulations, within the test range of experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3427</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3427/3107</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

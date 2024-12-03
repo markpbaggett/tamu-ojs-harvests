@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1868</identifier>
+				<datestamp>2021-01-17T06:36:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REVISIONS IN WAVE FORECASTING: DEEP AND SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Bretschneider, C. L.</dc:creator>
+	<dc:subject xml:lang="en">wave forecasting</dc:subject>
+	<dc:subject xml:lang="en">wave decay</dc:subject>
+	<dc:subject xml:lang="en">wave spectra</dc:subject>
+	<dc:description xml:lang="en">During the past six years since the latest revisions in wave forecasting (Bretschneider 1951) were made, much information has become available such that another revision is in order. An abundance of published (and unpublished) accounts of wave generation and decay in both deep and shallow water from various sources, as well as new ideas in the art of wave forecasting, are used in this revision. Deep water wave forecasting relationships, relationships for the generation of wind waves in shallow water of constant depth, and techniques for forecasting wind waves over the Continental Shelf are included in this paper. Forecasting hurricane waves is also discussed, from the engineering design point of view. The concept of significant wave is still retained as the most practical method in wave forecasting to date. The significant period has definite significance in that the wave energy is propagated forward at a speed approximately equal to the corresponding group velocity. 
+
+The graphical approach (Wilson 1955) for moving fetches and variable wind vectors is discussed, and is the best approach for forecasting waves. Without Wilson's graphical technique it is difficult for any two forecasters supplied with the same meteorological data to obtain the same degree of verification, or determine whether the forecaster or the forecasting relationships are in error. It is quite possible that by use of this technique further revisions in wave forecasting are possible. 
+
+The problem of wave variability is discussed, and the distribution functions are given. A short summary of the wave spectra (Bretschneider 1958) used in connection with the revisions is also given. 
+When the present forecasting relationships are applied to sections of the world, other than that from which the basic data were procured, it is recommended that atmospheric stability factors be taken into account. This essentially involves a slight modification or calibration of the forecasting relationships and techniques, prior to general use in the area of interest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1957-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1868</dc:identifier>
+	<dc:identifier>10.9753/icce.v6.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 6 (1957): Proceedings of 6th Conference on Coastal Engineering, Gainesville, Florida, 1957.; 3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1868/1141</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

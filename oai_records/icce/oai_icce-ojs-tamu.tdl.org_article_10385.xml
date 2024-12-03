@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10385</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL FLOODING RISK ASSESSMENT BY A NEURAL NETWORK APPROACH</dc:title>
+	<dc:creator xml:lang="en">Iuppa, Claudio</dc:creator>
+	<dc:creator xml:lang="en">Cavallaro, Luca</dc:creator>
+	<dc:creator xml:lang="en">Musumeci, Rosaria Ester</dc:creator>
+	<dc:creator xml:lang="en">Foti, Enrico</dc:creator>
+	<dc:description xml:lang="en">An effective system of coastal flooding forecasting in the case of storm is essential to mitigate coastal risks for the population living in low-land coastal zones (less than 10 m above MSL). Nowadays, predictions of coastal flooding are usually carried out by adopting nested numerical models. However, the models adopted to obtain the data in the nearshore area require high computational costs, which are often too demanding and not viable for large scale forecasting. Data-driven models, such as Artificial Neural Networks (ANNs) can help to solve the problem as they can map complex nonlinear relationships between input and output variables once a suitable dataset of process realizations is available. In the present study a forecasting model for coastal flooding based on ANNs, in which the input data are the offshore wave characteristics from large scale model and the output results are the flooded areas, is proposed. These outputs provided a straightforward prediction of the area interested by coastal flooding during storms. Here an application of the model to assess the flooding risk in the village of Granelli, in the Southeast of Sicily (Italy) is presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10385</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10385/9671</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Claudio Iuppa, Luca Cavallaro, Rosaria Ester Musumeci, Enrico Foti</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

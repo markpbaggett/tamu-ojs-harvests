@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12864</identifier>
+				<datestamp>2023-09-01T15:13:53Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE VAN DER MEER FORMULA FOR ROCK SLOPE STABILITY AT SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Meer, Jentsje van der</dc:creator>
+	<dc:creator xml:lang="en">Andersen, Thomas Lykke</dc:creator>
+	<dc:creator xml:lang="en">Eldrup, Mads Roge</dc:creator>
+	<dc:description xml:lang="en">In Van der Meer (2021) the stability formula for rock slopes under wave attack has been rewritten to remove the mean period Tm and to include the spectral period Tm-1,0. This formula is now identical to the Modified Van der Meer formula in the Rock Manual (2007 – Eqs 5.139 and 5.140), except for its coefficients and the use of H2 percent in the Rock Manual and H1/3 in Van der Meer (2021). A method has been given in Van der Meer (2021) by coefficients cpl and csu in the rewritten formula, to include (new) data on rock slope stability where results differ from the original formula and data. The re-fit of the shallow water data by Van Gent (2004) leading to the Modified Van der Meer formula for shallow water comes now to cpl=0.92 and csu=0.96, showing that rock slopes are less stable in shallow water than in deep water (coefficients smaller than 1 show less stability). The main objective is then: when and where do shallow water stability results deviate from the known stability formulae and how can we describe the deviating results. The original dataset by Van Gent (2004) and additional tests by Eldrup (2019) as well as other data have been analysed in depth to come to an improved understanding of rock slope stability in shallow water.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12864</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12864/12137</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jentsje van der Meer, Thomas Lykke Andersen, Mads Roge Eldrup</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

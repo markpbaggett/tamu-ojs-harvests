@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5207</identifier>
+				<datestamp>2021-01-19T13:38:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EFFECTS OF CURRENTS ON ESTIMATIONS OF DIRECTIONAL WAVE SPECTRA</dc:title>
+	<dc:creator xml:lang="en">Nakagawa, Yasuyuki</dc:creator>
+	<dc:creator xml:lang="en">Tsuruya, Hiroichi</dc:creator>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:subject xml:lang="en">wave spectra</dc:subject>
+	<dc:subject xml:lang="en">directional spectra</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">spectra estimation</dc:subject>
+	<dc:description xml:lang="en">To investigate the effects of currents on estimations of directional wave spectra, the problems with the existing methods for obtaining directional wave spectra are discussed when they are applied to wave fields in the existence of currents. The characteristics of distortion of the estimated spectra by current effects are examined through numerical simulations and analyses of experimental data. Both the numerical and experimental tests with wave gages, show that the directional spread of estimated spectra becomes narrower than that of the actual wave field and the value of the spectral peak is overestimated for the case of adverse currents. The extent of these distortions depends on the relative speed and direction of the current and waves. The relation of the error and these factors is summarized in the present study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5207</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5207/4885</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

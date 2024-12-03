@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2878</identifier>
+				<datestamp>2021-01-20T03:00:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIENCES WITH TIDAL SALINITY MODEL EUROPOORT</dc:title>
+	<dc:creator xml:lang="en">van Rees, A.J.</dc:creator>
+	<dc:creator xml:lang="en">can der Kuur, P.</dc:creator>
+	<dc:creator xml:lang="en">Stroband, H.J.</dc:creator>
+	<dc:subject xml:lang="en">tidal salinity</dc:subject>
+	<dc:subject xml:lang="en">salinity model</dc:subject>
+	<dc:subject xml:lang="en">Europoort</dc:subject>
+	<dc:description xml:lang="en">To guide -the works for the new harbour entrance at Rotterdam- Europoort in 1965 a tidal salinity model (scales 1:640 hor., 1:64 vert.) was constructed. The model includes a part of the North Sea and the Rotterdam Waterway Estuary. For its regular adjustment, use could be made of extensive prototype measurements, two-dimensional tidal computations and tidal computations by means of the DELTAR (analogue, onedim.). The model has proved to be very valuable for predicting stream patterns for nautical purposes because the shipping (huge crude carriers) had to go on without danger while the works were being carried out. The model has also been used for the solution of harbour problems (design, siltation), for predicting cooling water recirculation, and for advice on salinity intrusion problems.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2878</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.131</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 131</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2878/2542</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

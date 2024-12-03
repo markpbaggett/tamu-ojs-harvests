@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6488</identifier>
+				<datestamp>2023-10-04T03:29:29Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF EXTREME WAVE INTERACTION WITH MONOPILE MOUNTS FOR OFFSHORE WIND TURBINES</dc:title>
+	<dc:creator xml:lang="en">Gao, Feng</dc:creator>
+	<dc:creator xml:lang="en">Mingham, Clive</dc:creator>
+	<dc:creator xml:lang="en">Causon, Derek</dc:creator>
+	<dc:subject xml:lang="en">extreme wave</dc:subject>
+	<dc:subject xml:lang="en">monopile</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">wave run-up</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:description xml:lang="en">Extreme wave run-up and impacts on monopile foundations may cause unexpected damage to offshore wind farm facilities and platforms. To assess the forces due to wave run-up, the distribution of run-up around the pile and the maximum wave run-up height need to be known. This paper describes a numerical model AMAZON-3D study of wave run-up and wave forces on offshore wind turbine monopile foundations, including both regular and irregular waves. Numerical results of wave force for regular waves are in good agreement with experimental measurement and theoretical results, while the maximum run-up height are little higher than predicted by linear theory and some empirical formula. Some results for irregular wave simulation are also presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6488</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6488/pdf_498</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

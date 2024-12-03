@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8859</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNCERTAINTY AND BIAS IN EXTREME VALUE ANALYSIS OF RECORDS OF STORM SURGES FOR COASTAL PROTECTION PLANS</dc:title>
+	<dc:creator xml:lang="en">Kitano, Toshikazu</dc:creator>
+	<dc:description xml:lang="en">There are several arguments to be discussed for the probability of hazards due to the storm surge. One is a common point of describing the uncertainty of extreme events, and another point is for the special case due to the storm surge. 1) Return level is one of the important results by extreme value analysis, and the confidence interval also serves us an useful and desirable information for uncertainty. Is it true? The answer is negative. Return period is right, and important. But the confidence interval, in this case, is shown for return level which is the constant value that is significant after the repeating encounters of the exceedance levels over very long period. But it is of our interest to know which value is the successively occurring level in the future return period, which is a stochastic variable. It is not a constant value but unknown even for the God. The prediction interval should be employed for the next realized value of our interest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8859</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8859/7657</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

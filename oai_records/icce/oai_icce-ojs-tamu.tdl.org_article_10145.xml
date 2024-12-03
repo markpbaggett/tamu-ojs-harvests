@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10145</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PORT RESONANCE MITIGATION MODELED INTRODUCING ARJ-R STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">GONZALEZ-ESCRIVA, Jose A.</dc:creator>
+	<dc:creator xml:lang="en">MEDINA, Josep R.</dc:creator>
+	<dc:creator xml:lang="en">GARRIDO, Joaquin M.</dc:creator>
+	<dc:description xml:lang="en">ARJ-R caissons are based on the "long-circuit" concept (Medina et al, 2016) that allows the extension of the destructive wave interference mechanism to mitigate low frequency oscillations without enlarging the width of the caisson. The performance of the ARJ-R caissons is referred to its reflection coefficient (Cr) which was obtained through large-scale physical model tests (Gonzalez-Escriva et al, 2018). In this paper, the effectiveness of Anti-Reflective Jarlan-type structures for Port Resonance mitigation (ARJ-R) has been assessed numerically for the port of Denia (Spain). ARJ-R structures are constructible, with similar dimensions as conventional vertical quay caissons and with a similar cost (15percent more than conventional vertical caisson).Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/LomQEVpvjik</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10145</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10145/9431</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Jose A. GONZALEZ-ESCRIVA, Josep R. MEDINA, Joaquin M. GARRIDO</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

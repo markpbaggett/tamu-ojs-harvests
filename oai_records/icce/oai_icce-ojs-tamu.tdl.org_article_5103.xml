@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5103</identifier>
+				<datestamp>2021-01-19T14:12:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BREACH GROWTH RESEARCH PROGRAMME AND ITS PLACE IN DAMAGE ASSESSMENT FOR A POLDER</dc:title>
+	<dc:creator xml:lang="en">Kraak, Arie W.</dc:creator>
+	<dc:creator xml:lang="en">Bakker, Wim T.</dc:creator>
+	<dc:creator xml:lang="en">van de Graaff, Jan</dc:creator>
+	<dc:creator xml:lang="en">Steetzel, Henk J.</dc:creator>
+	<dc:creator xml:lang="en">Visser, Paul J.</dc:creator>
+	<dc:subject xml:lang="en">polder</dc:subject>
+	<dc:subject xml:lang="en">beach growth</dc:subject>
+	<dc:subject xml:lang="en">damage assessment</dc:subject>
+	<dc:description xml:lang="en">In the Netherlands the Technical Advisory Committee on Waterdefences (TAW) is developing a new safety philosophy, in which safety levels will be expressed in terms of risk of flooding. At present safety levels are expressed in terms of probability of exceedance of a certain water level. Risk is here defined as the product of probability of failure and expected damage. In order to be able to assess the expected damage, the flooding discharges in case of a dike failure have to be determined. These flooding discharges largely depend on the process of breach growth. The TAW has started a study on the breach growth mechanism, which is carried out by means of a step by step approach. Firstly laboratory experiments have been carried out to investigate the essential features of the total process. Mathematical models have been developed that describe the different phases of the breach growth process as observed in the laboratory. Recently a large field experiment has taken place in order to validate the mathematical models. So far, all research on breach growth has been focussed on sand-dikes and dunes, which implicitly means that the models are upper bound approaches. In next phases of the research programme breach growth in dikes containing less erosive materials such as clay will be investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5103</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5103/4781</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

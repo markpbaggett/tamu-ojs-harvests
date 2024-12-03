@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7170</identifier>
+				<datestamp>2021-01-19T05:11:33Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING VERTICAL VARIATION OF TURBULENT FLOW ACROSS A SURF ZONE USING SWASH</dc:title>
+	<dc:creator xml:lang="en">Zijlema, Marcel</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">undertow</dc:subject>
+	<dc:subject xml:lang="en">turbulence modelling</dc:subject>
+	<dc:subject xml:lang="en">SWASH</dc:subject>
+	<dc:description xml:lang="en">This paper presents the application of the open source non-hydrostatic wave-flow model SWASH to propagation of irregular waves in a barred surf zone, and the model results are discussed by comparing against an extensive laboratory data set. This study focus not only on wave transformation in the surf zone, but also on the numerical prediction of undertow and vertical distribution of turbulence levels under broken waves. Present simulations demonstrate the overall predictive capabilities of the model in computing breaking surf zone waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7170</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7170/pdf_456</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

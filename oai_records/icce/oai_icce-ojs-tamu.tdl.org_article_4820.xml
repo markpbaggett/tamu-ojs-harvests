@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4820</identifier>
+				<datestamp>2021-01-19T15:49:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF NON-UNIFORM SEDIMENT GRAINSIZE IN THE LONG-TERM EVOLUTION OF TIDAL LAGOONS</dc:title>
+	<dc:creator xml:lang="en">Di Silvio, G.</dc:creator>
+	<dc:creator xml:lang="en">Teatini, P.</dc:creator>
+	<dc:subject xml:lang="en">tidal lagoon</dc:subject>
+	<dc:subject xml:lang="en">lagoon</dc:subject>
+	<dc:subject xml:lang="en">sediment size</dc:subject>
+	<dc:subject xml:lang="en">nonuniform sediment</dc:subject>
+	<dc:description xml:lang="en">Long-term coastal processes [9, 10) usually consist in slight net morphological changes that result from large positive and negative oscillations occuring to a much shorter time-scale. As soon as one is not interested in these short-term variations, one may perform a preliminary time averaging of the basic waterflow and sediment transport equations in order to obtain a much simpler and manageable model for long-term simulations E6]. Long-term mathematical models, in fact, not only require much less computer time, but can run without knowing the detailed time - history of all the boundary conditions (which on the contrary is absolutely needed by short-term mathematical models). Averaging of non-linear equations, on the other hand, produce residqal terms that either may be neglected or should be expressed, in some convenient way, as a function of the averaged quantities. The procedure, indeed, is analogous to the averaging of the Navier-Stokes equations in order to eliminate turbulence pulsations, where the Reynolds stresses should be conveniently expressed in terms of averaged velocity. In the case of long-term morphological models of tidal lagoons, semi-empirical expressions of the residual terms can be found. The relative calibration coefficients may be then identified by comparison with field data and/or with a limited number of simulations carried out on short-term models. In some previous papers, long-term morphological models of a tidal lagoon have been developed with different spaceresolution (zero-dimensional [4] and two-dimensional [5] approach) by considering only one equivalent (uniform) sediment grainsize. The zero-dimensional procedure, in particular, has been applied to the Lagoon of Venice [8]. In the present paper the two-dimensional model is reconsidered and extended to the case of particles with different grainsize, ranging from sand to silt.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4820</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4820/4501</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

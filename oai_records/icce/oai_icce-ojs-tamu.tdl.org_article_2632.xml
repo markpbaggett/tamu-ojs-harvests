@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2632</identifier>
+				<datestamp>2021-01-17T03:58:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE DEVELOPMENT OF UNDULAR BORES WITH FRICTION</dc:title>
+	<dc:creator xml:lang="en">Hawaleshka, O.</dc:creator>
+	<dc:creator xml:lang="en">Savage, S.B.</dc:creator>
+	<dc:subject xml:lang="en">bore</dc:subject>
+	<dc:subject xml:lang="en">undular bore</dc:subject>
+	<dc:subject xml:lang="en">friction</dc:subject>
+	<dc:subject xml:lang="en">bore developement</dc:subject>
+	<dc:description xml:lang="en">A theoretical and experimental study of the initial development of undular bores in two-dimensional, rectangular channels with and without boundary friction was performed Equations similar to those of Boussmesq, but including higher order and wall friction terms are presented and solved numerically by an implicit finite difference method A Pohlhausentype boundary layer momentum integral method is used to obtain the wall shear stress distribution under a developing long wave from the consideration of the boundary layer underneath it The solution is performed in a quasi-iterative manner proceeding from the friction coefficient calculation for an initially assumed wave profile to the inclusion of this coefficient in the calculation of a new wave profile at an advanced time Comparisons of theoretical and experimental results are given For the initial development of the undular bore with which the present work is concerned, the measurements are found to be m reasonable agreement with the theoretical predictions The effect of the wall shear stress manifests itself mainly in a slight reduction of the wave amplitudes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2632</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2632/2297</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

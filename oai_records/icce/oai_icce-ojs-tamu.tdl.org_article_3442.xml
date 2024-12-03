@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3442</identifier>
+				<datestamp>2021-01-19T23:45:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND WAVES TRANSMISSION THROUGH POROUS BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Massel, Stanislaw R.</dc:creator>
+	<dc:creator xml:lang="en">Butowski, Piotr</dc:creator>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">porous breakwater</dc:subject>
+	<dc:description xml:lang="en">Rubble - mound breakwaters are designed to protect exposed marine areas from excessive wave activity. The resulting interaction of the incident waves with the rubble units is extremely complex due to the variable reflective and frietional properties of the permeable structure. In the past decade considerable effort has been expended to derive rational methods for of such type structure. The theoretical and experimental investigations have been focused especoialy on the prediction of the reflection and transmission of regular waves incident to breakwater. Sollitt and Cross /^^^Z/ presented the analytical approach to the problem based on the assumption that the original nonlinear governing equation of the wave motion into porous media may be replaced by a linear one so as to give the same average rate of dissipation/Lorentz approximation/. Under the assumption that severe wave conditions for most breakwaters correspond to relatively long waves, the considerably simple solutions were developed by Kondo and Toma /1972/ and in series of papers by Madsen and co-authors /\97k, 1977, 1978/. Madsen s solutions follows rather a physical than mathematical rigorous approach to the problem. The momentum equation evaluated him explains the influence of the inertia force associated with the unsteady flow around the solid particles. Very careful analytical examination of this problem for the long waves past the narrow gaps and holes has been presented by Mei at al. /197**/. The study indicate that apparent mass term can be ignored in most practical cases.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3442</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3442/3122</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5278</identifier>
+				<datestamp>2021-01-19T13:14:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A UNIFORM MILD-SLOPE MODEL FOR WAVES OVER VARYING BOTTOM</dc:title>
+	<dc:creator xml:lang="en">Zhang, Libang</dc:creator>
+	<dc:creator xml:lang="en">Edge, Billy L.</dc:creator>
+	<dc:subject xml:lang="en">mild slope</dc:subject>
+	<dc:subject xml:lang="en">varying bottom</dc:subject>
+	<dc:subject xml:lang="en">mild slope model</dc:subject>
+	<dc:description xml:lang="en">A time-dependent mild-slope equation is derived, based on the formal derivation of Smith &amp; Sprinks (1975), from which the higher-order dispersion relation for waves over uneven bottom is obtained. If only linear dispersion is used for steady waves, the equation (2.12) of Chamberlain &amp; Porter (1995), referred as the modified mild-slope equation (MMSE), is recovered from this equation. To the leading-order solution, it is found that the modified curvature terms of the MMSE have significant effects, while the slope square terms are negligible in accordance with mild-slope assumption. Therefore, retaining all the modified curvature terms neglected in the MSE, the uniform model is developed. A numerical model using the finite element method(FEM) is developed to predict wave scattering by a varying bottom. In general, the uniform model can predict salient features of waves over various sea beds, such as sinusoidal beds and man-made bars. For sinusoidal beds, the results of the uniform model are in closer agreement with the experimental data than other established models. For man-made bars, the results of both the MMSE and uniform model are in closer agreement with the experimental data than the results of Kirby (1986). An important result of the FEM model is application to transformation of waves over arbitrarily-varying bathymetry.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5278</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5278/4956</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

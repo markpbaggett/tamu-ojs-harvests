@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3806</identifier>
+				<datestamp>2021-01-19T21:38:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON A DESIGN WAVE SPECTRUM</dc:title>
+	<dc:creator xml:lang="en">Liu, Paul C.</dc:creator>
+	<dc:subject xml:lang="en">design wave</dc:subject>
+	<dc:subject xml:lang="en">wave spectrum</dc:subject>
+	<dc:description xml:lang="en">We propose the use of a generalized representation for acquiring a design wave spectrum. The generalized form, free from any predetermined coefficients and exponents, requires only significant wave height and average wave period as input for practical applications. The usefulness of this representation has been demonstrated with over 2000 measured deep-water wave spectra recorded from NOMAD buoys in the Great Lakes during 1981.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3806</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3806/3489</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

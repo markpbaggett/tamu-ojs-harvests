@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1291</identifier>
+				<datestamp>2023-10-04T03:47:09Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING LONG TERM IMPLICATION OF CLIMATE CHANGE PROJECTION ON SHORE MORPHOLOGY OF NORTH NORFOLK, UK, COMBINING TOMAWAC AND SCAPE</dc:title>
+	<dc:creator xml:lang="en">Chini, Nicolas</dc:creator>
+	<dc:creator xml:lang="en">Stansby, Peter</dc:creator>
+	<dc:creator xml:lang="en">Walkden, Mike</dc:creator>
+	<dc:creator xml:lang="en">Hall, Jim</dc:creator>
+	<dc:creator xml:lang="en">Wolf, Judith</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Jason</dc:creator>
+	<dc:creator xml:lang="en">Nicholls, Robert</dc:creator>
+	<dc:subject xml:lang="en">coastal morphology</dc:subject>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:subject xml:lang="en">numerical model downscaling</dc:subject>
+	<dc:description xml:lang="en">Assessment of nearshore response to climatic change is an important issue for coastal management.  To predict potential effects of climate change, a framework of numerical models has been implemented which enables the downscaling of global projections to an eroding coastline, based on TOMAWAC for inshore wave propagation input into SCAPE for shoreline modelling.  With this framework, components of which have already been calibrated and validated, a set of consistent global climate change projections is used to estimate the future evolution of an un-engineered coastline.  The response of the shoreline is sensitive to the future scenarios, underlying the need for long term large scale offshore conditions to be included in the prediction of non-stationary processes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1291</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.61</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.61</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1291/pdf_344</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

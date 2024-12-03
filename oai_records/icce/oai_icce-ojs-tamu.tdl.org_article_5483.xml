@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5483</identifier>
+				<datestamp>2021-01-19T12:06:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASYMMETRIC AND IRREGULAR WAVE EFFECTS ON BEDLOAD: THEORY VERSUS LABORATORY AND FIELD EXPERIMENTS</dc:title>
+	<dc:creator xml:lang="en">Kaczmarek, Leszek M.</dc:creator>
+	<dc:creator xml:lang="en">Ostrowski, Rafal</dc:creator>
+	<dc:subject xml:lang="en">bedload</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">asymmetric wave</dc:subject>
+	<dc:subject xml:lang="en">wave theory</dc:subject>
+	<dc:subject xml:lang="en">field experiment</dc:subject>
+	<dc:description xml:lang="en">To parameterise the sediment transport in terms of the wave spectrum and a few other parameters, it is necessary to start from the surface elevation spectrum which can be transformed into orbital velocities at the bed and then to bed shear stress. The bed shear stress so derived is used in a new sediment transport formula put forth by the Authors. The problem is highly non-linear and at a few points in the process it is necessary to make non-linear transformations. This route: surface elevation - sediment transport and the importance of the non-linearity are central to this study. The theoretical model is based on the concept proposed by Kaczmarek &amp; O'Connor (1993) who used the procedure for matching the solutions of equation of motion in the turbulent flow above the theoretical bed level and in the collision-dominated granular-fluid region. This concept, first used for regular linear waves, has recently been developed for random waves by Kaczmarek et al. (1994) and for non-linear waves by Kaczmarek (1995). Then, on the above basis, the first attempt was made by Kaczmarek et al. (1995) to formulate bedload theory and verify it using available laboratory data and IBW PAN radio-tracer field results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5483</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5483/5160</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

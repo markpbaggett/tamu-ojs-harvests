@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1321</identifier>
+				<datestamp>2023-10-04T04:27:00Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INCIPIENT MOTION RESPONSE DETECTION OF ARTICULATED COASTAL REVETMENT UNDER WAVE LOADING</dc:title>
+	<dc:creator xml:lang="en">Russo, Edmond J</dc:creator>
+	<dc:creator xml:lang="en">Willson, Clinton S</dc:creator>
+	<dc:creator xml:lang="en">Smith, Heather</dc:creator>
+	<dc:subject xml:lang="en">incipient motion</dc:subject>
+	<dc:subject xml:lang="en">articulated coastal revetment</dc:subject>
+	<dc:subject xml:lang="en">wave loading</dc:subject>
+	<dc:description xml:lang="en">Articulated coastal revetments (ACRs) are armoring options for abating earthen levee wave erosion.  Stability criteria for ACR design typically allow initial, minor damage during design wave loading conditions (USACE, 2006).  Minor wave damages may worsen progressively if not repaired before another design wave loading event.  If minor ACR damages evolve under wave action to the point of unraveling, the underlying levee will become exposed to wave forces that could result in breaching (Pilarczyk, 1998).  Vulnerability exists in this scenario for catastrophic flood risk management system failure.  Current ACR stability limits for maintaining structural integrity under wave attack exist between the thresholds of structure incipient motion and that of initial damage criteria.  Using an ACR stability limit that maintains structural integrity would greatly reduce the potential of repeat damage resulting in armor failure.  A design challenge exists due to a knowledge gap in detecting and analyzing ACR performance between the thresholds of incipient motion and initial damage (Herbich, 1999).  In this research, the threshold of incipient motion for ACRs is explored through small-scale experimentation.  Data analysis, including correlations between hydrodynamic forcings and structure responses, extended our understanding of ACR system behavior in specific structural configurations and wave loading conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1321</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1321/pdf_101</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

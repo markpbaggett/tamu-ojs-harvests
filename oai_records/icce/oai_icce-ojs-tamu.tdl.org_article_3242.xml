@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3242</identifier>
+				<datestamp>2021-01-20T00:49:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDAL STREAM FLOW SOLVED BY GALERKIN TECHNIQUE</dc:title>
+	<dc:creator xml:lang="en">Smith, L.H.</dc:creator>
+	<dc:creator xml:lang="en">Cheng, R.T.</dc:creator>
+	<dc:subject xml:lang="en">tidal stream flow</dc:subject>
+	<dc:subject xml:lang="en">Galerkin technique</dc:subject>
+	<dc:subject xml:lang="en">tidal flow</dc:subject>
+	<dc:description xml:lang="en">The total discharges in a tidally influenced stream reach are known to be related to the stages (water levels) at the ends of the reach. The discharge-stage relationships can be derived from the conservation principles of mass and momentum under a few simplifying assumptions. Solutions of the governing equations with appropriate boundary and initial conditions give spatial and temporal variations of the flow in the reach. Practically, the most needed information are the instantaneous discharges, which, in many instances, provide guidance for water resources management decision making. Unfortunately, measuring the instantaneous discharge in a tidal reach is often difficult, tedious and costly. However, measuring the stages of a tidal reach is relatively simple, inexpensive and is done routinely. To determine discharges from measured water levels has been the subject of the present study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3242</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.192</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 192</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3242/2906</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

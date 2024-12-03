@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1339</identifier>
+				<datestamp>2023-10-04T03:50:04Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BORE PROPAGATION SPEED AT THE TERMINATION OF WAVE BREAKING</dc:title>
+	<dc:creator xml:lang="en">Okamoto, Takashi</dc:creator>
+	<dc:creator xml:lang="en">Fortes, Conceição Juana</dc:creator>
+	<dc:creator xml:lang="en">Basco, David R.</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">bore propagation speed</dc:subject>
+	<dc:subject xml:lang="en">wave tank experiments</dc:subject>
+	<dc:subject xml:lang="en">harmonics composition</dc:subject>
+	<dc:description xml:lang="en">Wave breaking is the most important event in nearshore hydrodynamics because of the energy exertion and mass transportation during the event drive all the nearshore phenomena, such as wave set-up/down, long shore current, and nearshore circulation. Wave celerity is a key parameter in wave breaking especially for the mass transportation, the energy dissipation during the wave breaking event, and the wave breaking index calculation, for example. There are many models to calculate the wave celerity during the breaking event (bore propagation speed) and it is well known that the bore propagation speed is faster than that is given by linear wave theory. But Okamoto et al. (2008) found the bore propagation speed at the termination location of wave breaking becomes much slower than the theoretical estimation when the termination of wave breaking occurs on inversely sloped bottom. In this paper, the bore propagation speed at the termination location of wave breaking is examined with the experimental data collected in a wave tank with simplified bar-trough beach settings. Comparisons with theoretical models are presented. Fourier analysis is performed to investigate the evolution of higher harmonics and synthesized time series, which is a simple summation of linear wave components, is constructed by using the obtained information to calculate the wave celerity during and after the wave breaking. Calculation result reveals that as the breaking wave approaches to the termination, the bore propagation speed decreases towards the value which can be explained by the existence of slowly and independently propagating higher harmonics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1339</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1339/pdf_327</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

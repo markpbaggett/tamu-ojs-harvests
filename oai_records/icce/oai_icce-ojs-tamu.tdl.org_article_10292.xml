@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10292</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENTS IN STORM SURGE ESTIMATION USING SURROGATE MODELING TECHNIQUES</dc:title>
+	<dc:creator xml:lang="en">Taflanidis, Alexandros</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Jize</dc:creator>
+	<dc:creator xml:lang="en">Kyprioti, Aikaterini</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Kijewksi-Correa, Tracy</dc:creator>
+	<dc:description xml:lang="en">Numerical advances in storm surge prediction over the past couple of decades have produced high-fidelity simulation models that permit a detailed representation of hydrodynamic processes and therefore support high accuracy forecasting. Unfortunately, the computational burden of such numerical models is large, requiring thousands of CPU hours for each simulation, something that limits their applicability for hurricane risk assessment. Use of Kriging-based surrogate modeling techniques has been examined to address the aforementioned challenge Jia et al. [2016], Zhang et al. [2018]. This approach can provide fast predictions using a database of high-fidelity, synthetic storms, with the goal of maintaining the accuracy of the numerical model utilized to produce this database, while offering computational efficiency. This contribution overviews initially recent research developments for the application of Kriging for storm surge predictions. Topics discussed include: enhancement of the initial database for nodes (i.e., geographical locations) that have remained dry in some of the database storms; adaptive selection of storms forming the initial database; use of different surrogate modeling tuning techniques and their impact on the metamodel predictive capabilities for storm surge estimation; implementation for estimation of impact due to near-shore processes (breaking waves), something that requires coupling of different numerical models.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/vL38Kv3kLDM</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10292</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10292/9578</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Alexandros Taflanidis, Jize Zhang, Aikaterini Kyprioti, Andrew Kennedy, Tracy Kijewksi-Correa</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

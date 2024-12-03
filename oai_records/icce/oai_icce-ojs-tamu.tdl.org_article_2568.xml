@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2568</identifier>
+				<datestamp>2021-01-17T04:22:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF THE FLOW INDUCED BY AIR-BUBBLE SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Kobus, Helmut E.</dc:creator>
+	<dc:subject xml:lang="en">air bubbles</dc:subject>
+	<dc:subject xml:lang="en">air bubble system</dc:subject>
+	<dc:subject xml:lang="en">flow analysis</dc:subject>
+	<dc:description xml:lang="en">The pattern of vertical velocities induced by an orifice discharging air into water can be represented by Gaussian distribution curves with a linear spread in the vertical except for the regions near the orifice and close to the free surface. An analytical treatment considering the momentum-flux increase due to the buoyancy of the air together with experimental information about the spread of the velocity profiles and the mean rising speed of the air bubble stream, which has been obtained from velocity and density measurements over a wide range of conditions, leads to a complete description of the flow field. The ratio of the water volume flux to the air discharge rate, which has been proposed as an efficiency criterion, is now at hand as a function of depth and air supply for both single orifices and rows. The experimental evidence supports the analysis well and suggests that extrapolation to larger water depths and air supplies should be permissible, which would allow approximate predictions of the volume flux for any air-bubble system.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2568</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2568/2233</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

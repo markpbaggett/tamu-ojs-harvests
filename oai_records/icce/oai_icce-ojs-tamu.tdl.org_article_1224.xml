@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1224</identifier>
+				<datestamp>2023-10-04T04:33:41Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INFLUENCE OF STOKES DRIFT ON SALT WEDGE INTRUSION EVALUATED USING FULLY-NONLINEAR AND STRONGLY-DISPERSIVE WAVE EQUATIONS</dc:title>
+	<dc:creator xml:lang="en">Nakayama, Keisuke</dc:creator>
+	<dc:creator xml:lang="en">Shintani, Tetsuya</dc:creator>
+	<dc:creator xml:lang="en">Kakinuma, Taro</dc:creator>
+	<dc:creator xml:lang="en">Maruya, Yasuyuki</dc:creator>
+	<dc:creator xml:lang="en">Yonome, Yoshinori</dc:creator>
+	<dc:creator xml:lang="en">Yonemoto, Mitsuaki</dc:creator>
+	<dc:creator xml:lang="en">Nakauchi, Isao</dc:creator>
+	<dc:subject xml:lang="en">variable principle</dc:subject>
+	<dc:subject xml:lang="en">radiation stress</dc:subject>
+	<dc:subject xml:lang="en">salt-wedge intrusi</dc:subject>
+	<dc:description xml:lang="en">This paper describes the influence of surface waves on salt-wedge intrusion in terms of radiation stress. Radiation stress may increase salt-wedge intrusion when surface waves propagate up a river. This study thus aims to reveal the effect of radiation stress on the distance of salt-wedge intrusion by using fully nonlinear strongly dispersive internal wave equations and three-dimensional numerical computation model, Fantom3D. Fully nonlinear strongly dispersive internal wave model reveals the possibility that large radiation stress is induced near the river mouth and increases the distance of salt-wedge intrusion. Three-dimensional numerical model also demonstrates that there is a significant difference in the intrusion distance by taking into account radiation stress.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1224</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1224/pdf_65</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

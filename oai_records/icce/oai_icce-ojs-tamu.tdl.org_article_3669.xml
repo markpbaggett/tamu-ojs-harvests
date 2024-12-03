@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3669</identifier>
+				<datestamp>2021-01-19T22:27:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATIONS OF A NUMERICAL SHALLOW WATER WAVES MODEL</dc:title>
+	<dc:creator xml:lang="en">Hauguel, A.</dc:creator>
+	<dc:creator xml:lang="en">Pechon, Ph.</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">shallow model</dc:subject>
+	<dc:description xml:lang="en">This paper relates three applications of a numerical model of storm waves in shallow waters developed in LNH. The equations are recalled at first and then the applications performed are presented. The numerical model has been used in the case of the port of Fecamp, on the English Channel coast, on which the results of a scale model were available. The computed results compare well with the scale model measurements. The second case is the s imulation of a t sumami induced by a submarine landslide which appeared in 1979 near Nice ; the mode 1 has permitted the simulation of the rising of the wave. The last applications consisted in simulating breaking waves by introducing a dispersion term in the equations. This simulation has been tested with a one-dimensional model at first. The results show that the numerical model reproduces the elevation of the mean sea surface due to the loss of energy in breakings. Then the longshore current induced by breaking waves coming obliquely over a rectilinear sloping shore has been reproduced with a two dimensional model. The results show that the model is able to compute with a good accuracy re fraction, diffraction and reflection, and that it appears to be very interesting for longshore currents simulation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3669</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3669/3352</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

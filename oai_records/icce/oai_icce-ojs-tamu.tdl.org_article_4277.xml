@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4277</identifier>
+				<datestamp>2021-01-19T18:55:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISONS OF NUMERICAL RANDOM WAVE SIMULATORS</dc:title>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:creator xml:lang="en">Sanchez-Carratala, Carlos R.</dc:creator>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">wave simulator</dc:subject>
+	<dc:subject xml:lang="en">numerical wave simulator</dc:subject>
+	<dc:description xml:lang="en">A review of unidimensional numerical random sea simulators is provided, centering the attention on the measurement of distortions introduced by the different simulation techniques. Simulators by wave superposition are analyzed, with the conclusion being that they generate significant distortions on the realizations when the number of simulated points are larger than two times the number of wave components. Composed simulators are proposed for the purpose of generating long non-periodic realizations using FFT algorithms. In order to qualify simulators, a justification, based on physical properties of random waves, is given to use mn&gt; m1» Qp and mo as the best spectral parameters to characterize processes. Mean values and variabilities of wave heights and periods are controlled by these parameters. A new robust technique is developed to estimate the parameters of an AR(p) model corresponding to a given target spectrum, S 77 ( f ). MA(q) and ARMA(p,q) approximations are studied. The source of pseudo-random numbers to generate the input white noise has a critical impact on the statistical properties of the output.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4277</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4277/3958</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

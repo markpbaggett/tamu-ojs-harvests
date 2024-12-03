@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6683</identifier>
+				<datestamp>2023-10-04T03:02:56Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NONUNIFORM ALONGSHORE SEDIMENT TRANSPORT INDUCED BY COASTLINE CURVATURE</dc:title>
+	<dc:creator xml:lang="en">López-Ruiz, Alejandro</dc:creator>
+	<dc:creator xml:lang="en">Ortega-Sánchez, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Baquerizo, Asunción</dc:creator>
+	<dc:creator xml:lang="en">Navidad, David</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel ngel</dc:creator>
+	<dc:subject xml:lang="en">Alongshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">shoreline curvature</dc:subject>
+	<dc:subject xml:lang="en">shoreline undulations</dc:subject>
+	<dc:description xml:lang="en">This work proposes an expression for the alongshore sediment transport and a one-line type model to analyze the importance that the curvature of the shoreline and the bathymetric contours,  and the associated alongshore wave energy gradients have in the evolution of the coastline and in the development of shoreline undulations. This model characterizes the alongshore wave energy gradients by means of the surf zone width variations and does not make any restriction on the shoreline curvature. The shoreline undulations of two different types of coast are investigated: a curvilinear coast in a prograding spit front, and an erosional stretch of coast adjacent to a river mouth. The results for the first one are in good agreement with observations. For the erosional coast good qualitative results are obtained, although a more intensive study is required.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6683</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6683/pdf_658</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

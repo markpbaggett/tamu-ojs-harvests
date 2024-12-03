@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5216</identifier>
+				<datestamp>2021-01-19T13:34:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE GROUPS IN THE SURF ZONE: MODEL &amp; EXPERIMENTS</dc:title>
+	<dc:creator xml:lang="en">Veeramony, J.</dc:creator>
+	<dc:creator xml:lang="en">Svendsen, I.A.</dc:creator>
+	<dc:subject xml:lang="en">wave groups</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:description xml:lang="en">Experiments were conducted with regular wave groups incident on a plane beach to analyze the behaviour of the groups in the breaking region and in the surf-zone. The groups were composed of individual cnoidal waves. Emphasis was laid on obtaining measurements in the breaking region and in the surf-zone. It was found that the location of the start of breaking of the individual waves was affected by the groupiness of the waves. The structure of the groups were also seen to be different inside the surf-zone, which changes the forcing for the long wave. The long wave motion is forced at the group frequency and can be resolved into two components, an incident forced wave, which varies along the tank and a free standing wave. The standing wave is generated because the free outgoing long wave is reflected at the wavemaker, where there was no absorption of waves. A conservation model was developed using the kinematic conservation equation and the energy conservation equation. The dispersion relation was used to close the system of equations. Cnoidal theory was used in the shoaling region and bore theory was used in the surf-zone. It was found that the model accurately predicts the group structure and the individual wave location in the shoaling region, but does not do well in the surf-zone.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5216</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5216/4894</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

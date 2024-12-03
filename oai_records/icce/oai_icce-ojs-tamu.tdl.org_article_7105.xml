@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7105</identifier>
+				<datestamp>2021-01-19T05:20:13Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF ELONGATION AND MERGING OF BAY MOUTH SAND SPITS USING THE BG MODEL</dc:title>
+	<dc:creator xml:lang="en">Watanabe, Shusuke</dc:creator>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Serizawa, Masumi</dc:creator>
+	<dc:creator xml:lang="en">Miyahara, Shiho</dc:creator>
+	<dc:subject xml:lang="en">Bay mouth</dc:subject>
+	<dc:subject xml:lang="en">sand spit</dc:subject>
+	<dc:subject xml:lang="en">BG model</dc:subject>
+	<dc:subject xml:lang="en">prediction of beach changes</dc:subject>
+	<dc:description xml:lang="en">The elongation and merging of bay mouth sand spits due to waves were numerically simulated using the BG model (a three-dimensional model for predicting beach changes based on Bagnold's concept). A bay separated by sandy headlands on both sides was assumed, and the topographic changes were predicted by the model. The wave-sheltering effect of the sand spit located offshore of the other sand spit played an important role in the mergence of the sand spits. The predicted results for the formation of sand spits were in good agreement with those given by Zenkovich (1967).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7105</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7105/pdf_409</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

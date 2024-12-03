@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7779</identifier>
+				<datestamp>2021-01-20T04:04:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PORT OPERATIONALITY AND SAFETY ANALYSIS UNDER UNCERTAINTY</dc:title>
+	<dc:creator xml:lang="en">García Morales, Rafael M.</dc:creator>
+	<dc:creator xml:lang="en">Baquerizo, Asunción</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel .</dc:creator>
+	<dc:subject xml:lang="en">uncertainty</dc:subject>
+	<dc:subject xml:lang="en">simulation model</dc:subject>
+	<dc:subject xml:lang="en">optimization</dc:subject>
+	<dc:subject xml:lang="en">operational performance</dc:subject>
+	<dc:subject xml:lang="en">safety</dc:subject>
+	<dc:description xml:lang="en">A methodology for port management is proposed in this work. It takes into account the uncertainty of the port perfor- mance due to the action of random forcing agents, namely, climate agents and exploitation agents. It can be used to obtain optimal solutions for port management problems in which operationality and safety are involved. Multivariate simulation techniques are used to obtain realizations of the random processes that characterize the forcing agents. The port performance is then evaluated by a simulation model. The methodology is applied in a hypothetical port in which the influence of the climate thresholds on operational performance and safety is evaluated by the port simulation model. An optimization problem is then formulated and solved in order to reduce waiting times and costs without compromise the safety levels.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7779</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7779/pdf_890</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1163</identifier>
+				<datestamp>2023-10-04T04:07:21Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPATIAL AND TEMPORAL VARIABILITY OF LONGSHORE TRANSPORT ALONG GOLD COAST, AUSTRALIA</dc:title>
+	<dc:creator xml:lang="en">Splinter, Kristen D</dc:creator>
+	<dc:creator xml:lang="en">Golshani, Aliasghar</dc:creator>
+	<dc:creator xml:lang="en">Stuart, Greg</dc:creator>
+	<dc:creator xml:lang="en">Tomlinson, Rodger</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">longshore transport</dc:subject>
+	<dc:subject xml:lang="en">shoreline change</dc:subject>
+	<dc:subject xml:lang="en">climate variability</dc:subject>
+	<dc:subject xml:lang="en">Gold Coast</dc:subject>
+	<dc:subject xml:lang="en">Australia</dc:subject>
+	<dc:description xml:lang="en">Spatial and temporal variability of longshore transport potential for a 35-km stretch of sandy coastline on the east coast of Australia is examined using a 25-year data set. Six-hourly offshore wave data is binned into yearly wave classes using a global k-means algorithm that accounts for wave height, period, and direction simultaneously.  Wave class estimates are shoaled into the nearshore using MIKE 21 Spectral Wave (SW) model. Longshore transport is calculated using the formulas of Kamphuis (1991; 2002) and Bayram et al. (2007) and show good agreement with previously published estimates for the Gold Coast, suggesting the wave classification scheme sufficiently represents the variability in yearly wave data.  Results show large temporal and spatial variability of transport potential along the coastline. Spatial variation is attributed to shoreline orientation and wave exposure, while temporal variability is significantly correlated with variations in the Southern Oscillation Index.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1163</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1163/pdf_222</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

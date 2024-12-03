@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7745</identifier>
+				<datestamp>2021-01-20T04:07:26Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVOLUTION OF A PERCHED NOURISHED BEACH: COMPARISON BETWEEN FIELD DATA AND NUMERICAL RESULTS</dc:title>
+	<dc:creator xml:lang="en">Faraci, Carla</dc:creator>
+	<dc:creator xml:lang="en">Scandura, Pietro</dc:creator>
+	<dc:creator xml:lang="en">Foti, Enrico</dc:creator>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">submerged reef</dc:subject>
+	<dc:subject xml:lang="en">equilibrium beach profile</dc:subject>
+	<dc:description xml:lang="en">The morphodynamics of a perched nourished beach, located near the town of Belvedere Marittimo in the South-West coast of Italy, has been analyzed by means of the Xbeach numerical model. The results have been compared with several surveys available for this site. It has been found that generally the numerical results well reproduce the slope of the beach profile, though they over-predict the erosion in the onshore part of the beach. Such an overprediction is more important when the real wave climate measured near the site is used to run the numerical model, while the use of a yearly averaged wave produces results more in accordance with the field data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7745</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7745/pdf_879</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

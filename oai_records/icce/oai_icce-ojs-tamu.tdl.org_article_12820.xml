@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12820</identifier>
+				<datestamp>2023-09-01T15:13:28Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SATELLITE DERIVED BATHYMETRY FOR MONITORING NEARSHORE DYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Kras, Etiënne</dc:creator>
+	<dc:creator xml:lang="en">Luijendijk, Arjen</dc:creator>
+	<dc:creator xml:lang="en">Donchyts, Gennadii</dc:creator>
+	<dc:creator xml:lang="en">Santinelli, Giorgio</dc:creator>
+	<dc:creator xml:lang="en">Langemeijer, Jaap</dc:creator>
+	<dc:creator xml:lang="en">Gwee, Robyn</dc:creator>
+	<dc:creator xml:lang="en">Rodenas, Antonio Moreno</dc:creator>
+	<dc:description xml:lang="en">Research on the physical, ecological, and environmental processes in the coastal zone traditionally rely on the availability of accurate seafloor topography (bathymetry) information. This information becomes increasingly important as coastal environments are under pressure by climate change and anthropogenic developments. Nonetheless, the bathymetry of shallow nearshore waters is only marginally monitored by cost- and time-intensive survey techniques that are dependent on in-field environmental conditions. Here, Satellite Derived Bathymetry (SDB) offers a valuable alternative to enrich available bathymetric data in both data sparse and data rich environments, reducing the need for in-situ measurements in the future. The high spatial and temporal resolution of satellite imagery yields a more comprehensive understanding of our coast and its dynamics. Yet, consistently mapping temporal change is still challenging, as the majority of currently available empirical SDB algorithms are heavily dependent on in-situ data for calibration purposes. In this study we present a methodology for assessing nearshore horizontal morphodynamics using the uncalibrated reflectance signal from satellite sensors while focusing on the Friese Zeegat, a tidal inlet of the Dutch Wadden Sea.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12820</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12820/12093</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Etiënne Kras, Arjen Luijendijk, Gennadii Donchyts, Giorgio Santinelli, Jaap Langemeijer, Robyn Gwee, Antonio Moreno Rodenas</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8462</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TEST OF EMPIRICAL SEDIMENT TRANSPORT RELATIONS AGAINST EXPERIMENTAL SWASH DATA UNDER THE NON-CAPACITY MODELING FRAMEWORK</dc:title>
+	<dc:creator xml:lang="en">Hu, Peng</dc:creator>
+	<dc:creator xml:lang="en">Tan, Liming</dc:creator>
+	<dc:creator xml:lang="en">Xie, Jiafeng</dc:creator>
+	<dc:creator xml:lang="en">He, Zhiguo</dc:creator>
+	<dc:description xml:lang="en">Swash sediment transport and beach deformation has received great attention in the past two decades. Quantification of swash-induced sediment transport rate is of vital importance for accurate prediction of beach deformation in the swash zone. Two empirical parameters are involved in this quantification, empirical relations for sediment transport capacity and the bed shear stress that may be used in the former. Since the swash zone is highly unsteady, of short cross-shore distance, sediment transport in this zone may be of high possibility to be lag of the flow variation. Thus we have firstly developed a non-capacity sediment transport model for the swash zone. This model appreciates the fact that the actual sediment transport rate may not be necessarily equal to the sediment transport capacity of the flow. In contrast to traditional capacity models that calculate sediment transport rate using directly empirical relations (Hu et al. 2015), the non-capacity model uses the advection-diffusion equation to calculate depth-averaged sediment concentration firstly, and afterwards compute sediment transport rate as flow depth*velocity*concentration. We have also noted that some empirical relations for sediment transport capacity may predict physically unrealistic high values of sediment concentration in the swash zone. This is attributed to the vanishing water depth in the swash zone, whereas existing empirical relations are developed for relatively large water depths (Hu et al. 2015; Li et al. 2017).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8462</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.81</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.81</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8462/7265</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8462/7900</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

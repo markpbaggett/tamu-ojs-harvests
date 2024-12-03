@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2770</identifier>
+				<datestamp>2021-01-20T03:50:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENERGY TRANSFER MECHANISM FOR FINITE AMPLITUDE WAVES</dc:title>
+	<dc:creator xml:lang="en">Zagustin, Konstantin</dc:creator>
+	<dc:subject xml:lang="en">energy transfer</dc:subject>
+	<dc:subject xml:lang="en">finite amplitude waves</dc:subject>
+	<dc:description xml:lang="en">A basic mechanism is proposed to explain the growth of finite amplitude water waves due to the effect of normal stresses. The proposed mechanism can probably be applied to the whole range of wave's growth, starting from a small amplitude wave up to the case of a limiting and breaking wave condition. The transfer of energy from air flow to the water wave is explained by the existance of a circulation flow pattern above the water surface, which is responsable for a phase-lag of the normal stress distribution in relation to the wave's profile. Such a circulation flow pattern extends throughout the whole wave length and it is quite different from the classical concept of flow separation, as postulated by Jeffrey's. The difference becomes as a result of considering a different boundary condition at the interface. Experiments performed on wavy models with moving boundary conditions, for small amlitude waves and finite amplitude waves showed that the normal stress distribution is similar in both cases, and displays a noticible phase-lag with respect to the wave's profile. It was observed that for both cases a circulating flow pattern was present above the water surface, which indicated some relation between the flow vorticity above the wave and the normal stress distribution. To prove the role of circulation in the energy transfer mechanism, a model was built with water and mercury as working fluids. In this model the interface was initially non disturbed, when both fluids move in opposite directions. However, when a forced circulation was applied by means of a variable speed rotor located above the interface, a wave would form. The wave would be inicially of small amplitude, but with an increase of circulation would become of finite amplitude, then reach the angular crest condition and finally would reproduce the breaking condition at the crest. The obtained experimental results proved the importance of the circulation flow pattern present above the wave surface, and suggest that a mathematical model could be formulated based on vorticity analysis, which would be able to provide an explanation for the energy transfer mechanism due to normal stresses at all stages of wave's growth.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2770</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.140</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 140</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2770/2434</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

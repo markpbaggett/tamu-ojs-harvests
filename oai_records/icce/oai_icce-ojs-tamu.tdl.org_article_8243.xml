@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8243</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF WAVE-CURRENT INTERACTION ON WAVES AND CIRCULATION OVER GEORGES BANK DURING STORM EVENTS</dc:title>
+	<dc:creator xml:lang="en">Xie, Dongmei</dc:creator>
+	<dc:creator xml:lang="en">Zou, Qingping</dc:creator>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">ADCIRC</dc:subject>
+	<dc:subject xml:lang="en">wave-induced current</dc:subject>
+	<dc:subject xml:lang="en">Georges Bank</dc:subject>
+	<dc:description xml:lang="en">The coupled spectral wave and circulation model SWAN+ADCIRC was applied to investigate the wave-current interaction during storm events over Georges Bank, a large shallow submarine bank on the eastern seaboard of North America that separates Gulf of Maine from the North Atlantic Ocean. The current over the Georges Bank displays a rotary feature over a tidal cycle. The wave-induced current is in the same order as the wind-driven current and generally in the same direction as the depth-averaged tidal current, indicating strong nonlinear wave-current interaction. The magnitude of wave-induced current reaches 0.07 m/s at low tide and 0.2 m/s at the other three tidal phases. The effect of wave-current interaction on waves at the four tidal phases is also analyzed. The role of Georges Bank in dissipating wave energy is most significant at rising mid-tide and high tide, which is close to the storm peak. At rising mid-tide, the wave height is decreased by 0.3 m to 0.5 m over the majority of the bank when the wave propagates in the same direction as the current. At falling-mid tide, the wave height is increased by 0.5 m at the southern flank and decreased by 0.5 m at the northern flank of the bank.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8243</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8243/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

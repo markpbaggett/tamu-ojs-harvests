@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8589</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF WATER LEVEL VARIATIONS ON THE STABILITY OF ROCK ARMOURED SLOPES</dc:title>
+	<dc:creator xml:lang="en">van Gent, Marcel R.A.</dc:creator>
+	<dc:creator xml:lang="en">Zwanenburg, Suzanna A.A.</dc:creator>
+	<dc:creator xml:lang="en">Kramer, Jan</dc:creator>
+	<dc:description xml:lang="en">Physical model tests on the stability of rock armoured slopes have been performed to demonstrate the importance of water level variations during a storm, due to a tide or a storm surge. For the stability of rock armoured slopes also the importance of the sequence of storms at various water levels has been studied. The test results indicate that a smooth sinusoidal water level variation leads to an increase in damage compared to the same wave conditions at a constant water level. Furthermore, a stepwise approach of the sinusoidal water level elevation leads to other results than the approach with a continuous water level variation, whereas the continuous water level variation resembles the peak of a storm or the tidal water level variation better than a stepwise approach. If storms with different water levels attack the armour layer, the damage is generally smaller than if all storms attack the armour layer at the same water level. Furthermore, the results have been discussed based on earlier analyses where the statistics of rock armoured slopes have been addressed and the importance of the length effect has been illustrated using a method to apply results from physical model tests to real structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8589</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8589/7393</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

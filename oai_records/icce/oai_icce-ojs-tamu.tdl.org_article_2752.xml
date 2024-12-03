@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2752</identifier>
+				<datestamp>2021-01-20T03:46:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PRELIMINARY STUDY OF STORM SURGES IN HUDSON BAY</dc:title>
+	<dc:creator xml:lang="en">Yuen, K.B.</dc:creator>
+	<dc:creator xml:lang="en">Murty, T.S.</dc:creator>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">Hudson Bay</dc:subject>
+	<dc:description xml:lang="en">In view of resource exploration, hydro-electric power development and other activities, there is a clear need for a better understanding of the hydrodynamics of Hudson Bay. One particular area that has received little attention in the past is storm surges. It is likely that a storm surge prediction will be very useful in the future and towards this goal a two-dimensional homogenous model has been constructed. A hindcast of the storm of October 15, 1969 is presented here. The calculated surge for Churchill, Manitoba compares favourably with observed residues. The overall response of the basin and the types of oscillations that are produced are also described here. In addition, the differences in behavior between James Bay and Hudson Bay proper are demonstrated. Finally the results also indicate the steady circulation which the storm has produced.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2752</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2752/2416</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

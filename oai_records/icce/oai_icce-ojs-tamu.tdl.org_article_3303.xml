@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3303</identifier>
+				<datestamp>2021-01-20T00:30:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE REFRACTION ACROSS A SHEARING CURRENT</dc:title>
+	<dc:creator xml:lang="en">Jonsson, Ivar G.</dc:creator>
+	<dc:creator xml:lang="en">Skovgaard, Ove</dc:creator>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">shearing current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">Conservation of wave crests and wave action is introduced to yield the new wave length L2 and new wave height H2 as a wave train of plane incidence crosses a shearing current; refraction angle a is determined by Snell's law. Input parameters are water depth h (assumed constant), absolute wave period Ta, angle of incidence aj, current velocities U&gt; and U (see Fig 1), and initial wave height H . Solution domains are also given, analytically and graphically. The numerical results for L., L,, a,, and H2 are presented non-dimensionally in a number of figures, with dimensionless input parameters. As a direct illustration of the effect of the shearing current, a sequence of graphs are presented, showing in dimensional form the variation of L2 , a2 , H2, and steepness S2 = H 2/L2 with U2 for fixed values of h, ctj, U^, Ta, and Hj. Large positive and negative currents can increase the steepness significantly. The variation of S2/Sj with Ta and h is finally depicted, demonstrating the "filtering" effect of a shearing current on waves. A numerical example shows how simple it is to calculate accurately quantities Lj, L2, a2, and H2.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3303</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3303/2971</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

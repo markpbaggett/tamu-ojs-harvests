@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6635</identifier>
+				<datestamp>2023-10-04T03:09:35Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LOW FREQUENCY WAVE RESONANCE IN FRINGING REEF ENVIRONMENTS</dc:title>
+	<dc:creator xml:lang="en">Pomeroy, Andrew William Mackay</dc:creator>
+	<dc:creator xml:lang="en">Van Dongeren, Ap</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Ryan</dc:creator>
+	<dc:creator xml:lang="en">van Thiel de Vries, Jaap</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Jan</dc:creator>
+	<dc:subject xml:lang="en">low-frequency waves</dc:subject>
+	<dc:subject xml:lang="en">coral reefs</dc:subject>
+	<dc:subject xml:lang="en">fringing reefs</dc:subject>
+	<dc:subject xml:lang="en">resonance</dc:subject>
+	<dc:description xml:lang="en">Low frequency wave resonance has been postulated to enhance damage to coral reef protected coastlines during storm events. This paper uses the numerical model XBeach to examine the dynamics that contribute to resonance that have been previously observed on a fringing reef on Guam during tropical storm Man-Yi (Péquignet et al., 2009). The methods to identify resonance in numerical (or field data) are comprehensively reviewed with three indicators of resonance proposed based upon data obtained at two locations in the model domain: 1. The water surface elevation must be highly coherent, 2. The phase difference must (closely) correspond to 0° or 180°, and 3. Amplification of the signal must be observed between the reef crest and the shoreline. XBeach simulations demonstrated that resonance could be reproduced under 'normal' wave conditions, but only when bottom friction was minimal and hence values that were atypically low for coral reefs. However, under tropical storm Man-Yi conditions, resonance was reproduced with reasonable bottom friction values. A sensitivity analysis demonstrated that, although the frequency associated with resonance was not affected by the choice of bottom friction coefficients, the magnitude of the amplification was significantly affected. Ongoing research is being undertaken to investigate the resonant response for a wider variety of reef morphologies and incident wave forcing conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6635</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6635/pdf_617</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

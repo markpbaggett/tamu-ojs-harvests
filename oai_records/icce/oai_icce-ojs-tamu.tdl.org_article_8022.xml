@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8022</identifier>
+				<datestamp>2021-01-19T04:28:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SWASH ZONE BASED REFLECTION DURING ENERGETIC WAVE CONDITIONS AT A DISSIPATIVE BEACH: TOWARD A WAVE-BY-WAVE APPROACH</dc:title>
+	<dc:creator xml:lang="en">Almar, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Catalan, Patricio</dc:creator>
+	<dc:creator xml:lang="en">Ibaceta, Raimundo</dc:creator>
+	<dc:creator xml:lang="en">Blenkinsopp, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Cienfuegos, Rodrigo</dc:creator>
+	<dc:creator xml:lang="en">Villagran, Mauricio</dc:creator>
+	<dc:creator xml:lang="en">Aguilera, Juan Carlos</dc:creator>
+	<dc:creator xml:lang="en">Castelle, Bruno</dc:creator>
+	<dc:subject xml:lang="en">Mataquito</dc:subject>
+	<dc:subject xml:lang="en">Maule Region</dc:subject>
+	<dc:subject xml:lang="en">Chile</dc:subject>
+	<dc:subject xml:lang="en">beach reflection</dc:subject>
+	<dc:subject xml:lang="en">incoming and outgoing wave separation</dc:subject>
+	<dc:subject xml:lang="en">swash measurements technique</dc:subject>
+	<dc:subject xml:lang="en">video</dc:subject>
+	<dc:subject xml:lang="en">Lidar</dc:subject>
+	<dc:description xml:lang="en">This paper presents a 11-day experiment conducted at the high-energy dissipative beach of Mataquito, Maule Region, Chile. During the experiment, offshore significant wave height ranged 1-4 m, with persistent long period up to 18 s and oblique incidence. Wave energy reflection value ranged from 1 to 4 %, and results show that it is highly linked to both incoming wave characteristics and swash zone beach slope, and is well correlated to a swash-slope based Iribarren number. The swash acting as a low-pass filter in the reflection mechanism, our results show that the cut-off period is better determined by swash slope rather than incoming wave's period. A new low cost technique for observing high-frequency swash hydro-morphodynamics is introduced and validated using LIDAR measurements. A good agreement is found. Separation of uprush and backswash components using the Radon Transform illustrates the low-frequency filtering effect. These results show the key role played by swash mechanism in the reflection rate and frequency selection. More investigation is needed to describe the reflection process and its link with shoreface evolution, moving toward a swash-by-swash approach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8022</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8022/pdf_802</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

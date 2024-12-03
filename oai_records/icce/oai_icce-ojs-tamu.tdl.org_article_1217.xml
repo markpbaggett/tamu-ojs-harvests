@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1217</identifier>
+				<datestamp>2023-10-04T04:34:08Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF DISSOLVED CARBON DIOXIDE CONCENTRATION IN A SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Otsuka, Junichi</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Yasunori</dc:creator>
+	<dc:creator xml:lang="en">Saruwatari, Ayumi</dc:creator>
+	<dc:subject xml:lang="en">Breaking waves</dc:subject>
+	<dc:subject xml:lang="en">Gas dissolution</dc:subject>
+	<dc:subject xml:lang="en">Gas transfer velocity</dc:subject>
+	<dc:subject xml:lang="en">Entrained bubbles</dc:subject>
+	<dc:description xml:lang="en">In this study, we measured dissolved carbon dioxide (D-CO2) concentration in a surf zone in a laboratory wave flume filled with freshwater and seawater using a glass electrode CO2 meter, and also observed the air-water turbulent flow field using Particle Image Velocimetry (PIV). D-CO2 concentration increased with time and the bore region reached a saturated state earlier than the transition region. The gas transfer velocity in the transition region was much higher than that in the bore region since the numerous entrained bubbles trapped within three-dimensional vortices significantly contribute to the gas dissolution into water in the transition region. The gas transfer velocity in a surf zone in freshwater were found to be higher than those in seawater. We estimated the gas transfer velocity in a surf zone from the turbulent energy in breaking waves and the Schmidt number. It was found that the gas transfer velocity could be roughly estimated from the turbulent energy in breaking waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1217</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1217/pdf_62</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

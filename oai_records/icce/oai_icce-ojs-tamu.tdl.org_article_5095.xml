@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5095</identifier>
+				<datestamp>2021-01-19T14:14:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HOW MUCH VELOCITY INFORMATION IS NECESSARY TO PREDICT SEDIMENT SUSPENSION IN THE SURF ZONE?</dc:title>
+	<dc:creator xml:lang="en">Jaffe, Bruce E.</dc:creator>
+	<dc:creator xml:lang="en">Rubin, David M.</dc:creator>
+	<dc:creator xml:lang="en">Sallenger, Asbury</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">suspension prediction</dc:subject>
+	<dc:subject xml:lang="en">velocity</dc:subject>
+	<dc:description xml:lang="en">The time-dependent response of sediment suspension to water velocity was explored by modeling field measurements collected in the surf zone during a large storm. Both linear and nonlinear input-output models were formulated with water velocity as input and suspended-sediment concentration as output. A sequence of past velocities (velocity history), in addition to velocity from the same instant as the measurement of suspended-sediment concentration, were used as input. The velocity-history length was allowed to vary. The models also incorporated a lag between input (instantaneous velocity or velocity history) and output (suspendedsediment concentration). Instantaneous horizontal water velocity, or velocity to a power, does not contain enough information to predict suspension in the surf zone. Unlike steady uniform flow, more than one velocity is necessary to parameterize pick-up and mixing of sediment into the water column. Using a velocity history improves predictions of suspension by more fully specifying flow conditions (including accelerations and changes in accelerations) responsible for suspension. Suspension in the future is better predicted than suspension at the same instant as velocity measurements. Incorporating such a lag between velocity and concentration improved predictions, with optimum lag time increasing with elevation above the sea bed (from 1.5 seconds at 13 cm to 8.5 seconds at 60 cm for linear models). These lags are largely due to the time for an observed flow event to effect the bed and mix sediment upward. Nonlinear models relating suspension to velocity do better than linear models using the same velocity history. Nonlinear models are able to exploit changing relationships between suspension and velocity history for different wave shapes. For the environmental conditions of our study, the optimal model (correlation coefficient of 0.58) used 3 seconds of velocity history (approximately one-quarter wave period) and a 1.5 second lag to predict suspension.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5095</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5095/4773</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

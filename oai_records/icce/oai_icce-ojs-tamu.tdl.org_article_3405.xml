@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3405</identifier>
+				<datestamp>2021-01-19T23:59:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE TRANSMISSION THROUGH TRAPEZOIDAL BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Madsen, Ole Secher</dc:creator>
+	<dc:creator xml:lang="en">Shusang, Paisal</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Sue Ann</dc:creator>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">trapezoidal breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater design</dc:subject>
+	<dc:description xml:lang="en">In a previous paper Madsen and White (1977) developed an approximate method for the determination of reflection and transmission characteristics of multi-layered, porous rubble-mound breakwaters of trapezoidal cross-section. This approximate method was based on the assumption that the energy dissipation associated with the wave-structure interaction could be considered as two separate mechanisms: (1) an external, frictional dissipation on the seaward slope; (2) an internal dissipation within the porous structure. The external dissipation on the seaward slope was evaluated from the semi-theoretical analysis of energy dissipation on rough, impermeable slopes developed by Madsen and White (1975). The remaining wave energy was represented by an equivalent wave incident on a hydraulically equivalent porous breakwater of rectangular cross-section. The partitioning of the remaining wave energy among reflected, transmitted and internally dissipated energy was evaluated as described by Madsen (1974), leading to a determination of the reflection and transmission coefficients of the structure. The advantage of this previous approximate method was its ease of use. Input data requirements were limited to quantities which would either be known (water depth, wave characteristics, breakwater geometry, and stone sizes) or could be estimated (porosity) by the design engineer. This feature was achieved by the employment of empirical relationships for the parameterization of the external and internal energy dissipation mechanisms. General solutions were presented in graphical form so that calculations could proceed using no more sophisticated equipment than a hand calculator (or a slide rule). This simple method gave estimates of transmission coefficients in excellent agreement with laboratory measurements whereas its ability to predict reflection coefficients left a lot to be desired.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3405</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.129</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 129</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3405/3085</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

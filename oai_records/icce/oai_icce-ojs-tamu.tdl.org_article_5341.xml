@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5341</identifier>
+				<datestamp>2021-01-19T12:53:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROTOTYPE MEASUREMENTS OF WAVE PRESSURES ON A WAVE SCREEN: COMPARISON TO PHYSICAL AND ANALYTICAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Martin, F.L.</dc:creator>
+	<dc:creator xml:lang="en">Losada, M.A.</dc:creator>
+	<dc:creator xml:lang="en">Vidal, C.</dc:creator>
+	<dc:creator xml:lang="en">Rato, J.L. Diaz</dc:creator>
+	<dc:subject xml:lang="en">wave pressure</dc:subject>
+	<dc:subject xml:lang="en">prototype measurements</dc:subject>
+	<dc:subject xml:lang="en">physical model</dc:subject>
+	<dc:subject xml:lang="en">analytical mode</dc:subject>
+	<dc:description xml:lang="en">The results of a field campaign of measurements of pressures on a prototype wave screen are analyzed and compared to the results of laboratory tests and to the calculation methods proposed by Jensen, 1984, Giinbak et al., 1984, and Martin et al. 1995. Both the field campaign data and the lab tests results seem to fit quantitatively better to the method of Martin et al. than to other proposed formulae. Moreover, the proposed modelization and description of the process employed to develop the method of Martin et al., 1995, are consistent to the measured pressure profiles and timepressure series.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5341</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5341/5019</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

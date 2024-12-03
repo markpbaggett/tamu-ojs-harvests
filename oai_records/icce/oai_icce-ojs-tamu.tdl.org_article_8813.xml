@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8813</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF NUMERICAL WAVE TANKS WITH VARIOUS TURBULENCE MODELS IN APPLICATION TO LONG WAVE MOTION AND ITS INTERACTION WITH A VERTICAL WALL</dc:title>
+	<dc:creator xml:lang="en">Cinar, Gizem Ezgi</dc:creator>
+	<dc:creator xml:lang="en">Guler, Hasan Gokhan</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:creator xml:lang="en">Baykal, Cuneyt</dc:creator>
+	<dc:creator xml:lang="en">Yalciner, Ahmet Cevdet</dc:creator>
+	<dc:description xml:lang="en">In this study, performances of interFoam solver of OpenFOAM and CADMAS-SURF computational tools with several turbulence modelling approaches on the numerical modelling of long wave motion and its interaction with a vertical wall based on the physical model experiments presented by Arikawa (2015) are investigated and compared. IHFOAM is used as wave generation and absorption boundary condition (Higuera et al., 2013). Three-dimensional simulations are carried out solving Reynolds Averaged Navier Stokes (RANS) with no-turbulence model and with k-Îµ and k-Ï‰ SST (Shear Stress Transport) turbulence models in addition to Large Eddy Simulations (LES). The aim of this study is to understand the contribution from turbulence modeling and compare the numerical wave tanks in long wave motion and their interaction with a vertical wall. The results are further discussed in scope of required accuracy in such engineering applications focusing on computational time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8813</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8813/7612</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8813/8152</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

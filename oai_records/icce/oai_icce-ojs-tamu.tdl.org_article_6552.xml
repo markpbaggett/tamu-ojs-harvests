@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6552</identifier>
+				<datestamp>2023-10-04T03:20:48Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">KD AND SAFETY FACTORS OF CONCRETE ARMOR UNITS</dc:title>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:creator xml:lang="en">Gómez-Martín, M. Esther</dc:creator>
+	<dc:subject xml:lang="en">mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">concrete armor unit</dc:subject>
+	<dc:subject xml:lang="en">Cubipod</dc:subject>
+	<dc:subject xml:lang="en">stability coefficient</dc:subject>
+	<dc:subject xml:lang="en">global safety factor</dc:subject>
+	<dc:description xml:lang="en">Recommended design KD are associated to implicit global safety factors to Initiation of Damage (IDa) and Initiation of Destruction (IDe). Zero-damage criterion is valid for double-layer armors of massive CAUs, but single-layer armors require a lower-than-zero damage criterion. A simple methodology is proposed to calculate design KD for Cubipod armors and to obtain reasonable explicit global safety factors to IDe and IDa when compared to benchmark CAUs. The stringent SF(IDe5%) is the lowest for double-layer trunk armors, higher for double-layer roundhead armors and the highest for single-layer trunk armors. Single-layer roundhead armors were not analyzed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6552</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6552/pdf_551</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

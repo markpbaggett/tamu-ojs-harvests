@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7020</identifier>
+				<datestamp>2023-10-04T02:44:49Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL AND EXPERIMENTAL DESCRIPTION OF THE FLOW, BOUNDARY LAYER AND BED EVOLUTION IN BORE-DRIVEN SWASH ON A COARSE SEDIMENT BEACH</dc:title>
+	<dc:creator xml:lang="en">Briganti, Riccardo</dc:creator>
+	<dc:creator xml:lang="en">Dodd, Nicholas</dc:creator>
+	<dc:creator xml:lang="en">Pokrajac, Dubravka</dc:creator>
+	<dc:creator xml:lang="en">O'Donoghue, Tom</dc:creator>
+	<dc:subject xml:lang="en">swash-zone morphodynamics</dc:subject>
+	<dc:subject xml:lang="en">coarse sediment beach</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">TVD numerical schemes</dc:subject>
+	<dc:description xml:lang="en">The paper presents the results of a comparison between a fully coupled numerical model for the hydro- and morphodynamics of the swash zone. The model solves simultaneously the Non-Linear Shallow Water Equations and the Exner equation for the bed updates. The model uses the simple Grass formula for the sediment transport and the momentum integral method for the bottom shear stress prediction. The laboratory tests were carried out at the University of Aberdeen swash facility and aimed at studying the hydrodynamics and sediment transport of a single, bore-generated swash event. The comparison is carried out in terms of water depth and horizontal velocity (depth average and profiles) and sediment transport. The model performs well in predicting these quantities, above all during the run-up.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7020</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7020/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

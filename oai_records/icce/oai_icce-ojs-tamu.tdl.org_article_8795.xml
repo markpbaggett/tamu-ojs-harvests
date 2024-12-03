@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8795</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMICS UNDER LARGE-SCALE REGULAR AND BICHROMATIC BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">van der A, Dominic</dc:creator>
+	<dc:creator xml:lang="en">van der Zanden, Joep</dc:creator>
+	<dc:creator xml:lang="en">Li, Ming</dc:creator>
+	<dc:creator xml:lang="en">Cooper, James</dc:creator>
+	<dc:creator xml:lang="en">Clark, Simon</dc:creator>
+	<dc:creator xml:lang="en">Eltard-Larsen, Bjarke</dc:creator>
+	<dc:creator xml:lang="en">Carstensen, Stefan</dc:creator>
+	<dc:creator xml:lang="en">Fuhrman, David</dc:creator>
+	<dc:creator xml:lang="en">Petrotta, Carmelo</dc:creator>
+	<dc:creator xml:lang="en">Faraci, Carla</dc:creator>
+	<dc:creator xml:lang="en">Scandura, Pietro</dc:creator>
+	<dc:creator xml:lang="en">Cáceres, Iván</dc:creator>
+	<dc:creator xml:lang="en">McLelland, Stuart</dc:creator>
+	<dc:creator xml:lang="en">Fromant, Guillaume</dc:creator>
+	<dc:creator xml:lang="en">Hurther, David</dc:creator>
+	<dc:creator xml:lang="en">Ruessink, Gerben</dc:creator>
+	<dc:creator xml:lang="en">Brinkkemper, Joost</dc:creator>
+	<dc:description xml:lang="en">Multiphase CFD models recently have proved promising in modelling cross†shore sediment transport and morphodynamics (Jacobsen et al 2014). However, modelling breaking wave turbulence remains a major challenge for these models, because it occurs at very different spatial and temporal length scales and involves the interaction between surface generated turbulence and turbulence generated in the bottom boundary layer. To an extent these challenges arise from a lack of appropriate experimental data, since most previous experimental studies involved breaking waves at small-scale, and have not permitted investigation of the turbulent boundary layer processes. Moreover, most existing studies have concentrated on regular waves, thereby excluding the flow and turbulence dynamics occurring at wave group time-scales under irregular waves within the surf zone. These limitations motivated a new experiment in the large-scale CIEM wave flume in Barcelona involving regular and irregular waves. The experiment was conducted in May-July 2017 within the HYDRALAB+ Transnational Access project HYBRID.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8795</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.90</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.90</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8795/7595</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8795/8143</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

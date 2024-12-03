@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10208</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CROSS-SHORE MODEL APPLICATION TO HASAKI BEACH, JAPAN: EVALUATION OF PARAMETER SETTING</dc:title>
+	<dc:creator xml:lang="en">Kato, Koshi</dc:creator>
+	<dc:creator xml:lang="en">Udo, Keiko</dc:creator>
+	<dc:description xml:lang="en">Japan's coasts is being suffered by significant erosion. There is already a high demand to protect coasts from the erosion but climate change threatens further erosion. Udo and Takeda (2017) projected future beach loss in Japan due to sea-level rise using Bruun rule. However, its restrictive assumption that they probably do not exist in nature makes difficult to assess uncertainties of the projection results. In this paper, Cross-shore (CS) model developed by Larson et al. (2016), which is more realistic model considering the cross-shore sediment exchange, is applied to calibrate the parameter settings at Hasaki beach in Japan, and model applicability was evaluated.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/sOFr9Jb5a_s</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10208</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10208/9494</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Koshi Kato</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

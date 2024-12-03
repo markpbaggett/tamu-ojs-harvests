@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2877</identifier>
+				<datestamp>2021-01-20T03:00:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISTORTED MODELING OF DENSITY CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Sharp, J.J.</dc:creator>
+	<dc:subject xml:lang="en">distorted modeling</dc:subject>
+	<dc:subject xml:lang="en">density current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">The paper describes a method of choosing scales for the correct representation of convective spread in a hydraulic model involving densimetric phenomena. Although most prototype spreads are non-viscous in nature it is possible for small scale laboratory spreads to become affected by viscous influence when the spreading density front is remote from the outfall. This must be avoided if correct representation is to be achieved and the scales for the model must be chosen with this in view. It is often impossible to avoid viscous influence in a natural scale model of reasonable size and distortion of the vertical scale must then be employed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2877</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.130</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 130</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2877/2541</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

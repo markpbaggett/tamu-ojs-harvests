@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1290</identifier>
+				<datestamp>2023-10-04T03:47:19Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEPTH-INTEGRATED NUMERICAL MODELING OF TURBULENT TRANSPORT BY LONG WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Kim, Dae-Hong</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:subject xml:lang="en">turbulent transport</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq-type equations</dc:subject>
+	<dc:description xml:lang="en">In nature, flows are 3D phenomenon, but, in many geophysical settings, the water depth scale is smaller relative to the horizontal scale, such that horizontal 2D (H2D) motions dominate the flow structure. In those cases, especially in large domains, the H2D numerical model can be a practical and accurate tool - if the 3D physical properties can be included properly into the H2D model. Some of the H2D approaches in widespread use are the Boussinesq-type equations (BE) and shallow water equations (SWE) derived by a perturbation approach or depth averaging. The BE can account for some of the dispersive, turbulent and rotational flow properties frequently observed in nature (Kim et al., 2009). Also it has the ability of coupling currents and waves and can predict nonlinear water wave propagation over an uneven bottom from deep (or intermediate) water to the shallow water area. However, during the derivation of a H2D equation set, BE or SWE, some of the 3D flow properties like the dispersive stresses (Kuipers and Vreugdenhill, 1973) and the effects of the unresolved small scale 3D turbulence are excluded. Subsequently, there must be some limitations for predicting horizontal flow structures which can be generated through these neglected 3D effects. Naturally, any inaccuracy of the hydrodynamic flow model is reflected in the results of a coupled scalar transport model. In order to incorporate 3D turbulence effects into H2D flow models, various approaches have been proposed. Among many others, the stochastic backscatter model (BSM) proposed by Hinterberger et al. (2007) can account for the mechanism of inverse energy transfer from unresolved 3D turbulence to resolved 2D flow motions. Reasonable results were obtained by the proposed methods. Similar to the flow model, for scalar transport it is desired to develop a H2D model that can approximately account for the vertical deviations of concentration and velocity, and the associated mixing. For the accurate prediction of transport, an accurate numerical solver which can minimize numerical dispersion, dissipation and diffusion should be developed. Recently, the finite volume method (FVM) using approximate Riemann solvers has been developed and applied successfully. In this study, a depth-integrated model including subgrid scale mixing effects for turbulent transport by long waves and currents is presented. A fully-nonlinear, depth-integrated set of equations for weakly dispersive and rotational flow are derived by the long wave perturbation approach. The same approach is applied to derive a depth-integrated scalar transport model. The proposed equations are solved by a fourth-order accurate FVM. The depth-integrated flow and transport models are applied to typical problems which have different mixing mechanisms. Several important conclusions are obtained from the simulations: (i) From a mixing layer simulation it is revealed that the dispersive stress implemented with a stochastic BSM plays an important role for energy transfer. (ii) The proposed transport model coupled with the depth-integrated flow model can predict the passive scalar transport based on the turbulent intensity - not by relying on empirical constants. (iii) For near field transport simulations, the inherent limitation of the two-dimensional horizontal model to capture vertical structure is recognized. (iv) If the main mechanism of flow instability originates from relatively large-scale bottom topography features, then the effects of the dispersive stresses are less important.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1290</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1290/pdf_343</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

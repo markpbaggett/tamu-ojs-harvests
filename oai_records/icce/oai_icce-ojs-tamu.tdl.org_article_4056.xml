@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4056</identifier>
+				<datestamp>2021-01-19T20:11:11Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BIPERIODIC WAVES IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Scheffner, Norman W.</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">biperiodic waves</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:description xml:lang="en">The propagation of waves in shallow water is a phenomenon of significant practical importance. The ability to realistically predict the complex wave characteristics occurring in shallow water regions has always been an engineering goal which would make the development of solutions to practical engineering problems a reality. The difficulty in making such predictions stems from the fact that the equations governing the complex three-dimensional flow regime can not be solved without linearizing the problem. The linear equations are solvable; however, their solutions do not reflect the nonlinear features of naturally occurring waves. A recent advance (1984) in nonlinear mathematics has resulted in an explicit solution to a nonlinear equation relevant to water waves in shallow water. This solution possesses features found in observed nonlinear three-dimensional wave fields. The nonlinear mathematical formulation referred to above has never been compared with actual waves, so that its practical value is unknown. The purpose of the present investigation was to physically generate three-dimensional nonlinear waves and compare these with exact mathematical solutions. The goals were successfully completed by first generating the necessary wave patterns with the new U.S. Army Engineer Waterways Experiment Station, Coastal Engineering Research Center's (CERC) directional spectral wave generation facility. The theoretical solutions were then formed through the determination of a unique correspondence between the free parameters of the solution and the physical characteristics of the generated wave.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4056</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4056/3738</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

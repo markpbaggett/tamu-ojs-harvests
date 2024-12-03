@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4563</identifier>
+				<datestamp>2021-01-19T17:17:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LOCAL SCOUR AROUND A LARGE CIRCULAR CYLINDER DUE TO WAVE ACTION</dc:title>
+	<dc:creator xml:lang="en">Saito, Eiichi</dc:creator>
+	<dc:creator xml:lang="en">Sato, Shinji</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoyo</dc:creator>
+	<dc:subject xml:lang="en">local scour</dc:subject>
+	<dc:subject xml:lang="en">circulation</dc:subject>
+	<dc:subject xml:lang="en">wave circulation</dc:subject>
+	<dc:description xml:lang="en">In the construction of large-scale maritime structures, the prediction of scouring around the foundation is essential to examine the stability of the structures. The local scour around a large circular cylinder is closely related to problems encountered in the construction of offshore artificial island and large-scale piers and is thus very important from engineering point of view. The mechanism of local scours at the base of breakwaters as well as small circular cylinders has been investigated mainly by laboratory experiments [e.g. Irie and Nadaoka(1984), Bijker and Bruyn (1988)]. The mechanism of sand movement around a large circular cylinder was also investigated experimentally by Katsui and Toue(1988). However, there seems to be no model to predict bottom profile change around large-scale structures, the dimension of which is comparable to the wavelength, since the wave field around them is complicated owing to the presence of diffracted waves. The aim of the present study is to propose a numerical model to estimate the topographical change around a large circular cylinder installed in the wave field. The validity of the model will be confirmed with laboratory experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4563</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4563/4244</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

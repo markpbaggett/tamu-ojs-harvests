@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10331</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MICROPLASTICS TRANSPORT AND MIXING MECHANISMS IN THE NEARSHORE REGION</dc:title>
+	<dc:creator xml:lang="en">Abolfathi, Soroush</dc:creator>
+	<dc:creator xml:lang="en">Cook, Sarah</dc:creator>
+	<dc:creator xml:lang="en">Yeganeh-Bakhtiary, Abbas</dc:creator>
+	<dc:creator xml:lang="en">Borzooei, Sina</dc:creator>
+	<dc:creator xml:lang="en">Pearson, Jonathan</dc:creator>
+	<dc:description xml:lang="en">Microplastics (MP) are emerging pollutants in the marine environment with potential ecotoxicological effects on littoral and coastal ecosystems. A dominate contributing source of microplastic particles is the fragmentation of macroplastics from manufactured goods, alongside laundered synthetic material, abrasion of vehicle tyres and personal care products. The indiscriminate use of plastic and poor management of plastic waste pose serious threat to ecosystem functionality and resilience. Understanding the key underlying transport and mixing mechanisms which influence the behavior of microplastics and their environmental fate are crucial for identify potential microplastic fate-transport pathways from source to sink. This is fundamental for evaluating microplastic interactions and impact on ecosystems. This paper presents laboratory-based tracer measurements for solute and polyethylene (PE) microplastics in the presence of waves. The tests were undertaken in a wave tank equipped with an active absorption paddle-type wave-maker. Fluorescent dye was used to stain the PE particles using a novel staining technique. Rhodamine dye was used as a proxy for the transport of solute pollutants. The temporal and spatial behavior of both microplastics and solute across the nearshore zone was measured using submersible fiber optic fluorometers. Hydrodynamic conditions were designed to create monochromatic waves with a range of wave steepness Sop = 2 - 5 percent. Tracer measurements were conducted at three locations, seaward of the breaker region, breaker region and inner surf zone to provide a comprehensive understanding of mixing across the nearshore. The dispersion coefficients were determined for both solute and PE particles. The results indicate the dominant role of surface and bed generated turbulence in determining mixing and dispersion influenced by wave breaker type and width of the surf zone. The comparison of tracer data suggests that PE particles, with similar density to water, and the solute tracer have a similar transport and mixing behavior under the influence of waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10331</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10331/9617</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Soroush Abolfathi, Sarah Cook, Abbas Yeganeh-Bakhtiary, Sina Borzooei, Jonathan Pearson</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12910</identifier>
+				<datestamp>2023-10-03T03:11:38Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DYNAMIC RESPONSE OF 5, 10 AND 15 MW FIXED-BOTTOM OFFSHORE WIND TURBINES IN WIND AND WAVES</dc:title>
+	<dc:creator xml:lang="en">Kashima, Hiroaki</dc:creator>
+	<dc:creator xml:lang="en">Yoneyama, Haruo</dc:creator>
+	<dc:description xml:lang="en">In recent years, the offshore wind turbine industry has become more active in response to the movement toward carbon neutrality by 2050, and technological development of large-scale offshore wind turbines (OWTs) with improved power generation efficiency and high economic efficiency has progressed. However, little is known about their response characteristics and the relationship between the scale of power generation and the response characteristics of OWTs. The purpose of this study is to clarify the differences in the dynamic response of fixed-bottom OWTs with different power generation scales in wind and waves through load-coupled analysis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12910</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12910/12183</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Hiroaki Kashima, Haruo Yoneyama</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

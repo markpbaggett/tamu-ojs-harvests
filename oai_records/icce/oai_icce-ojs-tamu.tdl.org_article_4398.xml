@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4398</identifier>
+				<datestamp>2021-01-19T18:14:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A MODELING SYSTEM FOR COASTAL OIL SPILL RISK ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Liu, Shiao-Kung</dc:creator>
+	<dc:creator xml:lang="en">Leendertse, Jan J.</dc:creator>
+	<dc:subject xml:lang="en">oil spill</dc:subject>
+	<dc:subject xml:lang="en">risk analysis</dc:subject>
+	<dc:subject xml:lang="en">risk modeling</dc:subject>
+	<dc:description xml:lang="en">At present, the Prodhoe Bay oil field in Alaska contributes a substantial amount of the domestic oil production of the United States. Oil is also expected to be present on the continental shelf of Alaska, and it is estimated that approximatedly 28 percent of the total U. S. reserve is located beneath the shallow ice covered seas of the Alaskan continental shelf. To expolre and to exploit these oil rich resources, engineers are confronted with hostile oceanographic conditions such as high tides, waves, strong currents and sea ice. The same area is also rich in fishery resources. Being one of the most productive fishing grounds in the nothern Pacific, the potential ecological impact due to an oil spill is of a major concern. This paper describes the methologies used for the development of a modeling system for the oil risk analysis. The system is designed with generality in mind so it can be used for other coastal areas. The development of three dimensional models used in the modeling system described here have been published in the earlier International Coastal Engineering Conferences (Liu and Leendertse, 1982, 1984, 1986) and a report published recently by RAND (Liu and Leendertse, 1987). In the oil-spill risk analysis, these three dimensional hydrodynamic models are coupled to a two-dimensional stochastic weather model and an oil weathering model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4398</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.191</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 191</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4398/4079</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2720</identifier>
+				<datestamp>2021-01-20T03:59:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WATER CURRENT METER FOR MEAN FLOW MEASUREMENTS</dc:title>
+	<dc:creator xml:lang="en">Smith, David</dc:creator>
+	<dc:creator xml:lang="en">Harrison, W.</dc:creator>
+	<dc:subject xml:lang="en">current meter</dc:subject>
+	<dc:subject xml:lang="en">mean flow</dc:subject>
+	<dc:subject xml:lang="en">flow measurements</dc:subject>
+	<dc:description xml:lang="en">A drag-sphere water current meter with a 0 to 6 ft/sec range has been developed for velocity measurements of relatively steady flows A two-component strain-gage type force transducer is mounted within a 3 7-inch-diameter perforated drag sphere Drag force measurements are related to the flow velocity around the meter Several drag sphere configurations were tested in selecting the 336-hole pattern Frequency response data have been recorded and evaluation tests were made with current meters deployed in an estuary Use of these current meters in studies of steady-state fluid processes and sediment responses is feasible They are simple, relatively inexpensive, and well suited to applications where several simultaneous measurements are needed to determine velocity profiles or map flow distributions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2720</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.115</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 115</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2720/2384</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

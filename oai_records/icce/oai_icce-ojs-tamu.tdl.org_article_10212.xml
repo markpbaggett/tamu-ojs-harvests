@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10212</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SHORELINE EVOLUTION MODEL BASED ON EQUILIBRIUM FORMULATIONS </dc:title>
+	<dc:creator xml:lang="en">Cardona, Camilo Jaramillo</dc:creator>
+	<dc:creator xml:lang="en">Sanchez, Jara Martinez</dc:creator>
+	<dc:creator xml:lang="en">Rodriguez, Mauricio Gonzalez</dc:creator>
+	<dc:creator xml:lang="en">Santamaria, Raul Medina</dc:creator>
+	<dc:description xml:lang="en">Traditionally, the shoreline hindcast under the influence of changing marine conditions has been considered by means of existing robust shoreline evolution models, such as one-line, multi-line, combined or 3D models. All of them require long data series, many calibration parameters and are computationally intensive. This study presents a new shoreline evolution model considering the integration of cross-shore, planform and rotation equilibrium-based models, applicable over time-scales spanning days, months or several years. The new model successfully reaches the general erosion-accretion trend at a qualitative and quantitative level. As the main conclusion, this is a simple equilibrium-based shoreline evolution model that requires few calibration parameters and is computationally efficient and versatile.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/zkQ7AoAWmEE</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10212</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10212/9498</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Camilo Jaramillo Cardona, Jara Martinez Sanchez, Mauricio Gonzalez Rodriguez, Raul Medina Santamaria</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

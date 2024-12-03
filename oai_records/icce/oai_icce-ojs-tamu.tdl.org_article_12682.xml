@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12682</identifier>
+				<datestamp>2023-09-01T15:12:09Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF BIAS CORRECTION METHODS FOR DETERMINING FUTURE DESIGN WAVE HEIGHT BASED ON MEGA-ENSEMBLE CLIMATE PROJECTION </dc:title>
+	<dc:creator xml:lang="en">Watanabe, Kunihiro</dc:creator>
+	<dc:creator xml:lang="en">Kato, Fuminori</dc:creator>
+	<dc:creator xml:lang="en">Hosaka, Koichi</dc:creator>
+	<dc:creator xml:lang="en">Zaha, Takehito</dc:creator>
+	<dc:creator xml:lang="en">Takagi, Toshimitsu</dc:creator>
+	<dc:description xml:lang="en">Mega-ensemble climate projection results are expected to be used for investigating future changes in design condition, such as wave height and storm surged. However, climate models are known to have some uncertainties making bias correction necessary. We performed wave modeling was performed based on typhoon tracks extracted from megaensemble projections. Three bias correction methods were investigated, and the variation induced by these methods was evaluated. The corrected future wave heights showed variations among various locations, and they were larger than the variations caused by the difference in bias correction methods for the return periods of 1/30 and 1/50. This result suggests that appropriately selecting a correction method is not a significant issue in coastal planning.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12682</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12682/11955</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Kunihiro Watanabe, Fuminori Kato, Koichi Hosaka, Takehito Zaha, Toshimitsu Takagi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

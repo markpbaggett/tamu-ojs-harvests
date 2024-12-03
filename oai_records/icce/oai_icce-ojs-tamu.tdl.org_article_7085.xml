@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7085</identifier>
+				<datestamp>2021-01-19T05:21:09Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING OF LEVEE EROSION UNDER IRREGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:creator xml:lang="en">Weitzner, Heather</dc:creator>
+	<dc:subject xml:lang="en">Levee</dc:subject>
+	<dc:subject xml:lang="en">Dike</dc:subject>
+	<dc:subject xml:lang="en">Erosion</dc:subject>
+	<dc:subject xml:lang="en">Grass</dc:subject>
+	<dc:subject xml:lang="en">Clay</dc:subject>
+	<dc:subject xml:lang="en">Breaking Waves</dc:subject>
+	<dc:description xml:lang="en">A levee erosion model is developed to predict the temporal and cross-shore variations of vertical erosion depth under irregular wave action. The product of the erosion rate and the turf resistance force is related to the wave energy dissipation rates due to wave breaking and bottom friction. The turf resistance force is expressed using the turf thickness and the surface and underneath resistance parameters. The empirical parameters are calibrated using available data. The calibrated model has been shown to reproduce the relation between the limiting velocity and steady flow duration, the erosion rate on a seaward grassed slope, and the eroded profile evolution of a seaward clay slope. The levee erosion model is also compared with field tests for erosion on the landward slope caused by wave overtopping. It is found to be difficult to reproduce the observed erosion initiation and progression because of the wide variations of the grass cover and clay resistance. The turf resistance parameters will need to be calibrated for specific levees.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7085</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7085/pdf_406</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5745</identifier>
+				<datestamp>2021-01-19T10:39:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORCES ON A VERTICAL WAVE BARRIER</dc:title>
+	<dc:creator xml:lang="en">Kriebel, David</dc:creator>
+	<dc:creator xml:lang="en">Sollitt, Charles</dc:creator>
+	<dc:creator xml:lang="en">Gerken, William</dc:creator>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">wave barrier</dc:subject>
+	<dc:description xml:lang="en">This paper presents a comparison of measured and predicted wave forces on a vertical wave barrier, defined here as a thin impermeable vertical wall extending from above the water surface down to near mid-depth. Theoretical wave loads are computed using the eigenfunction expansion method. Measured wave loads are obtained from two sets of laboratory experiments, one conducted at the U.S. Naval Academy and the other conducted at the Oregon State University in a large wave flume. Results of this study suggest that the eigenfunction theory can predict wave loads to within 10% to 20% accuracy for a wide range of wave conditions, water depths, and wave barrier drafts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5745</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5745/5415</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

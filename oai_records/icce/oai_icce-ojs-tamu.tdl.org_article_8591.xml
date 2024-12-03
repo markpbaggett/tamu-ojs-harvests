@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8591</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVES AND STRONGLY SHEARED CURRENTS: EXTENSIONS TO COASTAL OCEAN MODELS</dc:title>
+	<dc:creator xml:lang="en">Banihashemi, Saeideh</dc:creator>
+	<dc:creator xml:lang="en">Kirby, James T.</dc:creator>
+	<dc:creator xml:lang="en">Shi, Fengyan</dc:creator>
+	<dc:creator xml:lang="en">Dong, Zhifei</dc:creator>
+	<dc:description xml:lang="en">Significant progress has been made in the numerical modeling of wave-current interaction during the past decade. Typical coastal circulation and wave models, however, still only employ theoretical formulations which take depth-uniform mean flows into account, with realistic, non-uniform flows treated as being depth uniform through some chosen averaging procedure. Depending on the choice of average over depth, significant errors may arise in the estimation of properties such as group velocity and action density in realistic conditions. These errors, in turn, are fed back into the circulation model through incorrect representation of the vertical structure of wave forcing. A new framework for wave-current interaction theory for strongly sheared mean flows has been developed using vortex force formalism by Dong (2016). The resulting formulation leads to a conservation law for wave action identical to that of Voronovich (1976), and to expressions for wave-averaged forces in the Craik-Leibovich vortex force formalism. In this study, we are completing the development of a coupled NHWAVE/SWAN which implements the wave forcing formulation of Dong (2016) in a wave-averaged version of the non-hydrostatic model NHWAVE (Ma et al., 2012). The SWAN model is also being extended to incorporate a better representation of frequency and direction-dependent group velocity and intrinsic frequency in the neighborhood of the spectral peak, thus improving on the present practice of using quantities evaluated only at the spectral peak. The resulting model is being tested against field data collected in several recent experiments involving strong, vertically sheared currents in river mouths or straits.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8591</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8591/7395</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10364</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF VEGETATED DUNES FOR EROSION RESISTANCE AGAINST TSUNAMI OVERFLOW</dc:title>
+	<dc:creator xml:lang="en">Watanabe, Kunihiro</dc:creator>
+	<dc:creator xml:lang="en">Kato, Fuminori</dc:creator>
+	<dc:description xml:lang="en">A total of 14 soil samples were collected from sand dunes without scattering, and the process of tsunami-induced erosion was observed using hydraulic model experiments. The densities of vegetation roots were measured at 45 points on seven beaches along the Japanese coast. The results of the experiment confirmed that the roots of vegetation highly affected the resistance of soil against erosion. Based on this result, an erosion model based on the index alpha was proposed, and the relationship between alpha and root density was described. Then, the applicability of the proposed erosion model was investigated using numerical simulations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10364</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10364/9650</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Kunihiro Watanabe, Fuminori Kato</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

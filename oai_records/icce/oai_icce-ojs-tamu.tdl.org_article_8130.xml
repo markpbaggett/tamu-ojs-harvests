@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8130</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE STRUCTURE OF NEARSHORE CURRENTS DRIVEN BY CHANGES IN METEO-MARINE FORCINGS</dc:title>
+	<dc:creator xml:lang="en">Petitjean, Lise</dc:creator>
+	<dc:creator xml:lang="en">Sous, Damien</dc:creator>
+	<dc:creator xml:lang="en">Rey, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Bouchette, Frédéric</dc:creator>
+	<dc:creator xml:lang="en">Sabatier, François</dc:creator>
+	<dc:creator xml:lang="en">Meulé, Samuel</dc:creator>
+	<dc:subject xml:lang="en">nearshore circulation</dc:subject>
+	<dc:subject xml:lang="en">microtidal barred beach</dc:subject>
+	<dc:subject xml:lang="en">vertical velocity structure</dc:subject>
+	<dc:description xml:lang="en">This work aims to better understand the physical processes governing the wave propagation in a vertically sheared current and the resulting nearshore circulation patterns. It is based on a high resolution hydro-morphodynamic field campaign, ROUSTY2014, collecting a comprehensive hydro-morphodynamical dataset during a full winter season. The overall analysis highlights three main circulation patterns, largely controled by the bathymetric features and by co-working or competing wind and waves forcings. Regarding the vertical structuration of the circulation, most of field observations shown seaward directed circulation with onshore component close to the air/sea surface whose intensity varies according to incoming wave conditions. Forth, vertical shear increase when breaking happen close to sensor location and orientation of mean circulation depend on wind direction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8130</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8130/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4144</identifier>
+				<datestamp>2021-01-19T19:41:06Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOW COMPUTATIONS NEARBY A STORM SURGE BARRIER UNDER CONSTRUCTION WITH TWO-DIMENSIONAL NUMERICAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Klatter, H.E.</dc:creator>
+	<dc:creator xml:lang="en">Dijkzeul, J.M.C.</dc:creator>
+	<dc:creator xml:lang="en">Hartsuiker, G.</dc:creator>
+	<dc:creator xml:lang="en">Bijlsma, L.</dc:creator>
+	<dc:subject xml:lang="en">2D model</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">flow compuatation</dc:subject>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:subject xml:lang="en">surge barrier</dc:subject>
+	<dc:description xml:lang="en">This paper discusses the application of two-dimensional tidal models to the hydraulic research for the storm surge barrier in the Eastern Scheldt in the Netherlands. At the site of the barrier local energy losses dominate the flow. Three methods are discussed for dealing with these energy losses in a numerical model based on the long wave equations. The construction of the storm surge barrier provided extensive field data for various phases of the construction of the barrier and these field data are used as a test case for the computation at methods developed. One method is preferred since it gives good agreement between computations and field data. The two-dimensional flow patterns, the discharge and the head-difference agree well,, The results of scale model tests were also available for comparison. This comparison demonstrated that depth-averaged velocities, computed by a two-dimensional numerical model, are as accurate as values obtained from a large physical scale model. Even compicated flow patterns with local energy losses and sharp velocity gradients compared well.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4144</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.143</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 143</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4144/3825</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4590</identifier>
+				<datestamp>2021-01-19T17:08:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A QUASI-3D MODEL FOR SUSPENDED SEDIMENT TRANSPORT BY CURRENTS AND WAVES</dc:title>
+	<dc:creator xml:lang="en">Katopodi, Irene</dc:creator>
+	<dc:creator xml:lang="en">Ribberink, Jan S.</dc:creator>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">quasi-3D model</dc:subject>
+	<dc:subject xml:lang="en">current model</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">transport model</dc:subject>
+	<dc:description xml:lang="en">A QUASI-3D model for suspended sediment transport based on an asymptotic solution of the convection-diffusion equation is developed for currents and waves. The influence of waves on the sediment concentration is included through the diffusion analogy and the bed boundary condition. Validity analysis provides conditions that permit the check of the model applicability. The presence of waves enhances the validity area of the model considerably. The model compares favourably with a 3D model and experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4590</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4590/4271</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

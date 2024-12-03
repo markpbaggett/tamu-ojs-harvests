@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12700</identifier>
+				<datestamp>2023-09-01T15:12:21Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PERSPECTIVE FOR ENERGY EXPLOITATION ALONG THE BRAZILIAN COAST</dc:title>
+	<dc:creator xml:lang="en">Guimarães, Ricardo Cardoso</dc:creator>
+	<dc:creator xml:lang="en">Marques, Wiliam Correa</dc:creator>
+	<dc:creator xml:lang="en">Neves, Claudio Freitas</dc:creator>
+	<dc:description xml:lang="en">The constant need to supply the growing global energy demand, leads to an increase in the generation of greenhouse gases. To circumvent this problem, more and more alternative means of energy generation have been used to compose the energy grid. One of the alternatives, which in recent decades has received great attention from researchers, is the conversion of wave energy into electrical energy. In Brazil, studies have also gained momentum, and the possibility of implementing wave energy converters on the Brazilian coast is increasingly recognized. With this in mind, the present work aims to determine the regions on the Brazilian coast that are most capable of being explored through wave energy. For this, a simulation of 37 years of the Brazilian sea state, is used in conjunction with a multicriterial methodology, where the logistical and energetic conditions of the Brazilian coast are quantified. Subsequently, power matrices of 8 wave converters are used to quantify the theoretical potential generated in the improved locations. The results showed that, in energy terms, the South and Southeast regions of Brazil have the greatest potential. This factor also proved to be the cause of the presence of lower logistical indexes in these regions, when comparing them with the North and Northeast regions of Brazil. After parameterization of the indices, three zones of interest were observed on the Brazilian coast: Cabo Frio, Imbituba and São José do Norte. When applying the conversion matrices in these locations, average daily generation power between 1.5 and 230kW were observed, the largest being located in the Cabo Frio region, using the BHBA model of converter. Variability in energy production was also discussed, and it should be a primary factor in the choice of the convert model, as well as in its design. Finally, all results were consistent with previous work, however, the path to implementing a wave energy conversion site in Brazil is still long, and should be focused on optimizing devices for Brazilian waters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12700</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.61</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.61</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12700/11973</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Ricardo Cardoso Guimarães, Wiliam Correa Marques, Claudio Freitas Neves</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

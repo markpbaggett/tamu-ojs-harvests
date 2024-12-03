@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2920</identifier>
+				<datestamp>2021-01-20T02:44:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MASS TRANSPORT IN GRAVITY WAVES ON A SLOPING BOTTOM</dc:title>
+	<dc:creator xml:lang="en">Bijker, E.W.</dc:creator>
+	<dc:creator xml:lang="en">Kalkwijk, J.P. Th.</dc:creator>
+	<dc:creator xml:lang="en">Pieters, T.</dc:creator>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:subject xml:lang="en">gravity waves</dc:subject>
+	<dc:subject xml:lang="en">sloping bottom</dc:subject>
+	<dc:description xml:lang="en">In the present investigation the influence of bottom slope on mass transport by progressive waves was investigated, both theoretically and experimentally. Theoretical considerations based on linear wave theory show the greatest influence of the slope on the bottom drift velocities for relatively long waves and steep slopes. The numerical values, however, remain rather small (influence less than 20%). In addition, the experiments show that the bottom drift velocities are more determined by the local parameters than by the magnitude of the bottom slope m the cases examined. Considering the net bottom velocities, the discrepancy between the horizontal bottom theory (Longuet- Higgms) and experimental results is considerable. Taking into account the first harmonic of the local wave form and the small slope effect for relatively small depths in horizontal bottom theory does show, however, the same tendency as the experimental results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2920</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2920/2585</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

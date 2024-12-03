@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3225</identifier>
+				<datestamp>2021-01-20T00:55:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ADAPTABILITY OF PREDICTION METHOD OF HYDRAULIC MODEL EXPERIMENT FOR THERMAL DIFFUSION</dc:title>
+	<dc:creator xml:lang="en">Kato, Masanobu</dc:creator>
+	<dc:creator xml:lang="en">Wang, Akira</dc:creator>
+	<dc:subject xml:lang="en">adaptability</dc:subject>
+	<dc:subject xml:lang="en">prediction method</dc:subject>
+	<dc:subject xml:lang="en">hydraulic model</dc:subject>
+	<dc:subject xml:lang="en">thermal diffusion</dc:subject>
+	<dc:subject xml:lang="en">diffusion</dc:subject>
+	<dc:description xml:lang="en">In formation processes of the region of water temperature rise caused by the cooling water discharge from thermal and nuclear power stations located on the site facing the ocean, flow of discharged cooling water itself, current and turbulence existing in the sea region play an important role. Their motions are predominant in the horizontal direction in the sea region. The horizontal scale of thermal extent is, therefore, extremely larger than the vertical scale of thermal extent. Therefore, whenever the diffusion experiments of discharged warm water in the far field are conducted by hydraulic model method, the model which has a difference in the geometrical reduced rate between the horizontal and vertical directions, what is called, the distorted model must be used, so that the effects of the viscosity and the surface tension on the experimental model can be avoided. In such a model, the horizontal scale is determined by the relation between the size of the experimental water basin and the surface area of the sea region to be reproduced. But, there is no clear method of choosing the vertical scale, though there are some suggestions about it. For example, the similarity of the 4/3 power law of the diffusion coefficient gives a relation between the vertical scale and the horizontal scale of the hydraulic model. On the other hand, the similarity of the surface heat exchange coefficient gives another relation between the vertical scale and the horizontal scale of hydraulic model if the surface heat exchange coefficients of hydraulic model and prototype are not same. Therefore, it is better to give some allowance in the determination of the vertical scale of the hydraulic model within the range where the reproducibility of the diffusion phenomena can be conserved.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3225</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.175</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 175</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3225/2889</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

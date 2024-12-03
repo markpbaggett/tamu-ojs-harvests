@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2879</identifier>
+				<datestamp>2021-01-20T03:00:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE SCHEMATIZATION FOR TIDAL COMPUTATIONS IN CASE OF VARIABLE BOTTOM SHAPE</dc:title>
+	<dc:creator xml:lang="en">Dronkers, J.J.</dc:creator>
+	<dc:subject xml:lang="en">bed shape</dc:subject>
+	<dc:subject xml:lang="en">tidal computation</dc:subject>
+	<dc:subject xml:lang="en">variable bottom</dc:subject>
+	<dc:description xml:lang="en">Mathematical and physical methods can be applied for tidal studies. After general considerations on these methods, some practical aspects of tidal computations are discussed, in particular the schematization for tidal computations in case of variable bottom shape in shallow coastal waters. The relation with the coefficient of friction is dealt with. A combined one- and two dimensional tidal computation is considered. Also an example is given of the determination of the coefficient of friction in a very shallow region; the variations, which are found in this practical case are discussed. 1. General considerations on the application of mathematical and physical methods for tidal studies. Tidal problems may be solved by means of mathematical or physical models. Both kinds of models are approximations of the reality; in some respects in a different way.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2879</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.132</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 132</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2879/2543</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

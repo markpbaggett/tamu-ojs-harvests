@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3611</identifier>
+				<datestamp>2021-01-19T22:47:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISCRETE-TIME MODELLING OP DISPERSION IN ESTURARIES</dc:title>
+	<dc:creator xml:lang="en">Wood, T.</dc:creator>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">dispersion</dc:subject>
+	<dc:subject xml:lang="en">time modeling</dc:subject>
+	<dc:description xml:lang="en">This paper aims to put forward a case in favour of a simple discretetime model describing mixing in an estuary. The model derives from the remarkably simple concepts developed by Ketchum (1951 a,b) which describe mixing in terms of tidal prism exchanges between segments. The author's view is that Ketchum1s ideas were abandoned before they were fully explored. A major factor was the advent of the high-speed computer which opened up the possibility of using an approach based on the space-time formulation of the problem in terms of the partial differential equations of transport theory. Intrinsically this approach, based on a continuum description, is more attractive than a gross description based on relatively large segments: one obvious reason is the possibility of providing a comprehensive space-time prediction of the spread of a pollutant. In practice, though, significant problems arise in its use: in particular, the following can be mentioned - a) substantial computing costs relating to computer program development and machine time b) specification of transport parameters inherent in the partial differential equations of transport: for example, dispersion coefficients c) model validation and state/parameter estimation. The last of these is the primary concern of this paper. It is probably true to say that, to date, too little attention has been given to these topics, in the context of estuarine modelling. The point to be made is that there is small justification in using a sophisticated description of a system if the resulting predictions of the model cannot be effectively validated. The ideas used in this paper stem from those put forward by Beck and Young (1975) in studies on non-tidal river pollution. The subsequent discussion suggests an extension to estuarine systems-.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3611</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.182</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 182</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3611/3293</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

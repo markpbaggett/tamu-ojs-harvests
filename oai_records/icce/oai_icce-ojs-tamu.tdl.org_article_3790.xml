@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3790</identifier>
+				<datestamp>2021-01-19T21:44:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BAYWATER RESPONSE TO TSUNAMIS</dc:title>
+	<dc:creator xml:lang="en">Abe, Tetsuo</dc:creator>
+	<dc:subject xml:lang="en">bay</dc:subject>
+	<dc:subject xml:lang="en">baywater</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:description xml:lang="en">To investigate the transient characteristics of the tsunami-induced oscillations, records of tsunami caused by the Off-Miyagi earthquake in June, 1978 were analysed on the basis of theories on stationary and nonstationary stochastic processes. The stationary spectra show the average feature of the phenomenon. Discrepancies, however,are recognized between the first half oscillations and the second half oscillations during the tsunamis. Besides, the energy densities of non-stationary spectra do not always indicate stationary value at the periods which correspond to the predominant ones of the stationary spectra. These suggest that tsunami induced oscillations are translative.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3790</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3790/3473</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

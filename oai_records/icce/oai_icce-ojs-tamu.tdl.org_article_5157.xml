@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5157</identifier>
+				<datestamp>2021-01-19T13:54:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE SPREADING OF DREDGING SPOILS DURING CONSTRUCTION OF THE DENMARK-SWEDEN LINK</dc:title>
+	<dc:creator xml:lang="en">Broker, Ida</dc:creator>
+	<dc:creator xml:lang="en">Johnsen, John</dc:creator>
+	<dc:creator xml:lang="en">Lintrup, Morten</dc:creator>
+	<dc:creator xml:lang="en">Jensen, Anders</dc:creator>
+	<dc:creator xml:lang="en">Moller, Jacob Steen</dc:creator>
+	<dc:subject xml:lang="en">dredging</dc:subject>
+	<dc:subject xml:lang="en">spoil</dc:subject>
+	<dc:subject xml:lang="en">spoil spreading</dc:subject>
+	<dc:subject xml:lang="en">Denmark-Sweden Link</dc:subject>
+	<dc:description xml:lang="en">An overview of the model complex, including a combined Lagrangian and Eulerian approach to simulation of sediment transport, developed to study spreading of dredging spoils in connection with off-shore earth works necessary for construction of the Denmark-Sweden Link is provided; - together with in-depth descriptions of two particular work topics: (a) Model representation of flow friction to allow application of an inherently depth-integrated model system to a partially stratified environment, and (b) overall design of the model complex to make it fit as a versatile tool at several stages of this large project.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5157</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5157/4835</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

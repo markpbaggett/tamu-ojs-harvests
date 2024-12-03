@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5416</identifier>
+				<datestamp>2021-01-19T12:28:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT AND WAVE REFLECTION NEAR A SEAWALL</dc:title>
+	<dc:creator xml:lang="en">Miles, Jonathon R.</dc:creator>
+	<dc:creator xml:lang="en">Russell, Paul E.</dc:creator>
+	<dc:creator xml:lang="en">Huntley, David A.</dc:creator>
+	<dc:subject xml:lang="en">seawall</dc:subject>
+	<dc:subject xml:lang="en">reflection</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">This paper describes results of a field experiment to examine the effect of wave reflection on suspended sediment transport in front of a seawall. High frequency measurements of wave elevation, velocity and suspended sediment concentrations were made simultaneously on a natural beach and in front of a seawall at Teignmouth in South Devon (U.K.) in June 1995. Wave reflection at the natural beach was found to be dependent on frequency; low frequency waves being preferentially reflected while incident waves were dissipated. At the seawall the incident wave reflection coefficient was 0.9 indicating only a small amount of dissipation. The doubling of energy over the sea bed was found to greatly increase the suspended sediment concentrations in the water column, although the amount of this increase depended on the water depth. A data analysis technique was developed which allowed the incoming and outgoing wave contributions to the sediment transport to be analysed. In these accretionary conditions incoming waves transported sediment onshore in both wall and beach cases, while in the wall case sediment transported offshore by the outgoing waves balanced the onshore transport. Sediment build up which was observed at the top of the natural beach was not observed in front of the wall. Sediment maintained in suspension in front of the wall was available for longshore transport, and this was enhanced by the presence of the wall.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5416</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5416/5092</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

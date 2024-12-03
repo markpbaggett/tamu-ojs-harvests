@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10240</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEW DEVELOPMENTS FOR CFD HYBRID MODELING FOR NUMERICAL WAVE TANKS</dc:title>
+	<dc:creator xml:lang="en">Lara, Javier</dc:creator>
+	<dc:creator xml:lang="en">Paolo, Benedetto Di</dc:creator>
+	<dc:creator xml:lang="en">Barajas, Gabriel</dc:creator>
+	<dc:creator xml:lang="en">Maza, Maria</dc:creator>
+	<dc:creator xml:lang="en">Garcia-Maribona, Julio</dc:creator>
+	<dc:creator xml:lang="en">Losada, Inigo J.</dc:creator>
+	<dc:description xml:lang="en">The use of CFD for numerical representation of laboratory wave flume and basins, commonly known as numerical wave tanks (NWT), has become more popular in recent years with the aim of improving knowledge in the field of wave-structure interaction (WSI), both fixed and floating, due to advances that have been made in numerical modelling, mainly with the reproduction of three dimensional problems. The use of this technique is displacing even traditional approaches based on the use of potential flow equations, due to the versatility provided by the CFD approach, which allows considering nonlinear interactions between structures and waves, and above all, extreme events such as wave breaking. However, implementation of these models as a complementary tool to physical modeling facilities is not yet standardized and requires further development to hybridize these two techniques, numerical and experimental, in order to obtain a better knowledge of physical processes. Implementation still requires overcoming existing modeling limitations and the additional steps to be taken focus on the following areas are: a) numerically mirror wave generation and active/passive absorption in physical installations; b) numerical resolution of WSI problems, which to date depends on each WSI case; c) computational cost, which may be the bottleneck for NWT implementation; and, finally, the most important feature that is where the added value of the hybrid approach lies, d) the exchange of information between the laboratory measurements and the results of the numerical simulations in order to obtain a better understanding of WSI problems. This paper will present an analysis of the main aspects described above for the implementation of hybrid techniques for the study of WSI problems (floating and fixed). The latest advances in modeling developed with IHFOAM solver (ihfoam.ihcantabria.com), and physical modeling procedures to link laboratory and numerical tools will be presented. The main objective is establishing a standard procedure to implement this technique in any physical installation.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/6mAQccSrREM</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10240</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10240/9526</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Javier Lara, Benedetto Di Paolo, Gabriel Barajas, Maria Maza, Julio Garcia-Maribona, Inigo J. Losada</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

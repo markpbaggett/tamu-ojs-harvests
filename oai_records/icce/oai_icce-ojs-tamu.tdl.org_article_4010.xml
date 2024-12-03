@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4010</identifier>
+				<datestamp>2021-01-19T20:26:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL SIMULATION TO TRANSIENT WAVE INDUCED HARBOR OSCILLATIONS USING BOUNDARY ELEMENT TECHNIQUE</dc:title>
+	<dc:creator xml:lang="en">Demirel, Vedat</dc:creator>
+	<dc:creator xml:lang="en">Wang, Shen</dc:creator>
+	<dc:subject xml:lang="en">numerical solution</dc:subject>
+	<dc:subject xml:lang="en">transient oscillations</dc:subject>
+	<dc:subject xml:lang="en">wave induced oscillation</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:subject xml:lang="en">boundary element</dc:subject>
+	<dc:description xml:lang="en">A new numerical technique for solution to transient linear long wave induced oscillations is introduced. It is based on the boundary element method, which is well recognized by its numerical efficiency and convenience. Several harbor models are investigated. Advantages of the proposed method as compared to the existing techniques are discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4010</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4010/3693</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

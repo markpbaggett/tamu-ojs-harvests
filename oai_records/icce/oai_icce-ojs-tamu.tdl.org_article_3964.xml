@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3964</identifier>
+				<datestamp>2021-01-19T20:42:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIME AND FREQUENCY LOADING ANALYSIS OF SUBMARINE PIPELINES</dc:title>
+	<dc:creator xml:lang="en">Alexander, H.C.</dc:creator>
+	<dc:creator xml:lang="en">Allen, P.L.</dc:creator>
+	<dc:creator xml:lang="en">Warner, J.L.</dc:creator>
+	<dc:subject xml:lang="en">submarine pipeline</dc:subject>
+	<dc:subject xml:lang="en">pipeline</dc:subject>
+	<dc:subject xml:lang="en">time loading</dc:subject>
+	<dc:subject xml:lang="en">frequency loading</dc:subject>
+	<dc:subject xml:lang="en">loading analysis</dc:subject>
+	<dc:description xml:lang="en">Fatigue damage to marine pipelines subjected to wave forces is evaluated using time-domain and frequency-domain methods. Spectral techniques are applied to North Sea, Gulf of Mexico and offshore Atlantic Canada wave conditions. Time-domain analysis is applied to wave conditions in the Canadian North Atlantic Ocean. The frequency-domain analysis is performed using spectral and probabilistic techniques suggested by L. Borgman {?.). The pipeline dynamic characteristics are described by classical analytical descriptions. The time-domain analysis computes time histories of wave force loading on the submerged pipeline from actual wave records. The traditional Morison wave force equation is used to obtain the time history of the loading on the pipeline. Empirically determined wave spectra are shown not to produce as good a correlation with the deterministic results as the actual wave spectra. Free spanning submarine pipelines subjected to cyclic surface wave loading accumulate strength reductions leading to failure from material fatigue. The Palmgren-Miner rule for the linear accumulation of fatigue damage is applied to evaluate the time to failure. The American Welding Society X-X stress accumulation curve is applied. The results of the deterministic analysis were compared with those of the more efficient spectral analysis. It is shown that comparable results can be obtained from the spectral analysis provided the actual spectra of the water surface elevation is employed in the spectral analysis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3964</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.183</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 183</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3964/3647</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

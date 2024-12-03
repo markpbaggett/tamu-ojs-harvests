@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6896</identifier>
+				<datestamp>2023-10-04T02:25:13Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF DYNAMIC SEDIMENT BUDGET TO PREDICT FUTURE SHORELINE POSITIONS ON A SAND LIMITED SHORELINE IN LOUISIANA</dc:title>
+	<dc:creator xml:lang="en">Agarwal, Arpit</dc:creator>
+	<dc:creator xml:lang="en">Carter, Josh</dc:creator>
+	<dc:creator xml:lang="en">Campbell, Matt</dc:creator>
+	<dc:creator xml:lang="en">Bermudez, Hugo</dc:creator>
+	<dc:subject xml:lang="en">dynamic sediment budget</dc:subject>
+	<dc:subject xml:lang="en">sediment budget</dc:subject>
+	<dc:subject xml:lang="en">shoreline position</dc:subject>
+	<dc:subject xml:lang="en">sediment wave</dc:subject>
+	<dc:subject xml:lang="en">Cameron Parish</dc:subject>
+	<dc:subject xml:lang="en">Louisiana</dc:subject>
+	<dc:description xml:lang="en">A shoreline change analysis was performed along the shoreline of the chenier plain in southwestern Louisiana in an attempt to forecast future shoreline position and to determine the performance of a proposed sand beach nourishment project along the shoreline which extends 14 km west of the western jetty of Calcasieu Pass, Louisiana and runs through the community of Holly Beach, Louisiana. Observations of shoreline morphology revealed a solitary sediment wave traversing the project site from east to west since the 1960's. The genesis of the sediment wave is unknown and is unexplored in this work. The presence of the sediment wave masked the long-term shoreline change rates along the project site and therefore biased the predictions of future shoreline positions due to the transient nature of the sediment wave morphology. Standard coastal engineering methods used to predict future shoreline positions include simple translation of the shoreline based on measured shoreline change rates (referred to herein as historical linear progression or HLP) and one-line numerical models. For the project site, due to the presence of this sediment wave the HLP approach to predict future shoreline positions is not applicable. One-line shoreline morphology models such as the US Army Corps of Engineer's GENESIS model require the assumption that the beach profile can be represented by an equilibrium beach profile which was developed for sand rich shorelines. The project site profile composition of a sandy veneer extending to a depth of approximately -1.2 to -2 m over a muddy bottom violates this assumption, and therefore the traditional one-line model cannot be applied. Therefore, a dynamic sediment budget (DSB) method was developed to predict future shoreline positions based on available historical data, longshore transport rates, known morphological processes, statistical estimates of storm events, beach nourishment diffusion, and a relationship between volume change and shoreline change based on existing profile composition. This method was validated with existing data and was able to predict 20 years of morphology within ±15 m of measured shoreline positions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6896</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.104</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.104</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6896/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

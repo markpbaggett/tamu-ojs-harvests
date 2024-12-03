@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1237</identifier>
+				<datestamp>2023-10-04T03:58:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MORPHOLOGICAL MODELING OF BAR DYNAMICS WITH DELFT3D:                           THE QUEST FOR OPTIMAL FREE PARAMETER SETTINGS USING AN AUTOMATIC CALIBRATION TECHNIQUE</dc:title>
+	<dc:creator xml:lang="en">Briere, Christophe</dc:creator>
+	<dc:creator xml:lang="en">Giardino, Alessio</dc:creator>
+	<dc:creator xml:lang="en">van der Werf, Jebbe</dc:creator>
+	<dc:subject xml:lang="en">bar dynamics</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:subject xml:lang="en">parameter settings</dc:subject>
+	<dc:subject xml:lang="en">calibration</dc:subject>
+	<dc:subject xml:lang="en">coastal morphology</dc:subject>
+	<dc:subject xml:lang="en">morphodynamic modelling</dc:subject>
+	<dc:description xml:lang="en">The modeling of bar dynamics is crucial for understanding coastal dynamics and shoreface nourishment evolution. Due to the complexity and variability of the physical processes involved, the formulations developed within the process-based numerical modelling system Delft3D for representing the forcing of the morphodynamic processes (waves, currents, sand transport) contain a high number of calibration parameters. Therefore, the setting up of any Delft3D computation requires a tedious calibration work, usually carried out manually and therefore by definition subjective. The aim of this work is the setting up of an automated and objective calibration procedure for Delft3D morphodynamic computations. A number of calibration parameters have been identified based on a careful sensitivity analysis. The calibration method named DUD (Does not Use Derivatives) is selected and coupled to a alongshore uniform Delft3D model. The validity of the implementation is shown based on synthetic tests (twin experiments). The validation test is carried out using field data collected at Egmond-aan-Zee (The Netherlands). This paper shows that the tool can be successfully used to calibrate Delft3D. However, further research is especially required to understand whether the computed parameters settings only simulate the best morphodynamic evolution of the bars or also describe properly the underlying physical processes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1237</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1237/pdf_258</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3792</identifier>
+				<datestamp>2021-01-19T21:44:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATING ERROR OF COASTAL STAGE FREQUENCY CURVES</dc:title>
+	<dc:creator xml:lang="en">Prater, Mark D.</dc:creator>
+	<dc:creator xml:lang="en">Hardy, Thomas A.</dc:creator>
+	<dc:creator xml:lang="en">Butler, H. Lee</dc:creator>
+	<dc:creator xml:lang="en">Borgman, Leon E.</dc:creator>
+	<dc:subject xml:lang="en">frequency curve</dc:subject>
+	<dc:subject xml:lang="en">error</dc:subject>
+	<dc:subject xml:lang="en">error estimation</dc:subject>
+	<dc:description xml:lang="en">A computer intensive statistical procedure known as the bootstrap has been used to estimate the error in coastal stage-frequency relationships due to uncertainties in hurricane meteorological distributions. These stage-frequency relationships are developed through the use of a joint probability method, so that the probability of a storm event is the product of the probabilities of the individual independent components which comprise that storm event. The bootstrap technique provides an estimate of the error of the stage-frequency by determining the variation possible in each component's probability distribution. This variability is due to the construction of the distribution from a finite set of historical events. An example of the bootstrap is given and stage frequency results and error estimates typical of a coastal region are shown.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3792</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3792/3475</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

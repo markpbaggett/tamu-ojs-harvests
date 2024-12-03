@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10328</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A MONTE-CARLO MODEL FOR CAISSON OVERTURNING BY TSUNAMIS</dc:title>
+	<dc:creator xml:lang="en">Irish, Jennifer L.</dc:creator>
+	<dc:creator xml:lang="en">Weiss, Robert</dc:creator>
+	<dc:creator xml:lang="en">Goodman-Tchernov, Beverly</dc:creator>
+	<dc:description xml:lang="en">Robust planning, engineering, and design in regions exposed to coastal inundation and wave extremes are critically important for ensuring economic and community resilience. To address this need, the profession is moving toward multi-faceted, risk-based approaches based on probabilistic hazard exposure that account for uncertainty. Herein, a Monte-Carlo model for sliding and overturning of caissons under extreme hydrodynamic loading is presented. The model may be used to support risk-based analyses during caisson design as well as in the characterization of inundation extremes from contemporary hazard reconnaissance and from the geological and archaeological records. Herein, model applications are presented (1) to characterize the 2nd century AD Mediterranean tsunami that damaged the ancient harbor of Caesarea, Israel and (2) to develop a scaling law for overturning.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10328</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10328/9614</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Jennifer L. Irish, Robert Weiss, Beverly Goodman-Tchernov</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

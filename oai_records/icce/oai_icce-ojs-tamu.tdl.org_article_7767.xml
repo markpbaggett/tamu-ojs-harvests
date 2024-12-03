@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7767</identifier>
+				<datestamp>2021-01-20T04:05:15Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI RESONANCE IN THE BAY OF CONCEPCION, CHILE</dc:title>
+	<dc:creator xml:lang="en">Aranguiz, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Villagrán, Mauricio</dc:creator>
+	<dc:creator xml:lang="en">Esteban, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">tsunami resonance</dc:subject>
+	<dc:subject xml:lang="en">Bay of Concepción</dc:subject>
+	<dc:subject xml:lang="en">shelf resonance</dc:subject>
+	<dc:subject xml:lang="en">fundamental mode</dc:subject>
+	<dc:subject xml:lang="en">2010 tsunami</dc:subject>
+	<dc:subject xml:lang="en">1960 tsunami.</dc:subject>
+	<dc:description xml:lang="en">Natural oscillation modes of the Bay of Concepcion are determined by means of Empirical Orthogonal Functions. Simulations of the 2010 and 1960 tsunamis were performed using 4 nested grids of 120, 30, 6 and 1† arc resolution with the NEOWAVE model. In addition, a spectral analysis of tsunami waveforms at both the continental shelf and inside the Bay of Concepcion was performed, and the results were contrasted with natural oscillation periods. The results showed that the natural oscillation period of the first, second and third modes of the Bay were found to be 95, 37 and 32 min. It was found that large tsunami amplifications at the southern shore of the Bay of Concepcion were due to tsunami resonance and coupling between the shelf resonance and bay oscillations. Large inundations heights during 2010 tsunami were caused by the tsunami exciting the fundamental oscillation mode of the Bay. The relative low inundation during the 1960 tsunami was due to the tsunami exciting the higher frequency.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>image/tiff</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7767</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7767/pdf_886</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7767/7666</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

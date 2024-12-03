@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6886</identifier>
+				<datestamp>2023-10-04T02:26:45Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE MODIFIED COASTAL STORM IMPULSE (COSI) PARAMETER AND QUANTIFICATION OF FRAGILITY CURVES FOR COASTAL DESIGN</dc:title>
+	<dc:creator xml:lang="en">Basco, David R.</dc:creator>
+	<dc:creator xml:lang="en">Mahmoudpour, Nader</dc:creator>
+	<dc:subject xml:lang="en">coastal storms</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">wave height</dc:subject>
+	<dc:subject xml:lang="en">storm duration</dc:subject>
+	<dc:subject xml:lang="en">momentum</dc:subject>
+	<dc:subject xml:lang="en">storm impulses</dc:subject>
+	<dc:subject xml:lang="en">storm-strength parameter</dc:subject>
+	<dc:subject xml:lang="en">fragility curves</dc:subject>
+	<dc:description xml:lang="en">A coastal storm-strength parameter, the Coastal Storm Impulse (COSI) parameter was introduced at the ICCE 2006 (San Diego) and further discussed in the ICCE 2008 (Hamburg) and ICCE 2010 (Shanghai) proceedings. COSI is based on the conservation of linear, horizontal momentum to combine storm surge, wave dynamics, and currents over the storm duration.  Both tropical storms (hurricanes) and extra-tropical storms (low-pressure fronts) can produce similar COSI parameters. Analysis of coastal storms over a 10 year period (1994-2003) of measured data at the Corps of Engineers, Field Research Facility (FRF), Duck, NC showed the need to modify the original method to (1) use the mean, nonlinear wave momentum flux, and (2) use only the spikes in storm surge when elevated water levels are above the mean high water level of the tide. This paper presents the full details of how to calculate the modified COSI parameter; the modified results for the 10-yr Duck data set and suggest possible applications to develop fragility curves for coastal engineering design. Clearly, fragility curves are needed to quantify risk and hence resilience in coastal systems design.  The intensity of the "load† or "disturbance†, i.e. the severity of the coastal storm must be quantified to develop fragility curves.  Excess water levels (storm surge), wave conditions (height, period, direction) and storm duration all contribute to the intensity of a coastal storm.  How to combine these three factors has long been a concern of coastal scientists and engineers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6886</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6886/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

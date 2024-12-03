@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3969</identifier>
+				<datestamp>2021-01-19T20:40:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF UPRIGHT STRUCTURE FOR WAVE DISSIPATION USING INTEGRAL EQUATION</dc:title>
+	<dc:creator xml:lang="en">Hagiwara, Kazuhiro</dc:creator>
+	<dc:subject xml:lang="en">structural analysis</dc:subject>
+	<dc:subject xml:lang="en">wave dissipation</dc:subject>
+	<dc:subject xml:lang="en">integral equation</dc:subject>
+	<dc:description xml:lang="en">A theoretical analysis using an integral equation derived for the unknown horizontal velocity component in a pervious wall is proposed for estimating the reflection and transmission coefficients of upright structures for wave dissipation, and various factors related to wave and structural conditions having influences on the wave dissipating characteristics are investigated for a breakwater with pervious vertical walls at both seaward and landward sides, In two-dimensional experiments, the theoretical results are in. good agreement with experimental data with respect to reflection and transmission coefficients, and therefore, the wave dissipating characteristics of upright structures for wave dissipation can be explained by the integral equation method theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3969</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.188</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 188</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3969/3652</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

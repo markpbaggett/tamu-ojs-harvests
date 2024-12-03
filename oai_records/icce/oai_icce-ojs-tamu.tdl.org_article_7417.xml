@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7417</identifier>
+				<datestamp>2021-01-19T04:42:54Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISPERSION OF LONG WAVES ON VARYING BATHYMETRY</dc:title>
+	<dc:creator xml:lang="en">Kian, Rozita</dc:creator>
+	<dc:creator xml:lang="en">Yalciner, Ahmet Cevdet</dc:creator>
+	<dc:creator xml:lang="en">Zaytsev, Andrey</dc:creator>
+	<dc:description xml:lang="en">Coastal dynamics of swell and long waves is important for morphological changes, near shore circulation, wave amplification, transport of sediments and pollutants, and also comfort of the boats in harbors and bays. There are different models computing near shore behavior of long waves and tsunamis under different input wave and bathymetric and morphological conditions. NAMI DANCE (developed in collaboration with METU, Turkey and Special Bureau of Automation of Research Russian Academy of Sciences, Russia) and FUNWAVE (developed by James T. Kirby et al., University of Delaware) are two of the selected models for simulations of waves, computations of hydrodynamic characteristics of waves such as water velocities and directions. Both models have the capabilities of solving tsunami propagation considering dispersion. As the case studies these models are applied to two different problems for comparisons, tests and generalization.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7417</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7417/pdf_753</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

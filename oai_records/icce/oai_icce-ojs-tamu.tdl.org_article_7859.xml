@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7859</identifier>
+				<datestamp>2021-01-20T03:55:10Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A STUDY ON THE SAND-MUD MIXTURE AT NORTH-WEST OF THE PERSIAN GULF</dc:title>
+	<dc:creator xml:lang="en">Khaleghi, Afshan</dc:creator>
+	<dc:creator xml:lang="en">Soltanpour, Mohsen</dc:creator>
+	<dc:creator xml:lang="en">Haghshenas, Seyed Abbas</dc:creator>
+	<dc:subject xml:lang="en">sediment mixture transport</dc:subject>
+	<dc:subject xml:lang="en">Persian Gulf</dc:subject>
+	<dc:subject xml:lang="en">delft3D</dc:subject>
+	<dc:subject xml:lang="en">Shah-Abdollah Port</dc:subject>
+	<dc:subject xml:lang="en">hindcast wave</dc:subject>
+	<dc:subject xml:lang="en">tide</dc:subject>
+	<dc:description xml:lang="en">A numerical model is used for simulating the transportation process of sand-mud mixture at Shah-Abdollah Port located on the north-western shoreline of the Persian Gulf. Available hindcast wave data were adopted in combination with tidal water level variations as the boundary conditions of the numerical model. The existing extracted shoreline changes around Shah-Abdollah Port through GIS analysis of satellite images were used to assess the general morphological changes in the study area. The modeling results of sediment transport shows that the net longshore sediment transport at both sides of the port reduces to very small values near the port location implying that this location is acting as a null net drift point dividing the eastern sandy and western muddy coastlines.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7859</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.79</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.79</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7859/pdf_918</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

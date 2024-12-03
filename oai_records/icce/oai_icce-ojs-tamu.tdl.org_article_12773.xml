@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12773</identifier>
+				<datestamp>2023-10-03T03:23:25Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NONHYDROSTATIC AND MESH-FREE COMPUTATIONAL FLUID DYNAMICS MODEL COMPARISONS OF SURF ZONE HYDRODYNAMICS BY PLUNGING IRREGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Lowe, Ryan J</dc:creator>
+	<dc:creator xml:lang="en">Corrado Altomare, Mark Buckley, Renan da Silva, Jeff Hansen</dc:creator>
+	<dc:creator xml:lang="en">Dirk Rijnsdorp, Jose Dominguez, Alejandro Crespo</dc:creator>
+	<dc:creator xml:lang="es">Corrado Altomare, Mark Buckley, Renan da Silva, Jeff Hansen</dc:creator>
+	<dc:creator xml:lang="es">Dirk Rijnsdorp, Jose Dominguez, Alejandro Crespo</dc:creator>
+	<dc:description xml:lang="en">Wave breaking over steep bathymetry often generates plunging waves where the free surface overturns and violent water motion is triggered. Simulating these complex surf zone processes poses significant challenges for conventional mesh-based hydrodynamic models, due to the rapidly-deforming nature of the free surface and underlying turbulent flows. Yet accurate prediction of these hydrodynamics is essential to characterize the wide range of nearshore processes driven by wave breaking. In this study we rigorously compare the ability of two different classes of phase-resolving wave-flow models to predict a wide range of hydrodynamic processes driven by irregular wave breaking over a fringing reef using data from Buckley et al. (2015). These two models were: 1) the mesh-based nonhydrostatic wave-flow model SWASH, having vertical resolution but only providing a single-value representation of the free-surface; and 2) the mesh-free, Lagrangian particle-based approach Smoothed Particle Hydrodynamics (SPH) using DualSPHysics (DSPH), which directly resolves the overturning free surface. Both models were applied in 2DV mode.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12773</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.currents.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; currents.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12773/12046</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Ryan J Lowe, Corrado Altomare, Mark L. Buckley, Renan da Silva, Jeff E. Hansen, Dirk Rijnsdorp, Jose M. Domínguez, Alejandro J.C. Crespo </dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

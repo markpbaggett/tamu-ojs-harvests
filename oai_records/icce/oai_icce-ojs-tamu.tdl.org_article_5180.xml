@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5180</identifier>
+				<datestamp>2021-01-19T13:46:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE-INDUCED SEDIMENT RESUSPENSION AND MIXING IN SHALLOW WATERS</dc:title>
+	<dc:creator xml:lang="en">Sheng, Y. Peter</dc:creator>
+	<dc:creator xml:lang="en">Chen, Xinjiang</dc:creator>
+	<dc:creator xml:lang="en">Yassuda, Eduardo A.</dc:creator>
+	<dc:subject xml:lang="en">sediment resuspension</dc:subject>
+	<dc:subject xml:lang="en">mixing</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:description xml:lang="en">A field and modeling study on the resuspension and vertical mixing of sediments in Tampa Bay, a large shallow estuary, and Lake Okeechobee, a large shallow lake in Florida, U.S.A. has been studied. The study was aimed to obtain a quantitative understanding of the fundamental processes controlling resuspension and vertical mixing of sediments in the water column and to develop models for simulating resuspension and mixing of sediments in shallow waters. For the field study, field data (including wind, wave, currents, suspended sediments and water quality parameters) were collected from Tampa Bay and Lake Okeechobee during several episodic events. These data were then used for the development of a onedimensional water column model of hydrodynamics, sediment dynamics and water quality dynamics. Results of the study indicate that during episodic events, bottom stresses induced by the wind waves are very effective in causing significant resuspension of sediments and nutrients from the bottom of shallow estuaries and lakes. Vertical turbulent mixing due to wind-driven and tidal currents, however, are more effective in distributing suspended sediments through the water column.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5180</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5180/4858</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

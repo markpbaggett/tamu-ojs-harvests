@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5771</identifier>
+				<datestamp>2021-01-19T10:31:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY EVALUATION OF INSTRUMENTATION USED IN FIELD STUDIES OF WAVE-SEDIMENT INTERACTIONS</dc:title>
+	<dc:creator xml:lang="en">Williams, J.J.</dc:creator>
+	<dc:creator xml:lang="en">Bell, P.</dc:creator>
+	<dc:creator xml:lang="en">Coates, L.E.</dc:creator>
+	<dc:creator xml:lang="en">Davies, A.E.</dc:creator>
+	<dc:creator xml:lang="en">Hardcastle, P.J.</dc:creator>
+	<dc:creator xml:lang="en">Humphery, J.D.</dc:creator>
+	<dc:creator xml:lang="en">Moores, S.P.</dc:creator>
+	<dc:creator xml:lang="en">van Rijn, L.C.</dc:creator>
+	<dc:creator xml:lang="en">Thorne, P.D.</dc:creator>
+	<dc:creator xml:lang="en">Trouw, K.</dc:creator>
+	<dc:subject xml:lang="en">lab evaluation</dc:subject>
+	<dc:subject xml:lang="en">field study</dc:subject>
+	<dc:subject xml:lang="en">wave/sediment interaction</dc:subject>
+	<dc:description xml:lang="en">Restrictions imposed by the physical size of testing facilities has limited the range of trials undertaken on field instruments and little is known about interactions between the observed processes and large frames used to deploy equipment in the sea. Further, limited information on the physical processes from the field leads to ambiguity in interpretation of field data. This paper describes tests of the autonomous multi-sensor instrument STABLE, and process studies conducted in the Deltaflume (230 m long, 5 m wide and 7 m deep) of the Delft Hydraulics Laboratory. Regular and random waves with a specified time history and height up to 1.5 m, were used to test instrument performance and to examine sediment processes under waves on beds of medium (D$o = 0.329 mm) and fine sand (Dso = 0.162 mm). Selected results from studies of hydrodynamics, bedforms and suspended sediments are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5771</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5771/5441</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7066</identifier>
+				<datestamp>2021-01-19T05:23:38Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF AN ADAPTIVE EMPIRICAL MODEL FOR STORM TIDE SIMULATION</dc:title>
+	<dc:creator xml:lang="en">Lai, U Hin</dc:creator>
+	<dc:creator xml:lang="en">Hoi, Ka In</dc:creator>
+	<dc:creator xml:lang="en">Mok, Kai Meng</dc:creator>
+	<dc:subject xml:lang="en">adaptive model</dc:subject>
+	<dc:subject xml:lang="en">flooding</dc:subject>
+	<dc:subject xml:lang="en">Kalman filter</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">storm tide</dc:subject>
+	<dc:description xml:lang="en">The abrupt rise in local sea level due to storm tide caused by an approaching tropical cyclone could cause severe flooding and devastating influence to low-lying regions of a coastal city. Studies show that many empirical offline modeling techniques are useful tools for storm tide simulation, e.g. the Artificial Neural Network (ANN). However, these techniques are non-adaptive and retraining is necessary when new data are available. The present study introduces an adaptive empirical model for improvement. It is a dynamic linear regression model with the harmonic tidal prediction, wind speed, wind direction and atmospheric pressure as the model input parameters. Application of the model to simulate the storm tide variation of forty tropical cyclone cases in Macau gives values of the root-mean-squared error and the coefficient of determination ranging between 0.08~0.20m and 0.82~0.98, respectively. In addition, the proposed model could capture the storm tide maxima of the seventeen flooding cases among the forty with a root-mean-squared error of 0.15m. Simulation of the corresponding peak arrival for the flooding cases is mostly within one hour of the actual one and at most two hours. Therefore, the proposed adaptive model is a promising tool for storm tide simulation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7066</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7066/pdf_398</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1381</identifier>
+				<datestamp>2023-10-04T04:24:14Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HARBOR RESONANCE: A COMPARISON OF FIELD MEASUREMENTS TO NUMERICAL RESULTS</dc:title>
+	<dc:creator xml:lang="en">Xing, Xiuying</dc:creator>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:creator xml:lang="en">Raichlen, Fredric</dc:creator>
+	<dc:subject xml:lang="en">Harbor Resonance</dc:subject>
+	<dc:subject xml:lang="en">Resonant mode</dc:subject>
+	<dc:subject xml:lang="en">Wave Induced Oscillation</dc:subject>
+	<dc:subject xml:lang="en">Long Wave</dc:subject>
+	<dc:subject xml:lang="en">Bay of Fundy</dc:subject>
+	<dc:description xml:lang="en">Wave induced oscillation at Bay of Fundy has been studied using a numerical model. From the response characteristics obtained it is seen that the fundamental mode of oscillation at the Bay of Fundy region coincides with the tidal period. The resonant mode of oscillation at the tidal period (12.42 hr) helps explain why Bay of Fundy has the largest tidal range in the world. The numerical results compared well with the tidal records at thirteen tide gauge stations in Bay of Fundy. Discussion also includes numerical results and field measurements at Crescent City harbor and at Los Angeles/Long Beach harbor to show the relationship of the characteristic length of the harbor basin with the resonant periods computed and measured. It is found that the resonant phenomena at these three harbors occurred on normal days although they are very different in size.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1381</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1381/pdf_117</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

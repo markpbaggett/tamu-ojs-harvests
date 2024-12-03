@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1247</identifier>
+				<datestamp>2023-10-04T03:56:37Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION AND VALIDATION OF XBEACH FOR THREE DIFFERENT FIELD SITES</dc:title>
+	<dc:creator xml:lang="en">Bolle, Annelies</dc:creator>
+	<dc:creator xml:lang="en">Mercelis, Peter</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Haerens, Piet</dc:creator>
+	<dc:creator xml:lang="en">Trouw, Koen</dc:creator>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">sediment transport modelling</dc:subject>
+	<dc:subject xml:lang="en">beach erosion</dc:subject>
+	<dc:subject xml:lang="en">harbour sedimentation</dc:subject>
+	<dc:description xml:lang="en">The XBeach model has been applied for  different field sites, each having its specific problems. Cases were ranging from typical 1D beach erosion tests during storm conditions (to compare with Durosta results) which were extended to full 2D models to include the effects of curved coasts. For these kind of applications the XBeach model proved to be at least as good as Durosta for the 1D cases, but also giving the opportunity to include the 2D effects. Other examples are situated on high energy coasts (with long swell waves). Applications there are for example the design of a new coastal protection scheme, but also the study of sedimentation patterns in a shallow harbour surrounded by breakwaters and beaches. XBeach proved to be a powerful tool to get insight into these complex situations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1247</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1247/pdf_287</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

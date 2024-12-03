@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10264</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">POST-BOUSSINESQ MODEL FOR NONLINEAR IRREGULAR WAVE PROPAGATION IN PORTS AND WAVE-STRUCTURE INTERACTION</dc:title>
+	<dc:creator xml:lang="en">Karambas, Theofanis</dc:creator>
+	<dc:creator xml:lang="en">Makris, Christos</dc:creator>
+	<dc:creator xml:lang="en">Baltikas, Vasilis</dc:creator>
+	<dc:description xml:lang="en">In this work, an updated version of the Karambas and Memos (2009) Boussinesq model for weakly nonlinear fully dispersive water waves, is introduced. It is implemented for wave propagation and transformation (due to shoaling, refraction, diffraction, bottom friction, wave breaking, runup, wave-structure interaction etc.) in nearshore zones and inside ports. One of the main goals is the model's thorough validation, thus it is tested against experimental data of wave transmission over and through breakwaters, uni- and multi-directional spectral wave transformation over complex bathymetries and diffraction through a breakwater gap. Case studies of model application over realistic variable bathymetries at characteristic Greek ports are also presented.
+Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/w8-AfAW6EYM</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10264</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10264/9550</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Theofanis Karambas, Christos Makris, Vasilis Baltikas</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

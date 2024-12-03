@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12780</identifier>
+				<datestamp>2023-09-01T15:13:07Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF STOCHASTIC WAVE FORCING ON EQUILIBRIUM SHORELINE RESPONSE ACROSS THE 21st CENTURY INCLUDING SEA-LEVEL RISE</dc:title>
+	<dc:creator xml:lang="en">D’Anna, Maurizio</dc:creator>
+	<dc:creator xml:lang="en">Idier, Deborah</dc:creator>
+	<dc:creator xml:lang="en">Castelle, Bruno</dc:creator>
+	<dc:creator xml:lang="en">Rohmer, Jeremy</dc:creator>
+	<dc:creator xml:lang="en">Cagigal, Laura</dc:creator>
+	<dc:creator xml:lang="en">Mendez, Fernando J.</dc:creator>
+	<dc:description xml:lang="en">Chronic erosion of sandy shorelines is a great concern for coastal communities, and its associated risks can be exacerbated by sea-level rise (SLR). Probabilistic longterm predictions of shoreline change are crucial to an informed adaptation planning. While scientists are moving towards ensemble-based approaches to address uncertainties on shoreline evolution, they rarely account for the stochastic nature of wave conditions across a several temporal scales (e.g., daily, seasonal, and interannual). In this work, we investigate the effects of the inherent variability of wave conditions in relation to other uncertain factors (e.g. future SLR) on multi-decadal shoreline evolution at the cross-shore transport dominated beach of Truc Vert (France). The analysis also includes the comparison of two different wavedriven equilibrium models response to the variability of wave conditions.               </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12780</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12780/12053</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Maurizio D’Anna, Deborah Idier, Bruno Castelle, Jeremy Rohmer, Laura Cagigal, Fernando J. Mendez</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

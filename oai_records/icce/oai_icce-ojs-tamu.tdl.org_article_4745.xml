@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4745</identifier>
+				<datestamp>2021-01-19T16:15:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OCCURRENCE DISTRIBUTION OF MAXIMUM WAVE HEIGHT INCLUDING WAVE GROUPING EFFECT</dc:title>
+	<dc:creator xml:lang="en">Kondo, Kosuke</dc:creator>
+	<dc:creator xml:lang="en">Sekimoto, Tsunehiro</dc:creator>
+	<dc:creator xml:lang="en">Shimizu, Takuzo</dc:creator>
+	<dc:creator xml:lang="en">Imai, Sumio</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">maximum height</dc:subject>
+	<dc:subject xml:lang="en">occurrence distribution</dc:subject>
+	<dc:description xml:lang="en">The effect of wave grouping on the occurrence frequency distribution of maximum wave height was investigated on the basis of field observation data. The observed maximum wave height distribution fitted the distribution derived from Weibull distribution and was closely related with not only the wave grouping but also wave non-linearity. In the case of large degrees of wave grouping and wave non-linearity, it was found that the maximum wave height was greater than that estimated by the Rayleigh distribution.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4745</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4745/4426</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

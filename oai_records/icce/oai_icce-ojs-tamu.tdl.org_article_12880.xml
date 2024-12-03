@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12880</identifier>
+				<datestamp>2023-09-01T15:14:02Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL AND NUMERICAL STUDY ON OBLIQUE WAVE-IN-DECK LOADS</dc:title>
+	<dc:creator xml:lang="en">Wang, Hongchao</dc:creator>
+	<dc:creator xml:lang="en">Santo, Harrif</dc:creator>
+	<dc:description xml:lang="en">Most studies on wave-in-deck loads focus on head-on wave impingement whereas wave-in-deck loads due to waves incident from oblique directions are rarely reported. Numerical simulations for oblique wave-in-deck loads were presented in Iwanowski et al. (2002), Brodtkorb (2008) and Chen et al. (2018). However, in these studies, only numerical validations were performed against either two-dimensional experiments or empirical formulations due to a lack of experimental results. In light of this, we present the experimental results for wave impacts on a solid deck model due to a transient focused wave group incident from oblique direction in this study. The oblique experimental data is compared with the head-on counterpart by Santo et al, (2020) to investigate the incident wave angle effect on wave-in-deck loads. Numerical simulations are carried out to reproduce both the head-on and oblique wave-in-deck experiments using a three-dimensional (3D) numerical wave tank (NWT), and flow field information is interrogated to derive physical insights into complex wave-deck interactions. The solid deck model is a representative of a typical 2nd generation North Sea topside structures commonly exposed to severe winter weather. The configuration is also applicable to coastal structures such as bridges, piers, jetties or docks.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12880</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12880/12153</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Hongchao Wang, Harrif Santo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

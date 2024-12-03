@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1555</identifier>
+				<datestamp>2021-01-17T07:11:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE THEORY OF THE REFRACTION OF A SHORT CRESTED GAUSSIAN SEA SURFACE WITH APPLICATION TO THE NORTHERN NEW JERSEY COAST</dc:title>
+	<dc:creator xml:lang="en">Pierson, Jr., Willard J.</dc:creator>
+	<dc:creator xml:lang="en">Tuttell, John J.</dc:creator>
+	<dc:creator xml:lang="en">Woolley, John A.</dc:creator>
+	<dc:subject xml:lang="en">wave refraction</dc:subject>
+	<dc:subject xml:lang="en">wave theory</dc:subject>
+	<dc:subject xml:lang="en">Asbury Park</dc:subject>
+	<dc:subject xml:lang="en">New Jersery</dc:subject>
+	<dc:description xml:lang="en">The Thorndike Barnhart Dictionary (1951) defines a wave as a "moving ridge or swell of water." Almost everyone will agree to this definition. Milne-Thompson (1938) in Theoretical Hydrodynamics begins Chapter Fourteen on waves with the two paragraphs quoted in full below:
+"14.10 Wave motion. A wave motion of a liquid acted upon by gravity and having a free surface is a motion in which the elevation of the free surface above some chosen fixed horizontal plane varies with time.
+Taking the axis of x to be horizontal and the axis of z to be vertically upwards, a motion in which the vertical section of the free surface at time t is of the form z = a sin(mx - nt) (1), where a, m, n are constants, is called a simple harmonic progressive wave."</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1952-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1555</dc:identifier>
+	<dc:identifier>10.9753/icce.v3.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 3 (1952): Proceedings of Third Conference on Coastal Engineering, Cambridge, Massachusetts, 1952.; 8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1555/835</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

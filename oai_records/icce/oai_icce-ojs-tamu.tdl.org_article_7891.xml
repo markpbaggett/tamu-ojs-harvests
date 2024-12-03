@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7891</identifier>
+				<datestamp>2021-01-20T03:52:05Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RECENT DEVELOPMENTS RELATED TO A CONVOLUTION-TYPE, PHASE-RESOLVING WAVE MODEL</dc:title>
+	<dc:creator xml:lang="en">Schäffer, Hemming A.</dc:creator>
+	<dc:subject xml:lang="en">wave transformations</dc:subject>
+	<dc:subject xml:lang="en">convolution</dc:subject>
+	<dc:subject xml:lang="en">nonlinearity</dc:subject>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:subject xml:lang="en">wave generation</dc:subject>
+	<dc:subject xml:lang="en">full dispersion</dc:subject>
+	<dc:description xml:lang="en">This paper shows some 2DV examples of recent advances related to the long-term, ongoing development of an elaborate, fully dispersive and highly nonlinear 3D phase resolving wave model based on the convolution-type approach. Using impulse response functions pre-computed by solving local Laplace problems the model is entirely explicit in space during the evolution in time. The explicit convolution integral involves only the near field surface variables and eliminates the need for solving global systems of equations. The first example is a linear random-wave application to wavemaker performance in a flume with a cavity behind an elevated generator and illustrates the capability of the model to handle complex geometry. The second example demonstrates the ability to generate and propagate highly nonlinear regular waves starting with transients entering still water. The third example concerns highly nonlinear regular deep-water waves and shows how the surface variables can be post-processed to provide the internal wave kinematics throughout the water column all the way to the free surface.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7891</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7891/pdf_928</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

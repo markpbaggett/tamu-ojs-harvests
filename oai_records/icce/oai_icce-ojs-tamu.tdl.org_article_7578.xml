@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7578</identifier>
+				<datestamp>2021-01-20T04:24:29Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE SLAMMING IMPACT ON OFFSHORE WIND TURBINE FOUNDATIONS</dc:title>
+	<dc:creator xml:lang="en">Peng, Zhong</dc:creator>
+	<dc:subject xml:lang="en">wave slamming</dc:subject>
+	<dc:subject xml:lang="en">OpenFOAM</dc:subject>
+	<dc:subject xml:lang="en">monopile</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">wind turbine foundation</dc:subject>
+	<dc:description xml:lang="en">This study proposes a new parameter, the wave front steepness parameter, to better describe the wave slamming coefficient. Four cases of wave breaking were employed to study the relationship between wave front steepness and wave slamming coefficients. Based on model results with OpenFOAM, an empirical formula was derived to relate the slamming coefficient to the wave front steepness.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7578</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7578/pdf_826</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

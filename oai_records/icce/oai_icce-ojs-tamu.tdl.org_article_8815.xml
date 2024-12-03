@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8815</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OBSERVATIONS OF HORIZONTAL AND VERTICAL SEDIMENT FLUXES ON A SANDBAR IN THE SUSPENDED AND SHEET FLOW LAYERS</dc:title>
+	<dc:creator xml:lang="en">Mieras, Ryan S.</dc:creator>
+	<dc:creator xml:lang="en">Puleo, Jack A.</dc:creator>
+	<dc:creator xml:lang="en">Anderson, Dylan</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Tian-Jian</dc:creator>
+	<dc:creator xml:lang="en">Calantoni, Joe</dc:creator>
+	<dc:description xml:lang="en">The majority of prior sandbar migration studies have been conducted from the morphological standpoint, whereby, (i) bathymetric profiles are recorded over periods of time ranging from days to decades, at frequencies ranging from hourly to yearly (Ruessink et al., 2003), and (ii) hydrodynamic observations typically consist of far-field wave and environmental conditions. Subsequent modeling efforts have generally focused on tuning parameters in the sediment transport formulations (suspended load and bed load) to maximize model skill in predicting observed beach profiles over time (Fernández-Mora et al., 2015; Hoefel and Elgar, 2003). However, little emphasis at the operational level has been placed on tuning coastal morphology models to the true relative contributions of the physical processes (e.g. suspended load, bed load and/or sheet flow) that drive the changing bathymetry. This is due, in part, to the lack of detailed sediment transport observations (field and lab) under realistic wave forcing conditions and spatially variable bathymetry. Such a modeling approach leads to the improper quantification (magnitude and/or direction) of each modeled sediment transport component under skewed-asymmetric and/or breaking waves, often observed in the surf zone. The present study aims to better understand the physical mechanisms responsible for driving cross-shore sediment transport over a sandbar by quantifying (a) the vertical exchange of sediment at the near-bed interface (i.e. pick-up layer), and (b) intra-wave horizontal sediment fluxes in the suspended load and sheet layers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8815</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8815/7614</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8815/8154</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

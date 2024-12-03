@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12808</identifier>
+				<datestamp>2023-09-01T15:13:21Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INCLUSION OF CONTACT FRICTION FOR PARTICLE-BASED SIMULATION OF SEDIMENT TRANSPORT OVER MOBILE BED</dc:title>
+	<dc:creator xml:lang="en">Cao, Zhe</dc:creator>
+	<dc:creator xml:lang="en">Li, Ming</dc:creator>
+	<dc:description xml:lang="en">The particle based approach, including the particle resolving method, such as CFD-DEM, e.g. Drake and Calantoni (2001), Schmeeckle (2014), and the Particle-In-Cell (PIC) method, e.g. Patankar and Joseph (2001); Finn, M. Li, and Apte (2016); Y. Li et al. (2014), has become important tool for simulation of sediment transport in recent years. The latter is advantageous in the required computing resources when large amount of particles are involved and hence is more suitable for simulation of sediment transport over mobile bed. However, unlike that in CFD-DEM, special treatment is needed in the PIC method in order to prevent overlap and over-packing of sediment particles in a computational cell. Most models so far ignore the contact friction force between particles that hinders relative movement but often is essential to maintain particles in static position, especially in the seabed where the contact forces between particles are the largest. An new friction force is proposed to simulate the particle interactions, similar to the collision used in previous studies, so that the kinetic energy driving particles motion can be effectively dissipated and over-packing can be minimised under either static or dynamic stages of the particle motion.         </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12808</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12808/12081</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Zhe Cao, Ming Li</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

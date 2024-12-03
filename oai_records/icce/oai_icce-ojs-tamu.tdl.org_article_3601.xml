@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3601</identifier>
+				<datestamp>2021-01-19T22:51:26Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CONSIDERATIONS IN THE DESIGN OP AN OFFSHORE DATA COLLECTION PROGRAM</dc:title>
+	<dc:creator xml:lang="en">Cooper, Cortis</dc:creator>
+	<dc:creator xml:lang="en">Febres, German</dc:creator>
+	<dc:subject xml:lang="en">offshore data</dc:subject>
+	<dc:subject xml:lang="en">data collection</dc:subject>
+	<dc:subject xml:lang="en">collection program</dc:subject>
+	<dc:subject xml:lang="en">program design</dc:subject>
+	<dc:description xml:lang="en">In-situ data collection in the ocean is costly and unpredictable even when the program is relatively well planned and executed. Despite these inherent difficulties, designers of a data collection program will find little guidance in the literature to assist them in the planning and organizational stages. Some papers "have been published discussing particular aspects of a program such as instrumentation, and others have described some of the general experiences of various programs. However, there has been no attempt to conceptualize the process of design of an offshore data collection program and this is one of the purposes of the discussion which follows. The various steps involved in design are identified, ordered, and discussed in some detail. Specific examples are drawn from the authors' experiences with several offshore monitoring programs. The work presented is most applicable to the collection of oceanographic and meteorological (O/M) data since the authors' experience is essentially restricted to this particular type of data collection. However, it is suspected that a significant portion of the aspects considered would apply to offshore programs involving the collection of other types of data such as geotechnical. Many of the ideas presented originate from experience with two large 0/M programs conducted by Instituto Tecnoligico Venezolano del Petroleo (INTEVEP). One of the studies extended over the Orinoco Delta region of Venezuela with an area of roughly 150 x 150 kms. The program began in late 1977 and ended in the spring of 1979. O/M data were taken at nine stations in the region. Figure 1 shows the region and the location of the stations involved in the study. The second INTEVEP program was started in the summer of 1979 and covers the contiguous coastline of Venezuela, approximately 1200 x 100 kms. O/M data are being taken at nine stations during the three year life of the program. Figure 2 shows the coast of Venezuela and the station locations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3601</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.172</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 172</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3601/3283</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

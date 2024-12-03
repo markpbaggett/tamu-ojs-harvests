@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12979</identifier>
+				<datestamp>2023-09-01T15:14:49Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE CONTRIBUTION OF WAVE RUNUP TO COASTAL FLOODING AT NORFOLK (VA, USA) DURING EXTREME EVENTS</dc:title>
+	<dc:creator xml:lang="en">Lashley, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Puleo, Jack</dc:creator>
+	<dc:creator xml:lang="en">Shi, Fengyan</dc:creator>
+	<dc:description xml:lang="en">Coastal flooding occurs when the total water level (TWL) elevation exceeds that of the natural (e.g. dune) or built (e.g. levee) coastal defense. Operational models that estimate the TWL typically consider the combined effect of mean sea level (MSL), high tide, and storm surge. However, the extent to which storm waves run up the beach or structure is often neglected, as either computationally demanding numerical or site-specific empirical models are required to accurately resolve the components of wave runup. These components include a time-averaged surface elevation at the shoreline (wave setup) and time-varying fluctuations about that mean (swash), which may be further divided into high-frequency (sea and swell, SS) and low-frequency (infragravity, IG) motions. Therefore, any prediction tool used to estimate wave runup must account for breaking waves, which drives wave setup and infragravity motions. While neglecting wave runup allows for rapid hazard assessment on a large scale, studies have shown that its exclusion can lead to a significant underestimation in the TWL (Serafin et al., 2017). In this study, we assess the contribution of the individual components of wave runup (wave setup, SS and IG wave motions) to the TWL at the Norfolk Naval Station and its surrounding region (VA, USA) — a mesotidal area characterized by a mild continental shelf and exposed to hurricanes and nor’easters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12979</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12979/12252</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Christopher Lashley, Jack Puleo, Fengyan Shi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

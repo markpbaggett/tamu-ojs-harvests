@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4184</identifier>
+				<datestamp>2021-01-19T19:27:18Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION ON THERMAL DIFFUSION CONCERNING AIR-SEA HEAT EXCHANGE EFFECTS</dc:title>
+	<dc:creator xml:lang="en">Chyen, P.C.</dc:creator>
+	<dc:creator xml:lang="en">Yang, C.S.</dc:creator>
+	<dc:creator xml:lang="en">Wang, I.L.</dc:creator>
+	<dc:creator xml:lang="en">Hwung, H.H.</dc:creator>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">thermal diffusion</dc:subject>
+	<dc:subject xml:lang="en">heat exchange</dc:subject>
+	<dc:description xml:lang="en">The numerical simulations on thermal diffusion always concentrated upon the raised temperature and temperature distributions after the heated water discharged from outlet into surrounding water, and the surrounding water temperature was assumed to be a constant. Actually, the water temperature on surface layer in shallow water area varies several centigrade degrees depended upon the weather conditions during a whole day. In order to obtain the absolute water temperature prepared for the ecological changes assessment and even provided for the operation basis of the cooling water system that air-sea heat exchange has to be considered in the numerical simulation of thermal discharges. For the practical application of this numerical simulation, the first nuclear power plant in Taiwan was taken as an example and simulated in this paper. And the results were presented in figures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4184</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.183</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 183</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4184/3865</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

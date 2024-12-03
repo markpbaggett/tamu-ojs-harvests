@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10284</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTING INFRAGRAVITY WAVES IN HARBOURS - AN EVALUATION OF PUBLISHED EQUATIONS AND THEIR USE IN FORECASTING OPERATIONAL THRESHOLDS</dc:title>
+	<dc:creator xml:lang="en">McComb, Peter</dc:creator>
+	<dc:creator xml:lang="en">Zyngfogel, Remy</dc:creator>
+	<dc:creator xml:lang="en">Gomez, Begona Perez</dc:creator>
+	<dc:description xml:lang="en">Infragravity (IG) waves have received considerable study since the 1950s (Munk, 1949, Bertin, 2018), allowing their generation, propagation and impacts to be more effectively quantified. Here, we are concerned with the frequencies that directly excite motion in moored ships, thereby creating problematic and often unsafe conditions. Operational knowledge gained in surge-affected ports in Australia and New Zealand revealed IG height thresholds common to all locations (McComb, 2011), with wave periods from 25 to 120-150s being causative. A further observation that the IG spectral shapes at berths remain relatively constant regardless of the incident short wave spectra (McComb, 2014) allows robust predictive methodologies to be developed to forecast the onset and the passing of these empirically-derived values. The governing IG height thresholds are: Hsless than 0.10m is safe and manageable for a well-tendered vessel; at Hs 0.10-0.15m caution is advised and additional management is recommended, and at Hsgreater than 0.15m active management is required. Management options include shore moorings, pneumatic fendering, ShoreTension, MoorMaster etc. Without intervention, IG conditions greater than 0.20m are universally considered dangerous. Further, IG heights are strongly modulated by tide at certain locations (Thomson, 2006), which creates rapidly changing conditions that compound the difficulties ensuring safe and effective operations. We selected five published methods to predict nearshore IG height (Lara 2004, McComb 2005, Okihiro 1992, Arduin 2014 and Cuomo 2017) and undertook an evaluation of their efficacy at two energetic ports on opposite sides of the Earth. The ports of Gijon in Spain and Taranaki in New Zealand both experience problematic moored ship motions and have been subject to numerous studies of their wave dynamics over previous decades. Consequently, there is a body of knowledge, operational experience and local data to make an evaluation. The purpose of this work is to offer pragmatic guidance to the developers of operational forecasting systems on the optimal method to predict IG heights for safe mooring of ships at berth. Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/8oCRQkMdcIo</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10284</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10284/9570</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Peter McComb, Remy Zyngfogel, Begona Perez Gomez</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

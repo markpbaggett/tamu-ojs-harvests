@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5522</identifier>
+				<datestamp>2021-01-19T11:53:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD TESTS OF SUSPENDED-LOAD TRANSPORT THEORIES USED IN NUMERICAL MODELS</dc:title>
+	<dc:creator xml:lang="en">White, Thomas E.</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">field test</dc:subject>
+	<dc:description xml:lang="en">Surfzone optical-backscatter measurements were conducted at a long, straight sandy beach near Colorado River, Texas, in order to test velocity-based theories for predicting suspended-load sediment transport. Statistical methods were applied that provided estimates of theory performances, independent of any calibration or tuning of the model coefficients. The models of Ackers and White, Bowen, and Roelvink and Stive showed trends opposite that of the data (increasing transport estimates as measured transport decreased). The Bailard model performed very well in the cross-shore, explaining both the trends in transport and most of the variance, as determined by correlation coefficients. Bailard's model did not explain most of the variance in the longshore data, but comparison of the model's performance with other datasets show good correlation in the longshore. When the original coefficients in the unidirectional-flow-based Ackers and White model are used, very low transport estimates are produced. This suggests that this empirical model that was calibrated for unidirectional flows should not be used in coastal areas without considerable recalibration of the coefficients using high-quality datasets.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5522</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5522/5196</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

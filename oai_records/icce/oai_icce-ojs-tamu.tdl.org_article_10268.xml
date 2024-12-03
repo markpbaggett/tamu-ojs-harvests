@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10268</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENSEMBLE WAVE CLIMATE PROJECTIONS BASED ON CMIP5 MODELS</dc:title>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Morim, Joao</dc:creator>
+	<dc:creator xml:lang="en">Hemer, Mark</dc:creator>
+	<dc:creator xml:lang="en">Wang, Xiaolan L.</dc:creator>
+	<dc:creator xml:lang="en">Project, COWCLIP</dc:creator>
+	<dc:description xml:lang="en">A warming climate has the potential to not only raise sea level but also exacerbate coastal hazards due to changes in storm frequency and intensity. Along open coasts where wave energy is often the dominant process dictating shoreline positions, changes in mean and extreme wave conditions are likely to alter long-term geomorphic evolution patterns. The Coordinated Ocean Wave Climate Project (COWCLIP) is to provide infrastructure to support a systematic, community-based framework that allows for validation and inter-comparison of wave projections. Here, the primary aims are to 1) present quantitative evaluations of projected global scale wave conditions and 2) to present the framework and preliminary results of regional wave modeling that will provide projections of nearshore wave conditions for use in long-term geomorphic change analyzes.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/Y6BEHq5wZXw</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10268</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10268/9554</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Nobuhito Mori, Joao Morim, Mark Hemer, Xiaolan L. Wang, COWCLIP Project</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

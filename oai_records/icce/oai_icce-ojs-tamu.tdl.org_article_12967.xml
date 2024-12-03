@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12967</identifier>
+				<datestamp>2023-09-01T15:14:43Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MONTE CARLO SIMULATION OF BARRIER-ISLAND SYSTEMS AND TSUNAMI HAZARDS</dc:title>
+	<dc:creator xml:lang="en">Irish, Jennifer L.</dc:creator>
+	<dc:creator xml:lang="en">Weiss, Robert</dc:creator>
+	<dc:creator xml:lang="en">Dura, Tina</dc:creator>
+	<dc:description xml:lang="en">Robust characterization of the future tsunami hazard is critically important for resilient planning and engineering in coastal communities prone to tsunami inundation. The hazard from earthquake-generated tsunami waves is not only determined by the earthquake's characteristics and distance to the earthquake area, but also by the geomorphology of the nearshore and onshore areas, which can change over time. In coastal hazard assessments, a changing coastal environment is commonly taken into account by increasing the sea-level to projected values (static). However, sea-level changes and other climate-change impacts influence the entire coastal system causing morphological change (dynamic). Here, we present the modeling framework and results initially published in Weiss et al. (2022), which employs within a Monte Carlo framework the barrier island-marsh, lagoon- marsh evolution model of Lorenzo-Trueba and Mariotti (2017) and the tsunami model Geoclaw (e.g., LeVeque et al. 2011). We compare the runup of the same suite of earthquake-generated tsunamis to a barrier system for statically adjusted and dynamically adjusted sea level and bathymetry over the period from 2000 to 2100. We employ Representative Concentration Pathways 2.6 and 8.5 without and with treatment of Antarctic ice-sheet processes (e.g., Kopp et al. 2017) as different sea-level projections.      </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12967</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12967/12240</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jennifer L. Irish, Robert Weiss, Tina Dura</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

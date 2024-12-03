@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1069</identifier>
+				<datestamp>2023-10-04T04:17:10Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STORM BEACH BUFFER REQUIREMENT FOR STORM WAVES FROM A TROPICAL CYCLONE</dc:title>
+	<dc:creator xml:lang="en">Lee, Fang Chun</dc:creator>
+	<dc:creator xml:lang="en">Lin, Wen Hua</dc:creator>
+	<dc:creator xml:lang="en">Hsu, John R.-C.</dc:creator>
+	<dc:subject xml:lang="en">storm beach buffer</dc:subject>
+	<dc:subject xml:lang="en">berm erosion</dc:subject>
+	<dc:subject xml:lang="en">bar distance offshore</dc:subject>
+	<dc:subject xml:lang="en">storm return period</dc:subject>
+	<dc:subject xml:lang="en">beach profile changes</dc:subject>
+	<dc:description xml:lang="en">Storm beach buffer, being different from the coastal set back currently in place in many countries in the world, is the provision of a sufficient beach width to safe guard against the onslaught of a fierce storm. The extent of this requirement is tentatively assessed using the SBEACH module in the CEDAS package. The inputs for the SBEACH module include berm width, medium sand grain diameter, beach slope, design water level and wave conditions; while the outputs consist of a range of characteristic parameters for the change in beach profile, especially berm erosion and bar formation resulting from a storm of different return periods. After having systematically performed a series of numerical studies, we may conclude that: (1) Berm erosion increases and bar becomes further offshore as the storm return period increases on a beach with identical sand grain size (i.e., non-dimensional fall velocity), or as sand grain dimension reduces; (2) Higher storm waves result in a larger bar to form quicker and cause wave breaking on the bar crest which could reduce the wave energy and limit the extent of the subsequent berm erosion; (3) Empirical equations can be derived to calculate the storm beach buffer width; and (4) A larger buffer is required for a beach with smaller sand grain, in order to effectively absorb the storm wave energy. The results presented in this paper can be used to assist in a beach nourishment project for shore protection and the design of a recreational beach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1069</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1069/pdf_174</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5261</identifier>
+				<datestamp>2021-01-19T13:19:40Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FULLY NONLINEAR PROPERTIES OF PERIODIC WAVES SHOALING OVER SLOPES</dc:title>
+	<dc:creator xml:lang="en">Grilli, Stephen T.</dc:creator>
+	<dc:creator xml:lang="en">Horrillo, Juan</dc:creator>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:subject xml:lang="en">slope</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:description xml:lang="en">Shoaling of finite amplitude periodic waves over a sloping bottom is calculated in a numerical wave tank which combines: (i) a Boundary Element Model to solve Fully Nonlinear Potential Flow (FNPF) equations; (ii) an exact generation of zero-mass-flux Streamfunction Waves at the deeper water extremity; and (iii) an Absorbing Beach (AB) at the far end of the tank, which features both free surface absorption (through applying an external pressure) and lateral active absorption (using a piston-like condition). A feedback mechanism adaptively calibrates the beach absorption coefficient, as a function of time, to absorb the period-averaged energy of incident waves. Shoaling of periodic waves of various heights and periods is modeled over 1:35,1:50, and 1:70 slopes (both plane and natural), up to very close to the breaking point. Due to the low reflection from both the slope and the AB, a quasi-steady state is soon reached in the tank for which local and integral properties of shoaling waves are calculated (K,, c, H/h, kH, rjm, Sxx,...). Comparisons are made with classical wave theories and observed differences are discussed. Parameters providing an almost one-to-one relationship with relative depth kh in the shoaling region are identified. These could be used to solve the so-called depth-inversion problem.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5261</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5261/4939</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

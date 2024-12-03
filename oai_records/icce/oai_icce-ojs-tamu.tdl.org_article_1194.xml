@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1194</identifier>
+				<datestamp>2023-10-04T04:05:00Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SAND TRANSPORT BY SURFACE WAVES: CAN STREAMING EXPLAIN THE ONSHORE TRANSPORT?</dc:title>
+	<dc:creator xml:lang="en">Kranenburg, Wouter</dc:creator>
+	<dc:creator xml:lang="en">Ribberink, Jan</dc:creator>
+	<dc:creator xml:lang="en">Uittenbogaard, Rob</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">boundary layers</dc:subject>
+	<dc:subject xml:lang="en">streaming</dc:subject>
+	<dc:subject xml:lang="en">sheet-flow</dc:subject>
+	<dc:description xml:lang="en">In wave flumes an onshore boundary layer current is present that is not present in oscillating flow tunnels. We investigate numerically the hypothesis that this streaming explains the measured increase of onshore directed sediment transport in flumes over tunnels. In the formulation and validation of the model special attention has been given to the wave-generated net current profile. From model experiments we conclude that the additional current indeed contributes to onshore transport, but can not be the full explanation of the measured differences in transport rates. Other contributing mechanisms are the amplification/reduction of the fall velocity by vertical sediment advection (only relevant for fine grains) and the amplification/reduction of the concentration at maximum onshore/offshore velocity by intra-wave gradients in horizontal sediment flux. The latter contributes, for the investigated cases, to onshore transport with comparable order as the boundary layer current. These conclusions are relevant for further development of parameterizations of wave-induced sediment transport for morphodynamic models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1194</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1194/pdf_236</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

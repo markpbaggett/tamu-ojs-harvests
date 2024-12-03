@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5260</identifier>
+				<datestamp>2021-01-19T13:20:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEA STATE PARAMETERISATION USING EMPIRICAL ORTHOGONAL FUNCTIONS</dc:title>
+	<dc:creator xml:lang="en">Cieslikiewicz, Witold</dc:creator>
+	<dc:creator xml:lang="en">Graff, Jerzy</dc:creator>
+	<dc:subject xml:lang="en">sea state</dc:subject>
+	<dc:subject xml:lang="en">empirical function</dc:subject>
+	<dc:subject xml:lang="en">orthogonal function</dc:subject>
+	<dc:description xml:lang="en">In this paper the development of a parametric transformation linking the meteorological conditions with the sea response for the Irish Sea and the southern North Sea regions is presented. The method of empirical orthogonal functions and system identification procedures are used to develop the parameterisation. The reference data sets used in the investigation consist of high quality hindcast data (41 storm events) and field measurements (13 years) covering meteorological and sea state parameters. The method of empirical orthogonal functions is applied to the wind velocity field and it is shown that the wind field time history can be adequately represented by the first few principal components. These wind field principal components together with atmospheric pressure parameters are used to synthesise the meteorological input for system identification. The system identification procedures are then applied to develop a new efficient form of parametric model linking spatial meteorological data with sea state response.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5260</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5260/4938</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

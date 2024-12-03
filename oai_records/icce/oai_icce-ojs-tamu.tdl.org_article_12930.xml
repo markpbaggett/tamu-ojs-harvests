@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12930</identifier>
+				<datestamp>2023-09-01T15:14:26Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF TANDEM BREAKWATER ON PRESSURE REDUCTION ON VERTICAL SEAWALL</dc:title>
+	<dc:creator xml:lang="en">Nimma, Rambabu</dc:creator>
+	<dc:creator xml:lang="en">K, Srineash V</dc:creator>
+	<dc:description xml:lang="en">There is an urgent need to develop methodologies to upgrade and retrofit existing coastal structures to retain their functionality in the scenario of changing climate. It is noticed that higher wave loads cause structural damage and increase wave overtopping rates, resulting in coastal flooding and inundation. Hard structures like seawalls can be reinforced by constructing a submerged breakwater in tandem with the seawall to adapt to the increased wave action due to climate change. Wave height attenuation, overtopping volume, and wave pressure or forces on structures are the important design parameters to be considered for the design of upgradation methods for coastal structures to withstand future climatic events. There are few works available in the literature focused on this direction. In the present study, we focus on pressure reduction on seawall due to the presence of a submerged breakwater in tandem with the seawall. Numerical simulations were carried out using a CFD-based numerical tool REEF3D to understand the effect of a submerged breakwater on wave pressure reduction on the seawall. The work also includes a validation study where the numerical results based on the present work are compared with the experimental studies from the literature.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12930</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.74</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.74</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12930/12203</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Rambabu Nimma, Srineash V K</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

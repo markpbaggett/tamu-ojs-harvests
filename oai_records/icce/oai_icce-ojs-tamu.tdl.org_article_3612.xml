@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3612</identifier>
+				<datestamp>2021-01-19T22:47:33Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENTS OF OSCILLATORY DRAG ON SAND RIPPLES</dc:title>
+	<dc:creator xml:lang="en">Lafquist, Karl E.B.</dc:creator>
+	<dc:subject xml:lang="en">ripples</dc:subject>
+	<dc:subject xml:lang="en">sand ripples</dc:subject>
+	<dc:subject xml:lang="en">oscillatory drag</dc:subject>
+	<dc:subject xml:lang="en">bed drag</dc:subject>
+	<dc:subject xml:lang="en">bottom friction</dc:subject>
+	<dc:description xml:lang="en">Measurements have been made of drag on naturally rippled sand beds in an oscillatory-flow water tunnel. A partition splits the tunnel into two parallel channels with equal cross sections and volume rates of flow, one with a smooth flat rigid bottom and the other containing the sand bed. Roughly, the difference in the two bottom drags, the one known, is equal to the difference in the net pressure forces on the water in the two channels, which is obtained from measurements of pressure differences across the partition at each end of the sand bed. Each experiment provides the drag, or average bottom stress, on the rippled sand bed as a function of the phase, 6, of the sinusoidal flow. From a first set of thirteen experiments with a medium sand, a stress coefficient, f(0), is presented in three families of curves which explore the additional effects of flow velocity, ripple length, and deviations of the ripple profile from normal equilibrium. Average rates of energy dissipation are calculated. Results show f to be a complicated function of 0 and other parameters. In particular, the instantaneous stress is not simply related to the instantaneous velocity. Some salient features of f(0) are described, qualitatively, by a simple model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3612</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.183</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 183</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3612/3294</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

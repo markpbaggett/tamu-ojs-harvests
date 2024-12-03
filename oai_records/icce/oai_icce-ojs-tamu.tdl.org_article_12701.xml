@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12701</identifier>
+				<datestamp>2023-09-01T15:12:22Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OPTIMIZING BED LEVELS IN PORTS BASED ON PORT ACCESSIBILITY</dc:title>
+	<dc:creator xml:lang="en">Bakker, F.P.</dc:creator>
+	<dc:creator xml:lang="en">Koningsveld, M. van</dc:creator>
+	<dc:description xml:lang="en">Ports strive to maximize their revenues through being sufficiently nautically accessible for sea-going vessels while minimizing dredging efforts, among many other objectives. These two objectives form an interesting trade-off as they are both dependent on the chosen maintained bed level. Due to system complexities, the design of maintained bed levels is typically optimized using individual design vessels, thereby neglecting the potential interactions between the in- and outgoing nautical traffic. These interactions may in fact be important. To investigate the effect of these interactions on port accessibility, a novel nautical traffic simulator has been built within an open-source discrete-event model. Application to a simple case study of a liquid bulk terminal in the Port of Rotterdam, shows that the interactions between the nautical traffic dynamics and the bed levels can lead to cascading effects that indeed reduce the accessibility and performance of a port. Further ongoing research with the nautical traffic model is expected to result in more accurate assessments of appropriate bed levels, compared to the current approaches.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12701</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12701/11974</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 F.P. Bakker, M. van Koningsveld</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

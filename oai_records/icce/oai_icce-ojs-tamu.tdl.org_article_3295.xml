@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3295</identifier>
+				<datestamp>2021-01-20T00:33:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE ENERGY SPECTRA OF SURF WAVES ON A CORAL REEF</dc:title>
+	<dc:creator xml:lang="en">Lee, Theodore T.</dc:creator>
+	<dc:creator xml:lang="en">Black, Kerry P.</dc:creator>
+	<dc:subject xml:lang="en">coral reef</dc:subject>
+	<dc:subject xml:lang="en">reef</dc:subject>
+	<dc:subject xml:lang="en">surf waves</dc:subject>
+	<dc:subject xml:lang="en">energy spectra</dc:subject>
+	<dc:description xml:lang="en">The transformation of waves crossing a coral reef in Hawaii including the probability density function of the wave heights and periods and the shape of the spectrum is discussed. The energy attenuation and the change of height and period statistics is examined using spectral analysis and the zero up-crossing procedure. Measurements of waves at seven points along a 1650 ft transect in depths from 1 to 3.5 ft on the reef and 35 ft offshore were made. The heights were tested for Rayleigh, truncated Rayleigh and Wei bull distributions. A symmetrical distribution presented by Longuet-Higgins (1975) and the Weibull distribution were compared to the wave period density function. In both cases the Weibull probability density function fitted with a high degree of correlation. Simple procedures to obtain Weibull coefficients are given. Fourier spectra were generated and contours of cumulative energy against each position on the reef show the shifting of energy from the peak as the waves move into shallow water. A design spectrum, with the shape of the Weibull distribution, is presented with procedures given to obtain the coefficients which govern the distribution peakedness. Normalized non-dimensional frequency and period spectra were recommended for engineering applications for both reef and offshore locations. A zero up-crossing spectrum (ZUS) constructed from the zero upcrossing heights and periods is defined and compared with the Fourier spectrum. Also discussed are the benefits and disadvantages of the ZUS, particularly for non-linear wave environments in shallow water. Both the ZUS and Fourier spectra are used to test the adequacy of formulae which estimate individual wave parameters. Cross spectra analysis was made to obtain gain function and squared coherency for time series between two adjacent positions. It was found that the squared coherency is close to unity near the peak frequency. This means that the output time series can be predicted from the input by applying the gain function. However, the squared coherency was extremely small for other frequencies above 0.25 H2.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3295</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3295/2963</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

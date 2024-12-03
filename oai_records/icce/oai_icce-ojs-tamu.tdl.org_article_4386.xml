@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4386</identifier>
+				<datestamp>2021-01-19T18:18:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMPLIFIED MODELS FOR MEASURING ARMOUR UNIT FORCES</dc:title>
+	<dc:creator xml:lang="en">Scott, R.D.</dc:creator>
+	<dc:creator xml:lang="en">Turcke, D.J.</dc:creator>
+	<dc:creator xml:lang="en">Anglin, C.D.</dc:creator>
+	<dc:creator xml:lang="en">Baird, W.F.</dc:creator>
+	<dc:subject xml:lang="en">simplified model</dc:subject>
+	<dc:subject xml:lang="en">armor unit</dc:subject>
+	<dc:subject xml:lang="en">armor forces</dc:subject>
+	<dc:description xml:lang="en">Damage of concrete armour units on a number of breakwaters around the world has brought into question the design methodology for these structures. The interaction of waves with a rubblemound breakwater is a complex process typified by the random nature of the wave loadings and of the placement and orientation of the armour units. The objective of this paper is to present the development of a more simplistic physical model for establishing a realistic upperbound for the forces occurring on concrete armour units, to more readily understand the response of the unit to various wave parameters, and to explore the effect of carrying out tests at different scales. The results of these investigations demonstrate the applicability of employing simplified models to assist in understanding the response of armour in a breakwater and the consistency of the instrumentation at different scales.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4386</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.179</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 179</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4386/4067</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

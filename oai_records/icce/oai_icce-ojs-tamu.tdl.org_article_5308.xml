@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5308</identifier>
+				<datestamp>2021-01-19T13:04:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GENERATION OF INFRAGRAVITY WAVES</dc:title>
+	<dc:creator xml:lang="en">Van Dongeren, A.R.</dc:creator>
+	<dc:creator xml:lang="en">Svendsen, I.A.</dc:creator>
+	<dc:creator xml:lang="en">Sancho, F.E.</dc:creator>
+	<dc:subject xml:lang="en">infragravity waves</dc:subject>
+	<dc:subject xml:lang="en">wave generation</dc:subject>
+	<dc:description xml:lang="en">In this paper the deptz-integrated, short wave-averaged nearshore circulation model SHORECIRC is used to study the generation of infragravity waves due to normally incident short wave groups on a plane beach. After linear separation of the incident and reflected long waves, it is shown that the incoming long wave shoals faster than Green's Law predicts for free waves. This indicates that energy is transferred from the short wave groups to the long wave. However, it does not shoal as quickly as Longuet-Higgins &amp; Stewart's (1962) steady state theory for bound waves suggests. The outgoing long wave deshoals according to Green's Law but it is shown that energy is traded back and forth with the incoming short wave groups. Different shoaling and deshoaling curves can be found for different parameter choices. The work term in the long wave energy equation is used to explain these differences and ratio of the number of short wave groups to the surf zone width is confirmed to be an important parameter. As a consequence, the energy of the outgoing long wave can be larger or smaller than that of the incoming long wave, depending on the value of that parameter. Finally, the nonlinear version of the model shows the importance of the mean set-up on the generation of long waves, in particular very close to the shoreline.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5308</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5308/4986</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4502</identifier>
+				<datestamp>2021-01-19T17:38:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCALE EFFECTS IN BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Toumazis, A.D.</dc:creator>
+	<dc:creator xml:lang="en">Anastasiou, K.</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">scale effects</dc:subject>
+	<dc:description xml:lang="en">A breaking wave model, which is partly physical and partly analytical, is proposed. This model is based on observations that up to a certain moment the wave presents a long, smooth, horizontal, cylindrical edge, which then segments due to surface tension effects. A disturbance on a cylindrical surface, withdrawn from the influence of gravity, becomes unstable when its wavelength exceeds the circumference of the cylinder. The rate of growth of the instability, is a function of the radius of the cylinder and the wavelength of the disturbance. Using the theory describing the evolution of the assumed hyperbolic shape of the tip of a breaking wave, the radius of the cylindrical edge is approximated to the radius of curvature of the hyperbola. The model describes the three-dimensional evolution of the curling wave crest. Scale effects are then derived which show good agreement with experimental results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4502</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4502/4183</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

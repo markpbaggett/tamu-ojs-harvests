@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8745</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A METHOD TO SYSTEMATICALLY CLASSIFY DESIGN CHARACTERISTICS OF SAND NOURISHMENTS</dc:title>
+	<dc:creator xml:lang="en">Gijsman, Rik</dc:creator>
+	<dc:creator xml:lang="en">Visscher, Jan</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:description xml:lang="en">The decades of collected monitoring data of coastal profiles in combination with the decades of experience with sand nourishments in the Wadden Sea, forms an invaluable basis to study the inter-site efficiency of sand nourishment design. However, a systematic data-driven study of this type needs to be applicable for the inter-site varying (i) nourishment design strategies, (ii) coastal monitoring data sets and (iii) natural morphodynamics of the shorelines, respectively. This study introduces a four-step method able to systematically classify the influence of individual nourishment design parameters on the nourishment lifetime (i.e. the period of influence on the natural dynamics of a coastal profile). With the non-linear and adaptive principle component analysis (PCA) method, nourishment lifetimes of beach- and shoreface nourishments are extracted from data sets that describe different natural morphodynamics. Based on an application of the method to a limited number of nourishments placed in two coastal areas in the Netherlands (Ameland) and Germany (Sylt), increasing nourishment concentration, alongshore nourishment length and absolute nourishment peak elevation seem to increase the lifetime of beach- and shoreface nourishments. Nourishment lifetimes at profile more downstream seem to decrease for beach nourishments, but increase for shoreface nourishments. The method supports inclusion of additional coastal profiles and parameters related to the nourishment design, natural morphodynamics of the coastal profile and hydrodynamic forcing, to quantify nourishment design influences on nourishment lifetimes at different locations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8745</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8745/7545</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8745/8108</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

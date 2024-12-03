@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4679</identifier>
+				<datestamp>2021-01-19T16:37:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BREAKING WAVES PROPAGATING OVER A SHOAL</dc:title>
+	<dc:creator xml:lang="en">Battjes, J.A.</dc:creator>
+	<dc:creator xml:lang="en">Beji, S.</dc:creator>
+	<dc:subject xml:lang="en">shoal</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:description xml:lang="en">Spectral evolution of breaking and nearly breaking waves propagating over a submerged trapezoidal bar has been investigated in laboratory experiments. It is found that wave breaking itself does not play a crucial role in the evolution of the spectral shape, but contributes simply by extracting energy roughly in proportion to the local spectral density. For nonbreaking waves, a Boussinesq model with improved dispersion characteristics is found to simulate the wave evolution very well. On the basis of these findings, it is suggested to combine a semi-empirical model for the overall energy dissipation with a nondissipative Boussinesq model so as to obtain a model for simulation of spectral evolution of breaking waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4679</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4679/4360</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

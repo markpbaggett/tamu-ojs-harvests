@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1117</identifier>
+				<datestamp>2023-10-04T04:12:20Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GRAVEL BEACHES WITH SEAWALLS</dc:title>
+	<dc:creator xml:lang="en">Van der Werf, Ivo</dc:creator>
+	<dc:creator xml:lang="en">Van Gent, Marcel R.A.</dc:creator>
+	<dc:subject xml:lang="en">rock slopes</dc:subject>
+	<dc:subject xml:lang="en">gravel beaches</dc:subject>
+	<dc:subject xml:lang="en">cobble beaches</dc:subject>
+	<dc:subject xml:lang="en">seawalls</dc:subject>
+	<dc:subject xml:lang="en">dynamic revetments</dc:subject>
+	<dc:subject xml:lang="en">wave flume</dc:subject>
+	<dc:subject xml:lang="en">permeability</dc:subject>
+	<dc:description xml:lang="en">This paper focusses on some fundamental aspects of gravel beaches and revetments with dynamic rock slopes. Obviously, the response of gravel beaches depends on parameters such as the wave height and the stone size. Here, other parameters such as the permeability of the subsoil, the influence of sand in the pores of gravel, and the influence of seawalls have been studied. The results from the physical model tests indicate that a homogeneous mound of gravel with an initial slope of 1:8 leads to a more dynamic response than a gravel beach with an impermeable subsoil. The results also show that if the pores are filled with sand, the response becomes less dynamic. Placing a seawall on a gravel beach may be interesting for gravel beaches that serve as (man-made) sea defence. Furthermore, the results provide insight into the magnitude of scale effects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1117</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1117/pdf_203</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

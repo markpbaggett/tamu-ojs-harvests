@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7756</identifier>
+				<datestamp>2021-01-20T03:37:51Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATIONS ON QUARRY STONE TOE BERM STABILITY</dc:title>
+	<dc:creator xml:lang="en">Muttray, Markus</dc:creator>
+	<dc:creator xml:lang="en">Reedijk, Bas</dc:creator>
+	<dc:creator xml:lang="en">de Rover, Richard</dc:creator>
+	<dc:creator xml:lang="en">van Zwicht, Bart</dc:creator>
+	<dc:subject xml:lang="en">rubble-mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">rock toe</dc:subject>
+	<dc:subject xml:lang="en">toe berm stability</dc:subject>
+	<dc:description xml:lang="en">Model test results from four experimental studies have been compiled in a data set with 687 test results. Three widely used or recently developed toe stability formulae have been validated against these model test results. It was found that all three formulae suffer from a lack of accuracy and general validity. This is caused by shortcomings of the underlying wave flume studies. More precisely, the wave height and the water depth above the toe berm are two main influence parameters for the toe berm stability and they are not independent in these studies. Testing the interdependence of parameters is therefore recommended for wave flume studies. An alternative toe berm stability formula was developed by a step-wise approach starting with a simple case with a minimum number of influencing factors and followed by more complex cases. The new formula is believed to provide a more meaningful description of the toe berm stability than existing formulae; this however requires further substantiation. The new approach is proposed as a working hypothesis for further studies and is recommended as benchmark for toe berm testing and design.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7756</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7756/pdf_971</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1211</identifier>
+				<datestamp>2023-10-04T04:11:25Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACT FORCE ANALYSIS ON WAVE DISSIPATING CONCRETE BLOCKS DURING ROCKING MOTION</dc:title>
+	<dc:creator xml:lang="en">Mitsui, Jun</dc:creator>
+	<dc:creator xml:lang="en">Yamamoto, Masato</dc:creator>
+	<dc:creator xml:lang="en">Noboru, Satoshi</dc:creator>
+	<dc:creator xml:lang="en">Nishiwaki, Ichiro</dc:creator>
+	<dc:subject xml:lang="en">wave dissipating concrete block</dc:subject>
+	<dc:subject xml:lang="en">impact force</dc:subject>
+	<dc:subject xml:lang="en">drop test</dc:subject>
+	<dc:description xml:lang="en">Breakage of wave dissipating concrete blocks occasionally occurs due to collision with other blocks during rocking motion under wave action. Therefore, an understanding of the impact forces induced by rocking blocks is important to solve this problem. The authors formulated impact forces using impact velocity, properties of materials, and dimensionless parameters depending on the shape of blocks to propose a theory to predict the magnitude of impact force. Fundamental drop tests using tetrapods were also conducted to confirm the proposed formula. Various sizes of blocks were used in the drop tests to reveal the scale effects. It is shown that predicted impact forces agree well with measured ones and that no scale effects concerning impact force seem to exist in the range of this study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1211</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1211/pdf_138</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

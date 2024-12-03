@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6674</identifier>
+				<datestamp>2023-10-04T03:04:06Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BARRED-BEACH MORPHOLOGICAL CONTROL ON INFRAGRAVITY MOTION</dc:title>
+	<dc:creator xml:lang="en">Almar, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Cienfuegos, Rodrigo</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Eduardo</dc:creator>
+	<dc:creator xml:lang="en">Catalán, Patricio</dc:creator>
+	<dc:creator xml:lang="en">Michallet, Hervé</dc:creator>
+	<dc:creator xml:lang="en">Bonneton, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Castelle, Bruno</dc:creator>
+	<dc:creator xml:lang="en">Suarez, Leandro</dc:creator>
+	<dc:subject xml:lang="en">Longwave dynamics</dc:subject>
+	<dc:subject xml:lang="en">Sandbar</dc:subject>
+	<dc:subject xml:lang="en">Swash</dc:subject>
+	<dc:subject xml:lang="en">Nearshore</dc:subject>
+	<dc:subject xml:lang="en">Laboratory experiment</dc:subject>
+	<dc:subject xml:lang="en">Non-linear Boussinesq wave modeling</dc:subject>
+	<dc:subject xml:lang="en">Radon transform</dc:subject>
+	<dc:subject xml:lang="en">Incoming/Outgoing wave separation</dc:subject>
+	<dc:subject xml:lang="en">Infragravity resonance</dc:subject>
+	<dc:description xml:lang="en">A conceptual analysis of the coupling between bars and infragravity waves is performed combining laboratory experiments and numerical modeling. Experiments are carried out in a wave flume with a barred profile. The Boussinesq fully-nonlinear model SERR1D is validated with the laboratory data and a sensitivity analysis is performed next to study the influence on the infragravity wave dynamics of bar amplitude and location, and swash zone slope. A novel technique of incident and reflected motions separation that conserves temporal characteristics is applied. We observe that changing bar characteristics induces substantial variations in trapped energy. Interestingly, a modification of swash zone slope has a large influence on the reflected component, controlling amplitude and phase time-lag, and consequently on the resonant pattern. Variations of trapped infragravity energy induced by changes of swash zone slope reach 25 %. These changes in infragravity pattern consequently affect short-wave dynamics by modifying the breakpoint location and the breaking intensity. Our conceptual investigation suggests the existence of a morphological feedback through the action of evolving morphology on infragravity structures which modulates the action of short-waves on the morphology itself.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6674</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6674/pdf_651</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

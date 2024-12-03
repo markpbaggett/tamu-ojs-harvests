@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6912</identifier>
+				<datestamp>2023-10-04T02:53:10Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE WAVE RUN-UP SIMULATOR, THEORY AND FIRST PILOT TEST</dc:title>
+	<dc:creator xml:lang="en">van der Meer, Jentsje</dc:creator>
+	<dc:creator xml:lang="en">Provoost, Yvo</dc:creator>
+	<dc:creator xml:lang="en">Steendam, Gosse Jan</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">run-up</dc:subject>
+	<dc:subject xml:lang="en">simulator</dc:subject>
+	<dc:subject xml:lang="en">flow velocity</dc:subject>
+	<dc:description xml:lang="en">The idea of the Wave Run-up Simulator is based on the experiences with the Wave Overtopping Simulator. It is possible to simulate wave tongues overtopping a dike crest in reality. It must also be possible to simulate waves in the run-up and run-down zone of the seaward slope. This is the zone after waves have broken and when they rush-up the slope. The present paper describes this new idea of the Wave Run-up Simulator, why it is useful to develop the machine, to perform research with it and to develop a prediction method for slope strength. In fact, a prediction method can already be developed from the Cumulative Overload Method, which was developed on the basis of results with the Wave Overtopping Simulator, see Van der Meer et al. (2010). It also means that tests on the seaward slope will be done for validation purposes only. The paper describes in detail what is known about the movement of waves in this run-up zone and what actually the Wave Run-up Simulator has to simulate. Not a lot of research has been performed to describe the wave run-up process in detail, physically nor statistically. Finally, the pilot test has been described including hydraulic measurements on the slope.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6912</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6912/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6912/7763</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

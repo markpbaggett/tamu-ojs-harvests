@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6533</identifier>
+				<datestamp>2023-10-04T03:34:44Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF THREE-DIMENSIONAL SEGMENTATION OF ELONGATED WATER BODY USING BG MODEL</dc:title>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Serizawa, Masumi</dc:creator>
+	<dc:creator xml:lang="en">Miyahara, Shiho</dc:creator>
+	<dc:subject xml:lang="en">lakeshore</dc:subject>
+	<dc:subject xml:lang="en">emergence</dc:subject>
+	<dc:subject xml:lang="en">shoreline protrusion</dc:subject>
+	<dc:subject xml:lang="en">BG model</dc:subject>
+	<dc:subject xml:lang="en">3-D beach changes</dc:subject>
+	<dc:subject xml:lang="en">instability</dc:subject>
+	<dc:subject xml:lang="en">self organization</dc:subject>
+	<dc:description xml:lang="en">In a slender water body with a large aspect ratio, the angle between the direction normal to the shoreline and the wave direction exceeds 45°, resulting in the emergence of cuspate forelands and the subdivision of a lake, because wind fetch along the principal axis becomes long. In this study, the BG model (a three-dimensional model for predicting beach changes based on Bagnold's concept) was applied to this problem. The 3-D subdivision process of a long slender water body was predicted.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6533</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6533/pdf_448</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6533/7737</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

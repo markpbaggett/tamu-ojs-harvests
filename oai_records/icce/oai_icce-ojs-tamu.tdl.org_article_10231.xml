@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10231</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RAPID DEPLOYMENT AND POST-STORM RECONNAISSANCE OF HURRICANE LAURA</dc:title>
+	<dc:creator xml:lang="en">Jafari, Navid H.</dc:creator>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:creator xml:lang="en">Cadigan, Jack</dc:creator>
+	<dc:description xml:lang="en">Hurricane Laura made landfall on the southwest Louisiana coast near Cameron, LA on August 26th. As Laura approached the Louisiana coast, the Coastal Emergency Risks Assessment predicted a storm surge of approximately 5.2 m (17 ft), which marked the strongest surge to impact southwest Louisiana since the catastrophic Hurricane Rita in 2005. As a result, a team led by LSU and NEU mobilized to deploy surge and wave sensors and collect drone imagery at Rockefeller Wildlife Refuge and Cameron, LA on August 25th before the arrival of tropical storm winds. Rockefeller Refuge was selected to measure the capacity of wetlands and breakwaters to attenuate hurricane surge and waves, and pressure sensors were strategically placed at locations of civil infrastructure at Cameron to capture hurricane-induced overland flow (see Fig. 1). After the surge water receded, LSU retrieved the sensors, collected RTK elevation transects and multispectral drone imagery, and surveyed infrastructure damage along the southwest corridor of Louisiana, following the Highway 82 from Abbeville to Cameron.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/IevnFZ2YVfI</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10231</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10231/9517</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Navid H. Jafari, Qin Chen, Jack Cadigan</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

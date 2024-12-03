@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3421</identifier>
+				<datestamp>2021-01-19T23:53:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LOADING AND RESPONSE OF CYLINDERS IN WAVES</dc:title>
+	<dc:creator xml:lang="en">Bullock, G.N.</dc:creator>
+	<dc:creator xml:lang="en">Stansby, P.K.</dc:creator>
+	<dc:creator xml:lang="en">Warren, J.G.</dc:creator>
+	<dc:subject xml:lang="en">wave loading</dc:subject>
+	<dc:subject xml:lang="en">wave response</dc:subject>
+	<dc:subject xml:lang="en">cylinder</dc:subject>
+	<dc:description xml:lang="en">The nature of the wave-induced flow around a circular cylinder is to a large extent determined by the ratio of water-particle orbit size to cylinder diameter, characterized in regular waves by the Keulegan- Carpenter number KC (see Appendix II for definitions]. When D/L &gt; 0.2 wave scattering effects are negligible and it is conventional to describe the fluid loading in terms of drag and inertia forces in-line with the direction of wave propagation plus a transverse 'lift' force. The idealised two-dimensional situation of a cylinder normal to planar sinusoidal flow has been investigated in U-tubes by Sarpkaya (10, 11). As KC advances above 2 vorticity starts to be shed and produces forces in addition to the inertia force which would result from the undisturbed fluid acceleration. The vortex-induced forces become more important as KC increases. Defining the drag force as the component of the in-line force in phase with the fluid velocity and the inertia force as the component in phase with the acceleration, it is found that the drag, inertia and lift can have comparable magnitudes when KC is between 8 and 25. This paper is concerned with the corresponding regime in waves. In the idealised situation vortex shedding is almost perfectly correlated along the length of the cylinder but generally this will not be the case in waves. Here the degree of vortex coherence will influence the vortex-induced forces particularly the lift which is strongly dependent on history effects. Although the forces on fixed vertical cylinders have been measured, little is known about the loading on cylinders in general orientation in either unidirectional waves or planar flows. Real seas are further complicated by being random and multidirectional with the possibility of superimposed currents. The interaction of cylinder vibration with vortex shedding can be highly non-linear in currents, e.g see (12), but again little is known about what happens in waves. Although scale influences the magnitude of forces when vortex shedding is important, small-scale experiments can qualitatively represent full-scale flows. Thus, the interrelation between the various parameters which influence wave loading may be studied in the relatively controlled environment of a laboratory channel. Furthermore, analysis techniques which have been justified on the model scale can then be applied with greater confidence to full-scale situations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3421</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.145</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 145</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3421/3101</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

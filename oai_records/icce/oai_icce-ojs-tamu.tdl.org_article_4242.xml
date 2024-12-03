@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4242</identifier>
+				<datestamp>2021-01-19T19:07:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUBGRID MODELLING IN DEPTH INTEGRATED FLOWS</dc:title>
+	<dc:creator xml:lang="en">Madsen, P.A.</dc:creator>
+	<dc:creator xml:lang="en">Rugbjerg, M.</dc:creator>
+	<dc:creator xml:lang="en">Warren, I.R.</dc:creator>
+	<dc:subject xml:lang="en">depth integrated flow</dc:subject>
+	<dc:subject xml:lang="en">subgrid modeling</dc:subject>
+	<dc:description xml:lang="en">Hydrodynamic simulations in coastal engineering studies are still most commonly carried out using two-dimensional vertically integrated mathematical models. As yet, threedimensional models are too expensive to be put into general use. However, the tendency with 2-D models is to use finer and finer resolution so that it becomes necessary to include approximations to some 3-D phenomena. It has been shown by many authors that simulations of large scale eddies can be quite realistic in 2-D models (c.f. Abbott et al. 1985). Basically there exists two different mechanisms of circulation generation. The first one is based on a balance between horizontally and grid-resolved momentum transfers and the bed resistance - i.e. a balance between the convective momentum terms and the bottom shear stress. The second one is due to momentum transfers that are not resolved at the grid scale but appears instead as horizontally distributed shear stresses. In many practical situations the circulations will be governed by the first mechanism. This is the case if the diameter of the circulation and the grid size is much larger than the water depth. In this situation the eddies are friction dominated so that the effect of sub-grid eddy viscosity is limited. In this case 2-D models are known to produce very realistic results and several comparisons with measurements have been reported in the literature.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4242</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4242/3923</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

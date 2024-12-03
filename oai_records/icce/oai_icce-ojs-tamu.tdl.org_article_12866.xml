@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12866</identifier>
+				<datestamp>2023-09-01T15:13:55Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY ANALYSIS OF OLD BREAKWATERS: CASE STUDIES OF FAILURES AND SUCCESSES</dc:title>
+	<dc:creator xml:lang="en">Allsop, William</dc:creator>
+	<dc:creator xml:lang="en">Bruce, Tom</dc:creator>
+	<dc:description xml:lang="en">Until about 1930, analysis of wave loads on vertical breakwaters was based on trial and error. Russell(1) noted it was unfortunate that “the young engineer …should be left to be guided entirely by circumstances, without the aid of any one general principle.” Stevenson(2) noted “the engineer has always a difficulty in estimating the force of the waves with which he has to contend.” Wave force formulae by Sainflou(3) and Goda(4) improved design methods, but were 50 to 100 years too late for many ‘old’ breakwaters, and do not apply to many composite breakwaters – ignoring the seminal influence of shoals or mounds on wave breaking and impulsive loadings. This paper presents case studies using empirical methods developed over the last 20-30 years to calculate loads and stability of example ‘old’ breakwaters including: Wick (failed before completion); Alderney (multiple breaches during construction, and only survives to 1/2 of its original length); and Dover (survives with substantial Factors of Safety). The screening analysis(5) used empirical methods developed over the previous 20 years(10), summarised in the case studies(6,7). Methods used here are empirical (no numerical modelling) so that the calculations can easily be repeated by local engineers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12866</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12866/12139</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 William Allsop, Tom Bruce</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

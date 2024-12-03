@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6532</identifier>
+				<datestamp>2023-10-04T03:23:50Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF BEACH CHANGES AROUND ARTIFICIAL REEF USING BG MODEL</dc:title>
+	<dc:creator xml:lang="en">Fujiwara, Hiroaki</dc:creator>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Onishi, Toshiaki</dc:creator>
+	<dc:creator xml:lang="en">Miyahara, Shiho</dc:creator>
+	<dc:creator xml:lang="en">Serizawa, Masumi</dc:creator>
+	<dc:subject xml:lang="en">artificial reef</dc:subject>
+	<dc:subject xml:lang="en">detached breakwater</dc:subject>
+	<dc:subject xml:lang="en">beach changes</dc:subject>
+	<dc:subject xml:lang="en">rip currents</dc:subject>
+	<dc:subject xml:lang="en">BG model</dc:subject>
+	<dc:subject xml:lang="en">Kaike coast</dc:subject>
+	<dc:description xml:lang="en">On the Kaike coast, one of the twelve detached breakwaters was converted into an artificial reef. After the conversion, the tombolo behind the structure was reduced in size because of the generation of shoreward currents on the artificial reef, and severe scouring occurred at the opening between the artificial reef and the existing detached breakwater owing to the development of rip currents. To investigate this, the BG model (a 3-D model for predicting beach changes based on Bagnold's concept) proposed by Serizawa and Uda was improved to include the effect of not only waves but also strong nearshore currents. Also, the increase in the depth of closure due to currents was considered in the model. The predicted and measured beach changes around an artificial reef were in good agreement.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6532</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6532/pdf_533</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

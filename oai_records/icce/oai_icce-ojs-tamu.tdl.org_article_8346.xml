@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8346</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF OVERFLOW NAPPE NON-AERATION ON TSUNAMI BREAKWATER FAILURE</dc:title>
+	<dc:creator xml:lang="en">Patil, Akshay</dc:creator>
+	<dc:creator xml:lang="en">Mudiyanselage, Sanduni Disanayaka</dc:creator>
+	<dc:creator xml:lang="en">Bricker, Jeremy D.</dc:creator>
+	<dc:creator xml:lang="en">Uijttewaal, Wim</dc:creator>
+	<dc:creator xml:lang="en">Keetels, Geert</dc:creator>
+	<dc:description xml:lang="en">Sliding force and punching pressure were contributing factors to widespread breakwater damage caused during the 2011 Great East Japan Tsunami (Takagi and Bricker, 2015), and were dominant factors causing displacement of caissons from the world's deepest breakwater: the Kamaishi bay-mouth composite tsunami breakwater (Arikawa et al., 2012; Bricker et al., 2013). The current study focuses on understanding the physics necessary to correctly model the problem of breakwater over-topping by tsunami. To effectively model the physical behavior of the system, scaled model studies were carried out by Mudiyanselage (2017). The earlier numerical investigations carried out by Bricker et al. (2013) and Mudiyanselage (2017), did not prove conclusive to numerically model tsunami breakwater overflow using OpenFOAM employing a 2-D modeling approach. This was shown to be a major hurdle in prediction of the sliding force on the caisson due to the inability of modeling the non-aerated overflow jet over the caisson. Validation of the numerical model would allow parametric study of the flow physics for varying overflow conditions. As a result, a threefold approach of experimental model, analytical model, and numerical model studies was proposed. To achieve sufficient reliability and have complete flexibility, OpenFOAM was chosen for the numerical setup. This numerical model was used to validate the experiments carried out by Mudiyanselage (2017). The numerical model validates and reproduces the flow physics very well. Overall, the numerical results indicate that non-aeration could provide about 8-19% additional force. It was observed that the force on the caisson has a periodic fluctuating behavior. Additionally, the aeration mechanism and overflow jet breakup during the flow was also investigated. It was observed that the highly 3-dimensional behavior of the overflow jet results in the aeration of the cavity underneath the jet. This also explains why the previous studies Bricker et al. (2013) and Mudiyanselage (2017) failed to correctly model the overflow jet using a 2-D modeling approach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8346</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8346/7154</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8346/7819</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

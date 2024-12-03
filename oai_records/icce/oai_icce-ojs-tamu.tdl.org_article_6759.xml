@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6759</identifier>
+				<datestamp>2023-10-04T02:56:38Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW CONCEPTUAL MODEL FOR AEOLIAN TRANSPORT RATES ON BEACHES</dc:title>
+	<dc:creator xml:lang="en">de Vries, Sierd</dc:creator>
+	<dc:creator xml:lang="en">Stive, Marcel</dc:creator>
+	<dc:creator xml:lang="en">van Rijn, Leo</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:subject xml:lang="en">Aeolian transport</dc:subject>
+	<dc:subject xml:lang="en">field measurements</dc:subject>
+	<dc:subject xml:lang="en">model concept</dc:subject>
+	<dc:description xml:lang="en">In this paper a new conceptual model for aeolian sediment transport rates is presented. Traditional sediment transport formulations have known limitations when applied to coastal beach situations. A linear model for sediment transport rates with respect to wind speed is proposed and supported by both data and numerical model simulations. The presented model does not solve complex wind fields and is therefore very easily applicable. Physical principles such as the presence of a threshold velocity and interaction with the bed surface are yet to be implemented before the model can be used for predictive purposes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6759</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6759/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

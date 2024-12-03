@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8666</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HARBOR AGITATION DUE TO OFFSHORE SHIP WAVES USING SWASH: A CASE STUDY OF KUMKAPI YACHT PARK, ISTANBUL</dc:title>
+	<dc:creator xml:lang="en">Baykal, Cuneyt</dc:creator>
+	<dc:creator xml:lang="en">Tarakcıoğlu, Gulizar Özyurt</dc:creator>
+	<dc:creator xml:lang="en">IÅŸık, Emrecan</dc:creator>
+	<dc:description xml:lang="en">This study presents the results of a numerical modeling study on the harbor agitation in case of offshore ship waves using SWASH (acronym for Simulating WAves till SHore), a numerical model developed for the simulating unsteady, non-hydrostatic, free-surface, rotational flow and transport phenomena in coastal waters as driven by waves, tides, buoyancy and wind forces (Zijlema et al. 2011). The study area is the Kumkapi Yacht Park, at the Marmara coast of Istanbul, 2.5 km west of the southern entrance of Bosphorus strait. The yacht park is currently used as a fishery harbor, which is severely affected by the ship waves of ferries and sea buses passing nearby almost parallel to the main breakwater of the harbor (aligned from west to east). The park is planned to berth a total of 140 yachts varying from 5 m to 40 m in length (Figure 1). For this purpose, the present harbor layout together with several alternative plans have been studied numerically to investigate agitation due to ship waves of ferries and sea buses considering the design safety requirements of ASCE (2012) for the safe mooring and berthing of yachts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8666</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8666/7470</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12900</identifier>
+				<datestamp>2023-09-01T15:14:13Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE TRANSFORMATION ON CORAL REEFS: COMPARISON OF A CFD MODEL AND PHYSICAL MODEL TESTS OF A MALDIVIAN REVETMENT</dc:title>
+	<dc:creator xml:lang="en">Mik-Meyer, Villy L.</dc:creator>
+	<dc:creator xml:lang="en">Schløer, Signe</dc:creator>
+	<dc:creator xml:lang="en">Bergøe, Tony Erik</dc:creator>
+	<dc:description xml:lang="en">Designing optimized coastal structures on islands bordered by coral reefs has proven to be a challenging task due to the complex reef and wave interaction (Jensen, 1991; Jensen, Sloth and Jacobsen, 1998). Often the reefs in these tropical regions have a steep seaward profile until a certain depth, whereafter the reef suddenly becomes flat with a mild slope. When offshore waves reach the reef, it can result in plunging wave breaking, a wave set-up, and energy transfer from the peak frequency to lower frequencies resulting in long period wave motions. Under these conditions, it is difficult to predict the rate of overtopping as the complex hydrodynamics are not covered in standard overtopping formulas. Furthermore, the standard spectral wave models, on which the overtopping formulas often are based, cannot describe the transformation of offshore waves over the reef as the models are not able to resolve the physics of this violent water motion. In connection with the hydraulic study for a detailed design of a revetment on Fuvahmulah in the Maldives, the OpenFOAM CFD model is applied to obtain the hydrodynamic design parameters. The wave dynamics on the reef, the revetment overtopping rates, and hydrodynamic forces derived from the numerical model are compared with results from a physical model conducted by the Danish Hydraulic Institute (DHI).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12900</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12900/12173</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Villy L. Mik-Meyer, Signe Schløer, Tony Erik Bergøe</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

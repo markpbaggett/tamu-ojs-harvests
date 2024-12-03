@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6521</identifier>
+				<datestamp>2023-10-04T03:26:18Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CIRCULATION PATTERNS AND SHORELINE RESPONSE INDUCED BY SUBMERGED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Villani, Mara</dc:creator>
+	<dc:creator xml:lang="en">Bosboom, Judith</dc:creator>
+	<dc:creator xml:lang="en">Zijlema, Marcel</dc:creator>
+	<dc:creator xml:lang="en">Stive, Marcel J.F</dc:creator>
+	<dc:subject xml:lang="en">coastal defence</dc:subject>
+	<dc:subject xml:lang="en">submerged breakwaters</dc:subject>
+	<dc:subject xml:lang="en">coastal currents</dc:subject>
+	<dc:subject xml:lang="en">design criterion</dc:subject>
+	<dc:description xml:lang="en">Submerged shore-parallel breakwaters for coastal defence (henceforth SBWs) are a good compromise between the need to mitigate the effects of waves on the coast and the ambition to ensure the preservation of the landscape and water quality. However, if not properly designed, such structures can force circulation patterns that enhance shoreline erosion rather than shoreline accretion. Numerical models can be used to investigate the structure-induced circulation patterns and the resulting shoreline response. However, being computationally demanding these models are most suitable for advanced stages of the design process. The aim of this paper is to present a simple criterion to qualitatively identify whether an accretive or erosive circulation pattern can be expected in the lee of the structures. The criterion is based on analytical considerations and builds on the model presented by Bellotti (2004, 2007). It is validated against the non-hydrostatic free surface numerical model SWASH (Zijlema et al. 2011) and experiments performed by Haller et al. (2002). The validation indicates that the proposed analytical model is capable of providing a rapid first assessment of the potential shoreline response mode for SBW design.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6521</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6521/pdf_518</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4006</identifier>
+				<datestamp>2021-01-19T20:27:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDAL COMPUTATIONS FOR THE YELLOW SEA</dc:title>
+	<dc:creator xml:lang="en">Choi, Byung Ho</dc:creator>
+	<dc:subject xml:lang="en">Yellow Sea</dc:subject>
+	<dc:subject xml:lang="en">tidal computations</dc:subject>
+	<dc:description xml:lang="en">A two-dimensional numerical model of the Yellow Sea has been used to compute cotidal and coamplitude charts and harmonic constants of tidal currents for the four major tidal constituents M2, S2, Ki, Oi tides in the region with the mesh resolution of 1/5 degree latitude by 1/4 degree longitude finite difference grid system. An additional model incorporating dynamical grid nesting procedure which employs a one-third grid refinement scheme was also used to reproduce the M2 tidal regime in more detailed resolution for the part of west coast of Korea where extensive coastal development including potential tidal power and land reclamation scheme is concerned. Comparisons between observations and model result have been carried out based on coastal gauges and moored current meter data. Reasonable agreement was found between obsevations and model results, thus supporting the computed distribution of tides in the region. It was also shown that the dynamically linkaged model particularly well within 5% in amplitude and 5 degrees in phase of observed M2 tide in the refined mesh region of the west coast of Korea.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4006</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4006/3689</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

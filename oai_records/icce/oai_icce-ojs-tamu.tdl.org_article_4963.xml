@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4963</identifier>
+				<datestamp>2021-01-19T15:01:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIME-DEPENDENT MILD-SLOPE EQUATIONS FOR RANDOM WAVES</dc:title>
+	<dc:creator xml:lang="en">Isobe, Masahiko</dc:creator>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">time dependent</dc:subject>
+	<dc:subject xml:lang="en">mild slope</dc:subject>
+	<dc:description xml:lang="en">Linear and nonlinear governing equations are derived to calculate the time evolution of random waves subject to refraction and diffraction. In the lineal' theory, the frequency-dependent coefficients in the mild-slope equation (Berkhoff, f 972) are approximated by a rational function of the frequency, and then a time-dependent and frequency-independent expression of the mild-slope equation is derived. The resulting equation is applicable to simulate the transformation of random waves in the nearshore zone. Results of numerical calculation agree well with experimental results for random wave shoaling in the offshore zone. A set of nonlinear governing equations is also derived to simulate the nonlinear wave transformation. The velocity potential for the wave motion is expressed as a series in terms of a given set of vertical distribution functions. Then, the Lagrangian is integrated vertically and the variational principle is applied to yield a. set of nonlinear, time-dependent, two-dimensional governing equations for the nonlinear random wave tranformation. Comparison between the results of numerical calculation and flume experiment shows good agreement for the random wave shoaling near the breaking point and for wave disintegration due to a submerged breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4963</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4963/4643</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

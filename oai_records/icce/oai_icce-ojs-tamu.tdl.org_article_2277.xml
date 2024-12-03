@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2277</identifier>
+				<datestamp>2021-01-17T05:44:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DYNAMIC ANALYSIS OF OFFSHORE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Harleman, Donald R.F.</dc:creator>
+	<dc:creator xml:lang="en">Nolan, William C.</dc:creator>
+	<dc:creator xml:lang="en">Honsinger, Vernon C.</dc:creator>
+	<dc:subject xml:lang="en">offshore structures</dc:subject>
+	<dc:subject xml:lang="en">dynamic analysis</dc:subject>
+	<dc:description xml:lang="en">Analytical procedures are presented for calculation of the dynamic displacements of fixed offshore structures in oscillatory waves. The structure considered has four legs in a square configuration with waves impinging normal to one side; however, the procedures are general and may be applied to other configurations and wave directions. The horizontal displacement of the deck is determined as a function of time by application of vibration theory for a damped, spring-mass system subject to a harmonic force. The instantaneous wave force on each leg is composed of a hydrodynamic drag component and an inertial component as in the usual "statical" wave force analysis. The wave force expression is approximated by a Fourier series which permits calculation of the platform displacement by superposition of solutions of the equation of motion for the platform. Depending on the ratio of the wave frequency to the natural frequency of the platform, the structural stresses may be considerably high* than those found by methods which neglect the elastic behavior of the structure. The highest wave to be expected in a given locality is not necessarily the critical design wave. Maximum displacements and structural stresses may occur for smaller waves having periods producing a resonant response of the platform. Displacement measurements in a wave tank using a platform constructed of plastic are presented to show the validity of the analytical method. Both small and finite amplitude waves are used over a wide range of frequency ratios. A digital computer program (7090 FORTRAN) is used for the displacement calculation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2277</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2277/1968</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

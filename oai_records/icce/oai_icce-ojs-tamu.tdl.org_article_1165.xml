@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1165</identifier>
+				<datestamp>2023-10-04T04:36:42Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PROBABILISTIC MODEL FOR THE DETERMINATION OF HYDRAULIC BOUNDARY CONDITIONS IN A DYNAMIC COASTAL SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Groeneweg, Jacco</dc:creator>
+	<dc:creator xml:lang="en">Beckers, Joost</dc:creator>
+	<dc:creator xml:lang="en">Gautier, Caroline</dc:creator>
+	<dc:subject xml:lang="en">probabilistic method</dc:subject>
+	<dc:subject xml:lang="en">wave modeling</dc:subject>
+	<dc:subject xml:lang="en">tidal inlets</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Wadden Sea</dc:subject>
+	<dc:description xml:lang="en">In 2011 new Hydraulic Boundary Conditions must be established for the statutory assessment of flood protection in the Wadden Sea area, which is a complex tidal system in the northern part of the Netherlands. The aim is to base these normative wave conditions on the wave simulation model SWAN and the probabilistic method Hydra-K, to be consistent with other systems as the Holland Coast and the Zeeland Delta. Assumptions made for the latter water systems, like steady state wind forcing, uniform water levels and neglect of currents, are not valid in the tidal basin of the Wadden Sea. A schematic temporal variation of both wind direction and wind speed is applied to define wind fields that drive the hydrodynamic computations. Both wind fields and resulting water level and current fields form the input of SWAN computations for a large number of combinations of basic wind speed and wind direction, offshore surge level and phase difference between tide and maximum wind speed. The result is a large database of SWAN results that is used as a look-up table in Hydra-K to transform the offshore statistics to the load on the primary sea defenses. In general the more advanced method leads to wave heights that are up to 10% lower and wave periods that are 10-20% smaller than those obtained with the method that is presently applied for the Holland Coast and the Zeeland Delta. These differences can be ascribed to the inclusion of currents and positive shoreward tilt in water level. The inclusion of relevant physics in the hydrodynamic computations increases the accuracy of the resulting HBC. Therefore, the more advanced method will be applied to determine the HBC for 2011.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1165</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1165/pdf_46</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

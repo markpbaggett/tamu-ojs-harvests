@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6835</identifier>
+				<datestamp>2023-10-04T02:32:25Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STATISTICAL ESTIMATION OF WAVE CLIMATES IN A MONSOON REGION</dc:title>
+	<dc:creator xml:lang="en">Kimura, Akira</dc:creator>
+	<dc:creator xml:lang="en">Ota, Takao</dc:creator>
+	<dc:subject xml:lang="en">wave climate</dc:subject>
+	<dc:subject xml:lang="en">spectrum of a time series of H_(1â„3)</dc:subject>
+	<dc:subject xml:lang="en">simulation of wave statistics</dc:subject>
+	<dc:subject xml:lang="en">Monte-Carlo method</dc:subject>
+	<dc:description xml:lang="en">This paper deals with a statistics of wave climate. NOWPHAS data from 7 observatories along the Sea of Japan coast are investigated. Fourier spectrum of one year time series of significant wave height H_(1â,,3) shows inherent characteristic to the monsoon region. It can be divided into three frequency regions; (A) f</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6835</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6835/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

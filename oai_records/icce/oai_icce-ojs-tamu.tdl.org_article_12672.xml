@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12672</identifier>
+				<datestamp>2023-09-01T15:12:03Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARATIVE ASSESSMENT OF NON-CONSERVATIVE AND CONSERVATIVE RANS FORMULATIONS FOR COASTAL APPLICATIONS INVOLVING BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Saincher, Shaswat</dc:creator>
+	<dc:creator xml:lang="en">Sriram, V.</dc:creator>
+	<dc:description xml:lang="en">Two-phase Reynolds Averaged Navier-Stokes (RANS) simulations of breaking waves are susceptible to an unphysical thickening of the plunging crest. This is often times incorrectly attributed to deficiencies in the interface capturing scheme although, in reality, the issue stems from the nature of density treatment in momentum advection. If the density is considered face-centered in the advection term, the resulting formulation is conservative whilst if the density is modeled as a cell-centered quantity, the resulting formulation is non-conservative. Despite both approaches having been extensively applied to wave-breaking simulations in the literature, there is no study comparing both formulations for the same breaking scenario. In the present paper, we extensively compare both formulations for several depth- and steepness-induced breaking problems simulated using our in-house solver: IITM-RANS3D. Through these simulations, our work successfully addresses the following research questions: (a) how and why density treatment affects the physics of overturning and subsequently the plunging jet’s topology and (b) what are the implications of choosing a particular formulation for simulating a violent wave-structure interaction scenario?</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12672</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12672/11945</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Shaswat Saincher, V. Sriram</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

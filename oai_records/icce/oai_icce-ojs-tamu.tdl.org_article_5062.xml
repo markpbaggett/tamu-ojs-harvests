@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5062</identifier>
+				<datestamp>2021-01-19T14:27:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE LARGE SCALE DOLOS FLUME STUDY</dc:title>
+	<dc:creator xml:lang="en">Turk, George F.</dc:creator>
+	<dc:creator xml:lang="en">Melby, Jeffrey A.</dc:creator>
+	<dc:subject xml:lang="en">flume</dc:subject>
+	<dc:subject xml:lang="en">dolos</dc:subject>
+	<dc:subject xml:lang="en">large scale study</dc:subject>
+	<dc:description xml:lang="en">In 1993, the U.S. Army Corps of Engineers, Waterways Experiment Station, Coastal Engineer Research Center conducted the Large Scale Dolos Flume Study (LSDFS) in order to investigate the structural response of concrete armor units. The study was primarily carried out in the large wave flume at the O.H. Hinsdale Wave Research Laboratory, Oregon State University. Over 300 model dolos units with a mass of 26 kg and a waist ratio of 0.32 were used. The units were cast from concrete. The instrumented dolosse were fitted with surfacemounted strain gages then subjected to a wide range of wave loading conditions. This strain gaging and the state-of-the-art data acquisition system increased the signal-to-noise ratio so that accurate measurements of static, quasi-static, wave-induced hydrodynamic, and unit-to-unit impact loading could be recorded. The LSDFS included a standard calibration series, static ramp tests, dry-land impact tests, and regular and irregular wave flume tests. Hydrodynamic instrumentation in the flume tests consisted of a very dense array of wave gages, current meters, runup-rundown gages, pore pressure transducers, hydrophones, digital video, and still photography in the nearshore zone. This paper presents previously unpublished details of the LSDFS specifically pertaining to instrumentation, calibration, dry-land impact tests, and some preliminary results of impact response captured in the flume tests.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5062</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5062/4740</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

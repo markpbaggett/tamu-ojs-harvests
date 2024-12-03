@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6670</identifier>
+				<datestamp>2023-10-04T03:04:36Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING OVERWASH AND INFILTRATION ON GRAVEL BARRIERS</dc:title>
+	<dc:creator xml:lang="en">McCall, Robert Timothy</dc:creator>
+	<dc:creator xml:lang="en">Masselink, Gerd</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Russell, Paul</dc:creator>
+	<dc:creator xml:lang="en">Davidson, Mark</dc:creator>
+	<dc:creator xml:lang="en">Poate, Timothy</dc:creator>
+	<dc:subject xml:lang="en">gravel</dc:subject>
+	<dc:subject xml:lang="en">barrier</dc:subject>
+	<dc:subject xml:lang="en">overwash</dc:subject>
+	<dc:subject xml:lang="en">infiltration</dc:subject>
+	<dc:subject xml:lang="en">groundwater</dc:subject>
+	<dc:subject xml:lang="en">modeling</dc:subject>
+	<dc:description xml:lang="en">A quasi-3D process-based and time dependent groundwater model is developed and coupled to a hydrodynamic storm impact model to simulate the effect of infiltration on overwash on a gravel barrier. The coupled model is shown to accurately reproduce groundwater variations, runup properties and overwash time series measured in the gravel barrier during a large-scale physical model experiment. The coupled model is applied to study the influence of hydraulic conductivity on overwash volumes. It is shown that modeled overwash volumes are significantly affected by infiltration for hydraulic conductivity values greater than 0.01ms-1.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6670</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6670/pdf_648</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10279</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF A SCHOOL BUILDING AGAINST TYPHOON HAIYAN STORM SURGE FORCES</dc:title>
+	<dc:creator xml:lang="en">Valdez, Justin Joseph</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:description xml:lang="en">In 2013 Typhoon Haiyan dealt strong winds and storm surges to Tacloban City, Philippines. After that, the standard public school buildings were designed using the load provisions of the updated 2015 National Structural Code of the Philippines. However, it is important to analyze if the school buildings can resist failure against another Haiyan storm surge event. Haiyan was simulated using the the Weather Research and Forecasting (WRF) Model, and the storm surge was simulated using the Finite Volume Community Ocean Model (FVCOM). The wind and flood loads were then calculated and applied on a two-story school building model in STAAD.Pro, and the maximum shear forces and bending moments in the 300 beams and columns were compared to its capacity.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/P3E1_aizbnE</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10279</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10279/9565</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Justin Joseph Valdez, Tomoya Shibayama</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8186</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF CREST ELEVATIONS ON THE OVERTOPPING DISCHARGES OVER COMPOSITE SEAWALL</dc:title>
+	<dc:creator xml:lang="en">Aydogan, Burak</dc:creator>
+	<dc:creator xml:lang="en">Ayat, Berna</dc:creator>
+	<dc:creator xml:lang="en">Yuksel, Yalçın</dc:creator>
+	<dc:creator xml:lang="en">Çevik, Esin</dc:creator>
+	<dc:creator xml:lang="en">Goller, Özgen</dc:creator>
+	<dc:subject xml:lang="en">composite seawall</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">crest elevation</dc:subject>
+	<dc:description xml:lang="en">Overtopping discharges over a composite seawall model has been studied experimentally. Effect of crest elevations on the overtopping discharges was studied based on the new data set of 132 tests. Test data is compared to the existing formulas given by EurOtop Manual (2007) and EurOtop II Manual (2016). Results showed that both EurOtop Manual (2007) and EurOtop II (2016) formulas for composite seawalls are applicable to our test setup with a roughness coefficient of 0.55 which corresponds a rubble mound composite structure with two layers and an impermeable core.
+Vertical wall caused the composite structure act as an impermeable structure. Height of the storm wall was raised 2, 4, 6, 8, and 10 cm successively during the tests. Results showed that a reduction rate clearly depends on the wave steepness.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8186</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8186/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3367</identifier>
+				<datestamp>2021-01-20T00:12:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TRACKED VEHICLE FOR CONTINUOUS NEARSHORE PROFILES</dc:title>
+	<dc:creator xml:lang="en">Seymour, Richard J.</dc:creator>
+	<dc:creator xml:lang="en">Higgins, Alan L.</dc:creator>
+	<dc:creator xml:lang="en">Bothman, David P.</dc:creator>
+	<dc:subject xml:lang="en">nearshore profile</dc:subject>
+	<dc:subject xml:lang="en">continuous profile</dc:subject>
+	<dc:subject xml:lang="en">tracked vehicle</dc:subject>
+	<dc:description xml:lang="en">The measurement of nearshore profiles has been the traditional method for evaluating on- and offshore transport of beach sand by waves. The measurement on that portion of the beach face which is dry at low tide presents no particular problems and can be effectively accomplished with conventional rod and level surveying techniques. Once the measurement location moves into the wet part of the foreshore, however, the problems rapidly increase. In general, it requires an extremely dedicated rod man to remain on position in breakers larger than a meter, although measurements in breakers up to 2 meters in height have been accomplished on a nonroutine basis. When waves exceed this height, or when the water depth exceeds the ability of a man to stand and hold the rod, this method must be abandoned. In deeper water, and well outside the surf zone, a boat and fathometer approach is normally employed with considerable loss in vertical and horizontal accuracy. In particular, the vertical resolution is decreased by the uncertainties in knowledge of the instantaneous sea level because of the combination of tides, waves and storm surge. If the tides are large and the waves small, it is possible to achieve an overlap between the boat survey and the shore survey. When the wave height exceeds the ability of the boat to operate, this method also must be abandoned. Although larger boats can operate in larger waves, they are generally also restricted to deeper water. The result of all of the restrictions described above is that profiles can be measured with reasonable accuracy only during periods of low waves. Unfortunately, the episodes of greatest interest are the rapid cutting back of the beach face and the accompanying offshore bar building which occur during times of high waves. The technology to measure the storm waves has been available for many years. The ability to correlate wave parameters with offshore transport rates requires the ability to make accurate profiles from the dry beach through and beyond the breaker line under storm wave conditions. This paper describes a vehicle that was developed to meet this need.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3367</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3367/3047</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

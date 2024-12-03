@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8106</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERIFICATION OF THE CROWN WALL STABILITY TAKING INTO ACCOUNT THE HYDRAULIC PERFORMANCE CURVES</dc:title>
+	<dc:creator xml:lang="en">Vílchez, Montse</dc:creator>
+	<dc:creator xml:lang="en">Díaz-Carrasco, Pilar</dc:creator>
+	<dc:creator xml:lang="en">Clavero, María</dc:creator>
+	<dc:creator xml:lang="en">Ortega-Sánchez, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel A.</dc:creator>
+	<dc:subject xml:lang="en">Hydraulic performace</dc:subject>
+	<dc:subject xml:lang="en">Sliding</dc:subject>
+	<dc:subject xml:lang="en">Crown wall stability</dc:subject>
+	<dc:subject xml:lang="en">Failure mode</dc:subject>
+	<dc:subject xml:lang="en">Pressure</dc:subject>
+	<dc:subject xml:lang="en">Forces</dc:subject>
+	<dc:description xml:lang="en">The design of a breakwater requires that the failure modes which can affect its security, functionality and operationality
+in its useful life are bounded. The failure modes can be verified by means of the corresponding verification equation.
+In this work, a unified methodology to verify simultaneously the failure modes produce by wind waves in front or
+face of the breakwater is presented. This methodology is based on formulate the verification equations of the failure
+modes forced by wind waves in the front or face of the breakwater in terms of the kinematic and dynamic variables
+of the flow at these locations. It has been applied to analyse the failure mode that considers sliding of the crown wall.
+Results show that the parameters of the pdf of these variables depend on the total wave height at the same location and
+therefore, the verification equation can be also formulated in terms of this variable.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8106</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8106/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

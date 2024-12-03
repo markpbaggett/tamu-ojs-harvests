@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8176</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INFLUENCE OF EMERGENT VEGETATION ON SEDIMENT YIELD AT CROSS-SHORE COASTAL ENVIRONMENTS</dc:title>
+	<dc:creator xml:lang="en">Turker, Umut</dc:creator>
+	<dc:creator xml:lang="en">Yagci, Oral</dc:creator>
+	<dc:creator xml:lang="en">Riazi, Amin</dc:creator>
+	<dc:creator xml:lang="en">Kabdasli, Sedat</dc:creator>
+	<dc:subject xml:lang="en">physical model</dc:subject>
+	<dc:subject xml:lang="en">offshore bar</dc:subject>
+	<dc:subject xml:lang="en">sediment yield</dc:subject>
+	<dc:subject xml:lang="en">vegetation</dc:subject>
+	<dc:subject xml:lang="en">wave energy decay</dc:subject>
+	<dc:description xml:lang="en">This study aimed to conceptually analyze the change in the magnitude of offshore sediment yield, wave energy, and offshore dislocation of sediment particles on coastal regions in the presence of coastal vegetation. This was achieved by comparing the simultaneous physical changes at coastal zones that were partly covered with vegetation while the remaining part had no vegetation. Series of experiments were conducted, and the interactions between the vegetation parameter, ratio of sediment yields, and offshore sediment dislocation distances were analyzed and determined to define the relationship between the parameters. The resultant empirical equations mostly followed a power relationship and fit the experimental data. The energy decay coefficient, reflecting the energy used in the presence of the vegetation, had strong protection ability and approached 80% energy decay as the vegetation parameter increased. The performance of natural vegetation cover was adequate, simulating a 50-80% decrease in offshore sediment yield, depending on the magnitude of the vegetation parameter.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8176</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.sediment.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; sediment.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8176/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

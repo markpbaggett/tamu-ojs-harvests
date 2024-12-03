@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4705</identifier>
+				<datestamp>2021-01-19T16:29:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN ADDITIONAL PARAMETER FOR THE ZERO CROSSING WAVE DEFINITION AND ITS PROBABILITY DISTRIBUTION</dc:title>
+	<dc:creator xml:lang="en">Kimura, A.</dc:creator>
+	<dc:creator xml:lang="en">Ohta, T.</dc:creator>
+	<dc:subject xml:lang="en">probablility distribution</dc:subject>
+	<dc:subject xml:lang="en">zero crossing</dc:subject>
+	<dc:description xml:lang="en">In this paper, the distance from the mid point between a wave trough and a consecutive wave crest of a zero-crossing wave (a position of wave height bisection) to the still water level is proposed to be an important zero-crossing wave property. Its roles on certain physical properties of the zero-crossing waves are shown through experimental data in the first part of the paper. Its probability distribution is introduced, in the second part, from the combined probability distribution of the amplitudes of consecutive wave trough and crest of irregular waves. In the last part, the theoretical probability distribution for this property is verified with numerically simulated data for many types of wave spectra.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4705</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4705/4386</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

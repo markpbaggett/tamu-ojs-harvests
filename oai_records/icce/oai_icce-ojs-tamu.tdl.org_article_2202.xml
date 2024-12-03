@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2202</identifier>
+				<datestamp>2021-01-17T06:01:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL STUDY OF AN ISOLATED LIGHTHOUSE PLATFORM AT SEA (PRINCE SHOAL, QUEBEC)</dc:title>
+	<dc:creator xml:lang="en">Jarlan, G.E.</dc:creator>
+	<dc:subject xml:lang="en">model study</dc:subject>
+	<dc:subject xml:lang="en">isolated lighthouse platform</dc:subject>
+	<dc:subject xml:lang="en">pressure distribution</dc:subject>
+	<dc:description xml:lang="en">Experiments on objects subject to wave forces have been made in the past, which led to formulae where the geometrical characteristics of the object are of primary importance. Other experiments, made on immersed objects, showed that the accelerative forces caused by wave impact are of the same order of magnitude as the drag forces associated with orbital velocities. In the case of a small free body completely immersed in a fluid and subject to a system of forces, other experiments showed that the fluid surrounding the body acquires a velocity while the flow field gains kinetic energy (Bef. 1). The acceleration of the object can be deduced from the pressure distribution around the body.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2202</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2202/1896</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

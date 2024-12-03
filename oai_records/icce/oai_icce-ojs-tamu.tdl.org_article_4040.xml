@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4040</identifier>
+				<datestamp>2021-01-19T20:16:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF A MODIFIED STRETCHED LINEAR WAVE THEORY</dc:title>
+	<dc:creator xml:lang="en">Lo, Jen-Men</dc:creator>
+	<dc:creator xml:lang="en">Dean, R.G.</dc:creator>
+	<dc:subject xml:lang="en">linear theory</dc:subject>
+	<dc:subject xml:lang="en">linear wave</dc:subject>
+	<dc:subject xml:lang="en">modified stretched wave</dc:subject>
+	<dc:description xml:lang="en">Many experimental investigations of the drag and inertia force coefficients have relied on the determination of water particle kinematics from measured wave forms. Since the pioneering work of Airy (1845), Stokes (1847, 1880) and others, a number of wave theories have been developed for predicting water particle kinematics. Clearly, the use of a certain wave theory will lead to corresponding force coefficients. Therefore, a wave theory that provides more accurate water particle kinematics is very important. Reid (1958) developed the simple superposition method for predicting water particle kinematics from a measured sea surface that could be either random or periodic. The method is based upon linear long-crested wave theory. Borgman (1965, 1967, 1969a, 1969b) introduced the linearized spectral density of wave force on a pile due to a random Gaussian sea. The drag force component has been approximated in the simplest form by a linear relation. This method, however, cannot calculate properties of the wave field and wave force above the mean water level. Wheeler (1969) applied simple superposition with a stretching factor in the vertical coordinate position for hurricane-generated wave data during Wave Project II. With this method it was possible to evaluate the wave force above the mean water level.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4040</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4040/3723</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

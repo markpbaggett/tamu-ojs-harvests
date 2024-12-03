@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2625</identifier>
+				<datestamp>2021-01-17T04:01:18Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHOALING OF FINITE-AMPLITUDE WAVES ON PLANE BEACHES</dc:title>
+	<dc:creator xml:lang="en">Chan, Robert K-C</dc:creator>
+	<dc:creator xml:lang="en">Street, Robert L.</dc:creator>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:subject xml:lang="en">finite amplitude</dc:subject>
+	<dc:subject xml:lang="en">plane beach</dc:subject>
+	<dc:description xml:lang="en">This work focuses on the shoaling of large water waves with particular application to storm-generated waves and tsunamis The specific objective is the exact simulation on a digital computer of finite-amplitude waves advancing on a beach of constant slope The study is based on the simulation technique called SUMMAC (the Stanford-University-Modified Marker-And-Cell Method) The flow field is represented by a rectangular mesh of cells and by a line of hypothetical particles which defines the free surface Based on the Navier-Stokes equations, finite-difference equations were derived so that the entire flow configuration could be advanced through a finite increment of time The pressure and velocity components are used directly as the dependent variables Through extensive analyses and numerical experiments, this scheme was found to be computationally stable if the cell size and the time increment are properly selected As a specific example, the dynamics of a solitary wave passing from a zone of constant depth onto a sloping beach were simulated Primary attention was focused on the details of the water particle motions and the changes in the amplitude and shape of the wave as it climbed the slope The computed results are compared with the experiments with good agreement.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2625</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2625/2290</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

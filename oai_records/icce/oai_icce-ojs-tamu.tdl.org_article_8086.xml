@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8086</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ROCK SLOPES WITH OPEN FILTERS UNDER WAVE LOADING: EFFECTS OF STORM DURATION AND WATER LEVEL VARIATIONS</dc:title>
+	<dc:creator xml:lang="en">van Gent, Marcel R.A.</dc:creator>
+	<dc:creator xml:lang="en">Wolters, Guido</dc:creator>
+	<dc:creator xml:lang="en">van der Werf, Ivo M.</dc:creator>
+	<dc:subject xml:lang="en">rock slopes</dc:subject>
+	<dc:subject xml:lang="en">open filters</dc:subject>
+	<dc:subject xml:lang="en">erosion</dc:subject>
+	<dc:subject xml:lang="en">physical model tests</dc:subject>
+	<dc:subject xml:lang="en">storm duration</dc:subject>
+	<dc:subject xml:lang="en">water level variations</dc:subject>
+	<dc:description xml:lang="en">Rubble mound breakwaters and revetments typically contain granular filters in one or more layers. The transition from the armour layer to the filter layer, and transitions between other layers within the structure, are normally geometrically tight to prevent material washout. This requires a limited ratio of the material size of the upper layer and neighbouring layer. An alternative is a geometrically open filter where in principle underlayer material can be transported into the upper layer, but if the hydraulic load at this transition between two layers remains low, the transition can be designed such that no or limited transport occurs, see for instance Van Gent and Wolters (2015), Van Gent et al (2015) and Jacobsen et al, (2017). This allows for larger ratios of material sizes, which can reduce the number of filter layers, and relax the material requirements with respect to the width of gradings. This can lead to considerable cost savings. In Van Gent and Wolters (2015) physical model tests for the transition between a layer of rock and an underlayer that consists of sand have been performed and design guidelines have been derived. Here, additional physical model tests are presented to study the influence of the storm duration and water level variations on the response of sand underneath a layer of rock.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8086</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8086/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

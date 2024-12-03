@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6788</identifier>
+				<datestamp>2023-10-04T02:38:23Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF TSUNAMI-INDUCED HYDRODYNAMIC FORCES ON ONSHORE STRUCTURES USING SPH</dc:title>
+	<dc:creator xml:lang="en">St-Germain, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:creator xml:lang="en">Townsend, Ronald</dc:creator>
+	<dc:subject xml:lang="en">SPH</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">bore-structure interaction</dc:subject>
+	<dc:description xml:lang="en">In this paper, the simulation of the violent impact of tsunami-like bores with a square column is performed using a single-phase, weakly compressible three-dimensional Smoothed Particle Hydrodynamics (SPH) model. In order to avoid large fluctuations in the pressure field and to obtain accurate simulations of the hydrodynamic forces, a Riemann solver-based formulation of the SPH method is utilized. Large-scale physical experiments conducted by the authors are reproduced using the numerical model. Time-histories of the water surface elevation as well as time-histories of the pressure distribution and net total force acting on the column are successfully compared. As observed in previous breaking wave impact studies, results show that the magnitude and duration of the impulsive force at initial bore impact depend on the degree of entrapped air in the bore-front. Although ensuring a stable pressure field, the Riemann solver-based SPH scheme is believed to induce excessive numerical diffusion, as sudden and large water surface deformations, such as splashing at initial bore impact, are marginally reproduced. To investigate this particular issue, the small-scale physical experiment of Kleefsman et al. (2005) is also considered and modeled.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6788</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.81</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.81</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6788/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

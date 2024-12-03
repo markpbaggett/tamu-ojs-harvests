@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8543</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REAL TIME VESSEL SIMULATION INCORPORATING COASTAL NUMERICAL MODELING</dc:title>
+	<dc:creator xml:lang="en">Smith, Eric D.</dc:creator>
+	<dc:creator xml:lang="en">Oskamp, Jeffrey A.</dc:creator>
+	<dc:description xml:lang="en">Real time vessel simulation has become an integral part of design of navigation channels, harbor geometries, and marine terminals. Generalized guidance for channel width, bend radii, and turning basin dimensions is documented in numerous sources (e.g. PIANC, ASCE) based on typical environmental parameters of current magnitude, wind speed, and wave height. Common to all the guidance is to confirm and finalize geometry and operability based on vessel simulation studies. A real time vessel simulator incorporates various data to represent the response of a vessel to helm controls of the pilot such as water depth, currents, waves, winds, drag, rudder force, and tug boat power. A key component of the simulation is that the computations occur in real time such that the pilot does not notice any lag due to computer processing. As such the fidelity of environmental input to the simulation has often been limited to avoid congestion. Furthermore, vessel simulation software was designed for quick modification in training simulations with simple parameters to apply the conditions uniformly over the model domain. As a result, the implementation of metocean conditions in real time simulation is often truncated based on a simple characterization of sea state and currents to a snap shot of time, represented by a static current field representing peak and ebb or flood tide or by simple representative vectors. However, there are aspects of assessing channel design which benefit from simulating the changing of metocean conditions simultaneously with vessel maneuvering. With improving processing power of simulators, it is possible to incorporate time-varying numerical modeling results directly with fine resolution. This paper presents applications of coastal engineering tools and techniques for real time vessel simulation in conjunction with high resolution coastal hydrodynamic modeling for waterway design.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8543</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8543/7347</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8543/7964</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

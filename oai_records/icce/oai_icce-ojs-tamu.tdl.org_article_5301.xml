@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5301</identifier>
+				<datestamp>2021-01-19T13:06:26Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPECTRAL MODELLING OF CURRENT INDUCED WAVE-BLOCKING</dc:title>
+	<dc:creator xml:lang="en">Ris, R.C.</dc:creator>
+	<dc:creator xml:lang="en">Holthuijsen, L.H.</dc:creator>
+	<dc:subject xml:lang="en">spectral modeling</dc:subject>
+	<dc:subject xml:lang="en">wave blocking</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">Waves travelling against an increasing opposing current tend to dissipate energy and part of the energy reflects back (in blocking conditions). The kinematic behaviour of these waves can be approximated with the linear theory for surface gravity waves. This theory has been implemented for random, short-crested waves in the third-generation wave model SWAN with numerical schemes that are fully implicit. Ad hoc assumptions that are made in other, similar models for blocking conditions are therefore not required and the model is consistent with the underlying theory. To represent the dissipation of the breaking waves in these blocking conditions, the pulse-based model of Hasselmann (1974) as adapted by Komen et al. (1984) has been chosen. Computations have been compared with the flume observations of Lai et al. (1989) in which random waves are blocked with violent breaking by an increasing counter current in relatively deep water. The computations underestimate the dissipation considerably but the addition of the bore-based model of Battjes and Janssen (1978) for steep, breaking waves in deep water improves the agreement with the observations significantly although some discrepancy remains.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5301</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5301/4979</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

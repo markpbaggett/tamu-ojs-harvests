@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5762</identifier>
+				<datestamp>2021-01-19T10:34:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TURBIDIMETRIC MEASURING OF THE SUSPENDED SEDIMENT CONCENTRATION IN THE COASTAL ZONE</dc:title>
+	<dc:creator xml:lang="en">Kos'yan, Ruben D.</dc:creator>
+	<dc:creator xml:lang="en">Podymov, Igor S.</dc:creator>
+	<dc:creator xml:lang="en">Kuznetsov, Sergey Yu.</dc:creator>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">turbidimetric measuring</dc:subject>
+	<dc:description xml:lang="en">The construction peculiarities of the new model of turbidimeter for measurement of instantaneous values of suspended sediment concentration are described in this paper. The presence of optic negative feed back is the basic feature of this turbidimeter, which allows to eliminate practically completely the temperature instability of light source and of its electronic units. A new model of turbidimeter has given a possibility to create a three-dimensional lattice for the investigations of suspended particle spatial shift. One turbidimeter of the lattice cell is recording continuously the background transparency of examined liquid in a real scale. It gives possibility of continuous controlling not only of the light radiation flux attenuation by suspended particles but and of a ratio between the light flux absorption in researched water column with suspended particles and the light flux absorption in "clean" water. During the field experiments with the help of turbidimeters new data about physical mechanisms of sediment suspension above a smooth and rippled bottom were received.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5762</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5762/5432</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2432</identifier>
+				<datestamp>2021-01-17T05:10:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OBSERVATIONS AND EXPERIMENTS ON SOLITARY WAVE DEFORMATION</dc:title>
+	<dc:creator xml:lang="en">Street, Robert L.</dc:creator>
+	<dc:creator xml:lang="en">Camfield, Frederick E.</dc:creator>
+	<dc:subject xml:lang="en">solitary wave</dc:subject>
+	<dc:subject xml:lang="en">wave deformation</dc:subject>
+	<dc:subject xml:lang="en">deformation theory</dc:subject>
+	<dc:description xml:lang="en">A series of experiments were run in a two-dimensional wave channel to study solitary wave deformation on plane slopes ranging from horizontal to vertical. The test objectives included verification of deformation theories, delineation of the shoaling processes associated with various beach slopes, and examination of the limit-height-wave concept. The results showed that the deformation process can be classified as a function of the ratio of initial wave height to water depth and beach slope. The deformation theory for reflection from a vertical wall was verified, but the theory for low slopes was found to be only qualitatively accurate. Finally, a redefinition of the limit-height wave on sloping beaches is suggested.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2432</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>en</dc:language>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

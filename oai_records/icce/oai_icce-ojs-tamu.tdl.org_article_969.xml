@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/969</identifier>
+				<datestamp>2021-01-19T09:12:28Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICABILITY OF THE PREDICTIVE FORMULAE FOR SUSPENDED SEDIMENT CONCENTRATION ON FULL-SCALE RIPPLED BED AND SHEET FLOW</dc:title>
+	<dc:creator xml:lang="en">Jayaratne, Ravindra</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">Predictive models</dc:subject>
+	<dc:subject xml:lang="en">Suspended sediment concentration</dc:subject>
+	<dc:subject xml:lang="en">Full-scale rippled bed and sheet flow</dc:subject>
+	<dc:description xml:lang="en">A significant proportion of the sediment transported in coastal waters consists of sand, which moves in suspension. Transport of sediment suspension in and outside the surf zone occurs predominantly due to vortical motion over wave-generated sand ripples, from sheet flow layer and turbulence under breaking waves. A new set of explicit theoretical formulae was deduced to predict sediment concentration over full-scale rippled beds and sheet flows from the predictive models given in Jayaratne and Shibayama (2007). Previous predictive models were derived using 325 test cases from 1977-1996. The new formulae were also established using dimensional analysis and a best-fit technique. Parameterisation of formulae was carried out with the help of large-scale wave, sediment and concentration data appeared in SANTOSS database (see Van der Werf et al., 2009) which covered 298 test cases from 1987-2007. Reference level was taken where the concentration could be measured without affecting the bed.
+
+Formulae for predicting bed reference concentration (ca), diffusion coefficient (Îµs) and concentration profile [c(z)] on full-scale rippled bed and sheet flow from Jayaratne and Shibayama (2007) were initially assessed with the new datasets. It was identified that the measured and predicted concentration do not agree well in magnitudes and distribution profile since the measured field-scale wave tunnel data have stronger bed shear effect than in the wave flume data used for the previous formulation. Therefore, some variables in previous equations were replaced appropriately with suitable parameters such as Shields parameter with the mobility number (Ïˆ) etc. Bed reference levels (z0) were adjusted based on the value of ca. Empirical constants and exponents in those equations were carefully modified in order to match the measured values using the regression analysis.     The applicability of modified empirical formulae on full-scale rippled bed and sheet flow depends highly on z and Ïˆ. Two different suspension regions were identified within the datasets over the rippled beds due to the enhanced mixing processes in the upper layer and the coherent vortex structure in the osillatory boundary layer, hence two types of equations were proposed. Conversely, four distinct suspension regimes were identified over full-scale sheet flow and predictive models were given for upper sheet flow (exponential) and suspension layers (power relationship). The cause for this different behaviour was identified as the presence of different mixing processes in the upper sheet flow and suspension layer.    
+
+REFERENCES
+Jayaratne, M.P.R. and Shibayama, T. (2007). Suspended sediment concentration on beaches under three different mechanisms, Coastal Engineering Journal, 49(4), 357-392.
+
+Van der Werf, J.J., Schretlen, J.J.L.M., Ribberink, J.S. and O'Donoghue, T. (2009). Database of full-scale laboratory experiments on wave-driven sand transport processes, Coastal Engineering, 56, 726-732.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.ms-powerpoint</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.ms-powerpoint</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/969</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/969/pdf_147</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/969/7715</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/969/7720</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/969/7721</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4283</identifier>
+				<datestamp>2021-01-19T18:53:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILITY OF WAVE BREAKING IN THREE-DIMENSIONAL SEAS</dc:title>
+	<dc:creator xml:lang="en">Mather, D.</dc:creator>
+	<dc:creator xml:lang="en">Snook, M.W.G.</dc:creator>
+	<dc:creator xml:lang="en">Greated, C.A.</dc:creator>
+	<dc:creator xml:lang="en">Easson, W.J.</dc:creator>
+	<dc:creator xml:lang="en">Bryden, I.G.</dc:creator>
+	<dc:subject xml:lang="en">3D sea</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">breaking probability</dc:subject>
+	<dc:description xml:lang="en">Current guidance notes for the design of offshore or coastal structures to withstand breaking waves are based on the behaviour of long-crested, monochromatic waves. It has been acknowledged for some time that although useful for first approximations and in some cases conservative load estimation, the adoption of long-crested wave theories and design principles for a short-crested sea environment may be inappropriate. Halliwell &amp; Machen (1981) have shown that in shallow water, isolated breaking waves under short-crested conditions can occur with greater elevations and hence potentially greater destructive power than existing design codes predict*. Similarly work by Easson &amp; Greated (1981)) has highlighted deficiencies in wave theories to predict particle velocities and accelerations within waves by direct non-contact measurement of these properties, the implications being that such theories may significantly underestimate the total wave loading encountered under breaking waves. These observations call into question our ability to predict accurately and so design to withstand wave breaking effects in short-crested environments. This paper reviews some of the present approaches to the prediction of wave breaking or whitecapping occurrences and compares data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4283</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.76</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 76</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4283/3964</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

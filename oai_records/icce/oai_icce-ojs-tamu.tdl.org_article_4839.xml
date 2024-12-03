@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4839</identifier>
+				<datestamp>2021-01-19T15:43:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE-INDUCED POREWATER PRESSURE AND SEABED STABILITY</dc:title>
+	<dc:creator xml:lang="en">Hattori, A.</dc:creator>
+	<dc:creator xml:lang="en">Sakai, T.</dc:creator>
+	<dc:creator xml:lang="en">Hatanaka, K.</dc:creator>
+	<dc:subject xml:lang="en">seabed stability</dc:subject>
+	<dc:subject xml:lang="en">pore pressure</dc:subject>
+	<dc:subject xml:lang="en">wave pressure</dc:subject>
+	<dc:description xml:lang="en">The boundary layer approximation solution by Mei and Foda(1981) is applied to and its applicability is confirmed for the porewater pressure variation in a seabed under a breaking wave in a surf zone . Then the approximate solution is modified to take into account effects of the waveinduced bottom shear which is not negligible in the surf zone. This modified solution is applied to estimate the terms in the right hand side of the momentum equations for the solid skeleton under the breaking wave. The instability proposed by Madsen(1974) is discussed based on the estimated results. It is suggested that the instability just after the wave crest passing is more likely to occur than the instability just before the crest passing. Just after the crest passing, the horizontal gradient of the porewater pressure is large, while the vertical effective stress is small.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4839</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4839/4520</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

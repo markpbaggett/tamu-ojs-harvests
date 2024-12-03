@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4073</identifier>
+				<datestamp>2021-01-19T20:05:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOWARD A SIMPLE MODEL OF THE WAVE BREAKING TRANSITION REGION IN SURF ZONES</dc:title>
+	<dc:creator xml:lang="en">Basco, David R.</dc:creator>
+	<dc:creator xml:lang="en">Yamashita, Takao</dc:creator>
+	<dc:subject xml:lang="en">surf zones</dc:subject>
+	<dc:subject xml:lang="en">simple model</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:description xml:lang="en">Breaking waves undergo a transition from oscillatory, irrotational motion, to highly rotational (turbulent) motion with some particle translation. On plane or monotonically decreasing beach profiles, this physically takes place in such a way that the mean water level remains essentially constant within the transition region. Further shoreward a rapid set-up takes place within the inner, bore-like region. The new surf zone model of Svendsen (1984) begins at this transition point and the new wave there contains a trapped volume of water within the surface roller moving with the wave speed. This paper describes a simple model over the transition zone designed to match the Svendsen (1984) model at the end of the transition region. It uses a simple, linear growth model for the surface roller area development and semi-empirical model for the variation of the wave shape factor. Breaking wave type can vary from spilling through plunging as given by a surf similarity parameter. The model calculates the wave height decrease and width of the transition region for all breaker types on plane or monotonically depth decreasing beaches.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4073</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.72</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 72</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4073/3755</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

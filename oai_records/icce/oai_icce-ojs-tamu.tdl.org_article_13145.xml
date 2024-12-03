@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13145</identifier>
+				<datestamp>2023-10-03T02:54:22Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HEC-RAS BASED COMPOUND FLOOD ANALYSIS FOR PROJECT PLANNING AND DESIGN</dc:title>
+	<dc:creator xml:lang="en">Agnew, Max</dc:creator>
+	<dc:creator xml:lang="en">Marshall, Jonathan K.</dc:creator>
+	<dc:description xml:lang="en">US Army Corps of Engineers (USACE) Coastal Storm Risk Management (CSRM) projects along the Gulf and Atlantic Coasts are often designed using coastal hazard models that neglect rainfall, riverine inflows and other important physics necessary for accurate flood risk estimation. In transition zone areas that are subject to compound flood effects, using models that neglect rainfall and river contributions may lead to under-designed levee and floodwall elevations that do not meet the project’s intended level of risk reduction. Without the proper characterization of total water level statistics, CSRM designers often pick more unlikely and perhaps overly conservative design scenarios (ie 100 year storm surge plus 100 year rainfall plus 100 year riverine flood). The neglect of compound flood physics influences important calculations typically involved in coastal project planning such as annual expected damages, project costs, benefit cost ratios, making it difficult to plan and select optimal infrastructure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13145</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.187</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.187</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13145/12418</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Max Agnew, Jonathan K. Marshall</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

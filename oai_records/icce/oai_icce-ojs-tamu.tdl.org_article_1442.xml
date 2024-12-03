@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1442</identifier>
+				<datestamp>2023-10-04T03:41:41Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLYING BIVARIATE HHT TO HORIZONTAL VELOCITIES</dc:title>
+	<dc:creator xml:lang="en">Moura, Theo Garcia Rolim de</dc:creator>
+	<dc:creator xml:lang="en">Neves, Claudio Freitas</dc:creator>
+	<dc:creator xml:lang="en">Telles, José Claudio de Faria</dc:creator>
+	<dc:subject xml:lang="en">Hilbert-Huang Transform</dc:subject>
+	<dc:subject xml:lang="en">wave-wave interaction</dc:subject>
+	<dc:subject xml:lang="en">orbital velocities</dc:subject>
+	<dc:description xml:lang="en">The Hilbert-Huang Transform (HHT) is extended to the time series analysis of wave orbital velocities resulting from the superposition of waves propagating in different directions. On a theoretical basis, it is shown that an apparently chaotic velocity signal may result from the interaction of three or more waves, each one with its own period and direction of propagation. Such result is compatible with records of PUV instruments. The comparison between bivariate HHT with Fourier directional analysis shows several advantages of the former, such as identification of wave groups and non-linear interaction components.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1442</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1442/pdf_355</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

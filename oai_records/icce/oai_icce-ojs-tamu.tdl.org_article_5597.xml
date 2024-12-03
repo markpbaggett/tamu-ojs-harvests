@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5597</identifier>
+				<datestamp>2021-01-19T11:26:47Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STOCHASTIC MODELLING OF NONLINEAR WAVES IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Kofoed-Hansen, Henrik</dc:creator>
+	<dc:creator xml:lang="en">Rasmussen, Jorgen H.</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">stochastic modeling</dc:subject>
+	<dc:description xml:lang="en">In this paper we shall study and model the nonlinear transformation offrequency wave spectra using two different types of stochastic models. The nonlinear processes considered include triad wave interaction and dissipation due to depth-induced wave breaking. The two stochastic models are the two-equation model proposed by Kofoed- Hansen and Rasmussen (1998) and the one-equation Lumped Triad Approximation (LTA) originally proposed by Eldeberky and Battjes (1995). Model results are compared with laboratory experiments and results obtained by the underlying deterministic time-domain Boussinesq model. The two stochastic models are found in good agreement with measurements of wave height (Hmo) and wave period (Toi). In case of wave transformation on a horizontal bottom, the LTA model fails as the rapid oscillations are neglected. The two-equation model predicts the energy transfer to sub-harmonics and non-resonant interaction excellently. In the inner surf zone and where the nonlinearity is strong, only the underlying deterministic model predicts the spectra and higher order wave statistics accurately.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5597</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5597/5270</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

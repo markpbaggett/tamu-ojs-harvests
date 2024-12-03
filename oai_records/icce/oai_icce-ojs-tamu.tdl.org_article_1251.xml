@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1251</identifier>
+				<datestamp>2023-10-04T04:32:44Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHORT WAVE BREAKING EFFECTS ON LOW FREQUENCY WAVES</dc:title>
+	<dc:creator xml:lang="en">Daly, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">van Dongeren, Ap</dc:creator>
+	<dc:creator xml:lang="en">van Thiel de Vries, Jaap</dc:creator>
+	<dc:creator xml:lang="en">McCall, Robert</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">low frequency waves</dc:subject>
+	<dc:subject xml:lang="en">fraction of breaking waves</dc:subject>
+	<dc:subject xml:lang="en">wave setup</dc:subject>
+	<dc:subject xml:lang="en">wave groupiness</dc:subject>
+	<dc:description xml:lang="en">The effect of short wave breaking on low frequency waves is investigated using two breaker formulations implemented in a time-dependent numerical model (XBeach): (1) an advective-deterministic approach (ADA) and (2) the probabilistic breaker formulation of Roelvink (1993). Previous research has shown that the ADA breaker model gives different results for the cross-shore pattern of the fraction of breaking waves, which is now shown to affect not only the short wave height but also the short wave groupiness. While RMS short wave heights are comparable to measurements using both breaker models, the ADA breaker model allows higher levels of short wave groupiness into the surf zone. It is shown that this acts as an additional forcing mechanism for low frequency waves in the shoaling and nearshore zone, which, in addition to greater levels of breaking, leads to higher values of wave set-up. These findings are dependent on the complexity of the local bathymetry. For a plane slope, the differences in the low frequency wave heights and set-up predicted by both breaker models are negligible. Where arbitrary breakpoints are present in the field of wave propagation, such as nearshore bars or reefs, the ADA model predicts higher localized set-up, indicative of greater flow over such features. Differences are even more pronounced when the incident wave regime is highly energetic.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:format>image/png</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1251</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1251/pdf_71</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1251/7681</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1251/7682</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1251/7683</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1251/7684</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1251/7685</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1251/7686</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

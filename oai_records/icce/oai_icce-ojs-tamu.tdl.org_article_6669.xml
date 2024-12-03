@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6669</identifier>
+				<datestamp>2023-10-04T03:04:46Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING STORM IMPACT ON COMPLEX COASTLINES. WESTKAPELLE, THE NETHERLANDS</dc:title>
+	<dc:creator xml:lang="en">Santen, Robbin van</dc:creator>
+	<dc:creator xml:lang="en">Steetzel, Henk</dc:creator>
+	<dc:creator xml:lang="en">van Thiel de Vries, Jaap</dc:creator>
+	<dc:creator xml:lang="en">Dongeren, Ap van</dc:creator>
+	<dc:subject xml:lang="en">storm impact modelling</dc:subject>
+	<dc:subject xml:lang="en">dune erosion</dc:subject>
+	<dc:subject xml:lang="en">safety assessment</dc:subject>
+	<dc:subject xml:lang="en">complex coastline</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">DurosTA</dc:subject>
+	<dc:subject xml:lang="en">DUROS </dc:subject>
+	<dc:subject xml:lang="en">Westkapelle</dc:subject>
+	<dc:subject xml:lang="en">the Netherlands</dc:subject>
+	<dc:description xml:lang="en">Regular dune safety assessments in the Netherlands are presently based on a 1D model approach, which is insufficiently applicable for more complex coastal areas with structures, tidal channels or spatially strong varying bathymetry. These situations require more advanced methods to assess the safety in dune areas. In this study a 2DH XBeach model (Roelvink et al., 2009) is applied as a demonstration for a complex coast, and a comparison is made with results obtained from a 1D model approach, using 1D XBeach and 1D DurosTA (Steetzel, 1993). For this specific test-case the coastal area near Westkapelle (in the south-western part of the Netherlands) is selected, since this location is considered to be 'complex' for regular safety assessment studies. The near-shore zone is characterized by a (spatially) strongly varying bathymetry, due to the presence of tidal flats and channels, and a strongly curving coastline. Moreover, the Westkapelle-area is protected by both coastal structures and sandy dunes, such that transition zones exist, which are difficult to assess with a 1D model approach. It is demonstrated that a 2DH model approach enables detailed analysis of the effect of alongshore processes on (dune-) erosion. From model comparisons it is concluded that significant differences are found between simulated erosion-volumes for 1D and 2DH models, when considering the impact of normative storms on complex coastlines.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6669</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6669/pdf_647</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6669/7751</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

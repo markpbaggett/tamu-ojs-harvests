@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6536</identifier>
+				<datestamp>2023-10-04T03:23:30Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTER SIMULATION OF MOORED SHIP MOTION INDUCED BY HARBOR RESONANCE IN POHANG NEW HARBOR</dc:title>
+	<dc:creator xml:lang="en">Kwak, Moonsu</dc:creator>
+	<dc:creator xml:lang="en">Moon, Yongho</dc:creator>
+	<dc:creator xml:lang="en">Pyun, Chongkun</dc:creator>
+	<dc:subject xml:lang="en">moored ship motion</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:subject xml:lang="en">Pohang New Harbor</dc:subject>
+	<dc:description xml:lang="en">This paper proposes a computational method for estimating moored ship motion taking into consideration harbor resonance, and provides a way to estimate the effect that harbor resonance has on moored ship motion. The computation of harbor resonance used the CGWAVE model, and the computation of moored ship motion used the three-dimensional Green's function method. This method was verified with field motion measurement data from actual moored ships and wave field data and down time record data from Pohang New Harbor. The resonance periods obtained from wave field data in Pohang New Harbor were 80, 33, 23, and 8 min, which were the long waves, and 42, 54, and 60 s, which were the infra-gravity waves inside the harbor slip. The simulation results for harbor resonance were compared to the actual wave field data. This study investigated whether harbor resonance has an effect on moored ship motion using simulated results of ship motion both with and without harbor resonance included. In the case of harbor resonance included, moored ship motion increased by 10-30% when compared with the results without harbor resonance included. We found that harbor resonance has a greater effect on the surge and heave motion of a large-sized ship and on the roll and the yaw motion of a small-sized ship.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6536</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.68</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.68</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6536/pdf_536</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2356</identifier>
+				<datestamp>2021-01-17T05:32:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THEORETICAL FORMS OF SHORELINES</dc:title>
+	<dc:creator xml:lang="en">Grijm, W.</dc:creator>
+	<dc:subject xml:lang="en">coastline shape</dc:subject>
+	<dc:subject xml:lang="en">sediment transport by waves</dc:subject>
+	<dc:description xml:lang="en">Laboratory tests say that the littoral transport by waves reaches a maximum value when the waves approach the shore obliquely. In some way this must lead to peculiarities in the forms of shorelines. Therefore we put the question what types of shorelines can mathematically exist assuming the littoral transport is ruled by the function sin 2oC where c&lt; is the angle between the wave front and the shoreline. This yields some basic types of shorelines. After a brief description of the mathematical treatment these results will be discussed. This paper is a continuation of the paper presented on the same subject at the 7 conference on coastal engineering.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1964-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2356</dc:identifier>
+	<dc:identifier>10.9753/icce.v9.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 9 (1964): Proceedings of 9th Conference on Coastal Engineering, Lisbon, Portugal, 1964.; 14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2356/2033</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

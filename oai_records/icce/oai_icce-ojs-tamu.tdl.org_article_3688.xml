@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3688</identifier>
+				<datestamp>2021-01-19T22:21:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BLOWN SAND ON BEACHES</dc:title>
+	<dc:creator xml:lang="en">Kubota, Susumu</dc:creator>
+	<dc:creator xml:lang="en">Horikawa, Kiyoshi</dc:creator>
+	<dc:creator xml:lang="en">Hotta, Shintaro</dc:creator>
+	<dc:subject xml:lang="en">beach sand</dc:subject>
+	<dc:subject xml:lang="en">blown sand</dc:subject>
+	<dc:description xml:lang="en">The blown sand transport rate and the vertical and shore-normal distributions of the wind speed were measured simultaneously on a windy beach. The sand transport rate was measured with conventional total quantity-type traps and with a large trap in the form of a trench. The vertical distribution of the wind speed was measured using an ultrasonic anemometer array consisting of six meters. The distribution of wind speed at a height of 1 m in a section normal to the shoreline was measured with five ultrasonic anemometers. A logarithmic law for the vertical distribution of the wind speed was satisfied, and the wind speed in the section normal to the shoreline was almost constant. The Kawamura and Bagnold formulae were found to predict well the sand transport rate. The trench trap and conventional traps gave empirical coefficients of 1.5 and 1.0, respectively, for the sand transport rate averaged over a section normal to the shoreline. The lower value determined with the conventional traps (1.0) is attributed to their inefficiency compared with the trench trap. In order to obtain data at high shear velocities, a wind tunnel experiment was carried out. This experiment showed that both the Kawamura and Bagnold formulae were valid in the range between 60 to 300 cm/s in the wind shear velocity. The empirical coefficient in the laboratory experiments was 1.0: the difference between the field result with the trench trap and the wind tunnel experiment is attributed to the fluctuations in natural wind.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3688</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3688/3371</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

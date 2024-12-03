@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1356</identifier>
+				<datestamp>2023-10-04T03:48:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAKE EFFECTS BEHIND A FARM OF WAVE ENERGY CONVERTERS FOR IRREGULAR LONG-CRESTED AND SHORT-CRESTED WAVES</dc:title>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:creator xml:lang="en">Beels, Charlotte</dc:creator>
+	<dc:creator xml:lang="en">De Rouck, Julien</dc:creator>
+	<dc:creator xml:lang="en">De Backer, Griet</dc:creator>
+	<dc:subject xml:lang="en">wave propagation modeling</dc:subject>
+	<dc:subject xml:lang="en">mild slope equations</dc:subject>
+	<dc:subject xml:lang="en">wave energy converter</dc:subject>
+	<dc:subject xml:lang="en">wake effect</dc:subject>
+	<dc:subject xml:lang="en">farm lay-out</dc:subject>
+	<dc:subject xml:lang="en">renewable energy</dc:subject>
+	<dc:description xml:lang="en">The contribution of wave energy to the renewable energy supply is rising. To extract a considerable amount of wave power, Wave Energy Converters (WECs) are arranged in several rows or in a 'farm'. WECs in a farm are interacting (e.g. the presence of other WECs influence the operational behaviour of a single WEC) and the overall power absorption is affected. In this paper wake effects in the lee of a single WEC and multiple WECs of the overtopping type, where the water volume of overtopped waves is first captured in a basin above mean sea level and then drains back to the sea through hydro turbines, are studied using the time-dependent mild-slope equation model MILDwave. The wake behind a single WEC is investigated for long-crested and short-crested incident waves. The wake becomes wider for larger wave peak periods. An increasing directional spreading results in a faster wave regeneration and a shorter wake behind the WEC. The wake in the lee of multiple WECs is calculated for two different farm lay-outs, i.e. an aligned grid and a staggered grid, with varying lateral and longitudinal spacing. The wave power redistribution in and behind each farm lay-out is studied in detail using MILDwave. In general, the staggered grid results in the highest overall wave power absorption.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1356</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1356/pdf_333</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4751</identifier>
+				<datestamp>2021-01-19T16:13:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INCIDENT WAVE GROUPS AND LONG WAVES IN THE NEARSHORE ZONE</dc:title>
+	<dc:creator xml:lang="en">Foote, Y.</dc:creator>
+	<dc:creator xml:lang="en">Huntley, D.</dc:creator>
+	<dc:creator xml:lang="en">Davidson, M.</dc:creator>
+	<dc:creator xml:lang="en">Russell, P.</dc:creator>
+	<dc:creator xml:lang="en">Hardisty, J.</dc:creator>
+	<dc:creator xml:lang="en">Cramp, A.</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">incident waves</dc:subject>
+	<dc:description xml:lang="en">Variations of the wave groupiness, cross-correlation between the incident wave envelope and long wave motion, and skewness of the near-bed velocity were measured on a macrotidal beach at Spurn Head, UK, as part of an experiment by the B-BAND (British Beach And Nearshore Dynamics) programme. Wave groupiness persisted throughout the surf zone, and did not decay immediately at the breakpoint as is often assumed. The crosscorrelation between the incident and long wavefields varied systematically across the nearshore, with negative values outside the surf zone and positive values near the shoreline. Offshore of the breakpoint, the skewness of the cross-shore current was dominated by three contributions - (i) the skewness of the incident waves, (ii) the interaction between the incident wave energy and the mean flow and (iii) the correlation between the incident and long waves. Onshore of the breakpoint, contributions (i) and (ii) remained important, along with the interaction between the long wave energy and the mean flow. The relative importance of these contributions to the skewness was unaffected by the incident wave characteristics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4751</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4751/4432</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

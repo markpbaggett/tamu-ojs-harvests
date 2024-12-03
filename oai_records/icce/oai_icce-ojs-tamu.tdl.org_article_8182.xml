@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8182</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DETERMINING THE CRITICAL VELOCITY OF GRASS SODS FOR WAVE OVERTOPPING BY A GRASS PULLING DEVICE</dc:title>
+	<dc:creator xml:lang="en">Bijlard, Roel</dc:creator>
+	<dc:creator xml:lang="en">Steendam, Gosse</dc:creator>
+	<dc:creator xml:lang="en">Verhagen, Henk</dc:creator>
+	<dc:creator xml:lang="en">van der Meer, Jentsje</dc:creator>
+	<dc:subject xml:lang="en">critical velocity of grass sod</dc:subject>
+	<dc:subject xml:lang="en">cumulative overload method</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping simulator</dc:subject>
+	<dc:subject xml:lang="en">critical grass normal stress</dc:subject>
+	<dc:subject xml:lang="en">sod pulling test</dc:subject>
+	<dc:description xml:lang="en">DETERMINING THE CRITICAL VELOCITY OF GRASS SODS FOR
+WAVE OVERTOPPING BY A GRASS PULLING DEVICE
+Roel Bijlard, Delft University of Technology, roelbijlard@gmail.com
+Gosse Jan Steendam, INFRAM International, gosse.jan.steendam@infram.nl
+Henk Jan Verhagen, Delft University of Technology, h.j.verhagen@tudelft.nl
+Jentsje van der Meer, Van der Meer Consulting bv, jm@vandermeerconsulting.nl
+
+INTRODUCTION
+There is a shift in the approach for designing coastal
+structures in the Netherlands, such as dikes or levees.
+In the past dikes were designed on the probability of
+exceedance of the water level during specific incoming
+(wave) storm conditions. In the near future the design
+criterion will be the probability of flooding of the
+hinterland. In order to determine this flood probability,
+the strength of the dike has to be known at which
+failure occurs. During extreme storm conditions waves
+will overtop the crest which can lead to erosion of the
+grass sod on the landward slope. This can finally result
+in instability of the dike and flooding of the hinterland.
+Past research focused on the erosion of the grass sod
+during different wave overtopping conditions, see
+Steendam 2014. The last few years many tests have
+been performed with the Wave Overtopping Simulator.
+During these tests the Cumulative Hydraulic Overload
+Method has been developed, see Van der Meer 2010
+and Steendam 2014. With this method an estimation
+of the critical velocity of the grass sod has to be made.
+The critical velocity is a strength parameter for a grass
+sod on a dike during loads induced by overtopping
+wave volumes.
+
+SOD PULLING TESTS
+For safety assessments it would be beneficial if there
+is also an easier way to determine the critical velocity
+of the grass sod. However, it is important to measure
+the actual strength of the grass cover, so a visual
+inspection cannot be satisfactory. The sod pulling
+test is developed in order to investigate the
+resistance of the grass cover. It lifts the grass sod
+perpendicular to the slope out of the sod and
+measures the force as a function of the deformation.
+In order to lift the sod, a pull frame is anchored into
+the top layer with pins. This frame then is lifted out of
+the grass sod by a hydraulic cylinder.
+In order to insert the pins into the sod, the soil has to
+be excavated on two sides (condition 2 test) or on all
+4 sides (condition 4 test). This has the disadvantage
+that the strength of an intact sod cannot be
+measured directly. So a methodology is developed to
+estimate the strength of an intact grass sod from the
+measured data. A further introduction on the sod
+pulling tests is given in Steendam 2014. The goal is
+to rewrite the measured forces from the sod pulling
+test into a critical velocity so that the Cumulative
+Hydraulic Overload Method can be used for
+determining the flooding probability of a dike.
+Some of the locations tested with the wave
+overtopping simulator have also been tested for the
+strength of the grass cover with the sod pulling tests.
+The two methods use the same failure mechanism of
+the grass, erosion of the grass sod.
+The top layer of a dike consists of soil and roots
+growing in multiple directions. The roots anchor the
+grass into the soil and can deform centimeters
+without tearing. Pressures acting on the grass cover
+will first break the weakest roots, but the forces will
+be redistributed to other roots. Only when a critical
+amount of roots are broken, the redistribution stops
+and the grass cover will fail.
+
+CONCLUSION
+It is possible to rewrite the measured forces with the
+sod pulling tests into a critical grass normal stress
+(Ïƒgrass.c), which is one of the input parameters for
+determining the critical velocity of a grass sod, see
+Hoffmans 2012.
+
+The equation also uses the pore water pressure (pw),
+the relative turbulence intensity (r0) and the density of
+the water (Ï). When the critical velocity resulting from
+this equation is compared with the determined critical
+velocity during the wave overtopping simulations,
+there is good correspondence between the values for
+the five tested locations. So the sod
+pulling test could provide results that are reliable
+enough to determine the critical velocity of a dike
+section. Further elaboration and scientific background
+will follow in the paper after the conference.
+
+REFERENCES
+Hoffmans (2012): The influence of turbulence on soil
+erosion. Eburon, Delft.
+Steendam, van Hoven, van der Meer, Hoffmans
+(2014): Wave Overtopping Simulator tests on
+transitions and obstacles at grass covered slopes of
+dikes, proc. ICCE 2014 Seoul.
+Van der Meer, Hardeman, Steendam, Schuttrumpf,
+Verheij (2010): Flow depths and velocities at crest
+and inner slope of a dike, in theory and with the Wave
+Overtopping Simulator, Proc. ICCE 2010, Shanghai.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8182</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8182/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

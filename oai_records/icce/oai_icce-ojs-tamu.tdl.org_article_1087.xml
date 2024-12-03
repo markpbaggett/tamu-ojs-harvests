@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1087</identifier>
+				<datestamp>2023-10-04T04:15:14Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN INTRODUCTION TO EVENT-BASED MODEL FOR THE STUDY OF SEDIMENT TRANSPORT IN THE SWASH ZONE</dc:title>
+	<dc:creator xml:lang="en">Shanehsazzadeh, Ahmad</dc:creator>
+	<dc:creator xml:lang="en">Holmes, Patrick</dc:creator>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">sedimen</dc:subject>
+	<dc:subject xml:lang="en">beach evolution</dc:subject>
+	<dc:subject xml:lang="en">particle jump length</dc:subject>
+	<dc:subject xml:lang="en">laboratory data.</dc:subject>
+	<dc:description xml:lang="en">Erosion and accretion of the beach face and consequently the movement of the coastline are the direct result of net sediment transport in the swash zone. Different models have been introduced in order to predict hydrodynamic parameters and, thereafter, movement of particles. However, the capability and comprehensiveness of the models in different conditions are still questionable. In reviewing models established for sediment transport in the swash zone, one can easily conclude that in the most cases the transport of bed load has been predicted traditionally by the application of quasi-steady formula. Scientists have identified many of the important physical processes driving sediment transport throughout the swash zone, but a detailed description of the small-scale sediment dynamics is still far from complete. In this paper the behaviour of coarse sediment particles in the bed load mode of transport in response to the flow regime experienced in the swash zone are investigated. Accordingly, a model called event-based model is introduced for prediction of the beach profile change, and the results of the model are compared with some laboratory data. The comparison between the results of the model and measured beach profile in the laboratory reveals that the results of the model developed in the present study on the basis of the event-based concept are very promising, particularly in the range of flow for which the behaviour of sediment particles is more accurately understood.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1087</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1087/pdf_185</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6910</identifier>
+				<datestamp>2023-10-04T02:53:30Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TRANSPORT OF RESUSPENDED DREDGED SEDIMENT NEAR CORAL REEFS AT APRA HARBOR, GUAM</dc:title>
+	<dc:creator xml:lang="en">Lackey, Tahirih</dc:creator>
+	<dc:creator xml:lang="en">Gailani, Joseph</dc:creator>
+	<dc:creator xml:lang="en">Kim, Sung-Chan</dc:creator>
+	<dc:creator xml:lang="en">King, David</dc:creator>
+	<dc:creator xml:lang="en">Shafer, Deborah</dc:creator>
+	<dc:subject xml:lang="en">dredging</dc:subject>
+	<dc:subject xml:lang="en">lagrangian</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:description xml:lang="en">Model studies have been conducted to investigate the potential coral reef exposure from proposed dredging associated with development of a new deepwater wharf in outer Apra Harbor, Guam.  The Particle Tracking Model (PTM) was applied to quantify the exposure of coral reefs to material suspended by the dredging operations at proposed sites.  Key PTM features include the flexible capability of continuous multiple releases of sediment parcels, control of parcel/substrate interaction, and the ability to track vast numbers of parcels efficiently.  This flexibility has allowed for model simulation of the combined effects of sediment release from clamshell dredging, of chiseling to fracture limestone blocks, of silt curtains, and of flocculation.  Because the rate of material released into the water column by some of the processes is not well understood or a priori known, the modeling protocol was to bracket parameters within reasonable ranges to produce a suite of potential results from multiple model runs.  Data analysis results include mapping the time histories and the maximum values of suspended sediment concentration and deposition rate.  Following exposure modeling, the next phase of the analysis has been an ecological assessment to translate the PTM exposure level predictions into predicted amounts of coral reef damage.  The level of potential coral reef impact will be an important component of the final selection process for the new deepwater berthing site.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6910</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.99</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.99</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6910/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

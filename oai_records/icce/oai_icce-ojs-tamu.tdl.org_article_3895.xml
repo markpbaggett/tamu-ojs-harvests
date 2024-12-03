@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3895</identifier>
+				<datestamp>2021-01-19T21:06:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE COMPUTATION OF BED SHEAR IN A NUMERICAL MODEL</dc:title>
+	<dc:creator xml:lang="en">Leeuwenstein, W.</dc:creator>
+	<dc:creator xml:lang="en">Wind, H.G.</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">bed shear</dc:subject>
+	<dc:subject xml:lang="en">shear computation</dc:subject>
+	<dc:description xml:lang="en">Obstructions located in coastal and offshore waters usually disturb the natural flow pattern. This disturbed flow will, in general, cause local morphological changes in the position of the erodable boundary. Often these changes should not be allowed to exceed certain limits, for example, when local scour around an offshore construction may endanger foundations. Local morphological changes result from changes in the local sediment balance, brought about by the flow disturbance. In the present paper a mathematical model is described which gives the bottom shear stresses and the configuration of the seabed around an obstruction using a computation of the two dimensional turbulent flow field. The obstruction considered is a submarine pipeline laid uncovered on a seabed consisting of non-cohesive sediment. A research project on the local scour near submarine pipelines is being carried out at the Delft University of Technology. Part of the project is the application and extension of an advanced numerical flow model for scour development near pipelines on the seabed exposed to current action. This work is being carried out in cooperation with the Delft Hydraulics Laboratory. The code of the flow model has been developed in a joint venture between the Delft Hydraulics Laboratory and the Laboratoire National d"Hydraulique in France. The turbulent flow field is computed taking into account the influence of turbulence generated at the bed and by the pipe. The bed shear stresses are assumed to play the key role in the interaction between the flow and the seabed. In the computer model the bed shear is related to the flow through the "law of the wall". The model operation is schematized in the diagram below in which the first loop represents the evolution of the velocity field through a series of hydraulic time steps. After the velocity field is stabilized, in the second loop one morphological time step can be used for the computation of the local seabed changes. In this second loop the computed bed shear is applied together with a sediment transport formula. After the morphological time step a new bed topography is obtained and a new grid is generated for the next flow computation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3895</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.114</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 114</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3895/3578</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

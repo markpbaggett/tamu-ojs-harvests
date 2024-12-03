@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5772</identifier>
+				<datestamp>2021-01-19T10:31:11Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIZE GRADATION EFFECTS IN SEDIMENT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Chatelus, Y.</dc:creator>
+	<dc:creator xml:lang="en">Katopodi, I.</dc:creator>
+	<dc:creator xml:lang="en">Dohmen-Janssen, M.</dc:creator>
+	<dc:creator xml:lang="en">Ribberink, J.S.</dc:creator>
+	<dc:creator xml:lang="en">Samothrakis, P.</dc:creator>
+	<dc:creator xml:lang="en">Cloin, B.</dc:creator>
+	<dc:creator xml:lang="en">Savioli, J.C.</dc:creator>
+	<dc:creator xml:lang="en">Bosboom, J.</dc:creator>
+	<dc:creator xml:lang="en">O'Connor, B.A.</dc:creator>
+	<dc:creator xml:lang="en">Hein, R.</dc:creator>
+	<dc:creator xml:lang="en">Hamm, L.</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">size gradation</dc:subject>
+	<dc:subject xml:lang="en">gradation effects</dc:subject>
+	<dc:description xml:lang="en">This paper presents the experimental results obtained at prototype scale in the Large Oscillating Water Tunnel (LOWT) facility of WL I Delft Hydraulics with graded sediment subjected to non-linear waves and linear waves plus current flows. The objective of this experiment is to increase our present understanding and physical insight of the basic mechanisms of bed-load and suspended load transport in oscillatory flow conditions when graded sediments are present in the bed. The sediment bed consists of a mixture of two well sorted sands (two fractions) that have been used before in the tunnel in order to make comparisons possible. Net sediment transport rates, time averaged suspended sediment profiles, time dependent concentrations in the suspension and sheet flow layers as well as time dependent velocity profiles are measured. Moreover, the sediment bed composition before and after each test is recorded in order to calculate the transport rate of each sediment fraction. Selected results are presented here. Full details are included in the data report (Hamm et al, 1998). The data will be used for the development of mathematical model formulations for graded sediment transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5772</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5772/5442</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

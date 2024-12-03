@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1275</identifier>
+				<datestamp>2023-10-04T03:55:00Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL ANALYSIS OF EROSIVE COHESIVE COASTLINE MORPHOLOGY</dc:title>
+	<dc:creator xml:lang="en">Caplain, Bastien</dc:creator>
+	<dc:creator xml:lang="en">Astruc, Dominique</dc:creator>
+	<dc:creator xml:lang="en">Regard, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Moulin, Frédéric</dc:creator>
+	<dc:subject xml:lang="en">cliff erosion</dc:subject>
+	<dc:subject xml:lang="en">bottom morphology</dc:subject>
+	<dc:subject xml:lang="en">experimental modeling</dc:subject>
+	<dc:subject xml:lang="en">beach ridge</dc:subject>
+	<dc:description xml:lang="en">Laboratory experiments have been performed in a wave flume to investigate the coastal cliff recession under regular waves forcing. The different processes of the cliff erosion cycle are described and we focus on bottom evolution, which seem mostly depend on the surf similarity parameter Î¾. We observed steep planar (Î¾ &gt; 0.7), gentle planar (0.5 &lt; Î¾ &lt; 0.7) and bared (Î¾ &lt; 0.5) profiles. We noticed different sandbar dynamics including either steady or unsteady self-sustained oscillating states. Then we estimate the role of the self-organized material on the cliff recession rate. We show that the cliff erosion increases with the wave energy flux and is stronger for a gentle planar profile than for a bared profile of bottom morphology. However, the cliff recession rate as a function of the cliff height is not monotonic due to a different dynamics of bottom morphologies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1275</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1275/pdf_297</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

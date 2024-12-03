@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3942</identifier>
+				<datestamp>2021-01-19T20:50:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOTTOM TURBULENT BOUNDARY LAYER IN WAVE-CURRENT CO-EXISTING SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Asano, Toshiuki</dc:creator>
+	<dc:creator xml:lang="en">Iwagaki, Yuichi</dc:creator>
+	<dc:subject xml:lang="en">bottom boundary layer</dc:subject>
+	<dc:subject xml:lang="en">turbulent boundary layer</dc:subject>
+	<dc:subject xml:lang="en">wave/current system</dc:subject>
+	<dc:description xml:lang="en">This study presents a new mathematical method calculating the water particle velocity in the wave-current co-existing systems. A boundary layer thickness 5,,, in the co-existing system is expected to be variable with the water particle velocity ratio of wave component to current component. In this method, the boundary layer equation is solved as a free boundary problem by treating 6,,, as an unknown boundary value. Several characteristics of the turbulent boundary layer such as the friction factor, friction velocity, boundary layer thickness, etc. are calculated by this method and the effect of the wave-current velocity ratio on them is discussed. Furthermore, the velocity reduction of the current due to wave superimposing is investigated. In addition, near-bottom velocities are measured by a laser-doppler velocimeter in the pure current, the pure wave and the wave-current co-existing fields. These results are compared with calculated ones by this mathematical method.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3942</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.161</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 161</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3942/3625</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

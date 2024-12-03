@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3811</identifier>
+				<datestamp>2021-01-19T21:37:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A DYNAMICAL EXPRESSION OF WAVES IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Tsuchiya, Y.</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, T.</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">dynamical expression</dc:subject>
+	<dc:description xml:lang="en">Making the assumptions that solitons are one of the most elementary excitation in random nonlinear waves in shallow water and that the waves have a coherent dynamic structure of solitons, we attempt to describe the swell-like waves theoretically "by deriving the asymptotic multisoliton solution for the KdV equation. Formulations of the random wave profiles and internal properties are also made. We conclude from the comparisons between observed and theoretical results of the propagation characteristics of the swell-like random waves and their water particle velocities, that the waves in shallow water have a coherent dynamic structure of solitons and that the theoretical expression for the waves has practically sufficient accuracy in estimating their propagation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3811</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3811/3494</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

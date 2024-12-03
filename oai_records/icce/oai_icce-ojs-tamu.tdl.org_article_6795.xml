@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6795</identifier>
+				<datestamp>2023-10-04T02:37:33Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMIC IMPACTS OF TIDAL POWER LAGOONS IN THE BAY OF FUNDY</dc:title>
+	<dc:creator xml:lang="en">Cousineau, Julien</dc:creator>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:creator xml:lang="en">Cornett, Andrew</dc:creator>
+	<dc:subject xml:lang="en">Bay of Fundy</dc:subject>
+	<dc:subject xml:lang="en">tidal lagoon</dc:subject>
+	<dc:subject xml:lang="en">tidal power</dc:subject>
+	<dc:subject xml:lang="en">renewable energy</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamics</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:description xml:lang="en">It has long been identified that the Bay of Fundy, Canada, is one of the world's premier locations for the development of tidal power generating systems, since it has some of the world's largest tidal ranges. Several proposals have been made in recent years to find economical ways to harness the power of tides. There is presently considerable interest in installing tidal power lagoons in the Bay of Fundy. The lagoon concept involves temporarily storing seawater behind an impoundment dike and generating power by gradually releasing the impounded seawater through conventional low-head hydroelectric turbines. A tidal lagoon will inherently modify the tides and tidal currents regime in the vicinity of the lagoon, and possibly induce effects that may be felt throughout the entire bay. The nature of these hydrodynamic impacts will likely depend on the size of the tidal lagoon, its location, and its method of operation. Any changes in the tidal hydrodynamics caused by a tidal lagoon may upset ecosystems that are well adapted to existing conditions. The scale and character of the potential hydrodynamic impacts due to tidal lagoons operating in the Bay of Fundy have not been previously investigated. This paper presents the results of a hydrodynamic model developed to analyze, predict, and quantify the potential changes in the tidal hydrodynamics changes (water levels, tidal range, circulation patterns and tidal currents) due to the presence of a single tidal lagoon, or multiple lagoons, operating in the upper Bay of Fundy, Canada. The extent of the changes due to different scenarios involving several number, size and location of lagoons, as well as their operating mode is also investigated. The final purpose of this novel study is to assist with decisions concerning the development of the vast tidal energy resources available in the Bay of Fundy, Canada.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6795</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.69</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.69</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6795/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12857</identifier>
+				<datestamp>2023-09-01T15:13:49Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DESIGN SCOUR LEVELS FOR DUNE REVETMENTS AND SEAWALLS</dc:title>
+	<dc:creator xml:lang="en">Nielsen, Alexander</dc:creator>
+	<dc:description xml:lang="en">Particularly important for the design of dune revetments and seawalls subjected to breaking waves is the maximum depth of toe scour, the primary cause of failure of many coastal structures (Sutherland et al. 2006). Much of the published research on wave-induced toe scour has been under non-breaking waves with subaqueous seabed levels at the seawall/revetment toe. However, dune revetments and seawalls may become exposed to breaking waves for which this method has been derived. The method proposed herein assumes that the work done to excavate a scour hole is a function of the incident wave energy (Steetzel 1993), which incorporates wave period rather than wave height alone, and a formula for the toe scour level has been developed for a still water level datum at the wave breaking point. The formula has been calibrated with data derived from published laboratory studies covering a large range of scales, with some having been validated with prototype measurements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12857</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12857/12130</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Alexander Nielsen</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

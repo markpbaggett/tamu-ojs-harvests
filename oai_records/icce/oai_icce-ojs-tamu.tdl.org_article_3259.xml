@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3259</identifier>
+				<datestamp>2021-01-20T00:43:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF SHIPBORNE WAVE RECORDER AND WAVERIDER BUOY DATA USED TO GENERATE DESIGN AND OPERATIONAL PLANNING CRITERIA</dc:title>
+	<dc:creator xml:lang="en">Graham, C.G.</dc:creator>
+	<dc:creator xml:lang="en">Verboom, G.</dc:creator>
+	<dc:creator xml:lang="en">Shaw, C.J.</dc:creator>
+	<dc:subject xml:lang="en">shipborne wave recorder</dc:subject>
+	<dc:subject xml:lang="en">wave recorder</dc:subject>
+	<dc:subject xml:lang="en">buoy data</dc:subject>
+	<dc:subject xml:lang="en">waverider buoy</dc:subject>
+	<dc:subject xml:lang="en">design criteria</dc:subject>
+	<dc:description xml:lang="en">This paper presents the results of recent investigations at three sites where waves have been monitored simultaneously by two commonly used deep-water wave recorders, over a total period of 16 sensor-years. The study confirms earlier statements that there are relative differences between the wave parameters and statistical values calculated from the measurements of the two instruments. However, the large amount of data has enabled the authors to quantify the results in engineering terms and to assess the implications for extreme value analysis, spectral analysis and wave climate operational planning.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3259</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3259/2923</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

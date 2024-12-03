@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7049</identifier>
+				<datestamp>2021-01-19T05:24:34Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A QUALITATIVE ASSESSMENT OF CLIMATE CHANGE IMPACTS ON THE STABILITY OF SMALL TIDAL INLETS VIA SCHEMATISED NUMERICAL MODELLING</dc:title>
+	<dc:creator xml:lang="en">Duong, Trang Minh</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:creator xml:lang="en">Luijendijk, Arjen</dc:creator>
+	<dc:creator xml:lang="en">Walstra, Dirk-Jan</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:subject xml:lang="en">Climate change impacts</dc:subject>
+	<dc:subject xml:lang="en">Stability</dc:subject>
+	<dc:subject xml:lang="en">Small tidal inlets</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:subject xml:lang="en">Schematised cases</dc:subject>
+	<dc:description xml:lang="en">Tidal inlets are of great societal importance and are also the most morphologically dynamic regions in the coastal zone. Therefore, they are of great scientific interest. Their behaviour is governed by the delicate balance of oceanic processes such as tides, waves and mean sea level (MSL), and fluvial/estuarine processes such as riverflow. All of these processes can be significantly affected by climate change (CC) processes, which may result in negative physical impacts such as inlet closure/relocation,  creation of new inlets, erosion of  the coast adjacent to the inlet etc. 
+
+Although CC impacts on some large tidal inlets (e.g. Wadden Sea inlets) have received some attention recently, the potential CC impacts on small tidal inlets (STIs) remain virtually unknown to date. Furthermore, whether currently available predictive tools are capable of simulating CC impacts on these systems also remains unknown. These knowledge gaps are a serious threat to effective adaptation to CC in STI environments. Just, this study attempts to investigate the potential range of CC impacts on the stability (i.e. closed/open state and locational stability) of STIs via the application of a sophisticated process based morphodynamic model (Delft3D) to strategically selected schematised inlet morphologies and forcing conditions.
+
+Results indicate that CC driven variations in system forcing are likely have profound impacts on inlet stability and also show that a process based coastal morphodynamic model (eg. Delft3D) is suitable for investigating potential CC impacts at small tidal inlets.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7049</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7049/pdf_395</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

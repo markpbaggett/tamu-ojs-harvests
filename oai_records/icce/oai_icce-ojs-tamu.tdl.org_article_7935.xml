@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7935</identifier>
+				<datestamp>2021-01-20T03:47:38Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMAGE-BASED STUDY OF BREAKING AND BROKEN WAVE CHARACTERISTICS IN FRONT OF THE SEAWALL</dc:title>
+	<dc:creator xml:lang="en">Liu, Weijie</dc:creator>
+	<dc:creator xml:lang="en">Tajima, Yoshimitsu</dc:creator>
+	<dc:subject xml:lang="en">breaking and broken waves</dc:subject>
+	<dc:subject xml:lang="en">partial standing waves</dc:subject>
+	<dc:subject xml:lang="en">breaking wave models</dc:subject>
+	<dc:description xml:lang="en">This study aims to study the breaking and broken wave characteristics in front of the vertical seawall. Laboratory experiments were performed to represent such phenomena. A physical model of a vertical seawall installed on the mild slope was made in the wave flume. Image-based measuring technique was developed and applied to capture the wave characteristics as high-resolution data sets both in spatial and temporal domains. By analyzing the high-resolution data, behaviors of partial standing waves were successfully captured in front of the seawall. Comparisons of obtained data with and without seawall clearly showed the difference in cross-shore distributions of wave height, mean water level and skewness while no clear difference was observed in asymmetry. Obtained experimental data was then used to validate the applicability of Boussinesq wave model attached with existing breaking models. It was found that both viscosity-type and surface roller-type breaking models tended to overestimate the energy dissipation in front of the seawall.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7935</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7935/pdf_942</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

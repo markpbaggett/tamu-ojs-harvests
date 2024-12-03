@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8355</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF FUTURE RETURN PERIOD STILLWATER FLOODPLAINS FOR THE COASTS OF MISSISSIPPI, ALABAMA, AND THE FLORIDA PANHANDLE</dc:title>
+	<dc:creator xml:lang="en">Hagen, Scott C.</dc:creator>
+	<dc:creator xml:lang="en">Bilskie, Matthew V.</dc:creator>
+	<dc:creator xml:lang="en">Irish, Jennifer</dc:creator>
+	<dc:description xml:lang="en">Rising seas increase the exposure, vulnerability, and thus the risk associated with storm surge flowing across the coastal floodplain (Passeri et al. 2015). This is especially true across low-gradient coastal landscapes such as Mississippi, Alabama, and the Florida Panhandle. The extent and depth of flooding will be exasperated over the long term by morphologic changes to the shoreline, dunes and barrier islands (Plant et al. 2016, Passeri et al. 2016), marsh evolution (Alizad et al. 2016, Kidwell et al. 2017, Morris et al. 2016), and land use and land cover changes (Bilskie et al. 2014 &amp; 2016). This presentation will describe how to incorporate biogeophysical impacts of climate change into future tide and surge models. A methodology will be presented (Bilskie et al. 2018) to down select a suite of synthetic storms from recent flood insurance studies to force hurricane storm surge models that represent present day and future changes to the coastal landscape under four sea level rise (SLR) scenarios of low (0.2 m), intermediate-low (0.5 m), intermediate-high (1.2 m), and high (2.0 m). Results of peak storm surge are used to compute the 100-year and 500-year return period floodplain and stillwater surge heights for each SLR scenario.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8355</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.87</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.87</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8355/7163</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8355/7826</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

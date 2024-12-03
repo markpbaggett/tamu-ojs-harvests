@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1373</identifier>
+				<datestamp>2023-10-04T04:24:54Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF AN OPERATIONAL ELBE TIDAL ESTUARY MODEL</dc:title>
+	<dc:creator xml:lang="en">Muller-Navarra, Sylvin</dc:creator>
+	<dc:creator xml:lang="en">Bork, Ingrid</dc:creator>
+	<dc:subject xml:lang="en">tidal river Elbe</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">water level forecasts</dc:subject>
+	<dc:subject xml:lang="en">model output statistics (MOS)</dc:subject>
+	<dc:description xml:lang="en">Due to local tidal conditions, vessels coming in from the North Sea and bound for the port of Hamburg - more than 100 km upstream - require continually updated hydrological and oceanographic forecasts. The principal objective of the research project OPTEL (Operational Elbe Tidal Estuary Model) is to provide hydrological and oceanographic forecasts about water levels, depths, currents, salinity, temperature and ice conditions for any tidally influenced place on the river Elbe. By using a numerical model, it is ensured that water levels and currents are coupled dynamically, which allows peak water levels, slack water times, and - in 3D modelling - flow profile to be modelled in a physically consistent way and with high resemblance to natural conditions. The model concept including model output statistics (MOS) and first model results are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1373</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1373/pdf_113</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

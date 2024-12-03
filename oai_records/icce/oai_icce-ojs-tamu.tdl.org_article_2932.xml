@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2932</identifier>
+				<datestamp>2021-01-20T02:40:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTER AID FOR OPTIMUM DESIGN OF TSUNAMI WAVES</dc:title>
+	<dc:creator xml:lang="en">Iwasaki, Toshio</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">computer aid</dc:subject>
+	<dc:subject xml:lang="en">optimum wave design</dc:subject>
+	<dc:description xml:lang="en">The tsunami process of their generation and propagation to the near-coast offshore region is discussed. Purpose is to give optimum configurations of tsunami waves of large magnitude, which can be used as boundary conditions for the analysis of the dynamic process near the shore or around structures in coastal zone. They are obtained by numerical computations along the southern coast of the Hokkaido and the Sanriku Coast for various tsunami sources set on the continental shelf facing to the Japan Submarine Trench. Dispersive nature of the tsunamis seems to make the problem very complicated. However statistical results thus obtained can be accepted for the base of design of structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2932</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2932/2597</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

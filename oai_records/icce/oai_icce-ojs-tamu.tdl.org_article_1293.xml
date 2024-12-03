@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1293</identifier>
+				<datestamp>2023-10-04T03:54:12Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF REFLECTION OF NEW LOW-REFLECTIVITY QUAY WALL CAISSON</dc:title>
+	<dc:creator xml:lang="en">Garrido, Joaquín María</dc:creator>
+	<dc:creator xml:lang="en">Ponce de León, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Berruguete, Antonio</dc:creator>
+	<dc:creator xml:lang="en">Martínez, Silvia</dc:creator>
+	<dc:creator xml:lang="en">Manuel, José</dc:creator>
+	<dc:creator xml:lang="en">Fort, Lisardo</dc:creator>
+	<dc:creator xml:lang="en">Yague, Diego</dc:creator>
+	<dc:creator xml:lang="en">González-Escrivá, Jose Alberto</dc:creator>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:subject xml:lang="en">perforated breakwaters</dc:subject>
+	<dc:subject xml:lang="en">wave reflection</dc:subject>
+	<dc:subject xml:lang="en">neural network</dc:subject>
+	<dc:subject xml:lang="en">caisson</dc:subject>
+	<dc:subject xml:lang="en">low-reflectivity</dc:subject>
+	<dc:subject xml:lang="en">quay wall</dc:subject>
+	<dc:description xml:lang="en">This paper presents a new low-reflectivity quay wall caisson based on the formation of cell circuits. The cell circuit lengths can be adapted to the specific wave climate conditions at the construction site to obtain the best performance. Results from physical model tests of conventional and cell circuit caissons are described, as well as the construction process and steel reinforcement, which turns out to be quite similar to highly reflective conventional caissons. Neural Network (NN) models are used to describe the nonlinear relationship observed between experimental coefficients of reflection (CR) and the structural and wave conditions for the new low reflectivity quay wall caisson.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1293</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1293/pdf_302</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

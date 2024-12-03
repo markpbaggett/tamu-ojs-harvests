@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4320</identifier>
+				<datestamp>2021-01-19T18:40:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHASE-LOCKING OF MODES IN THE NEARSHORE: FIELD EVIDENCE</dc:title>
+	<dc:creator xml:lang="en">Haines, J.W.</dc:creator>
+	<dc:creator xml:lang="en">Bowen, A.J.</dc:creator>
+	<dc:subject xml:lang="en">field evidence</dc:subject>
+	<dc:subject xml:lang="en">phase-locking modes</dc:subject>
+	<dc:description xml:lang="en">Field investigations have shown that infragravity frequencies may dominate nearshore fluid motions (Bowen and Huntley, 1984). Theoretical studies have suggested that the modal structure of the infragravity field, including the degree of modal coupling, is important in generating complicated beach morphologies (Holman and Bowen, 1982) but previous analyses of field data have not provided a description of the infragravity field which is sufficiently detailed to assess the importance of these ideas. In this paper we present a statistical method which, when applied to data from any large sensor array, provides the desired description of the infragravity field. The method is applied to data from the NSTS (Nearshore Sediment Transport Study) experiment. The variance of the observed velocity field is described by a set of free wave modes. The results indicate that a complicated infragravity field composed of both edge waves and leaky modes is present. The modes modelled are also found to be significantly coupled over a range of modal pairs and frequencies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4320</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.113</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 113</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4320/4001</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

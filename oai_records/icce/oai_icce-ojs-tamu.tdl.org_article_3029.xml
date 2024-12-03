@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3029</identifier>
+				<datestamp>2021-01-20T02:06:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MATHEMATICAL MODEL OF SALINITY INTRUSION IN THE DELTA OF THE PO RIVER</dc:title>
+	<dc:creator xml:lang="en">Dazzi, Renzo</dc:creator>
+	<dc:creator xml:lang="en">Tomasino, Mario</dc:creator>
+	<dc:subject xml:lang="en">mathematical model</dc:subject>
+	<dc:subject xml:lang="en">salinity intrusion</dc:subject>
+	<dc:subject xml:lang="en">Po River</dc:subject>
+	<dc:description xml:lang="en">A general numerical model capable of reproducing long inter_ nal waves in stratified fluids has been constructed with the aim of investigating the salt wedge penetration in the Delta of the Po river, where the installation of a 2640 MW thermo-electric plant is foreseen. The working hypothesis of the model, in accordance with the actual phenomenology of the river, is the one-dimensional homogeneous motion of two fluid layers of different density. The main original aspects of the numerical computation are: 1) - The use of two different space steps (1 km for the fresh water layer; 200 m for salt water) simultaneously allowing a good description of internal waves (the velocity of which is much smaller than that of the external ones) and making it possible to work with economic (100 sec) time steps. 2) - The straightforward description of the wedge head, obtained by making it always freely correspond to one of the grid points. The model, which has been tested on actual events, reproduces reality with a very good approximation; it also gives evidence of the small relevance of the interfacial stress coefficient in unstea dy tidal generated motion of the salt wedge.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3029</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.134</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 134</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3029/2694</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

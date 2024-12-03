@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5668</identifier>
+				<datestamp>2021-01-19T11:04:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RUNUP AND REFLECTION ON COASTAL STRUCTURES IN DEPTH-LIMITED CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Rathbun, Joel R.</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Edge, Billy L.</dc:creator>
+	<dc:subject xml:lang="en">runup</dc:subject>
+	<dc:subject xml:lang="en">reflection</dc:subject>
+	<dc:subject xml:lang="en">coastal structure</dc:subject>
+	<dc:subject xml:lang="en">depth limited</dc:subject>
+	<dc:description xml:lang="en">An experimental study was performed to measure the effects of depthlimited conditions on wave runup and reflection from coastal structures. The measurements are compared with existing empirical formulas. An existing model to predict wave runup is shown to overpredict the runup and a clear trend of increased wave runup in depth-limited conditions is shown. A new empirical model is presented that includes the effects of depth-limited conditions on wave runup. Existing models to predict wave reflection based on the surf similarity parameter are shown to fail to collapse the measured data onto a single line. A recently developed model based on a number of parameters is shown to accurately predict wave runup in cases where no wave breaking occurred before the structure. However, at the shallower water depths where wave breaking occurred seaward of the structure, the model underpredicted the reflection coefficient. This model was modified to increase its accuracy in depth-limited conditions based upon the laboratory results presented in this study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5668</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5668/5338</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

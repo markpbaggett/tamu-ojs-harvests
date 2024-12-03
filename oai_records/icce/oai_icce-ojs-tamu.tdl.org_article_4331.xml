@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4331</identifier>
+				<datestamp>2021-01-19T18:36:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VALIDATION OF CROSS-SHORE TRANSPORT FORMULATIONS</dc:title>
+	<dc:creator xml:lang="en">Seymour, Richard J.</dc:creator>
+	<dc:creator xml:lang="en">Castel, David</dc:creator>
+	<dc:subject xml:lang="en">crossshore transport</dc:subject>
+	<dc:subject xml:lang="en">transport formulation</dc:subject>
+	<dc:subject xml:lang="en">formula validation</dc:subject>
+	<dc:description xml:lang="en">Seymour and King (1982) evaluated eight models for predicting cross-shore transport using beach profile data from the Torrey Pines experiment of the Nearshore Sediment Transport Study (NSTS). None of the models showed useful skill in predicting the sense, or direction, of transport. Three more data sets were acquired under NSTS and have been used in the present work to re-evaluate the original four models as well as another six not previously tested. The three new data sets include two nominally plane West Coast beaches and a barred beach on the Atlantic coast, each under a variety of wave conditions. Six of the models evaluated claimed a capability to predict the sense of the cross-shore transport, two predicted the beach slope as a result of cross-shore movement, and two gave detail predictions of changes to the beach profile position and shape. The performance of the six models predicting direction of transport ranged from a skill factor of 0.49 (less than chance) to only 0.68. Five of the models required large changes to their calibration factor (usually based upon laboratory data) in order to have approximately the same skill in predicting erosion or accretion. One of the slope models was validated and the other gave no useful results. One of the two generalized models gave interesting results in predicting the time history of profile changes on the plane beaches for which it was developed. The other general model was not evaluated because it exhibited the lowest skill in predicting direction of transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4331</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.124</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 124</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4331/4012</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6706</identifier>
+				<datestamp>2023-10-04T02:43:20Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">3-D WAVE FIELD AROUND SUBMERGED BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Sharif Ahmadian, Amir</dc:creator>
+	<dc:creator xml:lang="en">Simons, Richard</dc:creator>
+	<dc:subject xml:lang="en">Submerged Breakwaters</dc:subject>
+	<dc:subject xml:lang="en">Wave field</dc:subject>
+	<dc:subject xml:lang="en">3D</dc:subject>
+	<dc:subject xml:lang="en">Wave transmission</dc:subject>
+	<dc:subject xml:lang="en">Artificial Neural Networks</dc:subject>
+	<dc:subject xml:lang="en">Numerical modeling</dc:subject>
+	<dc:description xml:lang="en">Methods for designing submerged breakwaters are still being developed, particularly in respect of the 3D nature of wave-breakwater interaction. Many of the available design tools are inefficient as they are not able to provide any information on the spatial distribution of the wave field around breakwaters, and cannot therefore guarantee reliability and accuracy for the engineer. There is thus a need for an engineering design tool with the ability to model spatial variation of wave height. This paper proposes a method based on machine learning algorithms for predicting the nearshore wave field behind a submerged breakwater that includes both 2D and 3D effects. The proposed numerical model has been validated by various scales of laboratory data. Comparisons reveal the ability of the proposed model to predict the wave field around submerged breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6706</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6706/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

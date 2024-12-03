@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6878</identifier>
+				<datestamp>2023-10-04T02:27:15Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BREAKING WAVE KINEMATICS, LOCAL PRESSURES, AND FORCES ON A TRIPOD STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Hildebrandt, Arndt</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:subject xml:lang="en">slamming coefficient</dc:subject>
+	<dc:subject xml:lang="en">wave impact</dc:subject>
+	<dc:subject xml:lang="en">line force</dc:subject>
+	<dc:subject xml:lang="en">wave kinematic</dc:subject>
+	<dc:subject xml:lang="en">CFD</dc:subject>
+	<dc:subject xml:lang="en">impact simulation</dc:subject>
+	<dc:description xml:lang="en">This paper presents breaking wave loads on a tripod structure from physical model tests and numerical simulations. The large scale model tests (1:12) are described as well as the validation of the three dimensional numerical model by comparison of CFD wave gauge data and pressures with measurements in the large wave flume inside and outside the impact area. Subsequently, the impact areas due to a broken wave, a curled wave front as well as for wave breaking directly at the structure with a partly vertical wave front are compared to each other. Line forces in terms of slamming coefficients with variation in time and space are derived from CFD results and the velocity distribution is presented at the onset of wave breaking. Finally, the results are briefly discussed in comparison to other slamming studies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6878</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.71</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.71</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6878/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

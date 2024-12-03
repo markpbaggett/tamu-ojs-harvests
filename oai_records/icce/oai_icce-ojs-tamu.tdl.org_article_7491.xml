@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7491</identifier>
+				<datestamp>2021-01-20T04:28:45Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT AND DISPERSAL IN THE NEARSHORE OF "FLASH-FLOOD† RIVERS.</dc:title>
+	<dc:creator xml:lang="en">Grifoll, Manel</dc:creator>
+	<dc:creator xml:lang="en">Gracia, Vicenç</dc:creator>
+	<dc:creator xml:lang="en">Guillén, Jorge</dc:creator>
+	<dc:creator xml:lang="en">Espino, Manuel</dc:creator>
+	<dc:creator xml:lang="en">Sanchez-Arcilla, Agustín</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">river dispersal</dc:subject>
+	<dc:subject xml:lang="en">mud-belt</dc:subject>
+	<dc:subject xml:lang="en">coupling</dc:subject>
+	<dc:description xml:lang="en">River sediment dispersal on the near-shore of "flash-flood† rivers is investigated using a coupled wave-current-sediment transport model. Besòs and Llobregat rivers (short and mountainous rivers in NW Mediterranean Sea, near to Barcelona City) are used as examples to study the sediment transport under "flash-flood† regime. The modeling system COWAST which includes the coupling between the water circulation model ROMS and the wave model SWAN, is applied to assess the sediment dispersal mechanisms and deposition in the coastal area off the two river mouths. Preferential depositional areas such as mud-belts were identified from the simulations. The sediment dispersal pattern obtained by the model agrees with observational measurments. Complementary numerical simulations revealed sorting of sediment grain size in the cross-shelf direction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7491</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7491/pdf_812</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

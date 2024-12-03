@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6994</identifier>
+				<datestamp>2023-10-04T02:46:55Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FULLY NONLINEAR BOUSSINESQ-TYPE MODELLING OF INFRAGRAVITY WAVE TRANSFORMATION OVER A LOW-SLOPING BEACH</dc:title>
+	<dc:creator xml:lang="en">Tissier, Marion</dc:creator>
+	<dc:creator xml:lang="en">Bonneton, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Ruessink, Gerben</dc:creator>
+	<dc:creator xml:lang="en">Marche, Fabien</dc:creator>
+	<dc:creator xml:lang="en">Chazel, Florent</dc:creator>
+	<dc:creator xml:lang="en">Lannes, David</dc:creator>
+	<dc:subject xml:lang="en">infragravity wave dissipation</dc:subject>
+	<dc:subject xml:lang="en">fully nonlinear Bouiinesq-type model</dc:subject>
+	<dc:subject xml:lang="en">long-wave breaking</dc:subject>
+	<dc:subject xml:lang="en">bore merging</dc:subject>
+	<dc:description xml:lang="en">Recent field studies over low sloping beaches have shown that infragravity waves could dissipate a significant part of their energy in the inner surf zone. This phenomenon and the associated short- and long-wave transformations are not well-understood. In this paper, we assess the ability of the fully nonlinear Boussinesq-type model introduced in Bonneton et al. (2011) to reproduce short and long wave transformation in a case involving a strong infragravity wave dissipation close to the shoreline. This validation study, based on van Dongeren et al. (2008)'s laboratory experiments, suggests that the model is able to predict infragravity wave breaking as well as the complex interactions between short and long waves in the surf zone.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6994</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6994/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

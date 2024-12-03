@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3444</identifier>
+				<datestamp>2021-01-19T23:44:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HF RADAR MAPPING OF EXTENSIVE OCEAN WINDFIELDS</dc:title>
+	<dc:creator xml:lang="en">Dexter, P.E.</dc:creator>
+	<dc:creator xml:lang="en">Casey, R.C.</dc:creator>
+	<dc:subject xml:lang="en">HF radar</dc:subject>
+	<dc:subject xml:lang="en">radar mapping</dc:subject>
+	<dc:subject xml:lang="en">wind fields</dc:subject>
+	<dc:description xml:lang="en">The possibility of deriving parameters of sea wave spectra remotely from characteristics of radio waves at high frequency (HF) scattered from the sea surface was first raised when Crombie (1955) correctly deduced that Doppler frequency shifts in the signal returned from short range in his HF radar resulted uniquely from components of the sea wave spectrum having wavelengths exactly one-half the radio wavelength, and travelling radially with respect to the radar. Since then the technique has been expanded in two directions: (a) The use of ionospherically propagated-JiF radio waves ('Skywave' HF radar) to^ examine extensive ocean areas out to some 4000 km from the observing site, to obtain oceanographic and meteorological data suitable for input to synoptic observation systems. This approach has been developed through the experimental work of Tveten (1967) and Ward (1969), and the empirical technique proposed by Long and Trizna (1973) to allow the simple extraction of sea surface wind vectors from Doppler spectra of the backscattered radio signals. (b) The determination of directional sea wave spectra and sea surface currents at short ranges with HF radars operating in the groundwave propagation mode, based on theoretical analyses of the scattering process such as those of Barrick (1972). The HF Skywave radar constructed and operated at Townsville by the Physics Department of James Cook University has been employed for some years now on research into the possibilities for mapping sea states and sea surface winds over ocean areas surrounding Australia (Ward, 1969; Ward and Dexter, 1976; Dexter and Casey, 1978).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3444</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3444/3124</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6856</identifier>
+				<datestamp>2023-10-04T02:29:48Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEACH MEMORY</dc:title>
+	<dc:creator xml:lang="en">Turki, Imen</dc:creator>
+	<dc:creator xml:lang="en">Medina, Raul</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Mauricio</dc:creator>
+	<dc:subject xml:lang="en">beach rotation</dc:subject>
+	<dc:subject xml:lang="en">beach evolution model</dc:subject>
+	<dc:subject xml:lang="en">Beach Memory Function</dc:subject>
+	<dc:subject xml:lang="en">Beach Memory Time</dc:subject>
+	<dc:subject xml:lang="en">weighted energy flux direction</dc:subject>
+	<dc:description xml:lang="en">A new concept of beach memory is investigated in this research. Using a Beach Evolution Model developed for beach rotation, we define a function of beach memory able to describe the weight of the preceding wave conditions and their contribution in the current beach response. The time beach memory time is also defined as the period of time required for the beach memory function to be dissipated in the previous time to negligible values. The Beach Memory Function and the Beach Memory Time can be used to determine the influence of the preceding energy in the current coastal changes. Both new concepts were applied to quantify the Weighted Energy Flux Direction required for the beach planform to be estimated based on the parabolic approximations. Modeled results reproduce successfully observed planform positions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6856</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6856/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6856/7760</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

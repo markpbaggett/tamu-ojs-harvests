@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1428</identifier>
+				<datestamp>2023-10-04T03:42:40Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME SCENARIOS AT THE GERMAN NORTH SEA COAST A NUMERICAL MODEL STUDY</dc:title>
+	<dc:creator xml:lang="en">Bruss, Gerd</dc:creator>
+	<dc:creator xml:lang="en">Gönnert, Babriele</dc:creator>
+	<dc:creator xml:lang="en">Mayerle, Roberto</dc:creator>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:subject xml:lang="en">Hamburg</dc:subject>
+	<dc:subject xml:lang="en">water level</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">external surge</dc:subject>
+	<dc:subject xml:lang="en">tide</dc:subject>
+	<dc:subject xml:lang="en">mean sea level</dc:subject>
+	<dc:subject xml:lang="en">nonlinear interactions</dc:subject>
+	<dc:subject xml:lang="en">adverse superposition</dc:subject>
+	<dc:subject xml:lang="en">extreme scenarios</dc:subject>
+	<dc:description xml:lang="en">A procedure, based on numerical models is proposed to investigate the processes involved during conditions of extreme water levels within the outer Elbe estuary at the German North Sea coast. Nonlinear interactions between the different processes are analyzed and adverse combinations are simulated yielding new scenarios. Various conditions in the astronomical tide, three major storm events over the North Sea, several external surges and an increase in the mean sea level are analyzed. Techniques for the modeling of each of the isolated processes are developed and individually verified. The isolated processes are temporally shifted relative to each other and superimposed in various combinations. The results obtained from the present method, provide new insights into the nonlinear interactions between the involved processes. Generally, the effects of the processes seem to be reduced in superpositions with high absolute water levels. However, due to the large scatter of the results no general relations are found. New extreme scenarios are determined by iterative maximizations of the peak water level of different superpositions around spring high tide.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1428</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1428/pdf_379</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

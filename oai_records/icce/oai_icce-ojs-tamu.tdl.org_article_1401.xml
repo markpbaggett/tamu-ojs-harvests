@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1401</identifier>
+				<datestamp>2023-10-04T03:44:24Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF SOLITON FISSION OVER A SUBMERGED STRUCTURE USING "NONLINEAR FOURIER TRANSFORM (NLFT)†</dc:title>
+	<dc:creator xml:lang="en">Bruhl, Markus</dc:creator>
+	<dc:creator xml:lang="en">Oumeraci, Hocine</dc:creator>
+	<dc:subject xml:lang="en">solitary wave</dc:subject>
+	<dc:subject xml:lang="en">soliton fission</dc:subject>
+	<dc:subject xml:lang="en">submerged reef</dc:subject>
+	<dc:subject xml:lang="en">nonlinear Fourier transform</dc:subject>
+	<dc:subject xml:lang="en">inverse scattering transform</dc:subject>
+	<dc:description xml:lang="en">When a single incident solitary wave passes over a submerged reef, it disintegrates into a train of solitons (soliton fission), followed by a train of oscillatory waves. One of the major problems in the analysis of the recorded time series is the uncertain identification of the number of solitons N in the transmitted wave train behind the reef due to the difficulties to distinguish between solitons and oscillatory waves, especially in the case of breaking waves. With the "nonlinear Fourier transform (NLFT)†, an application of the inverse scattering transform (IST) of the Korteweg-de Vries equation, a powerful analysis method is proposed to analyse nonlinear wave processes. Application of the NLFT to the transmitted waves of systematic numerical tests with breaking and non-breaking solitary waves behind a submerged structure (reef) with finite width br allows to separate distinctly solitons and oscillatory waves. The paper gives an overview over the first NLFT analysis results for the determination of the number of solitons N behind the reef. The influence of relative submergence depth dr/h, relative reef width br/Li and relative incident wave height Hi/dr is examined. First recommendations for the distinct identification of the number of solitons arising from the fission using NLFT will also be provided, including the limitations of the method.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1401</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1401/pdf_362</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10369</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATIVE ANALYSIS OF THE PROPAGATION OF A FAR-SOURCE HISTORICAL TSUNAMI ONTO PHILIPPINE COASTS</dc:title>
+	<dc:creator xml:lang="en">Reyes, Clint Chester</dc:creator>
+	<dc:creator xml:lang="en">Cruz, Eric</dc:creator>
+	<dc:creator xml:lang="en">Kasilag, Edgardo</dc:creator>
+	<dc:creator xml:lang="en">Cruz, Laurenz Luigi</dc:creator>
+	<dc:description xml:lang="en">A simulative analysis methodology is presented and discussed to hindcast the propagation and shallow water transformation of a historical tsunami wave. The initial pulse of water surface induced is numerically modelled based on known geophysical data of earthquake magnitude and seismically induced seabed displacements. The propagation model accounts for the trans-sea movement, long wave propagation and damping, and shallow water transformations but excluding wave runup on the foreshore. The methodology is applied to the Philippine Trench 2012 tsunamigenic event using secondary data from regional geophysical databases and yielded good agreement with observed tsunami heights and arrival times recorded for local and regional locations, particularly at deeper and farther locations from the source.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/SU7IKLh2NDM</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10369</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10369/9655</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Clint Chester Reyes, Eric Cruz, Edgardo Kasilag, Laurenz Luigi Cruz</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

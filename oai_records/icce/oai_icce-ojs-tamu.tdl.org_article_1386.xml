@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1386</identifier>
+				<datestamp>2023-10-04T03:45:42Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEAR-BOTTOM FLOW CHARACTERISTICS OF CURRENTS AT ARBITRARY ANGLE TO 2D RIPPLES</dc:title>
+	<dc:creator xml:lang="en">Madsen, Ole Secher</dc:creator>
+	<dc:creator xml:lang="en">Negara, Arlendenovega Satria</dc:creator>
+	<dc:creator xml:lang="en">Lim, Kian Yew</dc:creator>
+	<dc:creator xml:lang="en">Cheong, Hin Fatt</dc:creator>
+	<dc:subject xml:lang="en">flow over ripples</dc:subject>
+	<dc:subject xml:lang="en">bottom roughness</dc:subject>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">boundary layer flows over 2D roughness elements</dc:subject>
+	<dc:description xml:lang="en">Experimental results for near-bottom current velocity profiles for flows over artificial, definitely 2D ripples made of 1.5 cm high aluminum angle-profile spaced at 10 cm intervals are obtained for the following cases: (i) current alone perpendicular to ripples; (ii) current alone parallel to ripples; (iii) combined orthogonal wave-current flows for current parallel to ripples; and (iv) current alone at an angle of 30° to the ripple axis.  The velocity profiles are analyzed by the log-profile method, and show the roughness experienced by the current to increase as the angle between ripple and current direction increases, i.e. demonstrating convincingly the reality of the concept of a direction-dependent roughness for flows over a 2D rippled bottom.  Roughness experienced by the velocity component perpendicular to the ripples is, however, found to be independent of the direction of the mainstream flow relative to that of the ripples, and the different roughness experienced by the perpendicular and parallel velocity components gives rise to a turning of the current velocity vector to become increasingly aligned with the ripple crests as the bottom is approached from above.  Implications of this feature, in terms of net sediment transport direction in combined wave-current flows in inner-shelf coastal waters, is discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1386</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1386/pdf_365</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

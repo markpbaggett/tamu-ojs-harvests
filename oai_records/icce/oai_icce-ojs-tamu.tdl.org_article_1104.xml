@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1104</identifier>
+				<datestamp>2023-10-04T04:13:44Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MORPHOLOGICAL EVOLUTION OF THE GREAT YARMOUTH SANDBANK &amp; CHANNEL SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Bakare, Anna-Marie</dc:creator>
+	<dc:creator xml:lang="en">Simons, Richard</dc:creator>
+	<dc:creator xml:lang="en">Morley, Jeremy</dc:creator>
+	<dc:creator xml:lang="en">Guillas, Serge</dc:creator>
+	<dc:subject xml:lang="en">sandbanks</dc:subject>
+	<dc:subject xml:lang="en">Great Yarmouth</dc:subject>
+	<dc:subject xml:lang="en">data-driven statistical morphological modelling</dc:subject>
+	<dc:description xml:lang="en">This paper investigates the morphological history of a sandbank system from the 19th century to the present and evaluates the applicability of a new data-driven method for morphological modelling that accounts for multi-dimensional spatial relationships. Trend analyses of point locations, profile transects and contours were carried out to investigate the morphological evolution of the domain, while the spatial regression model is used for modelling. Results from the trend analysis indicate there is a constant northern migration of the sandbank features. Furthermore the physical extents of the banks are increasing in the alongshore direction. There is also a lateral shift in the bank positions, which occurs on a multi-decadal periodicity, and where changing bank configurations coincide with channel formation and disappearance at the 10m contour. Predictions with the spatial regression model show it represents the behaviour inherent in the data and system, demonstrated by the prediction RMSE being less than the mean seabed variability. In addition, the model predicts bed depth to an accuracy of ±0.25m on the top of the banks or where the gradient of the seabed is shallow. However, where there is a large change in depth over a short distance the prediction error is increased.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1104</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.72</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.72</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1104/pdf_194</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

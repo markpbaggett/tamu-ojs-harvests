@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1985</identifier>
+				<datestamp>2021-01-17T07:40:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI MODELLING AND RISK MAPPING FOR EAST COAST OF SABAH, MALAYSIA</dc:title>
+	<dc:creator xml:lang="en">Pedersen, Claus</dc:creator>
+	<dc:creator xml:lang="en">Latif, Ziauddin Abdul</dc:creator>
+	<dc:creator xml:lang="en">Lai, Caroline</dc:creator>
+	<dc:subject xml:lang="en">tsunami modelling</dc:subject>
+	<dc:subject xml:lang="en">tsunami hazard assessment</dc:subject>
+	<dc:subject xml:lang="en">risk mapping</dc:subject>
+	<dc:description xml:lang="en">A tsunami risk mapping study for the east coast of the state of Sabah, Malaysia, has been initiated by the Government of Malaysia. The main objective is to produce tsunami risk maps that can be taken into account in local planning for the coastal zone. The study covers a coastline of more than a thousand kilometers which generally is sparsely populated outside the main population centers. The study is regional in character, but with additional focus on the main population centers. The paper outlines the overall steps of hazard mapping through source identification and modelling followed by tsunami wave propagation and potential modelling of overland flow. Modelling challenges related to sparse bathymetry data, limitations to resolution due to the large coverage required combined with a complex bathymetry with coral reefs, islands and outcrops is discussed. Data and model resolution for overland flow modelling is discussed. For the present study, it was found that the inaccuracies in the topographic data is of similar magnitude to the expected inundation levels, and caution has to be exercised in deriving hazard levels from the overland flow modelling. For a regional scale risk mapping exercise, and in the absence of very detailed topographic data, it may be preferable to use the wave height along the coastline as a hazard indicator rather than potentially inaccurate inundation levels and overland flow velocities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1985</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1985/1637</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

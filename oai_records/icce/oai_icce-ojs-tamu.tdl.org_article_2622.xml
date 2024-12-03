@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2622</identifier>
+				<datestamp>2021-01-17T04:02:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VARIATION OP LONGSHORE CURRENT ACROSS THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Thornton, Edward B.</dc:creator>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">surf zone currents</dc:subject>
+	<dc:description xml:lang="en">The wave-induced longshore current variation across the surf zone is described for a simplified model The basic assumptions are that the conditions are steady, the bottom contours are straight and parallel but allow for an arbitrary bottom profile, the waves are adequately described by linear theory, and that spilling breakers exist across the surf zone Conservation equations of mass, momentum, and energy, separated into the steady and unsteady components, are used to describe second order-wave-induced phenomena of shoaling waves approaching at an angle to the beach An expression for the longshore current is developed, based on the alongshore component of excess momentum flux due to the presence of unsteady wave motion Wave set-down and set-up have been included in the formulation Emphasis in the analysis is placed on formulating usable predictive equations for engineering practice Comparison with experimental results from the laboratory and field show that if the assumed conditions are approximately fulfilled, the predicted results compare quite favorably.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2622</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2622/2287</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

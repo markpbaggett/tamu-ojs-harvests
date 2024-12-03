@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4894</identifier>
+				<datestamp>2021-01-19T15:24:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERTICAL STRUCTURE OF THE NEARSHORE CURRENT AT DELILAH: MEASURED AND MODELED</dc:title>
+	<dc:creator xml:lang="en">Smith, Jane McKee</dc:creator>
+	<dc:creator xml:lang="en">Svendsen, Ib A.</dc:creator>
+	<dc:creator xml:lang="en">Putrevu, Uday</dc:creator>
+	<dc:subject xml:lang="en">vertical structure</dc:subject>
+	<dc:subject xml:lang="en">Delilah</dc:subject>
+	<dc:subject xml:lang="en">current model</dc:subject>
+	<dc:subject xml:lang="en">current measurement</dc:subject>
+	<dc:description xml:lang="en">Comprehensive field measurements were made of the vertical current structure on a barred beach profile at the DELILAH project duriiig October of 1990. The current was measured with five electromagnetic current meters mounted on a mobile sled which was stationed at three to eight cross-shore positions. The incident directional wave spectra, bathymetry, tide, wind, and cross-shore wave transformation were also measured. A numerical model was developed to calculate the random wave transformation based on the model of Dally, Dean, and Dalrymple (1985) (Larson and Kraus 1991) and the local vertical current structure (Putrevu and Svendsen 1991). The model predicted the shape of the current profiles well with a root-mean-square error in velocity of 5.9 cm/sec. The model tended to underpredict the velocity over the bar crest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4894</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4894/4575</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

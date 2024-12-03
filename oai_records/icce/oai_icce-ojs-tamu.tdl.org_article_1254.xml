@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1254</identifier>
+				<datestamp>2023-10-04T04:32:17Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING LONG-TERM BEACH CHANGE UNDER INTERACTING LONGSHORE AND CROSS-SHORE PROCESSES</dc:title>
+	<dc:creator xml:lang="en">Hanson, Hans</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Kraus, Nicholas C</dc:creator>
+	<dc:subject xml:lang="en">dune erosion</dc:subject>
+	<dc:subject xml:lang="en">shoreline change</dc:subject>
+	<dc:subject xml:lang="en">coastal evolution</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">GenCade</dc:subject>
+	<dc:subject xml:lang="en">Westhampton Beach</dc:subject>
+	<dc:description xml:lang="en">This paper presents mathematical formulations and a new numerical model GenCade that simulates beach and dune change in response to cross-shore processes of dune growth by wind and dune erosion by storms, and by gradients in longshore sand transport that will also alter shoreline position. The berm plays a central role since the potential for sand to be transported to the dune by wind depends on berm width, and sand lost in erosion of the dune during storms will widen the berm. Morphologic equilibrium considerations are introduced to improve reliability of predictions and stability of the non-linear model. An analytical solution is given to illustrate properties of the model under simplified conditions. Sensitivity tests with the numerical solution of the coupled equations demonstrate model performance. Finally, the numerical model is applied to examine the consequences of groin shortening at Westhampton Beach, Long Island, New York, as an alternative for providing a sand supply to the down-drift beach. Results indicate that the sand will be released over several decades as the shoreline and dune move landward in adjustment to the new equilibrium condition with the shortened groins.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1254</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1254/pdf_73</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

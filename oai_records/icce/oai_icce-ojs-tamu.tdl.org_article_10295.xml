@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10295</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REPRODUCTION ANALYSIS OF HUMAN DRIFTING BEHAVIOR DURING TSUNAMI USING NUMERICAL CALCULATION</dc:title>
+	<dc:creator xml:lang="en">Morita, Riko</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">Along with the 2011 Great East Japan Earthquake (Mw 9.0), a huge tsunami exceeding a maximum wave height of 15 m occurred. Many people and objects were destroyed and drifted by the tsunami. In addition, these debris were transported to various places that could not be predicted, resulting in significant secondary damage and increase in the number of missing. Therefore, in order to reduce the amount of damage, it is important to predict the behavior and landing points of person after set adrift in a tsunami. The best way to increase the rescue rate is to predict in advance the area that people will be drifted, and prioritize searching operations at that area. Although there has been considerable number of studies which handle the drifting behavior of containers and ships (e.g., Kaida et al., 2016), the prediction of drifting areas focusing on people has not been conducted. Moreover, a drifting area prediction method has not yet been established. The purpose of this study is to conduct a hydraulic experiment using a flat water tank, and observe the drifting area of the drifting object. Then, we conducted numerical calculations and compared simulation results with the experimental ones.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/1yhKuodhCbg</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10295</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10295/9581</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Riko Morita,Taro Arikawa</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

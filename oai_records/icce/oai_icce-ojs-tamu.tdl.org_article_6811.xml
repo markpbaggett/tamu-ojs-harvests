@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6811</identifier>
+				<datestamp>2023-10-04T02:35:31Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT AT THE BOTTOM OF SEA WAVES</dc:title>
+	<dc:creator xml:lang="en">Vittori, Giovanna</dc:creator>
+	<dc:creator xml:lang="en">Blondeaux, Paolo</dc:creator>
+	<dc:subject xml:lang="en">sea waves</dc:subject>
+	<dc:subject xml:lang="en">steady streaming</dc:subject>
+	<dc:subject xml:lang="en">turbulence modeling</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">The flow in the wall boundary layer generated close to the sea bottom by the propagation of a monochromatic surface wave is determined by considering small values of both the wave steepness and the ratio between the thickness of the boundary layer and the local water depth. Depending on the hydrodynamic conditions, the sea bottom can be plane or rippled. The geometrical characteristics of the bottom forms are predicted using empirical formulae and, then, the bedforms are assumed to behave as a bottom roughness, the size of which is related to the size of the ripples.   The bottom boundary layer is assumed to be turbulent and the flow field is computed by means of a two-equation turbulence model. Then the sediment transport is evaluated. The bed load is obtained using an empirical relationship. The suspended load is determined by computing the sediment flux, once the spatial and temporal distribution of sediment concentration is determined. A comparison of the model findings with the experimental results supports the approach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6811</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6811/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

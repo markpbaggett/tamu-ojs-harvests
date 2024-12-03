@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5645</identifier>
+				<datestamp>2021-01-19T11:12:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VORTICITY AND SURF ZONE CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Peregrine, D.H.</dc:creator>
+	<dc:creator xml:lang="en">Bokhove, O.</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">vorticity</dc:subject>
+	<dc:description xml:lang="en">Water wave breaking is of considerable importance in the transfer of momentum from the waves to currents. Near shore lines most of the water motions are dominated by breaking waves. Recent work on the generation of vorticity by breaking waves and bores in the surf zone on beaches within the shallow water approximation has shown that non-uniformity in the strength of bores is an important source of potential vorticity. This is illustrated by discussing the generation of longshore currents and illustrated with a numerical example of vorticity generation due to a non-uniform bed. These demonstrate that the horizontal excursion of vorticity transported by the incident waves may be a significant factor in interpreting velocity measurements at a fixed site.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5645</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5645/5315</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5678</identifier>
+				<datestamp>2021-01-19T11:01:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF COMPUTER MODELING FOR HARBOR RESONANCE STUDIES OF LONG BEACH &amp; LOS ANGELES HARBOR BASINS</dc:title>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:creator xml:lang="en">Lai, Ching-Piau</dc:creator>
+	<dc:creator xml:lang="en">Li, Yigong</dc:creator>
+	<dc:subject xml:lang="en">computer modeling</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:subject xml:lang="en">Long Beach</dc:subject>
+	<dc:subject xml:lang="en">Los Angeles</dc:subject>
+	<dc:subject xml:lang="en">harbor basin</dc:subject>
+	<dc:description xml:lang="en">One of the major engineering problems for large harbors with container ship operation is the motion of moored ships due to long wave activity. In order that the wave-induced ship-motions may be effectively controlled, the response characteristics of the harbor basin due to incident waves must be accurately determined. This study focuses on the application of a computer model in the harbor resonance study in connection with modification of harbor basins. The computer model used is a finite element model with the mild-slope equations as the governing equations. Various boundary conditions are incorporated in the model: fully and partially reflecting boundaries, permeable boundary. Energy losses across the harbor entrance due to flow separation and frictional loss at the bottom are also incorporated in the model. Good comparison between the computer model results and the physical model data of the Los Angeles-Long Beach harbor basin has been obtained. The computer model has been applied to the large scale harbor basin of Los Angeles &amp; Long Beach Harbors. Effects on response characteristics due to incident wave system with and without breakwater at Pier J in Long Beach Harbor have been determined. The construction of the proposed breakwater outside Pier J in Long Beach Harbor appears to be effective in reducing the wave amplification for wave period less than 140 sec. The wave period associated with resonant peak has been shifted to 170 sec. or higher. With the advancement of computing power, it is found that computer model offers a very powerful alternative to physical model in the study of wave response characteristics. All the computation reported herein are done by Pentium 2-300 MHz personal computer.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5678</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5678/5348</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

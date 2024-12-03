@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6550</identifier>
+				<datestamp>2023-10-04T03:21:09Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE TWO STEP THRESHOLD SELECTION FOR OVER-THRESHOLD MODELLING</dc:title>
+	<dc:creator xml:lang="en">Bernardara, Pietro</dc:creator>
+	<dc:creator xml:lang="en">Mazas, Franck</dc:creator>
+	<dc:creator xml:lang="en">Weiss, Jérôme</dc:creator>
+	<dc:creator xml:lang="en">Andreewsky, Marc</dc:creator>
+	<dc:creator xml:lang="en">Kergadallan, Xavier</dc:creator>
+	<dc:creator xml:lang="en">Benoît, Michel</dc:creator>
+	<dc:creator xml:lang="en">Hamm, Luc</dc:creator>
+	<dc:subject xml:lang="en">POT</dc:subject>
+	<dc:subject xml:lang="en">threshold</dc:subject>
+	<dc:subject xml:lang="en">extremes</dc:subject>
+	<dc:subject xml:lang="en">physical declustering</dc:subject>
+	<dc:subject xml:lang="en">statistical optimization</dc:subject>
+	<dc:description xml:lang="en">In the general framework of over-threshold modelling (OTM) for estimating extreme values of met-ocean variables, such as waves, surges or water levels, the threshold selection logically requires two steps: the physical declustering of time series of the variable in order to obtain samples of independent and identically distributed data then the application of the extreme value theory, which predicts the convergence of the upper part of the sample toward the Generalized Pareto Distribution. These two steps were often merged and confused in the past. A clear framework for distinguishing them is presented here. A review of the methods available in literature to carry out these two steps is given here together with the illustration of two simple and practical examples.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6550</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6550/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

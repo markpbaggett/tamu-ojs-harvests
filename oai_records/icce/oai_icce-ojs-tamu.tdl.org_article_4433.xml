@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4433</identifier>
+				<datestamp>2021-01-19T18:01:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL PREDICTIONS OF NONBREAKING SHOALING WAVES</dc:title>
+	<dc:creator xml:lang="en">Elgar, Steve</dc:creator>
+	<dc:creator xml:lang="en">Freilich, M.H.</dc:creator>
+	<dc:creator xml:lang="en">Guza, R.T.</dc:creator>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:subject xml:lang="en">nonbreaking waves</dc:subject>
+	<dc:subject xml:lang="en">model prediction</dc:subject>
+	<dc:subject xml:lang="en">wave prediction</dc:subject>
+	<dc:description xml:lang="en">The predictions of linear and nonlinear (Boussinesq) shoaling wave models for nonbreaking unidirectional surface gravity waves are compared to field observations, with particular emphasis on quantities that may be important for cross-shore sediment transport. The extensive data sets were obtained on two natural beaches, span water depths between 1-10 m, and include incident wave power spectra with narrow, broad, and bimodal shapes. Significant wave heights varied between approximately 30 and 100 cm and peak periods between approximately 8 and 18 seconds. Only the nonlinear theory predicts the increasingly asymmetric sea-surface elevations and horizontal velocities (pitched-forward wave shape) and the weaker variation of skewness (difference between crest and trough profiles) which are observed to occur during shoaling. The nonlinear theory also models qualitatively well the large skewed accelerations which occur during the passage of asymmetric waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4433</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4433/4114</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

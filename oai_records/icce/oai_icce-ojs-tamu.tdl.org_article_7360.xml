@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7360</identifier>
+				<datestamp>2021-01-19T04:50:00Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG WAVES AND ARTIFICIAL NEURAL NETWORKS</dc:title>
+	<dc:creator xml:lang="en">Lopez, Mario</dc:creator>
+	<dc:creator xml:lang="en">Veigas, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Astariz, Sharay</dc:creator>
+	<dc:creator xml:lang="en">Castro, Alberte</dc:creator>
+	<dc:creator xml:lang="en">Iglesias, Gregorio</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">infragravity waves</dc:subject>
+	<dc:subject xml:lang="en">artificial neural networks</dc:subject>
+	<dc:subject xml:lang="en">artificial intelligence</dc:subject>
+	<dc:description xml:lang="en">Disturbances to load and unload operations caused by excessive vessel movements are a recurrent problem at the Exterior Port of Ferrol (NW Spain), where a new container terminal will be inaugurated soon. This work not only sheds light on the nature and behaviour of long waves at this port, but also investigates their influence on the vessel movements and proposes a method based on Artificial Neural Networks (ANNs) to determinate their energy levels. For this purpose, the sea level oscillations in the port area and the movements of a bulk carrier at berth were measured during winter-spring 2011. The results reveal the occurrence of resonant episodes in the basin and a varying behaviour of the long wave energy across the spectrum. The long waves inside the port basin can be classified into three frequency bands: LF (Low Frequency), VLF (Very Low Frequency) and ULF (Ultra Low Frequency). The LF band exhibits a high correlation with the offshore swell energy and is associated with the socalled infragravity waves. In addition, the joint analysis of long waves and vessel movements reveals a strong
+correlation between the movements in the horizontal plane (sway, surge and yaw) with the wave energy and, more importantly, with the LF band energy. Proved the relevance of the long waves-and, particularly, LF oscillations-to cargo handling operations, a ANN-based method to estimate the infragravity energy levels in the basin was successfully trained, validated and tested.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7360</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7360/pdf_730</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3501</identifier>
+				<datestamp>2021-01-19T23:24:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CRITERION FOR STABILITY OF SHORELINE PLANFORM</dc:title>
+	<dc:creator xml:lang="en">Wang, John D.</dc:creator>
+	<dc:creator xml:lang="en">Le Mehaute, Bernard</dc:creator>
+	<dc:subject xml:lang="en">stability criteria</dc:subject>
+	<dc:subject xml:lang="en">shoreline planform</dc:subject>
+	<dc:subject xml:lang="en">planform</dc:subject>
+	<dc:description xml:lang="en">The problem of beach planform stability has been known for a long time: When does a small perturbation on a straight beach tend to grow with time and when does it tend to be flattened out? The interest in this problem arises from evidence of instabilities occurring in nature, but perhaps more importantly it is a problem that must be taken into account when formulating models for beach evolution and erosion. Existing mathematical models describing shoreline changes assume that the beach planform is stable and in equilibrium. It is therefore important to establish the range of wave conditions for which instabilities could occur, thereby invalidating such models. In the present case our interest is specifically directed towards determining conditions for which a model for shoreline evolution is intangible because of development of local instability. Grijm (1960) gave an approximate mathematical analysis indicating that at the point where the longshore sediment transport Q as a function of wave angle is maximum the shoreline must either be straight or form a cusp. Under his assumption that Q is proportional to sin 2a the maximum occurs for a = 45°. Le Mehaute and Soldate (1977) summarizes other studies that essentially arrive at the same results, viz. when the deep water wave angle is greater than 45° the shoreline is unstable. This result did not seem to be substantiated by field or laboratory observations. In this study of shoreline planform we first derive a criterion for instability of straight beaches. Then assuming that longshore sediment transport is proportional to the alongshore wave energy flux component at the point of breaking we determine the range of deep water wave characteristics and beach slopes which would cause unstable situations to occur. We consider only the longshore transport and exclude effects of on-offshore transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3501</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3501/3181</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

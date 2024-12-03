@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3103</identifier>
+				<datestamp>2021-01-20T01:39:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION MODEL FOR STORM SURGE PROBABILITIES</dc:title>
+	<dc:creator xml:lang="en">Fallah, M.H.</dc:creator>
+	<dc:creator xml:lang="en">Sharma, J.N.</dc:creator>
+	<dc:creator xml:lang="en">Yang, C.Y.</dc:creator>
+	<dc:subject xml:lang="en">simulation model</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">surge probability</dc:subject>
+	<dc:description xml:lang="en">Storm surge and its Impact on the coastal regions have been of interest to many researchers and engineers for a long time. Deterministic models based on classical hydrodynamics can be used for reliable predictions only for short terms, e.g. up to 24 hours for which the characteristics of the storm can be projected accurately. Long-term predictions, on the other hand, is a statistical problem due to the random nature of the storms. Such long-term prediction is becoming increasingly important as the coastal regions are rapidly developed into residential, recreational and industrial areas. One of the first statistical studies on coastal storm surge predictions was published in 1961 by Wemelsfelder who used a Poisson probability law to fit the observed high tide data at Hook of Holland. From this fitted law, risk curves for long-term in years can be constructed for design purposes. In 1970 Yang et al applied the extreme value model to fit storm surge data for Atlantic City, New Jersey and Breakwater Harbor, Delaware. This so-called "purely" statistical method is sound in concept and simple to use. It has some serious limitations, however. First, it requires a collection of long term data (say 100 years for reliable design predictions) which is difficult to obtain in general. Secondly, the prediction for one location is not valid in general for other locations even when they are not far apart. To overcome the first limitation on the unavailability of long-term data at least partially, it is recognized that although storm tide data is limited, the general meteorological data is relatively abundant, so that more data on storm tide can be derived from meteorological data (wind field) via a hydrodynamic analysis. The analysis, of course, involves a general coastal area and consequently, the spatial variation of the storm tide can be predicted and the limitation on the location can be removed also. These observations lead to the concept of a combined statistical and hydrodynamic model which takes into account both the randomness of the long-term meteorological data and the physics of the storm surge.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3103</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3103/2768</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6698</identifier>
+				<datestamp>2023-10-04T03:00:49Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A FIELD AND NUMERICAL STUDY INTO RIP CURRENTS IN WIND-SEA DOMINATED ENVIRONMENTS</dc:title>
+	<dc:creator xml:lang="en">Winter, Gundula</dc:creator>
+	<dc:creator xml:lang="en">van Dongeren, Ap</dc:creator>
+	<dc:creator xml:lang="en">de Schipper, Matthieu</dc:creator>
+	<dc:creator xml:lang="en">van Thiel de Vries, Jaap</dc:creator>
+	<dc:subject xml:lang="en">rip currents</dc:subject>
+	<dc:subject xml:lang="en">field observations</dc:subject>
+	<dc:subject xml:lang="en">Lagrangian measurements</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:description xml:lang="en">Rip currents are wave-induced and off-shore directed flows which occur frequently in the surf zone and can pose a serious threat to swimmers. While the behaviour of rip currents has been studied in swell-dominated environments, less is known about their characteristics in wind-sea dominated environments. This study aims to improve the knowledge on rip currents in these environments such as the Dutch coast. In a field campaign at Egmond aan Zee (The Netherlands), Lagrangian velocities in the surf zone were measured with drifter floats. An extensive dataset of rip current measurements was collected from which parameters that initiate rip currents and affect their mean flow properties were identified. Numerical simulations with XBeach aided to understand and confirm the observations made in the field. A reduction of the hydrodynamic parameters along with simplification of the bathymetry in the model allowed for identification of the governing rip current parameters, which can be the basis for a warning system.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6698</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6698/pdf_670</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

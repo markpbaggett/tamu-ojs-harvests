@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2517</identifier>
+				<datestamp>2021-01-17T04:39:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF WAVE DIFFRACTION DATA</dc:title>
+	<dc:creator xml:lang="en">Silvester, Richard</dc:creator>
+	<dc:creator xml:lang="en">Lim, Teck-Kong</dc:creator>
+	<dc:subject xml:lang="en">application of data</dc:subject>
+	<dc:subject xml:lang="en">wave diffraction</dc:subject>
+	<dc:description xml:lang="en">By considering separately the two terms of the Sommerfeld solution of wave diffraction behind a semi-infinite breakwater, the influence of the wave reflection from the structure can be evaluated The diffraction coefficient at any point can be obtained from a graph or table for full, partial or no reflection by the simple addition of two coefficients From the similarity of the energy-spreading process to the dam-burst problem, it was found that wave heights decreased consistently along the near circular crests for all distances from the breakwater tip For a workable range of incident angle and distance from the breakwater, wave heights could be defined by this arc distance from the shadow line expressed in wave lengths These relationships have been verified experimentally for all but the smallest incident angle in proximity to the breakwater This can be likened to the dam model in which the dam is moving too slowly to permit normal spreading. The several theoretical solutions for the breakwater gap, when graphed on the same basis, are shown to be very similar, diverging only for small incident angles New parameters are provided which greatly simplify the presentation of information The scatter of past experimental data precludes the verification of this theory and indicates the need for further tests.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2517</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2517/2183</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

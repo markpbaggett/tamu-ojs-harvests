@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3264</identifier>
+				<datestamp>2021-01-20T00:41:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HF SKYWAVE RADAR MEASUREMENT OF HURRICANE WINDS AND WAVES</dc:title>
+	<dc:creator xml:lang="en">Maresca, Joseph W.</dc:creator>
+	<dc:creator xml:lang="en">Carlson, Christopher T.</dc:creator>
+	<dc:subject xml:lang="en">radar measurement</dc:subject>
+	<dc:subject xml:lang="en">radar</dc:subject>
+	<dc:subject xml:lang="en">hurricane</dc:subject>
+	<dc:subject xml:lang="en">wind wave</dc:subject>
+	<dc:subject xml:lang="en">hurricane waves</dc:subject>
+	<dc:description xml:lang="en">We measured significant wave height, and surface wind speed and direction for the first two Gulf of Mexico hurricanes of the 1977 season using a high frequency (HF) skywave radar. The radar measurements were made from California by using the SRI-operated Wide Aperture Research Facility (WARF). We recorded sea backscatter for hurricanes Anita and Babe, at distances more than 3000 km from the WARF, by means of single F-layer ionospheric reflection. We compiled real-time maps of the surface wind direction field within a radial distance of 200 km of the storm center, then estimated the hurricane position from these radar wind maps, and developed a track for Anita over a 4 day period between 30 August and 2 September 1977 as the storm moved westward across the Gulf of Mexico. The radar track was computed from 17 independent position estimates made before Anita crossed the Mexican coast, and was subsequently compared to the official track produced by National Hurricane Center (NHC). Agreement between the WARF position estimates and coincident temporal positions on the NHC smooth track was ±19 km. At approximately 0000Z on 1 September 1977, Anita passed within 50 km of the National Data Buoy Office (NDBO) open ocean moored buoy EB-71, and provided us with the opportunity to compare WARF estimates of the significant wave height, and surface wind speed and direction in all four quadrants of the storm with those made at the buoy. Agreement between the WARF and EB-71 measurements was within 10%. Two days after Anita crossed land, tropical storm Babe-a weaker, short-lived storm-developed. WARF estimates of the significant wave height, and surface wind speed and direction were made for selected regions of the storm.* No in situ wave measurements were available for comparison to the WARF measurements. WARF estimates of the wind speed were compared to wind speed measurements made at nearby oil platforms, and surface wind speeds computed from flight level winds (305 m) measured by a NOAA reconnaissance aircraft. Agreement was again within 10%. The purpose of this paper is to describe the capability of remotely monitoring hurricanes and other open ocean storms by using an HF skywave radar. We will describe the important aspects of the WARF skywave radar, the sea echo Doppler spectra, the method of analysis used to estimate the wave and wind parameters, and the accuracy of these radar-derived quantities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3264</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3264/2928</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

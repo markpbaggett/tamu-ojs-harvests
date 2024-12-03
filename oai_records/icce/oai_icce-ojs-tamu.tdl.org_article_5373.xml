@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5373</identifier>
+				<datestamp>2021-01-19T12:42:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A VISCOUS ROTATIONAL MODEL FOR WAVE OVERTOPPING OVER MARINE STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Zhuang, Fei</dc:creator>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">rotational mode</dc:subject>
+	<dc:subject xml:lang="en">viscous model</dc:subject>
+	<dc:description xml:lang="en">Wave overtopping problems continue to require more attention due to the complexity of the physical process and the lack of available predictive models. In a recent experimental study on the kinematics of wave overtopping on marine structure by Lee, Zhuang and Chang (1993), it was found that the overtopping wave constitutes a jet-like water mass impacting the shoreward region of the breakwater. This jet-like water mass induces strong vortices and large water particle velocities in both the horizontal and vertical direction in the shoreward region behind the marine structure. The large rotational velocity field is capable of removing the armor units of the breakwater and scouring the bed in the shoreward region of the breakwater. In the study of Zhuang, Chang and Lee (1994), a numerical model capable of generating the rotational velocity field in the vicinity of the shoreward face of the breakwater was proposed. This paper presents the computation results from a refined viscous rotational model and their comparisons with newly acquired experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5373</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5373/5050</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

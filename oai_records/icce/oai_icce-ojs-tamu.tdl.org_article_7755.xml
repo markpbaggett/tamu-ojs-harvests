@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7755</identifier>
+				<datestamp>2021-01-20T03:38:11Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PRACTICAL APPROACH TO SHALLOW WATER MOORING WITH VARYING SEABED</dc:title>
+	<dc:creator xml:lang="en">Oever, Erik ten</dc:creator>
+	<dc:creator xml:lang="en">Muilwijk, Michiel</dc:creator>
+	<dc:creator xml:lang="en">Muttray, Markus</dc:creator>
+	<dc:subject xml:lang="en">Dynamic mooring analysis</dc:subject>
+	<dc:subject xml:lang="en">ship response analysis</dc:subject>
+	<dc:subject xml:lang="en">sloping seabed</dc:subject>
+	<dc:subject xml:lang="en">line forces</dc:subject>
+	<dc:subject xml:lang="en">fender forces</dc:subject>
+	<dc:subject xml:lang="en">modelling approach</dc:subject>
+	<dc:description xml:lang="en">A dynamic mooring analysis is performed for a tanker berth in shallow water over a sloping bathymetry. Two different modelling strategies are applied, (i) including the sloping bottom in the panel model as a second structure and (ii) replacing the sloping bottom by an equivalent horizontal bottom. It was found that panel models that are applied for 3D diffraction analysis cannot describe the wave conditions on a sloping seabed. They are unable to describe wave shoaling and wave refraction and predict instead an unrealistic waffled clapotis. Therefore, a sloping seabed seabed cannot be modelled as a second structure in a panel model. This approach will result in unrealistic RAO's with a strongly oscillating pattern, which are in turn the result of unrealistic partial standing waves on the slope. An oscillating pattern is further observed for added mass and damping coefficients; it is unclear if any aspects of the sloping seabed are captured realistically by this approach. Including a sloping seabed in a panel model is therefore not advisable. The simplified modelling approach with an equivalent horizontal seabed is more robust and is more likely to provide a realistic estimate of the actual line and fender forces.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7755</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.76</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.76</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7755/pdf_970</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

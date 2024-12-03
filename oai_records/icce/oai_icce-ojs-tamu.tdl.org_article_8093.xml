@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8093</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACOUSTIC DOPPLER VELOCIMETER BACKSCATTER FOR QUANTIFICATION  OF SUSPENDED SEDIMENT CONCENTRATION IN SOUTH SAN FRANCISCO BAY</dc:title>
+	<dc:creator xml:lang="en">Özturk, Mehmet</dc:creator>
+	<dc:creator xml:lang="en">Work, Paul</dc:creator>
+	<dc:subject xml:lang="en">Acoustic Doppler velocimeter</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">backscatter</dc:subject>
+	<dc:subject xml:lang="en">San Francisco Bay</dc:subject>
+	<dc:description xml:lang="en">A data set was acquired on a shallow mudflat in south San Francisco Bay that featured simultaneous, co-located optical and acoustic sensors for subsequent estimation of suspended sediment concentrations (SSC). The optical turbidity sensor output was converted to SSC via an empirical relation derived at a nearby site using bottle sample estimates of SSC. The acoustic data was obtained using an acoustic Doppler velocimeter. Backscatter and noise were combined to develop another empirical relation between the optical estimates of SSC and the relative backscatter from the acoustic velocimeter. The optical and acoustic approaches both reproduced similar general trends in the data and have merit. Some seasonal variation in the dataset was evident, with the two methods differing by greater or lesser amounts depending on which portion of the record was examined. It is hypothesized that this is the result of flocculation, affecting the two signals by different degrees, and that the significance or mechanism of the flocculation has some seasonal variability. In the earlier portion of the record (March), there is a clear difference that appears in the acoustic approach between ebb and flood periods, and this is not evident later in the record (May). The acoustic method has promise but it appears that characteristics of flocs that form and break apart may need to be accounted for to improve the power of the method. This may also be true of the optical method: both methods involve assuming that the sediment characteristics (size, size distribution, and shape) are constant</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8093</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.sediment.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; sediment.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8093/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

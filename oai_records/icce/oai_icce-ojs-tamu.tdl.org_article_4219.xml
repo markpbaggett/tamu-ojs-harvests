@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4219</identifier>
+				<datestamp>2021-01-19T19:15:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GENERALIZED WAVE THEORY FOR A SLOPING BED</dc:title>
+	<dc:creator xml:lang="en">Swart, D.H.</dc:creator>
+	<dc:creator xml:lang="en">Crowley, J.B.</dc:creator>
+	<dc:subject xml:lang="en">sloping bed</dc:subject>
+	<dc:subject xml:lang="en">wave theory</dc:subject>
+	<dc:description xml:lang="en">This paper discusses the development from first principles of a first-order solution for non-breaking waves on a gently sloping bottom. The theory is derived in a similar fashion as was done by Swart and Loubser (1978) for vocoidal waves on a horizontal bottom. The resulting covocoidal theory was compared to an extensive data set for waves over a sloping bottom (Nelson, 1981) and is tested for analytical validity. It adheres exactly to continuity and the kinematic free surface boundary condition, and shows comparable errors in the dynamic free surface boundary condition to that found for the better, general horizontal bed wave theories.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4219</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4219/3900</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

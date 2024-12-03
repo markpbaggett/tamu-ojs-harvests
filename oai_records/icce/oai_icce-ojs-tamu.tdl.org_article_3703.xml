@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3703</identifier>
+				<datestamp>2021-01-19T22:16:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT AND BEACH TRANSFORMATION</dc:title>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Horikawa, Kiyoshi</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">beach transformation</dc:subject>
+	<dc:subject xml:lang="en">lab investigation</dc:subject>
+	<dc:description xml:lang="en">Laboratory and field investigations were performed in order to formulate a predictive model of two-dimensional beach profile change. The observed transport was classified into six types, and transport formulas were deduced for each type based on a microscale description of sediment movement caused by wave action. A numerical model of two-dimensional beach transformation was then developed. Beach profile changes calculated with the model were then compared with the laboratory results. The model was found to give reasonable results except in the vicinity of the wave plunging point. The sediment transport calculation is based on a sinusoidal velocity profile. The model appeares to give good results as long as the wave motion can be reasonably approximated by linear wave theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3703</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3703/3386</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4049</identifier>
+				<datestamp>2021-01-19T20:13:33Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LOCAL APPROXIMATIONS : A NEW WAY OF DEALING WITH IRREGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Nielsen, Peter</dc:creator>
+	<dc:subject xml:lang="en">irregular waves</dc:subject>
+	<dc:subject xml:lang="en">dealing with waves</dc:subject>
+	<dc:subject xml:lang="en">local approximations</dc:subject>
+	<dc:description xml:lang="en">The concept of local approximations via locally defined frequencies is introduced as a tool for dealing with irregular, non linear waves. Practical testing has been performed on the problem of estimating surface elevations from measured bottom pressures. In these tests the new method even in its simplest form proves more accurate than the linear spectral method. With respect to computational effort the new method requires orders of magnitude less than spectral methods, or wave by wave analysis of similar accuracy.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4049</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4049/3731</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

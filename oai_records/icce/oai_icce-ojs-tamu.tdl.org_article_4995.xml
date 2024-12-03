@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4995</identifier>
+				<datestamp>2021-01-19T14:50:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IRREGULAR WAVES OVER AN ELLIPTIC SHOAL</dc:title>
+	<dc:creator xml:lang="en">Yu, Xiping</dc:creator>
+	<dc:creator xml:lang="en">Togashi, Hiroyoshi</dc:creator>
+	<dc:subject xml:lang="en">irregular waves</dc:subject>
+	<dc:subject xml:lang="en">elliptic shoal</dc:subject>
+	<dc:subject xml:lang="en">shoal</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:description xml:lang="en">A numerical model for the transformation of narrow-banded irregular waves over gradually varying bottom topography is presented. The model is based on the mild slope wave equation for component waves. Perturbation of the mild slope wave equation with respect to the deviation of the angular frequency of any component wave from that of a principal wave, which is a small quantity for waves of narrow-banded spectra, is carried out. The mild slope wave equation, which depends on the frequency of the component wave, can thus be replaced by the perturbation equations in terms of the principal wave parameters. The finite element method is considered for numerical solutions of the perturbation equations. Since the matrix of the linear algebraic finite element equations depends on neither the component wa.ve properties nor the order of the perturbation, numerical solution of an irregular wave field can be efficiently obtained. The model is applied to the computation of the wave motion over an elliptic shoal. The computed wave height distribution shows satisfactory agreement with the available experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4995</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4995/4675</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

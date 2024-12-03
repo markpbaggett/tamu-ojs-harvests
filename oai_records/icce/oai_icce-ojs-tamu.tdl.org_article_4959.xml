@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4959</identifier>
+				<datestamp>2021-01-19T15:02:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTENSION OF THE MAXIMUM ENTROPY PRINCIPLE METHOD FOR DIRECTIONAL WAVE SPECTRUM ESTIMATION</dc:title>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:creator xml:lang="en">Nagai, Toshihiko</dc:creator>
+	<dc:creator xml:lang="en">Asai, Tadashi</dc:creator>
+	<dc:subject xml:lang="en">wave spectrum</dc:subject>
+	<dc:subject xml:lang="en">directional spectrum</dc:subject>
+	<dc:subject xml:lang="en">entropy</dc:subject>
+	<dc:subject xml:lang="en">maximum entropy principle</dc:subject>
+	<dc:subject xml:lang="en">wave estimation</dc:subject>
+	<dc:description xml:lang="en">This paper presents an extension of the maximum entropy principle method (MEP), named the extended MEP (EMEP), as a general and practical method for estimating directional wave spectra. Since the EMEP is formulated to consider errors in the cross-power spectra, it proves to be an accurate, reliable, and robust method against such errors. In addition, we also examine the EMEP using numerical simulation and field wave data, with its validity being subsequently discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4959</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4959/4639</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

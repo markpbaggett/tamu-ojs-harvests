@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1905</identifier>
+				<datestamp>2023-10-04T04:09:40Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL VULNERABILITY ASSESSMENT TO SEA LEVEL RISE INTEGRATED WITH ANALYTICAL HIERARCHY PROCESS</dc:title>
+	<dc:creator xml:lang="en">Ozyurt, Gulizar</dc:creator>
+	<dc:creator xml:lang="en">Ergin, Aysen</dc:creator>
+	<dc:creator xml:lang="en">Baykal, Cuneyt</dc:creator>
+	<dc:subject xml:lang="en">coastal vulnerability</dc:subject>
+	<dc:subject xml:lang="en">sea level rise</dc:subject>
+	<dc:subject xml:lang="en">analytical hierarchy process</dc:subject>
+	<dc:description xml:lang="en">This paper discusses a parameter based coastal vulnerability assessment model to sea level rise. The model integrates physical characteristics and human activities with expert perception through an application of analytical hierarchy process (AHP). The results of AHP enables to assign weights to parameters of the model which determine vulnerability of a coastal area to the impacts of sea level rise such as coastal erosion, inundation, flooding due to storm surges, saltwater intrusion to groundwater and rivers. The results of AHP also indicates that sea level rise is not considered as one of the main driving forces of the impacts that might be already present contrary to the reports that state that sea level rise will trigger many problems along coastal areas. The application of the coastal vulnerability assessment model to two different coastal areas of Turkey showed that there is a need for overall evaluation of coastal areas in terms of vulnerability to sea level rise considering all the impacts. It is seen that assessing overall vulnerability is an important tool for national assessments. On the other hand, impact vulnerabilities are important when regional to local planning are considered since a region having a low overall vulnerability might show higher vulnerability for individual impacts. The proposed vulnerability methodology integrated with expert perception enables a simple yet effective representation of the coastal system while enabling decision makers to come up with proactive adaptation measures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1905</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1905/pdf_144</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

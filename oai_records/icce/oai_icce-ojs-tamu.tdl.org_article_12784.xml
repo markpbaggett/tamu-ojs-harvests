@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12784</identifier>
+				<datestamp>2023-10-03T04:13:06Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PROCESS-BASED NUMERICAL MODEL OF SHOREFACE PROFILE EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Patterson, Dean</dc:creator>
+	<dc:creator xml:lang="en">Nielsen, Peter</dc:creator>
+	<dc:creator xml:lang="en">Calaghan, David</dc:creator>
+	<dc:creator xml:lang="en">Baldock, Tom</dc:creator>
+	<dc:description xml:lang="en">The paper presents an effective integrated framework and process-based dynamics in the form of new software that successfully models the whole shore-face zone seamlessly from relative deep water to and across the surf zone to the beach. As an advance on other available models, it simulates both erosion with bar development and beach recovery after erosion events, with shoreward bar migration and beach accretion. It incorporates analytical descriptors of the hydrodynamic and morphological processes, including simplified empirical relationships that describe the forcing of waves and currents and the sedimentation responses that change the profile. The model represents the surf zone wave roller and its effects in driving undertow. The simple bed load formulation of Ribberink and Al-Salem (1990) based on u_bar^3 is used for sand transport, incorporating the effects of wave asymmetry, acceleration skewness, boundary layer streaming and Stokes drift, with the coefficient increased to account for suspension transport in the surf zone. Importantly, bar migration rather than diffusion is achieved by management of acceleration skewness as the wave passes over the bar crest. It is shown by validation to simulate profile evolution satisfactorily in a manner and at time-scales consistent with measured data, for both small scale laboratory and long term prototype modal and storm conditions. The model caters for water level variations due to tide, storm surge and/or sea level rise. It may be used to assess beach nourishment deposition at the beach berm, lower shore-face or across the surf zone.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12784</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12784/12057</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Dean Patterson, Peter Nielsen, David Calaghan, Tom Baldock</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

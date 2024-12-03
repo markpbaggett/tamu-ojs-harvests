@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4822</identifier>
+				<datestamp>2021-01-19T15:48:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WATER FLOW MODELLING OF THE VENICE LAGOON</dc:title>
+	<dc:creator xml:lang="en">Marchi, Enrico</dc:creator>
+	<dc:creator xml:lang="en">Adami, Attilio</dc:creator>
+	<dc:creator xml:lang="en">Caielli, Alfredo</dc:creator>
+	<dc:creator xml:lang="en">Cecconi, Giovanni</dc:creator>
+	<dc:subject xml:lang="en">flow modeling</dc:subject>
+	<dc:subject xml:lang="en">Venice Lagoon</dc:subject>
+	<dc:subject xml:lang="en">lagoon</dc:subject>
+	<dc:description xml:lang="en">The paper describes the relevant set of analogical, mathematical and phisical models used to simulate the hydrodynamics phenomena of the Venice lagoon. The various models are devided in two classes, depending on the scale: the great scale models, to examine the problems interesting the entire lagoon, and the little scale models for the problems localized near the inlets, where the barrages will be built to control the lagoon water level.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4822</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4822/4503</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

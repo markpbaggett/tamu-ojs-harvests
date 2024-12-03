@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6612</identifier>
+				<datestamp>2023-10-04T03:12:25Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD MEASUREMENTS OF SHEET FLOW SEDIMENT TRANSPORT IN THE SWASH ZONE</dc:title>
+	<dc:creator xml:lang="en">Lanckriet, Thijs</dc:creator>
+	<dc:creator xml:lang="en">Puleo, Jack A.</dc:creator>
+	<dc:creator xml:lang="en">Masselink, Gerd</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian</dc:creator>
+	<dc:creator xml:lang="en">Conley, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Blenkinsopp, Chris</dc:creator>
+	<dc:creator xml:lang="en">Russell, Paul</dc:creator>
+	<dc:subject xml:lang="en">Swash zone</dc:subject>
+	<dc:subject xml:lang="en">sheet flow</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">A newly developed Conductivity Concentration Profiler (CCP), capable of rendering a 29-point sediment concentration profile at 1 mm vertical resolution, was deployed on a macrotidal beach in Perranporth, UK, as part of a comprehensive field study on swash zone hydrodynamics and sediment transport. Initial field results show the occurrence of sheet flow during both the uprush and backwash phases of the swash cycle. Concentration profiles in the sheet flow layer are approximately linear, with a power-law tail at the top of the layer. The data suggest that shear stresses are the dominant forcing for sediment mobilization, but pressure gradients provide a secondary mobilization mechanism.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6612</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6612/pdf_600</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

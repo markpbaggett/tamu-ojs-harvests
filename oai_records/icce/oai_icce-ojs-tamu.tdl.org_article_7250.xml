@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7250</identifier>
+				<datestamp>2021-01-19T05:00:14Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HORIZONTAL TURBULENT DIFFUSION AT SEA SURFACE FOR OIL TRANSPORT SIMULATION</dc:title>
+	<dc:creator xml:lang="en">Matsuzaki, Yoshitaka</dc:creator>
+	<dc:creator xml:lang="en">Fujita, Isamu</dc:creator>
+	<dc:subject xml:lang="en">oil spill</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">real sea</dc:subject>
+	<dc:subject xml:lang="en">drift experiments</dc:subject>
+	<dc:subject xml:lang="en">horizontal turbulent diffusion.</dc:subject>
+	<dc:description xml:lang="en">In numerical simulations of oil transport at the sea surface, it is not known how to determine the horizontal turbulent diffusion coefficient of the oil. In this study, a model of diffusion at the sea surface was constructed to predict the turbulent diffusion coefficient of oil, based on results from drift experiments in a real sea using pseudo oil made of sponge rubber. Under experimental conditions, it was found that the diffusion coefficient at the sea surface was larger than under water, and that it does not depend on wind velocity or current velocity. We conducted numerical simulations using the derived diffusion model, which provided better results than traditional methods in the initial stages of an oil spill. The derived diffusion model is simple and therefore, easily incorporated into diffusion models of other oil transport simulations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7250</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7250/pdf_697</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1098</identifier>
+				<datestamp>2023-10-04T04:14:14Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN ADVANCED STATISTICAL EXTREME VALUE MODEL FOR EVALUATING STORM SURGE HEIGHTS CONSIDERING SYSTEMATIC RECORDS AND  SEA LEVEL RISE SCENARIO</dc:title>
+	<dc:creator xml:lang="en">Mudersbach, Christoph</dc:creator>
+	<dc:creator xml:lang="en">Jensen, Juergen</dc:creator>
+	<dc:subject xml:lang="en">extreme value statistics</dc:subject>
+	<dc:subject xml:lang="en">non-stationary time series</dc:subject>
+	<dc:subject xml:lang="en">design levels</dc:subject>
+	<dc:description xml:lang="en">In this paper, a non-stationary extreme value analysis approach is introduced in order to determine coastal design water levels for future time horizons. The non-stationary statistical approach is based on the Generalized Extreme Value (GEV) distribution and a L-Moment parameter estimation as well as a Maximum-Likelihood-estimation. An additional approach considers sea level rise scenarios in the non-stationary extreme value analysis. All the methods are applied to the annual maximum water levels from 1849-2007 at the German North Sea gauge at Cuxhaven. The results show, that the non-stationary GEV approach is suitable for determining coastal design water levels.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1098</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1098/pdf_191</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

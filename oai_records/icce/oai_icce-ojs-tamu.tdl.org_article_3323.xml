@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3323</identifier>
+				<datestamp>2021-01-20T00:23:18Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ADJUSTMENT AND VERIFICATION OF THE RANDDELTA II MODEL</dc:title>
+	<dc:creator xml:lang="en">Langerak, A.</dc:creator>
+	<dc:creator xml:lang="en">de Ras, M.A.M.</dc:creator>
+	<dc:creator xml:lang="en">Leendertse, J.J.</dc:creator>
+	<dc:subject xml:lang="en">Randdelta II model</dc:subject>
+	<dc:subject xml:lang="en">Delta Plan</dc:subject>
+	<dc:description xml:lang="en">In the mid-1950s the Netherlands government embarked on a massive construction program, called the Delta Plan. Its purpose was to enhance protection from floods caused by the North Sea in the estuaries of the Rhine, Meuse and Scheldt. According to the plan, all connections to the sea were to be closed by dams, except the New Waterway to Rotterdam and the Western Scheldt. In 1974 all dams and dikes were complete except the dam closing off the Eastern Scheldt from the sea. In view of growing opposition to a complete closure, plans were revised in 1976, and instead of the dam, a storm surge barrier will be constructed. This barrier will reduce the tidal range in the Eastern Scheldt and will be closed during storm surges. In support of engineering and environmental studies related to the construction and operation of this barrier, a large numerical model has been developed, which covers the Eastern and Western Scheldt and the adjacent offshore area. The section of the North Sea which is included in the model is about 120 km long and 30 km wide, running from Blankenberghe in Belgium to Scheveningen in the Netherlands (Fig. 1). The bathymetry of the model area varies widely. In general it slopes from the shore to about 25 m at 30 km from the coast. In certain sections of the offshore area, the bottom is relatively flat; in other areas it has offshore bars and the bottom contains underwater sand dunes with a height of several meters. In the estuaries the tidal flow has scoured deep channels. The tidal flats near the North Sea are generally sandy, but the ecologically important tidal marshes located more inland contain much finer material. The flow and the water levels in the region which is modeled are generally tide-induced. However, the influence of meteorological effects is always present and sometimes dominates water movements and water levels (storm surges). The influence of the fresh water discharges is of much less importance; generally their effects can only be noticed in the immediate vicinity of the discharge. The tides in the offshore area of the model are part of the complicated tide system in the North Sea. The semidiurnal tidal wave propagates along the coast in a northeasterly direction. During this propagation the amplitude reduces from about 1.90 m near Blankenberghe to about .85 m near Scheveningen.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3323</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.61</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 61</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3323/2991</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

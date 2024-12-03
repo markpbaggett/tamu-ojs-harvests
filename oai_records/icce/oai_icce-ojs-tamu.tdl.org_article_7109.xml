@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7109</identifier>
+				<datestamp>2021-01-19T05:18:58Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF FORMATION OF ORIENTED LAKES</dc:title>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Serizawa, Masumi</dc:creator>
+	<dc:creator xml:lang="en">San-nami, Toshiro</dc:creator>
+	<dc:creator xml:lang="en">Miyahara, Shiho</dc:creator>
+	<dc:subject xml:lang="en">Oriented lakes</dc:subject>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">lakeshore changes</dc:subject>
+	<dc:subject xml:lang="en">segmentation</dc:subject>
+	<dc:subject xml:lang="en">BG model</dc:subject>
+	<dc:description xml:lang="en">In vast areas of the Arctic Coastal Plain, oriented lakes, groups of lake basins with a common long-axis orientation, can be found. Numerical simulation using the BG model (a three-dimensional model for predicting beach changes based on Bagnold's concept) was carried out, and the characteristic of oriented lakes that the direction of their principal axis is perpendicular to that of the principal axis of the probability distribution of occurrence of wind direction was successfully explained. The predicted results and the examples given by Seppälä (2004) were in good agreement.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7109</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7109/pdf_413</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

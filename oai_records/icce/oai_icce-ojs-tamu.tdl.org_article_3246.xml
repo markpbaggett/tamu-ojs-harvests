@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3246</identifier>
+				<datestamp>2021-01-20T00:48:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MOVABLE BED TIDAL INLET MODELS</dc:title>
+	<dc:creator xml:lang="en">Jain, Subhash C.</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, John F.</dc:creator>
+	<dc:subject xml:lang="en">inlet model</dc:subject>
+	<dc:subject xml:lang="en">movable bed</dc:subject>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:description xml:lang="en">Stabilization of tidal inlets is a major engineering problem that is frequently encountered in the development of harbors. The planning, design, and modification of these inlets under the dynamic conditions that generally characterize their surroundings is, at best, a complex and uncertain undertaking. Prediction of the sedimentary response of an existing inlet to artificial improvements and to changing environmental conditions, or of a new inlet to the expected ambient conditions, and the optimization of the layout in order to minimize undesirable accretion or erosion are major elements in the design of tidal inlets. Because of the complexity of the problem, movable bed hydraulic models often are employed, despite the questions that surround their validity, to investigate these responses and to guide designs. The success of a movable bed hydraulic model depends upon the proper choice of similitude conditions and modeling criteria. Unfortunately, the conditions of similitude still are not well defined, as many of the phenomena constituent to the processes involved are yet to be elucidated adequately and formulated. Moreover, it is not possible to satisfy simultaneously all of the similitude conditions that arise. The required grain size and density of the model bed material, the current exaggeration that may be required, the effects of geometric distortion, etc. cannot be determined by straightforward computations. These must be chosen to obtain the most favorable balance between all relevant phenomena. The criteria of similitude generally are specified by experimenters who have previous experience with this type of model. The execution of a model studies of this type is, therefore, largely an "art" and entails major elements of subjectivity. The Iowa Institute of Hydraulic Research, under contract to Coastal Engineering Research Center, U.S. Army Corps of Engineers, is presently (1976) conducting a study to evaluate the reliability and effectiveness of movable bed, tidal inlet, hydraulic models as predictors of prototype behavior. The main emphasis of this study is on comparison of model predictions with observations made in the prototypes, and evaluation of model performance in the light of: (i) the criteria of similitude adopted; (ii) the sedimentary material and instrumentation utilized in the models; (iii) the experimental procedure followed; (iv) the quality of the prototype data utilized in verification of the models; and (v) the degree and accuracy of model verification. The scope of this study is limited to those models in which the area of interest is composed entirely of movable material and not of just a thin erodible layer placed over a fixed bathymetry.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3246</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.196</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 196</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3246/2910</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

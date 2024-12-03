@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2870</identifier>
+				<datestamp>2021-01-20T03:03:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF CONSTITUENT TRANSPORT IN BAY SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Dean, R.G.</dc:creator>
+	<dc:creator xml:lang="en">Taylor, R.B.</dc:creator>
+	<dc:subject xml:lang="en">bay</dc:subject>
+	<dc:subject xml:lang="en">bay system</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">constituent transport</dc:subject>
+	<dc:description xml:lang="en">This paper describes the results of a numerical modeling study of the Lower Biscayne Bay system in southeast Florida. The purpose of the study is to predict the effects of cooling water intake and discharge associated with the Turkey Point Power Plant facility, which comprises two fossil-fueled units and two nuclear units. When completed the system will generate 2450 megawatts. One of the original (but since abandoned) operating plans considered would require intake by the plant ranging from 4250 to 10,600 cfs of Bay water for cooling and dilution purposes to be returned via a six-mile canal to the Bay system. The Lower Biscayne Bay system comprises several bodies of water of 6 to 10 ft. depth which are connected over shallow limestone and mud sills. The numerical model incorporates an area of approximately 36 by 12 nautical miles divided into grid squares of 2 nautical miles on each side. Available field data are used to calibrate the model. The results of the calibration and predictions of the effects of the plant withdrawal and discharge on the natural bay system flows are presented. The primary features of interest of the study include: 1) the effect of the plant cooling water requirements on the Bay hydromechanics, including recirculation and flows through small inlets connecting the Bay to the Ocean; and 2) the concentration distributions of conservative constituents in the Bay system as affected by advective and dispersive processes. The numerical procedure consists of a non-dispersive and a dispersive model which are employed sequentially.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2870</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.123</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 123</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2870/2534</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

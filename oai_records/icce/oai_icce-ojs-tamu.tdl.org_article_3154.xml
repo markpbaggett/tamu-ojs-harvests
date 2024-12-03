@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3154</identifier>
+				<datestamp>2021-01-20T01:21:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHANGES IN INLET OFFSET DUE TO STABILIZATION</dc:title>
+	<dc:creator xml:lang="en">Hubbard, Dennis K.</dc:creator>
+	<dc:subject xml:lang="en">inlet stability</dc:subject>
+	<dc:subject xml:lang="en">inlet offset</dc:subject>
+	<dc:description xml:lang="en">Available evidence indicates southward littoral transport through the Mem'mack Embayment. In apparent contradiction, the beach on the southern (Plum Island) side of the inlet has built seaward of the updrift beach. This phenomenon is related to a balance between storm and fair weather conditions. Wave observations under a variety of surf conditions show that during storms, sand is transported southward along the face of the nearshore bar fronting Plum Island. During calm periods sand is moved northward along the beach until it is trapped by the southern jetty and removed from the then active tidal current transfer system. Using discharge data and wave measurements from the Merrimack Inlet area, Bruun's bypassing coefficient (r = Qis/Qmax. where Qis is the longshore transport rate in M-fyyr and Qmax is the maximum inlet discharge in M^/sec) was computed for storm and fair weather conditions. During storms, the bar bypassing observed in the field was clearly indicated. During calmer periods tidal current transfer was predicted. This relationship is considered only an approximation as it does not consider many important physical parameters (grain size, nearshore slope, wave type, etc.).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3154</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.104</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 104</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3154/2818</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

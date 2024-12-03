@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4289</identifier>
+				<datestamp>2021-01-19T18:51:06Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PARAMETRIC HURRICANE WAVE PREDICTION MODEL</dc:title>
+	<dc:creator xml:lang="en">Young, Ian R.</dc:creator>
+	<dc:subject xml:lang="en">hurricane</dc:subject>
+	<dc:subject xml:lang="en">hurricane prediction</dc:subject>
+	<dc:subject xml:lang="en">prediction model</dc:subject>
+	<dc:subject xml:lang="en">hurricane wave</dc:subject>
+	<dc:subject xml:lang="en">parametric prediction model</dc:subject>
+	<dc:description xml:lang="en">A spectral wave model based on a numerical solution of the Radiative Transfer Equation is used to create a synthetic data base on wave conditions within hurricanes. The results indicate that both the velocity of forward movement and maximum wind velocity within the storm play an important role in determining both the magnitude of the waves generated and also the spatial distribution of these waves. An equivalent fetch for hurricane wave generation which is a function of these two parameters is proposed. This concept, together with the standard JONSWAP fetch limited growth relationships, provide a simple means for estimating wave conditions within hurricanes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4289</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.82</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 82</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4289/3970</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

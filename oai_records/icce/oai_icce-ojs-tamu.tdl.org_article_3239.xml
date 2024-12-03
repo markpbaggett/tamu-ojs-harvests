@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3239</identifier>
+				<datestamp>2021-01-20T00:50:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENERGY DISSIPATION IN TIDAL ESTUARIES</dc:title>
+	<dc:creator xml:lang="en">Partenscky, Hans-Werner</dc:creator>
+	<dc:creator xml:lang="en">Barg, Gunther</dc:creator>
+	<dc:subject xml:lang="en">energy dissipation</dc:subject>
+	<dc:subject xml:lang="en">tidal estuary</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:description xml:lang="en">In this study, the method for damped co-oscillating tides is used to evaluate damping and energy dissipation characteristics for various estuaries of different geometry and depth. Of special interest are the damping and energy dissipation characteristics of the German tidal rivers such as Elbe, Weser and Ems in comparison with North-American tidal estuaries, since the former are characterized by deep navigation channels and relatively flat wadden areas at their lateral boundaries. Harleman and Ippen have applied a mathematical model for co-oscillating tides to the Bay of Fundy and the Delaware estuary. This model gives information about the damping behaviour and energy distribution in the tidal estuaries. Both of the above mentioned estuaries represent special cases since the geometric form of the Bay of Fundy allows it to be approximately represented as a rectangular canal of constant width and depth, whereas for the Delaware Estuary one can assume a constant depth of water. Partenscky has applied an extended form of this model to the St. Lawrence Estuary. The method of co-oscillating tides has now also been used in a mathematical model for the German tidal rivers such as Elbe, Weser and Ems. This method takes into account the influence of geometry and depth on the tidal motion and also the damping of the tidal wave due to friction and partial reflection. Data from gauges situated along the estuaries are needed as initial input for the calculation of the damping coefficient and the phase change. The wave amplitude and the time of highwater must be known from these stations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3239</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.189</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 189</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3239/2903</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

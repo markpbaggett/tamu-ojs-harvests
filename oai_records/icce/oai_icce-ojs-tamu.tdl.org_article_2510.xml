@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2510</identifier>
+				<datestamp>2021-01-17T04:42:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYPERBOLIC WAVES AND THEIR SHOALING</dc:title>
+	<dc:creator xml:lang="en">Iwagaki, Yuichi</dc:creator>
+	<dc:subject xml:lang="en">hyperbolic waves</dc:subject>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:description xml:lang="en">Is is very difficult for engineers to deal with the cnoidal wave theory for practical application, since this theory contains the Jacobian elliptic functions, their modulus k, and the complete elliptic integrals of the first and second kinds, K and E respectively. This paper firstly proposes formulae for various wave characteristics of new waves named "hyperbolic waves", which are derived from the cnoidal wave theory under the condition that k = 1 and E = 1 but K is not infinite and are a function of T/g/h and H/h, so that cnoidal waves can be approximately expressed as hyperbolic waves by primary functions only, in which T is the wave period, h the water depth and H the wave height. Secondly, as an application of the hyperbolic wave theory, the present paper deals with wave shoaling, that is, changes in the wave height, the wave crest height above still water level, and the wave velocity, when the waves proceed into shallow water from deep water.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2510</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2510/2176</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

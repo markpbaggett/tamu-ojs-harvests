@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7159</identifier>
+				<datestamp>2021-01-19T05:12:10Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION OF THE TOTAL SLIDING DISTANCE OF COMPOSITE TYPE BREAKWATER IN SERVICE PERIOD APPLYING THE WAVE CLIMATE STATISTICS</dc:title>
+	<dc:creator xml:lang="en">Kimura, Teruko</dc:creator>
+	<dc:creator xml:lang="en">Kimura, Akira</dc:creator>
+	<dc:creator xml:lang="en">Ota, Takao</dc:creator>
+	<dc:subject xml:lang="en">performance based design</dc:subject>
+	<dc:subject xml:lang="en">composite type breakwater</dc:subject>
+	<dc:subject xml:lang="en">sliding distance</dc:subject>
+	<dc:subject xml:lang="en">wave climate statistics</dc:subject>
+	<dc:description xml:lang="en">Since 2007, damages of structures are accepted if they give less influence on their performance in Japan (Guideline for the performance design). To realize the idea of the guideline in a coastal structure design, assessment for 'state' and 'degree' of damage becomes essential in advance. This study proposes statistical method to assess a sliding of the composite breakwater, applying Monte Carlo wave climate simulation method (kimura et al., 2012). A concrete method is shown to make clear about a relation between design conditions and a probability that the structure keeps the performance during the in-service period.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7159</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7159/pdf_435</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

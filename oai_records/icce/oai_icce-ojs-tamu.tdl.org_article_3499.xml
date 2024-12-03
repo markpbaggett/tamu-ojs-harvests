@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3499</identifier>
+				<datestamp>2021-01-19T23:25:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RELATIONSHIP BETWEEN ALONGSHORE WAVE ENERGY AND LITTORAL DRIFT IN THE MID-WEST COAST AT TAIWAN</dc:title>
+	<dc:creator xml:lang="en">Hou, Ho-Shong</dc:creator>
+	<dc:creator xml:lang="en">Lee, Chung-Pan</dc:creator>
+	<dc:creator xml:lang="en">Lin, Lung-Hui</dc:creator>
+	<dc:subject xml:lang="en">Taiwan</dc:subject>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">littoral drift</dc:subject>
+	<dc:subject xml:lang="en">alongshore energy</dc:subject>
+	<dc:description xml:lang="en">Based on the wave pattern, the geographical location and the disposition of rivers, the littoral drift moves predominantly from NE to SW direction in section II as shown in Fig. 1. Seven rivers of rapid stream bring tremendous amount of sediments from the high mountain to the nearshore of this section in typhoon season (i.e. from June to September). But for the winter monsoon season, i.e. from October to the next April, the waves induced by NE monsoons migrate littoral drift from North toward South. Applying the energy approach for unidirectional steady flow derived by Bagnold(1963), the theoretical relationship between the littoral immersed weight transport rate and the alongshore breaking wave energy is found out. It reveals that the relationship is not strictly linear, i.e. the larger part of the alongshore breaking wave energy is supplied for transporting the sediment as the former increases. But for a coast having a steady oceanographical condition, the relationship could be considered as linear relation since the alongshore breaking wave energy is not varying very much. In this paper, the study of littoral drift vs wave energy at the Taichung Coast from the Ta-Chia River to the Ta-Tu River will be carried out. Using the wave records gained by the ultrasonic wave gauge at 19m depth and the littoral drift quantity obtained from long-term observation, the relationship between alongshore breaking wave energy and littoral immersed weight transport rate is found out. First, the waves which have the same direction are summed up. Then from "THE WAVE CHARACTER COMPUTING PROGRAM", the incident directions of these wave groups at 19m depth are determined. Then the alongshore breaking wave energy per unit time per unit length of beach could be calculated by the same PROGRAM.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3499</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3499/3179</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

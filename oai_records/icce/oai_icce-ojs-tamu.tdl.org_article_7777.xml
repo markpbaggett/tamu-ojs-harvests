@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7777</identifier>
+				<datestamp>2021-01-20T03:36:52Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF LONG-PERIOD BIG WAVES IN EAST COAST OF KOREA</dc:title>
+	<dc:creator xml:lang="en">Ahn, Suk Jin</dc:creator>
+	<dc:creator xml:lang="en">Lee, Byeong Wook</dc:creator>
+	<dc:creator xml:lang="en">Lee, Changhoon</dc:creator>
+	<dc:creator xml:lang="en">Kwon, Seok Jae</dc:creator>
+	<dc:subject xml:lang="en">long-period big waves</dc:subject>
+	<dc:subject xml:lang="en">wave prediction</dc:subject>
+	<dc:subject xml:lang="en">wave observation</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">wave ray method.</dc:subject>
+	<dc:description xml:lang="en">In this study, we develop an algorithm to predict long-period big waves in the east coast of Korea using the directional wave gauge which is installed near Sokcho. Using the numerical wave model SWAN (Booij et al., 1999), we estimate wave data in open sea from the wave data observed through the directional wave gauge. Then, using the wave ray method (Munk and Arthur, 1952; Wilson, 1966) with the open-sea wave data as offshore boundary conditions, we predict the travel time of long-period long waves from the measurement site to several target points in the east coast of Korea. And, we predict significant wave height and peak wave direction at the target point using SWAN which simulates wave propagation in a domain including the point. We verify the prediction methods with the SWAN and wave ray method by comparing predicted wave data against 4 measured data of long-period big waves. The wave data were observed from October 2012 to April 2013 at the observation site of Whangdolcho which is located 200km southward from Sokcho. The prediction method can be improved using more measurement sites which will be installed in the future.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7777</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7777/pdf_974</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

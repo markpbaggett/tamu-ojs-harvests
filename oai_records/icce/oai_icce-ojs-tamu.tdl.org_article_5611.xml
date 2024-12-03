@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5611</identifier>
+				<datestamp>2021-01-19T11:22:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF AN UNDERTOW MODEL TO IRREGULAR WAVES ON BARRED BEACHES</dc:title>
+	<dc:creator xml:lang="en">Kennedy, Douglas L.</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:subject xml:lang="en">barred beach</dc:subject>
+	<dc:subject xml:lang="en">undertow</dc:subject>
+	<dc:subject xml:lang="en">undertow model</dc:subject>
+	<dc:subject xml:lang="en">irregular waves</dc:subject>
+	<dc:description xml:lang="en">An undertow model calibrated for regular waves on plane beaches is applied to predict the irregular wave induced undertow for both plane and barred beaches and for both laboratory and field data sets. The model combines a logarithmic profile in the bottom boundary layer with a conventional parabolic profile in the interior. The height and period of the irregular waves are represented by the local root-mean-square wave height and spectral peak period, and the measured mean volume flux below trough level is used as input to the model. The model is capable of predicting the undertow profiles both inside and outside the surf zone, provided that the empirical coefficient associated with the mean bottom shear stress is adjusted at each measuring line. The model appears to give reasonable predictions of the bottom boundary layer thickness and shear velocity, although these predictions could not be verified due to a lack of data. To develop a predictive undertow model, a simple relationship with an adjustable coefficient is applied to predict the measured volume flux below trough level using the local wave height and water depth. The calibration coefficients involved in the predictive model are not universal among the lab and field conditions possibly due to the effects of wave directionality and longshore currents in the field measurements which are neglected in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5611</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5611/5283</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

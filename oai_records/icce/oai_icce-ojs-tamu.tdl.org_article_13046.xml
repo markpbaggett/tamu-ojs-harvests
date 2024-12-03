@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13046</identifier>
+				<datestamp>2023-09-01T15:15:25Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING COASTAL WATER TABLE FLUCTUATIONS USING PFLOTRAN</dc:title>
+	<dc:creator xml:lang="en">Maple, Margit</dc:creator>
+	<dc:creator xml:lang="en">Coylar, Maia</dc:creator>
+	<dc:creator xml:lang="en">Detwiler, Russell</dc:creator>
+	<dc:creator xml:lang="en">Gallien, Timu</dc:creator>
+	<dc:description xml:lang="en">Coastal aquifers are highly dynamic groundwater systems. Sea level rise will cause a rise in coastal groundwater tables resulting in increased risk of shallow or emergent groundwater (Befus et al., 2020). Marine water level fluctuations cause the beach groundwater table to oscillate over a relatively large range. Understanding these oscillations is crucial, as shallow (i.e., high) water tables may impact subsurface infrastructure, mobilize sediment, and increase liquefaction risks. Although the impacts of tides and wave setup on coastal water tables have been studied (e.g., Nielsen, 1990; Housego et al, 2021), the cumulative impacts of wave runup, partially saturated flow, complex beach topography, and dual tidal forcing for bay-backed regions have not been explored. This work numerically models beach water table fluctuations which are compared to in-situ swash and beach groundwater observations at Cardiff State Beach in Encinitas, CA.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13046</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13046/12319</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Margit Maple, Maia Coylar, Russell Detwiler, Timu Gallien</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

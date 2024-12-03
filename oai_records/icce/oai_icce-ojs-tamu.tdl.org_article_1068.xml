@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1068</identifier>
+				<datestamp>2023-10-04T04:39:58Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PICK-UP RATE OF SUSPENDED SAND DUE TO TSUNAMI</dc:title>
+	<dc:creator xml:lang="en">Yoshii, Takumi</dc:creator>
+	<dc:creator xml:lang="en">Ikeno, Masaaki</dc:creator>
+	<dc:creator xml:lang="en">Matsuyama, Masafumi</dc:creator>
+	<dc:creator xml:lang="en">Fujii, Naoki</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">pick-up rate</dc:subject>
+	<dc:description xml:lang="en">The pick-up rate formula which can apply to wide-range of grain size was presented through dimensional analysis and laboratory experiments. The result of the dimensional analysis revealed that there are three must-considered non-dimensional parameters: "non-dimensional sand grain diameter†, "non-dimensional settling velocity†, and "non-dimensional shear stress†. The pick-up rate formula which considers these parameters can predict the pick-up rate of 0.08 mm and 0.2 mm grains measured in the experiment with sufficient accuracy. The topography change around a harbor due to tsunami was measured in the laboratory experiment and compared with the result of numerical simulations. The numerical simulation with the presented pick-up rate formula shows a better agreement with the laboratory experiment than that with Takahashi et al. (2000)'s model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1068</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1068/pdf_28</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

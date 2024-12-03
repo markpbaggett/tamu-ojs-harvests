@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3274</identifier>
+				<datestamp>2021-01-20T00:38:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HIGHER ORDER WAVE SPECTRA</dc:title>
+	<dc:creator xml:lang="en">Liu, Paul C.</dc:creator>
+	<dc:creator xml:lang="en">Green, Albert W.</dc:creator>
+	<dc:subject xml:lang="en">higher order spectra</dc:subject>
+	<dc:subject xml:lang="en">wave spectra</dc:subject>
+	<dc:description xml:lang="en">As part of an effort aimed at examining the empirical aspects of nonlinear processes of wind-generated waves, this paper presents calculations and examples of bispectra and trispectra and indicates applications of these results to the study of wave growth processes. Recent publications on wave studies have indicated that the growth process of wind waves is primarily associated with the nonlinear energy flux due to wave-wave interactions. While most of these studies are conjectures from theoretical considerations, it is of interest to explore the nonlinear studies empirically. From available wave data largely recorded at a single station, a first step is to perform bispectral and trispectral analyses of the data. Since the unispectrum provides information on the energy content of the frequency components, the bispectrum and trispectrum generally provide information on the interactive relations between two and three frequency components, respectively. These higher order interactive relations can thus be considered as estimates or characterizations of nonlinear interactions. Hasselmann, Munk, and McDonald (1962), perhaps the first to use bispectral analysis, demonstrated that calculations of observed bispectra of ocean waves correlate reasonably well with theoretically derived bispectra. Other ocean wave bispectra were presented by Garrett (1970) and Houmb (1974). Trispectral analysis has not yet been attempted in practical problems.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3274</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3274/2938</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

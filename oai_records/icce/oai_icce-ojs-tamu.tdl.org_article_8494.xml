@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8494</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE SCALE TESTS ON FORESHORE EVOLUTION DURING STORM SEQUENCES AND THE PERFORMANCE OF A NEARLY VERTICAL STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Briganti, Riccardo</dc:creator>
+	<dc:creator xml:lang="en">Musumeci, Rosaria Ester</dc:creator>
+	<dc:creator xml:lang="en">van der Meer, Jentsje</dc:creator>
+	<dc:creator xml:lang="en">Romano, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Stancanelli, Laura Maria</dc:creator>
+	<dc:creator xml:lang="en">Kudella, Matthias</dc:creator>
+	<dc:creator xml:lang="en">Akbar, Rizki</dc:creator>
+	<dc:creator xml:lang="en">Mukhdiar, Ryard</dc:creator>
+	<dc:creator xml:lang="en">Altomare, Corrado</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">De Girolamo, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Mancini, Giulia</dc:creator>
+	<dc:creator xml:lang="en">Besio, Giovanni</dc:creator>
+	<dc:creator xml:lang="en">Dodd, Nicholas</dc:creator>
+	<dc:creator xml:lang="en">Schimmels, Stefan</dc:creator>
+	<dc:description xml:lang="en">This work presents the results of an experimental investigation on the effects of a sequence of storms on wave overtopping at a nearly vertical battered seawall at the back of a sandy foreshore. The experiments were carried out in the Large Wave Flume (GWK) at Leibniz Universität Hannover (Germany), as part of the research project ICODEP (Impact of Changing fOreshore on flood DEfence Performance), within the European Union programme Hydralab+. The layout consisted of a 10/1 battered seawall and a natural sandy foreshore with an initial 1:15 slope. The beach sand had a nominal diameter of 0.30 mm. Three storm sequences were simulated, where each consisted of three individual storms. Each storm was divided into six steps in which the wave conditions and still water level were varied to represent the peak of an actual storm. The six sea states were based on a JONSWAP spectral shape, with wave heights roughly between 0.6 m and 0.8 m. Two still water levels were tested. For the central two steps the level was such that the freeboard was only 0.14 m and almost all waves were overtopping. In the remaining steps low still water levels were employed, leaving a narrow swash zone. Two storm profiles were considered, the first one with a lower level of energy and the second one with a higher one. These were combined in the three different sequences. All the tested wave conditions were designed to be erosive for the beach, with no recovery in between. Each sequence started from a plain beach configuration and the beach was not restored in between storms. The measurements included waves, pressure and forces, sediment concentrations and flow velocity together with overtopping. The profile of the beach was measured after each sea state tested.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8494</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8494/7300</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8494/7926</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

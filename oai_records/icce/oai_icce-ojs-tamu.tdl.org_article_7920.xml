@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7920</identifier>
+				<datestamp>2021-01-20T03:49:52Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF FLUID-SEDIMENT-SEABED INTERACTION MODEL AND ITS APPLICATION</dc:title>
+	<dc:creator xml:lang="en">Nakamura, Tomoaki</dc:creator>
+	<dc:creator xml:lang="en">Mizutani, Norimi</dc:creator>
+	<dc:subject xml:lang="en">fluid-sediment-seabed interaction</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">finite element method</dc:subject>
+	<dc:subject xml:lang="en">coupling scheme</dc:subject>
+	<dc:subject xml:lang="en">tsunami-induced local scouring</dc:subject>
+	<dc:description xml:lang="en">To provide a computational framework for simulating fluid-sediment-seabed interactions, a three-dimensional coupled fluid-sediment-seabed interaction model was developed and applied to seabed response under regular waves and local scouring from tsunami run-up. For the seabed response under the regular waves, the validity of the model was verified from comparison with an analytical solution. For the seabed response under the tsunami-induced local scouring, numerical results showed that the model had sufficient computational capability to simulate the seabed response during the onset of the local scouring, and suggested that the model is a useful tool for analyzing and evaluating a general complex fluid-sediment-seabed interaction phenomenon in a marine environment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7920</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.85</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.85</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7920/pdf_935</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

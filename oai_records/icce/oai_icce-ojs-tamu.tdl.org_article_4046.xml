@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4046</identifier>
+				<datestamp>2021-01-19T20:14:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL STUDY ON KINEMATICS AND DYNAMICS OF WAVE BREAKING</dc:title>
+	<dc:creator xml:lang="en">Mizuguchi, Masaru</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:subject xml:lang="en">wave dynamics</dc:subject>
+	<dc:subject xml:lang="en">experimental study</dc:subject>
+	<dc:description xml:lang="en">Wave breaking on a slope is one of the most important problems for the coastal engineers to be investigated. However wave breaking is a complex phenomenon which is not yet fully understood, in spite of the fact that many researches have been devoted to that subject. It is well known that waves break in different forms: spilling, plunging and surging. Untill now no theoretical explanation is given for the classification of the breaking pattern. Recently numerical simulation of wave breaking with full nonlinear governing equations based on the irrotational assumption have been developed ( Longuet-Higgins &amp; Cokelet, 1976 and so on). The simulation results show that the spilling breaker exhibit a small scale plunging jet as Miller (1976) observed in a laboratory experiment. Most of the research works on the wave breaking are based on the laboratory experiments, in particular visual observation. Basco(1985) is the latest one on this line. Description of wave breaking based on visual observations provide limited information. Hedge &amp; Kirkg8z(1981) report an experimental work in which the photographic approach was supplemented by the velocity measurement by Laser- Doppler Velocimeter. They found that the water particle velocity at the crest is smaller than the wave crest propagation velocity especially on steep slope beaches, and suggest that the plunging jet is not necessary formed at the crest, it is normally accepted that the flow field is irrotational before waves break. Therefore generation of vorticity as well as turbulence can be considered as eminent features of the wave breaking. Few studies are reported where velocity are measured in a fine grid of points so that the vorticity can be evaluated (Okayasu et al., 1986). There are several papers which pay an attention mainly on the structure of turbulence induced by wave breaking (Peregrine &amp; Svendsen, 1978, Stive, 1980 and so on.) Our aims are to provide a set of experimental data of a wave breaking of plunging type on a slope, in which the velocity field is measured in detail with high accuracy, and to discuss the kinematics and dynamics based on the data set, especially from the inception of breaking through the plunging process. In view of the initiation of wave breaking, forming of the plunging jet or overturning may be essential. Peregrine (1983) gives a comprehensive study of the fluid dynamics of the wave breaking, in which some possiblities of the plunging process are discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4046</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4046/3728</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

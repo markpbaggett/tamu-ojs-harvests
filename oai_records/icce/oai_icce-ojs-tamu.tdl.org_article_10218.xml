@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10218</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DO WE NEED PRE-STORM SURVEYED BATHYMETRY FOR OPERATIONAL EROSION FORECASTING? EVALUATION OF REPRESENTATIVE AND SYNTHETIC BATHYMETRY ALTERNATIVES</dc:title>
+	<dc:creator xml:lang="en">Matheen, Nashwan</dc:creator>
+	<dc:creator xml:lang="en">Harley, Mitchell D.</dc:creator>
+	<dc:creator xml:lang="en">L.Turner, Ian</dc:creator>
+	<dc:creator xml:lang="en">Simmons, Joshua A.</dc:creator>
+	<dc:creator xml:lang="en">Thran,  Mandi</dc:creator>
+	<dc:description xml:lang="en">Immediate pre-storm bathymetry is a key input required for numerical models used in coastal hazard Early Warning Systems. However, the expense and challenging nature of hydrographic surveying means that the availability of high-quality data is extremely rare. This study evaluates the extent to which synthetic and representative bathymetry alternatives can be used to obtain reliable predictions of storm induced sub-aerial erosion using the XBeach coastal erosion numerical model. Multiple storm events at 2 contrasting sites are modelled using 6 bathymetry scenarios including pre-storm surveyed bathymetries, an average bathymetry, and Dean profiles. The output is analysed to evaluate the skill of XBeach erosion predictions as a function of the bathymetry used.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/bE3aXVXxZqQ</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10218</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10218/9504</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Nashwan Matheen, Mitchell D. Harley, Ian L.Turner, Joshua A. Simmons,  Mandi Thran</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

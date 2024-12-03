@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7269</identifier>
+				<datestamp>2021-01-19T04:58:41Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MORPHODYNAMIC UPSCALING WITH THE MORFAC APPROACH IN TIDAL CONDITIONS: THE CRITICAL MORFAC</dc:title>
+	<dc:creator xml:lang="en">Reyns, Johan</dc:creator>
+	<dc:creator xml:lang="en">Dastgheib, Ali</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanaka</dc:creator>
+	<dc:creator xml:lang="en">Luijendijk, Arjen</dc:creator>
+	<dc:creator xml:lang="en">Walstra, Dirk-Jan</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:subject xml:lang="en">morphodynamic modelling</dc:subject>
+	<dc:subject xml:lang="en">MORFAC</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:subject xml:lang="en">long term coastal evolution</dc:subject>
+	<dc:description xml:lang="en">A hampering factor in the application of morphodynamic models is the potential excessive time needed to complete a simulation. One way to upscale a model run is the use of a morphological factor, or MORFAC. In this paper, we investigate the upper limit to the value of the MORFAC as a function of model geometry and timestep for a schematized case of tidal flow, and we suggest a way to make a conservative estimate of this value using a morphology-based CFL condition.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7269</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7269/pdf_702</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

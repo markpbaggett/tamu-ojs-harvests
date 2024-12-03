@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13066</identifier>
+				<datestamp>2023-10-03T03:00:02Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF STORM SURGE CHARACTERISTICS BASED ON TYPHOON PROPERTIES</dc:title>
+	<dc:creator xml:lang="en">Yang, Jung-A</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">A storm surge is an abnormal sea level rise caused by low pressure and strong winds. About two-thirds of the world’s population live in coastal areas with high risk natural disasters, and among them, coastal flooding caused by storm surges caused the highest number of deaths. In particular countries located in the Northwest Pacific suffer various damages from storm surge every year due to the effects of typhoons that accompany low pressure and storm winds at the same time, and Korea is no exception. So an analysis of the characteristics of storm is important tasks in disaster mitigation in coastal areas. Two approaches are commonly used for storm surge studies: dynamical method and statistical method. The dynamical approach uses a numerical model, which has the advantage of being able to reproduce the complex physical processes of the ocean and simulating the propagation and influence of storm surges, and the disadvantage of being expensive and time-consuming for modeling. On the other hand, the statistical approach using a statistical model is reasonable in cost and time for modeling, but it is greatly affected by the reliability of the input data and has the disadvantage that it is suitable only for a specific single point.         </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13066</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.108</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.108</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13066/12339</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jung-A Yang, Nobuhito Mori</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

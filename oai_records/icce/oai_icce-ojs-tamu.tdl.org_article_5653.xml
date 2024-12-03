@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5653</identifier>
+				<datestamp>2021-01-19T11:09:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL ANALYSIS OF WAVE BREAKING DUE TO SUBMERGED BREAKEWATER IN THREE-DIMENSIONAL WAVE FIELD</dc:title>
+	<dc:creator xml:lang="en">Kawasaki, Koji</dc:creator>
+	<dc:creator xml:lang="en">Iwata, Koichiro</dc:creator>
+	<dc:subject xml:lang="en">wave field</dc:subject>
+	<dc:subject xml:lang="en">3D field</dc:subject>
+	<dc:subject xml:lang="en">numerical analysis</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">submerged breakwater</dc:subject>
+	<dc:description xml:lang="en">The wave breaking and post-breaking wave deformation due to a submerged breakwater in a three-dimensional wave field have been investigated numerically and experimentally in this study. The calculated and measured results have revealed that the breaking limit and the breaker types are almost independent of the relative structure length WjLi (0.5 &lt; W/Lt &lt; 2.5), and that the horizontal and vertical circulation flows are formed around the submerged breakwater. It is also found that the wave breaking in three-dimensional wave field is affected strongly by the wave refraction, different from the twodimensional case. The numerical calculation method based on a SOLA-VOF method has been developed and has reproduced well laboratory experiments in case of a weak breaker such as the Spilling breaker.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5653</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5653/5323</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

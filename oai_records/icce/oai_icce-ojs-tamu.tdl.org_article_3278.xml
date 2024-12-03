@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3278</identifier>
+				<datestamp>2021-01-20T00:36:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTATIONS OF SHORT WAVES IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Abbott, M.B.</dc:creator>
+	<dc:creator xml:lang="en">Petersen, H.M.</dc:creator>
+	<dc:creator xml:lang="en">Skovgaard, O.</dc:creator>
+	<dc:subject xml:lang="en">short waves</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">wave computation</dc:subject>
+	<dc:description xml:lang="en">The simulation of short wave propagation, including refraction, diffraction, partial reflection and all other such features, is made possible by a new version of the System 21, Jupiter. The System generated models can describe any bathymetry and topography with any time-varying mean flow, correctly accounting for wave and current interactions, wave-thrusts or radiation stresses, longshore currents and other "second order" effects. The models work with irregular waves just as well as with regular waves. Radiation boundary modules are also provided so that models can be cut-out in any desired region and new features introduced without invalidating the field-study-determined boundary data. As models are system-generated, they can be constructed and run in a few hours, starting from charts, a lay-out of the proposed engineering works and the available boundary data. The development and testing of the System is briefly described, followed by an account of its applications in coastal engineering practice.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3278</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3278/2942</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

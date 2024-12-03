@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2594</identifier>
+				<datestamp>2021-01-17T04:12:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPREHENSIVE TIDAL STUDY OF THE ST. LAWRENCE RIVER</dc:title>
+	<dc:creator xml:lang="en">Ploeg, J.</dc:creator>
+	<dc:creator xml:lang="en">Kamphuis, J.W.</dc:creator>
+	<dc:subject xml:lang="en">tidal study</dc:subject>
+	<dc:subject xml:lang="en">St. Lawrence River</dc:subject>
+	<dc:description xml:lang="en">The St. Lawrence River is a major waterway connecting the Port of Montreal to the Atlantic Ocean. As is the case with so many natural rivers, extensive dredging has been necessary to provide adequate navigation conditions. About 100 years ago the Ship Channel of the St. Lawrence River was at several places only 10 ft deep and 150 ft wide; presently it has a minimum depth of 35 ft and a minimum width of 800 ft. However, further improvements are necessary, to meet present and future navigation requirements . The Hydraulics Section of the National Research Council is studying improvement schemes by means of a hydraulic and a mathematical model of the St. Lawrence River from Montreal to Father Point, a distance of about 350 miles. The hydraulic model has been built to a horizontal scale of 1:2000 and a vertical scale of 1-120. The mathematical study uses a finite-difference approach, employing both explicit and implicit computational schemes. This paper describes the two studies and deals briefly with the merits of operating a mathematical and hydraulic model simultaneously.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2594</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2594/2259</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

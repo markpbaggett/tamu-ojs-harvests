@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7112</identifier>
+				<datestamp>2021-01-19T05:18:21Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF ELONGATION OF SAND SPIT ON SEABED WITH DIFFERENT WATER DEPTHS AND SLOPES</dc:title>
+	<dc:creator xml:lang="en">San-nami, Toshiro</dc:creator>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Serizawa, Masumi</dc:creator>
+	<dc:creator xml:lang="en">Miyahara, Shiho</dc:creator>
+	<dc:subject xml:lang="en">Sand spit</dc:subject>
+	<dc:subject xml:lang="en">barrier</dc:subject>
+	<dc:subject xml:lang="en">beach changes</dc:subject>
+	<dc:subject xml:lang="en">BG model</dc:subject>
+	<dc:subject xml:lang="en">predictive model</dc:subject>
+	<dc:description xml:lang="en">The elongation of a sand spit on a seabed with different water depths and slopes was numerically simulated using the BG model (a three-dimensional model for predicting beach changes based on Bagnold's concept). The examples of sand spits and a pond enclosed by a barrier were examined first using aerial photographs and bathymetric survey maps. The formation of a sand spit and a barrier was predicted using the BG model under the conditions that the water depths where a sand spit is formed were changed to 5, 10, 15, and 20 cm in a model scale of 1/100, and that the seabed slopes were changed to 1/50, 1/40, 1/30, and 1/20. The difference in the form of a sand spit and a barrier formed under these conditions was explained and compared with the natural sand spits and a barrier.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7112</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7112/pdf_415</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

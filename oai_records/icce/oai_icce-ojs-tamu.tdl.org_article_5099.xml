@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5099</identifier>
+				<datestamp>2021-01-19T14:13:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF FLOW OVER RIPPLES USING SOLA METHOD</dc:title>
+	<dc:creator xml:lang="en">Kim, Hyoscob</dc:creator>
+	<dc:creator xml:lang="en">O'Connor, Brian A.</dc:creator>
+	<dc:creator xml:lang="en">Shim, Youngbo</dc:creator>
+	<dc:subject xml:lang="en">ripples</dc:subject>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:subject xml:lang="en">Sola method</dc:subject>
+	<dc:description xml:lang="en">In order to simulate flow over ripples more accurately than existing approaches, a modified MAC scheme (called SOLA) proposed by Hirt et al.(1975) was adopted in the present study. Primitive equations composed of velocities and pressure were directly solved instead of the usual vorticity and velocity potential function. The governing equations were the Reynolds momentum equations in the x and z directions and the water continuity equation. The driving force was assumed to be the acceleration of the wave orbital movement just above the wave boundary layer. A mixing length hypothesis was adopted to describe the time-and-space varying turbulent eddy viscosity and the shear stress. An explicit difference method was used to solve the equations on a regular grid. The model showed good result when applied to Sato's(1987) laboratory data. The model was applied to a series of ripple tests, using similar hydraulic conditions to Sato, to study the effect of bed ripple steepness and asymmetry. Only a small effect was found on vortex movement and flow characteristics, although a clear offshore vortex movement was found.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5099</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5099/4777</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

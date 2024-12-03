@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4748</identifier>
+				<datestamp>2021-01-19T16:14:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILISTIC STRUCTURE OF RANDOM WAVE GROUPS</dc:title>
+	<dc:creator xml:lang="en">Yu, Ke</dc:creator>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">probabilistic structure</dc:subject>
+	<dc:description xml:lang="en">This paper deals with the statistical properties of wave groups in a stationary ergodic normal process. For a narrowband Gaussian process, a method based on Kimura's theory is developed to estimate the characteristics of wave groups directly from the wave spectrum. For a non-narrowband Gaussian process with an arbitrary bandwidth, a new model is established to predict the formation of the wave groups by means of zero-upcrossing method. Thus the probabilistic structure of the wave groups in a Gaussian process with an arbitrary bandwidth can be determined. Using this model, the mean run length of the wave groups above any amplitude and the probability distribution of run length at any level can be obtained. On the other hand, a representative wave period of the wave group is suggested to describe the time intervals between two successive maxima. The computational data shows that the bandwidth parameter has a significant effect on the statistical properties of wave groups.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4748</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4748/4429</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

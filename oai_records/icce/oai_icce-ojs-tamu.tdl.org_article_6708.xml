@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6708</identifier>
+				<datestamp>2023-10-04T02:43:09Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GIS-BASED ANALYSIS OF STORM VULNERABILITY CHANGE AT PEA ISLAND, NC</dc:title>
+	<dc:creator xml:lang="en">Hardin, Eric</dc:creator>
+	<dc:creator xml:lang="en">Mitasova, Helena</dc:creator>
+	<dc:creator xml:lang="en">Overton, Margery</dc:creator>
+	<dc:subject xml:lang="en">automated feature extraction</dc:subject>
+	<dc:subject xml:lang="en">LiDAR</dc:subject>
+	<dc:subject xml:lang="en">GRASS GIS</dc:subject>
+	<dc:subject xml:lang="en">coastal dunes</dc:subject>
+	<dc:subject xml:lang="en">barrier islands</dc:subject>
+	<dc:description xml:lang="en">In August 2011, Hurricane Irene opened multiple small breaches along the Outer Banks of North Carolina, USA. To predict storm damage to barrier islands, the United States Geological Survey (USGS) has developed the storm impact scale for barrier islands, which assesses vulnerability based on the configuration of the pre-storm terrain relative to storm characteristics. We present the vulnerability of Pea Island to Hurricane Isabel (2003) and Irene (2011) using an efficient GIS-based implementation of the storm impact scale. This implementation employs a least cost path approach to automated topographic feature extraction and a remote sensing approach to wrack line extraction for storm parameter estimation. The assessed vulnerability along with high-resolution topographic visualizations based on a decadal time-series of Light Detection and Ranging (LiDAR) data suggest that the location of the breach formation was a function of the pre-storm terrain. With the presented methodology, the geospatial information required to identify vulnerable areas can efficiently be extracted so that management strategies can be implemented before storm damage occurs.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6708</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6708/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

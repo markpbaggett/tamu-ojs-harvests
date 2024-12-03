@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6981</identifier>
+				<datestamp>2023-10-04T02:24:20Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT AND FIELD VALIDATION OF A 2DH CURVILINEAR STORM IMPACT MODEL</dc:title>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Stelling, Guus</dc:creator>
+	<dc:creator xml:lang="en">Hoonhout, Bas</dc:creator>
+	<dc:creator xml:lang="en">Risandi, Johan</dc:creator>
+	<dc:creator xml:lang="en">Jacobs, Walter</dc:creator>
+	<dc:creator xml:lang="en">Merli, Davide</dc:creator>
+	<dc:subject xml:lang="en">storm impact</dc:subject>
+	<dc:subject xml:lang="en">morphological model</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">Maasvlakte-2</dc:subject>
+	<dc:subject xml:lang="en">dune erosion</dc:subject>
+	<dc:subject xml:lang="en">overwashing</dc:subject>
+	<dc:description xml:lang="en">The formulations of the 2DH process-based, nearshore morphological model XBeach were extended to allow for curvilinear grids using a finite volume approach. The formulations were tested for schematic cases such as a circular island and a field validation study was carried out for the case of storm erosion during a construction phase of the soft sea defense of the Maasvlakte-2 extension of Rotterdam port. It was found that the 2D curvilinear version performs significantly better than individual 1D runs. The overall skill of the 2D model for this case can be classified as 'reasonable' while the prediction of the erosion can be classified as 'good'.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6981</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.120</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.120</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6981/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

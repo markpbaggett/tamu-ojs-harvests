@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6729</identifier>
+				<datestamp>2023-10-04T02:58:28Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOWARDS A PROBABILISTIC FLOOD BASE MODEL FOR CARIBBEAN COASTS</dc:title>
+	<dc:creator xml:lang="en">Subrath-Ali, Carol</dc:creator>
+	<dc:creator xml:lang="en">Villarroel-Lamb, Deborah</dc:creator>
+	<dc:creator xml:lang="en">Kelman, Ilan</dc:creator>
+	<dc:subject xml:lang="en">coastal setup</dc:subject>
+	<dc:subject xml:lang="en">probability distributions</dc:subject>
+	<dc:description xml:lang="en">An estimate of the total water level setup at the coast is examined at a monthly resolution to assess the base combined contribution from wind, wave and pressure setup in the absence of cyclonic activity. A stochastic approach is used to estimate the total values of water level setup from the three parameters and the results indicate that while the total coastal water level setup closely follows the wave setup due to a difference of an order of magnitude of two with the wind and pressure setup from the inverse barometer effect, the latter two parameters have a greater impact during the first seven months of the year - the dry season with an approximate two month overlap into the rainy season. Using the generated moments from monthly combined probability density functions, we show that the average coastal setup from the three driving forces show a general decreasing trend from the highest coastal setup months of December, January and February.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6729</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6729/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

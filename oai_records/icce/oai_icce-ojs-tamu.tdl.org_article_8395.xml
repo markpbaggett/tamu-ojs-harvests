@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8395</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF SMOOTHED PARTICLE HYDRODYNAMICS IN EVALUATING THE PERFORMANCE OF COASTAL RETROFIT STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Abolfathi, Soroush</dc:creator>
+	<dc:creator xml:lang="en">Shudi, Dong</dc:creator>
+	<dc:creator xml:lang="en">Borzooei, Sina</dc:creator>
+	<dc:creator xml:lang="en">Yeganeh-Bakhtiari, Abbas</dc:creator>
+	<dc:creator xml:lang="en">Pearson, Jonathan</dc:creator>
+	<dc:description xml:lang="en">This study develops an accurate numerical tool for investigating optimal retrofit configurations in order to minimize wave overtopping from a vertical seawall due to extreme climatic events and under changing climate. A weakly compressible smoothed particle hydrodynamics (WCSPH) model is developed to simulate the wave-structure interactions for coastal retrofit structures in front of a vertical seawall. A range of possible physical configurations of coastal retrofits including re-curve wall and submerged breakwater are modelled with the numerical model to understand their performance under different wave and structural conditions. The numerical model is successfully validated against laboratory data collected in 2D wave flume at Warwick Water Laboratory. The findings of numerical modelling are in good agreement with the laboratory data. The results indicate that recurve wall is more effective in mitigating wave overtopping and provides more resilience to coastal flooding in comparison to base-case (plain vertical wall) and submerged breakwater retrofit.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8395</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.109</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.109</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8395/7203</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

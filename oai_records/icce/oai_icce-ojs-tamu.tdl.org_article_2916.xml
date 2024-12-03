@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2916</identifier>
+				<datestamp>2021-01-20T02:46:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF INCIDENT WAVE HEIGHT IN COMPOSITE WAVE TRAINS</dc:title>
+	<dc:creator xml:lang="en">Sandstrom, Ake</dc:creator>
+	<dc:subject xml:lang="en">wave height</dc:subject>
+	<dc:subject xml:lang="en">incident wave</dc:subject>
+	<dc:subject xml:lang="en">wave train</dc:subject>
+	<dc:subject xml:lang="en">composite wave train</dc:subject>
+	<dc:description xml:lang="en">A method is proposed for measurement of the incident wave height in a composite wave train. The composite wave train is assumed to consist of a superposition of regular incident and reflected waves with the same wave period. An approximate value of the incident wave height is obtained as the arithmetic mean of the wave heights measured "by two gauges separated a quarter of a wave length. The accuracy of the method in relation to the location of the gauges and the wave parameters is investigated using linear and second order wave theory. Results of the calculations are presented in diagrams.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2916</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2916/2581</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

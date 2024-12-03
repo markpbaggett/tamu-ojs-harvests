@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6534</identifier>
+				<datestamp>2023-10-04T03:23:40Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF DEVELOPMENT OF SAND SPITS AND CUSPATE FORELANDS WITH RHYTHMIC SHAPES CAUSED BY SHORELINE INSTABILITY USING BG MODEL</dc:title>
+	<dc:creator xml:lang="en">Serizawa, Masumi</dc:creator>
+	<dc:creator xml:lang="en">Uda, Takaaki</dc:creator>
+	<dc:creator xml:lang="en">Miyahara, Shiho</dc:creator>
+	<dc:subject xml:lang="en">shoreline instability</dc:subject>
+	<dc:subject xml:lang="en">beach changes</dc:subject>
+	<dc:subject xml:lang="en">sand spits</dc:subject>
+	<dc:subject xml:lang="en">cuspate forelands</dc:subject>
+	<dc:subject xml:lang="en">BG model</dc:subject>
+	<dc:subject xml:lang="en">wave-sheltering effect</dc:subject>
+	<dc:subject xml:lang="en">self organization</dc:subject>
+	<dc:description xml:lang="en">The BG model (a three-dimensional model for predicting beach changes based on Bagnold's concept) was used to simulate the shoreline evolution caused by the high-angle wave instability discussed by Ashton et al. Three calculations were carried out: the wave direction was assumed to be obliquely incident from 60Ëš counterclockwise (Case 1) or from the directions of ±60Ëš with probabilities of 0.5:0.5 (Case 2) and 0.65:0.35 (Case 3), while determining the incident wave direction from the probability distribution at each step. The three-dimensional development of multiple sand spits and cuspate forelands with rhythmic shapes was successfully explained using the BG model. The results of the previous study conducted by Ashton et al. were reconfirmed and reinforced.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6534</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6534/pdf_534</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6534/7738</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6534/7739</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6534/7740</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

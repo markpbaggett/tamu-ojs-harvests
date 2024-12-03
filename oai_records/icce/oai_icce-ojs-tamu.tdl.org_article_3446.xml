@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3446</identifier>
+				<datestamp>2021-01-19T23:44:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VISUALLY OBSERVED WAVE DATA AT PT. MUGU, CALIF.</dc:title>
+	<dc:creator xml:lang="en">Weggel, J. Richard</dc:creator>
+	<dc:creator xml:lang="en">Schneider, Christine</dc:creator>
+	<dc:subject xml:lang="en">visually observed data</dc:subject>
+	<dc:subject xml:lang="en">wave data</dc:subject>
+	<dc:subject xml:lang="en">Pt. Mucu</dc:subject>
+	<dc:description xml:lang="en">A Littoral Environment Observation (LEO) Program was established along the West Coast of the United States in 1968. This program provides for visual observations of waves and surf conditions to be made systematically on a daily basis. The data addressed in this report were collected at three LEO sites (as shown in Figure 1) at Pt. Mugu California, located 50 miles northwest of Los Angeles. In order to evaluate the reliability of wave heights and periods collected using the LEO techniques, comparisons of visual observations and measured wave gage records were made. The study revealed that individual visual observations of breaker height can deviate significantly from measured wave heights even when the gage wave heights had been corrected for shoaling effects. On the average the LEO observations gave a fair estimate of prevailing wave heights. LEO estimates of wave period tended to overpredict the period of maximum energy density. It is presumed that this occurred because observers often fail to count smaller waves when making this measurement. Statistics of the gage measurements of wave height and LEO wave heights are reasonably close.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3446</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3446/3126</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

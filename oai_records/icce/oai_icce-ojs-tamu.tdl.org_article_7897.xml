@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7897</identifier>
+				<datestamp>2021-01-20T03:35:52Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI RUN UP IN COASTAL AREAS: A METHODOLOGY TO CALCULATE RUN UP IN LARGE SCALE AREAS</dc:title>
+	<dc:creator xml:lang="en">Gutiérrez, Omar Quetzalcóatl</dc:creator>
+	<dc:creator xml:lang="en">Aniel-Quiroga, Iñigo</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Mauricio</dc:creator>
+	<dc:creator xml:lang="en">Guillou, Louise</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">run-up</dc:subject>
+	<dc:subject xml:lang="en">COMCOT</dc:subject>
+	<dc:subject xml:lang="en">model coupling</dc:subject>
+	<dc:description xml:lang="en">Although Tsunamis are a relatively infrequent phenomena represent a larger threat than earthquakes, hurricanes, and tornados and have caused more than 420,000 casualties since 1850. Recent advances in the understanding and forecasting of Tsunami impacts allow the development of adaptation and mitigation strategies to reduce the risk on coastal areas. In this paper it is presented a methodology to obtain reliable numerical results of tsunami run-up. This new methodology is based on the parameterization of both bathymetry and tsunami waves. The bathymetric profile of the coastal shelf presents a very large range of geometric variability along the world coasts. Therefore, the present study proposes a parameterization of the world coastal profiles with five relevant geometric parameters, based on the observation of random samples of real bathymetric profiles in the world. On the other hand, the generation of the tsunami incident wave is proposed to be obtained by numerical simulation of faulting mechanisms, and it is parameterized by 2 variables: The period and the height of the tsunami. Then, a tsunami run-up database is obtained, based on the combinations of those seven parameters (5 for the geometry and 2 for the wave). In order to carry out the necessary numerical simulations to develop the run-up database it has been designed a numerical flume formed with the coupling of a 2DH model based on shallow water equations with a 2DV model based on RANS equations. Interpolation based on radial basic functions is proceed on the database in order to predict run-up values of given profiles.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7897</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7897/pdf_977</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

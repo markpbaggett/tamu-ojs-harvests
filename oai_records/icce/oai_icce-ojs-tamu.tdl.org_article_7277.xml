@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7277</identifier>
+				<datestamp>2021-01-19T04:57:09Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE MODELLING OF SWELL WAVE PENETRATION INTO TIDAL INLET SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Groeneweg, Jacco</dc:creator>
+	<dc:creator xml:lang="en">van Nieuwkoop, Joana</dc:creator>
+	<dc:creator xml:lang="en">Toledo, Yaron</dc:creator>
+	<dc:subject xml:lang="en">wave modeling</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave interactions</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq-type wave model</dc:subject>
+	<dc:subject xml:lang="en">TRITON.</dc:subject>
+	<dc:description xml:lang="en">For the calculations of the Hydraulic Boundary Conditions in the framework of the Dutch Legal Flood Safety Assessment (WTI), wave statistics obtained at deeper water buoys need to be transformed to the toe of the dike using the wave action model SWAN. This transformation is particularly challenging in complex tidal inlet systems such as the Wadden Sea and the Western Scheldt in the Netherlands. Although various model improvements have been made in SWAN, particularly in the propagation and bottom friction dissipation, one of the unresolved issues is that the penetration of North Sea swell waves into the tidal inlets is still underestimated by SWAN. The goal of this study is to verify the hypothesis that nonlinear interactions, in particular the sub-harmonic triad interactions, play a major role in the transmission of energy from flats into the channel, and that this process can explain SWAN's under-prediction of wave energy penetration. Since SWAN or any other wave-action equation type models lacks the relevant physics to study this problem, the Boussinesq-type TRITON model is used as well to verify the hypothesis.
+The conceptual idea, raised by Toledo (2013), is that sub-harmonic wave interactions between second harmonic and basic components generate a wave component of the same frequency as the primary component but at a wider angle of approach. As a consequence, the energy density spectra become directionally broader. From a series of idealized cases with monochromatic and bi-chromatic waves propagating up and down a slope we conclude that the TRITON model results confirm the conceptual idea of 2D nonlinear interactions. Both sub-harmonic wave interactions (to lower frequencies) and super-harmonic wave interactions (to higher frequencies) prove to be important. These insights can be applied to the situation with waves propagating on a tidal flat towards a channel. In case the basic components approach the channel under a sharp angle, such that they will not be able to enter the channel due to refraction, the sub-harmonic components could approach the channel under a less sharp angle and enter the channel. In our study a clear difference between the TRITON and SWAN energy density spectra in and across the channel is observed, as the 2D nonlinear interactions cannot be modeled with the co-linear 1D approach in SWAN. 
+The hypothesis that nonlinear interactions play a major role in the transmission of energy from flats into the channel is confirmed, at least for the cases considered in this study. Additional investigations are still required in order to quantify and generalize the effect of nonlinear interactions on this transmission of energy. In addition, it is recommended to extend the presently implemented three-wave interaction formulation in SWAN to account for directional super- and sub-harmonic interactions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7277</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7277/pdf_707</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

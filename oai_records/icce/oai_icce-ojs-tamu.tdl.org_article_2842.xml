@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2842</identifier>
+				<datestamp>2021-01-20T03:13:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLUID FORCE ON ACCELERATING BODIES</dc:title>
+	<dc:creator xml:lang="en">Hamilton, Wallis S.</dc:creator>
+	<dc:subject xml:lang="en">fluid force</dc:subject>
+	<dc:subject xml:lang="en">acceleration</dc:subject>
+	<dc:subject xml:lang="en">accelerating body</dc:subject>
+	<dc:description xml:lang="en">The force exerted by a liquid on a moving body always depends on the preceding velocity and acceleration of the body. The Basset-Lai equation, derived from the linearized equation of motion, gives the force on spheroids when convective acceleration of the water particles may be ignored. Examples prove that the history integral it contains accounts for a large portion (even all) of the force. Measured forces on a cylinder anchored in accelerating water show that history is equally important when convective accelerations are large. An important unanswered question is whether history terms that will fit a range of motions can be invented for simple non-linear problems. For non-linear repetitive motion, such as the force exerted on piles by regular waves, no explicit history term is needed. The usual division of force into inertia and velocity portions is possibly less sound than a suggested alternative form from dimensional analysis. One cannot expect to unravel the hydrodynamics of irregular wave forces, but he may use similarity principles to predict their probability distribution from measurements made elsewhere. Irregular waves will be statistically similar, altho mean heights may differ greatly, if the probability distributions of suggested characteristics of the gage records are alike. Given similar waves and structures scaled to the waves, the probability distributions of dimensionless wave forces also will be alike, and the forces at one place can be predicted from measured forces at another.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2842</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2842/2506</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

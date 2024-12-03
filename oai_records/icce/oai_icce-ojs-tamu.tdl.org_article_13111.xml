@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13111</identifier>
+				<datestamp>2023-09-01T15:15:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROPAGATION OF CARGO SHIP WAKE INTO SECONDARY CHANNELS</dc:title>
+	<dc:creator xml:lang="en">Muscalus, Alexandra</dc:creator>
+	<dc:creator xml:lang="en">Haas, Kevin</dc:creator>
+	<dc:description xml:lang="en">Cargo ship wake can be a strong and frequent source of energy along shorelines in the vicinity of commercial shipping channels. Large vessels in narrow channels produce low-frequency wake that consists of a positive front wave at the bow of the vessel, a depression (drawdown) spanning the length of the vessel, and an upwards surge produced by the stern wave at the stern. This low-frequency wake is followed by high-frequency wedge-shaped Kelvin wake, as well as continued low-frequency oscillations that may persist in the channel more than 30 minutes after a vessel passage. Low-frequency cargo ship wake with wave heights up to 2.8 meters was identified as the dominant source of erosion at Bird/Long Islands in the Savannah River, Georgia, USA based on the analysis of one month of Aquadopp measurements that captured over 300 large vessel wake events. The islands divide the river into the Main Channel, which contains the shipping channel, and the South Channel, a shallow, sheltered secondary channel trafficked only by small craft. Cargo ship wake was the primary energy source in both channels. The dominance of cargo ship wake energy in the sheltered South Channel demonstrated that the effects of wake extend beyond the shipping channel shorelines. This finding motivated three follow-up studies to quantify the extent and significance of cargo ship wake in the far-field, secondary channels connected directly or indirectly to the shipping channel.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13111</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.153</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.153</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13111/12384</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Alexandra Muscalus, Kevin Haas</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

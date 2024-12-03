@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10382</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF EQUILIBRIUM SCOUR HOLES USING OPTIMIZATION PROCEDURES</dc:title>
+	<dc:creator xml:lang="en">Mandviwalla, Xerxes</dc:creator>
+	<dc:creator xml:lang="en">Qwist, Jesper Roland Kjaergaard</dc:creator>
+	<dc:creator xml:lang="en">Christensen, Erik Damgaard</dc:creator>
+	<dc:description xml:lang="en">This paper presents an optimization procedure that finds the equilibrium scour depth under a pipeline. Even though much knowledge on scour is available for the most typical marine structures such as a vertical circular monopile of a horizontal pipelines the calculation of the scour depth complex and time-consuming as the transient solution is often modelled as well. In this paper we present a optimization procedure that combined with a computational fluid dynamics, and a model of the bed load finds the equilibrium shape of a scour hole. This can potentially speed up the calculation of the shape of the equilibrium scour hole with a factor of 100. However, it comes with a coast as we will not model the transition and the time scale of the scour hole development.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/LpKq9Twj7zo</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10382</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10382/9668</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Xerxes Mandviwalla, Jesper Roland Kjaergaard Qwist, Erik Damgaard Christensen</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5232</identifier>
+				<datestamp>2021-01-19T13:29:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN EVALUATION OF TWO WAVE FORECAST MODELS FOR THE SOUTH AFRICAN REGION</dc:title>
+	<dc:creator xml:lang="en">Rossouw, M.</dc:creator>
+	<dc:creator xml:lang="en">Phelp, D.</dc:creator>
+	<dc:subject xml:lang="en">wave forecasting</dc:subject>
+	<dc:subject xml:lang="en">forecast model</dc:subject>
+	<dc:subject xml:lang="en">South Africa</dc:subject>
+	<dc:description xml:lang="en">The forecasting of wave conditions in the oceans off Southern Africa is important for both offshore and coastal marine operations in the area. The accuracy of wave forecasts for the area from models operated in Europe has, however, not been high. One of the main reasons is that the local measurement of waves has not been taken into account. Since the necessary infrastructure for operational wave forecasting is locally available in South Africa, a decision has been taken to establish a local facility whereby a numerical wave forecast model will be implemented. This paper focuses on the comparison of two operational wave forecast models in order to assist in the selection of an appropriate model for the South African region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5232</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5232/4909</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

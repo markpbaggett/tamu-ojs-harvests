@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2300</identifier>
+				<datestamp>2021-01-17T05:35:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WATER WAVE EQUIVALENT OF MACH-REFLECTION</dc:title>
+	<dc:creator xml:lang="en">Wiegel, R.L.</dc:creator>
+	<dc:subject xml:lang="en">Mach reflection</dc:subject>
+	<dc:subject xml:lang="en">Mach-stem</dc:subject>
+	<dc:subject xml:lang="en">Hilo</dc:subject>
+	<dc:subject xml:lang="en">Hawaii</dc:subject>
+	<dc:description xml:lang="en">Periodic (shallow water and transitional water) and solitary water gravity waves do not reflect from a wall in the manner commonly supposed, when the angle between the direction of wave advance and the wall is less than about 5? to 45 degrees. The wave front bends near the wall, becoming normal to the wall, with a small reflected wave. For angles less than about 20 degrees the reflected wave becomes almost negligible. The portion of the wave near the wall (called the Mach-stem in air blast waves) increases in height as the wave continues to move along the wall. Once the Mach-stem is formed, it will continue to grow even when the wall is bent around through almost 90 degrees; for periodic waves a Machreflected wave also develops. The Mach-stem is insensitive to undulation, of the wall. Results of studies of this phenomenon in the laboratory are presented, together with some observation of its occurrence in the ocean. The importance of this phenomenon to the study of tsunami action at Hilo, Hawaii, is presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1964-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2300</dc:identifier>
+	<dc:identifier>10.9753/icce.v9.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 9 (1964): Proceedings of 9th Conference on Coastal Engineering, Lisbon, Portugal, 1964.; 6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2300/1991</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

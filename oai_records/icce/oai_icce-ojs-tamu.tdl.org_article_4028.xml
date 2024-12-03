@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4028</identifier>
+				<datestamp>2021-01-19T20:20:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND SPECIFICATION FOR SPECTRAL OCEAN-WAVE MODELS</dc:title>
+	<dc:creator xml:lang="en">Khandekar, M.L.</dc:creator>
+	<dc:creator xml:lang="en">Eid, B.M.</dc:creator>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">wave spectrum</dc:subject>
+	<dc:description xml:lang="en">This paper investigates the utility of winds obtainable from a numerical weather prediction model for driving a spectral ocean-wave model in an operational mode. Wind inputs for two operational spectral wave models were analyzed with respect to observed winds at three locations in the Canadian east coast offshore. Also, significant wave heights obtainable from the two spectral models were evaluated against measured wave data at these locations. Based on this analysis, the importance of appropriate wind specification for operational wave analysis and forecasting is demonstrated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4028</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4028/3711</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

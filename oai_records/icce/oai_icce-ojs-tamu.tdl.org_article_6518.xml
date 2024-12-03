@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6518</identifier>
+				<datestamp>2023-10-04T03:24:36Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL STUDY OF TURBULENT OSCILLATORY BOUNDARY LAYERS IN A NEW OSCILLATORY WATER TUNNEL</dc:title>
+	<dc:creator xml:lang="en">Yuan, Jing</dc:creator>
+	<dc:creator xml:lang="en">Madsen, Ole</dc:creator>
+	<dc:creator xml:lang="en">Chan, Eng Soon</dc:creator>
+	<dc:subject xml:lang="en">Oscillatory water tunnel</dc:subject>
+	<dc:subject xml:lang="en">turbulent wave and wave-current boundary layers</dc:subject>
+	<dc:subject xml:lang="en">logarithmic profile</dc:subject>
+	<dc:description xml:lang="en">A new oscillatory water tunnel has been built in the Civil and Environmental Engineering Department's Hydraulic Laboratory at the National University of Singapore. It can accurately produce oscillatory flows that correspond to full-scale sea waves. Tests including pure sinusoidal waves and combined wave-current flows over smooth and rough bottoms have been performed. High quality measurements of the boundary layer flow fields are obtained using a PIV system. The PIV measured flow field is phase and spatially averaged to give a mean vertical velocity profile. It is found that the logarithmic profile can accurately approximate the near-bottom first-harmonic amplitude of sinusoidal waves and give highly accurate determinations of the hydrodynamic roughness and the theoretical bottom location. The bottom shear stress obtained from momentum integral is in general agreement with results from log-profile fitting. The current profiles of combined wave-current flows indicate a two-log-profile structure as suggested by simple combined wave-current flow theory. The difference between the two current shear velocities obtained from combined wave-current flows, as well as a small but meaningful third harmonic embedded in a pure sinusoidal wave, suggest the existence of a time-varying turbulent eddy viscosity.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6518</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6518/pdf_528</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

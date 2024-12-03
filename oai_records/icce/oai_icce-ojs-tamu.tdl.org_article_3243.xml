@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3243</identifier>
+				<datestamp>2021-01-20T00:49:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL VERIFICATION FOR TIDAL CONSTITUENTS</dc:title>
+	<dc:creator xml:lang="en">Whalin, R.W.</dc:creator>
+	<dc:creator xml:lang="en">Perry, F.C.</dc:creator>
+	<dc:creator xml:lang="en">Durham, D.L.</dc:creator>
+	<dc:subject xml:lang="en">model verification</dc:subject>
+	<dc:subject xml:lang="en">tidal constituents</dc:subject>
+	<dc:description xml:lang="en">Installation and operation of an automated model data acquisition and control system have made it possible to make a quantum advance in the accuracy and time required for verification of tidal inlet (or estuary) hydraulic models. The flexible sampling rate (usually about 200 samples per model tidal cycle for each gage) and digital recording of these data make them ideal for harmonic analysis and comparison with prototype data defining the coefficients and phase for each tidal constituent at various key locations within the tidal lagoon and at an open-ocean station removed from the immediate influence of the tidal inlet. The concept used is to force the model with the M2 tidal constituent with the amplitude being correct at the ocean tide gage. A harmonic analysis is performed at all other gage locations corresponding to the prototype measurements, and the amplitude and phase (relative to the ocean tide gage) are calculated and compared with the prototype data. Investigation of the relative phases between various gages quickly shows those areas where either more or less model roughness is required. It is reasonable to expect to be able to have all phases for the M2 constituent verified within 1 degree. Tidal elevations can almost always be expected to be verified to within a maximum deviation of ;+0.1 ft in both tidal height and mean tide level. Upon verification of the M2 constituent, which practically insures that the proper channel roughness is obtained, a progressive tide can be constructed; and it should be attempted to perform a verification for a 14.765-day (synoptic period for M2 and S2 components) progressive tide at east coast locations using the prototype measurements of tidal velocities for the final verification data. Should additional roughness be necessary, it will almost always be on the mud flats or marsh areas. Computations are made to illustrate the energy transfer from the M2 constituent to higher order harmonics as the wave propagates from the ocean to the back of the estuary, and it is shown that this energy transfer is, at worst, the same order of magnitude in both the model and prototype.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3243</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.193</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 193</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3243/2907</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

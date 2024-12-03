@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5596</identifier>
+				<datestamp>2021-01-19T11:27:06Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENERGY DISSIPATION MODEL FOR IRREGULAR BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Rattanapitikon, Winyu</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">dissipation</dc:subject>
+	<dc:subject xml:lang="en">dissipation model</dc:subject>
+	<dc:description xml:lang="en">A simple model is presented to compute the average rate of energy dissipation in irregular breaking waves. The average rate of energy dissipation rate is assumed to be proportional to the difference between the local mean energy flux and stable energy flux. The local fraction of breaking waves is determine from the derivation of Battjes and Janssen (1978). Root mean square wave height deformation is computed from the energy flux conservation. The model is validated using root mean square wave height data from small and large scale laboratory and field experiments. Total 144 wave height profiles are used in the calibration and verification of the model. Reasonable good agreement is obtained between the measured and computed root mean square wave heights. The root mean square relative error of the model is 10.2 %.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5596</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5596/5269</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

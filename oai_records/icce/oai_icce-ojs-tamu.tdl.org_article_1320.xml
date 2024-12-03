@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1320</identifier>
+				<datestamp>2023-10-04T03:51:32Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEW PRACTICAL MODEL FOR SAND TRANSPORT INDUCED BY NON-BREAKING WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">van der A, Dominic Alexander</dc:creator>
+	<dc:creator xml:lang="en">Ribberink, Jan S</dc:creator>
+	<dc:creator xml:lang="en">van der Werf, Jebbe J</dc:creator>
+	<dc:creator xml:lang="en">O'Donoghue, Tom</dc:creator>
+	<dc:subject xml:lang="en">sediment transport formula</dc:subject>
+	<dc:subject xml:lang="en">sheet flow</dc:subject>
+	<dc:subject xml:lang="en">ripples</dc:subject>
+	<dc:subject xml:lang="en">oscillatory flow</dc:subject>
+	<dc:subject xml:lang="en">non-breaking waves</dc:subject>
+	<dc:description xml:lang="en">Many existing practical sand transport formulae for the coastal marine environment are restricted to limited ranges of hydrodynamic and sediment conditions. This paper presents a new practical formula for net sand transport induced by non-breaking waves and currents, and currents alone. The formula is based on the semi-unsteady, half wave-cycle concept, with bed shear stress as the main forcing parameter. Unsteady phase-lag effects between velocities and concentrations are accounted for, which are especially important for rippled bed and fine sand sheet-flow conditions. Recently recognized effects on the net transport related to flow acceleration skewness and progressive surface waves are also included. The formula is calibrated against a large dataset of net transport rate measurements from oscillatory flow tunnels and a large wave flume covering a wide range of flow and sand conditions. Good agreement is obtained between observations and predictions, and its validity is shown for bedload dominated steady flow conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1320</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1320/pdf_320</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

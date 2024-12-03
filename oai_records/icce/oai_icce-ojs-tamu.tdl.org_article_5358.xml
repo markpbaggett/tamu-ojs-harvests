@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5358</identifier>
+				<datestamp>2021-01-19T12:47:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOE STABILITY OF RUBBLE MOUND BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">van der Meulen, Ton</dc:creator>
+	<dc:creator xml:lang="en">Schiereck, Gerrit J.</dc:creator>
+	<dc:creator xml:lang="en">d'Angremond, Kees</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">rubble mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater stability</dc:subject>
+	<dc:subject xml:lang="en">toe stability</dc:subject>
+	<dc:description xml:lang="en">At the Congress on Coastal Structures and Breakwaters, a stability relation for toe structures of rubble mound breakwaters was presented, see Van der Meer et al.,1995. In that relation the relative stone density, A, was used in the stability parameter Hs/ADnS0. In the tests on which the relation was based, however, A was not varied, so some uncertainty remained on the influence of this parameter. Additional tests were therefore carried out with different stone densities, leading to the conclusion that there is no influence of the stone density, other than represented in the stability parameter H/AD^g. Computations were done, coupling the orbital velocities in the waves in front of the breakwater to the stability of the stones of the toe structure leading to encouraging results. Both computations and tests show an influence of the waterdepth in front of the breakwater which is not yet included in the stability relation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5358</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5358/5035</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

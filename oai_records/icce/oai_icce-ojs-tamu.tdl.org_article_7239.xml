@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7239</identifier>
+				<datestamp>2021-01-19T04:27:04Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN IDEALIZED METEOROLOGICAL-HYDRODYNAMIC MODEL FOR EXPLORING EXTREME STORM SURGE STATISTICS IN THE NORTH SEA</dc:title>
+	<dc:creator xml:lang="en">van Ledden, M.</dc:creator>
+	<dc:creator xml:lang="en">Berg, N.J.F. van den</dc:creator>
+	<dc:creator xml:lang="en">Jong, M.S. de</dc:creator>
+	<dc:creator xml:lang="en">Gelder, P.H.A.J.M van</dc:creator>
+	<dc:creator xml:lang="en">Heijer, C. den</dc:creator>
+	<dc:creator xml:lang="en">Vrijling, J.K.</dc:creator>
+	<dc:creator xml:lang="en">Jonkman, S.N.</dc:creator>
+	<dc:creator xml:lang="en">Roos, P.C.</dc:creator>
+	<dc:creator xml:lang="en">Hulscher, S.J.M.H.</dc:creator>
+	<dc:creator xml:lang="en">Lansen, A.J.</dc:creator>
+	<dc:subject xml:lang="en">Storm surge levels</dc:subject>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:subject xml:lang="en">Joint probability analysis</dc:subject>
+	<dc:subject xml:lang="en">Extreme value statistics</dc:subject>
+	<dc:description xml:lang="en">This paper explores an alternative method to determine extreme surge levels at the Dutch Coast. For this exploration, specific focus is on the extreme water level at Hoek van Holland, The Netherlands. The alternative method has been based on a joint probability model of the storm characteristics at the North Sea. The intent of this method is to provide a better physical and statistical insight into the effects of meteorological characteristics on surge levels and surge duration, especially for surges of more extreme storms currently not captured in existing water level measurement records. The meteorological part is an analytical parametrical model based on the Holland model for hurricanes, which results in time- and space-varying wind and pressure fields of North Sea storms. The wind and pressure forcing is then applied in the hydrodynamic model which numerically solves the nonlinear depth-averaged shallow water equations in a one-dimensional domain from the edge of the continental shelf between Scotland and Norway to Hoek van Holland. Validation against wind observations from historical storms at one location in the entire domain shows good results. Results of the calibrated surge level model are reasonable if peak surge levels are considered. The surge duration, however, is underestimated by the model. Next, the model has been applied to define extreme surge levels using Monte Carlo Analysis. Probability density distributions for the storm parameters based on historical data have been used as input. The computed surge level (including tide) with a statistical return period of 10,000 years appears to be close to the value from statistical extrapolation of surge levels. The output also indicates that the average duration of computed surges with a return period of 10,000 year is roughly two hours longer than the storm duration currently adopted.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7239</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7239/pdf_805</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

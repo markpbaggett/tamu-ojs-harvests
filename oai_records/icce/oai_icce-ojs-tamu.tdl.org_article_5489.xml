@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5489</identifier>
+				<datestamp>2021-01-19T12:04:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE GROUPS IN A BARRED NEARSHORE</dc:title>
+	<dc:creator xml:lang="en">Boczar-Karakiewicz, B.</dc:creator>
+	<dc:creator xml:lang="en">Romanczyk, W.</dc:creator>
+	<dc:creator xml:lang="en">Bona, J.L.</dc:creator>
+	<dc:creator xml:lang="en">Greenwood, B.</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">barred nearshore</dc:subject>
+	<dc:description xml:lang="en">Observations of waves and sediment movement in coastal zones have shown evidence of groupiness in the wave field associated with episodic events of high sediment concentration above the sandy bed. These observations raised the question about the role of wave groups on large-scale coastal sand bars. The present study addresses this question. Analysis is based on data from a lacustrian experimental study site located in Nottawasaga Bay, Lake Huron, Ontario, Canada. The results of field measurements provided initial and boundary conditions for numerical simulations of wave-seabed interactions under waves and wave-groups. Model predictions are compared with observations. The conclusions suggest that nonlinearly modulated wave trains may potentially form and modify sand bars in coastal zones due to large-scale spatial variation in the nonlinear structure of these waves. However, strong irregularities in observed wave groups and related episodic sediment concentration events suggest that these groups do not represent an effective factor in the 'slow' process of sand bar formation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5489</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5489/5165</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

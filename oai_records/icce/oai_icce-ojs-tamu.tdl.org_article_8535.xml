@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8535</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GENERATION OF EXTREME TRANSIENT WAVES IN EXPERIMENTAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Zhang, Huichen</dc:creator>
+	<dc:creator xml:lang="en">Bruhl, Markus</dc:creator>
+	<dc:description xml:lang="en">The transfer of natural waves and sea states into small- and large-scale model teste contributes to the proper design of offshore and coastal structure. Such shallow-water ocean surface waves are highly nonlinear and subject to wave transformation and nonlinear wave-wave interactions. However, the standard methods of wave generation according to conventional wave theories and wave analysis methods are limited to simple regular waves, simple sea states and low-order wave generation without considering the nonlinear wave-wave interactions. The research project Generation of Extreme Transient Waves in Experimental Models (ExTraWaG) aims to accurately generate target transient wave profile at a pre-defined position in the wave flume (transfer point) under shallow water conditions. For this purpose, the KdV-based nonlinear Fourier transform is introduced as a continuative wave analysis method and is applied to investigate the nonlinear spectral character of experimental wave data. Furthermore, the method is applied to generate transient nonlinear waves as specific locations in the wave flume, considering the nonlinear transformation and interactions of the propagating waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8535</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8535/7339</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

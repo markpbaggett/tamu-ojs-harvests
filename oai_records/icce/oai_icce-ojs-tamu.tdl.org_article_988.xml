@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/988</identifier>
+				<datestamp>2023-10-04T04:20:51Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL ANALYSIS OF DEFORMATION BASED DESIGN FOR CAISSONS</dc:title>
+	<dc:creator xml:lang="en">Cihan, Kubilay</dc:creator>
+	<dc:creator xml:lang="en">Arı, Havva Anıl</dc:creator>
+	<dc:creator xml:lang="en">Yuksel, Yalçın</dc:creator>
+	<dc:creator xml:lang="en">Berilgen, Mehmet</dc:creator>
+	<dc:subject xml:lang="en">caisson</dc:subject>
+	<dc:subject xml:lang="en">quay wall</dc:subject>
+	<dc:subject xml:lang="en">FEM</dc:subject>
+	<dc:subject xml:lang="en">numerical analysis</dc:subject>
+	<dc:description xml:lang="en">Caissons are used effectively to protect shorelines and harbours by reflecting wave energy towards the open sea. The successful performance of caissons has been attributed to experience and continued research. The seismic design for caissons is important since the functional loss of ports may cause severe economic loss. It is necessary to conduct a seismic design in terms of functionality so that cargo handling facilities may continue to function even after severe earthquakes. Relative displacement is an important index when the functionality of crane rails on caisson-type quay walls is discussed. Recent design codes for caissons demand performance-based designs. These codes require that the seismic performance of the walls be evaluated based on the permanent wall displacement after an earthquake. The seismic displacement of the caissons can be evaluated by dynamic analyses or simplified dynamic analyses based on the Newmark sliding block concept. Comprehensive results for the dynamic behaviour of soil and caissons can be obtained from dynamic analyses. In this study, the dynamic behaviour of soil and caissons were investigated by using FEM method and results were compared with experimental results from previous study existed in literature.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/988</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/988/pdf_151</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

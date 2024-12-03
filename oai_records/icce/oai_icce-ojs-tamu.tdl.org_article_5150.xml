@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5150</identifier>
+				<datestamp>2021-01-19T13:56:33Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MULTIPLE BAR FORMATION BY BREAKER-INDUCED VORTICES: A LABORATORY APPROACH</dc:title>
+	<dc:creator xml:lang="en">Zhang, Da Ping</dc:creator>
+	<dc:creator xml:lang="en">Sunamura, Tsuguo</dc:creator>
+	<dc:subject xml:lang="en">bar</dc:subject>
+	<dc:subject xml:lang="en">bar formation</dc:subject>
+	<dc:subject xml:lang="en">laboratory approach</dc:subject>
+	<dc:subject xml:lang="en">breaker induced vortices</dc:subject>
+	<dc:subject xml:lang="en">vortex</dc:subject>
+	<dc:description xml:lang="en">Using a two-dimensional wave flume and a two-videocamera system, mechanism and process of multiple bar formation were investigated in the light of breaker-induced vortices. A fixed-bed experiment revealed that (1) the vortex formed at the wave break point can be classified into three: oblique, A-type horizontal, and B-type horizontal vortices; (2) the vortex formed in the surf zone is always oblique; and (3) the location of a vortex reaching bottom can be described by wave properties and the bottom slope, and its water depth can be expressed by breaker height alone. A movable-bed experiment indicated that bars are initiated by the vortices reaching bottom in the surf zone; the number of bars formed coincides with the number of such vortices. Suspension of the bottom sediment due to vortex action and the mean-drift-velocity pattern can play an important role in multiple bar formation; mechanism for break-point bar formation is "convergence", while that for inner bar formation is "congestion". Two major modes for the development of multiple bars were found: simultaneous and successive: these depend on the interaction of vortex action and topography in the surf zone. Multiple-bar features such as trough spacing and crest depth could be explained from vortex features found through the fixed-bed experiment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5150</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5150/4828</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

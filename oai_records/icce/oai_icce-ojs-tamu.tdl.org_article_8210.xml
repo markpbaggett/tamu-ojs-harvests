@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8210</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE-CURRENT INTERACTION, SEDIMENT TRANSPORT AND SEABED EVOLUTION IN THE PIRAQUÊ-AÇU/PIRAQUÊ MIRIM ESTUARY (BRAZIL)</dc:title>
+	<dc:creator xml:lang="en">Coutinho, Thais Nunes</dc:creator>
+	<dc:creator xml:lang="en">de Jesus, Leonardo Carvalho</dc:creator>
+	<dc:creator xml:lang="en">Chacaltana, Julio Tomás Aquije</dc:creator>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">seabed evolution</dc:subject>
+	<dc:description xml:lang="en">The medium-term seabed evolution of Piraquê-Açú/Piraquê-Mirim estuary (ES/Brazil) is studied numerically in this work. The hydrodynamics is induced by the tide, the river discharges, and the incident water wave. The wave-tide-current interactions are obtained by coupling the shallow water equations with the radiation stress tensor introduced by Longuet-Higgins &amp; Stewart (1960). In this way, the influence of both the tidal current and the current induced by gravity waves on the sediment transport are taken into account. We utilized the Exner (1925) equation, based on the conservation of seabed sediment mass, to calculate the morphological evolution. Seabed morphological changes are accelerated by introducing a time scale factor. Four bedload sediment transport formulations were tested and compared. We found an excellent agreement when numerical results are compared with currents measured in the upper estuary and with sediment transport rates measured at the river's mouth when using the Engelund and Hansen (1967) sediment transport formulation. We also found that the main morphological changes occurring at the estuary mouth are due to the action of gravity waves. Between the head and mouth of the estuary, the sediment transport rate and morphological seabed changes are controlled exclusively by the tidal currents and the river discharge. In this latter case, we found that the large sandbank located at the estuary mouth is responsible for the absence of wave.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8210</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.sediment.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; sediment.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8210/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

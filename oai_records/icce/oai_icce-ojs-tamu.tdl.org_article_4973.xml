@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4973</identifier>
+				<datestamp>2021-01-19T14:57:58Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A FULLY-DISPERSIVE NONLINEAR WAVE MODEL AND ITS NUMERICAL SOLUTIONS</dc:title>
+	<dc:creator xml:lang="en">Nadaoka, Kazuo</dc:creator>
+	<dc:creator xml:lang="en">Beji, Serdar</dc:creator>
+	<dc:creator xml:lang="en">Nakagawa, Yasuyuki</dc:creator>
+	<dc:subject xml:lang="en">numerical solution</dc:subject>
+	<dc:subject xml:lang="en">dispersive waves</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:description xml:lang="en">A set of fully-dispersive nonlinear wave equations is derived by introducing a velocity expression with a few vertical-dependence functions and then applying the Galerkin method, which provides an optimum combination of the verticaldependence functions to express an arbitrary velocity field under wave motion. The obtained equations can describe nonlinear non-breaking waves under general conditions, such as nonlinear random waves with a wide-banded spectrum at an arbitrary depth including very shallow and far deep water depths. The single component forms of the new wave equations, one of which is referred to here as "time-dependent nonlinear mild-slope equation", are shown to produce various existing wave equations such as Boussinesq and mild-slope equations as their degenerate forms. Numerical examples with comparison to experimental data are given to demonstrate the validity of the present wave equations and their high performance in expressing not only wave profiles but also velocity fields.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4973</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4973/4653</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

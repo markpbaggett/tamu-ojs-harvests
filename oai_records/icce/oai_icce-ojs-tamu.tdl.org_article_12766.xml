@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12766</identifier>
+				<datestamp>2023-09-01T15:12:59Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PYCNOCLINE THICKNESS EFFECT ON INTERNAL WAVE BREAKING OVER A UNIFORM SLOPE</dc:title>
+	<dc:creator xml:lang="en">Nakayama, Keisuke</dc:creator>
+	<dc:creator xml:lang="en">Shintani, Tetsuya</dc:creator>
+	<dc:description xml:lang="en">Internal waves play a significant role in the resuspension and transport of fine sediment adjacent to the sea bottom in the coastal region. Inall (2009) found the horizontal current and diffusion of mass due to the breaking of internal waves in the Fjord by using a fluorescent tracer. Internal waves have been shown to cause crucial mass transport and affect the ecological system. In particular, an internal solitary wave that progresses without changing the profile contributes to mass transport on a sloping bottom. Therefore, it is essential to clarify how an internal solitary wave breaks over a slope and transports mass. When pycnocline thickness is negligible in a twolayer fluid, an internal solitary wave breaking over a slope can be categorized into four breaker types by applying the latest classification based on wave slope, bottom slope gradient and an internal Reynolds number. Aghsaee et al. (2010) demonstrated that an internal solitary wave breaking over a slope can be categorized into four breaker types: surging, collapsing, plunging, and fission breakers using three-dimensional numerical simulations. They used wave slope and bottom slope gradient. However, some plunging and collapsing breakers were not appropriately categorized. Nakayama et al. (2019) solved the classification problem by introducing an internal Reynolds number based on the Korteweg–De Vries equation. However, it remains unsolved if this classification can categorize the breaking of an internal solitary wave under thick pycnocline conditions. This study uses numerical simulations to investigate the applicability of the classification under changing pycnocline thickness (Nakayama et al., 2021). </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12766</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.currents.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; currents.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12766/12039</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Keisuke Nakayama, Tetsuya Shintani</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

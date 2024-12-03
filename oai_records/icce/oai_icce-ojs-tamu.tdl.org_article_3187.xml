@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3187</identifier>
+				<datestamp>2021-01-20T01:09:35Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CYLINDRICAL CAISSON BREAKWATER: STRAIN MODEL TESTS</dc:title>
+	<dc:creator xml:lang="en">Gravesen, Helge</dc:creator>
+	<dc:creator xml:lang="en">Brodersen, Finn P.</dc:creator>
+	<dc:creator xml:lang="en">Larsen, Jorn S.</dc:creator>
+	<dc:creator xml:lang="en">Lundgren, H.</dc:creator>
+	<dc:subject xml:lang="en">model test</dc:subject>
+	<dc:subject xml:lang="en">strain test</dc:subject>
+	<dc:subject xml:lang="en">cylinder</dc:subject>
+	<dc:subject xml:lang="en">caisson breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater design</dc:subject>
+	<dc:description xml:lang="en">The distribution of shook pressures on a vertical face breakwater is so random from one shock to the next that the determination of the internal forces in a thin-balled reinforced-concrete structure is difficult even when a large number of pressure cells is used in a model test. Therefore a technique has been developed that allows the direct determination of the internal stresses by means of strain gauges. The new technique has been applied to a breakwater consisting of a series of cylindrical caissons. The results show that a strain gauge model is more advantageous than a pressure cell model because of its simpler data analysis and better determination of the quantities required for design.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3187</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.137</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 137</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3187/2851</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

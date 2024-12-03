@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8649</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ADVANCES AND ISSUES IN UNCERTAINTY QUANTIFICATION FOR COASTAL FLOOD HAZARDS</dc:title>
+	<dc:creator xml:lang="en">Asher, Taylor G.</dc:creator>
+	<dc:creator xml:lang="en">Irish, Jennifer L.</dc:creator>
+	<dc:creator xml:lang="en">Resio, Donald T.</dc:creator>
+	<dc:description xml:lang="en">Probabilistic flood hazard assessments have advanced substantially, with modern methods for dealing with the risk from tropical cyclones utilizing either a variation of the joint probability method with optimal sampling (JPM-OS)2,3 or the statistical deterministic track method (SDTM)1,4. In the JPM-OS, tropical cyclones are reduced to a set of 5 to 9 parameters, whose characteristics are analyzed statistically to develop a joint probability distribution for tropical cyclones of given characteristics. In the SDTM, cyclogenesis of a large number of storms is seeded via a statistical model from historical data, then storms are propagated using one of several different methods, incorporating varying degrees of the physics of cyclone transformation as the storms propagate. Due to the significant cost of storm surge simulations, some form of optimization or selection is then performed to reduce the number of synthetic storms that must be simulated to determine the flood elevation corresponding to a given recurrence interval (e.g. the so-called 100-year flood). In both methods, substantial uncertainties exist, which have a tendency to increase the estimated flooding risk. Efforts to account for these uncertainties have varied, and there remains significant work to be done. Here, we demonstrate how these uncertainties tend to increase the flood risk and show that additional sources of uncertainty remain to be accounted for.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8649</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8649/7451</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8649/8041</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

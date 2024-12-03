@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1350</identifier>
+				<datestamp>2023-10-04T03:49:25Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF INSPECT SYSTEM FOR THE ANALYSIS OF TIDE, WAVE, TSUNAMI AND STORM SURGE ON THE COASTS OF SHIKOKU ISLAND, JAPAN</dc:title>
+	<dc:creator xml:lang="en">Shibaki, Hidenori</dc:creator>
+	<dc:creator xml:lang="en">Hara, Nobuhiko</dc:creator>
+	<dc:creator xml:lang="en">Mimura, Masaki</dc:creator>
+	<dc:subject xml:lang="en">tide</dc:subject>
+	<dc:subject xml:lang="en">wave hindcast</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">disaster prevention</dc:subject>
+	<dc:subject xml:lang="en">INSPECT system</dc:subject>
+	<dc:description xml:lang="en">The INSPECT (Integrated Numerical research System for Prevention and Estimation of Coastal disasTer) system was developed for numerical analysis of oceanographical disaster phenomena in coastal and estuarine areas. The INSPECT consists of three numerical simulation models (Wave, Storm Surge and Tsunami models), their supporting sub-systems and supporting databases. With this system, various coastal protection works can be more reliable designed. The paper presents an outline of the design, basic theory of numerical research and applications of the system. The analysis of tide, Wave, Tsunami and storm surge on the coasts of Shikoku Island in Japan is performed by using INSPECT.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1350</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1350/pdf_330</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

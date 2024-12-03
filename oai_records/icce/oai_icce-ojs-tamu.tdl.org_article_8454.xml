@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8454</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF SHORELINE CHANGES FOR DIFFERENT COASTAL CONFIGURATIONS USING FUTURE CLIMATE PROJECTIONS</dc:title>
+	<dc:creator xml:lang="en">Rajasree, B R</dc:creator>
+	<dc:creator xml:lang="en">Deo, M C</dc:creator>
+	<dc:description xml:lang="en">The estimation of shoreline change as well as sediment transport at a specified site can be reliably made with the help of corresponding numerical models that are run with the help of historical wave data generated using windwave models based on the input of past wind conditions. It is well known that the magnitude and behavior of historical wind and waves would not remain same in future as a result of the climate change induced by global warming. (Komar et al., 2010). In this light the present study attempts to understand what happens if future wind and waves are generated using regional climate models (RCMs) and the shoreline change and sediment transport is determined on that basis instead of historical wind and wave data. Toward this we have considered there different types of shorelines, namely (a) an uninterrupted coastal stretch, (b) the coast interrupted by an artificial structure and (c) the coast interrupted by natural features. This study goes beyond an earlier one (Rajasree et al., 2016) in which only case (a) was discussed and where coastal vulnerability was not assessed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8454</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.82</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.82</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8454/7260</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4821</identifier>
+				<datestamp>2021-01-19T15:49:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MIXING PROCESSES IN A SHALLOW LAGOON</dc:title>
+	<dc:creator xml:lang="en">Imberger, J.</dc:creator>
+	<dc:creator xml:lang="en">Di Silvio, G.</dc:creator>
+	<dc:subject xml:lang="en">lagoon</dc:subject>
+	<dc:subject xml:lang="en">shallow lagoon</dc:subject>
+	<dc:subject xml:lang="en">mixing processes</dc:subject>
+	<dc:description xml:lang="en">Lagoons are enclosed water basins at the boundary between the land and the ocean; they usually have one or a number of streams entering around the perimeter and are open to the ocean at one or a number of entrances. Lagoons are shallow and the motion of water within them is governed by a delicate balance between tidal forces, wind stresses, bottom friction and density induced pressure forces. In general, ocean water enters a lagoon via deeper channels whereas the river inputs enter through alluvial fans. The freshwater, being lighter, overflows the lagoon waters whereas the entering ocean water, being heavier, underflows. This leads to a strong vertical stratification in the main channels and a general horizontal stratification in the shallows. Much work has been done on estimating the net horizontal mixing in large water bodies and, in general, it is assumed that the water column is fully turbulent and the horizontal scales of motion range from the size of the lagoon to millimetres and vertical scales from the depth to millimetres. Under such conditions it is assumed that there is a cascade of energy similar to normal turbulent shear flow (Tennekes and Lumley, 1972). For water bodies which have dimensions in the tens of kilometres, it is found both by fitting the results from numerical models (Di Silvio and Fiorillo, 1981) and from large scale field comparisons (Dronkers el al. 1981) that a horizontal diffusion coefficient of the order of 50 to 500 m2 s"1 is applicable.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4821</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4821/4502</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3994</identifier>
+				<datestamp>2021-01-19T20:32:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CALIBRATION AND ADJUSTMENT PROCEDURES FOR THE RHINE-MEUSE ESTUARY SCALE MODEL</dc:title>
+	<dc:creator xml:lang="en">van der Heijden, H.N.C.M.</dc:creator>
+	<dc:creator xml:lang="en">de Jong, P.</dc:creator>
+	<dc:creator xml:lang="en">Kuijper, C.</dc:creator>
+	<dc:creator xml:lang="en">Roelfzema, A.</dc:creator>
+	<dc:subject xml:lang="en">scale model</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">Rhine-Meuse</dc:subject>
+	<dc:subject xml:lang="en">model calibration</dc:subject>
+	<dc:subject xml:lang="en">model adjustment</dc:subject>
+	<dc:description xml:lang="en">At the Delft Hydraulics Laboratory the hydraulic model of the Rhine- Meuse estuary has been rebuilt and extended after being destroyed by fire in 1979. The new model has been operational since the summer of 1982 for water quantity and water quality research. The present paper deals with the calibration and adjustment procedures for this hydraulic model. Successively the (physical) backgrounds for the calibration process, the techniques used for provision of boundary conditions and the procedures for adjusting flows and salinity distribution are discussed. Finally, the results of calibration and verification and the experiences gained on the employed techniques will be analysed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3994</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.213</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 213</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3994/3677</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

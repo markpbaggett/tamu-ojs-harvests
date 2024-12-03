@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12832</identifier>
+				<datestamp>2023-09-01T15:13:36Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SATELLITE-DERIVED SANDY SHORELINE CHANGE (1984-2020) AND PRIMARY DRIVERS IN SW FRANCE</dc:title>
+	<dc:creator xml:lang="en">Castelle, Bruno</dc:creator>
+	<dc:creator xml:lang="en">Ritz, Auguste</dc:creator>
+	<dc:creator xml:lang="en">Marieu, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Lerma, Alexandre Nicolae</dc:creator>
+	<dc:creator xml:lang="en">Vandenhove, Marine</dc:creator>
+	<dc:description xml:lang="en">Sandy shoreline erosion has become one of the biggest threats to coastal zones globally, both in developed and less developed regions of the world, which calls for improved understanding of past and future shoreline evolution and its drivers. This is true for long-term shoreline change trends but also for interannual shoreline response linked to largescale climate patterns of atmospheric variability, which so far has been mostly explored locally based in situ monitoring program (e.g. Dodet et al., 2019). Free-of-charge publicly available optical satellite imagery can now be used to provide short-term to multi-decadal shoreline data from the local to the global scale using different techniques (e.g., Bishop-Taylor et al., 2019), with errors typically under 10 m at microtidal beaches (Vos et al., 2019). However, on high-energy and/or meso to macrotidal low-gradient beaches satellite-derived shoreline (SDS) errors dramatically worsen (Castelle et al., 2021). In this contribution we explore if an adapted space-averaging of such uncorrected (noisy) SDS dataset can allow addressing the time- and space variability of shoreline change and their primary drivers including large-scale climate patterns of atmospheric variability.     </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12832</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12832/12105</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Bruno Castelle, Auguste Ritz, Vincent Marieu, Alexandre Nicolae Lerma, Marine Vandenhove</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

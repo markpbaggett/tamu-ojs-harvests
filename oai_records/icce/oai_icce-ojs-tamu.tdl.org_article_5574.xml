@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5574</identifier>
+				<datestamp>2021-01-19T11:36:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WATERTABLE DYNAMICS IN COASTAL AREAS</dc:title>
+	<dc:creator xml:lang="en">Kang, Hong-Yoon</dc:creator>
+	<dc:creator xml:lang="en">Nielsen, Peter</dc:creator>
+	<dc:subject xml:lang="en">water table</dc:subject>
+	<dc:subject xml:lang="en">water table dynamics</dc:subject>
+	<dc:description xml:lang="en">Fresh water lens measured under the coastal barrier is much thinner than that predicted by the classical Ghyben-Herzberg theory. Landward downsloping watertable which is usually seen at coastal areas results in a landward flow of salty water or waste water released into aquifer. Comparison between the laboratory experiments with regular waves and no tides and the field data has revealed significant difference in magnitudes of the infiltration velocity. It is obvious that the tidal phase is very important. Infiltration velocities are large when the shoreline moves landward on a partially saturated beach on a rising tide. General magnitudes of U, are O.OSK for steady laboratory conditions to 0.45K for field conditions during the rising tides. A mathematical model of the watertable which includes the effects of runup infiltration is obtained in a steady state. A finite-difference numerical model of the watertable is also presented with the glassy/dry boundary as a boundary condition.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5574</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5574/5248</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

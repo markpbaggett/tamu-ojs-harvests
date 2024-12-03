@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2400</identifier>
+				<datestamp>2021-01-17T05:16:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A THEORY ON THE FETCH GRAPH, THE ROUGHNESS OF THE SEA AND THE ENERGY TRANSFER BETWEEN WIND AND WAVE</dc:title>
+	<dc:creator xml:lang="en">Hino, Mikio</dc:creator>
+	<dc:subject xml:lang="en">fetch graph</dc:subject>
+	<dc:subject xml:lang="en">sea roughness</dc:subject>
+	<dc:subject xml:lang="en">wind/wave energy transfer</dc:subject>
+	<dc:description xml:lang="en">It is the aim of this paper to give theoretical derivations of the windwave characteristics from a viewpoint of fundamental mechanism of wind-wave generation. A hypothesis is proposed as a basic principle of the air-sea interaction, which asserts the maximum ratio of the energy transfer from wind to wave to the energy dissipation within wind. As the theoretical consequences of the hypothesis combined with the recent theories on wind-wave spectra by Miles and Phillips, wind-wave characteristics such as the fetch graph, the roughness of the sea, the spectral peak frequency, the ratio of pressure contribution to total drag and the energy transfer from wind to wave are derived with remarkable agreements with experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2400</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2400/2075</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

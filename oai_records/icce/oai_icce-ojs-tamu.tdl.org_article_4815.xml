@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4815</identifier>
+				<datestamp>2021-01-19T15:51:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF THE STABILITY OF RUBBLE BASES</dc:title>
+	<dc:creator xml:lang="en">Sulisz, Wojciech</dc:creator>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:subject xml:lang="en">rubble base</dc:subject>
+	<dc:subject xml:lang="en">rubble stability</dc:subject>
+	<dc:description xml:lang="en">A numerical model is developed to predict the stability of rubble bases exposed to wave action. A boundary element method is applied to solve the problem of wave interaction with a caisson and its rubble base, and to calculate the velocity field. The predicted velocities are used to determine the destabilizing forces on individual stones. Theoretical results reveal two local minima in stability: in very shallow water and at intermediate depths. The rubble base stability increases with decreasing incident wave height, the rubble base height and the bench width. Preliminary results also show that the stability depends on the damping properties and that the stability increases with increasing permeability.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4815</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4815/4496</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

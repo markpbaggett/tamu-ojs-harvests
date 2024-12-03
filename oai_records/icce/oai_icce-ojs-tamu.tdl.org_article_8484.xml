@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8484</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDAL CHANNEL GEOMETRY OF BARRIER EMBAYMENT SYSTEMS IN PUGET SOUND</dc:title>
+	<dc:creator xml:lang="en">Côté, Jessica</dc:creator>
+	<dc:creator xml:lang="en">Ketteridge, Kathryn</dc:creator>
+	<dc:description xml:lang="en">This paper will present the first year of findings from a research project with the objective of producing empirically based models of tidal channel characteristics that can be broadly applied to design estuary restoration projects in Puget Sound. A combination of field data collection methods and desktop analysis are being utilized to calculate tidal prism, channel dimensions, marsh extent, and water surface elevations to parameterize well-functioning barrier embayments in Puget Sound. The tidal channel data will be used to conduct a regression analysis and develop hydraulic geometry scaling relationships. The goal of the study is to develop one set of regression lines for the Puget Sound basin; however, if the data collection reveals important differences between sub-basins, then two or more regressions may be developed. For example, Hood (2015) found wave exposure contributed to differences in tidal channel geometry in the major river deltas within Puget Sound. Differences in wave exposure and tide range among the sub-regions of Puget Sound could create a need for creating more than one set of scaling relationships (e.g. North Sound and South Sound).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8484</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.76</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.76</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8484/7290</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8484/7917</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

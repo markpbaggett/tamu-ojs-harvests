@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13124</identifier>
+				<datestamp>2023-10-03T02:55:04Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF TOPOGRAPHIC AND CURRENT INFORMATION BY ADCP AND WATERCRAFT</dc:title>
+	<dc:creator xml:lang="en">Inukai, Naoyuki</dc:creator>
+	<dc:creator xml:lang="en">Minamihara, Mitsuru</dc:creator>
+	<dc:description xml:lang="en">In August 2017, when some high school students swam at Zenibako beach in Hokkaido, three students carried away and drowned. The several other accidents occurred at this beach in recently years. Firstly, we check the weather condition and the wave condition. Secondary, we conducted the field survey in August 2018. In the field survey, we used ADCP, and we got the water depth information and the current information. When we used the ADCP, this device and GPS device attached to a watercraft. During conducting the field survey, we got the aerial photographs by the UAV. The photographs were used to make a grid topographic data. Thirdly, we simulated the wind driven current in Ishikari Bay, and the wave current around Zenibako Beach. Finally, we considered the reason why the accident occurred. Our final purpose of this research is to obtain the knowledge for preventing the occurrence of water accidents. To obtain the knowledge, we grasped the mechanism of drowning by grasping the topography of the field and dynamics of the seawater when the water accident occurred.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13124</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.166</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.166</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13124/12397</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Naoyuki Inukai, Mitsuru Minamihara</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

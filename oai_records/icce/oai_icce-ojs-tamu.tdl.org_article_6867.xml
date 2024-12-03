@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6867</identifier>
+				<datestamp>2023-10-04T02:28:15Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE-INDUCED SETUP INSIDE PERMEABLE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Wellens, Peter</dc:creator>
+	<dc:creator xml:lang="en">Van Gent, Marcel</dc:creator>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">setup</dc:subject>
+	<dc:subject xml:lang="en">permeable structure</dc:subject>
+	<dc:subject xml:lang="en">Navier-Stokes</dc:subject>
+	<dc:subject xml:lang="en">VOF</dc:subject>
+	<dc:description xml:lang="en">Coastal protection of land reclamation areas is often composed of rock or otherwise permeable material. Wave-induced setup inside permeable structures can be a problem for land reclamation areas if the design land level is too low. Wave-induced setup has not been studied extensively. In this study we use COMFLOW, a numerical model based on the Navier-Stokes equations employing the Volume-Of-Fluid method to displace the free surface, to quantify wave-induced setup inside permeable structures. The results are summarized in a conceptual design formula to determine wave-induced setup as a function of wave height Hm0 and rock diameter Dn50.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6867</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6867/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

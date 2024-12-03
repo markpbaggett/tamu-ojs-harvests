@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4344</identifier>
+				<datestamp>2021-01-19T18:32:26Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF ENERGY LOSS NEAR BED SURFACE ON WAVE-INDUCED PORE PRESSURE IN SAND LAYER</dc:title>
+	<dc:creator xml:lang="en">Maeno, Yoshi-Hiko</dc:creator>
+	<dc:subject xml:lang="en">sand layer</dc:subject>
+	<dc:subject xml:lang="en">pore pressure</dc:subject>
+	<dc:subject xml:lang="en">wave pressure</dc:subject>
+	<dc:subject xml:lang="en">bed surface</dc:subject>
+	<dc:subject xml:lang="en">energy loss</dc:subject>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:description xml:lang="en">The effects of energy loss near the interface between the water and the sand bed on the wave-induced pore pressure are investigated by laboratory experiments. The interface between them includes the complicated factors: (1) roughness of seabed surface such as ripples; (2) boundary layer thickness in the sediment; (3) concentration of suspended sediments. These factors have been studied with respect to dimensionless parameters (e.g. Reynolds number, sediment Reynolds number, the ratio of orbital diameter to sand grain diameter, and Shields number), since many experimental formulas including these parameters have been proposed for predicting the geometry of roughness and the concentration of suspended sediments. The parameters described above are examined in relation to the damping characteristics of the wave-induced pore pressures. The transmissivity of pressure is constant until a critical value of the dimensionless parameters, and then decreases with increasing parameters. The critical values indicate the bed regime boundary of flat bed to ripple bed. Examinations of waveinduced pore pressure make it possible to predict the bed regime boundary.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4344</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.136</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 136</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4344/4024</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

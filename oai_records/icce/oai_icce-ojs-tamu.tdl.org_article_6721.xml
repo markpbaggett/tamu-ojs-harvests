@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6721</identifier>
+				<datestamp>2023-10-04T02:59:06Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ARTIFICIAL DEVIATION OF A SMALL INLET (BEVANO, NORTHERN ITALY): PREDICTION OF FUTURE EVOLUTION AND PLANNING OF MANAGEMENT STRATEGIES USING OPEN-SOURCE COMMUNITY COASTAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Ciavola, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Tondello, Massimo</dc:creator>
+	<dc:creator xml:lang="en">Carniel, Sandro</dc:creator>
+	<dc:creator xml:lang="en">Sclavo, Mauro</dc:creator>
+	<dc:subject xml:lang="en">inlet relocation</dc:subject>
+	<dc:subject xml:lang="en">soft engineering</dc:subject>
+	<dc:subject xml:lang="en">ebb delta</dc:subject>
+	<dc:subject xml:lang="en">numerical models</dc:subject>
+	<dc:description xml:lang="en">The Bevano river flows into the northern Adriatic Sea in a microtidal-low energy wave environment. The river mouth was diverted artificially in 2006 to contrast dune erosion and decrease inland river flooding. The intervention can be considered as a low impact one as the engineering works were constructed in timber and the possibility of the inlet naturally changing its course was contemplated. An ensemble of hydraulic/morphological scenarios was simulated using data from field surveys and a coupled numerical model. The aim of the modeling was to understand the morphological changes caused by extreme hydro-meteorological events and the relationships between the inlet and the adjacent beaches. Additionally, the probability of a second inlet opening either by overwashing or river breaching was another important topic considered for management purposes. The modeling found that, a second inlet can actually be opened under a 30 year flood occurring without any significant wave action. For other conditions, the current inlet will be the main source of water escape at sea. Finally, the modeling results confirmed the dominance of the ebb tide in creating a small ebb delta/swash bar, with many similarities with other inlets exposed to a larger tidal range. Currently the management strategy by competent authorities is a minimum maintenance option, with yearly repairs of the timber structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6721</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.57</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.57</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6721/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

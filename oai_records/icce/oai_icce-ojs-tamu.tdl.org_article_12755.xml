@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12755</identifier>
+				<datestamp>2023-09-01T15:12:52Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISPLACEMENT BASED COMPARISON OF ACCELEROMETER AND LOW-COST GNSS WAVE BUOYS</dc:title>
+	<dc:creator xml:lang="en">Hansen, Jeff</dc:creator>
+	<dc:creator xml:lang="en">Cuttler, Michael</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Ryan</dc:creator>
+	<dc:creator xml:lang="en">Young, Ian</dc:creator>
+	<dc:creator xml:lang="en">Ierodiaconou, Daniel</dc:creator>
+	<dc:description xml:lang="en">Wave observations are critical in both coastal and deep water and feed into applications including improving ocean forecasting, industry activities, and marine safety. Wave buoys are typically the most robust method to collect in situ wave observations, particularly when real-time data is required, however they have historically been expensive to purchase and operate. With the advent of low-cost and small-format Global Navigation Satellite System (GNSS) based wave buoys (e.g. Sofar Spotter), the ability to collect wave observations across a wider range of locations is feasible at a much lower cost. However, understanding the performance and behaviors of small-format GNSS buoys (e.g. spectral response and mooring effects), against more traditional accelerometer based platforms, is critical to inform their use across research and industry applications. Here, we focus on comparing the Sofar Spotter to Datawell Waverider (Mark 3 and 4) buoys which are commonly deployed in operational networks globally. However, instead of comparing processed products (e.g. spectral statistics) produced by the buoy’s onboard software, we begin our analysis with the buoy displacement time series directly to ensure consistency. We also assess the detailed spectral properties/moments, the GNSS buoy performance in different conditions (locations), and with different mooring configurations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12755</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12755/12028</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jeff Hansen, Michael Cuttler, Ryan Lowe, Ian Young, Daniel Ierodiaconou</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

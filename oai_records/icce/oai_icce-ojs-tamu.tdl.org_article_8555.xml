@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8555</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL STUDY OF WAVE INTERACTION WITH A SUBMERGED POROUS BREAKWATER IN COMBINATION WITH A FLOATING BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Kamath, Arun</dc:creator>
+	<dc:creator xml:lang="en">Sasikumar, Athul</dc:creator>
+	<dc:creator xml:lang="en">Bihs, Hans</dc:creator>
+	<dc:description xml:lang="en">Conventional emerged rubble mound breakwaters are commonly built to protect ports and marinas from direct wave action. With increased high-valued developments in the coastal region, engineers have to design innovative coastal protection structures that can provide adequate harbor tranquility with minimum visual impact. One such solution is the combination of a submerged breakwater with a floating breakwater. In this paper, the open-source CFD model REEF3D (Bihs et al. 2016) is used to simulate wave interaction with a submerged porous breakwater with a floating breakwater on the lee side. The wave interaction with the submerged porous breakwater is validated by comparison with experimental data from Hieu and Tanimoto (2006). The validated model is then used to simulate the wave interaction with a combination of the submerged breakwater and the floating breakwater. The transmission coefficient across the combination is calculated to be about 12.5%, demonstrating the possibility to provide harbor tranquility with minimum visual impact.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8555</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8555/7358</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8555/7971</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

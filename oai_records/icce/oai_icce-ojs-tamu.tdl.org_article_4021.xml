@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4021</identifier>
+				<datestamp>2021-01-19T20:22:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ROUGH TURBULENT BOUNDARY LAYER IN SHORT-CRESTED WAVES</dc:title>
+	<dc:creator xml:lang="en">Hsu, John R.C.</dc:creator>
+	<dc:subject xml:lang="en">short crested waves</dc:subject>
+	<dc:subject xml:lang="en">boundary layer</dc:subject>
+	<dc:subject xml:lang="en">turbulent boundary layer</dc:subject>
+	<dc:description xml:lang="en">Prior to the investigation of rough turbulent boundary layer in a short-crested wave, the oscillatory laminar boundary layer at the bed is considered. Supported by numerical results of water-particle motions close to the bottom, the general patterns of kinematics in the laminar boundary layer within this wave system are reported in order to promote the understanding of the complex phenomenon. To propose a suitable method for turbulent boundary layer within such a wave system, a two-layer model using time-independent viscosity coefficient is first studied. Potential application of this model to short-crested waves is considered. From numerical results it is found that the time-invariant viscosity model is useful but can not produce velocity profile with flow reversal. It is suggested that a time-varying viscosity model may be more appropriate.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4021</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4021/3704</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

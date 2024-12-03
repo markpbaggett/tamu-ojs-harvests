@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10360</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REDUCED COMPLEXITY MODELING OF SHORELINE RESPONSE BEHIND OFFSHORE BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Elghandour, Ahmed</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Huisman, Bas</dc:creator>
+	<dc:creator xml:lang="en">Reyns, Johan</dc:creator>
+	<dc:creator xml:lang="en">Costas,  Susana</dc:creator>
+	<dc:creator xml:lang="en">Nienhuis, Jaap</dc:creator>
+	<dc:description xml:lang="en">Prediction of the shoreline response behind offshore breakwaters is essential for coastal protection projects. Due to the complexity of the processes behind the breakwaters (e.g., wave diffraction, currents, longshore transport), detailed modelling needs high computational efforts. Therefore, simplifying the process effect in a simpler coastline model could be efficient. In this study, the coastline evolution model ShorelineS is used. A new routine was implemented in the model to adjust the wave heights and angles behind the offshore breakwaters. Two approaches from the literature and a newly introduced one were tested in this study. The model free grid system was used to simply track the breaker line; such an advantage also helped to form tombolo, which is not common for these types of models. The tests showed promising results for single and multi breakwaters systems; however, the newly introduced approach still needs further testing and refinement for better performance and less computational cost.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/mdCpmSQFO1Y</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10360</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10360/9646</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Ahmed Elghandour, Dano Roelvink, Bas Huisman, Johan Reyns,  Susana Costas, Jaap Nienhuis</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

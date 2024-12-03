@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12647</identifier>
+				<datestamp>2023-09-01T15:11:45Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF DETERMINING RISK LEVEL REGARDING SWIMMING CONDITION ON BATHING BEACH USING AI</dc:title>
+	<dc:creator xml:lang="en">Toguchi, Haruki</dc:creator>
+	<dc:creator xml:lang="en">Shimada, Ryo</dc:creator>
+	<dc:creator xml:lang="en">Ishikawa, Toshinori</dc:creator>
+	<dc:creator xml:lang="en">Komine, Tsutomu</dc:creator>
+	<dc:description xml:lang="en">In Japan, 2,000 to 3,000 drowning accidents occur every summer season at major bathing beaches. In order to prevent drowning accidents, beachgoers themselves need to be aware of the dangers and avoid them. As a way to do this, bathing beaches provide daily risk levels regarding swimming conditions to beachgoers using three levels of beach safety flags. However, the risk levels are determined subjectively and empirically by lifesavers and beach administrators based on weather and sea conditions. The characteristics of past drowning accidents are not taken into account. In this study, we suggest an objective method of determining the risk levels based on the probability of drowning accidents. We have created an AI model that can predict the probability of drowning accidents with high accuracy using a total of 53 features such as usage, weather and sea conditions of a study beach in Japan. This method enables appropriate judgment of swimming conditions to prevent many drowning accidents. The reliability of the model was examined using XAI, and it was found that time series of rescue factors were important in predictions. On the other hand, the accuracy decreased when the created AI model was applied to other beaches. It was thought to be caused by differences in the natural environment such as waves and wind.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12647</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12647/11920</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Haruki Toguchi, Ryo Shimada, Toshinori Ishikawa, Tsutomu Komine</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

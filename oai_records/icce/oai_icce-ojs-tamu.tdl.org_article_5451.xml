@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5451</identifier>
+				<datestamp>2021-01-19T12:16:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CROSS-SHORE SEDIMENT TRANSPORT AND BEACH DEFORMATION MODEL</dc:title>
+	<dc:creator xml:lang="en">Winyu, Rattanapitikon</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">beach deformation</dc:subject>
+	<dc:subject xml:lang="en">deformation model</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">crossshore transport</dc:subject>
+	<dc:description xml:lang="en">Based on a large amount of published laboratory results, reliable model is developed for computing beach profiles under regular wave actions. The sediment transport is separated into suspended load and bed load. The suspended load is computed as the product of the time-averaged suspended concentration and the timeaveraged velocity. The bed load is developed following the similar step as Watanabe (1983) but the applied area is different. The wave model of Dally et al. (1985) is modified and used to compute wave height transformation. The beach profile change is computed from the conservation of sediment mass. The beach deformation model is verified with small scale and large scale experiments. Reasonably good agreement is obtained between measured and computed beach profiles.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5451</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5451/5127</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4238</identifier>
+				<datestamp>2021-01-19T19:08:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">KINEMATICS AND RETURN FLOW IN A CLOSED WAVE FLUME</dc:title>
+	<dc:creator xml:lang="en">Ramsden, Jerald D.</dc:creator>
+	<dc:creator xml:lang="en">Nath, John H.</dc:creator>
+	<dc:subject xml:lang="en">wave flume</dc:subject>
+	<dc:subject xml:lang="en">closed flume</dc:subject>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:subject xml:lang="en">return flow</dc:subject>
+	<dc:description xml:lang="en">Stokes (1847) showed that finite amplitude progressing waves cause a net drift of fluid, in the direction of wave motion, which occurs in the upper portion of the water column. In a closed wave flume this drift must be accompanied by a return flow toward the wave generator to satisfy the conservation of mass. This study presents Eulerian velocity and water surface measurements soon after the onset of wave motion from 12 locations in a large scale flume. Waves with .67 &lt; kh &lt; 2.29 and .09 &lt; H/h &lt; .39 were produced in a water depth of 3.5 meters. Superimposing the return flow theory of Kim (1984) with seventh order stream function theory is shown to improve the velocity predictions. The measured return flows are a function of time and depth and agree with Kim's theory as a first approximation. The mean water surface set-down agrees with the theory of Brevik (1979) except for the nearly deep water waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4238</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4238/3919</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

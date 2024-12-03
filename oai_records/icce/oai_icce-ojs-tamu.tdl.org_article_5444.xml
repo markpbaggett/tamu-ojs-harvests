@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5444</identifier>
+				<datestamp>2021-01-19T12:18:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DUNE DAMAGE CURVES AND THEIR USE TO ESTIMATE DUNE MAINTENANCE COSTS</dc:title>
+	<dc:creator xml:lang="en">Basco, David R.</dc:creator>
+	<dc:creator xml:lang="en">Shin, Cheol S.</dc:creator>
+	<dc:subject xml:lang="en">dune</dc:subject>
+	<dc:subject xml:lang="en">dune maintenance</dc:subject>
+	<dc:subject xml:lang="en">dune damage</dc:subject>
+	<dc:subject xml:lang="en">cost estimation</dc:subject>
+	<dc:description xml:lang="en">A beach profile numerical model is employed to calculate the change in dune cross-section for a wide range of increased, water level events. The volume loss in dune cross-section increases with relative increase in storm surge elevation above the design water level. These "damage curves" for dunes are analogous to rubble mound damage curves created by excessive wave energy above the design wave height. The results are applied in the design of a protective, beach-dune structure (with buried seawall as a safety factor) at Dam Neck, Virginia for the US Navy. The damage curves are used to estimate annual dune maintenance costs and hence, total life-cycle costs for this "soft" alternative to shore protection. Interestingly, the dunebeach- buried seawall alternative costs less than a concrete structure using artifical units for armor. Construction is complete and a three year monitoring project begun so that actual versus theoretical dune damage curves can be determined in the future.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5444</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5444/5120</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

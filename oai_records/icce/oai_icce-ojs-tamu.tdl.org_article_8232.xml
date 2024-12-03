@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8232</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW METHODOLOGY FOR EXTREME WAVES ANALYSIS BASED ON WEATHER-PATTERNS CLASSIFICATION METHODS</dc:title>
+	<dc:creator xml:lang="en">Solari, Sebastián</dc:creator>
+	<dc:creator xml:lang="en">Alonso, Rodrigo</dc:creator>
+	<dc:subject xml:lang="en">extremes</dc:subject>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">weather-patterns</dc:subject>
+	<dc:description xml:lang="en">Extreme Value Analysis is usually based on the assumption that the data is independent and homogeneous. Historically the hypothesis of independence has received more attention than the hypothesis of homogeneity. The two most common ways of ensuring independence is to use annual maxima or peaks over threshold approaches. In wave and wind extreme analysis, the usual approaches to achieve homogeneous series have been to work to differentiate according to type of process generating the extreme value (e.g. differentiate between hurricanes and cyclones) and conduct directional analyzes. In this work an alternative approach is proposed, based on the use of cluster analysis methodologies to identify weather circulation patterns that results in extreme wave conditions. The proposed methodology is successfully applied to a case study in the Uruguayan South Atlantic coast. From the obtained results it seems that the proposed methodology is able to differentiate the data in homogenous subsets, not only in terms of the target variable (significant wave height) but also in terms of relevant covariables, like wave direction or sea level, and that the extreme value distribution of the whole data, obtained from the distributions fitted to each subset, is fairly insensitive to the number of weather patterns used in the analysis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8232</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8232/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

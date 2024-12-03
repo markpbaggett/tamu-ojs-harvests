@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3340</identifier>
+				<datestamp>2021-01-20T00:17:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PERIODIC FLOWS FROM TIDAL INLETS</dc:title>
+	<dc:creator xml:lang="en">Wilkinson, D.L.</dc:creator>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">inlet</dc:subject>
+	<dc:subject xml:lang="en">periodic flow</dc:subject>
+	<dc:description xml:lang="en">A study was undertaken of the flow produced in the offshore region by tidal currents at the entrance of a coastal inlet. The gross features of the offshore flow structure were examined in an idealised two dimensional model in which a sinusoidally reversing flow was discharged from an open channel into a large stagnant basin. During each period of ebb flow, the discharge from the simulated inlet developed a structure very similar to that of a starting jet, and a vortex pair was observed to form and ultimately became the dominant feature of the flow. Although variable bottom topography and long shore currents will distort the flow pattern, the rotational motions observed in these experiments would be expected to persist. The study was restricted to coastal inlets in which the sectional area of the entrance channel is several orders of magnitude smaller the area of water surface inside the inlet.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3340</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3340/3008</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

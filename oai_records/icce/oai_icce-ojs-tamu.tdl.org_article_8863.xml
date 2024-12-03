@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8863</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HIGHLY RESOLVED DIRECTIONAL PROPERTIES OF WIND WAVES AND SWELL WITH VARIOUS SCALES</dc:title>
+	<dc:creator xml:lang="en">Fujiki, Takashi</dc:creator>
+	<dc:creator xml:lang="en">Kawaguchi, Koji</dc:creator>
+	<dc:creator xml:lang="en">Suehiro, Fumikazu</dc:creator>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:description xml:lang="en">Wave directional spectrum is basic information as the forcing on the coastal process. The directional properties of coastal waves have been widely investigated through observations and the results are applied for design use of coastal structures and implementation of numerical wave model. But these studies focused only on wind waves under moderate sea conditions because the limitations of instruments such as buoys and wave staffs make them unsuitable for observing under various sea conditions including the severe sea. Thus there are few systematic studies for coastal engineering application which needs treatment for various sea state, from modest to severe sea. In this study, we observed the wave directional spectrum with the bottom mounted ADCP (Acoustic Doppler Current Profiler) which can record even under severe conditions. We investigated the directional properties of wind waves and swell with various scales.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8863</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8863/7661</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8863/8188</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

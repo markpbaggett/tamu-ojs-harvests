@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6410</identifier>
+				<datestamp>2023-10-04T03:36:59Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DETECTION OF SHIP PATHS ON DOCKING AND QUAY OCCUPATION ANALYSIS BASED ON A VIDEO-IMAGERY SYSTEM AS SUPPORT TO PORT MANAGEMENT</dc:title>
+	<dc:creator xml:lang="en">Gomez, Rebeca</dc:creator>
+	<dc:creator xml:lang="en">Molina, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Camarero, Alberto</dc:creator>
+	<dc:creator xml:lang="en">de los Santos, Francisco</dc:creator>
+	<dc:subject xml:lang="en">quay occupation</dc:subject>
+	<dc:subject xml:lang="en">operationality</dc:subject>
+	<dc:subject xml:lang="en">video-imagery</dc:subject>
+	<dc:description xml:lang="en">To manage a quay it is necessary to know the level of activity that is being developed on it. This is an imperative parameter for determining the trend of terminal capacity. This allows, among other things, to improve investments previsions, a better ship waiting time management and to select what kind of ship must operate in the terminal.   In Spain, Port Authorities have to apply activity fares to ships and terminal operators, based on their activity level and occupation data. In many cases there are not automated protocols to control this information, or it is directly provided by the operator.  From a probabilistic focus of the problem, R.O.M. 0.0. (2001) pointed out the necessity to assume a risk in the development of port activities. This work goes toward this goal by obtaining the areas where a greater density of activity is taking place on a dock. This information allows us to establish a probability map and then, determining a risk. To this end, ship trajectories must be monitored. The trajectories condition the availability of maneuver areas on the dock, the existence of interferences between different kind of ships and they provide fundamental information for the design of mooring systems (fenders, for instance). As a product of knowing ship trajectories we can obtain ship speed and approximation angle (both are data very dependent of each quay geometry and location) and other ship parameters.    The aim of this work has been to develop a video - monitoring system of port activities (Molina, R. et al. (2007)), that provides us quay use statistics and areas with greater probability of occupation (for instance, the probability of interaction between big cargo ships and leisure crafts or fishing boats). It is a real time information acquisition system, automated, low cost and able to cover extent areas. Because Port Authorities have disposal of communication infrastructures to serve security and access control, we propose to give them an additional use.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6410</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6410/pdf_461</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

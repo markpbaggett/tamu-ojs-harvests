@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2872</identifier>
+				<datestamp>2021-01-20T03:02:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL MODEL OF ESTUARINE POLLUTANT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Fischer, Hugo B.</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">pollutant transport</dc:subject>
+	<dc:description xml:lang="en">Pollutant transport studies in estuaries may be divided into two general types: firstly, those where a new pollutant will be discharged into an existing estuary; and secondly, those where the estuarine geometry will be changed permanently, The first type of problem is analyzed more easily because distributions of existing natural or artificial tracers can be used to determine rates of transport and diffusion. For this type of problem one-dimensional or time-averaged two-dimensional models, employing apparent diffusivities evaluated from existing tracers, are often satisfactory. When permanent changes in the system are envisaged, however, it is likely that the bulk or apparent diffusivities of space and time-averaged models will be changed in unpredictable ways. Hence to determine what will be the effect of dredging a new channel in an estuary, or permanently changing the distribution of fresh water inflow, more sophisticated models must include the underlying mechanisms of pollutant transport and diffusion. The purpose of this paper is to present a two-dimensional, non-time averaged model which is computationally fast, seems to be reasonably accurate, and can be used to predict the effect of permanent changes wherever a two dimensional representation is satisfactory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2872</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.125</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 125</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2872/2536</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

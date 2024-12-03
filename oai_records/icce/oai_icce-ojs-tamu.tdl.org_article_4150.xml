@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4150</identifier>
+				<datestamp>2021-01-19T19:38:59Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE UPLIFT ON PLATFORMS OR DOCKS IN VARIABLE DEPTH</dc:title>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:creator xml:lang="en">Lai, C.P.</dc:creator>
+	<dc:subject xml:lang="en">wave uplift</dc:subject>
+	<dc:subject xml:lang="en">platform lift</dc:subject>
+	<dc:subject xml:lang="en">dock life</dc:subject>
+	<dc:subject xml:lang="en">variable depth</dc:subject>
+	<dc:description xml:lang="en">Wave uplift forces on two dimensional platforms or docks in a variable depth medium has been studied theoretically and numerically. The incident waves are non-linear waves with maximum amplitude greater than the clearance between the still water surface and the underside of the platforms or docks. The flow is assumed to be inviscid, irrotational without ambient current. Thus, the theoretical model solves the Laplace equation along with full nonlinear free surface conditions. In order to conveniently handle the moving free surface in an irregular bottom topography with the presence of platform or dock an isoparametric mapping technique was used to transfer the fluid domain and its boundaries into a regular geometry. A Galerkin finite element model is developed to model the transformed fluid region. The resulting discrete equations are solved iteratively by using adaptive Line SOR (Successive-Over-Relaxation) technique. Artificial viscosity is included in both the dynamic and kinematic free surface equations to damp out the free surface oscillations in the front region of the platform or dock. The Runge-Kutta method is employed to integrate the time variation in the nonlinear free surface equations. Results obtained by the numerical method were compared to the available experimental data obtained by others in order to demonstrate the workability of the proposed algorithm.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4150</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.149</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 149</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4150/3831</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

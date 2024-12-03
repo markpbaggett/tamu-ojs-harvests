@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5230</identifier>
+				<datestamp>2021-01-19T13:30:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY OF DESIGN WAVE ESTIMATES</dc:title>
+	<dc:creator xml:lang="en">Rossouw, Jan</dc:creator>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:subject xml:lang="en">design waves</dc:subject>
+	<dc:subject xml:lang="en">wave stability</dc:subject>
+	<dc:subject xml:lang="en">stability estimates</dc:subject>
+	<dc:description xml:lang="en">Design wave heights are estimated for the Atlantic coasts of Southern Africa and the Iberian peninsula using the best available recorded data sets from the more exposed sites along these coasts. By spatial integration of the available data for a region and relaxing conditions with respect to independent sampling, stable estimates of design wave heights are obtained. Clear patterns are found in which the predicted design wave heights are strongly correlated with latitude. The recommendations of the IAHR committee on methods for design wave estimation are discussed and reservations are expressed about their recommendation to use only one method for design wave estimation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5230</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5230/4908</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

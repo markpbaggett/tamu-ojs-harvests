@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2984</identifier>
+				<datestamp>2021-01-20T02:22:11Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRAULICS OF TIDAL INLETS ON SANDY COASTS</dc:title>
+	<dc:creator xml:lang="en">Mayor-Mora, Ramiro</dc:creator>
+	<dc:subject xml:lang="en">tidal current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">sandy coast</dc:subject>
+	<dc:subject xml:lang="en">inlet hydraulic</dc:subject>
+	<dc:description xml:lang="en">A series of laboratory experiments was carried out on an idealized ocean inlet- bay system subjected to reversing flows caused by tidal and surface wave actions. The testing was done in a rectangular basin simulating a "bay" or "lagoon" and separated from an "ocean" basin by a sand barrier across which inlet pilot channels of varying cross sections and lengths were cut prior to starting each run; the ocean side of the barrier formed a 1:30 flat beach throughout the tests. Disturbances in the ocean were created by tide and wave generators. Their effects in the bay and inlet channel were measured by water level and current velocity recording units. Experimental measurements are presented here in normalized form in order to determine the relationships governing the hydraulic behaviour of a tidal inlet. These results are also compared to those obtained from a numerical approximation (the lumped parameter approach), all as functions of a proposed coefficient that includes the ocean-inlet-bay system characteristics. The experimental findings are further compared to available field data. Investigation of the effects of surface waves, controlling jetties, and fresh water inflow into the bay on the dimensionless parameters are also explored.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2984</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.89</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 89</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2984/2649</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

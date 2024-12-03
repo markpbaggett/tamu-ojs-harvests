@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10308</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSING UNCERTAINTY IN THE MODELING OF RUNUP AND SWASH MORPHODYNAMICS USING XBEACH</dc:title>
+	<dc:creator xml:lang="en">Rutten, Jantien</dc:creator>
+	<dc:creator xml:lang="en">Freyermuth, Alec Torres</dc:creator>
+	<dc:creator xml:lang="en">Puleo, Jack</dc:creator>
+	<dc:description xml:lang="en">Phase-resolving numerical models are frequently used tools to investigate short and long wave transformation, nonlinear wave interactions, and wave runup. Moreover, nearshore morphodynamics can be explored with the recent advancement of the models and computational resources. Sea surface elevation time series that force phase-resolving models at the offshore boundary are often unavailable. Therefore, time series are usually recreated from wave energy-frequency spectra through the superposition of harmonics. The wave phases of the harmonics are unknown and therefore assumed to be randomly distributed. This implies that an infinite number of time series with different sequencing of waves can be recreated from a single wave-energy spectrum and, for that reason, recreated time series are a source of uncertainty in model predictions. This intrinsic uncertainty has been found to cause variability in wave overtopping of structures (e.g., Pearson et al, 2002; Williams et al., 2014; Romano et al., 2015) and in setup and runup at beaches (McCabe et al., 2011; Torres-Freyermuth et al., 2019). Torres-Freyermuth et al. (2019) investigated the effect of intrinsic uncertainty on runup at planar beaches for different wave conditions and beach slopes and suggested that uncertainty is especially important under dissipative conditions. Yet unknown is the effect of intrinsic uncertainty on bed evolution. Here we assess the effect of intrinsic uncertainty on inner surf and swash zone evolution at three beaches with different beach morphology.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/w3zi3Yoo170</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10308</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10308/9594</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Jantien Rutten, Alec Torres Freyermuth, Jack Puleo</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

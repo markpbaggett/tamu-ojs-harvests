@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10327</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODEL OF TSUNAMI-LOADS ON A SEASIDE BUILDING ARRAY</dc:title>
+	<dc:creator xml:lang="en">Kihara, Naoto</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Masashi</dc:creator>
+	<dc:creator xml:lang="en">Kaida, Hideki</dc:creator>
+	<dc:creator xml:lang="en">Murase, Fumiya</dc:creator>
+	<dc:creator xml:lang="en">Kise, Koshu</dc:creator>
+	<dc:creator xml:lang="en">Nagai, Kaori</dc:creator>
+	<dc:creator xml:lang="en">Miyauchi, Toshiharu</dc:creator>
+	<dc:description xml:lang="en">The devastating damage to buildings and infrastructure caused by the 2011 Tohoku-oki earthquake and tsunami highlighted the importance of evaluating tsunami impacts in areas at risk of tsunami inundation for disaster prevention and mitigation. Evaluation technologies have been vigorously researched and developed over the past decade. A wide variety of numerical models exist that can potentially be applied to evaluate tsunami impacts. Furthermore, several either theoretical or empirical models to evaluate tsunami impacts, such as evaluation models of debris impact force and tsunami wave pressure, have been proposed. To validate these numerical and evaluation models, both experimental and theoretical benchmark tests have been conducted (e.g., Horrillo et al., 2015). Most of these tests have been conducted to validate models of tsunami generation, propagation, and inundation. However, the number of benchmark tests to validate tsunami loads are limited, and especially, those for complex terrains are rare. In this study, as a benchmark test to validate modeling of tsunami inundation and wave pressure, hydraulic experiments of tsunami inundations were conducted over a seaside area model, in which building arrays were installed. The inundation depth, velocity, and pressure were numerically predicted for the condition of the benchmark test, and then compared with the measured data for validation.
+</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10327</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10327/9613</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Naoto Kihara, Taro Arikawa, Masashi Watanabe, Hideki Kaida, Fumiya Murase, Koshu Kise, Kaori Nagai, Toshiharu Miyauchi</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

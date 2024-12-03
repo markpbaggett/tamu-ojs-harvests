@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4800</identifier>
+				<datestamp>2021-01-19T15:56:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL DETERMINATION OF WAVE INDUCED FLOW IN RUBBLE MOUND BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Sun, Z.C.</dc:creator>
+	<dc:creator xml:lang="en">Williams, A.F.</dc:creator>
+	<dc:creator xml:lang="en">Allsop, N.W.H.</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">rubble mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">numerical determination</dc:subject>
+	<dc:subject xml:lang="en">wave induced flow</dc:subject>
+	<dc:description xml:lang="en">This paper describes a numerical model of wave action onto and into a rubble mound breakwater. The model is constructed of two parts, the wave action on the exterior of the mound in which a boundary element method is used and flow inside the rubble mound in which a finite element method is used. The two parts of the model are coupled by demanding continuity of flow through the front face of the breakwater. The predicted pressures within the core of the rubble mound are compared with data collected from physical model tests.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4800</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4800/4481</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

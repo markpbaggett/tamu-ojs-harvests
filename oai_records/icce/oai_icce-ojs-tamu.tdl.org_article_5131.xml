@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5131</identifier>
+				<datestamp>2021-01-19T14:02:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE BREAKING AND INDUCED NEARSHORE CIRCULATIONS</dc:title>
+	<dc:creator xml:lang="en">Sorensen, Ole R.</dc:creator>
+	<dc:creator xml:lang="en">Schaffer, Hemming A.</dc:creator>
+	<dc:creator xml:lang="en">Madsen, Per A.</dc:creator>
+	<dc:creator xml:lang="en">Deigaard, Rolf</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">nearshore circulation</dc:subject>
+	<dc:description xml:lang="en">Wave breaking and wave induced currents are studied in two horizontal dimensions. The wave-current motion is modelled using a set of Boussinesq type equations including the effects of wave breaking and runup. This is done without the traditional splitting of the phenomenon into a wave problem and a current problem. Wave breaking is included using the surface roller concept and runup is simulated by use of a modified slot-technique. In the environment of a plane sloping beach two different situations are studied. One is the case of a rip channel and the other concerns a detached breakwater parallel to the shoreline. In both situations wave driven currents are generated and circulation cells appear. This and many other nearshore physical phenomena are described qualitatively correct in the simulations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5131</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5131/4809</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

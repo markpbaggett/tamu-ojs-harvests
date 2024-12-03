@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2837</identifier>
+				<datestamp>2021-01-20T03:15:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PROBABILISTIC APPROACH TO DETERMINE WAVE FORCES ON OCEAN PILE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Schueller, G.I.</dc:creator>
+	<dc:creator xml:lang="en">Shah, H.C.</dc:creator>
+	<dc:subject xml:lang="en">pile</dc:subject>
+	<dc:subject xml:lang="en">force on pile</dc:subject>
+	<dc:subject xml:lang="en">probability</dc:subject>
+	<dc:description xml:lang="en">Multiple linear regression analysis is applied to predict horizontal velocities and acceleration of water particles subjected to waves. Furthermore it was used to predict the coefficient of drag for circular piles. The mean value functions of the parameters are calculated and the assumption of their lognormal distribution reasonably well verified. The method used here is free from theoretical assumptions about wave mechanisms and, hence, explains the behavior of experimental results. Using Monte Carlo simulation these regression relations were then utilized to generate the distribution functions of wave forces. Using the Morison force equation, in this simulation, the distribution function for the drag and the inertial components of the force are determined separately. A linear superposition of those time varying processes was performed to obtain the distribution of the total maximum force. Finally a probabilistic wave height-wave force relationship was developed for the purpose of creating a force distribution function given a random sea state.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2837</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.90</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 90</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2837/2501</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

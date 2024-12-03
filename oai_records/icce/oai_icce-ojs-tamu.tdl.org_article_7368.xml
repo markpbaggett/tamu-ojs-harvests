@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7368</identifier>
+				<datestamp>2021-01-19T04:48:27Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING OF RESONANCE RESPONSE OF DAWEI SEAPORT TO TSUNAMI WAVES</dc:title>
+	<dc:creator xml:lang="en">Zhang, Yang</dc:creator>
+	<dc:creator xml:lang="en">Onodera, Maki</dc:creator>
+	<dc:creator xml:lang="en">Carr, Chris</dc:creator>
+	<dc:subject xml:lang="en">Dawei port</dc:subject>
+	<dc:subject xml:lang="en">port response</dc:subject>
+	<dc:subject xml:lang="en">resonance response</dc:subject>
+	<dc:subject xml:lang="en">amplification</dc:subject>
+	<dc:subject xml:lang="en">tsunami waves</dc:subject>
+	<dc:subject xml:lang="en">tsunami currents</dc:subject>
+	<dc:subject xml:lang="en">rotational currents</dc:subject>
+	<dc:subject xml:lang="en">natural periods</dc:subject>
+	<dc:subject xml:lang="en">fundamental modes</dc:subject>
+	<dc:description xml:lang="en">A numerical model based on the nonlinear shallow water equations was used to investigate the response of the Dawei Seaport to approaching synthetic tsunami waves. Dawei Port is a new mega deep seaport currently under development, located on southeastern coast of Myanmar just north of the city of Dawei. Tsunami waves at the model boundary were determined based on post-tsunami surveys along the Myanmar coastline from the 2004 Indian Ocean Tsunami, and further sensitivity tests on tsunami wave periods were performed. Model results show that the largest amplification of the tsunami wave within the inner port is over 5 times, associated with wave period of 40 minutes. This is in good agreement with the fundamental natural period of 36.5 minutes determined by a white-noise analysis using a local Boussinesq model. Sensitivity tests suggest that tsunami amplification increases with the coincident tide level, and if a tsunami (2m in height and 20 minute in period) similar to the 2004 tsunami were to arrive at high tide, the tsunami elevation would exceed the proposed deck level and likely cause flooding of port facilities. As tsunami waves approach the port area, strong rotational currents are predicted at the port entrance area and in the outer harbor of the port, and topographically-controlled jet-like strong currents are predicted in the primary basin. The strongest currents with flow speeds well over 2m/s and 3m/s for tsunami wave periods of 20 minutes and 40 minutes, respectively, are expected around tips of the breakwaters, at the port entrance and in the primary basin.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7368</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7368/pdf_735</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

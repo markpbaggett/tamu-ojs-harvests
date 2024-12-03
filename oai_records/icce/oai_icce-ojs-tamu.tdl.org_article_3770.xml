@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3770</identifier>
+				<datestamp>2021-01-19T21:52:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDAL AND INERTIAL CURRENTS AROUND SOUTH AFRICA</dc:title>
+	<dc:creator xml:lang="en">Schumann, E.H.</dc:creator>
+	<dc:creator xml:lang="en">Perrins, L.A.</dc:creator>
+	<dc:subject xml:lang="en">South Africa</dc:subject>
+	<dc:subject xml:lang="en">tidal current</dc:subject>
+	<dc:subject xml:lang="en">inertial current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">Limited information is available on currents in the semi-diurnal and diurnal frequency bands for the coastal ocean areas around Southern Africa. However, recently mooring data have become available from sites on the east, south and west coasts, and this paper analyses these results in an attempt to assess the importance of tidal and inertial currents. It is clear that on the narrow shelf on the east coast the Agulhas Current dominates the energy spectrum, and tidal currents should be relatively unimportant at such sites. In the south on the Agulhas Bank the Current is still important, but comparable energy resides in inertial and tidal fluctuations. Modal analysis indicates the tides are primarily barotropic, with the inertial fluctuations mainly baroclinic. In the absence of a major current on the west coast, most of the current variance occurs in the tidal and inertial bands; a complex vertical structure is also found. It is therefore clear that there are regions where such currents cannot be ignored.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3770</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.155</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 155</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3770/3453</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

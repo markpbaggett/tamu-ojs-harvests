@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3425</identifier>
+				<datestamp>2021-01-19T23:51:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SOME IMPLICATIONS OF RECENT ADVANCES IN WAVE THEORIES</dc:title>
+	<dc:creator xml:lang="en">Chaplin, J.R.</dc:creator>
+	<dc:creator xml:lang="en">Anastasiou, K.</dc:creator>
+	<dc:subject xml:lang="en">wave theory</dc:subject>
+	<dc:subject xml:lang="en">theory implications</dc:subject>
+	<dc:description xml:lang="en">Calculations using the 'Design Wave' approach in coastal and offshore engineering begin with the specification of wave conditions usually in terms of a wave height, wave period and mean water depth. These three dimensional parameters are sufficient to define all the wave characteristics uniquely if a number of assumptions are adopted, including those of periodicity in space and time, absence of viscosity, and twodimensional flow. Although these assumptions result in an enormous simplification of waves in the ocean, the ultimate idealised conditions hold some attraction in providing a standard description of wave mechanics for design purposes. Once the design wave approach has been adopted, it follows that the engineer needs to ensure that the theory which he uses to analyse waves generates results equivalent to those of the most accurate theory currently available. There are in engineering use several wave theories (e.g., Airy, Stokes 5th order, Cnoidal, Stream Function) by means of which required wave properties can be computed from an initial wave specification on the basis of ideal conditions. Unfortunately, none of these theories is exact and in general they disagree, most significantly in conditions of shallow water or high wave steepnesses. The differences between them have stimulated comparative studies based on boundary condition errors (Dean, 1970) and experimental data (Le Mehaute et al, 1968), leading to recommendations on the use of specific theories for given conditions. However, the value of these comparisons has been somewhat limited by the absence of an accurate solution to the problem valid over the whole range of interest. Such a solution has now been brought nearer by the work of Cokelet (1977), and it is the purpose of this paper to study the implementation of Cokelet's theory and other recent theories in an engineering context. The paper does not make any contribution to the analysis itself but is concerned with applications, and the question whether such developments should influence current engineering practice. Previously, the wave theory offering greatest analytical accuracy and widest range of application was the Stream Function Theory of Dean (1965).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3425</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3425/3105</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

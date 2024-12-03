@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7430</identifier>
+				<datestamp>2021-01-19T04:41:40Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL AND EXPERIMENTAL STUDY ON WAVE-CURRENT INTERACTIONS OVER A SUBMERGED BAR</dc:title>
+	<dc:creator xml:lang="en">Ning, Dezhi</dc:creator>
+	<dc:creator xml:lang="en">Su, Xiaojie</dc:creator>
+	<dc:creator xml:lang="en">Chen, Lifen</dc:creator>
+	<dc:creator xml:lang="en">Teng, Bin</dc:creator>
+	<dc:subject xml:lang="en">Wace-current interaction</dc:subject>
+	<dc:subject xml:lang="en">numerical wave flume</dc:subject>
+	<dc:subject xml:lang="en">time-domain higher-order boundary element method</dc:subject>
+	<dc:subject xml:lang="en">fully nonlinear</dc:subject>
+	<dc:subject xml:lang="en">uniform current</dc:subject>
+	<dc:subject xml:lang="en">submerged bar.</dc:subject>
+	<dc:description xml:lang="en">Wave-current interactions are simulated by a fully-nonlinear numerical wave tank (NWT). The model is developed based on the time-domain higher-order boundary element method (HOBEM). The mixed Eulerian-Lagrangian scheme is adopted to track the transient free surface with the fourth-order Runga-Kutta method for refreshing wave profile and velocity potential at the next time step. The meshes are regridded at each time step to avoid numerical instabilities caused by mesh motions. An image Green function is utilized to increase the speed of computation. Using the developed NWT, nonlinear wave-current interactions (1) without body; (2) with a submerged vertical bar for various wave and current conditions have been simulated. The physical experiment on evolution of waves in uniform current is carried out in a wave flume at Dalian University of Technology. The flume is 69.0m long, 3.0m wide and 1.8m deep. The experimental setup is shown in Fig.1. The flume is equipped with a hydraulically driven, irregular wave generator at one end, and a wave absorber at the other. The still-water depth (h) used in this study was 0.6m, and then a vertical submerged bar was installed along the bottom of flume. It was 0.4m height and 0.5m width. In order to record the wave transformation and propagation clearly, five wave gauges were installed. The incident wave amplitude is varied from 0.025m to 0.054m, and incident wave periods are 1s and 2s, respectively. Currents are introduced by a bidirectional centrifugal pump. Following currents flow in the same direction as wave propagation, and its velocity was set for positive, and the opposite situation represented opposing currents. An acoustic Doppler velocimeter (ADV) was used to measure the current velocity and the mean velocity U0=0.2m/s was chosen. The numerical results and experimental data are compared well with each other. The effects of currents and submerged bar on wave profile, higher-harmonic waves and reflection coefficient are further studied, respectively.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7430</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7430/pdf_758</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

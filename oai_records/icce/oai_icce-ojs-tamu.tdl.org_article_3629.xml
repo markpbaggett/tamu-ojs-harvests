@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3629</identifier>
+				<datestamp>2021-01-19T22:40:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SOME PROPERTIES OF SWELL IN THE SOUTHERN OCEAN</dc:title>
+	<dc:creator xml:lang="en">Hinwood, John B.</dc:creator>
+	<dc:creator xml:lang="en">Blackman, Deane R.</dc:creator>
+	<dc:creator xml:lang="en">Lleonart, Geoffrey T.</dc:creator>
+	<dc:subject xml:lang="en">swell</dc:subject>
+	<dc:subject xml:lang="en">Southern Ocean</dc:subject>
+	<dc:subject xml:lang="en">swell properties</dc:subject>
+	<dc:description xml:lang="en">Records of pressure from a bottom-resident instrument deployed near the western margin of Bass Strait have been analysed. Discrete wind-sea and swell spectra have been identified and have been related to meteorological events. The spectra fit a finite-depth form of the Wallops spectrum.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3629</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3629/3312</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

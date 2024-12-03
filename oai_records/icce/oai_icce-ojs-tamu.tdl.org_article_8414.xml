@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8414</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL INVESTIGATION OF BREAKING IRREGULAR WAVES OVER A SUBMERGED BAR WITH CFD</dc:title>
+	<dc:creator xml:lang="en">Aggarwal, Ankit</dc:creator>
+	<dc:creator xml:lang="en">Chella, Mayilvahanan Alagan</dc:creator>
+	<dc:creator xml:lang="en">Kamath, Arun</dc:creator>
+	<dc:creator xml:lang="en">Bihs, Hans</dc:creator>
+	<dc:description xml:lang="en">The study of breaking irregular waves is of great practical interest, because of the waves found in the nature. Regular waves are seldom found in the field. Irregular waves can be viewed as the superposition of a number of regular waves (wave components) with the different frequencies and the amplitudes. The breaking process for irregular waves is more complex as compared to breaking regular waves. The energy transfer between the individual wave components of different frequencies also takes place during the breaking process. Due to this, the spectral characteristics of the incident wave spectrum change during the breaking process. The main purpose of the study is to investigate the hydrodynamics during the interaction of breaking irregular waves with a submerged bar.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8414</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8414/7222</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8414/7871</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

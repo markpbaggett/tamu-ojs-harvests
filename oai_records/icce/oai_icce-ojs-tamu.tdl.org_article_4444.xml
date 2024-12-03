@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4444</identifier>
+				<datestamp>2021-01-19T17:58:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL MODEL FOR REFRACTION COMPUTATION OF IRREGULAR WAVES DUE TO TIME-VARYING CURRENTS AND WATER DEPTH</dc:title>
+	<dc:creator xml:lang="en">Yamaguchi, Masataka</dc:creator>
+	<dc:creator xml:lang="en">Hatada, Yoshio</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">refraction computation</dc:subject>
+	<dc:subject xml:lang="en">irregular waves</dc:subject>
+	<dc:subject xml:lang="en">time-varying current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">time varying depth</dc:subject>
+	<dc:description xml:lang="en">This paper presents two models for current-depth refraction of directional spectra due to time-varying currents and water depth, in which a piecewise ray method and a full ray method are used for numerical computations respectively. The results computed by the piecewise ray model in the cases of time-varying one-dimensional and two-dimensional currents are in reasonable agreement with those by the full ray model, which gives the almost exact solution in the case of linear current and water depth variations, except for a slight difference during the phase of strong opposing currents. The computations indicate that time-dependency of currents gives rise to a phase difference between wave height and current variations, and reduction in the amplification effect of directional spectrum due to opposing currents in comparison with steady current case.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4444</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4444/4125</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

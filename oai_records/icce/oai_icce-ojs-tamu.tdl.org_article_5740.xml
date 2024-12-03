@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5740</identifier>
+				<datestamp>2021-01-19T10:41:33Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE TRANSMISSION AT SUBMERGED RUBBLEMOUND BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Seabrook, Stuart R.</dc:creator>
+	<dc:creator xml:lang="en">Hall, Kevin R.</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">rubble mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">submerged breakwater</dc:subject>
+	<dc:description xml:lang="en">Submerged rubblemound breakwaters are becoming more popular as a potential alternative to coastal protection measures where a moderate degree of energy transmission is acceptable. Such situations include areas where vegetative shore protection is existing or proposed or in the event that an existing shore protection structure has become damaged or under designed and a method is needed to reduce the incident wave energy. Although there have been previous investigations on the performance of submerged rubblemound breakwaters, there are only a few design equations available to the design engineer. Those available are based on a limited range of input design variables and as a result are insufficient in some cases. Physical model studies were performed at the Queen's University Coastal Engineering Research Laboratory (QUCERL) in Kingston, Canada to assess the performance of submerged rubblemound breakwaters under a wide range of design conditions in twodimensional (2-D) and three-dimensional (3-D) settings. The tests include a number of wide crested structures to provide data where previous investigations have not. The results show that the relative submergence, incident wave height and structure crest width are the most important design variables. A number of potential design equations were evaluated by statistical analysis methods. The proposed design equation fits the 2-D test data well and provides moderate agreement with the 3-D test results. Although physical testing is suggested for all design applications due to the complexity of site specific considerations, the proposed equation does provide a good preliminary design tool for submerged rubblemound breakwaters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5740</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5740/5410</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

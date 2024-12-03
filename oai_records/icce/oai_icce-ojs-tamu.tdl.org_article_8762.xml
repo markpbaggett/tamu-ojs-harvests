@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8762</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PREDICTIVE FUZZY LOGIC MODEL TO BIMODAL WAVE PARTITIONING IN WELSH COASTLINE</dc:title>
+	<dc:creator xml:lang="en">Orimoloye, Stephen</dc:creator>
+	<dc:creator xml:lang="en">Reeve, Dominic E.</dc:creator>
+	<dc:creator xml:lang="en">Karunarathna, Harshinie</dc:creator>
+	<dc:description xml:lang="en">Bimodal seas are usually characterised by the combination of swell and locally generated wind energy. Understanding the percentage of the swell component (SC) and the wind component (WC) partitioned from the energy content of a Wave System (WS) is important in coastal defense design and management. The South Wales and southwest England wave climate is mostly characterised by bimodal wave spectra because they are directly facing the North Atlantic Ocean. In this paper, we describe the application of fuzzy logic to develop an efficient wave partitioning system for bimodal wave energy separation that can be used to characterise the percentage of swell and wind waves in a measured sea state.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8762</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8762/7563</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6800</identifier>
+				<datestamp>2023-10-04T02:36:52Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REAL-TIME ASSESSMENT OF WAVE AND SURGE RISK DUE TO LANDFALLING HURRICANES</dc:title>
+	<dc:creator xml:lang="en">Taflanidis, Alexandros Angfelos</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, Andrew B.</dc:creator>
+	<dc:creator xml:lang="en">Westerink, Joannes J.</dc:creator>
+	<dc:creator xml:lang="en">Smith, Jane McKee</dc:creator>
+	<dc:creator xml:lang="en">Kijewski-Correa, Tracy</dc:creator>
+	<dc:creator xml:lang="en">Cheung, Kwok Fai</dc:creator>
+	<dc:subject xml:lang="en">hurricane risk</dc:subject>
+	<dc:subject xml:lang="en">response surface approximations</dc:subject>
+	<dc:subject xml:lang="en">joint probability method</dc:subject>
+	<dc:subject xml:lang="en">coastal hazard</dc:subject>
+	<dc:subject xml:lang="en">cyber-infrastructure</dc:subject>
+	<dc:description xml:lang="en">In this work, a probabilistic framework is presented for real-time assessment of wave and surge risk for hurricanes approaching landfall. This framework has two fundamental components. The first is the development of a surrogate model for the rapid evaluation of hurricane waves, water levels, and runup based on a small number of parameters describing each hurricane: hurricane landfall location and heading, central pressure, forward speed, and radius of maximum winds. This surrogate model is developed using a response surface methodology fed by information from hundreds of pre-computed, high-fidelity model runs. For a specific set of hurricane parameters (i.e., a specific landfalling hurricane), the surrogate model is able to evaluate the maximum wave height, water level, and runup during the storm at a cost that is more than seven orders of magnitude less than the high fidelity models and thus meet time constraints imposed by emergency managers and decision makers. The second component to this framework is a description of the uncertainty in the parameters used to characterize the hurricane, through appropriate probability models, which then leads to quantification of hurricane-risk in terms of a probabilistic integral. This integral is then efficiently computed using the already established surrogate model by analyzing thousands of different scenarios (based on the aforementioned probabilistic description). Finally, by leveraging the computational simplicity and efficiency of the surrogate model, a simple stand-alone PC-based risk assessment tool is developed that allows non-expert end users to take advantage of the full potential of the framework. An illustrative example is presented that considers applications of these tools for hurricane risk estimation for Oahu. The development of cyber-infrastructure at the University of Notre Dame to further support these initiatives is also discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6800</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6800/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

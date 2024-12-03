@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6723</identifier>
+				<datestamp>2023-10-04T02:58:56Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTATIONAL FLUID DYNAMIC ANALYSIS OF HIGHWAY BRIDGES EXPOSED TO HURRICANE WAVES</dc:title>
+	<dc:creator xml:lang="en">Bozorgnia, Mehrdad</dc:creator>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:subject xml:lang="en">Wave Structure Interaction</dc:subject>
+	<dc:subject xml:lang="en">Computational Fluid Dynamic (CFD)</dc:subject>
+	<dc:subject xml:lang="en">Escambia Bay Bridge</dc:subject>
+	<dc:description xml:lang="en">In present paper, numerical code STAR CCM+ by CD-adapco which works based on compressible two-phase Navier Stokes equations is used to evaluate hydrodynamic forces exerted on prototype of I10 Bridge over Escambia Bay which was extensively damaged during Hurricane Ivan. Volume of Fluid (VOF) is used to capture dynamic free surface which is well suited for simulating complex discontinuous free surface associated with wave-deck interactions. 2D and 3D models were setup and properly configured. Simulations were conducted on High performance Computing and Communication Center (HPCC) at University of Southern California. Simulation results are compared to experimental data available from Hinsdale Wave Laboratory at Oregon State University. Comparison of experimental data to simulation results show the importance of proper mesh size and time step choice on accuracy of horizontal and vertical hydrodynamic force predictions applied to bridge superstructure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6723</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6723/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7439</identifier>
+				<datestamp>2021-01-19T04:40:45Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RELIABILITY ANALYSIS OF BEACHES AS DEFENSES AGAINST STORM IMPACTS UNDER A CLIMATE CHANGE SCENARIO</dc:title>
+	<dc:creator xml:lang="en">Sánchez-Arcilla, Agustín</dc:creator>
+	<dc:creator xml:lang="en">Gómez, Marta</dc:creator>
+	<dc:creator xml:lang="en">Gracia, Vicente</dc:creator>
+	<dc:creator xml:lang="en">Gironella, Xavi</dc:creator>
+	<dc:creator xml:lang="en">García-Leon, Manuel</dc:creator>
+	<dc:subject xml:lang="en">Beach flooding</dc:subject>
+	<dc:subject xml:lang="en">MonteCarlo simulations</dc:subject>
+	<dc:subject xml:lang="en">Climate change</dc:subject>
+	<dc:subject xml:lang="en">Overtopping</dc:subject>
+	<dc:description xml:lang="en">An analysis of the probability of failure of beaches along the Catalan coast (Northwestern Mediterranean) is presented. The failure condition is defined when waves are able to overtop the beach and reach the backshore. The analysis is performed by means of a verification equation where most of the related variables are assumed to be stochastic. The probability of failure of beaches is calculated by means of MonteCarlo simulations for present conditions and different climate change scenarios. At present 14% of the Catalan beaches fail the proposed protection function against storms. Under a high-end climate change projection (A1FI) 21% of beaches will fail.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7439</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7439/pdf_761</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

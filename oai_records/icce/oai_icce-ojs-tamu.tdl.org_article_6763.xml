@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6763</identifier>
+				<datestamp>2023-10-04T02:56:28Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EDDY VISCOSITY PROFILES FOR WAVE BOUNDARY LAYERS:  VALIDATION AND CALIBRATION BY A k-Ï‰ MODEL</dc:title>
+	<dc:creator xml:lang="en">Absi, Rafik</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Hitoshi</dc:creator>
+	<dc:creator xml:lang="en">Kerlidou, Loreline</dc:creator>
+	<dc:creator xml:lang="en">André, Alicia</dc:creator>
+	<dc:subject xml:lang="en">wave boundary layers</dc:subject>
+	<dc:subject xml:lang="en">eddy viscosity profiles</dc:subject>
+	<dc:subject xml:lang="en">two-equation k-Ï‰ model</dc:subject>
+	<dc:subject xml:lang="en">validation</dc:subject>
+	<dc:subject xml:lang="en">calibration</dc:subject>
+	<dc:description xml:lang="en">Eddy viscosity in wave boundary layers is a key parameter in coastal engineering. Two analytical eddy viscosity profiles present a particular interest for practical applications: the parabolic-uniform profile (Myrhaug 1982, van Rijn 1993, Liu and Sato 2006) and the exponential-linear profile (Gelfenbaum and Smith 1986, Beach and Sternberg 1988, Hsu and Jan 1998, Absi 2010). The aim of our study is to assess and validate these two profiles by: (1) investigation of eddy viscosity in steady fully developed plane channel flow; (2) comparisons with numerical results of the two equation baseline (BSL) k-Ï‰ model (Menter 1994, Suntoyo and Tanaka 2009). Our study shows that these two profiles are able to describe the eddy viscosity distribution in the wave bottom boundary layer but for different wave conditions given by the parameter am/ks, where am is the wave orbital amplitude and ks the equivalent roughness. The exponential-linear profile is adequate for am/ks </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6763</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6763/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

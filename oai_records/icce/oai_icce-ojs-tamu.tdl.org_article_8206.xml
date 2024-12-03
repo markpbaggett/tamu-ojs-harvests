@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8206</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING METHODOLOGY FOR TSUNAMI FLOOD RISK ASSESSMENT IN URBAN AREAS</dc:title>
+	<dc:creator xml:lang="en">Carrion, Benjamin</dc:creator>
+	<dc:creator xml:lang="en">Burgos, Luis</dc:creator>
+	<dc:creator xml:lang="en">Rozas, Carlos</dc:creator>
+	<dc:subject xml:lang="en">tsunami risk assessment</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic modelling</dc:subject>
+	<dc:subject xml:lang="en">built environment</dc:subject>
+	<dc:description xml:lang="en">Several recent tsunami events worldwide have increased the general public´s awareness of the inherent risk many coastal communities face. Accordingly, academics and professionals have sought to acquire a better understanding of the underlying physical processes involved, and have developed increasingly sophisticated numerical tools to simulate them. One important characteristic of the tsunami flood tragedies that must be acknowledged is that they occur in urban areas, where the built environment is likely to determine the flow, and hence, the flood risk. Despite this fact, relatively little literature covers the particular challenges of modelling the hydrodynamic interactions of the tsunami flood and the buildings and infrastructure. In this work we propose the indirect inclusion of the built environment's effect by actually excluding every building from the numerical domain, enclosing them in an internal reflective boundary condition. The objective is two-fold: it allows a reasonable inclusion of the flow funneling, and it reduces the number of cells in the numerical domain, allowing the use of a higher grid resolution in the expected wet domain, and to achieve shorter simulation runtimes. The methodology was validated against measurements of flow depth, velocity, and momentum on a scale model of the city of Seaside, Oregon. The model and methodology were subsequently used to produce flood depth and velocity maps for 11 coastal cities in Chile, caused by the likely maximum mega-thrust earthquake for each of them.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8206</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8206/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/964</identifier>
+				<datestamp>2023-10-04T04:21:40Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LAGRANGIAN BREAKER CHARACTERISTICS FOR NONLINEAR WATER WAVES PROPAGATING ON SLOPING BOTTOMS</dc:title>
+	<dc:creator xml:lang="en">Chen, Yang-Yih</dc:creator>
+	<dc:creator xml:lang="en">Li, Meng-Syue</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Hung-Chu</dc:creator>
+	<dc:creator xml:lang="en">Lin, Ying-Pin</dc:creator>
+	<dc:subject xml:lang="en">breaker characteristics</dc:subject>
+	<dc:subject xml:lang="en">Lagrangian</dc:subject>
+	<dc:subject xml:lang="en">sloping bottoms</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave</dc:subject>
+	<dc:description xml:lang="en">In this paper, a new third-order Lagrangian asymptotic solution describing nonlinear water wave propagation on the surface of a uniform sloping bottom is presented. The model is formulated in the Lagrangian variables and we use a two-parameter perturbation method to develop a new mathematical derivation. The particle trajectories, wave pressure and Lagrangian velocity potential are obtained as a function of the nonlinear wave steepness ï¥ and the bottom slope ï¡ perturbed to third order. The analytical solution in Lagrangian form satisfies state of the normal pressure at the free surface. The condition of the conservation of mass flux is examined in detail for the first time. The two important properties in Lagrangian coordinates, Lagrangian wave frequency and Lagrangian mean level, are included in the third-order solution. The solution can also be used to estimate the mean return current for waves progressing over the sloping bottom. The Lagrangian solution untangle the description of the features of wave shoaling in the direction of wave propagation from deep to shallow water, as well as the process of successive deformation of a wave profile and water particle trajectories leading to wave breaking. The proposed model has proved to be capable of a better description of non-linear wave effects than the corresponding approximation of the same order derived by using the Eulerian description. 
+The proposed solution has also been used to determine the wave shoaling process, and the comparisons between the experimental and theoretical results are presented in Fig.1a~1b. In addition, the basic wave-breaking criterion, namely the kinematical Stokes stability condition, has been investigated. The comparisons between the present theory, empirical formula of Goda (2004) and the experiments made by Iwagali et al.(1974), Deo et al.(2003) and Tsai et al.(2005) for the breaking index(Hb/L0) versus the relative water depth(d0/L0) under two different bottom slopes are depicted in Figs 2a~2b. It is found that the theoretical breaking index is well agreement with the experimental results for three bottom slopes. However,for steep slope of 1/3 shown in Fig 2b, the result of Goda's empirical formula gives a larger value in comparison with the experimental data and the present theory. Some of empirical formulas presented the breaking wave height in terms of deepwater wave condition, such as in Sunamura (1983) and in Rattanapitikon and Shibayama(2000). Base on the results depicted in Fig. 3a~3b, it showed that the theoretical results are in good agreement with the experimental data (Iwagali et al. 1974, Deo et al.2003 and Tsai et al. 2005) than the empirical formulas. The empirical formula of Sunamura (1983) always predicts an overestimation value.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/964</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/964/pdf_146</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

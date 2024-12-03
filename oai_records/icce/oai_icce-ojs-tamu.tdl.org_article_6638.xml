@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6638</identifier>
+				<datestamp>2023-10-04T03:09:04Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A COMPREHENSIVE SEDIMENT BUDGET FOR THE MISSISSIPPI BARRIER ISLANDS</dc:title>
+	<dc:creator xml:lang="en">Walstra, Dirk-Jan</dc:creator>
+	<dc:creator xml:lang="en">de Vroeg, J.</dc:creator>
+	<dc:creator xml:lang="en">van Thiel de Vries, J.</dc:creator>
+	<dc:creator xml:lang="en">Swinkels, C.</dc:creator>
+	<dc:creator xml:lang="en">Luijendijk, A.</dc:creator>
+	<dc:creator xml:lang="en">de Boer, W.</dc:creator>
+	<dc:creator xml:lang="en">Hoekstra, R.</dc:creator>
+	<dc:creator xml:lang="en">Hoonhout, B.</dc:creator>
+	<dc:creator xml:lang="en">Henrotte, J.</dc:creator>
+	<dc:creator xml:lang="en">Smolders, T.</dc:creator>
+	<dc:creator xml:lang="en">Dekker, F.</dc:creator>
+	<dc:creator xml:lang="en">Godsey, E.</dc:creator>
+	<dc:subject xml:lang="en">sediment budget</dc:subject>
+	<dc:subject xml:lang="en">Mississippi</dc:subject>
+	<dc:subject xml:lang="en">barrier islands</dc:subject>
+	<dc:subject xml:lang="en">transport modeling</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:subject xml:lang="en">MsCIP</dc:subject>
+	<dc:description xml:lang="en">In order to conceive any realistic plan for post-Katrina island restoration, it is necessary to understand the physical processes that move sand along the littoral drift zone off the coast of Mississippi. This littoral zone influences the character of the Mississippi barrier islands as they exist in an ever changing cycle. To help in this understanding, a sediment transport model was conducted to establish a current sediment budget for the islands. This study evaluated the existing regional sediment transport magnitudes and directions for the Mississippi and Alabama barrier islands fronting Mississippi Sound including daily conditions and hurricanes. A method was developed to incorporate all relevant hurricanes from 1917 to 2010 in the analysis. For the long term average net longshore transport along the southern shorelines of the barriers (i.e. exposed to the Gulf of Mexico), the contribution of year-averaged conditions and hurricanes are of similar order of magnitude, although the mean annual percentage occurrence of hurricanes is no more than about 3%. Along the northern shores (Mississippi Sound side) the transport is considerably smaller and the contributions of cold fronts and hurricanes to the sediment transports are more or less equal. For the year-averaged conditions (excluding hurricanes) a westward directed net transport is found. The net effect of the historic hurricanes is also westward in direction. However, for individual hurricanes (e.g. Camille and Katrina) the net transport along Ship Island can be directed eastward due to the dominance of ebb flows after the eye of the hurricane had passed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6638</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.81</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.81</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6638/pdf_620</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

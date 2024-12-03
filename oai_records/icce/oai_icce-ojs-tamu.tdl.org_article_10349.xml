@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10349</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATIONS ON INFLUENCE OF LONG-TERM FLUCTUATION OF MEAN WATER LEVEL ON SAND WAVES IN THE KANMON WATERWAY, JAPAN</dc:title>
+	<dc:creator xml:lang="en">Yamagata, Shiro</dc:creator>
+	<dc:creator xml:lang="en">Orishikise, Shouya</dc:creator>
+	<dc:creator xml:lang="en">Yamashiro, Masaru</dc:creator>
+	<dc:creator xml:lang="en">Nakagawa, Yasuyuki</dc:creator>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:creator xml:lang="en">Kukita, Hiroki</dc:creator>
+	<dc:creator xml:lang="en">Igata, Hiromasa</dc:creator>
+	<dc:description xml:lang="en">In this study, the numerical simulation of tidal current and sediment transport in the Kanmon Waterway were performed by using a numerical simulation model FVCOM (Finite Volume Community Ocean Model (Chen et al. 2003)), in order to discuss the influence of the long-term fluctuation of mean water level on the sand waves. The numerical simulation results suggested that the spatial difference of the long-term fluctuation of mean water level in the Kanmon Straits slightly changes the tidal current around Tanoura Area, and consequently affects the development of sand waves.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/kfMfIVGiLKM</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10349</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10349/9635</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Shiro Yamagata, Shouya Orishikise, Masaru Yamashiro, Yasuyuki Nakagawa, Noriaki Hashimoto, Hiroki Kukita, Hiromasa Igata</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

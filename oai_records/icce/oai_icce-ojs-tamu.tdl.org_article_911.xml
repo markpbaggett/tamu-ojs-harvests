@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/911</identifier>
+				<datestamp>2021-01-17T07:36:17Z</datestamp>
+				<setSpec>icce:ICCE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORECASTING AND HINDCASTING</dc:title>
+	<dc:creator xml:lang="en">Arthur, Robert S.</dc:creator>
+	<dc:subject xml:lang="en">wave prediction</dc:subject>
+	<dc:subject xml:lang="en">swell</dc:subject>
+	<dc:subject xml:lang="en">sea</dc:subject>
+	<dc:description xml:lang="en">As a result of wartime research on ocean surface waves a method has been available since 1943 for the prediction of wave characteristics of interest to engineers (O'Brien and Johnson, 1947). The initial stimulus for the development came during the planning of the invasion of North Africa, and the methods subsequently devised were later used in a number of amphibious operations (Bates, 1949). The same techniques have found useful peacetime application in problems connected with coastal engineering. Much of the application to date has consisted in applying wave prediction techniques to historical rather than current meteorological data, hence the term "wave hindcasting."</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1950-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/911</dc:identifier>
+	<dc:identifier>10.9753/icce.v1.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 1 (1950): Proceedings of First Conference on Coastal Engineering, Long Beach, California, October, 1950.; 8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/911/008_Arthur</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

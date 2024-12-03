@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8077</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTER-COMPARISON OF RECENT TIDE MODELS FOR THE PERSIAN GULF AND OMAN SEA</dc:title>
+	<dc:creator xml:lang="en">Ranji, Zahra</dc:creator>
+	<dc:creator xml:lang="en">Hejazi, Kourosh</dc:creator>
+	<dc:creator xml:lang="en">Soltanpour, Mohsen</dc:creator>
+	<dc:creator xml:lang="en">Allahyar, Mohammad Reza</dc:creator>
+	<dc:subject xml:lang="en">Tide model</dc:subject>
+	<dc:subject xml:lang="en">Persian Gulf</dc:subject>
+	<dc:subject xml:lang="en">Oman Sea</dc:subject>
+	<dc:subject xml:lang="en">continental shelf</dc:subject>
+	<dc:subject xml:lang="en">accuracy assessment</dc:subject>
+	<dc:description xml:lang="en">Using several series of field measurements data along Iranian coastline of the Persian Gulf and Gulf of Oman, eight different tide models have been evaluated in this study. By comparing the results in the frequency domain, it was found that the model discrepancies arise in shallow waters, having maximum error in the shallowest part of the Persian Gulf, where Pohl station is located. On the other hand, maximum error of tide models is limited to 10 cm in deeper part of the Persian Gulf, indicating that different tide models result in close outcome in deeper waters.  Considering the results in the time domain, it was found that FES model, which includes more shallow water constituents, results in better tidal level predictions. FES also presents the best tidal current predictions in the area of the interest of this study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8077</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8077/7066</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

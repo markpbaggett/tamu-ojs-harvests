@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8655</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODELLING OF PROPELLER SCOUR ON AN ARMOURED SLOPE</dc:title>
+	<dc:creator xml:lang="en">Berard, Neville</dc:creator>
+	<dc:creator xml:lang="en">Prasad, Sundar</dc:creator>
+	<dc:creator xml:lang="en">Miller, Brett</dc:creator>
+	<dc:creator xml:lang="en">Deiber, Mathieu</dc:creator>
+	<dc:creator xml:lang="en">Fuller, Nathan</dc:creator>
+	<dc:description xml:lang="en">CITIC Pacific Mining (CPM) is proposing to increase throughput at their existing Sino Iron Terminal in Cape Preston, Western Australia, using self-propelled Handysize transshipment shuttle vessels (TSV) instead of dumb barges. Initial assessment using various desktop methods (PIANC, 2015) indicated that the armoured rock slope adjacent to the berth face would incur damage due to wash from the vessel side thrusters and the main propeller. Large scale (13.5:1) physical model tests were undertaken in a 6 m x 15 m x 1.4 m deep basin at UNSW to measure wash velocity and armour stability. The physical modelling demonstrated that the rock slope was more stable than expected, but that some armour was mobilized. Additional tests were also completed to investigate the efficacy of Articulated Concrete Block Mattresses (ACMs) to protect the rock slope from propeller wash.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8655</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8655/7459</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8655/8049</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

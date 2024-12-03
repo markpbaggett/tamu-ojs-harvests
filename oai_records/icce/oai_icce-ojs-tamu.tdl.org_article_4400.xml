@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4400</identifier>
+				<datestamp>2021-01-19T18:13:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEARSHORE CIRCULATIONS ON A WAVY COAST</dc:title>
+	<dc:creator xml:lang="en">Lin, Ming-Chung</dc:creator>
+	<dc:creator xml:lang="en">Hwang, Sheng-Yeh</dc:creator>
+	<dc:subject xml:lang="en">wavy coast</dc:subject>
+	<dc:subject xml:lang="en">circulation</dc:subject>
+	<dc:subject xml:lang="en">nearshore circulation</dc:subject>
+	<dc:description xml:lang="en">Nearshore circulations, produced by wave-induced radiation stress gradients, form different circulation patterns under different wave characteristics and topographical conditions. Although numerous studies of nearshore circulations, such as Bowen (1969), Miller and Barcilon (1978), Dalrymple &amp; Lozano (1978) and so on, have been appeared in the literature, it seems that little attention is paid on the case of a non-straight shoreline. O'Rorske &amp; Leblond (1972) have investigated the wave-induced longshore currents in a semicircular bay, while Oda (1982) has used the coordinate transformation to treat nearshore circulations on a circular-arc shaped coast. Lin and Lee (1982), introduced a small perturbation quantity of wave set-up and set-down, induced by the non-straight shoreline, into the mean total water depth to obtain a governing partial differential equation by which they investigated the nearshore circulations on a cuspate coast. In Lin and Liou (1986), a more general equation was deduced on the orthogonal curvlinear coordinate system to unify the diversities among the related theories, and moreover, to investigate the nearshore circulations on the arc-shaped coast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4400</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.193</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 193</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4400/4081</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

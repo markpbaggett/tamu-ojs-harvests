@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6844</identifier>
+				<datestamp>2023-10-04T02:22:45Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHRONIC BEACH EROSION INDUCED BY COASTAL STRUCTURES IN CHELEM, YUCATÁN</dc:title>
+	<dc:creator xml:lang="en">Lira-Pantoja, María Alejandra</dc:creator>
+	<dc:creator xml:lang="en">Torres-Freyermuth, Alec</dc:creator>
+	<dc:creator xml:lang="en">Appendini, Christian Mario</dc:creator>
+	<dc:creator xml:lang="en">Fernández, Diana Carolina</dc:creator>
+	<dc:creator xml:lang="en">Salles, Paulo</dc:creator>
+	<dc:creator xml:lang="en">Mendoza, Ernesto Tonatiuh</dc:creator>
+	<dc:creator xml:lang="en">López, José</dc:creator>
+	<dc:creator xml:lang="en">Pedrozo-Acuña, Adrián</dc:creator>
+	<dc:subject xml:lang="en">beach erosion</dc:subject>
+	<dc:subject xml:lang="en">coastal structures</dc:subject>
+	<dc:subject xml:lang="en">Yucatan</dc:subject>
+	<dc:subject xml:lang="en">México</dc:subject>
+	<dc:subject xml:lang="en">Chelem beach</dc:subject>
+	<dc:description xml:lang="en">The Yucatan coastline has been experiencing beach erosion during the past few decades; the erosion has reached critical points at some locations such as the Chelem beach, located near the Progreso Pier. Despite this problem, only few studies have been devoted in order to investigate the role of coastal structures on explaining the high erosion rates reported at this location. Therefore, the aim of this work is to evaluate the effects of the Progreso Pier on the wave transformation and alongshore sediment transport in the study area. Field surveys were conducted in a monthly basis in order to estimate the erosion rates and wave conditions with an ADCP installed at 8 m water depth. The field information confirmed the high erosional trends (O(1)m/year) that explain coastal infrastructure  damage and property losses.  The wave measurements were employed as the forcing of a wind-wave numerical model (MIKE 21 SW). The numerical model is implemented in the study area for two different scenarios, with and without the pier; this was to estimate nearshore wave conditions. Subsequently, the nearshore wave climate at 5 m water depth is employed for the calculation of alongshore sediment transport rates in 5 points that are representative of the littoral drift along the study area. The modeling results show that the pier acts as a large scale wave-sheltering structure that induces important alongshore sediment transport gradients under mean wave conditions, decreasing the capacity of the waves to recover the beach. On the other hand, during winter storms, when the direction of the waves is from the NNW, the structure does not seem to play an important role on wave transformation into the study. As a result, the Progreso Pier enhances beach erosion in the Chelem area by inducing algonshore gradients in sediment transport and decreasing the beach recovery capability</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6844</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.125</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.125</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6844/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

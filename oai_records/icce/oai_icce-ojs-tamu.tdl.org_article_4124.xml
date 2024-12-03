@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4124</identifier>
+				<datestamp>2021-01-19T19:47:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE AND CURRENT INTERACTIONS IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Yoon, Sung B.</dc:creator>
+	<dc:creator xml:lang="en">Liu, Philip L.F.</dc:creator>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">wave/current interactions</dc:subject>
+	<dc:description xml:lang="en">Interactions between waves and currents are common and important phenomena in the coastal zone. Coastal currents, such as longshore currents, rip currents, and river flows, can significantly change wave heights and directions of wave propagation. Consequently, the design for shoreline protection measures must be adjusted accordingly. Various theories for wave-current interactions exist and have been reviewed by Peregrine and Jonsson (1983). Most of these theories are developed for large-scale currents where the length-scale for the current variation is much greater than the typical wavelength. These theories cannot be applied to the coastal currents which are small-scale currents. In this paper, the interactions between currents and nonlinear shallow water waves are investigated. Boussinesq equations are used to derive evolution equations for spectral wave components. The current intensity is assumed to be larger than the leading wave orbital velocity and smaller than the group velocity. The length-scale of the current is much shorter than those assumed in the existing large-scale theories. To facilitate numerical computations, the parabolic approximation is applied and a simplified model is developed. A numerical example is given for the refraction and diffraction of cnoidal waves over a rip current on a sloping topography. Both normal and oblique incident cases are examined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4124</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.125</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 125</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>en</dc:language>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

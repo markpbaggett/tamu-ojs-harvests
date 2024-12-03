@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4698</identifier>
+				<datestamp>2021-01-19T16:31:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERISTICS OF ABSORBING DIRECTIONAL WAVEMAKER</dc:title>
+	<dc:creator xml:lang="en">Hirakuchi, H.</dc:creator>
+	<dc:creator xml:lang="en">Kajima, R.</dc:creator>
+	<dc:creator xml:lang="en">Shimizu, T.</dc:creator>
+	<dc:creator xml:lang="en">Ikeno, M.</dc:creator>
+	<dc:subject xml:lang="en">wavemaker</dc:subject>
+	<dc:subject xml:lang="en">directional wavemaker</dc:subject>
+	<dc:subject xml:lang="en">absorbing wavemaker</dc:subject>
+	<dc:description xml:lang="en">In order to maintain realistic and expected incident waves, an absorbing directional wavemaker has been developed and its performance is examined experimentally. The directional spectrum of the generated waves in the progressive wave field is analysed by the Bayesian Model (BDM), and the directional spectrum of the incident waves in the combined wave field is separated by the Modified Bayesian Model (MBM). Good agreement is shown between the BDM result and the MBM result. In order to make a further check on the angular spreadings of the directional waves in the progressive and combined wave fields, coherence function of the cross spectrum is measured and compared with the target one derived theoretically.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4698</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4698/4379</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

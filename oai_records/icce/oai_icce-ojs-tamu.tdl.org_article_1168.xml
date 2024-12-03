@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1168</identifier>
+				<datestamp>2023-10-04T04:36:32Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE BREAKING AND WAVE SETUP OF ARTIFICIAL REEF WITH INCLINED CROWN</dc:title>
+	<dc:creator xml:lang="en">Murakami, Keisuke</dc:creator>
+	<dc:creator xml:lang="en">Maki, Daisuke</dc:creator>
+	<dc:subject xml:lang="en">artificial reef</dc:subject>
+	<dc:subject xml:lang="en">wave setup</dc:subject>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">wave breaker</dc:subject>
+	<dc:subject xml:lang="en">surfing</dc:subject>
+	<dc:description xml:lang="en">INTRODUCION
+The beach protection facilities are required in some situations to harmonize with coastal environments and utilizations(National Association of Sea Coast,2004). This study investigates some hydraulic functions of proposed multipurpose artificial reef which has an inclined reef crown. The reef is expected to protect beaches against storm waves, and also facilitates the surfing activities under mild wave conditions. The forced wave breaking on the reef sometimes causes a mass transport and wave setup. This study focuses on the following hydraulic characters to clear the efficiencies of proposed artificial reef with inclined crown. 1) Wave energy dissipation by the reef, 2) Generation of suitable wave breakers for surfing, 3) Wave setup behind the reef.
+
+HYDRAULIC EXPERIMENT SETUP
+A series of hydraulic experiments were carried out with using a two-dimensional wave flume. The model scale was assumed 1/30. Three kinds of cross sections were employed as the model of artificial reef (Fig.-1). Both Case-A and Case-B have the inclined crown. The cross section of Case-C, which has a flat crown, is set as a typical cross section of conventional artificial reef. The reef length of Case-A is the same as that of Case-C, and Case-B is double the length of Case-A. Two different submerged depths of crown, hc=2cm and 5cm, were set in the experiments. In Case-A and Case-B, their submerged depth of crown, hc, were defined as the minimum depth at the onshore edge of the crown. The incident wave heights were changed at 1cm intervals from 4cm to 9cm, and the periods were also chanced at 1 sec. intervals from 1 sec. to 2.4 sec. for each wave height. 
+
+SUMMARY OF RESULTS
+The energy flux ratio of transmitted waves in Case-B shows similar values in Case-C under the stormy wave conditions in the case of hc=2cm. The longer reef shows favorable characters in dissipating wave energy as well as in maintaining a wider breaker zone on its crown. On the other hand, the transmitted energy flux in Case-A become slightly higher than that in Case-C. The inclined shape of the reef crown closely relates to both the type of wave breakers and the generation of higher order waves.
+Wave breakers observed in Case-A and Case-B are almost Plunging breaker or Collapsing breaker, and these breakers are suitable for surfing(Walker, et.al.,1972). In Case-C, on the other hand, most incident waves break at the offshore edge of the crown with backwash(Fig.-2). This means that the slope on the reef crown play an important roll in generating suitable breakers for surfing. Type of wave breakers on the inclined reef were summarized by surf similarity parameter(Battjes,1974).
+Fig.-3 shows the normalized wave setup behind each reef. The wave setup differs depending the reef sections. Case-A and Case-B check the wave setup effectively in comparison with Case-C. This excellent checking effect can be observed in the wide range of incident wave height and wave period. Through a series of hydraulic experiments, it is cleared that the difference of wave setup observed behind the reefs relates to the wave breaker type and wave breaker point on the reefs.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1168</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1168/pdf_47</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

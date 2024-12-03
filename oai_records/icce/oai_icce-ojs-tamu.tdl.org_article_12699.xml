@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12699</identifier>
+				<datestamp>2023-09-01T15:12:21Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEURAL NETWORKS FOR OPTIMIZATION OF AN EARLY WARNING SYSTEM FOR MOORED SHIPS IN HARBOURS</dc:title>
+	<dc:creator xml:lang="en">Pinheiro, L. V.</dc:creator>
+	<dc:creator xml:lang="en">Gomes, A. H.</dc:creator>
+	<dc:creator xml:lang="en">Lopes, N.</dc:creator>
+	<dc:creator xml:lang="en">Lopes, S.</dc:creator>
+	<dc:creator xml:lang="en">Prior, A.</dc:creator>
+	<dc:creator xml:lang="en">Santos, J. A.</dc:creator>
+	<dc:creator xml:lang="en">Fortes, C. J.</dc:creator>
+	<dc:description xml:lang="en">Within the BlueSafePort project, an early warning system (EWS) for moored ships in the port of Sines was developed. In order to improve the reliability and accuracy of the system, two neural networks (NN) were trained, using wave buoys measured datasets. Numerical models results for the wave propagation are adjusted and forecasts are improved. The trained neural networks were able to produce more accurate estimates for the significant wave height and mean wave period, at the buoy location, deployed in front of the Sines Port. The use of the new NN led to an overall reduction of the root mean square error of around 80percent compared with SWAN numerical model simulations, thus reducing potential errors in subsequential calculations and alert levels issued by the system for the moored ships.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12699</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12699/11972</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 L. V. Pinheiro, A. H. Gomes, N. Lopes, S. Lopes, A. Prior, J. A. Santos, C. J. Fortes</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

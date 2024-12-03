@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6852</identifier>
+				<datestamp>2023-10-04T02:30:19Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT AND MODELING OF THE INFLUENCE OF GRAIN SIZE AND PRESSURE GRADIENTS ON SWASH ZONE SEDIMENT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Othman, Ilya Khairanis</dc:creator>
+	<dc:creator xml:lang="en">Baldock, Tom E.</dc:creator>
+	<dc:creator xml:lang="en">Callaghan, David P.</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">swash</dc:subject>
+	<dc:subject xml:lang="en">dam break</dc:subject>
+	<dc:subject xml:lang="en">uprush</dc:subject>
+	<dc:subject xml:lang="en">grain size</dc:subject>
+	<dc:description xml:lang="en">The paper examines the dependency between sediment transport rate, q, and grain size, D, (i.e. qâˆDp) in the swash zone. Experiments were performed using a dam break flow as a proxy for swash overtopping on a mobile sediment beach. The magnitude and nature of the dependency (i.e. p value) is inferred for different flow parameters; the initial dam depth (or initial bore height), do, the integrated depth averaged velocity, âˆ«u3 dt, and against the predicted transport, qp using the Meyer-Peter Muller (MPM) transport model. Experiments were performed over both upward sloping beds and a horizontal bed. The data show that negative dependencies (p0) are obtained for âˆ«u3 dt. This indicates that a given do and qp transport less sediment as grain size increases, whereas transport increases with grain size for a given âˆ«u3 dt. The  p value is expected to be narrow ranged, 0.5â‰¤ pâ‰¤-0.5. A discernible difference observed between the measured and predicted transport on horizontal and sloping beds suggests different modes of transport. The incorporation of a pressure gradient correction, dp/dx, using the surface water slope (i.e. piezometric head), in the transport calculation greatly improved the transport predictions on the horizontal bed, where dp/dx is positive. On average, the incorporation of a pressure gradient term into the MPM formulation reduces qp in the uprush by 4% (fine sand) to 18% (coarse sand) and increases qp over a horizontal bed by 1% (fine sand) to two orders of magnitude (coarse sand). The measured transport for fine and coarse sand are better predicted using MPM and MPM+dp/dx respectively. Poor predictions are obtained using Nielsen (2002) because the pressure gradient in the uprush is of opposite sign to that inferred from velocity data in that paper. It is suggested that future swash sediment transport models should incorporate the grain size effect, partly through the pressure gradient, although the dp/dx influence is small for fine sands because of the grain size scaling contained in the stress term.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6852</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6852/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

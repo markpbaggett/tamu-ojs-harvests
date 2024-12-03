@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1182</identifier>
+				<datestamp>2023-10-04T04:05:42Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING SHORELINE RESPONSE AND INLET SHOAL VOLUME DEVELOPMENT ON LONG ISLAND COAST, UNITED STATES</dc:title>
+	<dc:creator xml:lang="en">Hoan, Le Xuan</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Hans</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Pham, Thanh Nam</dc:creator>
+	<dc:subject xml:lang="en">shoreline modeling</dc:subject>
+	<dc:subject xml:lang="en">inlet model</dc:subject>
+	<dc:subject xml:lang="en">shoreline response</dc:subject>
+	<dc:subject xml:lang="en">flood shoal</dc:subject>
+	<dc:subject xml:lang="en">ebb shoal</dc:subject>
+	<dc:subject xml:lang="en">sand bypassing</dc:subject>
+	<dc:description xml:lang="en">A new numerical model was developed to simulate regional sediment transport, shoreline response in the vicinity of tidal inlets, and inlet shoal volume growth based on the one-line model of shoreline change combined with the reservoir concept for volumetric evolution of inlet shoals. Sand bypassing onshore and sheltering effects on wave action from the inlet bar and shoals were taken into account. The model was applied to unique field data from the south coast of Long Island, United States, including inlet opening and closure. The simulation area extended from Montauk Point to Fire Island inlet, including Shinnecock and Moriches Inlets (Figure 1). A 20-year time series of hindcast wave data at three stations along the coast were used as input data to the model. Several types of sediment sources and sinks were represented, including beach fills, groin systems, jetty blocking, inlet bypassing, and flood shoal and ebb shoal feeding. The model simulations were validated against annual net longshore transport rates reported in the literature, measured shorelines, and recorded sediment volumes in the flood and ebb shoal complexes. Overall, the model simulations were in good agreement with the measured data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1182</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1182/pdf_232</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

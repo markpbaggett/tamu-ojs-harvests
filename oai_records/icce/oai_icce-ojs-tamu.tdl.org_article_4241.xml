@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4241</identifier>
+				<datestamp>2021-01-19T19:07:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPECTRAL WAVE ATTENUATION BY BOTTOM FRICTION: THEORY</dc:title>
+	<dc:creator xml:lang="en">Madsen, Ole Secher</dc:creator>
+	<dc:creator xml:lang="en">Poon, Ying-Keung</dc:creator>
+	<dc:creator xml:lang="en">Graber, Hans C.</dc:creator>
+	<dc:subject xml:lang="en">bottom friction</dc:subject>
+	<dc:subject xml:lang="en">friction theory</dc:subject>
+	<dc:subject xml:lang="en">wave attenuation</dc:subject>
+	<dc:subject xml:lang="en">spectral wave</dc:subject>
+	<dc:description xml:lang="en">Based on the linearized form of the boundary layer equations and a simple eddy viscosity formulation of shear stress, the turbulent bottom boundary layer flow is obtained for a wave motion specified by its directional spectrum. Closure is obtained by requiring the solution to reduce, in the limit, to that of a simple harmonic wave. The resulting dissipation is obtained in spectral form with a single friction factor determined from knowledge of the bottom roughness and an equivalent monochromatic wave having the same root-mean-square near-bottom orbital velocity and excursion amplitude as the specified wave spectrum. The total spectral dissipation rate is obtained by integration and compared with the average dissipation obtained from a model considering the statistics of individual waves defined by their maximum orbital velocity and zero-crossing period. The agreement between the two different evaluations of total spectral dissipation supports the validity of the spectral dissipation model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4241</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4241/3922</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

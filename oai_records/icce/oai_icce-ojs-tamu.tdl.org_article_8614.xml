@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8614</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A UNIFIED ANALYTICAL SOLUTION FOR WAVE SCATTERING BY RECTANGULAR-SHAPED OBJECTS</dc:title>
+	<dc:creator xml:lang="en">Hu, Jie</dc:creator>
+	<dc:creator xml:lang="en">Liu, Philip Li-Fan</dc:creator>
+	<dc:description xml:lang="en">This paper presents a general solution for wave scattering by stationary objects, which consist of a submerged rectangular plate and a floating rectangular dock. The objects can be either permeable or solid. The general solution is capable to cover all the existing single rectangular objects, such as a surface-piercing breakwater, a bottom-mounted submerge breakwater and a submerged plate. Furthermore, this general solution can also yield new analytical solutions for different combinations of objects, i.e. a single floating breakwater, and a combination of a floating and a bottom-mounted breakwater. Based on the general theory, a MATLAB computer program has been developed. It can be used to further explore different breakwater configurations with different properties.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8614</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8614/7416</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8614/8013</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

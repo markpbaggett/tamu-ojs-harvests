@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8637</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A MODEL TO SIMULATE BEACH PROFILE EVOLUTION INDUCED BY STORMS</dc:title>
+	<dc:creator xml:lang="en">Zhang, Jie</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Ge, Zhenpeng</dc:creator>
+	<dc:description xml:lang="en">Beach profile change induced by storms is a common and complex process in coastal engineering. Storms often bring high water levels and large waves, which erode the berm and dune, carrying large quantities of sand offshore, often causing severe damage to coastal properties. Thus, considerable research has been carried out to determine storm impact. Early studies mainly focused on laboratory investigations and analysis of field data. Since the 1980's, many engineering numerical models of beach profile change have been developed. Kriebel and Dean (1985) proposed a model (EBEACH) to simulate the beach profile evolution with focus on dune erosion during storms, using the concept of an equilibrium beach profile (EBP). However, features such as bars and berms are not described in this model. Larson and Kraus (1989) developed an empirically based model (SBEACH) for describing the formation of bars and berms, also applying the EBP concept. Steetzel (1990) developed a model for cross-shore transport during severe storms that focuses on offshore transport and erosion. Johnson et al. (2012) developed a CS profile evolution model, CSHORE, that is mainly used to predict beach erosion under the combined effect of waves and currents. Although the model provided satisfactory performance in simulating measured berm and dune erosion in field applications, further improvements in dealing with the sediment transport in the intermittently wet-dry areas are desirable. At present, XBeach proposed by Roelvink et al. (2009) is the most popular and widely used model together with SBEACH. Although the objective of the XBeach model is to predict the profile evolution along the entire profile, i.e., both in the subaerial and subaqueous regions, the processes in the former region are less well described from a physics point of view compared to the latter. The response of the subaerial region in XBeach, including the foreshore, berm, and dune, relies on rather ad-hoc empirical sediment transport formulations. This study presents a profile evolution model that is based on the work by Larson et al. (2015). The emphasis of the model development is physically based descriptions of the subaerial profile response induced by storms. Focus of the model validation here is the berm and foreshore region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8637</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8637/7439</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8637/8031</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

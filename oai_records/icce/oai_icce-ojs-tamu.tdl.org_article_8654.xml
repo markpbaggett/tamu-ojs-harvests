@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8654</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MISALIGNMENT AND LAG TIME OF WIND AND WAVE OCCURRENCE BASED ON 10 YEARS MEASUREMENTS IN THE NORTH SEA NEAR THE GERMAN COAST</dc:title>
+	<dc:creator xml:lang="en">Hildebrandt, Arndt</dc:creator>
+	<dc:creator xml:lang="en">Cossu, Remo</dc:creator>
+	<dc:description xml:lang="en">There are several intentions to analyze the correlation of wind and wave data, especially in the North Sea. Fatigue damage is intensified by wind and wave loads acting from different directions, due to the misaligned aerodynamic damping of the rotor regarding the wave loads from lateral directions. Furthermore, construction time and costs are mainly driven by the operational times of the working vessels, which strongly depend on the wind and wave occurrence and correlation. Turbulent wind can rapidly change its direction and intensity, while the inert water waves react slowly in relation to the wind profile. Tuerk (2008) investigates the impact of wind and turbulence on offshore wind turbines by analyzing data of four years. The study shows that the wave height is increasing with higher wind speeds but when the wind speed drops the reaction of the waves is postponed. The dependence of the wave height on the wind speed is varying because of the atmospheric stability and different wind directions. Fischer et al. (2011) estimated absolute values of misalignment between wind and waves located in the Dutch North Sea. The study presents decreasing misalignment for increasing wind speeds, ranging up to 90 degrees for wind speeds below 12 m/s and up to 30 degrees for wind speeds above 20 m/s. Bredmose et al. (2013) present a method of offshore wind and wave simulation by using metocean data. The study describes characteristics of the wind and wave climate for the North and Baltic Sea as well as the directional distribution of wind and waves. Guner et al. (2013) cover the development of a statistical wave model for the Karaburun coastal zone located at the southwest coast of the Black Sea with the help of wind and wave measurements and showed that the height of the waves is directly correlating with the duration of the wind for the last four hours.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8654</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8654/7456</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8654/8046</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

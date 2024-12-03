@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1297</identifier>
+				<datestamp>2023-10-04T03:54:02Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WHAT DETERMINES NEARSHORE SANDBAR RESPONSE?</dc:title>
+	<dc:creator xml:lang="en">Smit, Marije W.J.</dc:creator>
+	<dc:creator xml:lang="en">Reniers, Ad J.H.M.</dc:creator>
+	<dc:creator xml:lang="en">Stive, Marcel J.F.</dc:creator>
+	<dc:subject xml:lang="en">nearshore sandbars</dc:subject>
+	<dc:subject xml:lang="en">morphodynamics</dc:subject>
+	<dc:subject xml:lang="en">patterns</dc:subject>
+	<dc:subject xml:lang="en">process-based modeling</dc:subject>
+	<dc:description xml:lang="en">Nearshore sandbars appear with various patterns which may change over time. From observations, these changes seem to be related to changes in hydrodynamic conditions, although observed length scales could not be related directly to occurring wave conditions. The current work investigated the role of both the concurrent and previous hydrodynamics as well as the role of the pre-existing morphological variability of a nearshore bar system. A suite of modeling efforts using a depth-averaged process-based model was analysed on predicted length scales, response times and evolving levels of variability. It was found that with small or moderate hydrodynamic forcing, an existing pattern would remain. Only when the existing pattern was alongshore uniform, the bar pattern would change in response to the conditions. When the hydrodynamic conditions are extreme, an existing pattern can be erased, resulting in an alongshore uniform bathymetry - a reset-event.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1297</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.56</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.56</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1297/pdf_303</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

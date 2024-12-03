@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1372</identifier>
+				<datestamp>2023-10-04T04:40:24Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE INTERACTION WITH DECK OF JETTY ON A SLOPE</dc:title>
+	<dc:creator xml:lang="en">Meng, Yanqiu</dc:creator>
+	<dc:creator xml:lang="en">Chen, Guoping</dc:creator>
+	<dc:creator xml:lang="en">Yan, Shichang</dc:creator>
+	<dc:subject xml:lang="en">regular wave</dc:subject>
+	<dc:subject xml:lang="en">uplift forces</dc:subject>
+	<dc:subject xml:lang="en">high-pile jetty</dc:subject>
+	<dc:subject xml:lang="en">slope</dc:subject>
+	<dc:description xml:lang="en">Experimental investigations were carried out on wave-induced uplift loads on deck of shore-connecting high pile jetty on a slope in regular waves. A study on effect of gap (between deck end and shore line) on wave impact was also performed. It is found that the maximum uplift loads generally lag behind the maximum impact pressure and are associated with the pressure uniformly distributed along deck. Analysis of the measured data confirms that the distribution length for the uniform pressure is equivalent to wave contact length x. When x is larger than the width of deck B, it is taken as B. The non-dimensional uplift load increases with the increased relative deck clearance Î"h/Î·. The increasing tendency continues up to Î"h/Î·=0.2 and at that location the wave uplift load reaches a peak. After that, the load decreases until at certain deck level the above trend of load start to repeat once more. Generally, two peaks of wave uplift load occur in the range of deck clearance tested. The magnitude of the second wave load peak is larger than the first one. The non-dimensional wave force is observed to increase when the ratio of the wave length to the deck width increase up to a certain ratio. Beyond that ratio the force is less sensitive to the variation of the deck width. It is also found that the force reduces with increase in gap width. This decreasing trend of force is favorable for the design. From the investigation with wide range of input wave and structure parameters, simple predictive equation for wave uplift load was proposed for regular waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1372</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1372/pdf_10</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

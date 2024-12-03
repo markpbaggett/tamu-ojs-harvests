@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3800</identifier>
+				<datestamp>2021-01-19T21:41:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF SURFACE WAVES FROM SUBSURFACE GAGE</dc:title>
+	<dc:creator xml:lang="en">Lee, Dong-Young</dc:creator>
+	<dc:creator xml:lang="en">Wang, Hsiang</dc:creator>
+	<dc:subject xml:lang="en">wave measurement</dc:subject>
+	<dc:subject xml:lang="en">subsurface gauge</dc:subject>
+	<dc:subject xml:lang="en">wave gauge</dc:subject>
+	<dc:description xml:lang="en">Wave measurement using subsurface pressure gage has many advantages, especially in coastal waters. However, there are some disadvantages associated with indirect measurement of surface waves. This paper deals with the problems in the recovery of surface waves from the subsurface pressure measurement. Two problems are examined: more exact recovery of the surface waves from subsurface pressure signal and a simple real time recovery of surface waves from the pressure record. The commonly used linear transformation from the subsurface pressure to surface elevation is evaluated and possible sources of error are examined. The effect of nonlinearity and effect of current are shown to be small in the intermediate water depth. For the case of shallow water where effects of nonlinearity and current are not negligible, a method of proper recovery of surface waves from the combination of pressure and current measurements is given. A simple method to recover the time series surface waves from subsurface record is proposed which enables speedy near real-time recovery of surface waves from pressure measurement using a microprocessor.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3800</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3800/3483</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

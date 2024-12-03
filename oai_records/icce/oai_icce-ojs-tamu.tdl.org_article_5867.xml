@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5867</identifier>
+				<datestamp>2021-01-19T10:00:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A METHOD FOR ESTIMATING THE BED VELOCITIES PRODUCED BY A SHIP'S PROPELLER WASH INFLUENCED BY A RUDDER</dc:title>
+	<dc:creator xml:lang="en">Hamill, G.A.</dc:creator>
+	<dc:creator xml:lang="en">McGarvey, J.A.</dc:creator>
+	<dc:creator xml:lang="en">Mackinnon, P.A.</dc:creator>
+	<dc:subject xml:lang="en">rudder</dc:subject>
+	<dc:subject xml:lang="en">propeller wash</dc:subject>
+	<dc:subject xml:lang="en">bed velocity</dc:subject>
+	<dc:description xml:lang="en">When a ship manoeuvres within the confines of a harbour it does so with minimal bed clearance and at near to maximum power. The propeller produces thrust by drawing in water and accelerating it. This accelerated flow is discharged from the propeller in the form of a jet or wash. Under these circumstances the wash can impact on the bed with velocities in excess of 8 m/sec. These high velocities erode the seabed, and where this occurs near to quay structures serious damage may result. Bergh and Magnusson (1987) Chait (1987) and Johnston (1985) are among many who have given specific details of problems which have occurred world-wide. In order that an engineer may provide adequate protection to the bed form the erosive power contained within the propeller wash a full understanding of the magnitude and distribution of the velocities within it must be known. Stewart (1983), Fuehrer (1977) and Berger (1981), among others, have studied the wash and have provided predictive equations for velocity calculations. However, they have not included the influence of the rudder on the formation and distribution of the wash.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5867</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5867/5535</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

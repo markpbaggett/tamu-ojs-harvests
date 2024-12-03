@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1318</identifier>
+				<datestamp>2023-10-04T03:51:41Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE GROWTH UNDER VARIABLE WIND CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Alomar, Marta</dc:creator>
+	<dc:creator xml:lang="en">Bolaños- Sánchez, Rodolfo</dc:creator>
+	<dc:creator xml:lang="en">Sanchez-Arcilla, Agustín</dc:creator>
+	<dc:creator xml:lang="en">Sairouni, Abdel</dc:creator>
+	<dc:subject xml:lang="en">variable winds</dc:subject>
+	<dc:subject xml:lang="en">wave growth</dc:subject>
+	<dc:subject xml:lang="en">fetch-limited</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:description xml:lang="en">Parametric wave growth curves are commonly used to empirically calculate wave height under fetch limited conditions and to tune the source functions of spectral wave models. There is not a unique wave growth function and many deviations from the first similarity laws have been reported. The applicability of the commonly used functions in variable wind conditions is expected to be limited. In this study we calculated wave growth curves with data from an instrumental set-up in the north-western Mediterranean. This region is characterized by non-homogeneous wind conditions (both in time and space). The first growth functions we calculated from the observations suggested higher wave growth rates than previously described by other authors. A close look to the sources of discrepancy in the calculations under such wind conditions revealed the importance to accurately separate sea from swell and to use only locally generated sea. The source of the wind data used for the scaling law is thought to be responsible for the remaining discrepancies from the commonly used growth functions. Wind and wave data from a high resolution simulation were used to calculate the growth functions from a spectral wave model, and to explore the importance of using in-situ wind measures to scale the variables. Simulated wave growth rates are lower than observed and lower than previously reported by other authors. Wind measurements from the most offshore buoy seem to be representative enough of the winds over the entire area. The results support the applicability of the well-known functions in the region of interest when certain conditions are met; i.e. pure wind sea conditions, and choosing a representative wind speed to scale the variables.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1318</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1318/pdf_319</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4453</identifier>
+				<datestamp>2021-01-19T17:55:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANOTHER QUASI-3D MODEL FOR. SURF-ZONE FLOWS</dc:title>
+	<dc:creator xml:lang="en">Sanchez-Arcilla, A.</dc:creator>
+	<dc:creator xml:lang="en">Collada, F.</dc:creator>
+	<dc:creator xml:lang="en">Lemos, M.</dc:creator>
+	<dc:creator xml:lang="en">Rivero, F.</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">surf zone model</dc:subject>
+	<dc:subject xml:lang="en">quasi 3D model</dc:subject>
+	<dc:description xml:lang="en">In this report, a quasi-3D model for nearshore circulation is presented. The aim of the model is an economic simulation of surf- zone flow features. This model relies on the efficient integration of three main modules: i) Wave propagation, ii) Depth-uniform currents, and iii) 1DV model for current-profiles calculation. The basic equations are vertically integrated up to the trough level {ztr)f assuming at this level the existence of a rigid-lid, which permits to replace the free surface elevation by an equivalent pressure. This device allows a continuous description of the flux below ztr, making possible the obtention of the flux components in the same vertical solution domain. The model is still under development. The results obtained, although insufficient to validate the code, serve to explore its capabilities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4453</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4453/4134</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

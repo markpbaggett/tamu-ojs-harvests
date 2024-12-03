@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3032</identifier>
+				<datestamp>2021-01-20T02:05:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD AND MODEL DATA OF SPREADING IN ESTUARIES</dc:title>
+	<dc:creator xml:lang="en">Ohlemeyer, F.</dc:creator>
+	<dc:creator xml:lang="en">Berndt, D.</dc:creator>
+	<dc:subject xml:lang="en">spreading</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">field data</dc:subject>
+	<dc:subject xml:lang="en">model data</dc:subject>
+	<dc:description xml:lang="en">The coastal regions in the highly industrialized zones of western Europe and other comparable parts of the world are a preferable field of new industrial settling. The economic reasons are: 1. Situation on deep water reachable by big vessels and 2. The increasing of the units of power plants and chemical industries demands for great quantities of water. For instance 200 up to 500 nf/s are no longer utopic today. Generally such great quantities are not available but in coastal regions especially on estuaries where the water movement is governed mainly by tidal action. Fig. 1 shows new industries and power plants in the region of the German Bay the shaded areas are consisting tidal models. In order to avoid environmental damages by pollution of industrial or thermal wastes and to diminish the recirculation effects of power plant, it is necessary to get correct information of the concentration rates resp. temperatures that will appear in these regions. The ways to get this information are well-known: 1. Direct measurements in prototype, 2. Mathematic models, 3. Hydraulic models or hybride models. Direct measurement is to some degree a necessary presumption to the latter two ways, but furthermore it afterwards gives information of the accordance of the model predictions. But often there is no money to do so. Of course it is not necessary to measure the whole area - that would mean model investigations scaled 1:1 - but some specific data will be sufficient.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3032</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.137</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 137</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3032/2697</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

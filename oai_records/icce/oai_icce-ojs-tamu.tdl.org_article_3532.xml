@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3532</identifier>
+				<datestamp>2021-01-19T23:14:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULTANEOUS WAVE AND CURRENT FORCES ON A PIPELINE</dc:title>
+	<dc:creator xml:lang="en">Knoll, David A.</dc:creator>
+	<dc:creator xml:lang="en">Herbich, John B.</dc:creator>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">current forces</dc:subject>
+	<dc:subject xml:lang="en">forces on pipelines</dc:subject>
+	<dc:subject xml:lang="en">pipeline</dc:subject>
+	<dc:description xml:lang="en">The hydrodynamic loads on an offshore pipeline resting on the ocean bottom are a function of parameters associated with waves and currents acting near the pipeline. There have been many studies conducted to develop the criteria needed to estimate the hydrodynamic loads imposed by waves and currents. Many of these studies have investigated the effect of these phenomena individually, but to date only limited research has been directed towards evaluating the combined effect. In general, the investigations of the interaction of waves and currents and their effect on the fluid force have been directed toward vertical piles1'2'3'1*'5 and structures in a random wave field with a current present;6'7'8'9 however, the fluid force of waves in the presence of currents on pipelines has not been directly addressed. The purpose of this research was to investigate the interaction of waves and currents and its relationship to the forces on submerged pipelines. A model pipeline in a wave-flume was used to obtain experimental values which were compared to values predicted by the Morison equation in conjunction with the superposition of the waves and a current. The Morison equation10 was used to evaluate the forces on a horizontal cylinder resting on the bottom. The two major input parameters required by this equation are (1) the water particle kinematics of velocity and acceleration; and (2) the coefficients of drag and inertia. The testing program investigated the drag forces developed by the combined waves and a current. The inertia forces were assumed small when compared to the drag forces since a relatively small diameter cylinder was used in the experiments, thus the accelerations were small.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3532</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.106</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 106</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3532/3214</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5461</identifier>
+				<datestamp>2021-01-19T12:13:15Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNDERTOW PROFILES IN THE BOTTOM BOUNDARY LAYER UNDER BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">undertow</dc:subject>
+	<dc:subject xml:lang="en">undertow profiles</dc:subject>
+	<dc:subject xml:lang="en">bottom boundary layer</dc:subject>
+	<dc:description xml:lang="en">The vertical distribution of the mean shear stress inside the surf zone is compared to the terms in the time-averaged horizontal momentum equation using one set of laboratory measurements of the free surface elevations and fluid velocities u and w induced by regular waves spilling on a plane slope. The vertical distribution of the eddy viscosity is estimated directly from the measured mean shear stress and velocity. The shear stress distribution in the surf zone is shown to vary linearly with depth until the bottom boundary layer where it reached a nearly constant, negative value. The shear stress variation in the transition region differs distinctly from the inner surf zone. The vertical variation of uw is shown to be small outside the surf zone except near the bottom. Inside the surf zone, it is shown that the uw term of the horizontal momentum equation is likely to be important in the transition region and that its importance diminishes in the inner surf zone. The vertical distribution of the eddy viscosity has a form which is small near trough level, increases to a maximum value about one-third of the depth below trough level, and then decreases toward the bottom. The eddy viscosity in the middle of the bottom boundary layer is two orders of magnitude less than the eddy viscosity in the interior.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5461</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5461/5137</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

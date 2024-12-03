@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5154</identifier>
+				<datestamp>2021-01-19T13:55:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE-CURRENT INTERACTION WITH MUD BED</dc:title>
+	<dc:creator xml:lang="en">An, Nguyen Ngoc</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">bed</dc:subject>
+	<dc:subject xml:lang="en">mud bed</dc:subject>
+	<dc:subject xml:lang="en">wave/current interaction</dc:subject>
+	<dc:description xml:lang="en">A series of wave flume experiments for wave-current-mud system has been performed. The results reveal that the rate of wave attenuation increases in the opposing currents and decreases in the following currents. The results are the same with the waves on the fixed bed. Another important result is that the mud mass transport velocity increases in the opposing currents and decreases in the following currents. The visco-elastic-plastic model which was proposed by Shibayama and An (1993) for wave-mud interaction has further been extended to the wave-current-mud system by taking a wave deformation effect into considerations. The extended model succeeds in predicting the laboratory results. The model shows that due to pressure gradient in wave propagating direction, the largest mud mass transport velocity occurs in the strongest opposing current and the smallest one in the strongest following current.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5154</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5154/4832</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

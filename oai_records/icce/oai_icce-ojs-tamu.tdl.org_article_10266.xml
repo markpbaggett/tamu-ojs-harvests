@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10266</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VEGETATED HYDRODYNAMIC SYSTEM: PARAMETERIZATION AND STOCHASTIC DEPENDENCE MODELLING</dc:title>
+	<dc:creator xml:lang="en">Niazi, Muhammad Hassan Khan</dc:creator>
+	<dc:creator xml:lang="en">Nápoles, Oswaldo Morales</dc:creator>
+	<dc:creator xml:lang="en">van Wesenbeeck, Bregje K.</dc:creator>
+	<dc:description xml:lang="en">Vegetation as a nature-based solution for increasing flood risk has convincingly shown potential for flood hazard (wave load) reduction but lacks generalized results. In this study we have introduced stochastic dependence modeling using non-parametric Bayesian networks (NPBN) for vegetated coastal systems where the system was parametrized using continuous marginal distributions, and likely (conditional) correlations among variables. The model represented a consistent joint probability distribution and hence can be used to generate physically realistic conditions in data-scare environments. It adds value to numerical modeling by reducing the number of simulations required to get meaningful generalized results. Main findings, that were derived by using a NPBN, help to pave way for implementation of nature-based solutions for a range of realistic conditions that can be found across global coastal foreshores.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/T6TP0DH0qMw</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10266</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10266/9552</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Niazi, Muhammad Hassan Khan, Napoles, Oswaldo Morales, Wesenbeeck, Bregje K. van </dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

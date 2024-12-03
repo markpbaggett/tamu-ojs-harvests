@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6580</identifier>
+				<datestamp>2023-10-04T03:16:22Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ONLINE OPERATIONAL EARLY WARNING SYSTEM PROTOTYPES TO FORECAST COASTAL STORM IMPACTS (CEWS)</dc:title>
+	<dc:creator xml:lang="en">Haerens, Piet</dc:creator>
+	<dc:creator xml:lang="en">Ciavola, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Ferreira, Óscar</dc:creator>
+	<dc:creator xml:lang="en">van Dongeren, Ap</dc:creator>
+	<dc:creator xml:lang="en">Van Koningsveld, Mark</dc:creator>
+	<dc:creator xml:lang="en">Bolle, Annelies</dc:creator>
+	<dc:subject xml:lang="en">coastal storms</dc:subject>
+	<dc:subject xml:lang="en">morphodynamic feedback loop</dc:subject>
+	<dc:subject xml:lang="en">early warning systems</dc:subject>
+	<dc:description xml:lang="en">Extreme coastal storms have a destructive impact on coastal areas and directly affect people living in the coastal zone, being this emphasized by recent events (e.g. Katrina, Xynthia) which reminded the world of the vulnerability of coastal areas. The economic constraints and the increasing vulnerability of coastal areas (due to sea level rise and to increased occupation) make it impossible to continue with a coastal zone management strategy based solely on engineering schemes to protect vulnerable coastal areas across Europe. Development tools and methods that improve today's forecasting, prediction and early warning capabilities in order to improve the assessment of coastal vulnerability and risks are strongly needed and should be part of future prevention, mitigation and preparedness measures. Within the MICORE project online operational storm early warning systems (CEWSs) using open-source models and tools for reliable predictions of the morphological impact of marine storm events were developed and demonstrated. The system makes use of existing off-the-shelf models as well as a state of the art open-source morphological model (XBeach). The project specifically targeted the development of early warning and information systems to support a short term emergency response in case of an extreme storm event (CEWS). The current paper describes the applied system architecture, the model set-up and the storm impact indicator (SII) oriented approach. It also highlights the need for further developments and application.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6580</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6580/pdf_576</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

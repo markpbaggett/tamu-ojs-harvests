@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10189</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY ON SCOURING IN PILE OF OFFSHORE WIND FARMING BY NUMERICAL ANALYSIS USING BUILDING-CUBE METHOD</dc:title>
+	<dc:creator xml:lang="en">Tokunaga, Shogo</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">In recent years, offshore wind farming has spread all over the world, and there has been rapid growth of not only conventional onshore wind farming but also offshore wind farming in the sea. However, there are many problems to be solved in offshore wind farming. Among them, the scour of the ocean floor caused by wave and tide has a great influence on the support structure. The purpose of this study is to clarify the scour phenomenon from the flow field and vortex generation conditions by numerical simulation using Building Cube Method. We conducted the simulation of the experiment which handles scouring around the monopile performed by Chen et al. (2018). The Building Cube Method was developed by Nakahashi and Kim (2004). In this study, we used CADMAS-BCM (developed by Arikawa et al.) that 3-D Navier-Stokes simulation model using the Building Cube Method. In this model, the 3-D Building Cube Method was applied using multiple roots. Moreover, because the calculation area is divided according to simple rules, it has features such as good compatibility with parallel computers, and grid generation by a simple method is useful for calculating the flow around objects with complex shapes.
+Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/OlJK_Qw_TwY</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10189</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10189/9475</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Shogo Tokunaga, Taro Arikawa</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

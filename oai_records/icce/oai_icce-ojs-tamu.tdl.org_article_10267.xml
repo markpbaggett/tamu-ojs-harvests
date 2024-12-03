@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10267</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HIGH ORDER NONLINEAR WAVE INTERACTIONS FROM DEEP TO FINITE WATER DEPTH WITH BOTTOM TOPOGRAPHY CHANGE </dc:title>
+	<dc:creator xml:lang="en">Lyu, Zuorui</dc:creator>
+	<dc:creator xml:lang="en">Kashima, Hiroaki</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">In recent years, freak wave/rouge wave has become an important problem in science and engineering. Modulational instability is considered to be an important factor leading to freak wave in the wave evolution of deep water, and Janssen (2003) defined Benjamin-Feir index (BFI) to reflect it. Mori and Janssen (2006) gave the occurrence probability of freak waves based on a weakly non-Gaussian theory, and distribution of wave height is determined by skewness and kurtosis of surface elevation to a considerable extent in deep water. According to observational record, freak wave has not only been found in deep water in the ocean, but also been observed in shallow water and coastal areas. In the process of water wave entering continental shelf, water depth is changing with mild slope after a long distance propagation. This study focus on investigating how water depth affect skewness and kurtosis in the high order nonlinear wave evolution from deep water to finite water depth in two-dimension.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/a8LiJvXWRrw</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10267</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10267/9553</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Zuorui Lyu, Hiroaki Kashima, Nobuhito Mori</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

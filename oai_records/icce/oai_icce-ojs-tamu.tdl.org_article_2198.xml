@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2198</identifier>
+				<datestamp>2021-01-17T06:02:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE CLAMP-ON WAVE FORCE METER</dc:title>
+	<dc:creator xml:lang="en">Skjelbreia, Lars</dc:creator>
+	<dc:subject xml:lang="en">clamp-on wave force meter</dc:subject>
+	<dc:subject xml:lang="en">force dynamometer</dc:subject>
+	<dc:subject xml:lang="en">segmented pile</dc:subject>
+	<dc:description xml:lang="en">Because of the tremendous increase in offshore activities, a great effort has been made on obtaining information on wave forces on structural members. Several oil companies have invested large sums of money in the design and construction of full-scale systems for measuring the wave forces. The equipment used for measuring the forces have been single cantilevers or segmented piles designed to make discrete measurements along the pile. For instance, during the last five years, The California Company and California Research Corporation (subsidiaries of Standard Oil Company of California) operated an installation in the Gulf of Mexico with four segmented piles of different diameters. The wave forces were measured by three-foot high force dynamometers located at seven different elevations along the length of each test pile. Each dynamometer was constructed from a section of the cylindrical pile which was attached to a system of flexures on the inside. So far the wave forces have been measured on cylindrical piles varying in diameter from one to four feet and in water depths varying from 30 to 50 feet. As the pile diameter and water depth increase, however, the measurements of wave forces by use of a cantilever or a segmented pile become very difficult and expensive. Therefore, a need exists for investigating other means for measuring the wave forces on a pile. This paper will describe the design and operation of a force meter that may be clamped to an existing pile. In Spring 1960, California Research Corporation installed equipment incorporating eight of the clamp-on meters on an oil well drilling platform in the Gulf of Mexico. The water depth at the location is 100 feet, and two years of operation are planned.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2198</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2198/1892</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

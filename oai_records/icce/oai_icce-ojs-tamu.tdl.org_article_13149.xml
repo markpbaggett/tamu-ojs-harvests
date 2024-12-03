@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13149</identifier>
+				<datestamp>2023-09-01T23:59:18Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON-DEVICE MACHINE LEARNING FOR IDENTIFYING THE SPATIAL EXTENT OF CHRONIC COASTAL FLOODS</dc:title>
+	<dc:creator xml:lang="en">Anarde, Katherine</dc:creator>
+	<dc:creator xml:lang="en">Goldstein, Evan</dc:creator>
+	<dc:creator xml:lang="en">Bolewitz, Joe</dc:creator>
+	<dc:creator xml:lang="en">McCune, Ryan</dc:creator>
+	<dc:creator xml:lang="en">Gold, Adam</dc:creator>
+	<dc:creator xml:lang="en">Hino, Miyuki</dc:creator>
+	<dc:description xml:lang="en">Coastal communities around the world are experiencing flooding due to sea level rise (SLR). At a local level, flood hot spots are often well known, but the causes and frequency of flooding are not well understood. This is in part because the floods are hyper-local and therefore difficult to monitor, and in part because there are many drivers that contribute to flooding. Data on flood incidence, spatial extent, and frequency are needed to better understand the causes and social consequences of chronic coastal flooding. The objective of this study is to develop smart, low-cost sensors with onboard machine learning (ML) for automated detection of flood incidence and spatial extent along roadways.  By automating detection of flood incidence and extent, we will be able to gather fine-grained measures of human exposure to flooding at high spatial resolution.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13149</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.191</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.191</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13149/12422</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Katherine Anarde, Evan Goldstein, Joe Bolewitz, Ryan McCune, Adam Gold, Miyuki Hino</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

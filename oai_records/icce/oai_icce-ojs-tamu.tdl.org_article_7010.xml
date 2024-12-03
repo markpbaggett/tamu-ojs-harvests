@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7010</identifier>
+				<datestamp>2023-10-04T02:45:29Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COUPLED 3D MODELING OF TURBIDITY MAXIMUM DYNAMICS IN THE LOIRE ESTUARY, FRANCE</dc:title>
+	<dc:creator xml:lang="en">Walther, Regis</dc:creator>
+	<dc:creator xml:lang="en">Schaguene, Julien</dc:creator>
+	<dc:creator xml:lang="en">Hamm, Luc</dc:creator>
+	<dc:creator xml:lang="en">David, Eric</dc:creator>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">maximum turbidity</dc:subject>
+	<dc:subject xml:lang="en">salinity</dc:subject>
+	<dc:subject xml:lang="en">vertical turbulence</dc:subject>
+	<dc:subject xml:lang="en">3D modeling</dc:subject>
+	<dc:subject xml:lang="en">TELEMAC system</dc:subject>
+	<dc:description xml:lang="en">Comprehensive 3D modeling efforts to understand salt intrusion and fine sediment dynamics in the Loire estuary started in 2006 and first results about the role of fluid mud on the hydrodynamic circulation through the bottom roughness was reported by Hamm and Walther during ICCE 2008. Recent progress since 2008 includes a) the coupling between the three modules (hydrodynamic, salinity, fine sediment transport) in order to let the fluid mud control the bottom roughness, b) the improvement of the vertical turbulence model enabling to reproduce strong stratifications observed during neap tides, c) a new empirical consolidation model calibrated against lab measurements and including the quantification of the  erosion rate  over a large range of bed dry densities and d) a new parameterization of the settling velocity function of the turbulence level of the flow. These developments have been validated over a period of five months in winter against field measurements of salinity and turbidity acquired through a permanent network of fixed sub-surface turbidimeters established in 2007. Additional validation against bathymetric measurements of the position of the fluid mud layer in the navigation channel is also presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7010</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7010/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

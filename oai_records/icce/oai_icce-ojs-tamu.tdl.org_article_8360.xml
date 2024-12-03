@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8360</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSMENT OF THE EVOLUTION OF STORM SURGE IN COASTAL LOUISIANA</dc:title>
+	<dc:creator xml:lang="en">Siverd, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Hagen, Scott</dc:creator>
+	<dc:creator xml:lang="en">Bilskie, Matthew</dc:creator>
+	<dc:creator xml:lang="en">Braud, DeWitt</dc:creator>
+	<dc:creator xml:lang="en">Gao, Shu</dc:creator>
+	<dc:creator xml:lang="en">Peele, Hampton</dc:creator>
+	<dc:creator xml:lang="en">Twilley, Robert</dc:creator>
+	<dc:description xml:lang="en">The Louisiana coastal landscape comprises an intricate system of fragmented wetlands, natural ridges, man-made navigation canals, flood protection and oil and gas infrastructure. Louisiana lost approximately 1,883 square miles (4,877 sq km) of coastal wetlands from 1932 to 2010 including 300 square miles (777 sq km) lost between 2004 and 2008 due to Hurricanes Katrina, Rita, Gustav and Ike (Couvillion et al., 2011). A projected additional 2,250 square miles (5,827 sq km) of coastal wetlands will be lost over the next 50 years if no preventative actions are taken (Coastal Protection and Restoration Authority of Louisiana, 2017). Storm surge models representing historical eras of the Louisiana coastal landscape can be developed to investigate the response of hurricane storm surge (e.g. peak water levels, inundation volume and time) to land loss and vegetative changes. Land:Water (L:W) isopleths (Gagliano et al., 1970; Twilley et al., 2016; Siverd et al., 2018) have been calculated along the Louisiana coast from Sabine Lake to the Pearl River. These isopleths were utilized to develop a simplified coastal landscape (bathymetry, topography, bottom roughness) representing circa2010. Similar methods are employed with the objective of developing storm surge models that represent the coastal landscape for past eras (circa1890, c.1930, c.1970).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8360</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8360/7168</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8360/7831</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

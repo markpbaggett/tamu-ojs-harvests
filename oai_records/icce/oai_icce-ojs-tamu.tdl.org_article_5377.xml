@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5377</identifier>
+				<datestamp>2021-01-19T12:41:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BRIDGE PIER SCOUR ASSESSMENT FOR THE NORTHUMBERLAND STRAIT CROSSING</dc:title>
+	<dc:creator xml:lang="en">Anglin, C.D.</dc:creator>
+	<dc:creator xml:lang="en">Nairn, R.B.</dc:creator>
+	<dc:creator xml:lang="en">Cornett, A.M.</dc:creator>
+	<dc:creator xml:lang="en">Dunaszegi, L.</dc:creator>
+	<dc:creator xml:lang="en">Turnham, J.</dc:creator>
+	<dc:creator xml:lang="en">Annendale, G.W.</dc:creator>
+	<dc:subject xml:lang="en">Northumberland Strait</dc:subject>
+	<dc:subject xml:lang="en">bridge</dc:subject>
+	<dc:subject xml:lang="en">pier</dc:subject>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:description xml:lang="en">In 1997, the Northumberland Strait Crossing will form a 13 km fixed link (bridge) between New Brunswick and Prince Edward Island in the Canadian Maritimes. This $800 million project has presented many engineering challenges, one of which has been the assessment of scour protection requirements for the 65 bridge piers. A multi-faceted coastal engineering investigation was undertaken by Baird &amp; Associates to assess the potential for scour, and, where required, to design scour protection. Key activities included geotechnical investigations to define the seabed characteristics, numerical modelling to define the wave, current and water level conditions at the crossing site, physical modelling of wave-current interaction with the bridge piers, and the development of a new methodology to estimate the erosion potential of the seabed under extreme wave and current conditions. The direct application of standard scour prediction techniques was not possible for this project due to the combination of complex flow conditions (waves and currents), complex pier geometry (conical base, with some piers located in dredged pits), and complex seabed conditions (highly weathered and fractured bedrock). A new methodology to estimate the potential for scour, considering these complex conditions, was developed using the empirical erodibility approach of Annandale (1995). Measurements of actual scour around one of the first four bridge piers installed early in the project were used to calibrate/verify the methodology. Using this new methodology, scour protection was recommended at approximately onequarter of the bridge piers. The protection system consists of a 10 m wide band of either armour stone or tremie concrete placed around the base of the piers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5377</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5377/5054</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12918</identifier>
+				<datestamp>2023-09-01T15:14:21Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMIC BEHAVIOR OF SUBMERGED FLOATING BRDIGE WITH SUSPENSION SUPPRORT AFTER CABLE FAILURE</dc:title>
+	<dc:creator xml:lang="en">Won, Deokhee</dc:creator>
+	<dc:creator xml:lang="en">Seo, Jihye</dc:creator>
+	<dc:creator xml:lang="en">Kim, Seungjun</dc:creator>
+	<dc:description xml:lang="en">Submerged floating tunnels with suspension supports (SFTSS) resemble to suspension bridges on lands, which are installed a number of hangers on the main tower and main cables to support the girder. On the other hand, as the SFTSS installed underwater has to resist the buoyancy and the forces in an offshore environment, the main cable was installed at the bottom of the tunnel body and connected with a hanger. The concept of the SFTSS was first proposed by Won et al (2019, 2022). It was found that the SFTSS was generated itself a tuned mass damper (TMD) effect due to the interaction between the body and the main cable. This can induce the vibration of the body to be attenuated according to the offshore environment conditions such as waves and currents, and had a feature that the length between the main towers can be longer than 3 km (Won et al., 2022).  The body of the SFTSS was supported by main cables and hangers as aforementioned. In case of the hanger was down by failures, the behavior characteristics of the SFTSS would be changed and be greatly reduced the structure safety. In this study, the behavioral characteristics of the SFTSS were analyzed according to five scenarios on the cable failure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12918</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12918/12191</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Deokhee Won, Jihye Seo, Seungjun Kim</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

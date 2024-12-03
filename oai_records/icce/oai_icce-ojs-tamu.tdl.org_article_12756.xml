@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12756</identifier>
+				<datestamp>2023-09-01T15:12:53Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ARE REDUCED-SCALE EXPERIMENTS OF WAVE DAMPING BY VEGETATION SUITABLE FOR ENGINEERING WITH NATURE?</dc:title>
+	<dc:creator xml:lang="en">Cox, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Kelty, Kiernan</dc:creator>
+	<dc:creator xml:lang="en">Lomonaco, Pedro</dc:creator>
+	<dc:creator xml:lang="en">Tomiczek, Tori</dc:creator>
+	<dc:creator xml:lang="en">Ostrow, Kayla</dc:creator>
+	<dc:description xml:lang="en">Wave damping by vegetation has been included in many numerical models for coastal engineering primarily through a parameterized expression for the wave height decay following Mendez and Losada (2004). CD is an empirical coefficient often derived from reduced-scale laboratory experiments in which alpha is measured directly. Multiple values of CD can be determined from a series of tests and CD is often given as a function of the Reynolds number, Re. These empirical relations for CD are subsequently used along with the vegetation and wave properties to estimate the wave damping rate in numerical models. Although CD has been shown to have a Reynolds-dependence, it is well known that Reynolds similitude cannot be held between model and prototype when Froude similitude is applied. This disparity raises a fundamental scaling issue to be explored in this paper: Are drag coefficients obtained by reduced-scale experiments of wave damping by vegetation suitable for engineering design?</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12756</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12756/12029</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Daniel Cox, Kiernan Kelty, Pedro Lomonaco, Tori Tomiczek, Kayla Ostrow</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

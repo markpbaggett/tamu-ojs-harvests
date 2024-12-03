@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5571</identifier>
+				<datestamp>2021-01-19T11:37:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEAR-FIELD MEASUREMENTS OF A BUOYANT JET IN WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Swan, K.H.</dc:creator>
+	<dc:creator xml:lang="en">Swan, C.</dc:creator>
+	<dc:subject xml:lang="en">jet</dc:subject>
+	<dc:subject xml:lang="en">buoyant jet</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">The present paper concerns the near-field characteristics of a jet discharged into a wave environment, and contrasts the results of two new experimental studies with a modified integral solution based upon a quasi-Lagrangian description of the flow field. This solution differs from previous attempts to model near-field wave mixing (namely Koole and Swan, 1994) in that it is formulated within an absolute frame of reference, and therefore adequately incorporates the momentum flux associated with the entrained fluid. Having implemented this important modification, the Lagrangian model is shown to provide a good quantitative description of a buoyant hot-water jet discharged into either a steady current or an unsteady wave field. In particular, there is no uncertainty regarding the magnitude of the entrainment coefficients, and as such the model is suitable for design calculations. In addition, detailed comparisons between the temperature profiles ensemble-averaged with respect to the phase of the wave cycle hint at a new mixing mechanism. Experimental data is presented which suggests that the wave-induced oscillatory motion leads to the division of the jet at certain phases of the wave cycle. If this effect is indeed important, then it implies that the average dilution will be enhanced when a jet is discharged into the plane of the wave motion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5571</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5571/5245</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

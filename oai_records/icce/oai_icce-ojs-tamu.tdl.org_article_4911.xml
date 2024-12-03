@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4911</identifier>
+				<datestamp>2021-01-19T15:18:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WATER WAVE PROPAGATION IN JETTIED CHANNELS</dc:title>
+	<dc:creator xml:lang="en">Dalrymple, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">channel</dc:subject>
+	<dc:subject xml:lang="en">channel jetty</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:description xml:lang="en">Navigational channels are frequently maintained by the use of jetties. These stabilized channels often form long straight waterways which permit the passage of tidal flows and waves into harbors, lagoons, or rivers. This paper concerns the decay of the waves down the channel due to energy losses within jetties. The analysis involves the use of an impedance boundary conditions at the channel side walls to model the wave dissipation there. The wave motion is described by an eigenfunction expansion for the velocity potential within the channel, with and without tidal currents. For the case that the water wave length is long with respect to the channel width and no currents are present, the wave height decay down the channel can be described by an exponential decay, H = H0 e~Vx, where T = -yxKp.kb), 7 is a (real) damping factor, k is the wave number, and 26 is the width of the channel. For the case of a mean current in the channel, the same expression results, but for a different form of the wave number, (Eq. 24).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4911</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4911/4592</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

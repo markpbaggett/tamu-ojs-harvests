@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2250</identifier>
+				<datestamp>2021-01-17T05:54:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPROXIMATE ESTIMATIONS OF CORRELATION COEFFICIENT BETWEEN WAVE HEIGHT AND PERIOD OF SHALLOW WATER WIND WAVES</dc:title>
+	<dc:creator xml:lang="en">Ijima, Takeshi</dc:creator>
+	<dc:subject xml:lang="en">correlation coefficient</dc:subject>
+	<dc:subject xml:lang="en">shallow</dc:subject>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">wave height</dc:subject>
+	<dc:subject xml:lang="en">wave period</dc:subject>
+	<dc:description xml:lang="en">From the fact that the marginal frequency distributions for wave height and period of complex sea waves both follow the Rayleigh type distribution and approximately exists a linear relationship between wave height and period, Bretschneider(l959) derived wave height and energy spectra of wave period, introducing the summation function of wave height. Then he estimated the correlation coefficient r between height and period of waves as a function of non-dimensional fetch f (= gF/U2). However, his estimation seems not theoretical but empirical, being derived mainly from qualitative considerations and observed data. In this paper, the author tries to derive theoretically the equation for r as a function of f, assuming the classical energy equation for significant wave is applicable to the individual wave in complex sea. Moreover, extending the same method, he intends to estimate the coefficient for shallow water waves as a function of f and non-dimensional depth d (=*gQ/U'z). As the results, coefficient r for deep water waves consists fairly well with that o£ Bretschneider and comparing with the author's observed data, the one for shallow water waves seems to be reasonable.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2250</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2250/1941</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

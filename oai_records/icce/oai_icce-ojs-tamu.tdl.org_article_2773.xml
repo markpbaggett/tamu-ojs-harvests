@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2773</identifier>
+				<datestamp>2021-01-20T03:39:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VELOCITY AND SHEAR STRESS IN WAVE BOUNDARY LAYERS</dc:title>
+	<dc:creator xml:lang="en">Teleki, P.G.</dc:creator>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">wave boundary layer</dc:subject>
+	<dc:subject xml:lang="en">wave velocity</dc:subject>
+	<dc:description xml:lang="en">The critical force for the entrainment of sediment on the ocean floor is the maximum, instantaneous shear force. A numerical estimate for the stress is made from the third approximation of a second order boundary layer theory for oscillating laminar flow. The analytical derivation satisfies both the case of flow in an oscillating water tunnel and the case of a progressive (Airy) wave, where the shear distribution depends on the form of the velocity distribution in the boundary layer. Solution for the velocity is on the basis of iteration in an infinite series, where the convective terms are numerically evaluated from lower order solutions. For the boundary shear, the phase lead is found to be less than predicted by linear theory, and although the correction at the third approximation is small compared to lower approximations, the modified vertical distribution provides a basis for the correction of shear measurements, obtained by indirect means, to the boundary value.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2773</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2773/2437</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

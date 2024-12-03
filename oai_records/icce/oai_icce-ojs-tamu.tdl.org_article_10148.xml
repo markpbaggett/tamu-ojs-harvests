@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10148</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICABILITY OF THE VERTICAL TELESCOPIC BREAKWATER USING THE PAST TYPHOON IN TOKYO BAY</dc:title>
+	<dc:creator xml:lang="en">Harada, Yako</dc:creator>
+	<dc:creator xml:lang="en">Matsumoto, Yukihisa</dc:creator>
+	<dc:creator xml:lang="en">Morishita, Kazuho</dc:creator>
+	<dc:creator xml:lang="en">Oonishi, Nobuyuki</dc:creator>
+	<dc:creator xml:lang="en">Kihara, Kazuyoshi</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Masashi</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">The vertical telescopic breakwater(VTB), which is a new breakwater that permits the navigation of ships, remain at the bottom of the sea during calm and rise to the surface during tsunamis or storm surges. Kawai et al. (2017) and Arikawa et al. (2019) found that it is effective not only for swell waves, but also for long-period waves simulating tsunamis and storm surges by previous experiments and numerical analyses. However, there have been few studies on the performance of VTB by numerical calculations in actual ports using actual typhoons. In addition, sea levels and changes in characteristics of typhoon due to climate change are predicted to occur; hence, we are concerned about the damage in all quarters caused by storm surge inundation, especially at Tokyo. Therefore, in this study, we used hypothetical typhoons under worst-case scenarios and quantitatively evaluated the protection performance of VTB against hypothetical typhoons with different aperture rates of VTB in Tokyo Bay by the numerical simulation.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/qof5ixKqIiA</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10148</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10148/9434</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Yako Harada, Yukihisa Matsumoto, Kazuho Morishita, Nobuyuki Oonishi, Kazuyoshi Kihara, Masashi Watanabe, Taro Arikawa</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

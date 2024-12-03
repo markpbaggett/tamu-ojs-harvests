@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/977</identifier>
+				<datestamp>2023-10-04T04:21:10Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF WATER IMPACT INVOLVING THREE DIMENSIONAL RIGID BODIES OF ARBITRARY SHAPE</dc:title>
+	<dc:creator xml:lang="en">Hu, Zheng Zheng Hu</dc:creator>
+	<dc:creator xml:lang="en">Causon, Derek</dc:creator>
+	<dc:creator xml:lang="en">Mingham, Clive</dc:creator>
+	<dc:creator xml:lang="en">Qian, Ling</dc:creator>
+	<dc:subject xml:lang="en">Wave impacts</dc:subject>
+	<dc:description xml:lang="en">As is well known, the design of coastal or offshore structures whether a ship, wave energy device or other fixed or floating structure, needs to consider its operation in a very hostile environment, including heavy storms.  For example, an extremely high or steep wave impact on the bow or stern of a moored FPSO may result in a large amount of water on deck. Known as green water, this may cause severe damage to the deck house or other deckside equipment. Thus, there is great need for simulation tools to predict impact loadings and to provide more insight into the physics of local impact phenomena. 
+
+Published research or prediction work on the water impact problem has mostly related to studies in 2D.  For example, Greehow&amp; Lin (1983), Greenhow (1987), Zhao &amp; Faltinsen (1993), Mei et al.(1999) have studied the hydrodynamics of rigid bodies entering water both theoretically and experimentally. More recently, a laboratory investigation of the pressure distribution on a free-falling wedge entering water by Yettou et al.(2006 has been compared a numerical and experimental study carried out by Campbell and Weynberg (1980). Water impact and green water loading in 3D has been simulated by Kleefsman et al. (2005) using a VOF method, which for dam break and water entry problems. In this study, we have developed the AMAZON-3D code for studies of water impact problems involving various 3D rigid solid bodies. 
+
+The in-house Cartesian cut cell approach has been used to simulate 3D water impact involving both moving rigid solid bodies and the free surface. The Cartesian cut cell method in the AMAZON-3D code is unrestricted in terms of boundary complexity or range of boundary movement.  Solid objects are carved out of a background mesh, leaving a set of irregularly shaped cells aligned with the surface boundary. The advantages of the cut cell approach have been outlined previously by Causon et al. (2000, 2001) and Hu et al.(2009) including its flexibility for dealing with arbitrarily complex geometries and moving bodies. There is no requirement to re-mesh globally or even locally for the case of a moving body.  All that is required is to update the cut cell data at the body contour for as long as the body motion continues.
+
+The AMAZON-3D finite volume code solves the incompressible Navier-Stokes equations in both air and water regions simultaneously treating the free surface as a contact surface in the density field that is captured automatically in a manner analogous to shock capturing in compressible flow. A time-accurate artificial compressibility method and high Godunov-type scheme replaces the pressure correction solver used in other methods (see Qian et al. 2006).
+
+We believe that the success of a study of water impact depends ultimately on the problem under consideration and the computer resources available and for each method there is a class of problem for which one method may perform better another.  Each method has its own advantages and disadvantages and it is not possible to assert conclusively that one method is uniformly superior. However, we believe we can demonstrate that our method can be used successfully to study real local impact phenomena including the egress of an arbitrary rigid body from air to water or vice versa, the splash zone and entrapment of one fluid into the other. The code has been validated by recourse to a number of test cases including a cone undergoing forced oscillations and water impact of a rigid wedge with constant entry velocity where data and/or analytical results are available for comparison purposes. A range of results including the free surface elevation and force calculations will be presented for the water impact of various 3D rigid bodies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/977</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.posters.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; posters.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/977/pdf_149</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

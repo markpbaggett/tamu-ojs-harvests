@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1580</identifier>
+				<datestamp>2021-01-17T07:03:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STATISTICAL ANALYSIS OF WAVE RECORDS</dc:title>
+	<dc:creator xml:lang="en">Putz, R. R.</dc:creator>
+	<dc:subject xml:lang="en">wave spectral analysis</dc:subject>
+	<dc:subject xml:lang="en">wave statstics</dc:subject>
+	<dc:subject xml:lang="en">wave energy distribution</dc:subject>
+	<dc:description xml:lang="en">The establishment of quantitative relationships between recorded wave-system characteristics and other phenomena requires numerical description of the wave record. Current concepts applied to time histories of wave activity at a point are discussed. Characteristic statistical regularities found in wave measurements are described. Examples given show the application of statistical techniques' to the description of wave systems in terms of the distribution of spectral energy as well as the distributions of "individual" wave heights and periods. Results from the prediction, from one point to another, of surface time histories illustrate the application of approximate spectral information.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1953-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1580</dc:identifier>
+	<dc:identifier>10.9753/icce.v4.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 4 (1953): Proceedings of 4th Conference on Coastal Engineering, Chicago, Illinois, 1953.; 2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1580/857</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5710</identifier>
+				<datestamp>2021-01-19T10:51:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SECOND ORDER WAVE INTERACTION WITH A LARGE STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Buchmann, Bjarne</dc:creator>
+	<dc:creator xml:lang="en">Skourup, Jesper</dc:creator>
+	<dc:creator xml:lang="en">Kriebel, David L.</dc:creator>
+	<dc:subject xml:lang="en">large structure</dc:subject>
+	<dc:subject xml:lang="en">second order wave</dc:subject>
+	<dc:description xml:lang="en">Wave diffraction around a large vertical circular bottom mounted cylinder is considered. Results from a 3D second-order numerical time domain Boundary Element Model, a 3D second-order semi-analytical frequency domain model and experiments are compared and show good agreement over a wide range of wave frequencies and wave steepnesses. In general the agreement between the calculated and experimental results is satisfactory even in some cases where second-order Stokes' wave theory is not a priori expected to provide accurate results. The two numerical models have thus been validated against each other and validated against experiments. It is noted that the inclusion of second-order effects is important for the accurate estimation of run-up on a structure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5710</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5710/5380</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

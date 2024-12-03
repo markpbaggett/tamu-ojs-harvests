@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6745</identifier>
+				<datestamp>2023-10-04T02:57:27Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VESSEL WAKE INDUCED SEDIMENT MOBILITY AT EAGLE HARBOR, WASHINGTON, USA</dc:title>
+	<dc:creator xml:lang="en">Michalsen, David</dc:creator>
+	<dc:creator xml:lang="en">Demirbilek, Zeki</dc:creator>
+	<dc:creator xml:lang="en">Nwogu, Okey</dc:creator>
+	<dc:subject xml:lang="en">vessel wake</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq modeling</dc:subject>
+	<dc:subject xml:lang="en">sediment mobility</dc:subject>
+	<dc:subject xml:lang="en">sediment capping</dc:subject>
+	<dc:description xml:lang="en">Eagle Harbor is a small natural harbor located in central Puget Sound on the eastern side of Bainbridge Island, Washington State, USA. Over a period of about 80 years, the harbor was severely contaminated. Approximately 28.3 hectares of the contaminated harbor were capped with dredged and upland sediments from 1993 to 2008.  Recent monitoring data has concluded portions of the subtidal cap has eroded and may not be physically stable. Erosion in the vicinity of the car passenger ferry sailing line suggests the cap material may not be of sufficient size to achieve the objectives of providing a physical barrier for chemical isolation.  Here, a two-dimensional finite difference model using a coupled Boussinesq-Panel method is used to investigate bed shear stresses on the existing sediment cap to analyze cap stability.  Model results indicate the subtidal cap experiences over 100 Pa of bed stress within a 30 meter swath of the ferry sailing line.  These bed stresses significantly exceed the critical shear stress of the original cap material indicating the cap is not physically stable.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6745</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6745/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

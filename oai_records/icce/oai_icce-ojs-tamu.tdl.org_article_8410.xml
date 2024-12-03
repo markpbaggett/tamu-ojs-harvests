@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8410</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDE-TSUNAMI INTERACTION IN A HIGHLY ENERGETIC CHANNEL. A CASE STUDY.</dc:title>
+	<dc:creator xml:lang="en">Winckler, Patricio</dc:creator>
+	<dc:creator xml:lang="en">Sepúlveda, Ignacio</dc:creator>
+	<dc:creator xml:lang="en">Aron, Felipe</dc:creator>
+	<dc:creator xml:lang="en">Contreras-López, Manuel</dc:creator>
+	<dc:description xml:lang="en">Tsunami-tide interaction can be assessed using different approaches with increasing levels of complexity. The simplest is to compute the sea level through a linear superposition of the tide and the tsunami computed independently (composite model). Recent studies have found that composite models provide inaccurate results in shallow waters (e.g. Kowalik et al, 2010). A more realistic analysis is achieved by computing the tsunami and the tide together (full model). This approach is appropriate where nonlinear effects may be important due to strong tides or shallow bathymetries. This work is intended to improve the physical understanding of tide-tsunami interaction in Canal Chacao, a highly energetic channel sited in Chile. This channel is dominated by currents of up to 6 [m/s] during spring tide and is located in a region prone to tsunamis. The fundamental question is to assess under which conditions tides and tsunamis can be linearly superposed and in which they interact nonlinearly, thus enhancing or reducing the surface elevation and associated currents.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8410</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.83</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.83</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8410/7218</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8410/7867</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

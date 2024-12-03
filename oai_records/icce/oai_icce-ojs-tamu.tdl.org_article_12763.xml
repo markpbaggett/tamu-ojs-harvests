@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12763</identifier>
+				<datestamp>2023-09-01T15:12:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NON-LINEAR DISPERSION EFFECTS IN NEARSHORE WAVES: PERSPECTIVES FOR DEPTH-INVERSION APPLICATIONS</dc:title>
+	<dc:creator xml:lang="en">Martins, Kévin</dc:creator>
+	<dc:creator xml:lang="en">Bonneton, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Viron, Olivier de</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian</dc:creator>
+	<dc:creator xml:lang="en">Harley, Mitchell</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen</dc:creator>
+	<dc:description xml:lang="en">Remote-sensing technology, combined with depth-inversion algorithms, presents a promising opportunity to quantify the morphological evolution of sandy beaches during storms. Current depth-inversion algorithms such as cBathy rely on the linear wave dispersion relation to invert depth from remotely-sensed dispersion properties. In the surf zone, however, non-linear amplitude dispersion effects become important and significant deviations from the linear dispersion are expected (Martins et al., 2021). Optical imagery also suffers from other technical limitations when dealing with breaking waves (e.g., saturated pixels and phase shifts), which affects the stability and accuracy of remotely-sensed wave dispersive properties. These limitations explain the poor accuracy reached with common approaches in the surf zone (typically 100 percent error). This contribution paves the way to new depth-inversion algorithms suited to the surf zone, based on remotely-sensed free surface elevation data (e.g., by lidar scanners). We here report on the first efforts to account for non-linear amplitude dispersion effects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12763</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.currents.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; currents.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12763/12036</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Kévin Martins, Philippe Bonneton, Olivier de Viron, Ian Turner, Mitchell Harley, Kristen Splinter</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

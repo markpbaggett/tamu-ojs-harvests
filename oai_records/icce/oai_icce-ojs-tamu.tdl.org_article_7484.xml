@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7484</identifier>
+				<datestamp>2021-01-19T04:37:03Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF WAVE, TIDAL CURRENT AND OCEAN CURRENT COEXISTENCE ON THE WAVE AND CURRENT PREDICTIONS IN THE TSUGARU STRAIT</dc:title>
+	<dc:creator xml:lang="en">Saruwatari, Ayumi</dc:creator>
+	<dc:creator xml:lang="en">Yoneko, Yoshihiro</dc:creator>
+	<dc:creator xml:lang="en">Tajima, Yu</dc:creator>
+	<dc:subject xml:lang="en">Marine renewable energy</dc:subject>
+	<dc:subject xml:lang="en">tidal and ocean currents</dc:subject>
+	<dc:subject xml:lang="en">sea waves</dc:subject>
+	<dc:description xml:lang="en">The Tsugaru Strait between Hokkaido and Honshu islands, connecting the Pacific Ocean and Japan Sea, has been used for shipping and fishery. The current in the strait formed by a tidal current and ocean current so-called Tsugaru Warm Current is recently assumed to be one of the potential renewable energy source in Japan. The present study investigates the effects of the coexistence of the tidal/ocean currents as well as sea waves on the predictions of the physical conditions around this strait. We performed two different numerical experiments for characterising the physical environment associated with current-current and wave-current interactions. Harmonic analysis of the tidal current shows tidal ellipses of the diurnal and semi-diurnal constituents are stretched into the direction of the ocean current and enable to be reasonably predicted without considering the effect of the current-current interaction. Wave height in the strait is shown to vary 0.75-1.5 times of the original wave height by attenuated and amplified by the coexisting current. It will be indicated that the physical environment associated with the current-current and wave-current interactions should be considered for effective utilisation of this area.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7484</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7484/pdf_773</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

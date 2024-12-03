@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3069</identifier>
+				<datestamp>2021-01-20T01:51:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RANDOM WAVE SIMULATION IN A LABORATORY WAVE TANK</dc:title>
+	<dc:creator xml:lang="en">Kimura, Akira</dc:creator>
+	<dc:creator xml:lang="en">Iwagaki, Yuichi</dc:creator>
+	<dc:subject xml:lang="en">wave tank</dc:subject>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">random wave simulation</dc:subject>
+	<dc:description xml:lang="en">Most of coastal engineering problems have been studied with monocromatic waves. However, sea waves which arrive at the coast are random. It is very difficult to estimate exactly the influence of these random waves to coastal structures. Then the model tests in a laboratory wave tank using random wave simulation techniques seem to be most desirable way to estimate the influence of randomness of sea waves. For this purpose, the accomplishment of random wave simulation system, which make possible generating random waves having statistically same properties as those of sea waves, has long been desired. The authors achieved to establish such a new wave simulation system. In this paper, the characteristics of this system are demonstrated experimentally through several cases of random wave simulations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3069</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3069/2734</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

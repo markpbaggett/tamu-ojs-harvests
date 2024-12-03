@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1294</identifier>
+				<datestamp>2023-10-04T04:28:23Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION MODEL FOR HARBOR VERIFICATION AND MANAGMENT</dc:title>
+	<dc:creator xml:lang="en">Solari, Sebastian</dc:creator>
+	<dc:creator xml:lang="en">Moñino, Antonio</dc:creator>
+	<dc:creator xml:lang="en">Baquerizo, Asunción</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel Angel</dc:creator>
+	<dc:subject xml:lang="en">simulation</dc:subject>
+	<dc:subject xml:lang="en">Level III verification</dc:subject>
+	<dc:subject xml:lang="en">Harbor management</dc:subject>
+	<dc:description xml:lang="en">This work presents an integrated model for harbor verification and management. The model is based on simulation techniques and includes a queuing system for waiting time calculations and estimates failure probabilities. Within the model, climatic agents (wave, currents, etc.) are transformed in order to know their values at any subset of the system, and the response of the ship to the different agents is computed, in order to estimate failure probability during transits. The model is applied to a case study, at the Bay of Cádiz Harbor, Spain, and some example applications are show.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1294</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1294/pdf_93</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

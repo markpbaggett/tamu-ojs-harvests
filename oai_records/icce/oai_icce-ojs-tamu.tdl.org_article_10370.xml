@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10370</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENVIRONMENTAL VULNERABILITY ASSESSMENT IN THE SOUTH-WEST COASTAL REGION OF BANGLADESH USING PRINCIPAL COMPONENT ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Iqra, Nazeat Ameen</dc:creator>
+	<dc:creator xml:lang="en">Zzaman, Rashed Uz</dc:creator>
+	<dc:creator xml:lang="en">Rodrigues, Eugine Abhishek</dc:creator>
+	<dc:creator xml:lang="en">Haque, Anisul</dc:creator>
+	<dc:creator xml:lang="en">Khan, Muhammad Shah Alam</dc:creator>
+	<dc:creator xml:lang="en">Hussain, Mohammad Asad</dc:creator>
+	<dc:description xml:lang="en">Being located in a low-lying coastal zone and having a unique brackish water ecosystem, the South-west region of Bangladesh is highly susceptible to environmental vulnerability. An assessment of environmental vulnerability over this large area of 24,188 km2 is a complex process and one of the most essential parts for any coastal zone management. Since the changes in the environmental indicators are posing adverse impacts, the environment tends to be more vulnerable. This study assesses the environmental vulnerability in 40 Upazilas (lower level of the administrative unit) in the South-west region of Bangladesh. After reviewing the literature, this study incorporated 10 relevant indicators (i.e. soil type, average temperature, vegetation change, population density, population change, road density, surface salinity, Cumulative Dry Day (CDD), Cumulative Wet Day (CWD), groundwater level). Principal Component Analysis (PCA) was applied to find the weight for each indicator in IBM SPSS 20 software and the values were normalized into a unified dimension. The generated environmental vulnerability map is assorted into five vulnerability groups consisting of very low, low, medium, high, very high vulnerabilities with an interval of 0-0.05, 0.05-0.4, 0.4-0.5, 0.5-0.6, 0.6-1.0 respectively. From the spatial analysis, it has been seen that the vulnerability groups representing very low, low, medium, high, and very high contain 10percent, 35percent, 28percent, 17percent, and 10percent of the Upazilas, respectively. The findings of environmental vulnerability assessment can support effective guidance for long-term environmental management in terms of coastal zone management. The development framework can be assessed at different spatial and temporal scales in the coastal zone with the availability of environmental indicator data and by applying the PCA method.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/iQ_CwlOBCJE</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10370</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10370/9656</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Nazeat Ameen Iqra, Rashed Uz Zzaman, Eugine Abhishek Rodrigues, Anisul Haque, Muhammad Shah Alam Khan, Mohammad Asad Hussain</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

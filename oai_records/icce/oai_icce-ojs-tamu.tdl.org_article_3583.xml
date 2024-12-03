@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3583</identifier>
+				<datestamp>2021-01-19T22:57:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOUNDARY CONDITIONS FOR ANALYSIS OF FLOW IN TIDAL INLETS</dc:title>
+	<dc:creator xml:lang="en">Copalakrishnan, T.C.</dc:creator>
+	<dc:creator xml:lang="en">Machemehi, J.L.</dc:creator>
+	<dc:subject xml:lang="en">boundary conditions</dc:subject>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">flow analysis</dc:subject>
+	<dc:description xml:lang="en">One-dimensional gradually varied flow analysis of flood routing and inlet flows (Mahmood and Yevjevich, 1975; Amein, 1975 and Hinwood and Wallis, 1975) has been a subject of study in the last few decades and many mathematical models have been developed based on those studies. A common feature in all these models is that the boundary conditions at the ends of the channel reaches are supplied from measured values of stage, discharge or velocity. These boundary conditions form an integral part of the mathematical models. In the case of implicit schemes, without the supply of these boundary conditions there will be more unknowns than equations. Even though in the explicit schemes they are not required in order to supply sufficient equations, it is obvious that the flow will not be properly simulated without imposing proper end conditions of flow. Normally two end conditions will be required, the upstream and downstream conditions, even though in a network of channels there will be more than two end conditions. Of these two the upstream condition is usually the forcing function and the downstream one is the result of the flow due to the forcing function. The downstream condition depends on what happens to the flow outside the system. In other words, it depends on the shallow water wave reflections from the continuation of the channel beyond the downstream end of the system considered. These reflections are characterized by the expansion or contraction of the channel, the rate of change of the side slopes and other channel characteristics. As mentioned earlier, the downstream end condition is supplied from measured values of flow parameters so that the channel features (outside the system) mentioned above are automatically simulated. However, if it is required to know the response for any given forcing function, the corresponding measured downstream values may not be available. This means that the downstream boundary condition cannot be imposed in ,the usual way. This paper describes a method by which the downstream boundary condition can be imposed in the absence of measured downstream response to a given forcing function.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3583</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.154</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 154</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3583/3265</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3143</identifier>
+				<datestamp>2021-01-20T01:25:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF WAVE-INDUCED SEAFLOOR MOVEMENTS</dc:title>
+	<dc:creator xml:lang="en">Kraft, Leland Milo</dc:creator>
+	<dc:creator xml:lang="en">Watkins, David James</dc:creator>
+	<dc:subject xml:lang="en">seafloor movement</dc:subject>
+	<dc:subject xml:lang="en">movement prediction</dc:subject>
+	<dc:description xml:lang="en">Foundation design for offshore structures in areas where wave-induced bottom pressures cause submarine mud slides requires a knowledge of the potential depth of slide and of the magnitude and distribution of soil movements below the slide. Several methods have been developed to evaluate the stability of the seafloor due to wave-induced bottom pressures. These methods are reviewed and an improved procedure is presented. This procedure makes use of finite element analysis and combines in a rational manner oceanographic information on wave statistics with stress-strain behavior of soils under cyclic load conditions in order to evaluate the effects of a given storm history on the behavior of submarine sediments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3143</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.93</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 93</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3143/2807</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

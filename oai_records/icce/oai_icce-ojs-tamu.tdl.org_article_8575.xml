@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8575</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SEMI-ANALYTIC MODEL OF TIDAL INLETS AND THEIR EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Nunes, Almir</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Hitoshi</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Hans</dc:creator>
+	<dc:description xml:lang="en">The water exchange between the sea and a lagoon or bay through an inlet due to tides is a classical topic that has been investigated in a large number of studies (Keulegan, 1967; O'Brien and Dean, 1972; O'Brien and Clark, 1974; Escoffier, 1977). In this paper, a simple semi-analytic model of the flow induced by tides through an inlet connecting the sea to a lagoon or bay is developed. The model is employed to derive explicit expressions for key parameters associated with inlet flows such as bay water level amplitude, tidal prism, maximum inlet velocity, and mixing (retention) time. Also, the inlet flow model is combined with a sediment transport model to determine the conditions for equilibrium as well as the evolution of the inlet cross-sectional area towards equilibrium or closure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8575</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8575/7379</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8575/7987</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

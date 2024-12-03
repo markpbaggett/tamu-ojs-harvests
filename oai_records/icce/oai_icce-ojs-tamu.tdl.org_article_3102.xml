@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3102</identifier>
+				<datestamp>2021-01-20T01:40:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GENERALIZED MODEL FOR STORM SURGE</dc:title>
+	<dc:creator xml:lang="en">Yeh, Gour-Tsuy</dc:creator>
+	<dc:creator xml:lang="en">Yeh, Fei-Fan</dc:creator>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">surge model</dc:subject>
+	<dc:description xml:lang="en">A two-dimensional numerical simulation model of storm surges based on the vertically integrated hydrodynamic equations of continuity and momentum is adopted. The model embodies the inundation over the lowlying land surface with moving water-land interfaces. Kind stress coefficient is considered not only function of wind speed but also dependent on the temperature differential between air and water. Bottom stress is treated by an evaluation of convolution integrals over the surface slope pressure depression and wind shear. The contribution of momentum by river inflows is taken into account. Particular attention is directed to the treatment of nonlinear terms in the governing equations to insure the improvement of numerical stability and accuracy. The model is applied to the New Jersey Coastal area and reproduces the historical storm surges quite well both at Atlanta City and Sandy Hcok.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3102</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3102/2767</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

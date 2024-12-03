@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1100</identifier>
+				<datestamp>2023-10-04T04:39:10Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEAR-FIELD TSUNAMI HAZARD MAP PADANG, WEST SUMATRA: UTILIZING HIGH RESOLUTION GEOSPATIAL DATA AND RESEASONABLE SOURCE SCENARIOS</dc:title>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:creator xml:lang="en">Kongko, Widjo</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:creator xml:lang="en">Natawidjaja, Danny Hilman</dc:creator>
+	<dc:creator xml:lang="en">Sieh, Kerry</dc:creator>
+	<dc:subject xml:lang="en">tsunami hazard modeling</dc:subject>
+	<dc:subject xml:lang="en">risk assessment</dc:subject>
+	<dc:subject xml:lang="en">coastal development</dc:subject>
+	<dc:subject xml:lang="en">integrated coastal zone management</dc:subject>
+	<dc:description xml:lang="en">Near-field tsunami propagation both in shallow water environments and bore-like wave propagation on land are conducted in this
+study to obtain fundamental knowledge on the tsunami hazard potential in the city of Padang, Western Sumatra, Republic of
+Indonesia. As the region proves a huge seismic moment deficit which has progressively accumulated since the last recorded
+major earthquakes in 1797 and 1833, this investigation focuses on most reasonable seismic sources and possibly triggered nearshore
+tsunamis in order to develop upgraded disaster mitigations programs in this densely-populated urban agglomeration located
+on the western shore of Sumatra Island. Observations from continuous Global Positioning Satellite (cGPS) systems and
+supplementary coral growth studies confirm a much greater probability of occurrence that a major earthquake and subsequent
+tsunami are likely to strike the region in the near future. Newly surveyed and processed sets of geodata have been collected and
+used to progress most plausible rupture scenarios to approximate the extent and magnitudes of a further earthquake. Based upon
+this novel understanding, the present analysis applies two hydronumerical codes to simulate most probable tsunami run-up and
+subsequent inundations in the city of Padang in very fine resolution. Run-up heights and flow-depths are determined stemming
+from these most plausible rupture scenarios. Evaluation of outcome and performance of both numerical tools regarding impacts
+of surge flow and bore-like wave fronts encountering the coast and inundating the city are thoroughly carried out. Results are
+discussed not only for further scientific purposes, i.e. benchmark tests, but also to disseminate main findings to responsible
+authorities in Padang with the objective to distribute the most probable dataset of plausible tsunami inundations as well as to
+address valuable insights and knowledge for effective counter measures, i.e. evacuation routes and shelter building. Following
+evacuation simulations based on rational assumptions and simplifications reveal a most alerting result as about 260.000 people
+are living in the highly exposed potential tsunami inundation area in the city of Padang of which more than 90.000 people will
+need more than 30 min. to evacuate to safe areas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1100</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1100/pdf_32</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1100/7711</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1100/7712</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

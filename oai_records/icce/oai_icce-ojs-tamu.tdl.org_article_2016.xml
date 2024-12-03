@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2016</identifier>
+				<datestamp>2021-01-17T06:47:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE DIFFRACTION IN FRONT OF A PLANE WAVE PADDLE</dc:title>
+	<dc:creator xml:lang="en">Bouyssou, Roland</dc:creator>
+	<dc:subject xml:lang="en">wave diffraction</dc:subject>
+	<dc:subject xml:lang="en">wave amplitude</dc:subject>
+	<dc:subject xml:lang="en">wave paddle</dc:subject>
+	<dc:description xml:lang="en">In an installation specially designed for the purpose, the Laboratoire Dauphinois d'Hydraulique has, made numerous systematic measurements of the distribution of wave amplitude across the face of the paddle from which the wave originates.
+
+It is known that a wave produced by a wave machine of finite width diffracts. At first sight, it may appear possible to compare this diffraction to that of a wave passing through a breach of the same width as the wave paddle and cut in a breakwater of infinite length.
+
+When laying out a harbour model, it ia important to know this "diffraction" so that the wave machine can be made to produce a wave having the appropriate amplitude in the essential sections of the model binder consideration (structures, harbour entry channel, etc...).  
+
+Our tests were carried out with a normal, simple articulation, plane wave paddle, 10 metres wide. 
+
+A continuous recording of amplitude was made along lines parallel to the wave machine and very close to one another inside a 12 metres long- and 5 metres wide rectangle. The measuring instrument used was the "graphic wave recorder" developed in the Laboratory, the principle of which is reviewed in the paper. 
+
+Special precautions were taken to avoid the effects of parasites,(unequal amplitude at the beginning, reflections caused by the basin walls, constancy of waves produced, etc..).  
+
+Three waves were studied. For each of these, nearly a thousand measurements have been selected and recorded on a plan of the measuring area. The results obtained in this way are compared to those obtainable from theories on wave diffraction. The results show the need for the precautions taken in the Laboratory when designing wave machines.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1954-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2016</dc:identifier>
+	<dc:identifier>10.9753/icce.v5.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 5 (1954): Proceedings of 5th Conference on Coastal Engineering, Grenoble, France, 1954.; 18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2016/1687</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

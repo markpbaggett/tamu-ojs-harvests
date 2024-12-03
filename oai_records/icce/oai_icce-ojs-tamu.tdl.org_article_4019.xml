@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4019</identifier>
+				<datestamp>2021-01-19T20:23:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DIRECTIONAL SPECTRA IN CURRENT-DEPTH REFRACTION</dc:title>
+	<dc:creator xml:lang="en">Hirosue, F.</dc:creator>
+	<dc:creator xml:lang="en">Sakai, T.</dc:creator>
+	<dc:subject xml:lang="en">directional spectra</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">current refraction</dc:subject>
+	<dc:description xml:lang="en">According to Brink-Kjaer et al.'s discussion(1984), the expression of the wave direction change velocity is modified in our numerical model for the directional wave spectra change due to current-depth refraction (Sakai et al., 1983). The wave reflection and breaking conditions due to current are discussed from a view point of numerical analysis. Effects of the refraction term in the modified wave action equation on the directional spectra change are examined. The relative importance of current and water depth change in the directional spectra change is also examined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4019</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4019/3702</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

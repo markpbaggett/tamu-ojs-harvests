@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8085</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STORM SURGE PROTECTION BY TSUNAMI SEAWALLS IN SENDAI, JAPAN</dc:title>
+	<dc:creator xml:lang="en">Bricker, Jeremy David</dc:creator>
+	<dc:creator xml:lang="en">Roeber, Volker</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Hitoshi</dc:creator>
+	<dc:subject xml:lang="en">tsunami seawalls</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">typhoon</dc:subject>
+	<dc:subject xml:lang="en">flooding</dc:subject>
+	<dc:description xml:lang="en">Storm surge and phase-averaged wave simulations are run to assess the hypothetical effects of the December 2014 Nemuro extratropical storm and the August 2016 Typhoon Lionrock on Sendai port in northern Japan, by shifting the recorded tracks of these storms. Climate change effects are considered by assuming a stronger storm also hits the region. Results show that each of these storms would cause significant damage to the area surrounding Sendai Port if not for the new tsunami levees built during the reconstruction after the 2011 tsunami. With these levees in place, however, damage is substantially mitigated. Nonetheless, phase-resolving wave modeling shows that port structures substantially modify the nearshore wave field, and that the new levees must be designed to withstand the resulting storm wave forces and scour.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8085</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.management.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; management.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8085/6928</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

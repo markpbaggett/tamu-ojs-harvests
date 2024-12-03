@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6974</identifier>
+				<datestamp>2023-10-04T02:47:35Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INCORPORATION OF CONTINENTAL AND URBAN RUN-OFF INTO A COASTAL CIRCULATION MODEL: APPLICATION TO THE CATALAN COAST</dc:title>
+	<dc:creator xml:lang="en">Liste, Maria</dc:creator>
+	<dc:creator xml:lang="en">Grifoll, Manel</dc:creator>
+	<dc:creator xml:lang="en">Keupers, Ingrid</dc:creator>
+	<dc:creator xml:lang="en">Monbaliu, Jaak</dc:creator>
+	<dc:creator xml:lang="en">Espino, Manuel</dc:creator>
+	<dc:subject xml:lang="en">land boundary fluxes</dc:subject>
+	<dc:subject xml:lang="en">urban runoff</dc:subject>
+	<dc:subject xml:lang="en">river discharge</dc:subject>
+	<dc:subject xml:lang="en">freshwater plume</dc:subject>
+	<dc:description xml:lang="en">A 3D hydrodynamical model has been set up to incorporate the continental and urban run-off into the Catalan Coastal waters. Particular attention was paid to introducing correctly the freshwater plumes and attention was also paid to determinate the influence of the land discharge profile with regard to the distributed continental run-off. The model domain includes a small part of the Catalan Coast where the combination of local land topography with torrential rainfall caused considerable local runoff on a short period of time with a large impact on the receiving coastal waters.
+The Regional Ocean Modeling System (ROMS) simulations were used to examine the dispersal to a freshwater delivery from two relevant event; a low river discharge typical of mean conditions during April 2011 and a high discharge representative of the storm event during March 2011 are considered. We have observed the plume responses to an abrupt change in river discharge. During the mean conditions, low salinity water is concentrated around the rivers mouth while during the flood event, the plume spread offshore in the direction of river water outflow and turned downstream close to the coast. The differences between a simulation including the river outflow as a land forcing and a simulation including river and urban runoff as a land forcing suggested that the urban runoff plays an important role in the spreading and shape of the river plume.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.openxmlformats-officedocument.presentationml.presentation</dc:format>
+	<dc:format>video/x-msvideo</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6974</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6974/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6974/7765</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6974/7766</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

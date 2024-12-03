@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7429</identifier>
+				<datestamp>2021-01-19T04:42:00Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISTRIBUTION OF WAVE LOADS FOR DESIGN OF CROWN WALLS IN DEEP AND SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">N¸rgaard, J¸rgen Quvang Harck</dc:creator>
+	<dc:creator xml:lang="en">Andersen, Thomas Lykke</dc:creator>
+	<dc:subject xml:lang="en">rubble mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">crown wall</dc:subject>
+	<dc:subject xml:lang="en">sliding</dc:subject>
+	<dc:subject xml:lang="en">physical modeling</dc:subject>
+	<dc:subject xml:lang="en">design wave load</dc:subject>
+	<dc:description xml:lang="en">This paper puts forward a new method to determine horizontal wave loads on rubble mound breakwater crown walls with specific exceedance probabilities based on the formulae by Nørgaard et al. (2013) as well as presents a new modified version of the wave run-up formula by Van der Meer &amp; Stam (1992). Predictions from the method are compared to measured horizontal wave loads from scaled model tests, and the new method provides results which are in agreement with measured values as long as the wave loads on the crown wall are relatively impulsive. Another aim of the paper has been to compare the displacements of a crown wall exposed to wave loads with different exceedance probabilities in an overload situation (in this case the loads exceeded by 0.1 % and 1/250 of the incident waves). The comparison is made using the assumption that the Eigenfrequency of the crown wall and breakwater is significantly higher than the dynamic wave load impulses on the structure. The relatively small difference in the evaluated exceedance probabilities has a significant influence on the displacement of the monolithic structure. Therefore, probabilistic design tools are recommended. Tools from the present paper will be used in future studies in more detailed investigations on the influence from the load exceedance probability on the stability of crown walls.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7429</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7429/pdf_757</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

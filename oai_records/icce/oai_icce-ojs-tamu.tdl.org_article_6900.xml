@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6900</identifier>
+				<datestamp>2023-10-04T02:54:51Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DUNE EROSION PHYSICAL, ANALYTICAL AND NUMERICAL MODELLING</dc:title>
+	<dc:creator xml:lang="en">D'Alessandro, Felice</dc:creator>
+	<dc:creator xml:lang="en">Tomasicchio, Giuseppe Roberto</dc:creator>
+	<dc:creator xml:lang="en">Musci, Fausta</dc:creator>
+	<dc:creator xml:lang="en">Ricca, Andrea</dc:creator>
+	<dc:subject xml:lang="en">dune erosion</dc:subject>
+	<dc:subject xml:lang="en">overwash</dc:subject>
+	<dc:subject xml:lang="en">large-scale experiment</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">analytical model</dc:subject>
+	<dc:description xml:lang="en">The present paper provides an overview of the large-scale physical model experiments performed at the Canal d'Investigaciò i Esperimentaciò Marìtima (CIEM), Laboratori d'Enginyeria Marìtima (LIM), Universitat Politècnica de Catalunya (UPC), Barcelona, within the EU-Hydralab III Integrated Infrastructure Initiative. The model tests have been carried out in a flume with a sandy dune exposed to a combination of water levels and wave conditions. Different regimes of wave attacks on the sandy/beach dune system have been  investigated; in particular, the study provides a unique set of large-scale physical data concerning the storm waves induced dune overwash (Tomasicchio et al. 2011a; Tomasicchio et al.2011b). The effects of various "load parameters† on the dune erosion process generation, including dune recession rates in terms of the retreat of the dune face, Î"x, and the eroded volume, Î"V, have been investigated and discussed. The laboratory data sets have been adopted to calibrate and verify the analytical model proposed by Larson et al. (2004) in order to calculate the values of Î"V at specific time intervals. Furthermore, the profile measurements have been used to calibrate and verify the numerical model C-SHORE (Kobayashi et al. 2007) predicting the beach-dune profile modifications over the near-shore region (Tomasicchio et al. 2011a; Tomasicchio et al.2011b).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6900</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6900/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

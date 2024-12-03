@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5622</identifier>
+				<datestamp>2021-01-19T11:19:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COHERENT MOTIONS IN THE BOTTOM BOUNDARY LAYER UNDER SHOALING AND BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:subject xml:lang="en">bottom boundary layer</dc:subject>
+	<dc:subject xml:lang="en">coherent motion</dc:subject>
+	<dc:description xml:lang="en">Laboratory measurements of the instantaneous horizontal and vertical velocities induced by regular waves spilling on a rough, impermeable slope were analyzed to elucidate the nature of turbulence generated in the bottom boundary layer and by wave breaking. In the bottom boundary layer outside the surf zone, both the absolute shear stress |r'| and the turbulent kinetic energy k' exhibited intermittent behavior where the instantaneous values were often several times greater than the phase-averaged values. The motions occurred with the passing of each regular wave, however, and the phase-averaged values described the turbulent fluctuations reasonably well. A quadrant analysis showed that the turbulent velocities u' and w' were strongly correlated and oriented in either the first and third quadrants with u'w' &gt; 0 during the acceleration phases or in the second and fourth quadrants with u'w' &lt; 0 in the deceleration phase. The Reynolds stress contributions for this unsteady flow case depended strongly on the phase. Inside the surf zone, \T' \ and fc' were marked by intense, intermittent events which did not occur with the passing of each wave and which were roughly two orders of magnitude larger than the phase-averaged values. This intermittent motion extended into the wave bottom boundary layer. Near trough level, the intermittent events were phase-dependent, and the intense motion was primarily in the fourth quadrant. Near the bottom, the intermittent events were less phase- dependent. A preliminary analysis of the intensity and duration of the intermittent events indicated that coherent events occurred for about 10% of the record and accounted for approximately 50% of the motion, whereas intense events occurred for about 2% of the record and accounted for approximately 20% of the motion. These statistics clearly indicated that the intense, coherent events were intermittent and infrequent but contributed significantly to the magnitude of the absolute shear stress and turbulent kinetic energy.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5622</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5622/5294</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

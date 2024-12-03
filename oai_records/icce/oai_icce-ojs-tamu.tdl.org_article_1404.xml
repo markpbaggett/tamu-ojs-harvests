@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1404</identifier>
+				<datestamp>2023-10-04T04:23:08Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF LES-STOCHASTIC TWO-WAY MODEL TO TWO-PHASE BOUNDARY LAYER FLOWS</dc:title>
+	<dc:creator xml:lang="en">Watanabe, Yasunori</dc:creator>
+	<dc:creator xml:lang="en">Mitobe, Yuta</dc:creator>
+	<dc:creator xml:lang="en">Niida, Yasuo</dc:creator>
+	<dc:creator xml:lang="en">Saruwatari, Ayumi</dc:creator>
+	<dc:subject xml:lang="en">wave boundary layer</dc:subject>
+	<dc:subject xml:lang="en">particle-fluid two-phase flow</dc:subject>
+	<dc:subject xml:lang="en">large eddy simulation</dc:subject>
+	<dc:description xml:lang="en">A particle / turbulence two-way coupling model, integrated with conventional stochastic and sub-grid stress models of three-dimensional Large Eddy Simulation (LES), has been applied to the particle-laden turbulent flow in a wave boundary layer developed over seabed with the aim to understand dynamic effects of the particle size and number density to the suspension process in shearing flow over the seabed. While the particle size affects local velocity fluctuations, the particle population significantly induces secondary large-scale flows varying over a scale of the wavelength, and intensifies the turbulent energy near the bed. The particle-induced turbulence may result in additional suspension from the bed, causing a recursive suspension process via the particle turbulence interaction in the boundary layer.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1404</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1404/pdf_123</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8187</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">2DV RANS-VOF NUMERICAL MODELING OF A MULTI-FUNCTIONAL HARBOUR STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Formentin, Sara Mizar</dc:creator>
+	<dc:creator xml:lang="en">Palma, Giuseppina</dc:creator>
+	<dc:creator xml:lang="en">Contestabile, Pasquale</dc:creator>
+	<dc:creator xml:lang="en">Vicinanza, Diego</dc:creator>
+	<dc:creator xml:lang="en">Zanuttigh, Barbara</dc:creator>
+	<dc:subject xml:lang="en">multi-functional structure</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">OBREC</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">pressures</dc:subject>
+	<dc:description xml:lang="en">This paper is focused on the analysis of a multifunctional structure developed by the Second University of Naples, named OBREC, which is an Overtopping Breakwater for Energy Conversion. The hydraulic and structural performance are evaluated by means of the 2DV numerical model IH-2VOF developed by the University of Cantabria, in terms of average discharge rate, wave reflection coefficient and pressures acting on the structure. The results are compared with the laboratory experiments carried out at Aalborg University (Denmark) and with recent formulae and a new Artificial Neural Network. Furthermore, the numerical model is used to obtain information related to the wave loadings where experimental data were not available. This numerical analysis is a useful support to the ongoing monitoring of the prototype installation in the port of Naples.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8187</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8187/6996</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

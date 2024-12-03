@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6442</identifier>
+				<datestamp>2023-10-04T03:35:51Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PRELIMINARY DESIGN OF DECISION SUPPORT SYSTEM FOR CHINESE SEADIKE SAFETY MANAGEMENT</dc:title>
+	<dc:creator xml:lang="en">Zuo, Qihua</dc:creator>
+	<dc:creator xml:lang="en">Zhou, Zhengping</dc:creator>
+	<dc:creator xml:lang="en">Chi, Wang</dc:creator>
+	<dc:creator xml:lang="en">Feng, Sun</dc:creator>
+	<dc:creator xml:lang="en">Hongchuan, Wang</dc:creator>
+	<dc:subject xml:lang="en">seadike safety</dc:subject>
+	<dc:subject xml:lang="en">decision support system</dc:subject>
+	<dc:subject xml:lang="en">database</dc:subject>
+	<dc:subject xml:lang="en">risk analysis</dc:subject>
+	<dc:subject xml:lang="en">hazard assessment</dc:subject>
+	<dc:description xml:lang="en">A Decision Support System for Chinese Seadike Safety Management (DSS-CSSM) based on Geographic Information System (GIS) and database technology is initially proposed and designed in this paper. DSS-CSSM contains three major parts, which are fundamental information database, risk analysis module and hazard assessment module. Kinds of numerical and physical model methods can be selected and used in the modules. With integration of the fundamental information, analysis models and appropriate Human Computer Interaction(HCI), DSS-CSSM can be used to help people evaluate hazard losses of Chinese seadike and make some effective decisions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6442</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6442/pdf_467</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

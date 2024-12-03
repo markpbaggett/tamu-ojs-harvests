@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3929</identifier>
+				<datestamp>2021-01-19T20:54:33Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING OF NEARSHORE WAVE DRIVEN CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Hubertz, Jon M.</dc:creator>
+	<dc:subject xml:lang="en">currents</dc:subject>
+	<dc:subject xml:lang="en">wave driven current</dc:subject>
+	<dc:subject xml:lang="en">nearshore current</dc:subject>
+	<dc:subject xml:lang="en">current modeling</dc:subject>
+	<dc:description xml:lang="en">A nearshore current modeling system has been assembled which consists of a shallow water directional spectral wave model, an algorithm to convert directional spectral output from the wave model to radiation stress components and a current model to calculate nearshore wave-driven currents from the radiation stress field. Wave-driven longshore currents have been hindcast at a coastal site for two wave conditions during a northeaster type storm off Cape Hatteras in October 1982. For one event, when local winds were strong, the calculated longshore current is only a fraction of what was measured. This discrepancy is attributed to a non-wave-driven component of flow which was present but not represented in the model. During the other event, winds were low and long period swell was present. In this case, the calculated and measured longshore flow agree well. Both measured and calculated shore normal profiles of longshore current in each case show a generally uniform structure across the surf zone. This is in contrast to theoretical profiles based on monochromatic waves which show a maximum in longshore flow near the breaker line.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3929</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.148</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 148</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3929/3612</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

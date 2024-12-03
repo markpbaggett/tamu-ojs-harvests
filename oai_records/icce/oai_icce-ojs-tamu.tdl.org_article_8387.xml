@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8387</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ROCK ARMOR DAMAGE IN DEPTH-LIMITED BREAKING WAVE CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:creator xml:lang="en">Herrera, María P.</dc:creator>
+	<dc:creator xml:lang="en">Gómez-Martín, M. Esther</dc:creator>
+	<dc:description xml:lang="en">The armor layer of a mound breakwaters is usually designed with a formula derived from physical tests in non-breaking wave conditions; however, most rubble mound breakwaters are placed in the wave breaking zone where the highest waves break before reaching the structure. The hydraulic stability formulas developed for rock-armored breakwaters in non-breaking conditions are not completely valid to characterize the hydraulic stability of these structures under depth-limited wave attack. In this study, five series of 2D physical tests were carried out on a bottom slope m=1/50 to analyze the hydraulic stability of double-layer rock armored breakwaters in depth-limited breaking wave conditions. Measurements taken by 12 wave gauges placed along the wave flume were compared with estimations of Hm0, H2% and H1/10 obtained from numerical model SwanOne. The significant wave height, Hm0, estimated or measured at a distance 3hs from the toe of the structure was the best characteristic wave to relate armor damage with stability number. The six-power relationship between dimensionless armor damage and stability number, found in this study, explained more than 94% of the variance in the damage observations. This relationship is valid for conventional non-overtopping double-layer rock-armored breakwaters on bottom slope m=1/50 and depth-limited breaking wave conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8387</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8387/7196</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8387/7853</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

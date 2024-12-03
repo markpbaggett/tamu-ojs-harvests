@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12684</identifier>
+				<datestamp>2023-09-01T15:12:10Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN INTEGRATED MACHINE LEARNING-PROBABILISTIC APPROACH TO PREDICT BEACH VOLUME CHANGE</dc:title>
+	<dc:creator xml:lang="en">Pieterse, Aline</dc:creator>
+	<dc:creator xml:lang="en">Lara, Hilario Castro</dc:creator>
+	<dc:creator xml:lang="en">Habtemariam, Bereket</dc:creator>
+	<dc:creator xml:lang="en">Schepper, Rob</dc:creator>
+	<dc:creator xml:lang="en">Leyssen, Gert</dc:creator>
+	<dc:creator xml:lang="en">Bolle, Annelies</dc:creator>
+	<dc:description xml:lang="en">In the DataBeach study a machine learning model was developed with the aim to improve the efficiency and sustainability of design of soft coastal defense projects. A morphological model based on machine learning was trained and tested to predict beach volume changes with significantly reduced computational time compared to traditional process-based models. The machine learning model was then applied, combined with a ‘penalty function’ for inclusion of morphological feedback, to predict beach volume changes for the study area of approximately 2 km alongshore and on a 10-year project timescale. In order to run many different scenarios for the 10-year prediction, a probabilistic methodology was developed to take into account the uncertainties in this time period. The machine learning-based model provides great benefits for probabilistic simulations, due to the lower computational time, compared to process-based numerical models such as XBeach, and a flexible way in which it can incorporate measurement data. The performance of the tested machine learning models was comparable to that of the short term volume predictions of XBeach. Comparison of 10-year predicted volume changes using the machine learning model and measured beach topography (LiDAR) showed good agreement between measured and predicted volume changes for the dry beach area (when accounting for nourishments), but overestimation in the beach volume change predictions for the intertidal beach. These differences are partially attributed to the poor performance on XBeach for long term, normal wave conditions, which are an important factor in the intertidal area.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12684</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12684/11957</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Aline Pieterse, Hilario Castro Lara, Bereket Habtemariam, Rob Schepper, Gert Leyssen, Annelies Bolle</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

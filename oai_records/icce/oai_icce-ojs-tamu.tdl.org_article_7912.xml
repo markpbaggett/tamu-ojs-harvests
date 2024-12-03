@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7912</identifier>
+				<datestamp>2021-01-20T03:35:32Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PARAMETERIZATION OF COUPLED AIR-SEA INTERACTION FOR STORM SURGE AND OCEAN CURRENT STRUCTURE MODELING</dc:title>
+	<dc:creator xml:lang="en">Ninomiya, Junichi</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:subject xml:lang="en">sea surface bulk flux</dc:subject>
+	<dc:subject xml:lang="en">coupling model</dc:subject>
+	<dc:subject xml:lang="en">typhoon</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">There are many researches and development for the coupled atmosphere, ocean and wave model due to the improvement of the models. On the other hand, the vigorous observations for the momentum transport between the atmosphere and ocean were carried out due to reconsider the bulk formulas for coupling model. A lot of formulas depending on the wind speed or on the wave information are proposed. Although a coupling model is useful for tropical cyclone assessment for coastal engineers, the parameterization at the air-sea interface give strong influence on storm surge modeling. In this study, the influences of the bulk formulas to ocean and wave models using the atmosphere-ocean-wave coupling model are examined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7912</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.50</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.50</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7912/pdf_978</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

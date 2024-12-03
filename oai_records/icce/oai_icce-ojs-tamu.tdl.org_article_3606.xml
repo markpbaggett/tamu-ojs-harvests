@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3606</identifier>
+				<datestamp>2021-01-19T22:49:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A COMPARISON OF NATURE WAVES AND MODEL WAVES WITH SPECIAL REFERENCE TO WAVE GROUPING</dc:title>
+	<dc:creator xml:lang="en">Burcharth, Hans F.</dc:creator>
+	<dc:subject xml:lang="en">model waves</dc:subject>
+	<dc:subject xml:lang="en">wave grouping</dc:subject>
+	<dc:subject xml:lang="en">model/nature comparison</dc:subject>
+	<dc:description xml:lang="en">This paper represents a comparative analysis of the occurrence of wave grouping in field storm waves and laboratory waves with similar power spectra and wave height distribution. Two wave patterns - runs of waves and jumps in wave heights - which have significant influence on the impact on coastal structures were included in the analysis of storm wave records off the coasts of Cornwall, U.K. and Jutland, Denmark. Two different laboratory wave generator systems, based on random phase distribution of component waves, were used. Within the limitations given by the relatively small number of analysed records it is shown that wave group statistics can be satisfactorily reproduced by random phase generators that are not based on a limited number of component waves, but for example based on filtering of white noise. It is also shown that the statistics of large waves and wave groups containing large waves depend on whether the waves are defined from zero-upcrossings or zero-downcrossings. Although very similar seas were chosen for the analysis it was found that significant differences in the wave group statistics from the two locations existed. Also a considerable scatter in the wave group statistics throughout the storms was found.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3606</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.177</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 177</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3606/3288</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

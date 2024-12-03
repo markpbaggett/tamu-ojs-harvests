@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5433</identifier>
+				<datestamp>2021-01-19T12:22:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEACH PROFILE ANALYSIS AROUND INDIAN RIVER INLET, DELAWARE, U.S.A.</dc:title>
+	<dc:creator xml:lang="en">Bosma, Kirk F.</dc:creator>
+	<dc:creator xml:lang="en">Dalrymple, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">beach profile</dc:subject>
+	<dc:subject xml:lang="en">profile analysis</dc:subject>
+	<dc:subject xml:lang="en">Indian River</dc:subject>
+	<dc:subject xml:lang="en">Indian River Delta</dc:subject>
+	<dc:subject xml:lang="en">Delaware</dc:subject>
+	<dc:description xml:lang="en">The purpose of this study is to examine the recent shoreline history at Indian River Inlet, Delaware using beach profile data. Indian River Inlet was stabilized in the late 1930's with two parallel rubble mound jetties. The stabilization resulted in considerable modifications to the surrounding beach environment, leading to the construction of a sand bypassing system in 1990. The profiles adjacent to the inlet are first examined with the standard tools, such as shoreline change, volume change, and sand budget. Then, details are given on the use of Principal Component Analysis (PCA) in the coastal field, an explanation of its function, and the differences between the complex and non-complex versions. Results are presented for areas north and south of the inlet in both 2-mode and 3-mode versions of Complex Principal Component Analysis (CPCA). The results illustrate the ability of CPCA to detect moving features within the profile data, including its direction and speed, as bypassed sand is seen moving to the north.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5433</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5433/5109</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

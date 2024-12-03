@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3387</identifier>
+				<datestamp>2021-01-20T00:05:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION USING A MOVABLE BED MODEL OF SHORELINE CHANGE CAUSED BY A RECLAMATION PROJECTED INTO THE SEA</dc:title>
+	<dc:creator xml:lang="en">Sato, Shoji</dc:creator>
+	<dc:creator xml:lang="en">Ozasa, Hiroaki</dc:creator>
+	<dc:subject xml:lang="en">movable bed</dc:subject>
+	<dc:subject xml:lang="en">shoreline change</dc:subject>
+	<dc:subject xml:lang="en">reclamation</dc:subject>
+	<dc:subject xml:lang="en">bed model</dc:subject>
+	<dc:description xml:lang="en">Recently, many local airports in Japan are considering to extend their runways, so accommodating passenger traffic. But most airports are obliged to extend their runways into the sea on account of the shortage of land and complaints from their neighbors about jet-plane noise. Tokushima Airport is one of such local airports, which is situated on the coast along the Kie-Suido Channel as shown Figure 1. The length of the runway of Tokushima Airport is 1500 m at percent, so a plan to extend the runway by 600 m into the sea has been proposed by the local government. However, Matsushige beach, where the airport is located, is now so seriously eroded that offshore breakwaters are being constructed in the south and the northern part is used for sea-bathing. Therefore, it is necessary to estimate the change of beach profiles, especially of the shoreline, caused by the extension of the runway, and to find countermeasures against unfavorable change. A movable bed model was constructed to estimate such changes, because no numerical simulation using a computer has been developed to estimate changes of a complicated beach topography. Of course, the universal dynamic similarity does not hold for model studies on sand transport problems. Therefore, the characteristics of sand transport at the site are first clarified through analysis of the field observation data, and then the model scale, bed material, and test waves are determined in such a manner that the topographic variation in the model sea bed will become similar to that in the prototype. But, in general, it is difficult to make all of the variations of the sea bed in the model similar to that in the prototype. In this model experiment, the long term changes of the shoreline has been taken as the most important phenomena to be reproduced in the model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3387</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.111</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 111</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3387/3067</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

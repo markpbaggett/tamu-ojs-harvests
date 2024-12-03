@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6565</identifier>
+				<datestamp>2023-10-04T03:18:54Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">USE OF DIGITAL HOLOGRAPHIC CAMERAS TO EXAMINE THE MEASUREMENT AND UNDERSTANDING OF SEDIMENT SUSPENSION IN THE NEARSHORE</dc:title>
+	<dc:creator xml:lang="en">Conley, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Buscombe, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Nimmo-Smith, Alex</dc:creator>
+	<dc:subject xml:lang="en">sediment suspension</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">beach</dc:subject>
+	<dc:subject xml:lang="en">nearshore</dc:subject>
+	<dc:subject xml:lang="en">holography</dc:subject>
+	<dc:subject xml:lang="en">acoustic backscatter sensor</dc:subject>
+	<dc:description xml:lang="en">We present results from a 3-week field experiment measuring surf-zone flows and sediment transport on a steep energetic beach in the south-west UK, including the first reported deployment of an in-line holographic camera ('holocam') in the surf zone, co-located with various optical backscatter sensors and an acoustic backscatter sensor (ABS). The extensive data set provides perhaps a unique opportunity to examine the performance of optical and acoustic backscatter instruments in a wide range of conditions including bubbly flows, as well as some fundamental aspects of sediment suspension processes such as the near-bed size-distribution of suspended sediment. The holocam, deployed with a 1.3cm cubic sample volume approximately 10cm above the bed, provides in-focus well-resolved images of the instantaneous suspended load, making it possible to determine highly-accurate estimates of the concentrations of mineral sand grains, bubbles and organic particles, and their size distributions. Instantaneous estimates of sediment concentration from the ABS compare poorly with the equivalent measure from the holocam. This could be due to various factors such as spatial decorrelation or acoustic insensitivities at larger grain sizes. However, the ABS does a very good job at estimating burst-averaged suspended sediment concentrations when bubble concentrations are low (less than 1ml/l). The error in ABS concentrations (as compared against holocam) appears to be related to relative bubble concentration. The OBS is even more sensitive to bubbles. Suspended sediment grain size distribution is skewed towards the finer grain sizes but shifts to the larger sizes with increased flow intensity.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6565</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6565/pdf_562</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

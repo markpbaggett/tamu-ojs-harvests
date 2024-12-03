@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8401</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SIMPLE AND ACCURATE NONLINEAR METHOD FOR RECOVERING THE SURFACE WAVE ELEVATION FROM PRESSURE MEASUREMENTS</dc:title>
+	<dc:creator xml:lang="en">Bonneton, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Mouragues, Arthur</dc:creator>
+	<dc:creator xml:lang="en">Lannes, David</dc:creator>
+	<dc:creator xml:lang="en">Martins, Kevin</dc:creator>
+	<dc:creator xml:lang="en">Michallet, Hervé</dc:creator>
+	<dc:description xml:lang="en">Near-bottom-mounted pressure sensors have long been used for measuring surface wave in the nearshore. The commonly used practice is to recover the wave field by means of a transfer function based on linear wave theory (e.g. Guza and Thornton, 1980; Bishop and Donelan, 1987). However, wave nonlinearities can be strong in the shoaling zone, especially in the region close to the onset of breaking, and thus the use of a linear theory can be questioned. Martins et al. (2017) and Bonneton (2017, 2018) have shown that the linear reconstruction fails to describe the peaky and skewed shape of nonlinear waves prior to breaking, with wave height errors up to 30%. Such measurement errors are problematic for many coastal applications. For instance, studies on wave overtopping and submersion require accurate measurements of the highest wave crests. Furthermore, a correct description of wave asymmetry and skewness is of paramount importance for understanding sediment dynamics. Finally, an accurate description of the wave elevation field is also crucial for the validation of the new generation of fully-nonlinear phase-resolving wave models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8401</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8401/7209</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8401/7863</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

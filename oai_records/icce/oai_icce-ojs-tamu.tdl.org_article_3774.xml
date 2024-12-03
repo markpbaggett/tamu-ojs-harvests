@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3774</identifier>
+				<datestamp>2021-01-19T21:51:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MOORED SHIP RESPONSE IN IRREGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Mansard, E.P.D.</dc:creator>
+	<dc:creator xml:lang="en">Pratte, B.D.</dc:creator>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">moored ship</dc:subject>
+	<dc:subject xml:lang="en">ship response to waves</dc:subject>
+	<dc:description xml:lang="en">The traditional concept of representing a "random" sea state by just a variance spectral density has been found to be insufficient for modelling the slow drift oscillations of large moored ships. This paper illustrates, through experimental investigations, the importance of including wave grouping as an additional design parameter. A special technique called SIWEH, developed by the Hydraulics Laboratory of the National Research Council Canada, for the generation of realistic wave climates which include wave grouping, is presented. However, when generating the grouped sea state, one also has to properly create the group-bound long wave components. The effect of proper compensation for the spurious free wave components is illustrated by the test results on the moored vessel response.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3774</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.159</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 159</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3774/3457</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

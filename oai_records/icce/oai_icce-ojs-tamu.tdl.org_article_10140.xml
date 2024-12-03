@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10140</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACT OF SEA LEVEL RISE ON HYDRODYNAMICS OF ESTUARIES WITH RESTRICTED ENTRANCES</dc:title>
+	<dc:creator xml:lang="en">Khojasteh, Danial</dc:creator>
+	<dc:creator xml:lang="en">Hottinger, Steve</dc:creator>
+	<dc:creator xml:lang="en">Felder, Stefan</dc:creator>
+	<dc:creator xml:lang="en">Cesare, Giovanni De</dc:creator>
+	<dc:creator xml:lang="en">Heimhuber, Valentin</dc:creator>
+	<dc:creator xml:lang="en">Hanslow, David J.</dc:creator>
+	<dc:creator xml:lang="en">Glamore, William</dc:creator>
+	<dc:description xml:lang="en">Worldwide, hundreds of millions of people who live on or near estuarine environments are vulnerable to sea level rise (SLR). Using clustering techniques and moving beyond static models and case studies, this study used a large ensemble of idealised estuary models of varying scale, geometry, level of entrance constriction, and SLR scenarios. It was found that tidal forcing, degree of entrance restriction, and estuarine length can primarily control the tidal dynamics of prismatic estuaries under SLR. Further, restricting an entrance can be presented as a potential solution to offset SLR induced tidal amplification if the associated impacts on entrance stability, navigation, and flooding are considered.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/vOptOAbqN3U</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10140</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.management.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; management.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10140/9426</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Danial Khojasteh, Steve Hottinger, Stefan Felder, Giovanni De Cesare, Valentin Heimhuber, David J. Hanslow, William Glamore</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

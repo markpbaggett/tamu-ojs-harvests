@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1395</identifier>
+				<datestamp>2023-10-04T04:23:43Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REVISITING THE JONSWAP BOTTOM FRICTION FORMULATION</dc:title>
+	<dc:creator xml:lang="en">Vledder, Gerbrant van</dc:creator>
+	<dc:creator xml:lang="en">Zijlema, Marcel</dc:creator>
+	<dc:creator xml:lang="en">Holthuijsen, Leo</dc:creator>
+	<dc:subject xml:lang="en">Wave modelling</dc:subject>
+	<dc:subject xml:lang="en">bottom friction</dc:subject>
+	<dc:subject xml:lang="en">TMA scaling</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">JONSWAP</dc:subject>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:description xml:lang="en">The derivation of the JONSWAP bottom friction for wind-driven seas is revisited. This is motivated by the fact that
+in the literature two different values for the corresponding coefficient are recommended, one value applicable for
+swell conditions and a significantly higher value for wind-driven sea conditions. The value applicable for winddriven
+seas was originally determined by Bouws and Komen (1983) who studied the source term balance of a
+remarkably stationary storm in shallow water. We used a more accurate interpretation of these observations by
+hindcasting this storm with the third-generation wave model SWAN. In addition, we compare wave model results
+with measurements in the Wadden Sea and with parametric growth curves, some of which were obtained in Lake
+George, Australia. The results strongly suggest that the lower bottom friction value of Cb=0.038 m2s-3 is applicable
+for both wind-sea and swell conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1395</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1395/pdf_120</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

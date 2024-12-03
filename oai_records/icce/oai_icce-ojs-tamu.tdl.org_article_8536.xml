@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8536</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIME-VARYING WAVE EFFECTS ON FLOWS AND DYNAMICS AT AN UNSTRATIFIED INLET</dc:title>
+	<dc:creator xml:lang="en">Wargula, Anna</dc:creator>
+	<dc:creator xml:lang="en">Raubenheimer, Britt</dc:creator>
+	<dc:creator xml:lang="en">Elgar, Steve</dc:creator>
+	<dc:creator xml:lang="en">Chen, Jia-Lin</dc:creator>
+	<dc:creator xml:lang="en">Shi, Fengyan</dc:creator>
+	<dc:description xml:lang="en">Surface gravity waves alter discharge and circulation near and within coastal inlets, affecting the exchange and transport of water masses, nutrients, sediments, and pollutants between inland waters and the ocean. Field observations and numerical simulations suggest that, during storms, wave forcing (radiation-stress gradients) owing to wave dissipation across the ebb shoal can enhance fluxes into the inlet (Bertin et al. 2009; Wargula et al. 2014). As a result, water levels may increase inside the bay (Olabarrieta et al. 2011; Dodet et al. 2013), creating an offshore-directed pressure gradient that may balance onshore fluxes during energetic waves, and may enhance offshore fluxes after the waves decrease. Spatial and tidal variability in water depths on the ebb shoal lead to complex wave breaking patterns that drive spatially and tidally asymmetric flows. Here, field observations and numerical simulations are used to evaluate the effects of waves on discharge and circulation, and the relative importance of wave radiation-stress and pressure gradients at an unstratified inlet during and following energetic waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8536</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8536/7340</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8536/7960</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

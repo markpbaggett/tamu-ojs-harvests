@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8619</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A MODIFIED HYPERBOLIC TANGENT EQUATION TO DETERMINE EQUILIBRIUM SHAPE OF HEADLAND BAY BEACHES</dc:title>
+	<dc:creator xml:lang="en">Kemp, Jonathan</dc:creator>
+	<dc:creator xml:lang="en">Vandeputte, Benoit</dc:creator>
+	<dc:creator xml:lang="en">Eccleshall, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Simons, Richard</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:description xml:lang="en">When designing any artificial beach, it's desirable to avoid (or minimise) future maintenance commitments by arranging the initial beach planshape so that it remains in equilibrium given the incident wave climate. Headlands bays, or embayments, where a sandy beach is held between two erosion resistant headlands, tend to evolve to a stable beach planshape with little movement of the beach contours over time. Several empirical bay shape equations have been derived to fit curves to the shoreline of headland bay beaches. One of the most widely adopted empirical equations is the parabolic bay shape equation, as it is the only equation that directly links the shoreline positions to the predominant wave direction and the point of diffraction. However, the main limitation with the application of the parabolic bay shape equation is locating the downcoast control point. As a result of research presented in this paper a new equation, based on the hyperbolic tangent shape equation was developed, which eliminates the requirement of placing the down coast control point and relies on defining a minimum beach width instead. This modified equation was incorporated into a new ArcGIS tool.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8619</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.106</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.106</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8619/7421</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8619/8017</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4883</identifier>
+				<datestamp>2021-01-19T15:28:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE CONTRIBUTION OF SUSPENSION EVENTS TO SEDIMENT TRANSPORT IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Jaffe, Bruce</dc:creator>
+	<dc:creator xml:lang="en">Sallenger, Asbury</dc:creator>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">Suspension of sand in the surf zone is intermittent. Especially striking in a time series of concentration are periods of intense suspension, suspension events, when the concentration is an order of magnitude greater than the mean. We used field data collected in the inner half of the surf zone during a large storm (greater than 1.5 m wave heights and 13 second periods) to define and describe suspension events and determine the contribution of events to the sediment transport. Large suspension events were found throughout the inner half of the surf zone, occurred about once every 1 to 2 minutes, and each had a duration of about 5 seconds. These events tended to occur during onshore flow under the wave crest, resulting in an onshore contribution to the suspended-sediment transport. Even though large events occurred less than 10 percent of the total time, at some locations onshore transport associated with suspension events was greater than the offshore directed transport during non-event periods, causing the net suspended sediment transport to be onshore. Events and longshore velocity were not correlated. However, events did increase the longshore suspended-sediment transport by approximately the amount they increase the mean concentration, ranging from 15 to 55 percent depending on the definition used for events. Because of the lack of correlation, the longshore suspended-sediment transport can be adequately modeled as the vertical integration of the product of the time-averaged longshore velocity and the time-averaged concentration.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4883</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4883/4564</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13139</identifier>
+				<datestamp>2023-09-01T15:16:10Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF VENTURI DIFFUSER DESIGN FOR HYPERSALINE WASTEWATER DISCHARGE INTO THE MARINE ENIVRONMENT</dc:title>
+	<dc:creator xml:lang="en">Wardley, Rhian</dc:creator>
+	<dc:creator xml:lang="en">Taylor, David</dc:creator>
+	<dc:creator xml:lang="en">Churchill, Jim</dc:creator>
+	<dc:creator xml:lang="en">Castro, Miguel Ángel</dc:creator>
+	<dc:description xml:lang="en">The discharge of hypersaline wastewater into the marine environment can be a challenging problem with respect to balancing the minimisation of environmental impacts and maximising cost efficiency across the lifetime of a project. When the density gradient between the discharge water and the receiving water is large, this gradient can dominate the nearfield mixing regime and result in a high-density, hypersaline layer at the seabed forming in the nearfield, and extending into the farfield, mixing zone. This layer can remain virtually undiluted once it extends past the zone of turbulent mixing in the nearfield region. This problem can be enhanced at sites with variable seabed bathymetry, including where dredged navigation channels may be present, resulting in a seabed layer that maintains high salinity over large spatial and temporal scales. The analyses and diffuser design presented in the following sections are based on a project site located in the coastal waters off the Pilbara coastline in northwest Australia.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13139</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.181</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.181</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13139/12412</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Rhian Wardley, David Taylor, Jim Churchill, Miguel Ángel Castro</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7901</identifier>
+				<datestamp>2021-01-20T03:51:28Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROPERTIES OF SURFACE AND INTERNAL SOLITARY WAVES</dc:title>
+	<dc:creator xml:lang="en">Yamashita, Kei</dc:creator>
+	<dc:creator xml:lang="en">Kakinuma, Taro</dc:creator>
+	<dc:subject xml:lang="en">solitary wave</dc:subject>
+	<dc:subject xml:lang="en">internal wave</dc:subject>
+	<dc:subject xml:lang="en">large amplitude</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave equation</dc:subject>
+	<dc:subject xml:lang="en">advection equation</dc:subject>
+	<dc:description xml:lang="en">Numerical solutions of surface and internal solitary waves are obtained through a new method, where advection equations on physical quantities including surface/interface displacements and velocity potential are solved to find convergent solutions by applying the Newton-Raphson method. The nonlinear wave equations derived using a variational principle are adopted as the fundamental equations in the present study. Surface and internal solitary waves obtained through the proposed method are compared with the corresponding theoretical solutions, as well as numerical solutions of the Euler equations, to verify the accuracy of solutions through the proposed method especially for internal solitary waves of large amplitude progressing at a large celerity with a flattened wave profile. Properties of surface and internal solitary waves are discussed considering vertical distribution of horizontal and vertical velocity, as well as kinetic and potential energy. Numerical simulation using a time-dependent model has also been performed to represent propagation of surface and internal solitary waves with permanent waveforms.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7901</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7901/pdf_930</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

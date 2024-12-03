@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4584</identifier>
+				<datestamp>2021-01-19T17:10:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOW-FREE SEDIMENT HYSTERESIS IN SEDIMENT-STRATIFIED COASTAL WATERS</dc:title>
+	<dc:creator xml:lang="en">Costa, Rui G.</dc:creator>
+	<dc:creator xml:lang="en">Mehta, Ashish J.</dc:creator>
+	<dc:subject xml:lang="en">sediment stratified water</dc:subject>
+	<dc:subject xml:lang="en">stratified water</dc:subject>
+	<dc:subject xml:lang="en">flow-fine sediment hysteresis</dc:subject>
+	<dc:description xml:lang="en">Hysteresis in the relationship between suspended sediment concentration and the flow velocity is shown to be influenced by sediment-induced flow stratification in high energy coastal environment. A 1-D numerical approach combined with field observation from Hangzhou Bay, China is used to highlight the effects of concentration dependent settling velocity, buoyancy stabilized mass diffusion and bottom sediment fluxes on hysteresis. Typical formulations for the bottom fluxes are believed to have limited utility in high concentration environments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4584</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4584/4265</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

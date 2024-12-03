@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1121</identifier>
+				<datestamp>2023-10-04T04:11:53Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VOLUME-OF-FLUID MODEL COMFLOW SIMULATIONS OF WAVE IMPACTS ON A DIKE</dc:title>
+	<dc:creator xml:lang="en">Wenneker, Ivo</dc:creator>
+	<dc:creator xml:lang="en">Wellens, Peter</dc:creator>
+	<dc:creator xml:lang="en">Gervelas, Reynald</dc:creator>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">Volume of Fluid (VOF)</dc:subject>
+	<dc:subject xml:lang="en">ComFLOW</dc:subject>
+	<dc:subject xml:lang="en">dike</dc:subject>
+	<dc:subject xml:lang="en">wave impact</dc:subject>
+	<dc:description xml:lang="en">ComFLOW is a 3D Volume-of-Fluid (VOF) model to solve the incompressible Navier-Stokes equations including free surface, or to solve the Navier-Stokes equations for two-phase flow problems (two-phase flow: both an incompressible viscous fluid (e.g., water) and a compressible viscous fluid (e.g., air) are present). The problem statement of the present study reads: 'Is ComFLOW capable of accurate prediction of wave impacts on (impermeable) coastal structures such as dikes? And, if so, what are the preferred model settings and associated computing times?'. In this paper, ComFLOW is validated for this purpose by comparison against pressure data as measured in the Delta flume by pressure sensors at dikes. We have selected three different experiments, with typical dike geometries (slope 1:3.5, with and without berm) at which more than 20 pressure sensors were installed. The results can be summarized as follows. The pressure measurements are reproduced well in the simulations. A grid with about 170 grid cells per wave length in the horizontal, and between 4 and 6 grid cells per wave height in the vertical, proves to be sufficiently fine. At such a grid resolution and with about 450 by 35 grid cells in the computational domain, a typical CPU time is 35 minutes for simulations with a model time of 10 wave periods. For the present application, it is preferable to use the one-phase flow model rather than the two-phase flow model, since the former gives better results in the lower located pressure sensors and consumes less CPU time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1121</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1121/pdf_206</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

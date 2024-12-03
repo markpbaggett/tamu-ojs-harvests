@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8165</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUANTIFYING NUMERICAL MODEL ACCURACY AND VARIABILITY</dc:title>
+	<dc:creator xml:lang="en">Montoya, Luis Humberto</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:subject xml:lang="en">Tsunami</dc:subject>
+	<dc:subject xml:lang="en">Hazard</dc:subject>
+	<dc:subject xml:lang="en">Numerical Modeling</dc:subject>
+	<dc:subject xml:lang="en">Runup</dc:subject>
+	<dc:subject xml:lang="en">Flow Velocity</dc:subject>
+	<dc:description xml:lang="en">On March 11, 2011 the Tohoku tsunami event caused the death of thousands of people and generated billions of dollars in damages. Following this and previous tsunami events, there has been an effort to improve tsunami risk mitigation for coastal communities. Currently, numerical models are being used in a state-of-the-art methodology to estimate tsunami risk from near and far field sources. Model predictions are essential for the development of Tsunami Hazard Assessments (THA). By better understanding model bias and uncertainties and if possible minimizing them, a more accurate and reliable THA will result. In this study we compare runup height, inundation lines and flow velocity field measurements between GeoClaw and the Method Of Splitting Tsunami (MOST) predictions in the Sendai plain. Runup elevation and average inundation distance was in general over predicted by the models. However, both models agree relatively well with each other when predicting maximum sea surface elevation and maximum flow velocities. Model predictions show that the flow velocity increases as the tsunami wave front reaches the shoreline and makes its way inland for a couple of kilometers, contrary to what it is generally assumed. The tsunami models used in this study show much more variability when predicting flow velocity than predicting runup elevations and inundation lines. The results provided in this study will help understand the uncertainties in model predictions and locate possible sources of errors within a model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8165</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8165/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

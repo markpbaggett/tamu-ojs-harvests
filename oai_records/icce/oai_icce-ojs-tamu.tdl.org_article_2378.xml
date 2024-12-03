@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2378</identifier>
+				<datestamp>2021-01-17T05:24:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON OPTIMUM BREAKWATER DESIGN</dc:title>
+	<dc:creator xml:lang="en">van de Kreeke, J.</dc:creator>
+	<dc:creator xml:lang="en">Paape, A.</dc:creator>
+	<dc:subject xml:lang="en">breakwater design</dc:subject>
+	<dc:subject xml:lang="en">cost/benefit analysis</dc:subject>
+	<dc:description xml:lang="en">A breakwater design is optimum when it results in a structure that meets the requirements at minimum total cost. The total cost consist of cost of construction, anticipated damage and economic loss due to failure of the structure. For any type of structure the design wave or load is governed by the condition of minimum total cost. This is worked out for some possible designs for Europoort Harbour, Rotterdam. The data needed are often insufficient, however, for reasonable assumptions important directives can be obtained especially with respect to ranking of structures of the same type.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1964-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2378</dc:identifier>
+	<dc:identifier>10.9753/icce.v9.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 9 (1964): Proceedings of 9th Conference on Coastal Engineering, Lisbon, Portugal, 1964.; 34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2378/2053</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

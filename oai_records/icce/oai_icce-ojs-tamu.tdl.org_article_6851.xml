@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6851</identifier>
+				<datestamp>2023-10-04T03:00:04Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RIVERBED EVOLUTION OF YANGTZE ESTUARY AND ITS RESPONSE TO THE HYDRODYNAMIC CHANGES AT UPSTREAM</dc:title>
+	<dc:creator xml:lang="en">Chen, Yongping</dc:creator>
+	<dc:creator xml:lang="en">Jiang, Ninglin</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Changkuan</dc:creator>
+	<dc:subject xml:lang="en">Yangtze estuary</dc:subject>
+	<dc:subject xml:lang="en">Chengtong reach</dc:subject>
+	<dc:subject xml:lang="en">riverbed evolution</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">upstream river discharge</dc:subject>
+	<dc:description xml:lang="en">The riverbed evolution of upper part of Yangtze estuary, Chengtong reach, is analyzed by comparison of 6 sets of bathymetry data during 1977~2011. The significant changes of water depth profiles along 6 representative cross-sections indicate the reach is still in the process of development. In order to get a better understanding of the effect of river discharge at upstream on the riverbed evolution of Chengtong reach, a series of numerical experiments are implemented by specifying different river discharge conditions at the upper boundary. The corresponding discharge ratio at main sub-reaches is compared to reveal the response of the riverbed evolution to the hydrodynamic changes at upstream. The results show that with the increase of river discharge, the discharge ratio in the main channels of Fujiangsha sub-reach and Rugaosha sub-reach increases, but it changes to decrease when the upstream river discharge becomes very large; however, the discharge ratio in the main channel of Tongzhousha sub-reach always decreases with the increase of river discharge at upstream.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6851</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.92</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.92</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6851/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6776</identifier>
+				<datestamp>2023-10-04T02:39:12Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF A TVD SOLVER   IN A SUITE OF COASTAL ENGINEERING MODELS</dc:title>
+	<dc:creator xml:lang="en">Shi, Fengyan</dc:creator>
+	<dc:creator xml:lang="en">Ma, Gangfeng</dc:creator>
+	<dc:creator xml:lang="en">Kirby, James T.</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Tian-Jian Tom</dc:creator>
+	<dc:subject xml:lang="en">coastal models</dc:subject>
+	<dc:subject xml:lang="en">TVD solver</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq wave model</dc:subject>
+	<dc:subject xml:lang="en">non-hydrostatic model</dc:subject>
+	<dc:subject xml:lang="en">nearshore circulation model</dc:subject>
+	<dc:description xml:lang="en">This paper describes the recent developments in a suite of coastal engineering models using Godunov-type shock-capturing schemes.  The developments include a depth-integrated, wave resolving Boussinesq model, a hydrostatic, wave-averaged circulation model, and a fully 3-D non-hydrostatic model in a surface-following $\sigma$ coordinate formulation. The models implemented with the shock-capturing TVD scheme show robust performances in modeling breaking waves, nearshore circulation and coastal inundation. In this paper, we present model equations in a conservative form, MUSCLE-TVD numerical scheme and  model applications. We also point out some problems caused by the TVD scheme in the recent model applications.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6776</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6776/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

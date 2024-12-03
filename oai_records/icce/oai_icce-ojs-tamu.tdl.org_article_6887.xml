@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6887</identifier>
+				<datestamp>2023-10-04T02:26:34Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING SURGE-DEPENDENT VEGETATION EFFECTS ON HURRICANE-GENERATED WAVES</dc:title>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:creator xml:lang="en">Zhao, Haihong</dc:creator>
+	<dc:creator xml:lang="en">Liu, Don</dc:creator>
+	<dc:subject xml:lang="en">vegetation effect</dc:subject>
+	<dc:subject xml:lang="en">wave dissipation</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">hurricane</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">coastal wetlands</dc:subject>
+	<dc:description xml:lang="en">The study utilizes a coupled wave-surge-vegetation modeling system to quantify the effects of salt marsh vegetation on hurricane-generated waves. The wave model incorporates the energy dissipation model of Chen and Zhao (2012) for random waves over vegetation. The storm surge model incorporates the vegetal drag for both rigid and flexible types of vegetation. The surge and wave models with the vegetation effects are coupled, allowing the spatially and temporally varying vegetation heights, water levels and depth-averaged currents from the storm surge model to be fed into the wave model. Numerical experiments have revealed that vegetation can change the surge height and a storm surge can change the vegetation height. Both control the wave reduction rate in flooded wetlands. The impact of vegetation on hurricane-generated waves consists of indirect and direct effects. The former is caused by the changes in surge height due to vegetation. The latter comes from the direct interaction between vegetation and the oscillatory motion of surface waves. It has been found that flexible marsh vegetation deflects under the hydrodynamic force produced by a hurricane. The deflected height not only reduces the flow resistance in the surge model, but also decreases the energy dissipation caused by vegetation in the wave model. Consequently, neglecting plant flexibility may lead to overestimates of vegetation effects and exaggeration of wetland potential for flood risk reduction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6887</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.67</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.67</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6887/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8240</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DESIGN OF A POWERFUL AND PORTABLE MULTIDIRECTIONAL WAVEMA</dc:title>
+	<dc:creator xml:lang="en">Cornett, Andrew Malcolm</dc:creator>
+	<dc:creator xml:lang="en">Laurich, Peter</dc:creator>
+	<dc:creator xml:lang="en">Gardeta, Enrique</dc:creator>
+	<dc:creator xml:lang="en">Pelletier, Daniel</dc:creator>
+	<dc:subject xml:lang="en">wave generator</dc:subject>
+	<dc:subject xml:lang="en">wavemaker</dc:subject>
+	<dc:subject xml:lang="en">multidirectional waves</dc:subject>
+	<dc:subject xml:lang="en">control system</dc:subject>
+	<dc:subject xml:lang="en">physical modeling</dc:subject>
+	<dc:description xml:lang="en">A new multidirectional wave generator with 72 independent paddles has been designed, fabricated and commissioned at the National Research Council labs in Ottawa, Canada. The wet-back piston-mode machine is installed in a new 50 m long by 30 m wide rectangular wave basin, where water depths can be varied over the range from 0 m up to 1.3 m. The new machine is believed to be unique in the world in that it combines the power and stroke required to generate multidirectional spectral wave conditions with significant wave heights exceeding 0.4 m together with the modularity and ease of portability required to move the machine quickly and safely to new positions. The new machine can also be sub-divided to form several shorter machines if desired. The new wave generator features lightweight, composite materials, energy efficient regenerative power supplies, state-of-the-art software and control systems, including capabilities for active wave absorption (reflection compensation), second-order wave generation for improved generation of nonlinear sub- and super-harmonics, side-wall reflection, and more. The design of this new directional wavemaker is described and several of the more innovative features are highlighted in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8240</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8240/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

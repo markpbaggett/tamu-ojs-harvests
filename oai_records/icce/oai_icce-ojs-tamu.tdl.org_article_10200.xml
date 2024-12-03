@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10200</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF LONG-TERM SHORELINE CHANGE DRIVEN BY LONGSHORE AND CROSS-SHORE SEDIMENT TRANSPORT </dc:title>
+	<dc:creator xml:lang="en">Ding, Yan</dc:creator>
+	<dc:creator xml:lang="en">Kim, Sung-Chan</dc:creator>
+	<dc:creator xml:lang="en">Styles, Richard B.</dc:creator>
+	<dc:creator xml:lang="en">Permenter, Rusty L.</dc:creator>
+	<dc:description xml:lang="en">Driven by wave and current, sediment transport alongshore and cross-shore induces shoreline changes in coasts. Estimated by breaking wave energy flux, longshore sediment transport in littoral zone has been studied for decades. Cross-shore sediment transport can be significant in a gentle-slope beach and a barred coast due to bar migration. Short-term beach profile evolution (typically for a few days or weeks) has been successfully simulated by reconstructing nonlinear wave shape in nearshore zone (e.g. Hsu et al 2006, Fernandez-Mora et al. 2015). However, it is still lack of knowledge on the relationship between cross-shore sediment transport and long-term shoreline evolution. Based on the methodology of beach profile evolution modeling, a semi-empirical closure model is developed for estimating phase-average net cross-shore sediment transport rate induced by waves, currents, and gravity. This model has been implemented into GenCade, the USACE shoreline evolution model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10200</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10200/9486</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Yan Ding, Sung-Chan Kim, Richard B. Styles,Rusty L. Permenter</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

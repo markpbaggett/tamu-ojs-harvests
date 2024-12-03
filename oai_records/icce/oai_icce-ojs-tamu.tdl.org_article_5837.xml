@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5837</identifier>
+				<datestamp>2021-01-19T10:10:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL MORPHOLOGIC VARIABILITY OF HIGH ENERGY DISSIPATIVE BEACHES</dc:title>
+	<dc:creator xml:lang="en">Ruggiero, Peter</dc:creator>
+	<dc:creator xml:lang="en">Kaminsky, George</dc:creator>
+	<dc:creator xml:lang="en">Plant, Nathaniel</dc:creator>
+	<dc:subject xml:lang="en">dissipative beach</dc:subject>
+	<dc:subject xml:lang="en">coastal morphology</dc:subject>
+	<dc:subject xml:lang="en">energy dissipation</dc:subject>
+	<dc:description xml:lang="en">A beach morphology monitoring program was initiated in the Columbia River littoral cell along the coasts of Oregon and Washington, USA, during the summer of 1997. The field program is designed to document short- to medium-term morphologic variability of the highenergy dissipative beaches within the littoral cell over a variety of spatial scales. Following the installation of a dense network of geodetic control monuments, a nested sampling scheme of cross-shore beach profiling, 3-dimensional beach surface mapping and shoreline reference feature surveying was devised. Monitoring is being conducted using RTK DGPS survey methods that combine both high accuracy and speed of measurement. Sampling methods resolve alongshore length scales of 0(100 m) to 0(100 km) and cross-shore length scales of 0(1 m) to 0(1 km). Long-term beach profile evolution, estimated via a comparison with surveys collected in the 1940s, feature regional variability. Some beach profiles revealed remarkably little change over the last 50 years. Although this study is in its infancy, large signals in both forcing and response have yielded exciting results. During the 1997/1998 winter, the littoral cell was influenced by one of the most significant El Nino events on record. Steeper than typical southerly wave angles forced alongshore sediment transport gradients that were evident in seasonal morphology on a regional scale. The morphologic data from the monitoring program are being integrated with other geophysical data sets to develop a conceptual model of the region and to begin shoreline change modeling to predict coastal evolution at a management scale (ie., decades and tens of kilometers). The magnitudes of both the environmental forcing and morphologic variability of the beaches along the Columbia River littoral cell are greater than the better understood, lower energy and more reflective beaches of, for example, Duck, North Carolina and the central Dutch coast (Holland). These differences in scale raise questions regarding the validity of directly applying morphologic change models developed from these coasts to the Columbia River littoral cell.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5837</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5837/5505</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

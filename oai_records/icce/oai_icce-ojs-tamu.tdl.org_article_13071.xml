@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13071</identifier>
+				<datestamp>2023-09-01T15:15:37Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEA LEVEL RISE IMPLICATIONS FOR ESTUARINE MODELLING AND MANAGEMENT</dc:title>
+	<dc:creator xml:lang="en">Khojasteh, Danial</dc:creator>
+	<dc:creator xml:lang="en">Felder, Stefan</dc:creator>
+	<dc:creator xml:lang="en">Heimhuber, Valentin</dc:creator>
+	<dc:creator xml:lang="en">Glamore, William</dc:creator>
+	<dc:description xml:lang="en">Estuaries provide a wide range of environmental, cultural, social, and economic services. These include primary production, water purification, recreational opportunities, navigational routes, and nurseries for aquatic species. However, a growing body of literature indicates that sea level rise (SLR) is increasingly threatening these services in estuaries due to their low-lying topography and proximity to the open ocean. As such, sustainable management of estuaries, adjacent low-lying areas, and associated ecosystems requires a thorough and evidence-based understanding of how different estuaries may respond to SLR over time and space (Khojasteh et al. (2021)). This, in turn, would help policymakers manage the far-reaching impacts and prioritise funds-based adaptation and mitigation strategies. Assessing SLR impacts in estuaries can either be undertaken on an individual site basis or via broader approaches that may be relevant to many estuaries. This study utilises the latter approach and, to this aim, a large ensemble of idealised prismatic and converging estuarine hydrodynamic simulations were conducted.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13071</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.113</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.113</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13071/12344</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Danial Khojasteh, Stefan Felder, Valentin Heimhuber, William Glamore</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

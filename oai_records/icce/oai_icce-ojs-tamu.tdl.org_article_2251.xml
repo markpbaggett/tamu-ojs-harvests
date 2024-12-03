@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2251</identifier>
+				<datestamp>2021-01-17T05:54:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODIFICATION OF WAVE SPECTRA ON THE CONTINENTAL SHELF AND IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Bretschneider, Charles L.</dc:creator>
+	<dc:subject xml:lang="en">wave spectra</dc:subject>
+	<dc:subject xml:lang="en">continental shelf</dc:subject>
+	<dc:subject xml:lang="en">parallel bottom contours</dc:subject>
+	<dc:description xml:lang="en">This paper discusses the problem pertaining to the modification of the wave spectrum over the continental shelf. Modification factors include bottom friction, percolation, refraction, breaking waves, ocean currents, and regeneration of wind waves in shallow water, among other factors. A formulation of the problem is presented but no general solution is made, primarily because of lack of basic data. Several special solutions are presented based on reasonable assumptions. The case for a steep continental shelf with parallel bottom contours and wave crests parallel to the coast and for which bottom friction is neglected has been investigated. For this case it is found that the predominant period shifts toward longer periods. The implication is, for example, that the significant periods observed along the U. S. Pacific coast are longer than those which would be observed several miles westward over deep water.
+The case for a gentle continental shelf with parallel bottom contour and wave crests parallel to the coast and for which bottom friction is important has also been investigated. For this case it is found that the predominant period shifts toward shorter periods as the water depth decreases. The implication is, for example, that the significant periods observed in the shallow water over the continental shelf are shorter than those which would be observed beyond the continental slope. In very shallow water, because shoaling becomes important, a secondary peak appears at higher periods.
+The joint distribution of wave heights and wave periods is required in order to determine the most probable maximum breaking wave, which can be of lesser height than the most probable maximum non-breaking wave. In very shallow water the most probable maximum breaking wave which first occurs would be governed by the breaking depth criteria, whereas in deepwater wave steepness can also be a governing factor. It can be expected that in very shallow water the period of the most probable maximum breaking wave should be longer than the significant period; and for deeper water the period of the most probable maximum breaking wave can be less than the significant period.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2251</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2251/1942</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1078</identifier>
+				<datestamp>2023-10-04T04:39:49Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DUNE MIGRATION AND SAND TRANSPORT RATES IN TIDAL ESTUARIES: THE EXAMPLE OF THE RIVER ELBE</dc:title>
+	<dc:creator xml:lang="en">Zorndt, Anna Christina</dc:creator>
+	<dc:creator xml:lang="en">Wurpts, Andreas</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:creator xml:lang="en">Ohle, Nino</dc:creator>
+	<dc:creator xml:lang="en">Strotmann, Thomas</dc:creator>
+	<dc:subject xml:lang="en">Sand Dune</dc:subject>
+	<dc:subject xml:lang="en">Dune Migration</dc:subject>
+	<dc:subject xml:lang="en">Cross-Correlation Method</dc:subject>
+	<dc:subject xml:lang="en">Sand Transport</dc:subject>
+	<dc:subject xml:lang="en">Elbe Estuary</dc:subject>
+	<dc:description xml:lang="en">Large parts of the tidal estuary of river Elbe (Germany) are characterized by regular patterns of sand dunes. They are presumed to evolve due to complex sand transport mechanisms and show multi-faceted migration patterns. Direction and magnitude of their migration are influenced by hydrodynamic boundary conditions such as river runoff and tides. Dune Migration can lead to residual sand transport rates, depending on its direction and magnitude and the dune's characteristics. The understanding of dune migration patterns and associated sand transport is the basis of an effective sediment management as well as an important requirement for planning offshore structures. This study focuses on methods for computing migration and sand transport rates in automated ways. In a comparison and validation of different approaches, a cross-correlation technique was found to produce best results. From a unique data set of up to six annual bathymetrical multi-beam soundings between 1995 and 2010, dune characteristics and migration rates were processed and analysed autonomously. The findings show that in a long perspective, average dune migration and sand transport rates in the present study reach are directed upstream.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1078</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1078/pdf_29</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

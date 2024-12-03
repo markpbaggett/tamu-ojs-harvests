@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6754</identifier>
+				<datestamp>2023-10-04T02:40:38Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL INVESTIGATION OF PRESSURE ACTING ON FLOATING PANEL FOR WAVE OVERTOPPING REDUCTION UNDER REGULAR WAVE ACTION</dc:title>
+	<dc:creator xml:lang="en">Kawasaki, Koji</dc:creator>
+	<dc:creator xml:lang="en">Dinh, Han Ut</dc:creator>
+	<dc:creator xml:lang="en">Matsuno, Tetsuya</dc:creator>
+	<dc:creator xml:lang="en">Fukumoto, Tadashi</dc:creator>
+	<dc:subject xml:lang="en">Multiphase flow model</dc:subject>
+	<dc:subject xml:lang="en">solid-gas-liquid interaction</dc:subject>
+	<dc:subject xml:lang="en">pressure</dc:subject>
+	<dc:subject xml:lang="en">floating panel</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping reduction</dc:subject>
+	<dc:description xml:lang="en">In this paper, a 3-D multiphase flow model with solid-gas-liquid interaction, named 'DOLPHIN-3D', is utilized to numerically investigate the characteristics of pressure acting on a floating panel, which is installed in front of an upright seawall for wave overtopping reduction. The validity and utility of the model were confirmed through good agreements between the numerical results and experimental ones in terms of the dynamic response of the floating panel and the pressure at the bottom of the panel. The numerical results revealed that the model can appropriately simulate the pressure acting on the floating panel as well as the dynamic behavior of the panel under wave action.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6754</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.82</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.82</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6754/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

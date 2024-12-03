@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6711</identifier>
+				<datestamp>2023-10-04T02:59:36Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RISK ASSESSMENT FOR NORTH SEA COASTAL LOWLANDS - INFLUENCE OF DIFFERENT COASTAL DEFENCE SYSTEMS ON FLOODING IN CASE OF FAILURE</dc:title>
+	<dc:creator xml:lang="en">Blum, Holger</dc:creator>
+	<dc:creator xml:lang="en">Thorenz, Frank</dc:creator>
+	<dc:creator xml:lang="en">Lambrecht, Hans-Jörg</dc:creator>
+	<dc:subject xml:lang="en">risk assessment</dc:subject>
+	<dc:subject xml:lang="en">North Sea</dc:subject>
+	<dc:subject xml:lang="en">numerical flood simulation</dc:subject>
+	<dc:subject xml:lang="en">foreland</dc:subject>
+	<dc:subject xml:lang="en">summer dike</dc:subject>
+	<dc:description xml:lang="en">Introduction
+The German Federal State Lower Saxony borders on its northern side the southern North Sea. The coastal low¬lands of Lower Saxony represent an important eco¬nomical, agricultural, cultural and ecological area. About 6,600 km² with 1.2 million inhabitants are flood prone by storm surges. The main coastal defence elements on the mainland coast are main dikes and storm surge barriers. In case of main dikes, on significant stretches of the coastline additional protection elements such as dike forelands and sec¬ond¬ary dike lines are present. 
+Aspects of flooding due to failure of coastal defences and the consequences are investigated by the Lower Saxony Water Management, Coastal Defence and Nature Conservation Agency (NLWKN) within two research projects SAFECOAST and HoRisK (Flood Risk Management for Coastal Areas) in order to facilitate technical aspects of the EU Flood Risk Management Directive's implementation.
+
+Objectives and methods
+Within subproject HoRisK-C 'Consequences of Flooding at the North Sea Coast' led by NLWKN, hydrodynamic flooding simulations are performed for selected boundary conditions and failure scenarios of the coastal defence system. Aims of the investigations are damage and risk assessments as well as methods to reduce damages and risks. In order to estimate the damages the Source-Pathway-Receptor approach is adopted. The sub¬project HoRisK-C focuses mainly on the latter aspects. A hydro¬dynamic model and a geo¬graphical information system (GIS) are used to determine flood pro¬pagation, water depth and resulting damages. 
+The results of the investigations conducted in SAFECOAST delivered significant influences of topo¬graphical elements such as drainage systems, positive break lines and small variations of elevation on the simulated inundation.
+Taking these findings into account, main objectives of HoRisK-C are investigations regarding the con¬se¬quences of failure for coastal lowlands protected by different coastal defence systems. Therein included are the influence of specific defence elements and topography on flood propagation and extension. In a further phase of the project the findings will be integrated in options to reduce exposure of receptors and risks in flood prone coastal areas.
+
+First results
+For the pilot site 'Norden' hydrodynamic simulations of a dike failure scenario using a 50x50 m terrain model, a uniform 150 m breach width and a drainage system yield flood extension and maximum water depth. Calculations are conducted for the existing coastal defence system consisting only of a main dike as well as for two modified systems based on this existing. One modified system represents a theoretical foreland whereas the other is a combination of the theoretical foreland and a summer dike, i.e. a small dike with crest height of NN + 3.0 m in front of the main dike line. The simulations confirmed the former findings concerning numerical implementation of drainage systems and breach scenarios. 
+
+Conclusions
+The hydrodynamic simulations show, that in comparison of a coastal defence system 'dike without foreland' a system 'with foreland' or 'with foreland and summer dike' will reduce the inflow volume as well as the flooded area, significantly.
+The foreland in front of dikes is subject of the Lower Saxony Dike Law and the Lower Saxony Master Plan Coastal Defence. There its functionality to protect the dike by reduction of the loads, e.g. currents, is addressed. The effect of reducing the inflow volume through a breach in case of a failure of the coastal defence system was shown for selected synthetic and real cases. As a consequence a foreland of sufficient height and width can reduce the consequences for the hinterland and should be taken into account for flooding calculations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6711</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6711/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

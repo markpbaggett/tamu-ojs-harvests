@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5711</identifier>
+				<datestamp>2021-01-19T10:50:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE EFFECT OF 2-LAYER THICKNESS BY HIGH-SPECIFIC GRAVITY ARMOR BLOCKS ON WAVE REFLECTION</dc:title>
+	<dc:creator xml:lang="en">Ito, Masahiro</dc:creator>
+	<dc:creator xml:lang="en">Iwagaki, Yuitch</dc:creator>
+	<dc:creator xml:lang="en">Murakami, Hiroshi</dc:creator>
+	<dc:creator xml:lang="en">Nemoto, Kenji</dc:creator>
+	<dc:creator xml:lang="en">Yamamoto, Masato</dc:creator>
+	<dc:creator xml:lang="en">Hanzawa, Minoru</dc:creator>
+	<dc:subject xml:lang="en">layer thickness</dc:subject>
+	<dc:subject xml:lang="en">armor</dc:subject>
+	<dc:subject xml:lang="en">reflection</dc:subject>
+	<dc:description xml:lang="en">High-specific gravity (HSG) armor blocks have high stability for waves compared with the same size blocks made with normal concrete. Since an armor layer constructed with HSG armor blocks is thinner than the equivalent layer built with normal concrete, it is expected that it will produce significantly higher wave reflection. The goal of the present study is to investigate experimentally the effect of a double layer of HSG tetrapods (referred to as 2-tetrapod layer) on wave reflection. During the tests, regular waves were generated against a breakwater covered with the 2-tetrapod layer, and wave reflection was recorded for several layer thicknesses. Six sizes of tetrapod models were used ranging from 3.1 to 16.6 cm in vertical height, i.e., the 2-tetrapod layer thickness varied from 5.2 to 22.5 cm. Based on the laboratory test data, the effect of the layer thickness on wave reflection was examined using dimensionless factors derived from dimensional analysis. It was concluded that wave reflection increases as the specific gravity of armor blocks becomes larger, in a manner that depends on the deep water wave steepness.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5711</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5711/5381</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8583</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">POLLUTANT ADVECTION AND DIFFUSION PROCESSES IN THE LAGOON OF FUNAFUTI ATOLL, TUVALU</dc:title>
+	<dc:creator xml:lang="en">Soto, Daisaku</dc:creator>
+	<dc:creator xml:lang="en">Yokoki, Hiromune</dc:creator>
+	<dc:description xml:lang="en">Funafuti Atoll, where is located on the South Pacific (179° 11' 50†E, 8° 31' 16†S) is the capital atoll of Tuvalu. Most of residents live in Fongafale Island which is located in the eastern-side of the atoll. Lagoonal nearshore of Fongafale Island has a problem of nearshore pollutant caused by outflowing of untreated domestic wastewater. Sato et al.(2015) conducted the numerical simulation of the lagoonal flow field, and the particle advection simulation for estimating the pollutant transportation in the lagoon. However, the simulation was not included the diffusion process of pollutant. In this study, numerical simulation including advection-diffusion processes was conducted to understand the characteristics of the pollutant behavior in the lagoon of Funafuti Atoll.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8583</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8583/7387</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

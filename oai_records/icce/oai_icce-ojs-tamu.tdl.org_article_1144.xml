@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1144</identifier>
+				<datestamp>2023-10-04T04:37:53Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF COASTAL VEGETATION SPECIES AND GROUND SLOPE ON STORM SURGE DISASTER MITIGATION</dc:title>
+	<dc:creator xml:lang="en">Das, Shamal Chandra</dc:creator>
+	<dc:creator xml:lang="en">Iimura, Kosuke</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Norio</dc:creator>
+	<dc:subject xml:lang="en">Rhizophora apiculata</dc:subject>
+	<dc:subject xml:lang="en">Casuarina equisetifolia</dc:subject>
+	<dc:subject xml:lang="en">Cyclonic storm surge</dc:subject>
+	<dc:description xml:lang="en">The coastline of Bangladesh is mostly exposed to extreme meteorological and hydrological conditions where cyclones and storm surges cause devastating effects including loss of human lives and destruction of properties. Coastal vegetation has been considered as a low-cost and natural protection to reduce the energy of current and surge. Present study explored the effectiveness of coastal vegetation against cyclonic storm surge based on species composition, forest width and near-shore run-up slope revealed by field investigations and numerical simulations. A calibrated hydrodynamic numerical model based on modified one-dimensional depth-averaged non-linear long wave differential equations was used to simulate the storm surge mitigation effected by the coastal vegetation. Considering two different types of coastal species, mangrove species, Rhizophora apiculata and beach species, Casuarina equisetifolia, numerical simulations were conducted to assess the effect of coastal forest on the storm surge mitigation. This analysis showed that double layers of wide vegetation belt (300 m) in the vertical direction with R. apiculata and C. equisetifolia on mild slope (1:500) exhibited a strong potential to decrease surge wave height and velocity. However, water depth reduction was low compared with flow velocity reduction. The maximum water depth and current velocity reduced to 1.4m (22% reduction) and 1.2m/s (49% reduction), respectively, behind the vegetation in comparison with the case without vegetation. Wide coastal vegetation belt with mild slope might be suitable for storm surge energy reduction; however, a doubling or tripling of forest width (from 100 m to 200 m or 300 m) did not produce two-fold or three-fold increase of wave reduction with negligible additional velocity reduction. For the same vegetation density the wave energy reduction by R. apiculata was not increased significantly compared to the C. equisetifolia. But young densely C. equisetifolia found more effective to reduce storm surge energy. The information would be of value to policy and decision makers for coastal landscape planning, rehabilitation and coastal resource management.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1144</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1144/pdf_39</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

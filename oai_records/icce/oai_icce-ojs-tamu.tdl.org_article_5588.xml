@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5588</identifier>
+				<datestamp>2021-01-19T11:30:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE USE OF DATA ASSIMILATION TO IMPROVE WAVE HINDCAST RESULTS</dc:title>
+	<dc:creator xml:lang="en">Hubertz, Jon M.</dc:creator>
+	<dc:subject xml:lang="en">wave hindcast</dc:subject>
+	<dc:subject xml:lang="en">data assimilation</dc:subject>
+	<dc:description xml:lang="en">A sequential data assimilation scheme was used to assimilate wind speed and direction measured at land and buoy platforms into a modeled wind field over the Gulf of Mexico during January 1996. The resulting wind field is more accurate than the modeled field alone for locations near the coast where winds are affected locally by transition from land to water. The assimilated winds result in improved hindcasts of wave height over modeled winds alone when compared to wave measurements from buoys.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5588</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5588/5261</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

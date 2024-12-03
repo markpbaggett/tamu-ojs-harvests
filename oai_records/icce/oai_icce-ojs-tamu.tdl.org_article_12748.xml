@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12748</identifier>
+				<datestamp>2023-09-01T15:12:48Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ADVANCES IN UNSTRUCTURED WAVEWATCH III AND APPLICATIONS TO NEARSHORE WAVES</dc:title>
+	<dc:creator xml:lang="en">Smith, Jane McKee</dc:creator>
+	<dc:creator xml:lang="en">Hesser, Tyler J.</dc:creator>
+	<dc:creator xml:lang="en">Abdolali, Ali</dc:creator>
+	<dc:creator xml:lang="en">Bryant, Mary Anderson</dc:creator>
+	<dc:creator xml:lang="en">Roland, Aron</dc:creator>
+	<dc:description xml:lang="en">The spectral wave generation and propagation model WAVEWATCH III (WW3) (WW3DG 2019) is undergoing rapid community development to extend capability and nearshore modeling applicability. An option for unstructured grids and implicit solution provides WW3 with the flexibility and efficiency to resolve complex shorelines and high-gradient wave zones to drive nearshore circulation, wave setup, and wave-driven sediment transport with multi-scale spatial coverage over approximately three orders of magnitude. A hybrid approach to parallelization uses spectral partitioning for advection in geographical space and domain decomposition for spectral advection and the source term integration. The advection part of wave action equation is integrated fully implicitly, and a new convergent action limiter derived from Komen et al. (1994) and Hersbach and Janssen (1999) is applied. The model is compatible with community-based coupling infrastructure to facilitate two-way coupling with circulation models for simulating hurricane storm surge and waves. Abdolali et al. (2020) evaluated WW3 enhancements on a large-scale numerical domain employing the new parallelization algorithm and implicit solver for unstructured grids and compared to the existing parallelization algorithm, domain decomposition, and robust explicit numerical solver of WW3 on both structured and unstructured grids. These new capabilities in the wave model push the limitations of the model, including minimum resolution (10s of meters), maximum number of model grid points (~2 million), and computational scalability, as well as better accuracy in contrast to the explicit scheme. This paper describes model enhancements and validation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12748</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12748/12021</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jane McKee Smith, Tyler J. Hesser, Ali Abdolali, Mary Anderson Bryant, Aron Roland</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

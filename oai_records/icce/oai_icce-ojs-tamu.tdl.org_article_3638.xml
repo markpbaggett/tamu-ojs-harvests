@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3638</identifier>
+				<datestamp>2021-01-19T22:37:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A COMPUTER MODEL FOR THE REFRACTION OF NON-LINEAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Crowley, J.B.</dc:creator>
+	<dc:creator xml:lang="en">Fleming, C.A.</dc:creator>
+	<dc:creator xml:lang="en">Cooper, C.K.</dc:creator>
+	<dc:subject xml:lang="en">computer model refraction</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave</dc:subject>
+	<dc:description xml:lang="en">A non-linear wave refraction model was developed which allows for the combined refraction and shoaling of Vocoidal waves over an arbitrary sea bed. The effects of bed friction and percolation are also catered for. The method is based on the cirular arc technique which is widely used for linear wave refraction. The method was extensively tested against Vocoidal wave refraction results obtained previously for a plane beach. A comparison of Vocoidal and linear wave refraction over an arbitrary sea bed indicated that Vocoidal waves refract less than linear theory, thereby yielding higher wave heights and angles of incidence at the breaker line. This result is in line with results of non-linear refraction over parallel bed contours quoted for other non-linear wave theories in literature. Further work is required before caustics can be adequately treated. Future research should include wave spectrum transfer and the re-evaluation of empirical relationships in use in the shallow water region and which will use this new higher-order refraction technique.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3638</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3638/3321</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5322</identifier>
+				<datestamp>2021-01-19T12:59:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REFLECTION COEFFICIENTS OF THE STEP-SHAPED SLIT CAISSON ON THE RUBBLE MOUND</dc:title>
+	<dc:creator xml:lang="en">Ahn, Sung Mo.</dc:creator>
+	<dc:creator xml:lang="en">Fujiwara, Ryuichi</dc:creator>
+	<dc:creator xml:lang="en">Matsunaga, Hiroshi</dc:creator>
+	<dc:creator xml:lang="en">Kurata, Katsuhiko</dc:creator>
+	<dc:creator xml:lang="en">Kakuno, Shohachi</dc:creator>
+	<dc:subject xml:lang="en">caisson</dc:subject>
+	<dc:subject xml:lang="en">slit caisson</dc:subject>
+	<dc:subject xml:lang="en">reflection</dc:subject>
+	<dc:subject xml:lang="en">reflection coefficient</dc:subject>
+	<dc:subject xml:lang="en">rubble mound</dc:subject>
+	<dc:description xml:lang="en">The characteristics of the reflection coefficients of a step-shaped slit caisson on the rubble mound are examined by experimental data.A numerical analysis which combines the method of matched asymptotic expansions with a boundary element method has been applied for the calculation of the reflection coefficients of the caisson on the rubble mound. Numerical results are compared with experimental data to show the validity. Dimensions of the preferable cross-section of the step-shaped slit caisson on the rubble mound are discussed and obtained through the numerical results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5322</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5322/5000</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

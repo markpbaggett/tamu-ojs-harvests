@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8148</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DETAILED SHORELINE MODELLING OF NARROWNECK ARTIFICIAL REEF, QUEENSLAND, AUSTRALIA</dc:title>
+	<dc:creator xml:lang="en">Kaergaard, Kasper</dc:creator>
+	<dc:creator xml:lang="en">Mortensen, Simon</dc:creator>
+	<dc:creator xml:lang="en">Deigaard, Rolf</dc:creator>
+	<dc:creator xml:lang="en">Strauss, Darrell</dc:creator>
+	<dc:creator xml:lang="en">Hunt, Shannon</dc:creator>
+	<dc:subject xml:lang="en">submerged structure</dc:subject>
+	<dc:subject xml:lang="en">hybrid shoreline model</dc:subject>
+	<dc:subject xml:lang="en">MIKE 21 FM</dc:subject>
+	<dc:subject xml:lang="en">artificial reef</dc:subject>
+	<dc:subject xml:lang="en">coastal response</dc:subject>
+	<dc:description xml:lang="en">The MIKE 21 FM Shoreline Model was applied to predict the coastal response of an artificial reef constructed in the surf-zone at Narrowneck, Queensland, Australia. The  construction of the reef began in 1999 and completed in 2000; it was constructed from geotextile sand bag; a portion of which broke during construction and the following period. The reef was maintained by addition of new sand bags until 2006. The coastal response from the reef was analyzed by integrating the beach volume between the height of the dune and the depth of closure using measured coastal profiles. The analysis showed that in the early days of the reef a clear salient in the beach volume was observed in the lee of the reef. This salient was smaller in 2006 and in later years, 2012 and 2013 it was no longer visible in the data. The MIKE 21 FM shoreline model was applied to reproduce the observed coastal response. It was found that the position of the longshore bar relative to the position of the reef is important for the predicted coastal response. By running the model using a subset of the measured coastal profiles from the site, the envelope of the predicted coastal response matches reasonably well with the measured response.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8148</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.sediment.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; sediment.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8148/7069</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

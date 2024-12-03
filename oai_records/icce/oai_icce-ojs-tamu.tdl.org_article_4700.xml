@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4700</identifier>
+				<datestamp>2021-01-19T16:30:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENERGY DISSIPATION AND AIR BUBBLES MIXING INSIDE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Hwung, Hwung Hweng</dc:creator>
+	<dc:creator xml:lang="en">Chyan, Jih Ming</dc:creator>
+	<dc:creator xml:lang="en">Chung, Yeong Chyang</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">energy dissipation</dc:subject>
+	<dc:subject xml:lang="en">air bubbles</dc:subject>
+	<dc:subject xml:lang="en">mixing</dc:subject>
+	<dc:description xml:lang="en">In order to understand the relationship between entrained air bubbles and energy transfer inside surf zone, a special technique of He-Ne laser and 2D LDV were employed to investigate the characteristics of air bubbles concentration and velocity fields, respectively. The experimental results shows that the concentration profiles of air bubbles decay hyperbolically in the vertical direction and exponentially in the horizontal direction. With appropriate parameter groups, the distributions of air bubbles show a characteristics of similarity. The potential energy, kinematic energy and total energy decrease with the horizontal distance except that the kinematic energy slightly increases between the impinging point and the maximum penetration. Within this region, the energy loss of potential energy and kinematic energy is almost transferred to the air bubbles to merge into the water body.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4700</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4700/4381</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

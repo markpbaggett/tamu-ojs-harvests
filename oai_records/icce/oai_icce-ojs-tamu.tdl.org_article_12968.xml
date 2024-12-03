@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12968</identifier>
+				<datestamp>2023-09-01T15:14:43Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUANTIFYING RISKS FOR COASTAL LEVEE DESIGNS ALONG THE U.S. GULF COAST</dc:title>
+	<dc:creator xml:lang="en">Nelson, Alexander</dc:creator>
+	<dc:creator xml:lang="en">Arcement, Brad</dc:creator>
+	<dc:creator xml:lang="en">Burrows, Brad</dc:creator>
+	<dc:creator xml:lang="en">Hill, Andrew</dc:creator>
+	<dc:description xml:lang="en">For all U.S. Army Corps of Engineers (USACE) dam and levee designs for new projects, modifications, improvements, rehabilitation, or repairs, a risk-informed design approach is taken (ECB 2019-15). Risk-informed design ensures that risks and uncertainties are evaluated and estimated to be tolerable. This approach occurs in parallel to the typical design approach, which primarily focuses on ensuring the project is commensurate with available policies, guidance, and criteria as specified in USACE publications (regulations, manuals, etc.) as well as project-specific criteria. These criteria result in designs that achieve adequate factors of safety for levees, floodwalls, or other structural features across a full range of hydraulic, seismic, and other types of hazards. The risk-informed design approach allows for adaptability to identify cases where a lesser factor of safety may still result in tolerable risks, or conversely, where proposed criteria may not be sufficient to reduce risks to an acceptable level. These type of assessments are performed while ensuring that the project holds life safety paramount, and the design and risk teams are open and transparent in their engagement with local partners.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12968</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12968/12241</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Alexander Nelson, Brad Arcement, Brad Burrows, Andrew Hill</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

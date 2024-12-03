@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6570</identifier>
+				<datestamp>2023-10-04T03:18:03Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT DYNAMICS IN LAGOS HARBOUR - RECONNAISSANCE ON EFFECTS OF DREDGING</dc:title>
+	<dc:creator xml:lang="en">Vijverberg, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Reneerkens, Michiel</dc:creator>
+	<dc:creator xml:lang="en">Winterwerp, Han</dc:creator>
+	<dc:creator xml:lang="en">Scholl, Olaf</dc:creator>
+	<dc:creator xml:lang="en">Haruna, Y.</dc:creator>
+	<dc:subject xml:lang="en">Lagos Harbour</dc:subject>
+	<dc:subject xml:lang="en">Field measurements</dc:subject>
+	<dc:subject xml:lang="en">MIKE21 model</dc:subject>
+	<dc:subject xml:lang="en">Sediment dynamics</dc:subject>
+	<dc:subject xml:lang="en">Dredging</dc:subject>
+	<dc:description xml:lang="en">Due to economic growth, Lagos Harbour is expanding. Capital dredging is needed to allow larger vessels to call the port. As harbour siltation is already a problem, increase of maintenance dredging is a worry. In the past no data was available to understand the hydraulics and sediment transport to estimate maintenance dredging volumes. This paper presents the reconnaissance of the sediment dynamics in the harbour, based on field data and MIKE21 model simulations. Measurements of sediment concentration, salinity and flow velocity show that estuarine circulation occurs, transporting sediment from the ocean into the port. However, more upstream in the Commodore channel, at the location where dredging will be carried out, this circulation is small. Model simulations show that at that location, bed shear stresses are large, also after dredging. Therefore, fine sediment can not accumulate in the deepened areas and this will not result in large dredging volumes. Sand transport however can cause sedimentation, as bed forms can migrate. These mechanisms are also observed in initial sand transport simulations, but need to be studied further to fully understand the sediment dynamics in the harbour.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6570</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6570/pdf_566</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

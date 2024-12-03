@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3429</identifier>
+				<datestamp>2021-01-19T23:50:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERIFICATION OF A WAVE REFRACTION MODEL UTILISING RECORDED AND OBSERVED WAVE DATA</dc:title>
+	<dc:creator xml:lang="en">Henderson, G.</dc:creator>
+	<dc:creator xml:lang="en">Webber, N.B.</dc:creator>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">refraction model</dc:subject>
+	<dc:subject xml:lang="en">recorded data</dc:subject>
+	<dc:subject xml:lang="en">observed data</dc:subject>
+	<dc:description xml:lang="en">There are few references in the published literature to the verification of wave refraction models utilising field data. More often, such models have been compared to the results of analytical solutions or using laboratory models. This paper reviews the present state of knowledge of such verifications and describes a method which has been successfully employed at a coastal site in the central English Channel. The procedure involves hindcasting recorded Waverider Buoy wave information from a nearshore region to deep water. A comprehensive coverage of wind data has been utilised to provide the offshore wave approach direction. Wave orthogonals have then been tracked inshore and the breaking wave heights and directions compared with observed data. The results show reasonable comparison where the waves are free from diffraction. However, for oblique wave attack, diffraction around headlands produces evident anomalies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3429</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3429/3109</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

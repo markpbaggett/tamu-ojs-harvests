@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8269</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF BREAKING SOLITARY WAVE RUN UP IN SURF ZONE USING INCOMPRESSIBLE SMOOTHED PARTICLE HYDRODINAMICS (ISPH)</dc:title>
+	<dc:creator xml:lang="en">Hejazi, Kourosh</dc:creator>
+	<dc:creator xml:lang="en">Ghavami, AmirReza</dc:creator>
+	<dc:creator xml:lang="en">Aslani, Abolfazl</dc:creator>
+	<dc:subject xml:lang="en">wave run up</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">smoothed particle hydrodynamics (SPH)</dc:subject>
+	<dc:subject xml:lang="en">roughness</dc:subject>
+	<dc:subject xml:lang="en">wall function</dc:subject>
+	<dc:description xml:lang="en">This paper presents a numerical model for simulating wave run-up on rough sloping surfaces. Incompressible smoothed particle hydrodynamics (ISPH) has been utilized, which is capable of efficient tracking of free surface deformation in a Lagrangian coordinate system. Many of the existing models have focused on inviscid wave run-up on a smooth surface, but few numerical models and especially experimental studies have investigated the effect of beach roughness on the run up. In the present study two methods have been deployed to study the effect of roughness on wave run up. In the first method, the mass unit force, which is a coefficient of the fluid viscosity, and is dependent on the roughness of the solid boundary, has been used. In the second method, mass unit force obtained from the wall functions was utilized to enforce the friction on the particles near the boundaries. The comparisons of the numerical simulations with the analytical solutions and experimental data confirmed the capability of the model in simulating wave propagation and wave breaking. It was also concluded that the effect of roughness on wave run up depends on both the roughness itself and the beach slope. The results also indicated small roughness effect on waves running up over steep slopes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8269</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8269/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

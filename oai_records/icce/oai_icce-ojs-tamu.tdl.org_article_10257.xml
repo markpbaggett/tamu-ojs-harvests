@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10257</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A UAV-RTK-LIDAR SYSTEM MEASUREMENTS OF WAVE ENERGY DISSIPATION OVER A SANDY BEACH AND AN ALGAL-REEF AREA</dc:title>
+	<dc:creator xml:lang="en">Yeh, Cheng-yang</dc:creator>
+	<dc:creator xml:lang="en">Huang, Zhi-Cheng</dc:creator>
+	<dc:description xml:lang="en">Wave energy dissipation is a significant factor affecting coastal hydrodynamics, coastline morphology, wave height transformation, and the nutrient uptake in the coral reef (Huang, Lenain et al. 2012). However, it is difficult to be measured since accurate and spatial-distributed measurements of sea surface elevations are required to compute this quantity. We used a UAV-RTK-Lidar system to test the possibility for the measurements of wave energy dissipation. The UAV system was validated to able to measure the ocean wave properties (Huang, Yeh et al. 2018). Two field experiments of measuring energy dissipation were conducted over an algal-reef and a sandy beach site, respectively. Nine and eight flights of UAV measurements on the algal reef and sandy beach were conducted for one tidal cycle. The measurements of wave properties by UAV were compared with those of in-situ instruments using pressure sensors.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/fBLbsBuK4AA</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10257</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10257/9543</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Cheng-yang Yeh, Zhi-Cheng Huang</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

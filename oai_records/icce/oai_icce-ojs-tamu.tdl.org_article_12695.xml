@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12695</identifier>
+				<datestamp>2023-09-01T15:12:18Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF CROSS-SHORE PROFILES AT SOUTH COASTS OF THE CASPIAN SEA UNDER RAPID CHANGES IN WATER LEVEL</dc:title>
+	<dc:creator xml:lang="en">Enayati, Hesamodin</dc:creator>
+	<dc:creator xml:lang="en">Soltanpour, Mohsen</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:description xml:lang="en">Coastal zone management needs the prediction of the changes in shoreline and coastal profiles, where the fluctuation of sea water level plays an essential role. Climate change and human activities have accelerated the fluctuation/falling of water levels in lakes and enclosed water basins. Using satellite images and cross-shore beach profiles at twelve monitoring stations along the southern coasts of the Caspian Sea, the effect of the rapid fall of water level on the nearshore morphology is studied in this research. Radiometric and atmospheric corrections are made on satellite images, and the NDWI index is used to increase the accuracy of the shoreline extraction. Comparing the accuracy of different methods, it is concluded that the Hands (1984) formula relatively better predicts the shoreline advancement rate due to lowering water level.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12695</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.56</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.56</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12695/11968</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Hesamodin Enayati, Mohsen Soltanpour, Tomoya Shibayama, Ioan Nistor</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

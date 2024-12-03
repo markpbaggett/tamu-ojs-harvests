@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3972</identifier>
+				<datestamp>2021-01-19T20:39:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMIC FORCES ON A CIRCULAR CYLINDER DUE TO COMBINED WAVE AND CURRENT LOADING</dc:title>
+	<dc:creator xml:lang="en">Iwagaki, Yuichi</dc:creator>
+	<dc:creator xml:lang="en">Asano, Toshiyuki</dc:creator>
+	<dc:subject xml:lang="en">current loading</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic force</dc:subject>
+	<dc:subject xml:lang="en">force on a cylinder</dc:subject>
+	<dc:subject xml:lang="en">cylinder</dc:subject>
+	<dc:subject xml:lang="en">wave/current loading</dc:subject>
+	<dc:description xml:lang="en">The hydrodynamic force acting on a circular cylinder in a wavecurrent co-existing field and its generating mechanism are discussed. This study focuses on the asymmetries of both the water particle movement and the resultant vortex property with respect to the cylinder, which produce inherent characteristics in the hydrodynamic forces in the wave-current co-existing field. First of all, the vortex property around a circular cylinder in the wave-adverse current co-existing field has been examined by flow visualization tests. It has been found that the vortex property depends on the flow characteristics around the trough phase when the wave-current composite velocity becomes maximum and can be represented with a newly proposed K.C. number for the co-existing field. Secondly, the characteristics of the in-line force has been made clear by evaluating the drag coefficient and the mass coefficient in the expanded Morison's equation for the co-existing field. These coefficients can be well arranged by (/CC. )-$, which is one of the newly proposed K.C. numbers, and their characteristics coincide with the existing results in the wave only field. The in-line hydrodynamic force in the co-existing field can be explained sufficiently by considering the vortex property in the same manner as clarified in the wave only field. Thirdly, the characteristics of the transverse force (lift force) are discussed in connection with the vortex properties. It has also been found that the fluctuating frequency of the lift force is synchronized with the loading wave frequency.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3972</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.191</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 191</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3972/3655</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

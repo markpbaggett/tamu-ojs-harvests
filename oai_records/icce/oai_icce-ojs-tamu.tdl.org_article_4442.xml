@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4442</identifier>
+				<datestamp>2021-01-19T17:58:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE GROUP PROPERTIES OF COASTAL WAVES</dc:title>
+	<dc:creator xml:lang="en">Mase, Hajime</dc:creator>
+	<dc:creator xml:lang="en">Yamashita, Takao</dc:creator>
+	<dc:creator xml:lang="en">Hayashi, Katsuyuki</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">group properties</dc:subject>
+	<dc:description xml:lang="en">This paper examines the following properties of observed wave groups: (1) the change of wave grouping from offshore to shallow water region including the surf zone; (2) the relation between wave groupiness and wave height distributions; and (3) the distribution of run lengths and time series of wave heights of extreme wave groups which contain the maximum wave height in each wave record. Main results are summarized as follows: (1) wave groups become flattened as they propagate landward; (2) no clear maximum in mean length of runs is seen around the position where the significant wave height is the maximum, in contrast to the laboratory data, while the tendency of the change of GF is the same as the experimental data; (3) when wave grouping becomes pronounced, the distribution of wave heights becomes wider; (4) extreme wave groups accompany more large waves than ordinary wave groups; (5) for the case of narrow spectra, the time series of wave heights of extreme wave groups is represented fairly well by that of the wave group formed by the side-band instability, and the distribution of three high waves is also in qualitative agreement with that of envelope soliton, and (6) for wide spectra, which may occur during the peak of storms, wave heights in front and rear of the maximum wave are half as large as the maximum wave height, implying that a maximum wave tends to appear without accompanying other large waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4442</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4442/4123</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

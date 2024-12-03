@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4913</identifier>
+				<datestamp>2021-01-19T15:17:48Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A MODIFIED MODEL OF CHARACTERISTIC TECHNIQUE COMBINED WITH GALERKIN FINITE ELEMENT METHOD TO SOLVE WATER MASS TRANSPORT PROBLEMS</dc:title>
+	<dc:creator xml:lang="en">Garzon, A.</dc:creator>
+	<dc:creator xml:lang="en">D'Alpaos, L.</dc:creator>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:subject xml:lang="en">Galerkin model</dc:subject>
+	<dc:subject xml:lang="en">finite amplitude</dc:subject>
+	<dc:description xml:lang="en">In order to solve water circulation and solute transport-diffusion problems in two-dimensional hydrodynamical systems a comprehensive simulator, composed by two finite element models, has been developed. In particular the first model, which is of semi-implicit kind, solves hydrodynamical shallow water equations whereas the second, which is an Eulearian-Lagrangian method (ELM), is based on the Modified Method of Characteristics (MMOC) combined with Galerkin finite element method.Semiimplicit procedures for hydrodynamical models are sometimes used with finite differences but are quite rare with finite elements. Nevertheless they have a lot of advantages compared to the others, principally linked to a considerable time saving. This is determined by the fact that the systems of equations in the unknown levels and velocities are uncoupled and the time step is not constrained by Courant-Friedrichs-Levy stability criterion.lt can be demonstrated that in the linear case the hydrodynamic model is indefinitely stable and good accuracy can be achieved for velocity fielAOn the other side, the proposed transport-dispersion model presents interesting features, among which the possibility to obtain good results in mass conservation and minimum numerical oscillations or grid orientation problems even under sharp front conditions. In these papers we shall discuss only the approximation method of transport-dispersion model, showing the theoretical fundamentals and some of its applications.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4913</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4913/4594</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

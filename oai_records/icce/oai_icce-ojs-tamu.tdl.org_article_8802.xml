@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8802</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">XBEACH SIMULATION OF HYBRID COASTAL PROTECTION: A GALVESTON SEAWALL TEST CASE</dc:title>
+	<dc:creator xml:lang="en">Muller, J.R.M.</dc:creator>
+	<dc:creator xml:lang="en">Figlus, J.</dc:creator>
+	<dc:creator xml:lang="en">de Vries, S.</dc:creator>
+	<dc:description xml:lang="en">The City of Galveston is protected from extreme storm impact by a 17-km concrete seawall facing the Gulf of Mexico. Recent studies have shown that the seawall may not be sufficient to protect against a 100-year design storm. Since raising the seawall disconnects the city from the beach and may be very costly, a hybrid approach is explored in which the existing hard structure is fronted and covered by a layer of sand. By means of numerical simulationsï¼Œthe hydro- and morphodynamic effects of adding a sand cover to the Galveston Seawall under extreme storm conditions are further investigated. It was found that by adding a sand cover over the seawall, maximum dissipation is spread over a larger cross-shore extent. This led to the reduction of the wave height at the face of the hybrid structure, as well as the generation of more wave-induced setup. Different hybrid design configurations were simulated, which varied in sand cover dimensions. Differences in wave attenuation, wave-induced setup and required sand cover volumes are discussed. It was found that a hybrid measure shows potential in reducing wave impact during extreme storm events, thereby reducing the required elevation of the Galveston Seawall.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8802</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.100</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.100</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8802/7602</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

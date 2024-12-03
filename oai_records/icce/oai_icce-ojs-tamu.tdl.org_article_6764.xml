@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6764</identifier>
+				<datestamp>2023-10-04T02:40:00Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPREHENSIVE NUMERICAL SIMULATION OF WAVES CAUSED BY TYPHOON USING A METEOROLOGY-WAVE-STORM SURGE-TIDE COUPLED MODEL</dc:title>
+	<dc:creator xml:lang="en">Ohira, Koichiro</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Esteban, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Mikami, Takahito</dc:creator>
+	<dc:creator xml:lang="en">Takabatake, Tomoyuki</dc:creator>
+	<dc:creator xml:lang="en">Kokado, Makito</dc:creator>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:subject xml:lang="en">WRF</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Nao.99b</dc:subject>
+	<dc:description xml:lang="en">The present study focuses on the risks of storm surge caused by future increases in typhoon intensity due to climate change. These risks were analyzed by integrating weather, wave, storm surge and tide prediction systems into a new simulation methodology. This model, which the authors developed by themselves, makes it possible to calculate the weather fields of typhoons in the past as well as in the future on the basis of meteorology and can simulate waves in a complex geographical area, in contrast with many previous storm surge simulation methods which were not based on accurate meteorological models. The model was verified to accurately reproduce historical typhoons and waves and thus is a useful tool for the analysis of future climate risks.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6764</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6764/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

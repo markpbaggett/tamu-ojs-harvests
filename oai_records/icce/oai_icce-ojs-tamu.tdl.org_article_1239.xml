@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1239</identifier>
+				<datestamp>2023-10-04T03:57:40Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOW DEPTHS AND VELOCITIES AT CREST AND LANDWARD SLOPE OF A DIKE, IN THEORY AND WITH THE WAVE OVERTOPPING SIMULATOR</dc:title>
+	<dc:creator xml:lang="en">van der Meer, Jentsje Wouter</dc:creator>
+	<dc:creator xml:lang="en">Hardeman, Bianca</dc:creator>
+	<dc:creator xml:lang="en">Steendam, Gosse Jan</dc:creator>
+	<dc:creator xml:lang="en">Schuttrumpf, Holger</dc:creator>
+	<dc:creator xml:lang="en">Verheij, Henk</dc:creator>
+	<dc:subject xml:lang="en">dikes</dc:subject>
+	<dc:subject xml:lang="en">levees</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">flow depth</dc:subject>
+	<dc:subject xml:lang="en">flow velocity</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping simulator</dc:subject>
+	<dc:subject xml:lang="en">erosional index</dc:subject>
+	<dc:description xml:lang="en">Wave overtopping discharges at coastal structures are well described in the EurOtop Manual (2007), including the distribution of overtopping wave volumes. Each volume that overtops a dike or levee will have a certain flow velocity and depth record in time, often given by the maximum velocity and flow depth. This paper describes some further development of the theory on flow depth and velocities on the crest, but will also show an inconsistency with respect to the mass balance. The second part of the paper gives an analysis of measured values on real dikes, simulated by the Wave Overtopping Simulator. It gives also the method of "cumulative hydraulic load" to compare overtopping discharges for different wave conditions. A large wave height with less overtopping waves, but larger overtopping wave volumes, is more damaging than a small wave height with more, but smaller overtopping volumes, even if the overtopping discharge is similar. The reasons to develop the cumulative hydraulic load have been compared with the recently in the US developed method of erosional equivalence.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1239</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1239/pdf_260</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1239/7680</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

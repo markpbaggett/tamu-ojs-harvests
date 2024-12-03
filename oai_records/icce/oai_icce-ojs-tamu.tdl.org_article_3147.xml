@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3147</identifier>
+				<datestamp>2021-01-20T01:23:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDAL INLET FLOW DYNAMICS AND SEDIMENT MOVEMENT</dc:title>
+	<dc:creator xml:lang="en">Machemehl, J.L.</dc:creator>
+	<dc:creator xml:lang="en">Bird, N.E.</dc:creator>
+	<dc:creator xml:lang="en">Chambers, A.N.</dc:creator>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">flow dynamics</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">A numerical simulation model for the computation of tidal and -j fresh water flow exchange through a coastal inlet developed by Amein ) was modified and calibrated with field data (current, water surface elevation and bottom topography) for Lockwoods Folly Inlet, North Carolina. The calibrated model was then used to predict the changes in the flow regimes brought about by natural and manmade changes such as storms and dredging, respectively, and to predict the changes in flow regimes caused by the Lockwoods Folly River. A generalized hypothesis of the patterns of sediment through and bypassing the inlet were formulated from an evaluation of the flow data and from an analysis of the orientation and structure of the bedforms observed in the inlet and on the offshore bar. The bedforms were analysed in the field and from an uncontrolled mosaic made from multispectral aerial photographs. Confirmation and refinement of the transport rates and movement patterns during ebb tide were made by introducing 454 kilograms (1000 lbs.) of fluorescent tracer sand in two colors into the inlet channels. The sediment movement through the inlet was established and correlated with the numerical simulation model. Confirmation and refinement of the transport rates and movement patterns during flood tide were made by introducing 680 kilograms (1,500 lbs.) of fluorescent tracer sand in three colors into the surf zone on the updrift beach and on the offshore bar. The sediment movement indicated the existence of bar bypassing (which was the dominant bypassing mechanism) and tidal flow bypassing. The bypassing mechanism of the inlet was found to agree with other atlantic coast inlets. When used in conjuction with an analysis of bedform and tracer sand data the numerical simulation model was found to be a valid method for monitoring the high energy inlet environment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3147</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.97</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 97</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3147/2811</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

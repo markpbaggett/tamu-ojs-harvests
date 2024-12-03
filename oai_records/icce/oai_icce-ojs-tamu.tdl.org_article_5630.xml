@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5630</identifier>
+				<datestamp>2021-01-19T11:17:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GREEN-FUNCTION ANALYSIS OF A WAVE FIELD OVER ARBITRARY BATHYMETRY</dc:title>
+	<dc:creator xml:lang="en">Nishimura, Hitoshi</dc:creator>
+	<dc:creator xml:lang="en">Kwak, Moon-Su</dc:creator>
+	<dc:subject xml:lang="en">bathymetry</dc:subject>
+	<dc:subject xml:lang="en">Green-function</dc:subject>
+	<dc:subject xml:lang="en">wave field</dc:subject>
+	<dc:description xml:lang="en">A parabolic approximation of the mild slope equation was derived in terms of polar coordinates to describe waves diverging from a point source. Numerical solutions of the equation were used to extend the application of Green-function method to a wave field over arbitrary bathymetry. Validity of the equation obtained and usefulness of the numerical model were demon-strated through trial computations of wave diffraction, refraction and multiple reflection in model basins and in an actual harbor.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5630</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>en</dc:language>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

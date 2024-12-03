@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1549</identifier>
+				<datestamp>2021-01-17T07:13:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE SOLITARY WAVE: ITS CELERITY, PROFILE, INTERNAL VELOCITIES AND AMPLITUDE ATTENUATION IN A HORIZONTAL SMOOTH CHANNEL</dc:title>
+	<dc:creator xml:lang="en">Daily, James W.</dc:creator>
+	<dc:creator xml:lang="en">Stephan, Jr., Samuel C.</dc:creator>
+	<dc:subject xml:lang="en">wave mechanics</dc:subject>
+	<dc:subject xml:lang="en">solitary waves</dc:subject>
+	<dc:subject xml:lang="en">wave attenuation</dc:subject>
+	<dc:description xml:lang="en">The solitary wave consists of a single elevation of water above the originally undisturbed level as shown in Figure 1. It is translatory, a passing wave causing a definite net horizontal displacement of the liquid. While the characteristics of oscillatory waves depend on wave length as well as wave height and water depth, the solitary wave is apparently described completely by the wave height and water depth so long as attenuation due to friction is unimportant.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1952-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1549</dc:identifier>
+	<dc:identifier>10.9753/icce.v3.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 3 (1952): Proceedings of Third Conference on Coastal Engineering, Cambridge, Massachusetts, 1952.; 2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1549/829</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

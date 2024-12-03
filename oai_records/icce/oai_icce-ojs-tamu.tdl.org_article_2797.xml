@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2797</identifier>
+				<datestamp>2021-01-20T03:29:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUSPENDED SEDIMENT AND LONGSHORE SEDIMENT TRANSPORT DATA REVIEW</dc:title>
+	<dc:creator xml:lang="en">Das, M.M.</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:description xml:lang="en">A review of laboratory and field studies on suspended sediment under waves shows that although about five analytical or semi-empirical approaches have been attempted to predict the vertical distribution of suspended sediment, none of the approaches has had its general validity proven. This is mainly due to the lack of knowledge about the characteristics of turbulence of the wave boundary layer and to the lack of a suitable suspended sediment measuring technique for use in waves. Six different suspended sediment measuring techniques have been used in the studies previewed. Although none of them gives completely reliable laboratory or field measurements, an optical system appears to show promise in obtaining information on the mechanics of suspension under waves. The reanalysis of longshore sediment transport data and tests of the relationships Q = A..E , Q = A,,E , and I = A,,E , where Q is volume transport rate in cubic yards per day, E is longshore component of wave energy flux in lbs per day per foot of beach and I is immersed weight transport rate in lbs per day, for different subsets of data and using the method of least squares, showed that a single set of A-, A,, and B does not fit all subsets of data with minimum average percentage deviation of observed values from those predictable by the relationships. The subset of data consisting of all but the observations with light weight sediments can be described by the line of fit, Q =1.93 X 10-4E , with the observed data differing from the predicted ones by 74 percent on the average.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2797</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2797/2461</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

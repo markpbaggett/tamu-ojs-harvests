@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6588</identifier>
+				<datestamp>2023-10-04T03:15:23Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENTS OF SURFACE KINEMATICS AND TEMPERATURE IN THE SURF AND SWASH ZONES USING INFRARED IMAGE VELOCIMETRY</dc:title>
+	<dc:creator xml:lang="en">Huang, Zhi-Cheng</dc:creator>
+	<dc:creator xml:lang="en">Hwang, Kao-Shu</dc:creator>
+	<dc:creator xml:lang="en">Lenain, Luc</dc:creator>
+	<dc:creator xml:lang="en">Melville, W. Kendall</dc:creator>
+	<dc:creator xml:lang="en">Hwung, Hwung-Hwang</dc:creator>
+	<dc:subject xml:lang="en">Solitary wave</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">infrared</dc:subject>
+	<dc:description xml:lang="en">High intensity air bubbles generated in the surf zone and the thinning of swash flow make velocity measurements particularly challenging in coastal areas.  These facts have led the need for a new measurement technique to quantify the surf and swash flow dynamics.  Here, we tested infrared image techniques to measure the surface temperature and then to derive the velocity fields using cross-correlation algorithm for large-scale solitary waves breaking in the surf and swash zones.  From the comparison with unspiked electromagnetic current meter (EMCM) data and previous validation, it is suggested that the infrared image velocimetry (IRIV) is satisfactory to quantify the surface turbulent flow in the surf and swash zones.  The data obtained in the experiment provides a new description of surface thermal structure and kinematics for solitary breaking waves.  Two-dimensional organized streaks of temperature structures are evident on the water surface behind the head of rebounding jet.  Wavenumber spectrum analysis shows that the directionality of these thermal signatures evolves with time.  Evolution of vorticity on the water surface during the run-up and run-down process of the solitary broken wave is discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6588</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6588/pdf_581</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

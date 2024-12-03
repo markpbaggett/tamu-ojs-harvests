@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8094</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ROUGHNESS FACTOR IN OVERTOPPING ESTIMATION</dc:title>
+	<dc:creator xml:lang="en">MEDINA, JOSEP RAMON</dc:creator>
+	<dc:creator xml:lang="en">MOLINES, JORGE</dc:creator>
+	<dc:subject xml:lang="en">mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">roughness factor</dc:subject>
+	<dc:subject xml:lang="en">armor unit</dc:subject>
+	<dc:description xml:lang="en">The roughness factor (Î³f) is a key variable to estimate wave overtopping discharge on mound breakwaters. In this study, the Î³f is re-calibrated using a dataset extracted from the CLASH database. Compared to previous roughness factors calibrated using less restrictive data, overtopping estimators with a few explanatory variables showed variations up to 15% in the 50% percentile of Î³f. On the contrary, the CLASH neural network overtopping predictor showed insignificant variations in the roughness factor, since it is less sensitive to the variability in the data used for calibration. The confidence interval width of the CLASH neural network was narrow compared to simple explicit overtopping estimators, given that it is less sensitive to the number of data used for calibration. The Î³f values used to estimate wave overtopping discharge should be carefully calibrated, especially when using simple empirical formulas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8094</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8094/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

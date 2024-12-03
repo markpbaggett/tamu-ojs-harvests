@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6652</identifier>
+				<datestamp>2023-10-04T03:38:43Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATIONS OF BREAKING SOLITARY WAVES</dc:title>
+	<dc:creator xml:lang="en">Lubin, Pierre</dc:creator>
+	<dc:creator xml:lang="en">Glockner, Stéphane</dc:creator>
+	<dc:subject xml:lang="en">Navier-Stokes</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:subject xml:lang="en">solitary wave</dc:subject>
+	<dc:subject xml:lang="en">two-phase flow</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">air entrainment</dc:subject>
+	<dc:description xml:lang="en">This paper presents the application of a parallel numerical code to breaking solitary waves impacting a seawall structure. The three-dimensional Navier-Stokes equations are solved in air and water, coupled with a subgrid-scale model to take turbulence into account. We compared three numerical methods for the free-surface description, using the classical VOF-PLIC and VOF-TVD methods, and an original VOF-SM method recently developed in our numerical tool (Vincent et al., 2010). Some experimental data for solitary waves impinging and overtopping coastal structures are available in literature (Hsiao et al., 2010). Solitary waves are often used to model tsunami behaviors because of their hydrodynamic similarities. From a numerical point of view, it allows shorter CPU time simulations, as only one wave breaks. Here we apply the model to simulate three-dimensional solitary waves and compare qualitatively our results with the experimental data. We investigate three configurations of solitary waves impinging and overtopping an impermeable seawall on a 1:20 sloping beach.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-09-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6652</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6652/pdf_440</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2871</identifier>
+				<datestamp>2021-01-20T03:03:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL MODEL FOR THE HYDROMECHANICS OP LAGOONS</dc:title>
+	<dc:creator xml:lang="en">van de Kreeke, J.</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">hydromechanics</dc:subject>
+	<dc:subject xml:lang="en">lagoon</dc:subject>
+	<dc:description xml:lang="en">A numerical model is presented to describe the hydromechanics of lagoons connected to the ocean by relatively narrow inlets. Because special attention is given to the flushing, all second order terms in the hydrodynamic equations are retained. The study is restricted to lagoons with a onedimensional flow pattern and water of uniform density. In designing a numerical solution to the equations, the inlet equations are regarded as implicit boundary conditions to the equations describing the flow in the lagoon proper. The advantages of this approach are: (1) the size of the computational grid in the lagoon can be chosen independently of the relatively small dimensions of the inlets and (2) the flow at branching inlets (an inlet connecting a lagoon to the ocean such that branching of the inlet flow can occur) still can be described by a one-dimensional tidal model. The predictive capability of the numerical model is confirmed by favorable comparison between measured and computed particle paths and net transport for a series of laboratory experiments. In the experiments a canal of uniform width and depth is freely connected to a tidal basin at one end and at the other end is connected to the same basin by a submerged weir.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2871</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.124</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 124</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2871/2535</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

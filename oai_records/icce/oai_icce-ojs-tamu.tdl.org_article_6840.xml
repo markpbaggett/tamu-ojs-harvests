@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6840</identifier>
+				<datestamp>2023-10-04T02:31:53Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL STUDY ON LONG-WAVE GENERATION DUE TO ATMOSPHERIC-PRESSURE VARIATION</dc:title>
+	<dc:creator xml:lang="en">Kakinuma, Taro</dc:creator>
+	<dc:creator xml:lang="en">Fukita, Kosuke</dc:creator>
+	<dc:subject xml:lang="en">long wave</dc:subject>
+	<dc:subject xml:lang="en">atmospheric pressure</dc:subject>
+	<dc:subject xml:lang="en">harbor oscillation</dc:subject>
+	<dc:subject xml:lang="en">seiche</dc:subject>
+	<dc:subject xml:lang="en">East China Sea</dc:subject>
+	<dc:description xml:lang="en">The generation and propagation of long waves due to atmospheric-pressure variation have been numerically simulated, where the atmospheric-pressure waves are assumed to travel in the eastern direction over East Chine Sea. The wave height of long waves is larger as the moving velocity of the recovery point of water surface pressed by the atmospheric pressure is close to the long-wave celerity. Before attenuation of the harbor oscillation in Urauchi Bay, Kamikoshiki Island, the incidence of long waves can continue because of the oscillation system generated between the main island of Kyushu and Okinawa Trough. The pressure profiles of atmospheric-pressure waves supposed to have concerned the large harbor oscillation in Urauchi Bay from 2009 to 2010 are classified into four patterns based on the Grid Point Value pressure data. The incident long waves causing the largest harbor oscillation in Urauchi Bay on Feb. 25, 2009 has been simulated with the estimated pressure-profile pattern, such that the largest harbor oscillation in Urauchi Bay should occur due to the atmospheric-pressure waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6840</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6840/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1310</identifier>
+				<datestamp>2023-10-04T03:52:11Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHORELINE SAND WAVES AND BEACH NOURISHMENTS</dc:title>
+	<dc:creator xml:lang="en">van den Berg, N.</dc:creator>
+	<dc:creator xml:lang="en">Falqués, A.</dc:creator>
+	<dc:creator xml:lang="en">Ribas, F.</dc:creator>
+	<dc:subject xml:lang="en">alongshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">beach morphology</dc:subject>
+	<dc:subject xml:lang="en">beach nourishment</dc:subject>
+	<dc:subject xml:lang="en">coastline instability</dc:subject>
+	<dc:subject xml:lang="en">high angle waves</dc:subject>
+	<dc:subject xml:lang="en">shoreline sand waves</dc:subject>
+	<dc:description xml:lang="en">The effects of the feedback between the changing coastal morphology and the wavefield on the generation and propagation of large scale (O(1-10 km)) shoreline sand waves is examined with a quasi-2D morphodynamic model. Traditional shoreline change models do not include this feedback and are only able to describe diffusion of shoreline sand waves and furthermore they are unable to describe migration. It is found with the present model that if there is a dominant littoral drift, the feedback causes downdrift migration of coastline features no matter if they grow or decay. Consistently with previous studies, simulations show that a rectilinear coastline becomes unstable and sand waves tend to grow spontaneously from random perturbations, if the wave incidence angle is larger then about 42o (Î¸c) at the depth of closure (high angle wave instability). The initial wavelengths at which the sand waves develop are 2-3 km and this is similar to previous linear stability analysis. The implications of high angle wave instability for beach nourishments are investigated. The nourished shoreline retreats initially due to cross-shore transport because the nourished profile is steeper than the equilibrium profile. When a dominant littoral drift is present, the nourishment also migrates downdrift. If the wave angle at the depth of closure is below Î¸c  the alongshore transport contributes to the diffusion of the nourishment. However, if the angle is above Î¸c  (constant high angle wave conditions) the diffusion is reversed and the nourishment can trigger the formation of a shoreline sand wave train. Numerical experiments changing the proportion of 'high angle waves' and 'low angle waves' in the wave climate show that relatively small proportions of low angle waves slow down the growth of sand waves. These simulations with more realistic wave climates show shoreline sand waves that migrate downdrift maintaining more or less the same amplitude for years.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1310</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.102</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.102</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1310/pdf_316</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

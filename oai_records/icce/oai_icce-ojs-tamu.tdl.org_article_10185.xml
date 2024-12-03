@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10185</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING RAPID BEACH CHANGE SURROUNDING A COASTAL STRUCTURE IN OBLIQUE WAVES</dc:title>
+	<dc:creator xml:lang="en">Lopez-Ramade, Eduardo</dc:creator>
+	<dc:creator xml:lang="en">Mulligan, Ryan P.</dc:creator>
+	<dc:creator xml:lang="en">Medellin, Gabriela</dc:creator>
+	<dc:creator xml:lang="en">Torres-Freyermuth, Alec</dc:creator>
+	<dc:description xml:lang="en">Sandy beaches are typically in equilibrium with the wave climate, and changes occur when the system is perturbed. However, changes to nearshore morphology can occur when coastal structures are built and the system adjusts to a new equilibrium. An example of this is the construction of a shore-perpendicular groin that is designed to trap sediment . We investigate the capability of Delft3D model to simulate wave transformation, nearshore circulation and morphology change around a structure, driven by relatively small breaking waves at a very high incident angle.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/q_rnSiaP7WM</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10185</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10185/9471</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Eduardo Lopez-Ramade, Ryan P. Mulligan, Gabriela Medellin, Alec Torres-Freyermuth</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

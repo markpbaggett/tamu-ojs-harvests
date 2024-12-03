@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8576</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF DYNAMIC AND QUASI-STATIC IMPACTS ON VERTICAL SEA WALLS CAUSED BY AN OVERTOPPED BORE</dc:title>
+	<dc:creator xml:lang="en">Streicher, Maximilian</dc:creator>
+	<dc:creator xml:lang="en">Kortenhaus, Andreas</dc:creator>
+	<dc:creator xml:lang="en">Gruwez, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Hofland, Bas</dc:creator>
+	<dc:creator xml:lang="en">Chen, Xuexue</dc:creator>
+	<dc:creator xml:lang="en">Hughes, Steven A.</dc:creator>
+	<dc:creator xml:lang="en">Hirt, Matthias</dc:creator>
+	<dc:description xml:lang="en">This study comprises a detailed description of the individual overtopped bore impact processes against a vertical wall, situated on top of a dike. A twin peak force impact signal shape was observed with two distinct peaks during every impact. The two peaks were assigned consecutively to the dynamic components (thickness and velocity) or hydrostatic components (run-up of water at the wall) of the impacting bore. The two peaks were termed dynamic F1 and quasi-static F2 impact respectively. Based on available literature semi-empirical equations to describe either the dynamic F1 or quasi-static F2 impact force were investigated and the prediction accuracy evaluated using impact force data from large-scale experiments. The prediction accuracy of the dynamic F1 impacts was very low. The prediction accuracy of the quasi-static impact F2 was increased based on fitting the hydrostatic theory to the maximum run-up measurement at the wall. Based on these findings 80% of the maximum run-up height was effectively contributing to the maximum quasi-static force F2 on the wall. The results coincided well with previous small-scale studies (Chen et al. 2012). After deconstructing the process chain preceding an impact, using the physically most meaningful parameters to predict the impact force, evaluating on a range of existing approaches, and observing the scattered prediction results, it was concluded that the impact behavior is highly stochastic and statistical analysis would be more beneficial.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8576</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8576/7380</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8576/7988</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

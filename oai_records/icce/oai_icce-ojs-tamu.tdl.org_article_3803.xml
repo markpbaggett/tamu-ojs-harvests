@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3803</identifier>
+				<datestamp>2021-01-19T21:40:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IRREGULAR WAVE OVERTOPPING RATES</dc:title>
+	<dc:creator xml:lang="en">Douglass, Scott L.</dc:creator>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">overtopping rate</dc:subject>
+	<dc:description xml:lang="en">Methods for estimating wave overtopping of coastal structures are reviewed and compared with the very limited available data and with each other. The different methods yield results which can vary more than an order-of-magnitude. For vertical seawalls, the U. S. Army Engineer Shore Protection Manual method estimates more overtopping than Goda's method except in very shallow water. For sloped structures, the Shore Protection Manual method usually estimates less overtopping than Battjes' method and Owen's method. However, data for adequately evaluating how well these methods predict overtopping has not been published.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3803</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3803/3486</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

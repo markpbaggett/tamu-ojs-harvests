@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7482</identifier>
+				<datestamp>2021-01-19T04:37:21Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SANDT-PRO: SEDIMENT TRANSPORT MEASUREMENTS UNDER IRREGULAR AND BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Ribberink, Jan S</dc:creator>
+	<dc:creator xml:lang="en">van der A, Dominic A</dc:creator>
+	<dc:creator xml:lang="en">van der Zanden, Joep</dc:creator>
+	<dc:creator xml:lang="en">O'Donoghue, Tom</dc:creator>
+	<dc:creator xml:lang="en">Hurther, David</dc:creator>
+	<dc:creator xml:lang="en">Cáceres, Iván</dc:creator>
+	<dc:creator xml:lang="en">Thorne, Peter D</dc:creator>
+	<dc:subject xml:lang="en">sediment dynamics</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">irregular waves</dc:subject>
+	<dc:subject xml:lang="en">wave flume experiments</dc:subject>
+	<dc:subject xml:lang="en">sheet flow</dc:subject>
+	<dc:description xml:lang="en">First results are presented of a measurement campaign done in the large-scale Barcelona CIEM wave flume from October 2013 to January 2014. The aim of the experiments was to improve our understanding of sediment transport processes in the near-shore region. In particular, we focused on the effects of (1) wave breaking and (2) wave irregularity on net sediment transport rates and sediment transport processes. High-resolution measurements were obtained using advanced instrumentation, deployed from a custom-built measuring frame that could be horizontally and vertically positioned. These instruments provide detailed insights in the vertical distributions of sediment fluxes. Preliminary results from the breaking-wave experiments show an onshore transport of sediment prior to breaking, likely to be dominated by wave-nonlinearity effects, and an offshore sediment flux shoreward of breaking, where the sediment fluxes are undertow-dominated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7482</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7482/pdf_772</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7482/7732</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

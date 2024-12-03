@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6765</identifier>
+				<datestamp>2023-10-04T02:56:18Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A METHOD TO CALCULATE PRESSURE PEAKS BASED ON FREE SURFACE SHAPE: PRELIMINARY RESULTS</dc:title>
+	<dc:creator xml:lang="en">Mokrani, Cyril</dc:creator>
+	<dc:creator xml:lang="en">Abadie, Stephane</dc:creator>
+	<dc:subject xml:lang="en">vertical break-water</dc:subject>
+	<dc:subject xml:lang="en">pressure peak</dc:subject>
+	<dc:subject xml:lang="en">breaking wave</dc:subject>
+	<dc:subject xml:lang="en">wedge</dc:subject>
+	<dc:subject xml:lang="en">impact</dc:subject>
+	<dc:description xml:lang="en">Impulsive loads are difficult to predict due to the extremely non linear response to incident wave conditions. This behavior is related to air dynamics and local wave shape. The present study focuses on the latter.We propose a new method to predict pressure peaks generated during breaking wave impacts. In this method, the plunging jet is assimilated to two equivalent triangular jets (wedge impact) with variable inclination in time. The basic case of wedge impact is first studied in the paper. Semi empirical laws relating pressure peak and incident angle are derived based on numerical results obtained with a Navier-Stokes model . The more general case of a breaking wave is then investigated. By making an analogy with the wedge impact case and inverting the relation obtained before, we computed the location where the equivalent angles have to be taken on the free surface. We show that these points correspond to the minimum curvature section on the free surface. In another simulation of a breaking wave, we finally show how the relation can be applied to give a first approximation of the pressure peak only based on the free surface local shape.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6765</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6765/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

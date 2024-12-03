@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2186</identifier>
+				<datestamp>2021-01-17T06:07:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DETERMINATION DES DENIVELLATIONS ET DES COURANTS DE MAREE</dc:title>
+	<dc:creator xml:lang="en">Gohin, Par F.</dc:creator>
+	<dc:description xml:lang="en">Les premiers resultats positifs obtenus dans la prevision des amplitudes de la maree dans les ports datent de plusieurs siecles ; depuis fort longtemps les courants de maree dans les mers coheres sont famihers aux navigateurs. Rappelons simplement qu'encore de nos jours, la prevision des marnages (difference de niveau entre pleine et basse raer) et des phases (decalages de la plelne mer par rapport au passage de la lune au mendien) s'appuie sur 1'analyse harmomque des enregistrements de maregraphes. Cette analyse differe de celle de FDURIER: les penodes des differentes composantes ne sont pas des sous-multiples entiers d'une meme penode elementaire, mais ont des valeurs connues avec toute la precision desiree. La composante principale, dans nos regions europeennes du moms, represente la maree qui serait due a une lune fictive tournant a distance constante de la terre et a Vitesse constante dans le plan de l'equateur (maree dite M2). Depuis la fin du siecle dernier des recherches tres nombreuses ont ete faites parmi lesquelles ll faut citer celles de POINCARE (methode theonque de determination des amplitudes et courants), HARRIS (trace des hgnes cotidales - c'est-d-dire equiphases - de la maree M2), HANSEN (determination des denivellations et courants en Mer du Nord), DOODSON (determination des hgnes cotidales et equiamphtudes dans les mers bordant la
+GRANDE RRET/1GNE).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2186</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2186/1880</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

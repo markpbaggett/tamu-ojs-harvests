@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4715</identifier>
+				<datestamp>2021-01-19T16:25:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OSCILLATING WATER COLUMN MODELLING</dc:title>
+	<dc:creator xml:lang="en">Morrison, Iain G.</dc:creator>
+	<dc:creator xml:lang="en">Greated, Clive A.</dc:creator>
+	<dc:subject xml:lang="en">oscillating water column</dc:subject>
+	<dc:subject xml:lang="en">oscillating water column model</dc:subject>
+	<dc:description xml:lang="en">The development of a mathematical model to calculate the response of a simple oscillating water column wave energy device (OWC) to a known wave climate is described. The power available from the device is calculated and this is compared with results from model tests in a wave flume. Particle Image Velocimetry (PIV) has been used to map the flow of water within the chamber of the device and vorticity maps have been calculated. The estimation of energy loss in vortices due to viscous dissipation is discussed in detail and is shown to account for as much as 8% of the total energy of an incident wave.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4715</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4715/4396</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

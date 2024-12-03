@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6637</identifier>
+				<datestamp>2023-10-04T03:09:14Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASYMMETRY AND SKEWNESS IN THE BOTTOM BOUNDARY LAYER : SMALL SCALE EXPERIMENTS AND NUMERICAL MODEL</dc:title>
+	<dc:creator xml:lang="en">Berni, Céline</dc:creator>
+	<dc:creator xml:lang="en">Suarez, Leandro</dc:creator>
+	<dc:creator xml:lang="en">Michallet, Hervé</dc:creator>
+	<dc:creator xml:lang="en">Barthélemy, Eric</dc:creator>
+	<dc:subject xml:lang="en">non linearities</dc:subject>
+	<dc:subject xml:lang="en">transformation</dc:subject>
+	<dc:subject xml:lang="en">k-Ï‰ model</dc:subject>
+	<dc:subject xml:lang="en">mobile bed</dc:subject>
+	<dc:description xml:lang="en">This study investigates the non-linearities of wave boundary layers in the surf zone. It mainly focuses on the acceleration skewness or asymmetry. Experiments [e.g. Grasso et al., 2011] show that asymmetry influences the sediment transport. Its influence lies in the fact that asymmetry in velocity (acceleration skewness) tends to transform into velocity skewness within the boundary layer. Analysis by Henderson et al. [2004] predicts a linear relation between Skb/Skâˆž and Asâˆž/Skâˆž where Skb is the dimensionless skewness near the bed, Skâˆž the free-stream dimensionless skewness and Asâˆž the free-stream dimensionless asymmetry. Numerous experiments were carried out in the LEGI wave flume over a mobile bed composed of lightweight sediments. The quasi-random forcing is a repetition of 2 concatenated bichromatic wave packets. Vertical profiles of velocity are measured in the surf zone. A clear linear relation is shown between these two ratios. The experimental results are compared with the numerical results. A linear relation between skewness and asymmetry is also obtained.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6637</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6637/pdf_619</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

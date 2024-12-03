@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12887</identifier>
+				<datestamp>2023-09-01T15:14:06Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE BEHAVIOR OF A TETHERED CYLINDER ARRAY UNDER IRREGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Lorenzo, Matteo</dc:creator>
+	<dc:creator xml:lang="en">Pezzutto, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Lillo, Filippo De</dc:creator>
+	<dc:creator xml:lang="en">Ruol, Piero</dc:creator>
+	<dc:creator xml:lang="en">Bosia, Federico</dc:creator>
+	<dc:creator xml:lang="en">Onorato, Miguel</dc:creator>
+	<dc:description xml:lang="en">An interesting option for coastal wave attenuation can be provided by tethered floating breakwaters (see e.g. Agerton, 1976 and Seymour, 1979). This type of structure can be designed to be effective, while determining a very small impact on the environment (Dai, 2018). In principle, a regular lattice of reversed pendula (i.e. the breakwater) can be seen as an approximation to a mechanical metamaterial with interesting properties related to its periodic structure.  The tethered floating breakwater we are studying has been designed as a finite lattice of submerged inverse pendula. The objective is to determine the efficiency of a regular two-dimensional lattice of spherical pendula. To isolate the one-dimensional behavior, a single array of reversed cylindrical pendula anchored to the bottom and excited by long crested waves has been tested.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12887</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12887/12160</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Matteo Lorenzo, Paolo Pezzutto, Filippo De Lillo, Piero Ruol, Federico Bosia, Miguel Onorato</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

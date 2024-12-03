@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3667</identifier>
+				<datestamp>2021-01-19T22:28:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXAMPLES OF STORM SURGE PREDICTION MODELS</dc:title>
+	<dc:creator xml:lang="en">Lencioni, P.</dc:creator>
+	<dc:creator xml:lang="en">Benque, J.P.</dc:creator>
+	<dc:creator xml:lang="en">Coeffe, Y.</dc:creator>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:subject xml:lang="en">surge prediction</dc:subject>
+	<dc:subject xml:lang="en">surge model</dc:subject>
+	<dc:description xml:lang="en">For a given site, deterministic models may be applied to predict the tide level with a rather good accuracy. However, a difference is observed between the observed and predicted tide level under storm condition. This difference is called storm surge. Two different storm surges prediction models are presented for the site of Le Havre ; an autoregressive model ; a model using wind and pressure local data. The autoregressive model can be used for a prediction 5 hours in advance. The availability of accurate wind and pressure predictions by the Meteorological Service of Le Havre within 36 hours in advance makes the use of the second model of great interest because it provides the possibility of predictions within 39 hours in advance.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3667</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3667/3350</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

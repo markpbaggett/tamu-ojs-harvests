@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1449</identifier>
+				<datestamp>2023-10-04T03:41:09Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GPU-ACCELERATED SPH MODEL FOR WATER WAVES AND FREE SURFACE FLOWS</dc:title>
+	<dc:creator xml:lang="en">Dalrymple, Robert Anthony</dc:creator>
+	<dc:creator xml:lang="en">Herault, Alexis</dc:creator>
+	<dc:creator xml:lang="en">Bilotta, Giuseppe</dc:creator>
+	<dc:creator xml:lang="en">Farahani, Rozita Jalali</dc:creator>
+	<dc:subject xml:lang="en">meshfree methods</dc:subject>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">modeling</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">SPH</dc:subject>
+	<dc:description xml:lang="en">This paper discusses the meshless numerical method Smoothed Particle Hydrodynamics and its application to water waves and nearshore circulation.  In particularly we focus on an implementation of the model on the graphics processing unit (GPU) of computers, which permits low-cost supercomputing capabilities for certain types of computational problems. The implementation here runs on Nvidia graphics cards, from off-the-shelf laptops to the top-of-line Tesla cards for workstations with their current 480 massively parallel streaming processors. Here we apply the model to breaking waves and nearshore circulation, demonstrating that SPH can model changes in wave properties due to shoaling, refraction, and diffraction and wave-current interaction; as well as nonlinear phenomena such as harmonic generation, and, by using wave-period averaged quantities, such aspects of nearshore circulation as wave set-up, longshore currents, rip currents, and nearshore circulation gyres.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1449</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1449/pdf_359</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3034</identifier>
+				<datestamp>2021-01-20T02:04:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HORIZONTAL DIFFUSION IN A TIDAL MODEL</dc:title>
+	<dc:creator xml:lang="en">Higuchi, Haruo</dc:creator>
+	<dc:creator xml:lang="en">Yanagi, Tetsuo</dc:creator>
+	<dc:subject xml:lang="en">diffusion</dc:subject>
+	<dc:subject xml:lang="en">horizontal diffusion</dc:subject>
+	<dc:subject xml:lang="en">tidal model</dc:subject>
+	<dc:description xml:lang="en">The effect of the tidal residual flow on the horizontal diffusion in a shallow tidal bay is investigated through a hydraulic model experiment, for which Mikawa Bay in central Japan was used as a prototype. A hydraulic model of about 20 x 30 m including Mikawa Bay and neighboring sea area, with a horizontal and vertical scale of 1/2000 and 1/160 respectively, was used, and a semi-diurnal tide was provided for it. Experiments nave shown that tide and tidal current are well reproduced in the model. The tidal locus does not close, that means the existence of the residual flow. The distribution of the concentration of the dye, which is discharged from the bay bottom, corresponds to the pattern of the residual flow. The diffusion coefficient in the bay obtained through one dimensional analysis is the order of 10' cm2/sec and that through two dimensional analysis is less by one order and the dispersion coefficient becomes 105 cm2/sec. It is concluded that the dispersion due to the residual flow plays more important role on the distribution of the material in the shallow bay, as Mikawa Bay, than the diffusion due to the tidal current itself.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3034</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.139</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 139</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3034/2699</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4011</identifier>
+				<datestamp>2021-01-19T20:26:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME WAVE PREDICTION USING DIRECTIONAL DATA</dc:title>
+	<dc:creator xml:lang="en">Deo, M.C.</dc:creator>
+	<dc:creator xml:lang="en">Burrows, R.</dc:creator>
+	<dc:subject xml:lang="en">wave prediction</dc:subject>
+	<dc:subject xml:lang="en">extreme waves</dc:subject>
+	<dc:subject xml:lang="en">directional wave</dc:subject>
+	<dc:subject xml:lang="en">directional data</dc:subject>
+	<dc:description xml:lang="en">Potential inconsistencies in the predictions of long term wave heights can be experienced as a result of different methods of analysis possible when using directional wave data. This paper attempts to illustrate some of them. It involves analysis of two sets of directional wave data - one froa a coastal location in the Irish Sea and another from an offshore location in the North Sea. An attempt is made to eliminate the discrepancies between the long term return-value wave height predictions based upon the conditional height distributions associa ted with different direction sectors and those derived from the oonl-directional data set.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4011</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4011/3694</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

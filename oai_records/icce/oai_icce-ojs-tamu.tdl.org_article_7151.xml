@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7151</identifier>
+				<datestamp>2021-01-19T05:12:48Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MICRO PROPERTIES OF THE WAVE CLIMATE STATISTICS AND ITS APPLICATIONS</dc:title>
+	<dc:creator xml:lang="en">Kimura, Akira</dc:creator>
+	<dc:creator xml:lang="en">Ota, Takao</dc:creator>
+	<dc:subject xml:lang="en">Statistics of wave climate</dc:subject>
+	<dc:subject xml:lang="en">Micro properties of the statistics</dc:subject>
+	<dc:subject xml:lang="en">Climate change</dc:subject>
+	<dc:description xml:lang="en">Present authors clarified (ICCE2012) that wave climate data H_(1â,,3) observed in the monsoon district shows an inherent spectral characteristics. The spectrum can be expressed with several constants. Using the spectrum the authors showed a simple Spectrum Modeling Method to simulate the wave climate in the region. The statistical properties of the simulated H_(1â,,3) showed very good agreements with the observed properties of H_(1â,,3). At the beginning in this study, properties between the extreme value statistics and the wave climate statistics are compared. Number of events H_(1â,,3)&gt;H_R is shown in service period of the structure (50 years) in which H_R is the wave height with an R year return period. In the second, micro properties of the wave climates such as the monthly number of event H_(1â,,3)â‰·H_* and their runs are shown in which H_* is the arbitral threshold wave height. These properties can be applied to decide the appropriate start date of construction (repair) works, which minimize a period of interruption due to high waves in the repair period. In the last, changes which take place on the wave climate due to the climate change are explained. Ordinary extreme wave height statistics cannot cope with the unsteady properties of events. The present method is capable of the unsteady situation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7151</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7151/pdf_433</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

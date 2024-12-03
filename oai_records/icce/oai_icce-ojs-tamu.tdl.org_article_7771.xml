@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7771</identifier>
+				<datestamp>2021-01-20T03:37:31Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF THE ECMWF ERA-INTERIM WIND DATA FOR NUMERICAL WAVE HIND-CASTING IN THE CASPIAN SEA</dc:title>
+	<dc:creator xml:lang="en">Jafari, Ebrahim</dc:creator>
+	<dc:creator xml:lang="en">Jandaghi Alaee, Majid</dc:creator>
+	<dc:creator xml:lang="en">Pattiaratchi, Charitha B</dc:creator>
+	<dc:creator xml:lang="en">Nemati, Mohammad Hossein</dc:creator>
+	<dc:creator xml:lang="en">Farhand, Abdulmir</dc:creator>
+	<dc:subject xml:lang="en">Wave prediction</dc:subject>
+	<dc:subject xml:lang="en">SWAN model</dc:subject>
+	<dc:subject xml:lang="en">unstructured mesh</dc:subject>
+	<dc:subject xml:lang="en">ECMWF ERA-Interim Caspian Sea</dc:subject>
+	<dc:description xml:lang="en">One of the most important factors in design of coastal and marine structures is the wind-induced wave characteristics. Hence, an accurate estimation of wave parameters is considerably important. In this paper, SWAN third generation spectral models with unstructured mesh have been used for the prediction of wave parameters in the Caspian Sea. The new reanalysis wind datasets provided by ECMWF which is known as ERA-Interim have been used as wind forcing. Significant wave height (Hs), peak spectral period (Tp) and mean wave direction were hindcasted in the study. The field dataset consist of buoy measurements in two offshore and one nearshore stations has been used for evaluating the performance of the model. In addition, the predicted significant wave height has been compared with satellite observations in some paths. The results show that the simulations follow the wave climate trend quite well. All of the error measures for Hs are in the perfect range for the offshore buoy locations. For nearshore buoy, the model is slightly underestimates wave peaks, but still performed well for the peak spectral period. The comparison of the results with satellite paths also shows that the model can predict wave height accurately in the whole area of the Caspian Sea.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.ms-powerpoint</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7771</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7771/pdf_972</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7771/7773</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

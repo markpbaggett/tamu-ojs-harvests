@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2914</identifier>
+				<datestamp>2021-01-20T02:46:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RANDOM WAVE SIGNAL GENERATION BY MINICOMPUTER</dc:title>
+	<dc:creator xml:lang="en">Funke, Ed. R.</dc:creator>
+	<dc:subject xml:lang="en">minicomputer</dc:subject>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">wave generation</dc:subject>
+	<dc:description xml:lang="en">The computer programmed implementation of a pseudorandom noise generator based on the use of a binary feedback shift register and an associated digital filter is described. Descriptive details are given for the compensation of the filter for the various dynamic transfer functions in the system. The random signal generator has been programmed both for a dedicated computer (NOVA 1200 with 4K core) which can carry up to 50 different spectra in core at any one time and for the EAI 64 0 with 16K core and disc storage which was used to investigate the spectral and statistical properties of the generated wave. JONSWAP spectra with 0.6 and 1.0 Herz centre frequencies were generated and observed at locations from 5 to 40 meters from the wave maker using a hydraulically operated machine in a partial piston and partial hinged flap mode m 0.9 meter of water. Measurements indicate that JONSWAP spectra can be closely matched in the flume. The 1.0 Herz spectrum is less stable as a function of distance, all spectra indicate a significant decrease of the spectral peak as a function of distance from the wave maker and the ratio of ^xaax/^av ls ln general larger than that observed by Wiegel and Kukk.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2914</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2914/2579</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

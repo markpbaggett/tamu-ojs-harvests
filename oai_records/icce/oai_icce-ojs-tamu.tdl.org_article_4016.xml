@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4016</identifier>
+				<datestamp>2021-01-19T20:24:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">KINEMATICS IN THE CRESTS OF STORM WAVES</dc:title>
+	<dc:creator xml:lang="en">Forristall, George Z.</dc:creator>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:subject xml:lang="en">storm waves</dc:subject>
+	<dc:subject xml:lang="en">wave crests</dc:subject>
+	<dc:description xml:lang="en">Uncertainty about kinematics in the crests of high waves has prevented random wave simulation from being accepted as a reliable method for computing wave forces for platform design. A theoretically defensible method of calculation for wave crest kinematics has been developed recently. The method produces a potential function which fits the kinematic boundary condition specified by second order wave theory and is thus named the Kinematic Boundary Condition Fitting (KBCF) method. KBCF agreed well with measurements of mechanically generated irregular waves made by a laser Doppler current meter in a wave tank. In order to obtain further data during high, short crested storm waves, instruments for the Fulmar Wave Crest Kinematics (FULWACK) experiment were installed in the North Sea early in November 1981. During a storm later in that month, good velocity measurements at heights up to 25 feet above mean water level were obtained in over 30 waves. For comparison with this data, KBCF was extended to three dimensions. Statistics of the velocities thus simulated agreed well with statistics of the measurements. KBCF has thus been verified as a accurate method for simulating the kinematics of natural storm waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4016</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4016/3699</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2793</identifier>
+				<datestamp>2021-01-20T03:32:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A GROSS LONGSHORE TRANSPORT RATE FORMULA</dc:title>
+	<dc:creator xml:lang="en">Galvin, Cyril J.</dc:creator>
+	<dc:subject xml:lang="en">longshore transport</dc:subject>
+	<dc:subject xml:lang="en">rate formula</dc:subject>
+	<dc:subject xml:lang="en">transport formula</dc:subject>
+	<dc:description xml:lang="en">Gross longshore transport rates for 11 long-term field measurements are predicted reasonably well by the empirical relation, Q=2H2, where Q is longshore transport rate in 100,000 yd3/yr, and H is a mean breaker height in feet. A physical explanation of this empirical relation assumes: (1) most littoral drift is transported in suspension; (2) longshore current velocity is predicted by V-gmTsin28j,; (3) the empirical relation is an equation for conservation of suspended sediment in the longshore current.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2793</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2793/2457</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

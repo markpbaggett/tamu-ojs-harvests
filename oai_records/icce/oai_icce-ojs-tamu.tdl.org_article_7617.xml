@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7617</identifier>
+				<datestamp>2021-01-20T03:39:55Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTENDED BOUSSINESQ EQUATIONS FOR WAVES IN POROUS MEDIA: DERIVATION OF GOVERNING EQUATIONS AND GENERATION OF WAVES INTERNALLY</dc:title>
+	<dc:creator xml:lang="en">Lee, Changhoon</dc:creator>
+	<dc:creator xml:lang="en">Vu, Nghi Van</dc:creator>
+	<dc:creator xml:lang="en">Jung, Tae-Hwa</dc:creator>
+	<dc:subject xml:lang="en">internal generation of wave</dc:subject>
+	<dc:subject xml:lang="en">source function</dc:subject>
+	<dc:subject xml:lang="en">energy dissipation</dc:subject>
+	<dc:subject xml:lang="en">porous media</dc:subject>
+	<dc:subject xml:lang="en">extended Boussinesq equations</dc:subject>
+	<dc:description xml:lang="en">In this study we develop a new extended Boussinesq model that predicts the propagation of water waves in porous media. The inertial and drag resistances are taken account into the model in which the results are the same with the extended Boussinesq equations of Madsen and Sorensen (1992) when these resistances are removed. The developed model introduces its simplicity in solving the matching conditions at the permeable breakwater interfaces. The whole computational domain can be involved by specifying the porosity equal to unity outside the breakwater and to a value below unity inside the breakwater. There is no need for using any matching conditions at the interface. Furthermore, the applications of this current developed model are also extended to the cases that waves propagate inside and/or over a porous layer. For verification of the developed model, the internal generation of wave technique is applied to simulate sinusoidal and cnoidal waves propagating inside porous media in shallow and deep waters and nonlinear cnoidal waves interacting with porous breakwater. Numerical results give a good agreement with analytical solutions. Transformation of solitary waves to porous breakwater is also carried out. Refraction and transmission of solitary waves to the porous breakwater are well captured and verified by available physical experimental data</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7617</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.57</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.57</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7617/pdf_965</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3270</identifier>
+				<datestamp>2021-01-20T00:39:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEEPWATER DIRECTION FROM AN INTENSITY ARRAY</dc:title>
+	<dc:creator xml:lang="en">Higgins, Alan L.</dc:creator>
+	<dc:creator xml:lang="en">Seymour, Richard J.</dc:creator>
+	<dc:subject xml:lang="en">deep water</dc:subject>
+	<dc:subject xml:lang="en">wave direction</dc:subject>
+	<dc:subject xml:lang="en">intensity array</dc:subject>
+	<dc:description xml:lang="en">Knowledge of the distribution of wave intensity along a shoreline can be used to infer deepwater directional information for non-locally generated waves. Measurement of this energy distribution may be accomplished using a network of widely spaced nearshore wave gages known as an intensity array. Analysis for intensity array data uses the principle that deepwater swell of a given frequency produces varying patterns of nearshore wave intensity, which depend on the unrefracted directional energy distribution for that frequency. Assuming linear wave propagation to the measurement sites, this dependence may be inverted and applies at all frequencies. Energy spectra measured at the intensity array may be used in this manner to estimate the deepwater directional spectrum. In Part II, details of the relationship between deepwater directional spectrum and nearshore energy spectra are discussed. In Part III, intensity array data are applied to detection of waves incident within a narrow directional interval. Part IV describes the application of an intensity array to detection of long period southern swell in San Diego, California. Comments regarding the relative merits of the method follow in Part V.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3270</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3270/2934</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

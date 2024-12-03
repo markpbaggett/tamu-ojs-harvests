@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2258</identifier>
+				<datestamp>2021-01-17T05:51:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE ANALYSIS OF HARBOR AND ESTUARY SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Harder, J.A.</dc:creator>
+	<dc:subject xml:lang="en">estuary system</dc:subject>
+	<dc:subject xml:lang="en">harbor system</dc:subject>
+	<dc:subject xml:lang="en">hydraulic model</dc:subject>
+	<dc:description xml:lang="en">It is one of the paradoxes of our age that hydraulic engineering is concerned with problems that in many ways exceed in difficulty those encountered in the more glamorous fields of science. One measure of this situation is that classical mathematics, which is a powerful tool when applied to simple systems, has proved to be a rather impotent aid m hydraulic calculations, except when the geometry is simple. Harbor and estuary systems are usually associated with complex geometry, and thus we ordinarily cannot depend on mathematics to give general solutions. Instead of solving the hydraulic equations of flow in the complex geometry, we have sought to reconstruct the geometry of the prototype in a reduced scale, by means of models, and by assuming that the equations governing the full-size and reduced-scale systems are the same, to find specific solutions through direct measurements in the latter. Because of scale effects, the hydraulic model is not perfect, but it does reproduce the complex geometry and some of the complexities of three dimensional flows in the prototype. These cannot at present be described mathematically, and where they are important a properly constructed and adjusted hydraulic model is our most powerful tool in the investigation of estuarial problems, and is likely to remain so.
+However, hydraulic models are very expensive, especially if they are built to a reasonably large scale, so it behooves us to be sure that we have not overlooked other, perhaps less powerful, methods when we are confronted with a particular problem. Within the past decade two methods have been developed that will eventually replace hydraulic models for tidal flow and river flood routing investigations. One is based on the use of digital computers to numerically integrate the differential equations of open channel flow; the realization of this method by a digital computer program for a particular system has been called a "mathematical model". The second is based on the use of analog elements that behave with respect to electrical current in the same way as the prototype behaves with respect to flows of water. When an assembly of such elements is adjusted to duplicate the behavior of a hydraulic system in a way similar to the way a hydraulic model is adjusted during its verification period, the result may be called an analog model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2258</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2258/1949</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8180</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN AGENT BASED MODEL FOR LAND USE POLICIES IN COASTAL AREAS</dc:title>
+	<dc:creator xml:lang="en">Nabinejad, Shima</dc:creator>
+	<dc:creator xml:lang="en">Schuttrumpf, Holger</dc:creator>
+	<dc:subject xml:lang="en">Agent Based Modeling</dc:subject>
+	<dc:subject xml:lang="en">land use change</dc:subject>
+	<dc:subject xml:lang="en">coastal regions</dc:subject>
+	<dc:subject xml:lang="en">and human-flood interaction</dc:subject>
+	<dc:description xml:lang="en">Reducing the probability of flooding by flood defence structures might not be successful without appropriate actions taken in order to mitigate flood damages. Moreover, success depends on actions at both governmental and individual levels. Therefore, farmers as the inhabitant of flooding areas may contribute to flood management in terms of land use policies which lead to communication, human interaction, and adaptation.  However, these social behaviors have not taken into account in flood management studies due to their complex nature and human has been only considered as the receptor of flooding without paying attention to multiple feedbacks over time horizons with a dynamic approach. In our study, we overcome this deficiency by employing Agent Based Model (ABM) of land use policy in flood risk management and address challenges regarding social interactions in this research area. Our Agent Based Model includes perspectives from engineering, decision making, and socio-economics allowing to model human-flood interactions. In this model, farmers are considered as individuals whose decisions depend on climatic conditions, crop yields, costs and prices, flood damage, personal risk perception, and their social interactions. This is achieved by integrating three main modules including hydrological module, flood analysis module, and decision making module in the frame of Agent Based Model.  This paper has shed some light on main concepts of our Agent Based Model including the developed methodology, main modules, required information, and initial results. It also summarizes the components of the modules and the governed interactions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8180</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.management.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; management.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8180/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

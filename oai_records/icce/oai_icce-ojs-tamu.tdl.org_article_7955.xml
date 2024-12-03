@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7955</identifier>
+				<datestamp>2021-01-20T03:32:33Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI LOADINGS ON STRUCTURES: REVIEW AND ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Yeh, Harry</dc:creator>
+	<dc:creator xml:lang="en">Barbosa, Andre R.</dc:creator>
+	<dc:creator xml:lang="en">Ko, Harrison</dc:creator>
+	<dc:creator xml:lang="en">Cawley, Jessica G.</dc:creator>
+	<dc:subject xml:lang="en">buoyancy force</dc:subject>
+	<dc:subject xml:lang="en">global structural failures</dc:subject>
+	<dc:subject xml:lang="en">tsunami loadings</dc:subject>
+	<dc:description xml:lang="en">The 2011 Great East Japan Tsunami has altered our traditional concepts for estimating loadings on structures. Prior to this event, we generally understood that reinforced concrete structures - those often used for critical coastal facilities - could withstand tsunami actions. This is no longer the case. Many concrete buildings and coastal protective structures (seawalls, coastal dykes and the like) failed due to the 2011 Tsunami. In this paper, the existing design guidelines are reviewed. We point out that some of the force-estimation methods recommended in the guidelines are rational, while others are not. Then we introduce a methodology to evaluate building's global stability emphasizing the effect of buoyant force. Buoyancy reduces the net structural body force; thereby reducing the restoring forces to resist sliding and overturning failures. Buoyancy force is an upward pressure force under the building, which is caused by an increase of pore-water pressure in the soil by excess water weight on the ground surface; therefore it takes a finite time to build up. We demonstrate that the effect of buoyancy force depends on 1) duration and depth of tsunami inundation, and 2) burial depth of the building. We also note that if and when a building interior is flooded (due to breakaway walls or windows), the flooded water increases the effective body force (weight); hence producing a stabilizing effect. Example calculations are given to demonstrate the importance of the delayed action of buoyancy force and breakaway walls and windows.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7955</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7955/pdf_987</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

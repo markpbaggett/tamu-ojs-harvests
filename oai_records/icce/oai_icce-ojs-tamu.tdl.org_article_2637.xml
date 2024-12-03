@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2637</identifier>
+				<datestamp>2021-01-17T03:57:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LIMITING CONDITION FOR STANDING WAVE THEORIES BY PERTURBATION METHOD</dc:title>
+	<dc:creator xml:lang="en">Tsuchiya, Yoshito</dc:creator>
+	<dc:creator xml:lang="en">Yamaguchi, Masataka</dc:creator>
+	<dc:subject xml:lang="en">limiting condition</dc:subject>
+	<dc:subject xml:lang="en">standing wave</dc:subject>
+	<dc:subject xml:lang="en">perturbation method</dc:subject>
+	<dc:description xml:lang="en">The purpose of this paper is to make clear the validity and limiting condition for the application of the finite amplitude standing wave theories by the perturbation method In a numerical example, the errors of each order solution of these theories for two non-linear free surface conditions are computed for various kinds of wave characteristics and compared with each other Some experiments on the wave pressure on a vertical wall by standing waves were carried out and a plot of the limiting condition for the application of these theories is proposed based on the comparison with theoretical curves In addition, as an example of the application of these theories, the change of characteristics of wave pressure of standing waves accompanying the overtopping wave on a vertical wall is discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2637</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2637/2301</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

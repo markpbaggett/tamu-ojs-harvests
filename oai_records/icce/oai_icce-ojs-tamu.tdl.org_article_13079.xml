@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13079</identifier>
+				<datestamp>2023-09-01T15:15:42Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRO-METEOROLOGICAL ANALYSIS OF EXTREME WEATHER IN INDONESIA USING COUPLED ATMOSPHERIC-HYDROLOGICAL MODEL</dc:title>
+	<dc:creator xml:lang="en">Chrysanti, Asrini</dc:creator>
+	<dc:creator xml:lang="en">Son, Sangyoung</dc:creator>
+	<dc:description xml:lang="en">In recent years, hydro-meteorological hazard in the area involving coastlines has been dominated the disaster occurrence in Indonesia. In the last 10 years, the combination of the extreme weather and the environmental capacity degradation result in more flooding vulnerability. In 11-17 January 2021, heavy flood affected South Kalimantan, Indonesia, with causing many casualties. The flood characteristics was similar with the extreme flood in Jakarta in the preceding year in 2020, and more extreme floods occurred in the following year in 2022. Our goal is to analyze the extreme weather from the hydro-meteorological perspective and identify the key factor behind the high impact flood in South Kalimantan. Two factors, sea surface temperature (SST) and soil moisture (SM) content were highlighted and the sensitivity analysis was performed to identify their influence to the flood response at the time of the event. The coupled atmospheric model of Weather Research and Forecasting (WRF) and the hydrological model extension (WRF-Hydro) will be used to reconstruct the flood event.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13079</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.121</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.121</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13079/12352</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Asrini Chrysanti, Sangyoung Son</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

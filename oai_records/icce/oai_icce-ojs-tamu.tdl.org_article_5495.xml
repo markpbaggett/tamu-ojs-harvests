@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5495</identifier>
+				<datestamp>2021-01-19T12:02:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DESIGN CAPACITY OF A LONGSHORE CURRENT RECIRCULATION SYSTEM FOR A LONGSHORE SEDIMENT TRANSPORT LABORATORY FACILITY</dc:title>
+	<dc:creator xml:lang="en">Hamilton, David G.</dc:creator>
+	<dc:creator xml:lang="en">Rosati, Julie D.</dc:creator>
+	<dc:creator xml:lang="en">Fowler, Jimmy E.</dc:creator>
+	<dc:creator xml:lang="en">Smith, Jane M.</dc:creator>
+	<dc:subject xml:lang="en">design capacity</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">recirculation</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">A new longshore sediment transport laboratory facility for conducting three-dimensional moveable-bed experiments is being developed by the U.S. Army Engineer Waterways Experiment Station, Coastal and Hydraulics Laboratory. This paper focuses on the problem of designing the pumping capacity for an external longshore current recirculation system, designed to minimize adverse laboratory effects created by the updrift and downdrift lateral boundaries of the new facility. A review of longshore current recirculation systems used in other laboratory facilities is presented. The numerical model NMLONG is used to predict the magnitude and cross-shore distribution of the wave-driven longshore current that will be generated during experiments in the new facility. This paper concludes with a performance curve that defines the required pumping capacity of each of the individual pumps in the longshore current recirculation system.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5495</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5495/5170</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

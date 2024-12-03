@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6832</identifier>
+				<datestamp>2023-10-04T02:32:48Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF THE RELATIONSHIPS BETWEEN NAVIGATION CHANNEL DREDGING AND EROSION OF ADJACENT BEACHES IN SOUTHERN BRAZIL</dc:title>
+	<dc:creator xml:lang="en">Silveira, Lucas Ferreira da</dc:creator>
+	<dc:creator xml:lang="en">Benedet, Lindino</dc:creator>
+	<dc:creator xml:lang="en">Signorin, Morjana</dc:creator>
+	<dc:creator xml:lang="en">Bonanata, Rafael</dc:creator>
+	<dc:subject xml:lang="en">downdrift erosion</dc:subject>
+	<dc:subject xml:lang="en">sediment disposal</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:description xml:lang="en">São Francisco do Sul Harbor, located in the Babitonga Bay, Santa Catarina, is one of the main containership harbors in Brazil and has been in operation since 1955. Due to the increasing demand for ships with greater size and draught, the navigation channel was dredged to 10 m depth in 1980 and has been gradually deepened to 13 m in recent years to accommodate Post-Panamax vessels. During the 30 years of dredging operations, more than 10 million m³ of sediments were removed from the coastal system and dumped into an offshore disposal area (about 15 m water depth), whilst the downdrift beach has experienced severe erosion. The downdrift municipality, Itapoá, recently filed a lawsuit against the Port claiming that harbor dredging has caused much of the erosion observed on its beaches. In order to evaluate the downdrift effects of dredging and maintaining the deep draft navigation channel across the ebb shoal of Babitonga Bay, the Delft3D model was used. The model was calibrated and validated with field data (water level and currents, waves and morphological changes). To evaluate channel impacts on adjacent beaches, 10 years morphology change simulations were conducted for pre-dredging scenario and scenarios of the navigation channel dredged at 10 m and 13 m depth, using the dredge and dump tool in Delft3D to maintain the deep draft channel along the simulation. A conceptual model of the sedimentary dynamics of the area was developed utilizing results from numerical modeling and field observations. It was observed in the results that dredging and maintaining the deep draft navigation channel over the last few decades have reduced the amount of sediment bypass by about 13 %. Channel dredging has therefore contributed to the erosion of the adjacent beaches, however other man-made interventions on this coastal system that contributed to the erosion problem were also identified (bay closure and tidal prism changes as well as jetties and other structures built updrift). Thus, it cannot be inferred that all the erosion of the downdrift beaches is due to the dredging activities. To mitigate for erosion effects of channel dredging, beneficial sediment disposal strategies were investigated. Strategies evaluated included beach disposal and ebb-shoal disposal of dredged materials. Beach disposal was the alternative that produced direct benefits to the downdrift beach while ebb-shoal disposal produced benefits that were not directly detected on the beach during the time frame evaluated here. Due to benefit-cost considerations, beach disposal was recommended for maintenance operations where dredging volume is greater than 400.000 m³ (about 50 % of the dredging maintenance operations exceed this threshold). For smaller maintenance dredging events, ebb shoal disposal was recommended. This work is the first of this nature in Brazil driven by legal disputes between downdrift beaches and Port authority and sets the precedent for future beneficial use of dredging materials along the Brazilian coast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6832</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.106</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.106</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6832/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

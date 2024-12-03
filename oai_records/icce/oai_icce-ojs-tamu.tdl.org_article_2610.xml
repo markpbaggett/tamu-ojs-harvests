@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2610</identifier>
+				<datestamp>2021-01-17T04:06:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE ANALYSIS OF WAVE RECORDS</dc:title>
+	<dc:creator xml:lang="en">Harris, D. Lee</dc:creator>
+	<dc:subject xml:lang="en">wave records</dc:subject>
+	<dc:subject xml:lang="en">wave analysis</dc:subject>
+	<dc:description xml:lang="en">Data obtained from two surface profile wave gages and two pressure wave gages at the Steel Pier in Atlantic City, New Jersey, are used to check the consistency of the analysis variables obtained from a given set of records by several commonly used analysis procedures All estimates of the characteristic height tested are found to be correlated better than 86 The estimates of characteristic period are not so satisfactory and in some cases are below 25 Consideration of several proposed definitions of the characteristic period indicates that they are based more on convenience in data processing than on application of the derived data Consideration of the use of wave data in engineering design shows that no one definition of the period can be satisfactory for all applications The best definition of the characteristic wave period for a given engineering problem can be specified only when the dynamic aspects of the problem have been identified.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2610</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2610/2275</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

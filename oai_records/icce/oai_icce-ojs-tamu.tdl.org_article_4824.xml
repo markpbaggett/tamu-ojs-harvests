@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4824</identifier>
+				<datestamp>2021-01-19T15:48:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OBSERVATIONS OF GRANULAR-FLUID MIXTURE UNDER AN OSCILLATORY SHEET FLOW</dc:title>
+	<dc:creator xml:lang="en">Asano, Toshiyuki</dc:creator>
+	<dc:subject xml:lang="en">sheetflow</dc:subject>
+	<dc:subject xml:lang="en">oscillatory flow</dc:subject>
+	<dc:subject xml:lang="en">granular-fluid mixture</dc:subject>
+	<dc:description xml:lang="en">Sediment transport due to wave action has been classified into three modes; bed load over a practically flat bed under small tractive force, suspended load over a rippled bed under moderate shear stress, and sheet flow under high shear stress where ripples are washed out. Studies of the sheet flow have recently received much attention because a large amount of sand is transported under this mode. However, sheet flow is a grain-fluid mixture flow of high concentration, thus the mechanism is more complex than that of the other two modes. In the sheet flow region where several layers of grains are mobilized, grain to grain collision performs a main role in the momentum exchange. The relationship between the applied stress and the bulk deformation is not a Newtonian, and depends on the grain concentration and the rate of deformation. Hanes - Bowen(1985) have proposed a granular - fluid model to describe intense bed - load transport in an uni-directional flow. In their model, the flow is divided into two regions; grain collision dominated granular fluid region, and fluid stress dominated fluid shear region. They have derived a relation mathematically between the grain transport rate and applied shear stress. Shibata - Mei(1986) have proposed another granular - fluid model in socalled macro viscous region where the shear rate is low and granular friction is as important as granular collision. Mathematical expressions to describe velocity profiles and granular discharge have been deduced. These studies provide physical insight into the mechanism of sheet flow, however, the results are not able to be applied directly because the oscillatory sheet flow is a dynamic process under an unsteady flow.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4824</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4824/4505</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

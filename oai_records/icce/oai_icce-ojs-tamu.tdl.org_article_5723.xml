@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5723</identifier>
+				<datestamp>2021-01-19T10:47:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DIGITAL IMAGING PROCESSING TECHNIQUES FOR THE AERIAL FIELD MONITORING OF HARBOUR BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Hough, Gavin</dc:creator>
+	<dc:creator xml:lang="en">Phelp, David</dc:creator>
+	<dc:subject xml:lang="en">digital imaging</dc:subject>
+	<dc:subject xml:lang="en">aerial monitoring</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:description xml:lang="en">The entrances to the six largest ports in South Africa are protected by rubble mound breakwaters, which have Dolos armouring. PORTNET, the national Port Authority, have commissioned the CSIR to conduct detailed monitoring of existing rubble mound breakwaters including records of the wave conditions to which they are subjected in service. This paper presents the image processing techniques used to monitor breakwater damage as well as the wave field causing the damage. Wider applications of these techniques have been commissioned during pipeline outfall construction as well as during the design &amp; modelling stage of a proposed new harbour. The image processing techniques have been used to measure both breakwater settling and damage as well as moored ship motion for competing breakwater designs constructed as in scale models, of proposed harbours at the CSIR's physical modelling facilities in Stellenbosch.. The image processing techniques developed by TECHTRIX International are reported here.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5723</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5723/5393</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

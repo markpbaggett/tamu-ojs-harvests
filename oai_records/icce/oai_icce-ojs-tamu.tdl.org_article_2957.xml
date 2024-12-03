@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2957</identifier>
+				<datestamp>2021-01-20T02:31:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCALE LAWS FOR BED FORMS IN LABORATORY WAVE MODELS</dc:title>
+	<dc:creator xml:lang="en">Mogridge, G.R.</dc:creator>
+	<dc:subject xml:lang="en">lab model</dc:subject>
+	<dc:subject xml:lang="en">bed form</dc:subject>
+	<dc:subject xml:lang="en">scale law</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:description xml:lang="en">An experimental study of the variables governing the development of bed forms under wave action has been conducted. A wide range of conditions was covered by the use of a wave flume and an oscillating water tunnel. Scale laws for modelling bed forms are developed using the results of these experiments. It is recommended that the model sediment used should be the same density as in the prototype and its size should be scaled geometrically. If this is not practical, it is shown how the scale laws can be used to minimise the distortion of the bed forms produced in the model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2957</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2957/2622</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

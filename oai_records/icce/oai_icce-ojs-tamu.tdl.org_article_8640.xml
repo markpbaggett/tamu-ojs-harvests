@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8640</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FUTURE CLIMATE EXPERIMENTS ON INTENSITY AND STORM SURGE OF TYPHOON SANBA (2012)</dc:title>
+	<dc:creator xml:lang="en">Toyoda, Masaya</dc:creator>
+	<dc:creator xml:lang="en">Yoshino, Jun</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Tomonao</dc:creator>
+	<dc:description xml:lang="en">The recent progress of the global warming raise concerns the future changes of tropical cyclones (i.e. hurricane, typhoon, and cyclone) and their associated coastal disasters. It is thought that the increases of both the sea surface temperature and ocean heat contents by the global warming could increase the intensity of future tropical cyclones. As a method of quantitative assessment for the impact of global warming on tropical cyclones and their storm surges, "pseudo-global warming downscaling† is generally adopted using a regional climate model and a storm surge model (Takayabu et al., 2015). Estimating the differences of experiments between present and future climate, we can quantify the future changes of typhoon intensity and storm surge by the global warming. Using the high-resolution typhoon model, we carry out a present climate experiment and pseudo-global warming experiments on typhoon intensity and its storm surge of Typhoon Sanba (2012) in this study. Sanba went northward on the west coast of Kyushu Island and caused a storm surge in Ariake Sea, Japan. Sanba had a minimum central pressure of 900 hPa and a maximum wind speed of 55 m/s. The observed maximum sea level anomaly was 104 cm at Oura, Saga Prefecture. To evaluate the impacts of global warming differences (GWDs) on typhoon intensity and storm surge, sensitivity experiments on different months (August, September, and October) in future typhoon season are also made.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8640</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8640/7442</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8640/8033</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

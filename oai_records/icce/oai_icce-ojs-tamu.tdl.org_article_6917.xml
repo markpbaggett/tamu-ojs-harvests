@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6917</identifier>
+				<datestamp>2023-10-04T02:52:50Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG WAVE EFFECTS ON BREAKING WAVES OVER FRINGING REEFS</dc:title>
+	<dc:creator xml:lang="en">Goertz, John T.</dc:creator>
+	<dc:creator xml:lang="en">Kaihatu, James M.</dc:creator>
+	<dc:creator xml:lang="en">Sheremet, Alex</dc:creator>
+	<dc:creator xml:lang="en">Smith, Ernest R.</dc:creator>
+	<dc:creator xml:lang="en">Smith, Jane M.</dc:creator>
+	<dc:subject xml:lang="en">long wave breaking</dc:subject>
+	<dc:subject xml:lang="en">reef systems</dc:subject>
+	<dc:subject xml:lang="en">dissipation analysis</dc:subject>
+	<dc:description xml:lang="en">Modeling of wave energy transformation and breaking on fringing reefs is inherently difficult due to their unique topography. Prior methods of determining dissipation are based on empirical data from gently sloping beaches and offer only bulk energy dissipation estimates over the entire spectrum. Methods for deducing a frequency dependent dissipation have been limited to hypothesized linkages between dissipation and wave shape in the surf, and have used bulk dissipation models as a constraint on the overall dissipation for mild sloping beaches. However, there is no clear indication that the constraint on the overall level of dissipation is suitable for the entire reef structure. Using these constraints the frequency dependent dissipation rate can be deduced from laboratory data, taken at the Coastal and Hydraulics Laboratory, of wave transformation over reefs. The frequency dependent dissipation rate can then be integrated over the spectrum to derive an empirically-based counterpart to energy flux dissipation. Comparing the bulk energy dissipation estimates for the reef system to the frequency based method allows for the modification of wave breaking parameters in the frequency estimation, to better estimate total dissipation. Since this method is based on the Fourier transform of the time series data, it allows the dissipation to be found as a function of the frequency. This analysis shows that there is a correlation between the amount of energy in the low frequencies of the wave spectrum and certain characteristics of the frequency dependent dissipation coefficient.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6917</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6917/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

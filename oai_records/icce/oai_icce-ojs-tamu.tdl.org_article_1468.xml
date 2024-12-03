@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1468</identifier>
+				<datestamp>2021-01-17T07:25:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GENERALIZED WAVE DIFFRACTION DIAGRAMS</dc:title>
+	<dc:creator xml:lang="en">Johnson, J. W.</dc:creator>
+	<dc:subject xml:lang="en">wave diffraction</dc:subject>
+	<dc:subject xml:lang="en">breakwater design</dc:subject>
+	<dc:subject xml:lang="en">wave diffraction diagrams</dc:subject>
+	<dc:description xml:lang="en">Wave diffraction is the phenomenon in which water waves are propagated into a sheltered region formed by a breakwater or similar barrier which interrupts a portion of a regular wave train (Fig. 1). The principles of diffraction have considerable practical application in connection with the design of breakwaters as discussed by Dunham (1951) at the Long Beach Conference. The phenomenon is analogous to the diffraction of light, sound, and electromagnetic waves. Two general types of diffraction problems usually are encountered: one, the passage of waves around the end of a semi-infinite impermeable breakwater (Putnam and Arthur, 1948), and, second, the passage of waves through a gap in a breakwater (Blue and Johnson, 1949t Carr and Stelzriede, 1951). In general, the theoretical solutions have been found to apply with conservative results, that is, the predicted wave heights in the lee of a breakwater are found to be slightly larger than the height of waves that may be expected under actual conditions. The use of the diffraction theory in breakwater design is made convenient when summarized in the form of diagrams with curves of equal values of diffraction coefficients on a coordinate system in which the origin of the Bystem is at the tip of a single breakwater (Figs. 2a-2b, and 3) or at the center of a gap (Figs. 2c, and 4-6). The diffraction coefficient in this instance is defined as the ratio of the diffracted wave height to the incident wave height and usually is designated by the symbol K». The procedure in preparing diffraction diagrams appears elsewhere (Johnson, 1950). The purpose of this paper is to present diffraction diagrams to supplement the material of Dunham (1951). For complete details on the application of diffraction diagrams to typical harbor problems the reader is referred to this latter paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1951-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1468</dc:identifier>
+	<dc:identifier>10.9753/icce.v2.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 2 (1951): Proceedings of Second Conference on Coastal Engineering,  Houston, Texas, 1951.; 2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1468/754</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

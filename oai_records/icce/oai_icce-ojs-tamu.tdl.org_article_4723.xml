@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4723</identifier>
+				<datestamp>2021-01-19T16:23:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOTTOM SHEAR STRESSES IN THE BOUNDARY LAYERS UNDER WAVES AND CURRENTS CROSSING AT RIGHT ANGLES</dc:title>
+	<dc:creator xml:lang="en">Simons, Richard R.</dc:creator>
+	<dc:creator xml:lang="en">Grass, Tony J.</dc:creator>
+	<dc:creator xml:lang="en">Mansour-Tehrani, Mehrdad</dc:creator>
+	<dc:subject xml:lang="en">right angle</dc:subject>
+	<dc:subject xml:lang="en">bottom stress</dc:subject>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">boundary layer</dc:subject>
+	<dc:description xml:lang="en">This paper describes a two year experimental research programme investigating the influence of non-linear wavecurrent interactions on wave and current characteristics. The tests focus on the mean and oscillatory velocity components and shear stresses within the bottom boundary layer over a rough bed for cases where waves propagate at right angles to the line of the current flow. Bed shear stresses have been measured directly by means of a novel shear plate device. The aim of the research is to generate a reliable data set for use by modellers. Results show that currents experience a significant change both in mean bed shear stress and apparent bed roughness when waves are superimposed. However, the oscillatory, wave-induced, bottom shear stress has been shown to be insensitive to the addition of an orthogonal current.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4723</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4723/4404</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

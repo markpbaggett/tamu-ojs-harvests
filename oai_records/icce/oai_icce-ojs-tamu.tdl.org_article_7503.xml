@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7503</identifier>
+				<datestamp>2021-01-19T04:35:09Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF THE EFFECT OF THE GREEN VALVE ON AIR ENTRAINMENT AT HOPPER OVERFLOW</dc:title>
+	<dc:creator xml:lang="en">Saremi, Sina</dc:creator>
+	<dc:creator xml:lang="en">Jensen, Jacob Hjelmager</dc:creator>
+	<dc:description xml:lang="en">When a dredge mixture deserts a hopper through its overflow structure, often significant volumes of air are entrained into the mixture. The air entrainment is a result of "hydraulic jump† turbulence generated in the core of the (often circular) overflow structure. When the mixture discharges into the sea at the exit of the overflow structure, a density current is created in the near-field. The near-field sediment processes are important as they feed the more far-reaching dredge plumes. Once discharged, the trapped air tends to segregate from the overflow plume owing to its buoyancy and the rising of bubbles towards the surface of the sea is reported to have a pronounced effect on near-field dispersion and to obstruct settling of the mixture sediments. The near-field dispersion weakens the strength of the density current which is highly undesirable as it increases the foot-print of the dredge plume. 
+Plumes with high levels of turbidity may have severe impacts on coastal environments, and dredge operations are therefore often forced to reduce production rates to reduce dredge plume foot-prints in order to comply with environmental regulations. One of the more recognized measures in reducing plume foot-prints is combating air entrainment with the so-called green valve device, also known as the environmental valve. The green valve is rigged within the shaft of the overflow structure and the fundamental idea is to increase the hydraulic resistivity inside shaft leading to increased submergence of the overflow, which results in less air entrainment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7503</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7503/pdf_779</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

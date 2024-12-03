@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1206</identifier>
+				<datestamp>2023-10-04T04:03:42Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AIRBORNE LIDAR BATHYMETRY APPLIED TO COASTAL HYDRODYNAMIC PROCESSES</dc:title>
+	<dc:creator xml:lang="en">Long, Bernard</dc:creator>
+	<dc:creator xml:lang="en">Aucoin, Françis</dc:creator>
+	<dc:creator xml:lang="en">Montreuil, Stéphane</dc:creator>
+	<dc:creator xml:lang="en">Robitaille, Valérie</dc:creator>
+	<dc:creator xml:lang="en">Xhardé, Régis</dc:creator>
+	<dc:subject xml:lang="en">laser reflectance</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamics</dc:subject>
+	<dc:subject xml:lang="en">bedform</dc:subject>
+	<dc:subject xml:lang="en">ALB</dc:subject>
+	<dc:subject xml:lang="en">CT-Scanner</dc:subject>
+	<dc:subject xml:lang="en">hydraulic flume</dc:subject>
+	<dc:description xml:lang="en">In this study, the possibility to get sedimentological (density, compaction) and hydrodynamical (suspended sediment concentration, turbulence) information from ALB surveys is demonstrated. ALB laser reflectance was found to be higher on the lee-side and on the crest of the ripple bedform than in the trough and on the stoss-side. Moreover, laser reflectance was also found to be higher on "active† subtidal dunes, located within the depth of action of the waves, than on deeper "passive† bedforms. Based on lab experiments conducted in a hydraulic flume under X-ray CT-Scanner, these observations were related to sediment compaction and suspended sediment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1206</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1206/pdf_244</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5854</identifier>
+				<datestamp>2021-01-19T10:05:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACCURACY IN SPILL MONITORING TURBIDITY DISTRIBUTION AND CONVERSION FACTORS</dc:title>
+	<dc:creator xml:lang="en">Hogh, Klavs</dc:creator>
+	<dc:creator xml:lang="en">Buxbom, Iris</dc:creator>
+	<dc:creator xml:lang="en">Bojsen, Trine Borum</dc:creator>
+	<dc:subject xml:lang="en">conversion factor</dc:subject>
+	<dc:subject xml:lang="en">spill</dc:subject>
+	<dc:subject xml:lang="en">spill monitoring</dc:subject>
+	<dc:subject xml:lang="en">turbidity distribution</dc:subject>
+	<dc:description xml:lang="en">In connection with the dredging and reclamation works at the Oresund Link Project between Denmark and Sweden carried out by the Contractor, Oresund Marine Joint Venture (OMJV), an intensive spill monitoring campaign has been performed in order to fulfil the environmental requirements set by the Danish and Swedish Authorities. Spill in this context is defined as the overall amount of suspended sediment originating from dredging and reclamation activities leaving the working zone. The maximum spill limit is set to 5% of the dredged material, which has to be monitored, analysed and calculated within 25% accuracy. Velocity data are measured by means of a broad band ADCP and turbidity data by four OBS probes (output in FTU). The FTU's are converted into sediment content in mg/1 by water samples. The analyses carried out, results in high acceptance levels for the conversion to be implemented as a linear relation which can be forced through the origin. Furthermore analyses verifies that the applied setup with a 4-point turbidity profile is a reasonable approximation to the true turbidity profile. Finally the maximum turbidity is on average located at a distance 30-40% from the seabed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5854</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5854/5522</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4912</identifier>
+				<datestamp>2021-01-19T15:18:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISPERSION MODEL OF DREDGE SPOIL DUMPED IN COASTAL WATERS</dc:title>
+	<dc:creator xml:lang="en">Drapeau, G.</dc:creator>
+	<dc:creator xml:lang="en">Lavallee, D.</dc:creator>
+	<dc:creator xml:lang="en">Dumais, J.F.</dc:creator>
+	<dc:creator xml:lang="en">Walsh, G.</dc:creator>
+	<dc:subject xml:lang="en">dispersion model</dc:subject>
+	<dc:subject xml:lang="en">dredge soil</dc:subject>
+	<dc:subject xml:lang="en">dumped soil</dc:subject>
+	<dc:description xml:lang="en">This model is specifically conceived to work in estuarine environments characterized by strong tidal currents. It operates on a microcomputer and it is conceived to work with minimal input. The model determines the velocity and radius of the dense sediment cloud, formed by the release of sediments from a scow, during its downfall in the water column. These parameters are used to determine the proportion of sediments settling at the point of impact. Sediments maintained in suspension by the high level of turbulence following impact on the bottom form a density current that spreads out radially. The performance of the model was verified by a series of experiments carried out in the St Lawrence Estuary to monitor the disposal of dredged spoil from a 400 m3 scow.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4912</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4912/4593</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8742</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NOVEL HIGH-RESOLUTION STORM SURGE FORECAST FOR THE GERMAN BIGHT</dc:title>
+	<dc:creator xml:lang="en">Niehuser, Sebastian</dc:creator>
+	<dc:creator xml:lang="en">Dangendorf, Sönke</dc:creator>
+	<dc:creator xml:lang="en">Arns, Arne</dc:creator>
+	<dc:creator xml:lang="en">Jensen, Jurgen</dc:creator>
+	<dc:description xml:lang="en">Storm surges are one of the most dangerous natural hazards in coastal areas and have the ability to cause great damages including fatalities. To be prepared when another storm surge hits the coast, reliable storm surge forecasts are indispensable. Storm surge warnings are routinely provided for selected tide gauge locations along a coastline through state-of-the-art forecast systems. In Germany, the Federal Maritime and Hydrographic Agency (BSH) (in cooperation with the German Weather Service (DWD)) have the responsibility for storm surge forecasts and warnings along the German North and Baltic Sea coastlines. The operational system in place for the North Sea consists of numerical weather forecast systems, a surge model and model output statistics. It provides accurate high frequency water level forecasts up to six days ahead at selected tide gauge sites (Muller-Navarra and Knupfer, 2010), but not for the coastline in between. Spatial forecasts are, however, currently not available for two reasons: first, the shallow coast with complex morphological structures leads to strong non-linearities between individual sites hampering simple interpolation schemes (Arns et al. 2015). Second, tidal predictions are limited to tide gauge locations, which do not fall dry during low tide, since the traditional estimation of tidal coefficients requires complete time series covering both low and high waters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8742</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.80</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.80</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8742/7543</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8742/8106</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

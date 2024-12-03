@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6893</identifier>
+				<datestamp>2023-10-04T02:25:37Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMICS OF THE CONDADO LAGOON</dc:title>
+	<dc:creator xml:lang="en">Torruella, Alfredo J.</dc:creator>
+	<dc:subject xml:lang="en">EFDC</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic modeling</dc:subject>
+	<dc:subject xml:lang="en">Shields relation</dc:subject>
+	<dc:subject xml:lang="en">restoration</dc:subject>
+	<dc:subject xml:lang="en">Environmental Fluid Dynamics Code</dc:subject>
+	<dc:subject xml:lang="en">Condado Lagoon</dc:subject>
+	<dc:subject xml:lang="en">fill stability</dc:subject>
+	<dc:description xml:lang="en">The San Juan Bay Estuary Program and the Corporation for the Conservation of the San Juan Bay 
+Estuary, intends to develop a cost-effective and environmentally acceptable plan for water quality 
+improvement and seagrass restoration in the Condado Lagoon. One of the principal challenges associated with this Project is evaluating options for dredge material sources (borrow sites), transport, and placement in the Condado Lagoon to achieve the ecological restoration goal. A potential borrow site has been identified in the northwestern side of San Juan Bay near La Esperanza Peninsula. The accretion of 
+sediment near the Peninsula has inhibited tidal flushing to this area from San Juan Bay. The 
+implementation of this Project would support the beneficial use initiative by dredging the shoaling 
+material at La Esperanza Peninsula and filling the artificial depressions in Condado Lagoon to improve 
+water circulation at both the dredge and fill sites; as well as providing habitat for epibenthic growth in the 
+Lagoon. 
+
+In March 2011, Tetra Tech performed baseline investigations in Condado Lagoon, Puerto Rico in support of the San Juan Bay Estuary Program's Water Quality Improvement and Seagrass Restoration Project. Field investigations included a bathymetric (multibeam) survey, benthic community data collection and sediment sampling. The results of the surveys were used to characterize benthic habitats in the Lagoon and to assist in evaluating alternatives for restoring the Lagoon to a gradient that supports a diverse epibenthic assemblage of Lagoon and estuarine species, specifically seagrass communities. 
+
+In addition to the above mentioned investigations, Caribbean Oceanography Group deployed GPS-tracked lagrangian drifters in the lagoon in order to gather current data for the calibration of a hydrodynamic model of the Condado Lagoon. 
+
+The intent of the multibeam survey was to map the existing depths and bathymetric features within 
+Condado Lagoon, with an emphasis on detailing the extents of seven artificial depressions. The results of 
+the survey determined a minimum depth of 0.8 m and maximum depth of 10.4 m (2.6 to 34.1 ft) in the Lagoon. Maximum depths were recorded in the center of the dredge holes, which are located in the center 
+and eastern end of the Lagoon. The results of the multibeam survey were also used to support depth-based in situ data collection of the benthic community. 
+
+The results of the benthic survey indicate a regional separation in benthic community diversity and 
+abundance. The south-central and southeastern sides of the Lagoon support low to no biotic cover. This is contrary to the biotic diversity and abundance at the western, north-central and northeastern sides of the Lagoon. The benthic data also showed a segregation of benthic community assemblages between three depth ranges (shallow 1.8 to 2.4 m [6.0 to 8.0 ft]; mid (2.7 to 5.8 m [9 to 19 ft]); and deep 6.1 to 9.1 m [20 to 30 ft]). The benthic community in the mid depth range supports the greatest diversity and abundance of organisms. The areas with little to no biotic cover correspond to the dredged areas of the Condado Lagoon. 
+
+Typical of low energy environments, finer grained sediments are located in the central and eastern regions of the Lagoon. Grain size analyses reported coarse material at the La Esperanza Peninsula sample site and the western end of Condado Lagoon, which are indicative of currents and regular water exchange in these locations. Organic content decreases from west to east in the Lagoon which supports the observations of lower benthic cover in the south-central and southeastern Lagoon compared to the western region. 
+
+Based on the 2011 baseline investigations, H. decipiens was determined to be the most prevalent seagrass species in the Lagoon, followed by T. testudinum. Fill volume calculations based solely on the bathymetric survey results, estimate between 132,211 and 488,719 cy of fill material needed to support a water depth gradient (2.7 to 5.8 m [9.0 to 19.0 ft]) conducive to H. decipiens and T. testudinum growth in the central and eastern portions of the Lagoon. More specifically, the baseline results suggest a preferred depth of 4.05 m (13.3 ft) for H. decipiens, which would require between approximately 317,629 and 336,504 cy of fill material to restore a portion of the Lagoon. 
+
+Caribbean Oceanography Group (with the support of Tetra Tech) has modeled the circulation within the 
+Lagoon using the Environmental Fluid Dynamics Code (EFDC) hydrodynamic model. Modeling results 
+reveal a complex circulation within the Condado Lagoon that is largely wind driven. A statistical analysis of the wind record for NOAA's U.S. Coast Guard Station ID 9755371, located at the western end of the model domain was carried out, and 70%, 80%, 90%, 95% and 98% exceedance levels were determined. 
+
+Model results show that under the 98% wind speed exceedance scenario, two of the examined locations 
+within the dredged area of the lagoon experience a shear stress large enough to trigger a minimum sand 
+grain diameter requirement for stability through the Shields relation. The locations and their minimum 
+sand grain diameters are: A-2 with 0.46 mm and A-3 with 0.21 mm. These grain sizes correspond to 
+Medium Sand and Fine Sand, respectively (after Wentworth (1922)). 
+
+Evaluation of the direction of the shear at the above mentioned locations reveals that a portion of the 
+material eroded from location A-2 (the medium sand) will be deposited at location A-3, and the rest (the 
+fine sand) will be deposited at some combination of locations A-4, A-5, A-6 and A-7. Likewise the material originally eroded from location A-3 (fine sand) will be deposited at some combination of locations A-4, A-5, A-6 and A-7. Therefore, any unstable material placed at locations A-2 and A-3 will merely be shifted to another location within the fill area with a lower shear stress where it will become stable. 
+
+Therefore the requirements for fill stability in the Condado Lagoon in terms of grain size are: 
+
+1) In order to remain stable under a 98% exceedance wind event, fill at location A-2 should be 
+composed of sand with a grain diameter greater than 0.46 mm. In other words, Medium to Coarse 
+sand should be used to fill location A-2. 
+2) In order to remain stable under a 98% exceedance wind event, fill at location A-3 should be 
+composed of sand with a grain diameter greater than 0.21 mm. In other words, Fine to Medium 
+sand should be used to fill location A-3. 
+
+Of note is the finding that any material too fine to remain stable at either A-2 or A-3 will be deposited at 
+some combination of the remaining fill locations, and thus will not be lost from the fill area, nor will it be 
+unstable and cause problems elsewhere in the lagoon. 
+
+It should be kept in mind that the lower exceedance levels (95% or less) did not present any minimum 
+sand grain size requirements for stability. For those cases, sand fill of any grain size remains stable. 
+Likewise, a higher exceedance level than 98% would require coarser fill at A-2 and A-3 than that discussed above. In either case, however, the eroded material would remain within the fill area, being deposited the downstream at a more sheltered location</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6893</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6893/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

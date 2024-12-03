@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2597</identifier>
+				<datestamp>2021-01-17T04:11:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDIES OP PREDICTION OF RECIRCULATION OP COOLING WATER IN A BAI</dc:title>
+	<dc:creator xml:lang="en">Wada, Akira</dc:creator>
+	<dc:subject xml:lang="en">recirculation</dc:subject>
+	<dc:subject xml:lang="en">prediction</dc:subject>
+	<dc:subject xml:lang="en">cooling water</dc:subject>
+	<dc:subject xml:lang="en">bay circulation</dc:subject>
+	<dc:description xml:lang="en">In the present report, a few factors of great importance in the determination of the degree of recirculation of cooling water for power station are chosen for theoreti cal analysis First, the problem of flow and thermal diffusion in the &amp;ea caused by outfall of warmed cooling water is considered. Numerical solution of the equation of thermal diffusion with a complete set of Eulerian equations in which the value? of the eddy coefficient of diffusion and viscosity depend upon the relation to the velocity shear and vertical density gradient is presented The Boussinesq approximation LS used throughout The mechanism of development of upwellmg phenomenon is discussed from the numberical experiment taking into account of the interaction between the flow and the thermal distribution. From the result of field survey, the occurrence of the return flow m the bottom layer oi the coastal region is confirmed The numerical solutions give a good representation of all features of flow and thermal profiles. Next, study on cold water intake from bottom layer is presented The numerical experiment of the stratified fluid with a continuous density gradient flowing into the submerged intake is conducted to gain additional insight into the mechanism of density flow in the field of the continuously stratified fluid. The results lead to the conclusion that the flow in the field of the continuous distribution of density differs from that for a two-layer system.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2597</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.94</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 94</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2597/2262</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

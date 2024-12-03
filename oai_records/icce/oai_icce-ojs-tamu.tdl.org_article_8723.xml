@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8723</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COUPLED HYDRODYNAMIC-HYDROLOGICAL MODELING FOR STORM SURGE INUNDATION IN THE COASTAL AREA</dc:title>
+	<dc:creator xml:lang="en">Son, Sangyoung</dc:creator>
+	<dc:creator xml:lang="en">Lee, Chilwoo</dc:creator>
+	<dc:creator xml:lang="en">Jung, Tae-Hwa</dc:creator>
+	<dc:creator xml:lang="en">Do, Kideok</dc:creator>
+	<dc:description xml:lang="en">Tropical cyclone easily causes inundation damage to low-lying coastal area and the damage may be amplified due to tide motion, sea-level rise, riverine discharges. Specifically, typhoons are accompanied by intensive rainfall, which will of course raise the river water level and thus enhance the flooding damages. If the tidal cycle coincides the high water, flooding will be even aggravated. In the present study, we simulated storm surge motions at the coastal area considering combined effects of tidal and river discharge with aim to improve the accuracy of flooding prediction. The quasi 3-dimension ocean circulation model, Delf3D was used which solves the unsteady shallow water equation in the 2D and 3D. Since Delft3D is much applicable to accommodate the indirect flooding factors such as riverine discharge and short waves, outer-coupled modeling system was established to account for combined tide-surge-riverine discharge effects. In such integrated system, 11 tidal constituents were input as open boundary condition using TPXO 7.2 model, while the water level per unit time was preliminary calculated by HEC-HMS model and input as the upstream boundary conditions for river inside the domain. Typhoon MAEMI which attacked Masan city located at southern coast of South Korea and caused severe inundation damages in 2003 was selected for the study event. Basic information for typhoon such as path, wind speed, atmospheric pressure every 3 hours was provided by the Korea Meteorological Agency and was adopted. The simulation was implemented with tide and storm surge boundary conditions focusing on the target area, Masan, while the additional consideration on the discharge of the river inside the domain was also made. Simulated water level at the fixed location was compared to the observation for its verification and the extent of inundation areas of Masan were compared between observed and calculated. The marginal contribution of riverine discharge on the flooding area(or depth) was assessed by comparing tide-surge with tide-surge-riverine discharge simulations. Finally, the importance of the specific consideration on the riverine discharge during storm surge modeling can be addressed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8723</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.90</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.90</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8723/7525</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

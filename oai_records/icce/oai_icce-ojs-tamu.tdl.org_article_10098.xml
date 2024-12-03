@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10098</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTERACTIVE AUGMENTED REALITY SIMULATION SYSTEM FOR COASTAL HAZARD EDUCATION</dc:title>
+	<dc:creator xml:lang="en">Zhou, Zili</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:description xml:lang="en">The abstract is based on the project of "extended reality" for effective communication of hazards from extreme coastal events, such as tsunamis and hurricanes. The project attends to use augmented reality (AR) and mixed reality (MR) to allow, for example, a coastal resident to see a digital tsunami crashing onshore and bulldozing through a community, all while standing on their beach or in their driveway. This type of experience provides an emotional impact and long-lasting memory that will guide future planning decisions and proactivity. In this abstract, we focus on applying mobile augmented reality (AR) to a tsunami simulation system and creating this digital extreme event experience. The tsunami modeling studies use the methods and models described in Tavakkol &amp; Lynett (2017), Lynett et al. (2017) and Lynett &amp; Tavakkol (2017).Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/TD4qI5QdAEc</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10098</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.management.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; management.45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10098/9384</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Zili Zhou, Patrick Lynett</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

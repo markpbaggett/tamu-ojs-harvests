@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4553</identifier>
+				<datestamp>2021-01-19T17:21:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RESISTANCE OF GRASSMAT TO WAVE ATTACK</dc:title>
+	<dc:creator xml:lang="en">Seijffert, Jan Willem</dc:creator>
+	<dc:creator xml:lang="en">Philipse, Leo</dc:creator>
+	<dc:subject xml:lang="en">wave attack</dc:subject>
+	<dc:subject xml:lang="en">grassmat</dc:subject>
+	<dc:subject xml:lang="en">grassmat resistance</dc:subject>
+	<dc:description xml:lang="en">The Dutch dikes along the North Sea and the tidal inlets need protection against erosion by wave attack. In 1983 two tests on full scale were carried out, concerning the resistance of large grass sods taken from Dutch seadikes, against wave attack. For both tests in two different ways grass sods of 7500 to 9000 kg were dug from se-dike slopes, transported and placed in test facilities. In Test 1. the hydraulic load was performed by irregular waves up to Hs = 1.85 m, in Test 2. the hydraulic load was a simulated regular wave run-up with velocities until 4 m/s. Test 1. affirmed the possibility of a grassmat to withstand a design storm surge on a dike slope of 1:8 without severe damage. Test 2. showed the limits of erosion resistance and affirmed that the erosion resistance of a grassmat on sandy clay is concentrated in the upper layer of soil and roots.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4553</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4553/4234</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

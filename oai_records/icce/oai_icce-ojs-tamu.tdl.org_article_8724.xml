@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8724</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE EFFECTIVENESS OF OSCILLATING WATER COLUMN DEVICES IN REDUCING THE AGITATION IN FRONT OF VERTICAL WALLS HARBOR STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Cappietti, Lorenzo</dc:creator>
+	<dc:creator xml:lang="en">Simonetti, Irene</dc:creator>
+	<dc:description xml:lang="en">Reducing wave reflection at vertical wall harbor structures is an important goal to ease mooring and maneuvering inside the port area. In this study, numerical simulations have been carried out to assess the effectiveness of Oscillating Water Column devices as anti-reflective systems to be integrated in vertical wall harbor structures. The numerical simulations have been carried out in a Numerical Wave Tank, implemented in the Computational Fluid Dynamics environment OpenFOAM®. A methodological approach to separate the reflected and the radiated wave components is presented. The interaction (destructive/constructive interference) between the reflected and the radiated wave field is studied. Furthermore, a preliminary assessment of the effect of basic design parameters of the Oscillating Water Column on the wave field in front of the structure is discussed. A relatively good performance of the device is found, with a minimum reflection coefficient of around 15%, suggesting that the device could efficiently be used to reduce wave agitation in front of vertical wall harbor structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8724</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.112</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.112</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8724/7526</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8724/8092</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

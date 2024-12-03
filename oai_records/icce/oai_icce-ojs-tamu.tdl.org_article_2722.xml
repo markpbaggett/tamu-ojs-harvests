@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2722</identifier>
+				<datestamp>2021-01-20T03:59:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUSPENDED LOAD CALCULATIONS IN A TIDAL ESTUARY</dc:title>
+	<dc:creator xml:lang="en">O'Connor, Brian A.</dc:creator>
+	<dc:subject xml:lang="en">suspended load</dc:subject>
+	<dc:subject xml:lang="en">tidal estuary</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:description xml:lang="en">The present work describes the derivation of equations which can represent the vertical distribution of sediment in a well mixed tidal estuary The starting point for the analysis is the two dimensional longitudinal equation of motion, including the longitudinal salinity gradient term Equations are given which represent a steady state sediment profile and it is shown that these are similar to the expression used in urn-directional flow e g Rouse's equation It is argued that the derived equations could be applied to a real estuary, subject to certain restrictions on sediment size and estuary type An application of the theoretical equations to the Mersey Estuary indicates reasonable agreement between observed and predicted sediment quantities for medium and coarse sand particles Agreement is shown to be worst for fine grained sediments and it is concluded that much better results can be obtained by using the non-steady one dimensional sediment distribution equation in discrete steps throughout the tidal cycle.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2722</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.117</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 117</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2722/2386</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

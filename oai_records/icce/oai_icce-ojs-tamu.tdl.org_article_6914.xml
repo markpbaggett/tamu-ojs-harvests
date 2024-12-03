@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6914</identifier>
+				<datestamp>2023-10-04T02:52:59Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE OVERTOPPING AT BERM BREAKWATERS IN LINE WITH EUROTOP</dc:title>
+	<dc:creator xml:lang="en">Sigurdarson, Sigurdur</dc:creator>
+	<dc:creator xml:lang="en">van der Meer, Jentsje W.</dc:creator>
+	<dc:subject xml:lang="en">berm breakwater</dc:subject>
+	<dc:subject xml:lang="en">Icelandic-type</dc:subject>
+	<dc:subject xml:lang="en">mass armoured</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">overtopping simulator</dc:subject>
+	<dc:description xml:lang="en">The paper presents the development of a new overtopping formula for berm breakwaters. Overtopping data from hydraulic model tests of berm breakwaters have been gathered and reanalysed in line with the procedure in the EurOtop Manual. The data shows a clear dependency on wave period or wave steepness, which is in contrast to the main conclusion of the CLASH project and the EurOtop Manual for conventional rubble mound breakwaters. The formula is roughly validated on prototype performance.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6914</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6914/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6718</identifier>
+				<datestamp>2023-10-04T02:42:24Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATION OF THE SWASH ZONE EVOLUTION AT WAVE TIME SCALE</dc:title>
+	<dc:creator xml:lang="en">Astier, Jessica</dc:creator>
+	<dc:creator xml:lang="en">Astruc, Dominique</dc:creator>
+	<dc:creator xml:lang="en">Lacaze, Laurent</dc:creator>
+	<dc:creator xml:lang="en">Eiff, Olivier</dc:creator>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">stereoscopic technique</dc:subject>
+	<dc:subject xml:lang="en">sand bed evolution</dc:subject>
+	<dc:subject xml:lang="en">gravity wave</dc:subject>
+	<dc:subject xml:lang="en">infragravity waves</dc:subject>
+	<dc:description xml:lang="en">The present work is dedicated to the study of the swash zone bed evolution at a high temporal and spatial resolution to investigate single-wave to wave-group time scales. The measurements are obtained in a large scale wave flume with a 1/15 sloping beach of well-sorted sand (d50 = 250 ï­m). The wave regime considered is a random Jonswap spectrum (peak enhancement factor ï§ = 3.3, significant wave height HS = 0.53 m and peak period Tp = 4.14 s). A stereoscopic technique (Astruc et al., 2012) has been used to measure the sand bed evolution in the swash zone over a 3×2 m² area. This experiment allows us to capture the swash dynamics and the bottom evolution at the different temporal scales. The results prove the strong correlation between wave forcing and swash zone response over the entire experiment, even if the bottom evolves. At shorter time scales, we can observe the signature of gravity and infragravity waves. We showed that at both time scales, the erosion process exhibits a strong variability in time as accretion and erosion events are observed. The spatial variability of the bottom evolution is stronger at gravity than at infragravity time scales. These results reinforce the now-admitted idea that the mean evolution of the sand bed in the swash zone is the result of several events of a very different nature, which themselves depend on the details of the swash hydrodynamics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6718</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6718/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

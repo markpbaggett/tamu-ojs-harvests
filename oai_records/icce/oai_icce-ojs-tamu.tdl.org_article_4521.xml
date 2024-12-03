@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4521</identifier>
+				<datestamp>2021-01-19T17:32:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DECOMPOSITION AND INTERCEPTION OF LONG WAVES BY A SUBMERGED HORIZONTAL PLATE</dc:title>
+	<dc:creator xml:lang="en">Kojima, Haruyuki</dc:creator>
+	<dc:creator xml:lang="en">Ijima, Takeshi</dc:creator>
+	<dc:creator xml:lang="en">Yoshida, Akinori</dc:creator>
+	<dc:subject xml:lang="en">submerged plate</dc:subject>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">wave decomposition</dc:subject>
+	<dc:subject xml:lang="en">wave interception</dc:subject>
+	<dc:description xml:lang="en">The results of two-dimensional hydraulic experiments are presented on the decomposition of regular and irregular surface waves by a fixed, submerged horizontal plate with a finite length. Nonlinear interactions, containing the near-resonant interaction as well as the self- and mutual-interactions, among the waves affected by the submerged plate are found to induce the generation of higher harmonic components which propagate independently in the lee side, and to result in appreciable disintegration of wave form. This wave decomposition may produce considerable modification of the spectrum of a transmitted-wave train through the nonlinear transfer of energy from primary wave components to higher frequency components and consequently reduce its significant wave period. With the above mechanism, thus, the submerged horizontal plate may serve as an effective interception device against waves, especially of long wave length.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4521</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4521/4202</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

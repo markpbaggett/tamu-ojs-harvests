@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6946</identifier>
+				<datestamp>2023-10-04T02:49:49Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE OVERTOPPING AT DYKES WITH TOPPED VERTICAL WALL - IMPACTS OF OBLIQUE WAVE ATTACK</dc:title>
+	<dc:creator xml:lang="en">Kerpen, Nils B.</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:subject xml:lang="en">overtopping</dc:subject>
+	<dc:subject xml:lang="en">vertical wall</dc:subject>
+	<dc:subject xml:lang="en">oblique wave attack</dc:subject>
+	<dc:description xml:lang="en">Hydraulic model tests at a scale of 1:10 are carried out in a 40 m x 25 m wave basin with a state-of-the-art 3D wave generator in order to collect wave overtopping data at vertical walls and dykes with topped vertical walls. Wave conditions in the near field of the structures, velocities under waves and the mean overtopping discharge are measured. The experiments have been commissioned by the Lower Saxony Water Management, Coastal Defense and Nature Conservation Agency (NLWKN) with the purpose to deliver essential overtopping data for validation of numerical models. Two main geometries are analyzed - each for two specific wave spectra. Overtopping rates are investigated with respect to the remaining freeboard height Rc and the influence of oblique wave attack Î²{0°, 10°, 30°, 40°, 50°, 60°}. Results are compared with existing analytical approaches. As expected for this special geometrical coastal protection structure, it is examined that overtopping discharges increase with decreasing remaining freeboard. Intensity of the reduction is more dependent on the wave spectra than on the dyke geometry. Mean wave overtopping rate increases with decreasing relative water depth Hm0/d directly in front of the vertical wall. Furthermore, the mean wave overtopping rates decrease with an increasing angle of wave attack Î². The correlation between mean wave overtopping rate and freeboard height is given in four newly adapted design formulas, describing the overtopping performance of the two discussed dyke geometries with topped vertical walls.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6946</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6946/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

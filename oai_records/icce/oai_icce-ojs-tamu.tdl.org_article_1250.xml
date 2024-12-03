@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1250</identifier>
+				<datestamp>2023-10-04T03:56:16Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE EFFECTIVENESS OF MANGROVES IN ATTENUATING CYCLONE - INDUCED WAVES</dc:title>
+	<dc:creator xml:lang="en">Narayan, Siddharth</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Stive, Marcel J.F.</dc:creator>
+	<dc:creator xml:lang="en">Verhagen, Henk Jan</dc:creator>
+	<dc:creator xml:lang="en">Ursem, W.N.J.</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:subject xml:lang="en">Mangroves</dc:subject>
+	<dc:subject xml:lang="en">Vegetation Factor</dc:subject>
+	<dc:subject xml:lang="en">Cyclone</dc:subject>
+	<dc:subject xml:lang="en">Wave Attenuation</dc:subject>
+	<dc:subject xml:lang="en">Kanika Sands</dc:subject>
+	<dc:description xml:lang="en">A study of the effectiveness of mangroves in attenuating cyclone- induced waves was done using the SWAN 40.81 numerical model. Hydraulic parameters during extreme events and local mangrove vegetation parameters were estimated for the Kanika Sands mangrove island near the upcoming Dhamra Port in Orissa, India. Simplified generic analyses were first conducted to obtain insights into the characteristics and behaviour of the model and the system. These were used to select relevant scenarios for simulations of actual conditions at the case-study site. The mangroves were found to be effective in reducing wave heights at the port behind the island though the effectiveness is limited by its geometry and distance from the port. The presence of vegetation has a marked effect though the effect of a variation in vegetation factor is limited. An optimum cross-shore width range for maximum protection was quantified.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1250</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.50</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.50</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1250/pdf_289</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13115</identifier>
+				<datestamp>2023-09-01T15:15:59Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">3D VELOCITY FIELDS WITH 2DH NUMERICAL STABILITY: A 3D ANALYTICAL-NUMERICAL MODULE FOR 2DH NUMERICAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Araujo, Thalles A. A.</dc:creator>
+	<dc:creator xml:lang="en">Rosman, Paulo C. C.</dc:creator>
+	<dc:description xml:lang="en">This research consists of the mathematical development of a three-dimensional (3D) analytical-numerical module that can be installed on vertically-averaged (2DH) numerical models. Designed to combine the advantages of both 3D and 2DH hydrodynamic models, it simulates a wide range of coastal natural water bodies of free surfaces and irregular geometries. Examples include estuaries, rivers, bays, lakes, and lagoons. Assuming a parabolic profile of turbulent viscosity and a predictor-corrector scheme applied to 2DH variables, a preliminary (predicted, analytical) logarithmic profile of horizontal velocity is used for the calculation of an adjusted (corrected, analytical-numerical) realistic 3D velocity field (u,v,w). Through a process of continuous synergetic interdependence, both the 3D module and the 2DH model feed on and enhance one another at every time step of a simulation in a cycle of mutual contribution that increases its accuracy. The following terms of the Navier-Stokes horizontal equations are considered in full three-dimensionality: local acceleration, non-linear advective accelerations, Coriolis acceleration, barotropic and baroclinic pressure gradients, and vertical shear stresses. All 2DH variables are allowed to vary in time and space (x,y,t) and all boundary conditions (dynamic and kinematic, bottom and surface) are analytically satisfied.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13115</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.157</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.157</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13115/12388</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Thalles A. A. Araujo, Paulo C. C. Rosman</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

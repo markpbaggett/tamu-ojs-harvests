@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1341</identifier>
+				<datestamp>2023-10-04T04:26:21Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODEL OF CURRENT AND SEDIMENT TRANSPORT IN THE WAVE BOUNDARY LAYER</dc:title>
+	<dc:creator xml:lang="en">Zhu, Yuliang</dc:creator>
+	<dc:creator xml:lang="en">Ma, Jing</dc:creator>
+	<dc:creator xml:lang="en">Wang, Hao</dc:creator>
+	<dc:subject xml:lang="en">turbulent boundary layer</dc:subject>
+	<dc:subject xml:lang="en">mathematical model</dc:subject>
+	<dc:subject xml:lang="en">k-Îµ model</dc:subject>
+	<dc:subject xml:lang="en">eddy-viscosity</dc:subject>
+	<dc:description xml:lang="en">Mathematical model is one of the means to study of turbulent wave boundary layer. The paper analysis of the existing model, adopt a more reasonable boundary condition to establish a improved mathematical model of 1DV turbulent wave boundary layer using k-Îµ model. The paper recommends brief flow simulation and mainly introduced the simulation of the sediment concentration. The paper use the eddy-viscosity value which calculation by the mathematical model and the model of You Zaijin on time-invariant eddy-viscosity into the relationship about sediment diffusion coefficient and eddy-viscosity to calculate the sediment concentration. The calculation results turns out the way that use the eddy-viscosity value which calculation by the mathematical model into the relationship can obtain better timely sediment concentration value. When use the model simulates the time-invariant sediment concentration, the two ways have not many distinctions. It means the way that that use the eddy-viscosity value which calculation by the mathematical model into the relationship is feasible.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1341</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1341/pdf_105</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

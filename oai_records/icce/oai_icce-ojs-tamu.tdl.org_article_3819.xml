@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3819</identifier>
+				<datestamp>2021-01-19T21:33:48Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A TYPHOON WAVE HINDCASTING TECHNIQUE</dc:title>
+	<dc:creator xml:lang="en">Liang, N.K.</dc:creator>
+	<dc:creator xml:lang="en">Chien, C.C.</dc:creator>
+	<dc:subject xml:lang="en">wave hindcasting</dc:subject>
+	<dc:subject xml:lang="en">typhoon</dc:subject>
+	<dc:description xml:lang="en">The typhoon wave forecasting technique proposed by C.L. Bretschneider (1) is a good simple method. However, the measured maximum wave height at Nan-Wan Bay (at southern tip of Taiwan) of Ida typhoon is about twice of the hindcasted maximum wave height. In general, the hindcasted maximum typhoon wave height arrives earlier than the measured data for Bretschneider's method as well as the other methods, such as Tang's and Ijima's methods. And as the typhoon is approaching the station, the hindcasted wave heights are smaller than the measured ones. On the contrary, as the typhoon is leaving the station, the hindcasted wave heights are greater than the measured heights. In order to improve these defects, the typhoon swell proposed by Liang (7) is superimposed upon the typhoon wind wave according to the energy conservation principle. The modified wave period is calculated by the energy-weighted method. In this paper 8 typhoons are as examples to show that the new method has amended the above-mentioned defects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3819</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3819/3502</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

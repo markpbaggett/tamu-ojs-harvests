@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10377</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPH MODELLING OF TSUNAMI WAVE IMPACT ON LOW-RISE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Pringgana, Gede</dc:creator>
+	<dc:creator xml:lang="en">Cunningham, Lee S.</dc:creator>
+	<dc:creator xml:lang="en">Rogers, Benedict D.</dc:creator>
+	<dc:description xml:lang="en">This study examines the influence of low-rise structure orientations on tsunami-induced impact force. The particular focus is on low-rise structures since these often make up the majority of building stock in tsunami prone areas and are usually most vulnerable. The meshless method smoothed particle hydrodynamics (SPH) is used for simulating the tsunami flow. Multiple cube structures named A, B and C were arranged at different angles of rotation and were situated on a flat shore. Four cases were simulated with variation on the number of structures and orientation toward the tsunami direction. Case 1 comprises a single structure (SS) C without rotation (R=0 degrees) and used as the baseline, Case 2 contains multiple structures (MS) A, B and C without rotation (R=0 degrees), Case 3 includes multiple structures (MS) A, B and C with 30 degree rotation (R=30d egrees), and Case 4 consist of multiple structures (MS) A, B and C with 45 degree rotation (R=45 degrees). The simulations show that for a 2-solitary wave train the front structures generated a flow focusing effect that accelerated the bore velocity. The orientation of the multiple structures to the direction of the oncoming tsunami bore significantly affected the magnitude of the applied force, where the most effective structure orientation is provided by the 45-degree rotation. The results of this study emphasize the potential for improving tsunami resilience through appropriate positioning of structures. Importantly, such large reductions in force may provide an economic solution to building resilience in developing countries prone to tsunamis.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/WNtyTNzQ7yY</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10377</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10377/9663</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Gede Pringgana, Lee S. Cunningham, Benedict D. Rogers</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2972</identifier>
+				<datestamp>2021-01-20T02:26:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPATIBILITY OF BORROW MATERIAL FOR BEACH FILLS</dc:title>
+	<dc:creator xml:lang="en">Dean, R.G.</dc:creator>
+	<dc:subject xml:lang="en">borrow material</dc:subject>
+	<dc:subject xml:lang="en">borrow compatibility</dc:subject>
+	<dc:subject xml:lang="en">beach fill</dc:subject>
+	<dc:description xml:lang="en">A simple method is presented for estimating the relative compatibility of borrow material being considered for beach fill purposes. The method defines the "compatible" fraction of the material as that coarser portion with the same mean diameter (in "phi" measure) as the native material on the beach. A single graph is presented which allows determination of the number of units of borrow material required to obtain one unit of compatible material. Use of this method requires that the size distributions be reasonably represented by the "lognormal" relationship and also requires knowledge of the means of the native and borrow materials and the standard deviation of the borrow material (all in phi measure). This method overcomes shortcomings of the Krumbein-James method published in 1965. Several examples are presented illustrating the application of the method presented in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2972</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2972/2637</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10283</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVOLUTION OF UNSTABLE WAVE PACKETS OVER VARIABLE BATHYMETRY</dc:title>
+	<dc:creator xml:lang="en">Kimmoun, Olivier</dc:creator>
+	<dc:creator xml:lang="en">Hsu, H.C</dc:creator>
+	<dc:creator xml:lang="en">Chabchoub, Amin</dc:creator>
+	<dc:description xml:lang="en">Several field observations have reported the formation of rogue waves in coastal zones, see Chien et al. (2002) for an example in Taiwanese sea. The mechanisms that lead to the occurrence of rogue waves in finite water depth to shallow water are not well understood yet under the conjecture of modulation instability. Indeed, this theory for uni-directional waves shows that when kh is lower than a threshold of 1.363 in homogeneous water depth conditions, the wave train becomes stable to side-band perturbations. Then if the wave train is stable, the appearance of rogue waves is not possible within this linear stability framework. One explanation may come from the complex wave transformation mechanisms in variable bathymetry, especially, for cases of steep slopes or near the edge between a steep slope and a gentle slope as it is the case of the continental shelf. Very few laboratory experiments have been so far addressing the influence of the bathymetry on extreme wave occurrence (Baldock and Swan (1996), Kashima et al. (2012), Ma et al. (2015)).Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/a5M4PS-Lo4Q</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10283</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10283/9569</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Olivier Kimmoun, H.C Hsu, Amin Chabchoub</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

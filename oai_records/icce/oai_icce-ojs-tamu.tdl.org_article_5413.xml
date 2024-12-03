@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5413</identifier>
+				<datestamp>2021-01-19T12:29:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE IMPACT BENEATH A HORIZONTAL SURFACE</dc:title>
+	<dc:creator xml:lang="en">Wood, D.J.</dc:creator>
+	<dc:creator xml:lang="en">Peregrine, D.H.</dc:creator>
+	<dc:subject xml:lang="en">horizontal surface</dc:subject>
+	<dc:subject xml:lang="en">wave impact</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:description xml:lang="en">Many coastal structures and natural coasts have openings, overhangs and projections which are open to impact by incident water waves. The sudden impact of a wave on a rigid surface leads to a rapid rise of pressure and consequent violent water motions. We consider the wave impact on the underside of a projecting surface. The example discussed is that of a flat deck close to the mean water level. A pressure-impulse approach is used, which has the advantage that given a solution for one problem it is possible to select pressure-impulse contours which give the solution to related problems. The pressure gradient on the underside of the deck is especially strong near the seaward edge of the impact region, so this is a region where any projections on the structure's surface may be subject to strong shearing forces. On the other hand the maximum pressure-impulse is at the landward end of the impact zone, it is here that the deck is most likely to be 'blown' upward.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5413</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5413/5089</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

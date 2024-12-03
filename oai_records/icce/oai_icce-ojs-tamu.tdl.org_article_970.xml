@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/970</identifier>
+				<datestamp>2023-10-04T04:21:22Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPECTRAL WAVE MODELLING IN TIDAL INLET SEAS: RESULTS FROM THE SBW WADDEN SEA PROJECT</dc:title>
+	<dc:creator xml:lang="en">Van Dongeren, Ap</dc:creator>
+	<dc:creator xml:lang="en">Van der Westhuysen, Andre</dc:creator>
+	<dc:creator xml:lang="en">Groeneweg, Jacco</dc:creator>
+	<dc:creator xml:lang="en">Van Vledder, Gerbrant</dc:creator>
+	<dc:creator xml:lang="en">Lansen, Joost</dc:creator>
+	<dc:creator xml:lang="en">Smale, Alfons</dc:creator>
+	<dc:creator xml:lang="en">Gautier, Caroline</dc:creator>
+	<dc:creator xml:lang="en">Peters, Herman</dc:creator>
+	<dc:creator xml:lang="en">Wenneker, Ivo</dc:creator>
+	<dc:subject xml:lang="en">Wave modelling</dc:subject>
+	<dc:subject xml:lang="en">Tidal inlets</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Wadden Sea</dc:subject>
+	<dc:subject xml:lang="en">Spectral wave models</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:description xml:lang="en">Over the last five years a research program has been carried out to assess the performance of the spectral wave model SWAN in the Wadden Sea so that it may be used for the transformation of offshore wave conditions to wave boundary conditions near the sea defenses (dikes and dunes). The assessment was done on the basis of extensive wave measurements conducted in Ameland inlet and the Dutch Eastern Wadden Sea, as well as relevant data from lakes and estuaries. After a first round of assessment, we found that SWAN performed reasonably well for storm conditions but three aspects required further attention. Firstly, focusing on the main channel, SWAN formulations needed to be modified in order to eliminate overprediction of the significant wave height in opposing currents. Secondly, the primary spectral peak of North Sea waves penetrating into the inlet was underpredicted. Best results were obtained when the refraction of low-frequency waves was limited and the bottom friction coefficient was set at a lower value than the current default for wind seas. Thirdly, over the tidal flats the computed ratio of integral wave height over water depth showed an apparent upper limit using the conventional Battjes and Janssen (1978) depth-limited wave breaking formulation, because the wave growth over finite depth is hampered by the present formulation of depth-induced wave breaking. The problem has been solved using a new breaker formulation. All these improvements have lead to a wave transformation model with which reliable wave conditions in the Wadden Sea and related complex areas can be determined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/970</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/970/pdf_148</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

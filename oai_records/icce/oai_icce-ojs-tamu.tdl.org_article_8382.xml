@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8382</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACCURATE PREDICTION OF TSUNAMI FORCE FOR EFFECTIVE DESIGN OF BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Tsuruta, Naoki</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Kojiro</dc:creator>
+	<dc:description xml:lang="en">In 2011, the off the Pacific coast of Tohoku earthquake with subsequent huge tsunami caused serious damages to many breakwaters. The damage process mainly comprises their slide or toppling over by the overflowing tsunami, whose typical cases can be seen in Soma and Kamaishi ports. In order to save the people as long as possible, it is necessary to design breakwaters effectively with keeping their resilience particularly against such an overflow of a huge tsunami. As the first step to the goal, the pressure force of the overflowing tsunamis should be predicted accurately, however, its feature remains unknown due to its complicated mechanisms. Regarding the Japan guideline of breakwater against tsunami, it introduces an estimation formula based on the static pressure with compensating coefficients Î±f and Î±r for the foreside and backside of the target breakwater, respectively, as shown in Figure 1. The compensating coefficients are set with semi-empirical values as Î±r=1.1 and Î±r=0.9. However, in recent years, it was found that the coefficient Î±r randomly varies depending on the hydraulic conditions (Arikawa et al., 2013), and to make matters worse, the variation appears more significant by changing the structure of the target breakwater, i.e. the condition of the mound under the caisson and the parapets above the caisson (Miyata et al., 2014). Therefore, improvement of the estimation method should be required as an urgent subject. In order to resolve this problem, this study performs hydraulic experiments targeting breakwaters under tsunami-overflows with focusing on the effect of the property of the mound, which has insufficient studies. From the results, an effective estimation method for the compensating coefficient Î±r is newly proposed by reconsidering the coefficient as a dynamic parameter covering the various boundary conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8382</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8382/7190</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

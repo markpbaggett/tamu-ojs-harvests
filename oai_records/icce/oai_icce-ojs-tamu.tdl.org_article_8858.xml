@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8858</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RECENT ADVANCES IN 3D MODELLING OF WAVE-STRUCTURE INTERACTION WITH CFD MODELS</dc:title>
+	<dc:creator xml:lang="en">Lara, Javier L.</dc:creator>
+	<dc:creator xml:lang="en">Losada, Inigo J.</dc:creator>
+	<dc:creator xml:lang="en">Barajas, Gabriel</dc:creator>
+	<dc:creator xml:lang="en">Maza, Maria</dc:creator>
+	<dc:creator xml:lang="en">di Paolo, Benedetto</dc:creator>
+	<dc:description xml:lang="en">Numerical modelling of the interaction of water waves with coastal structures has continuously been among the most relevant challenges in coastal engineering research and practice. During the last years, 3D modelling based on RANS-type equations, has been the dominant methodology to address the mathematical modelling of wave and coastal structure interaction. However, the three-dimensionality of many flowstructure interactions processes demands overcoming existing modelling limitations. Under some circumstances relevant three-dimensional processes are still tackled using physical modelling. It has been shown that beyond numerical implementation of the well-known mathematical 3-D formulation of the Navier-Stokes equations, the application of 3-D codes to standard coastal engineering problems demands some additional steps to be taken. These steps could be classified into three main groups relevant to: a) the modelling of the physical processes; b) the use of the tool and c) the applicability of the codes. This work presents an analysis of the use of three-dimensional flow models to analyze wave interaction with coastal structures focusing on recent developments overcoming existing limitations. Last modelling advances, including the implementation of new physics and pre-and postprocessing tools will be shown with the aim of extending the use of three-dimensional modelling of wavestructure interaction in both coastal and offshore fields.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8858</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8858/7663</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8858/8193</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5096</identifier>
+				<datestamp>2021-01-19T14:14:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BEACH PROFILE SPACING: PRACTICAL GUIDANCE FOR MONITORING NOURISHMENT PROJECTS</dc:title>
+	<dc:creator xml:lang="en">Kana, Timothy W.</dc:creator>
+	<dc:creator xml:lang="en">Andrassy, Christopher J.</dc:creator>
+	<dc:subject xml:lang="en">beach profile</dc:subject>
+	<dc:subject xml:lang="en">profile spacing</dc:subject>
+	<dc:subject xml:lang="en">nourishment</dc:subject>
+	<dc:subject xml:lang="en">nourishment modeling</dc:subject>
+	<dc:description xml:lang="en">A search of the literature shows there are no established standards for the spacing of profiles for postnourishment monitoring. One standard that appears to apply in the United States relates to construction surveys. Most recent nourishment projects use prefill and postfill profiles at 100-foot (ft) [ ~ 30 meter (m)] spacing for payment purposes. Rarely is this close spacing duplicated in subsequent monitoring surveys. How accurately does such spacing reflect the actual volume of fill remaining? Four sets of closely spaced profile surveys to closure were performed over a two-year period following the 1991 Hunting Island, South Carolina, nourishment project. Fill volumes remaining within the project area were computed to closure depth using the average-end-area method. The complete dataset at 100-ft (30 m) spacing provided the basis of comparison. Volume calculations were performed for the possible combinations of profiles at greater spacings up to 1,200 ft (365 m). The normalized results show the expected increase in error as profile spacing increases. However, the variation was generally less than ±3 percent up to spacings of 500 ft (~ 150 m). At 1,000 ft (~ 365 m), the error band spanned 20 percent of the project volume. The Hunting Island dataset provides guidance for minimum profile spacing for nourishment projects with highly varying fill sections or irregular shoreline morphology. Spacings of 400-500 ft (120-150 m) provided a reasonably accurate result. Accuracy was greatly reduced at longer spacings. Longer nourishment projects, involving less variable fill volumes, likely can be evaluated at somewhat longer spacing with comparable accuracy. However, a disadvantage of surveying only the minimum number of profile lines is the error introduced if even one line has to be discarded from the dataset because of field survey errors.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5096</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5096/4774</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

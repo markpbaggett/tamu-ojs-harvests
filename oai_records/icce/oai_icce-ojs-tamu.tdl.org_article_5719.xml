@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5719</identifier>
+				<datestamp>2021-01-19T10:48:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY OF NEAR-BED RUBBLE-MOUND STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Vidal, Cesar</dc:creator>
+	<dc:creator xml:lang="en">Losada, Inigo J.</dc:creator>
+	<dc:creator xml:lang="en">Martin, Francisco L.</dc:creator>
+	<dc:subject xml:lang="en">rubble mound</dc:subject>
+	<dc:subject xml:lang="en">rubble stability</dc:subject>
+	<dc:description xml:lang="en">This paper describes the experimental and theoretical analysis carried out to improve our knowledge of the stability of near-bed rubble-mound structures. Laboratory tests have been performed to improve the data base on the stability of this kind of structure. The experimental results are compared with the results of three different approaches to stability: dimensional analysis, Morison forces and forces derived from bed shear stresses. In all cases considered, the influence of the geometry of the structure has not been taken into account, and the characteristics of the flow around the structures have been obtained from linear wave theory. The analysis of the data shows that the mobility parameter, a non-dimensional form of the bed shear stress, gives the best representation of the damage in these structures. From the analysis it can also be concluded that inertia forces are not relevant in the representation of the damage using Morison forces. Based on these approaches, some formulations of damage are presented. These formulations indicate that, for the first stages of damage, damage varies almost linearly with force (Morison or bed shear stress).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5719</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5719/5389</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

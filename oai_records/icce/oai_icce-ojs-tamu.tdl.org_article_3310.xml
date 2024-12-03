@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3310</identifier>
+				<datestamp>2021-01-20T00:27:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND-INDUCED WATER SURFACE SET-UP AND DRIFT CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Tang, Frederick L.W.</dc:creator>
+	<dc:creator xml:lang="en">Wu, Jin</dc:creator>
+	<dc:creator xml:lang="en">Chang, Charles C.C.</dc:creator>
+	<dc:creator xml:lang="en">Ou, Shan-Hwei</dc:creator>
+	<dc:subject xml:lang="en">setup</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">drift current</dc:subject>
+	<dc:subject xml:lang="en">wind induced current</dc:subject>
+	<dc:description xml:lang="en">A systematic experiment to study the wind-induced flow phenomena was conducted in a laboratory tank. The results are related to the wind friction velocity and subsequently scaled for applications at various fetches under different wind velocities. The wind-stress coefficients are found to be well scaled by the Froude number. The bottom friction is measured with an effective shear gauge. The ratios between the bottom stress and the wind stress are obtained. The complete profiles of wind drift current are measured under various wind velocities. A tentative distribution of drift currents in the whole water depth is proposed. The results from the experiment are used to examine the wind-induced flow phenomena in a closed basin.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3310</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3310/2978</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

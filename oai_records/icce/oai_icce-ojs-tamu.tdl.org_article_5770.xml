@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5770</identifier>
+				<datestamp>2021-01-19T10:31:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE PREDICTABILITY OF NEASHORE BAR BEHAVIOR</dc:title>
+	<dc:creator xml:lang="en">Aarninkhof, Stefan</dc:creator>
+	<dc:creator xml:lang="en">Hinton, Claire</dc:creator>
+	<dc:creator xml:lang="en">Wijnberg, Kathelijne</dc:creator>
+	<dc:subject xml:lang="en">bar</dc:subject>
+	<dc:subject xml:lang="en">bar behavior</dc:subject>
+	<dc:subject xml:lang="en">bar predictability</dc:subject>
+	<dc:description xml:lang="en">The analysis of field observations of surf zone dynamics has revealed some 'unexpected' behaviour of the coastal system, generally referred to as free behaviour', which is behaviour that is unrelated to similar patterns in the external forcing. Present-day process-based modeling concepts are not capable to deal with these free modes of behaviour. In order to assess the validity of model-based predictions of bar dynamics, the relative importance of free behaviour versus forced response in the surf zone needs to be addressed. This work aims to contribute to the debate, by investigating the sensitivity of breaker bar behaviour to chronology effects from coastal profile modeling at a multiple barred beach, with probabilistic forcing conditions. The results show chronology effects merely affect the predicted height of the bars, rather than their location which is remarkably consistent over the various runs. The latter observation has raised the question up to what extent predicted bar behaviour is controlled by model characteristics (concept, parameter settings), rather than system and forcing characteristics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5770</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5770/5440</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

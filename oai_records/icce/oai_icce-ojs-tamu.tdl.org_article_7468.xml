@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7468</identifier>
+				<datestamp>2021-01-19T04:38:37Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VALIDATION AND OPTIMIZATION OF A DESIGN FORMULA FOR STABLE GEOMETRICALLY OPEN FILTER STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Sande, Stefan A. H. van de</dc:creator>
+	<dc:creator xml:lang="en">Uijttewaal, Wim S. J.</dc:creator>
+	<dc:creator xml:lang="en">Verheij, Henk J.</dc:creator>
+	<dc:subject xml:lang="en">Filter</dc:subject>
+	<dc:subject xml:lang="en">granular filter</dc:subject>
+	<dc:subject xml:lang="en">(geometrically) open filter</dc:subject>
+	<dc:subject xml:lang="en">interface stability</dc:subject>
+	<dc:subject xml:lang="en">bed protection</dc:subject>
+	<dc:description xml:lang="en">Granular filters are used for protection against scour and erosion of base material. For a proper functioning it is necessary that at the interfaces between the filter structure, the subsoil and the water flowing above the filter structure no material will be transported. Different types of granular filters can be distinguished, this paper focuses on stable geometrically open filter structures under current attack. Hoffmans (2012) developed a design formula for stable geometrically open filters. This paper presents the validation and an optimization of the design formula based on performed model tests. It is shown that the current design formula is too conservative. The proposed improvements allows for a wider range of applicability.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7468</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7468/pdf_768</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

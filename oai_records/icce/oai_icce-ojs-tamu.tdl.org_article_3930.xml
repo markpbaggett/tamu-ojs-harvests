@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3930</identifier>
+				<datestamp>2021-01-19T20:54:12Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVED FORMULAS FOR ESTIMATING OFFSHORE WINDS</dc:title>
+	<dc:creator xml:lang="en">Hsu, S.A.</dc:creator>
+	<dc:subject xml:lang="en">offshore wind</dc:subject>
+	<dc:subject xml:lang="en">wind estimation</dc:subject>
+	<dc:subject xml:lang="en">wind formulas</dc:subject>
+	<dc:description xml:lang="en">Differences in onshore and offshore wind speeds have long been known to exist [see, e.g., (2), (15), (16)]. Marine meteorologists in the weather services are required to forecast offshore winds. Many studies related to coastal marine sciences and engineering require wind data or estimates for offshore regions. Yet in situ measurements over water are often lacking. Traditionally, wind measurements over land, preferably near coasts, have been used to estimate offshore winds. However, because simultaneous onshore and offshore observations do not always exist, systematic studies such as simple comparisons between these two environments are also lacking. Only recently the U.S. National Oceanic and Atmospheric Administration (NOAA) deployed a network of buoys for longer term measurements over the continental shelf as well as farther offshore. All of these buoys are located in or near U.S. coastal waters. However, there are still vast regions in other parts of the world where such a network does not exist.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3930</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.149</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 149</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3930/3613</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

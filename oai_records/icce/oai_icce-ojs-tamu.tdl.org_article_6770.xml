@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6770</identifier>
+				<datestamp>2023-10-04T03:33:36Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING OF THE IMPACT OF A WAVE FARM ON  NEARSHORE SEDIMENT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Gonzalez, Raul</dc:creator>
+	<dc:creator xml:lang="en">Zou, Qingping</dc:creator>
+	<dc:creator xml:lang="en">Pan, Shunqi</dc:creator>
+	<dc:subject xml:lang="en">wave-current interaction</dc:subject>
+	<dc:subject xml:lang="en">renewable energy</dc:subject>
+	<dc:subject xml:lang="en">ROMS</dc:subject>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">Wave Hub</dc:subject>
+	<dc:description xml:lang="en">This paper presents the results from an integrated modelling system investigating the effects of a wave farm on nearshore sediment transport. Wave Hub project is a large scale demonstration site for the development of the operation of arrays of wave energy generation devices located at the southwest coast of the UK where multiple field measurements took place. The two-way coupled SWAN and ROMS models with nested modelling system were set up at the Wave Hub site and run with and without a wave farm. The model results show that the presence of the wave farm has significant impacts on the nearshore circulation, bed shear stresses and sediment transport. The morphological changes are also altered by the wave farm. The study is the key element for the wave resource characterization and environmental impact assessment of the wave farm.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6770</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6770/pdf_453</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

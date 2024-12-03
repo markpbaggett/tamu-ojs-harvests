@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3447</identifier>
+				<datestamp>2021-01-19T23:43:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE HINDCASTS AND MEASUREMENTS BASS STRAIT</dc:title>
+	<dc:creator xml:lang="en">Silbert, M.N.</dc:creator>
+	<dc:creator xml:lang="en">Barnett, T.P.</dc:creator>
+	<dc:creator xml:lang="en">Peters, O.J.H.</dc:creator>
+	<dc:creator xml:lang="en">Hamilton, R.C.</dc:creator>
+	<dc:subject xml:lang="en">wave hindcast</dc:subject>
+	<dc:subject xml:lang="en">hindcast</dc:subject>
+	<dc:subject xml:lang="en">Bass Strait</dc:subject>
+	<dc:description xml:lang="en">The Bass Strait of Australia is the location of significant offshore oil and gas production. At the time of this writing eight self-contained drilling and production platforms as well as many miles of submerged pipeline comprise the Esso Australia Ltd. (EAL) and Broken Hill Proprietary Company Ltd. (BHP) operation in the Bass Strait. During the course of the next five years significant additional development and platform construction will take place in this offshore oil and gas area. Observation of offshore wind and wave conditions are greatly facilitated by the presence of fixed platforms from which to collect data. Visual observations of waves along with measurements of wind speed and direction and barometric pressure from Bass Strait Platforms have been routinely recorded and reported to the Australian Bureau of meteorology for more than ten years. Close cooperation between EAL and the Meteorological Bureau has resulted in continuous weather forecasts for the Bass Strait region. In March of 1977 EAL decided to upgrade the instrumentation on two of the platforms in the Bass Strait. The purpose of this was to reduce the subjectivity of visual wave observations and to eliminate the uncertainty of such observations at night and during inclement weather. Additionally it was felt that by instrumenting both a deep water (250 feet) and a shallow water (150 feet) platform the data collected would help quantify the observation that the storm waves seemed to be larger in deeper water than in shallow water. It was felt that use of the data along with a computer based wave hindcast model would aid in the development of an understanding of the Bass Strait wave environment. Two platforms were chosen for instrumentation. The Barracouta (BTA) platform in 150 feet of water, located about 20 miles from shore, was instrumented with a wavestaff. The Kingfish B (KFB) platform in 250 feet of water, located about 50 miles southeast of BTA, was instrumented with a wave staff, electromagnetic current meters, anemometer, barometer and air temperature sensor. Figure 1 shows the location of these platforms in the Bass Strait. The design, fabrication and installation of the data station was performed by Evans-Hamilton Inc. of Houston, Texas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3447</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3447/3127</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

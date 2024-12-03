@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12841</identifier>
+				<datestamp>2023-09-01T15:13:41Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACT OF LONGSHORE SEDIMENT TRANSPORT ON THE DESIGN AND MAINTENANCE OF LOW-ENERGY, NON-TIDAL SANDY BEACHES</dc:title>
+	<dc:creator xml:lang="en">Ton, Anne</dc:creator>
+	<dc:creator xml:lang="en">Vuik, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Wilmink, Rinse</dc:creator>
+	<dc:creator xml:lang="en">Aarninkhof, Stefan</dc:creator>
+	<dc:description xml:lang="en">When low-energy, non-tidal lake beaches have a flood safety function, such as at the Houtribdijk, the Netherlands, sediment losses can directly affect the functioning of the beach (fig. 1). Detailed understanding of morphodynamic processes is needed to enable reliable predictions of the morphological development and the design of efficient maintenance strategies. Ton et al. (2021) showed that the development of these beaches is driven by both cross-shore and longshore processes. Wave action causes a distinct cross-shore profile shape to develop, with a steep beach face and a gently sloped platform around the depth of closure. However, on top of that, the combined effect of large-scale horizontal flow circulations (caused by gradients in storm surge level across the lake, Ton et al., submitted) and wave-induced sediment stirring was found to be an important driver of sediment losses along the beaches. In this work, we research how longshore transport (LST) can best be determined for low-energy lake beaches and classify and quantify the uncertainties related to this method.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12841</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.67</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.67</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12841/12114</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Anne Ton, Vincent Vuik, Rinse Wilmink, Stefan Aarninkhof</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

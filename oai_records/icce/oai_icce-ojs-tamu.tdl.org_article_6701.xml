@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6701</identifier>
+				<datestamp>2023-10-04T02:44:11Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF COASTAL INUNDATION AND SEDIMENTATION BY STORM SURGE, TIDES, AND WAVES AT NORFOLK, VIRGINIA, USA</dc:title>
+	<dc:creator xml:lang="en">Li, Honghai</dc:creator>
+	<dc:creator xml:lang="en">Lin, Lihwa</dc:creator>
+	<dc:creator xml:lang="en">Burks-Copes, Kelly A.</dc:creator>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">sea level rise</dc:subject>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">coastal inundation</dc:subject>
+	<dc:subject xml:lang="en">coastal modeling</dc:subject>
+	<dc:subject xml:lang="en">coastal sedimentation</dc:subject>
+	<dc:description xml:lang="en">A nearshore hydrodynamic and sediment transport model was developed to simulate synthetic storms with design SLR scenarios surrounding the military installations in Norfolk, Virginia. Foreseeable risk and effect of storm surge damage accompanied by waves, tides, and Sea Level Rise (SLR) were examined. The final results include the evaluation of impacts for five SLR (0.0, 0.5, 1.0, 1.5, and 2.0 m) and three storm conditions (50-yr, 100-yr return tropical storms, and a winter storm). Associated with the storm surge and SLR, extensive inundation will occur at the Naval Station Norfolk, approximately 70-80% of the Naval Station Norfolk under the 2-m SLR scenario. The calculated morphology changes indicate that the sediment movement mostly occurs in the navigation channels and the maximum depth changes are more than 3.0 m along the channels. The bed volume changes show that the storms induce a net volume loss within the channel area, an indication of channel flushing in the study area.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6701</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6701/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

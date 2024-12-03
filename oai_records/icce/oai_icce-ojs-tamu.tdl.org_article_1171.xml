@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1171</identifier>
+				<datestamp>2023-10-04T04:06:42Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OPTICAL TECHNIQUES FOR MEASURING SWASH ZONE MORPHODYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Stancanelli, Laura Maria</dc:creator>
+	<dc:creator xml:lang="en">Musumeci, Rosaria Ester</dc:creator>
+	<dc:creator xml:lang="en">Marini, Alberto</dc:creator>
+	<dc:creator xml:lang="en">Foti, Enrico</dc:creator>
+	<dc:creator xml:lang="en">Caceres Rabionet, Ivan</dc:creator>
+	<dc:creator xml:lang="en">Sanchez Arcilla, Agustin</dc:creator>
+	<dc:subject xml:lang="en">computer visione</dc:subject>
+	<dc:subject xml:lang="en">morphological changes</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:description xml:lang="en">The use of different optical systems based on computer vision approach, for measuring swash zone morphological changes, is here proposed. In particular, such techniques are able to achieve quite accurate 2D and 3D reconstruction of the sandy bottom in dynamic conditions under regular waves. They are considered truly non-invasive, since there is no interaction of the hardware with the water motion. The optical techniques have been applied both at small and at large scale facilities for the investigation on the seabed interaction with the fluid motion within the swash zone. The performances of well-established more traditional measurement instruments have been compared with the proposed optical instruments both at small and large scales. In both cases satisfactory results have been gathered during the present experimental campaign.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1171</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1171/pdf_226</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

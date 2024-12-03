@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5270</identifier>
+				<datestamp>2021-01-19T13:16:40Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BOTTOM FRICTION DISSIPATION IN THE BELGIAN COASTAL REGIONS</dc:title>
+	<dc:creator xml:lang="en">Luo, Weimin</dc:creator>
+	<dc:creator xml:lang="en">Monbaliu, Jaak</dc:creator>
+	<dc:creator xml:lang="en">Berlamont, Jean</dc:creator>
+	<dc:subject xml:lang="en">bottom friction</dc:subject>
+	<dc:subject xml:lang="en">dissipation</dc:subject>
+	<dc:subject xml:lang="en">Belgium</dc:subject>
+	<dc:description xml:lang="en">The effect of bottom friction dissipation and of the different formulations used for this term on the wave evolution has been investigated in the Belgian coastal regions. Two eddy viscosity models for the bottom friction dissipation, the Madsen et al. (1988) model and Weber's (1991a) model have been implemented in the Cycle 4 version of the third generation WAM model (Gunther et al., 1992). The wave conditions for the area of the southern North Sea were hindcasted for the February 1993 storm. The results are compared with buoy data. It is found that the net effect of bottom friction dissipation on the significant wave height hindcast is quite big, in the order of 80% (of the wave height when the bottom frictiion dissipation is taken into account) along the Belgian coast. Different formulations for the bottom friction dissipation have a quite significant effect on wave evolution in storm conditions. The use of equivalent dissipation coefficients (Luo et al., 1994) results in nearly identical wave hindcasts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5270</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5270/4948</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

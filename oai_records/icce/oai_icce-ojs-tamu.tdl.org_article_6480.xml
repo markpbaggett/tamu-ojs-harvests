@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6480</identifier>
+				<datestamp>2023-10-04T03:30:21Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE HEIGHTS RECOVERY FROM SUBSURFACE PRESSURES UPON A SMALL VERTICAL CYLINDER</dc:title>
+	<dc:creator xml:lang="en">Mai, Tri Cao</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:subject xml:lang="en">wave height</dc:subject>
+	<dc:subject xml:lang="en">dynamic pressure</dc:subject>
+	<dc:subject xml:lang="en">small vertical cylinder</dc:subject>
+	<dc:subject xml:lang="en">transfer function</dc:subject>
+	<dc:subject xml:lang="en">empirical factor</dc:subject>
+	<dc:description xml:lang="en">In this paper, the fluctuation of water surface has been recovered from subsurface dynamic pressures exerted on a small vertical cylinder of a tripod structure and it finds that the wave heights can be estimated accurately from the pressures measured at Î¸ = 180°. Seven pressure transducers were mounted around the cylinder to get the circumference distribution of the dynamic pressures. The time histories of the water surface fluctuations and the concurrent dynamic pressures upon the cylinder have been analyzed in frequency domain. A part of the linear diffraction theory of MacCamy &amp; Fuchs has been applied to analyze the experimental data. Additionally, the empirical factor, which is the ratio of the measured and recovered wave height, is presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6480</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6480/pdf_493</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5113</identifier>
+				<datestamp>2021-01-19T14:08:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF NEARSHORE WAVE CURRENT INTERACTION BY COUPLING A BOUSSINESQ WAVE MODEL WITH A 3D HYDRODYNAMIC MODEL</dc:title>
+	<dc:creator xml:lang="en">Mayerie, Roberto</dc:creator>
+	<dc:creator xml:lang="en">Schroter, Andreas</dc:creator>
+	<dc:creator xml:lang="en">Zielke, Werner</dc:creator>
+	<dc:subject xml:lang="en">hydrodynamic model</dc:subject>
+	<dc:subject xml:lang="en">3D model</dc:subject>
+	<dc:subject xml:lang="en">wave simulation</dc:subject>
+	<dc:subject xml:lang="en">wave/current interaction</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq model</dc:subject>
+	<dc:description xml:lang="en">This paper describes a deterministic modelling system under development at the Institute of Fluid Mechanics in Hannover to simulate three dimensional wave induced currents and the morphological evolution in the nearshore region. It is basically a coupling of a 2d Boussinesq wave model which predicts the wave motion along the horizontal direction with a 3d hydrodynamic, sediment transport and morphodynamic models that simulate the time averaged wave induced currents and the associated changes in the bathymetry due to sediment transport. It is intended to improve the understanding of morphological processes, investigate the impact of sea level rises due to climate change, study extreme events and assess in the selection of cost effective measures for coastal protection. Results of a demonstration of the simulation of the wave induced currents along a nearshore region in the Baltic Sea are shown.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5113</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5113/4791</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

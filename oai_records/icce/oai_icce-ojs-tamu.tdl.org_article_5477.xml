@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5477</identifier>
+				<datestamp>2021-01-19T12:08:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF SHORELINE CHANGE CONSIDERING CROSS-SHORE SEDIMENT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Yamamoto, Yoshimichi</dc:creator>
+	<dc:creator xml:lang="en">Horikawa, Kiyoshi</dc:creator>
+	<dc:creator xml:lang="en">Tanimoto, Katsutoshi</dc:creator>
+	<dc:subject xml:lang="en">shoreline change</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">transport prediction</dc:subject>
+	<dc:subject xml:lang="en">crossshore transport</dc:subject>
+	<dc:description xml:lang="en">Relations of cross-shore sediment transport rate with the grain size of sediment, the sea bottom slope in a surf zone and others were investigated by using data of field observation and large scale model experiments. The results are as follows : (1) the coefficient of a cross-shore sediment transport rate varies inversely as the 1.31th power of the grain size. Then, the steeper a initial bottom slope is, the faster a beach profile reaches a state of equilibrium. (2) The amount of a shoreline change is roughly proportional to the square root of the cross-shore sediment transport rate. (3) The stabilized bottom slope in the surf zone increases with the grain size and the wave period, and it decreases as the breaking wave height increases. Then, new equations to predict a beach profile change induced by crossshore sediment transport were introduced from this investigation. Moreover, the adequate applicability of these equations to actual coasts was confirmed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5477</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5477/5153</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

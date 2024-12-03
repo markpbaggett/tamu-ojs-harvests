@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5673</identifier>
+				<datestamp>2021-01-19T11:03:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LOW FREQUENCY SURF ZONE RESPONSE TO WAVE GROUPS</dc:title>
+	<dc:creator xml:lang="en">Haller, Merrick C.</dc:creator>
+	<dc:creator xml:lang="en">Putrevu, Uday</dc:creator>
+	<dc:creator xml:lang="en">Oltman-Shay, Joan</dc:creator>
+	<dc:creator xml:lang="en">Dalrymple, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">low frequency response</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:description xml:lang="en">The nearshore potential vorticity balance of Bowen and Holman (1989) is expanded to include the forcing from wave group-induced radiation stresses. Model results suggest that the forcing from radiation stresses can drive oscillations in the longshore current that have a spatial structure similar to linear shear instabilities of the longshore current. In addition, the forced response is nearly resonant when the forcing has scales (k, a) similar to the linearly most unstable mode. Thus, we suggest that the wave groups may provide an initial perturbation necessary for the generation of shear instabilities of longshore currents and enough forcing to overcome frictional damping. Analysis of data from the SUPERDUCK (1986) field experiment reveals that wave groups were present on days when strong low frequency surf zone motion (shear waves) existed. In addition, some of these groups are shown to have periods and longshore spatial structures comparable to the observed shear wave motions suggesting that incident wave groups are present on this open coast with the required spatial and temporal structure to initiate the low frequency oscillations in the longshore current.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5673</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5673/5343</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

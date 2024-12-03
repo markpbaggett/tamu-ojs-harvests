@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3134</identifier>
+				<datestamp>2021-01-20T01:28:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GROIN LENGTH AND THE GENERATION OF EDGE WAVES</dc:title>
+	<dc:creator xml:lang="en">Gaughan, Michael K.</dc:creator>
+	<dc:creator xml:lang="en">Komar, Paul D.</dc:creator>
+	<dc:subject xml:lang="en">groin</dc:subject>
+	<dc:subject xml:lang="en">groin length</dc:subject>
+	<dc:subject xml:lang="en">edge waves</dc:subject>
+	<dc:subject xml:lang="en">wave generation</dc:subject>
+	<dc:description xml:lang="en">A series of wave basin experiments were undertaken to better understand the selection of groin spacings and lengths. Rather than obtaining edge waves with the same period as the normal incident waves, subharmonic edge waves were produced with a period twice that of the incoming waves and a wave length equal to the groin spacing. Rip currents were therefore not formed by the interactions of the synchronous edge waves and normal waves as proposed by Bowen and Inman (1969). Rips were present in the wave basin but their origin is uncertain and they were never strong enough to cause beach erosion. The generation of strong subharmonic edge waves conforms with the work of Guza and Davis (1974) and Guza and Inman (1975). The subharmonic edge waves interacted with the incoming waves to give an alternating sequence of surging and collapsing breakers along the beach. Their effects on the swash were sufficient to erode the beach in some places and cause deposition in other places. Thus major rearrangements of the sand were produced between the groins, but significant erosion did not occur as had been anticipated when the study began. By progressively decreasing the length of the submerged portions of the groins, it was found that the strength (amplitude) of the edge waves decreases. A critical submerged groin length was determined whereby the normally incident wave field could not generate resonant subharmonic edge waves of mode zero with a wavelength equal to the groin spacing. The ratio of this critical length to the spacing of the groins was found in the experiments to be approximately 0.15 to 0.20, and did not vary with the steepness of the normal incident waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3134</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.85</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 85</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3134/2799</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

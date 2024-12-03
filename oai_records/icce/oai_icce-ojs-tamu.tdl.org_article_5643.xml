@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5643</identifier>
+				<datestamp>2021-01-19T11:12:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE SETUP AND OTHER TIDAL ANOMALIES IN COASTAL RIVERS</dc:title>
+	<dc:creator xml:lang="en">Santoso, Eko</dc:creator>
+	<dc:creator xml:lang="en">Hanslow, David</dc:creator>
+	<dc:creator xml:lang="en">Nielsen, Peter</dc:creator>
+	<dc:creator xml:lang="en">Hibbert, Kevin</dc:creator>
+	<dc:subject xml:lang="en">coastal river</dc:subject>
+	<dc:subject xml:lang="en">setup</dc:subject>
+	<dc:subject xml:lang="en">tidal anomaly</dc:subject>
+	<dc:description xml:lang="en">The tailwater level is together with rainfall the most important input to flood modeling in coastal rivers. Thus, the needfor an ocean-river interface which can provide tailwater levels for numerical models is obvious. The state ofthe art is however not very advanced. Detailed waterlevel profiles through the Brunswick River entrance from 500m inside the breakwaters to 150m outside during a wide range of weather conditions revealed that the wave setup through the zone of wave breaking is much smaller than what is being used by practicing modelers in Australia. Barometric effects of the order lcm per hPa is only a minor part of the tidal anomalies, which range up to 0.8m 500m inside the breakwaters, and wind effects, although not modeled in detail, are estimated to be small on the fairly narrow continental shelf of South East Australia. Tidal anomalies of the order 0.5 to 0.7 metres have been observed in the absence of rainfall and strong local winds during Cyclone Roger in 1993. An offshore record indicated that a substantial fraction of this tidal anomaly (of the order 0.25m) also occurred in 25m of water offshore from the Tweed River on the border between New South Wales and Queensland. This indicates the presence of weather related oceanic forcing of a nature which is not understood in detail.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5643</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5643/5313</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

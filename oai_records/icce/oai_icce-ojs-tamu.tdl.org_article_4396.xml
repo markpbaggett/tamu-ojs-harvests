@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4396</identifier>
+				<datestamp>2021-01-19T18:14:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENTRAINMENT DUE TO MEAN FLOW IN TWO-LAYERED FLUID</dc:title>
+	<dc:creator xml:lang="en">Ura, Masaru</dc:creator>
+	<dc:creator xml:lang="en">Matsunaga, Nobuhiro</dc:creator>
+	<dc:subject xml:lang="en">two layered fluid</dc:subject>
+	<dc:subject xml:lang="en">mean flow</dc:subject>
+	<dc:subject xml:lang="en">entrainment</dc:subject>
+	<dc:description xml:lang="en">The entrainment phenomena have been investigated across an interface between two-layered stratified flow induced by wind shear stress. The velocities of mean flow, turbulence and entrainment have been measured under three different conditions of water surface by using a wind-wave tank. When the entrainment velocity ue is expressed on the basis of the turbulent quantities at the interface, the turbulent entrainment coefficient E ( = ue/u) is given by E = A-(egl/u2)-3I1 ( A = 0.7). Here Eg, u and 1 are the effective buoyancy, the turbulence intensity and the integral lengthscale of turbulence at the interface, respectively. This result coincides with the relationship of entrainment due to oscillating grid turbulence, in which the mean flow does not exist. When, for the practical purpose, the estimation of ue is made by using the mean velocity Um and the depth h of mixed layer, Em ( - Ue/Um ) = Am-(egh/Um 2)"3/2 is derived from the transformation of E = A-(egl/u2)-3/2. There holds Am = A-Tf between Am and Tf, Tf being a turbulence factor given by (u/Um)4-(1/h)-3/2. It has been found that this relationship is also valid in various types of two-layered stratified flows as well as the wind-induced two-layered flows.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4396</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.189</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 189</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4396/4077</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

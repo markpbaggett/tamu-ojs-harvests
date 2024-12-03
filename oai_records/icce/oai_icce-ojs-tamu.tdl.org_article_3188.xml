@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3188</identifier>
+				<datestamp>2021-01-20T01:09:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEAR-BOTTOM WATER MOTION UNDER OCEAN WAVES</dc:title>
+	<dc:creator xml:lang="en">Grace, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">bottom motion</dc:subject>
+	<dc:subject xml:lang="en">motion under waves</dc:subject>
+	<dc:description xml:lang="en">A two-year ocean experiment involving wave-induced forces on a test pipe mounted on the sea floor [Grace and Nicinski (1976)] involved the measurement of various quantities other than the pipe forces per se. A pair of these involved surface wave characteristics and wave-induced water motion at the level of the pipe centerline but off to one end of the pipe. These wave-kinematics data have been combined, and the results of this work make up this paper in which the emphasis is on the deterministic approach to data interpretation. Presented are comparisons of the velocity and acceleration data with the predictions of Airy and stream function theories plus discussion of the dispersion of the field data. The primary intent of the paper is to suggest to designers of bottom-laid structures, such as pipes, how values of the peak velocity and maximum acceleration of the water motion associated with a non-breaking design wave of specified characteristics can be chosen.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3188</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.138</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 138</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3188/2852</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

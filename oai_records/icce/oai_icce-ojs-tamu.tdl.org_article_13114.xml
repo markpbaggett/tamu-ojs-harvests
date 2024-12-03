@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13114</identifier>
+				<datestamp>2023-10-03T02:57:51Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCALABLE REAL-TIME DATA ASSIMILATION WITH VARIOUS DATA TYPES FOR ACCURATE SPATIOTEMPORAL NEARSHORE BATHYMETRY ESTIMATION</dc:title>
+	<dc:creator xml:lang="en">Lee, Jonghyun Harry</dc:creator>
+	<dc:creator xml:lang="en">Hesser, Tyler</dc:creator>
+	<dc:creator xml:lang="en">Farthing, Matthew</dc:creator>
+	<dc:creator xml:lang="en">Bak, Spicer</dc:creator>
+	<dc:creator xml:lang="en">DeVore, Katherine</dc:creator>
+	<dc:description xml:lang="en">Immediate estimation of nearshore bathymetry is crucial for accurate prediction of nearshore wave conditions and coastal flooding events. However, direct bathymetry data collection is expensive and time-consuming, while accurate airborne lidar-based survey is limited by breaking waves and decreased light penetration affected by water turbidity. Several recent efforts have been made to apply interpolation and inverse modeling approaches to indirect remote sensed observations along with sparse direct survey data points. Example indirect observations include video-based observations such as time-series snapshots and time-averaged (Timex) images across the surf zone taken from tower-based platforms and Unmanned Aircraft Systems (UASs), while stationary LiDAR tower and UAS flights with infrared camera capability or imagery-based structure-from-motion (SfM) algorithms have been used to provide beach topographic data. In this work, we present three bathymetry estimation tools for real-time nearshore characterization using different types of information.            </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13114</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.156</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.156</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13114/12387</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jonghyun Harry Lee, Tyler Hesser, Matthew Farthing, Spicer Bak, Katherine DeVore</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

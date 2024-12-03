@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6712</identifier>
+				<datestamp>2023-10-04T02:42:49Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVOLUTION OF LOCAL SCOUR AROUND A COLLARED MONOPILE THROUGH TIDAL CYCLES</dc:title>
+	<dc:creator xml:lang="en">McGovern, David J</dc:creator>
+	<dc:creator xml:lang="en">Ilic, Suzana</dc:creator>
+	<dc:creator xml:lang="en">Folkard, Andrew M</dc:creator>
+	<dc:creator xml:lang="en">McLelland, Stuart J</dc:creator>
+	<dc:creator xml:lang="en">Murphy, Brendan J</dc:creator>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:subject xml:lang="en">scour reduction</dc:subject>
+	<dc:subject xml:lang="en">offshore wind farms</dc:subject>
+	<dc:subject xml:lang="en">collared monopile</dc:subject>
+	<dc:subject xml:lang="en">scour in tidal flow</dc:subject>
+	<dc:description xml:lang="en">This paper presents the results of an experiment designed to assess the time-development of scour around an offshore wind turbine collared monopile over a number of tidal cycles. One collar shape and location was investigated. The scour developed more slowly and the scour depth was shallower than for the case of a smooth monopile throughout the majority of the first half-cycle.  This difference reduced quite rapidly during the second half-cycle and the scour depth at the end of two tidal cycles was essentially the same as for the smooth monopile. The time development of the scour was compared with results from existing empirical models for the time-development of scour under unidirectional flow. As expected, these models give a much smoother evolution of scour and different scour rates than those measured. Time variation in scour depth was better reproduced with a simplified approach for prediction of the time-varying development of scour. This also highlighted a problem with estimation of the time scale for the development of the equilibrium scour depth. Further investigations are needed before this alternative scour protection is completely rejected.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6712</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.113</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.113</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6712/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

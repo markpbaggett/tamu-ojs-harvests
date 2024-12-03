@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10150</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CALCULATION METHOD OF UPLIFT FORCES AT PIER  BASED ON GAS-LIQUID PHASE FLOW MODEL</dc:title>
+	<dc:creator xml:lang="en">Okamoto, Daishi</dc:creator>
+	<dc:creator xml:lang="en">Ookubo, Hiroshi</dc:creator>
+	<dc:creator xml:lang="en">Kasahara, Hirotsugu</dc:creator>
+	<dc:creator xml:lang="en">Nakamura, Naoyuki</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Masashi</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">Seaside facilities such as pier are affected by uplift forces due to storm surge and waves caused by typhoons. Therefore, detailed knowledge of external force is required for designing the pier (Tanimoto et al., 1978). Previously, the elucidation of the uplift forces and the shock wave pressure has been a major issue. Indeed, it has been clarified by experiments. Bagnold (1939) conducted an experimental study for revealing the relationship between the air layer and the pressure value, and found that air, which is a compressible fluid, reduces the pressure value. Furthermore, air has the effect for prolonging the action time. Arikawa and Yamano (2009) conducted the numerical simulation of shock breaking wave pressure by considering the inclusion of gas, and it was shown that the shock wave pressure after breaking wave can be reproduced. However, there are few cases that numerical calculation is considered for phenomena such as lifting pressure that are greatly affected by air. In this research, reproduction calculation of experiment was performed using numerical calculation for incompressible fluid. In addition, we will make a hole in the slab for calculation and investigate how the uplift forces changes.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/0o5GGt442jU</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10150</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10150/9436</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Daishi Okamoto, Hiroshi Ookubo, Hirotsugu Kasahara, Naoyuki Nakamura, Masashi Watanabe, Taro Arikawa</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

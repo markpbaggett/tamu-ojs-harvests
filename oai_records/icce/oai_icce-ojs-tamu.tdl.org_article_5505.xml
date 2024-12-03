@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5505</identifier>
+				<datestamp>2021-01-19T11:59:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF SATELLITE IMAGES TO THE DETECTION OF COASTAL TOPOGRAPHY</dc:title>
+	<dc:creator xml:lang="en">Wu, Ji</dc:creator>
+	<dc:creator xml:lang="en">Juang, Jea Tzyy</dc:creator>
+	<dc:subject xml:lang="en">topography</dc:subject>
+	<dc:subject xml:lang="en">satellite imaging</dc:subject>
+	<dc:description xml:lang="en">Taking advantage of the high resolution visible images from the remotely sensed data of SPOT, the phenomenon of waves in the coastal area of Taichung was analyzed and its changing characteristics were studied. Changes of wave direction are affected by coastal topography; therefore, the changes of water depth can be detected by waves characters. In this study, the P band image data of SPOT of Taichung coast taken on 8th December 1993 was used. After dividing the area from deep to shallow into several blocks, each with 128x128 pixels, the wave images were transformed into two dimensional wave number spectra by ways of Fourier Transform. After that, the wave direction and the wave length were calculated. Results show that the shallower the water depth, the shorter the wave length; and the wave rays tend to approach shore normally. The phenomenon coincides with the theorem of wave dispersion. At last, based on the Snell's Law and the theory of shoaling, the average depth of each block was calculated. The results are encouraging.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5505</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5505/5180</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

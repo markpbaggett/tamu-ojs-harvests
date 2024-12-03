@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1402</identifier>
+				<datestamp>2023-10-04T03:44:15Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEDIUM-TERM MORPHODYNAMIC MODELING OF MIXED MUD AND SAND IN THE</dc:title>
+	<dc:creator xml:lang="en">Witting, Markus</dc:creator>
+	<dc:creator xml:lang="en">Wehmeyer, Christof</dc:creator>
+	<dc:creator xml:lang="en">Niemeyer, Hanz Dieter</dc:creator>
+	<dc:subject xml:lang="en">morphodynmic modeling</dc:subject>
+	<dc:subject xml:lang="en">cohesive sediment transport</dc:subject>
+	<dc:subject xml:lang="en">initial grain size distribution</dc:subject>
+	<dc:description xml:lang="en">A morphodynamic model for the Jadebusen basin based on the current DELFT3D model is established. With
+morphological information such as qualitative measurements of SPM-concentration (Suspended Particular Matter) and
+bottom change estimates as well as detailed surveys of a sand pit refilling process the model parameters for cohesive
+transport (Partheniades 1965) are calibrated. Within a period of 8 month, which is condensed to a representative
+period of 28 days for the modeling, almost 45% of the initial pit volume was refilled with mud. Despite the lack of
+specific field measurements a setup of mud transport parameters can be defined, which allows further investigations of
+sand pit locations in the Jadebusen basin. On major outcome is that critical erosion shear stresses for mud should be
+spatially varied in order to account for the different consolidation states of the mud fraction. Furthermore the paper
+addresses the problem of the initial grain size distribution for graded sediment transport. Wadden flat types are
+characterized based on aerial observations which build the underlying information for a relocation model run.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1402</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1402/pdf_353</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

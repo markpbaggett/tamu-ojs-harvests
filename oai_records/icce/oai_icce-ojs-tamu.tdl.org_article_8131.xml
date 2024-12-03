@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8131</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOW DYNAMICS OF WAVES  PROPAGATING OVER DIFFERENT PERMEABLE BEDS</dc:title>
+	<dc:creator xml:lang="en">Corvaro, Sara</dc:creator>
+	<dc:creator xml:lang="en">Mancinelli, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Brocchini, Maurizio</dc:creator>
+	<dc:subject xml:lang="en">permeable bed</dc:subject>
+	<dc:subject xml:lang="en">porous medium</dc:subject>
+	<dc:subject xml:lang="en">wave damping</dc:subject>
+	<dc:subject xml:lang="en">friction factor</dc:subject>
+	<dc:description xml:lang="en">The analysis of the hydrodynamics over porous media is of interest for many coastal engineering applications as the wave propagation over permeable structures or gravel beaches. The study of a boundary layer evolving over permeable beds is important to a better understanding of the interactions between the flow over and inside the porous medium. An experimental study has been performed to analyze the dynamics produced when waves propagate over two kinds of permeable beds: spheres (regular permeability) and natural stones. For comparative purposes the same analysis has been extended to two rough beds made, respectively, by a single layer of spheres and natural stones. We here focus on the correlation between the wave energy reduction induced by a porous bed and the flow resistance. An experimental law for the prediction of the friction factor is found by using the log-fit method in analogy to that reported in Dixen et al. (2008) for rough beds. Moreover, inspection of the turbulent velocity components allows one to evaluate the bottom shear stress. The latter analysis has been performed for different permeable beds (regular and irregular beds). A good agreement between the bottom shear stress behavior and the wave height attenuation over rough and permeable beds (Corvaro et al. 2010 and Corvaro et al. 2014a) has been observed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8131</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8131/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

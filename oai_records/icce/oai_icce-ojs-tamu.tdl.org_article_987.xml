@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/987</identifier>
+				<datestamp>2023-10-04T04:42:36Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVOLUTION OF DAMAGED ARMOR LAYER PROFILE</dc:title>
+	<dc:creator xml:lang="en">Farhadzadeh, Ali</dc:creator>
+	<dc:creator xml:lang="en">Kobayashi, Nobuhisa</dc:creator>
+	<dc:creator xml:lang="en">Melby, Jeffrey</dc:creator>
+	<dc:subject xml:lang="en">rubble-mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">damage progression</dc:subject>
+	<dc:subject xml:lang="en">coastal structure</dc:subject>
+	<dc:subject xml:lang="en">wave-structure interaction</dc:subject>
+	<dc:subject xml:lang="en">armor  layer</dc:subject>
+	<dc:description xml:lang="en">A probabilistic hydrodynamic model for the wet and dry zone on a permeable structure is developed to predict irregular wave action on the structure above the still water level. The model is based on the time-averaged continuity and momentum equations for nonlinear shallow-water waves coupled with the exponential probability distribution of the water depth. The model predicts the cross-shore variations of the mean and standard deviation of the water depth and horizontal velocity. Damage progression of a stone armor layer is predicted by modifying a formula for bed load on beaches with input from the hydrodynamic model. The damage progression model is compared with three tests by 
+Melby and Kobayashi (1998) that lasted up to 28.5 hours. The model predicts the temporal progression of the eroded area quite well. The numerical model is very efficient and suited for a risk-based design of rubble mound structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/987</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/987/pdf_14</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

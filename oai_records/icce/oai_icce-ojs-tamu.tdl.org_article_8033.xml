@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8033</identifier>
+				<datestamp>2021-01-20T04:30:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE INFLUENCE OF AN EXISTING VERTICAL STRUCTURE ON THE INCEPTION OF WAVE BREAKING POINT</dc:title>
+	<dc:creator xml:lang="en">Kisacik, Dogan</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:subject xml:lang="en">Wave breaking</dc:subject>
+	<dc:subject xml:lang="en">wave reflection</dc:subject>
+	<dc:subject xml:lang="en">wave shoaling and vertical structures</dc:subject>
+	<dc:description xml:lang="en">Vertical breakwaters and sea walls are frequently used structures to protect ports from sea actions like waves and high water levels. Vertical structures expose slowly-acting pulsating loads or more intense but shorter lasting impulsive loads. Prediction methods for wave loads to calculate hydraulic responses of these structures generally use the incident significant wave height, often defined in the water depth at the seaward toe of the structure (h_s). Where, wave breaking has significant influence on design wave heights. In addition, due to the result of the reflection or/and turbulence left from preceding waves, the inception of wave breaking point is different than the point in the case without vertical structures. Therefore, the hydraulic performance of load tests on vertical structures should be known. 
+The reflection coefficients C_r, measured at the toe of the foreshore, are categorized based on the breaker shapes. According to the results, C_r values between, 0.55-0.80, and 0.45-0.70 are found for breaker types BWSAT (breaking with small air trap) and BWLAT (breaking with large trap) respectively. 
+The margin between non-braking and breaking waves is considered as the inception point of breaking. This point is compared with the breaking point for the measurements without the scaled model to determine the influence of the scaled model on the inception point of the wave breaking. It is seen that the existence of the model postpones the inception of wave breaking for some waves which would normally break without the presence of the scaled model. 
+The main objective of the present research is to improve methods to predict wave behavior and breaker heights for increasing safety of structures constructed in the surf zone. In this particular research, small scale model tests were carried out to fulfill the above goals.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8033</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8033/pdf_810</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

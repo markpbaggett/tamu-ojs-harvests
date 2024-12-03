@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/910</identifier>
+				<datestamp>2021-01-17T07:36:39Z</datestamp>
+				<setSpec>icce:ICCE</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE RECORDERS</dc:title>
+	<dc:creator xml:lang="en">Snodgrass, F. E.</dc:creator>
+	<dc:subject xml:lang="en">field work</dc:subject>
+	<dc:subject xml:lang="en">wave gage</dc:subject>
+	<dc:subject xml:lang="en">gauge</dc:subject>
+	<dc:description xml:lang="en">Several satisfactory instruments are available for recording the height and period of ocean waves, and new improved gages for this purpose are being designed. The actual procurement of wave data is no longer a major problem, but the present theories interpreting these data and the methods of data analysis leave much to be desired. Definitions of characteristic wave height and wave period are vague, as no specific period of observation is designated for determining these measurements. Analysis techniques and results are inconsistent. Preliminary studies of the statistical distribution of wave heights are encouraging, but no simple method of describing the waves with regard to period has been developed. Current hydrodynamic wave theory is apparently in error, and reexamination of this basic theory in regard to the hydrodynamic attenuation factor should be made.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1950-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/910</dc:identifier>
+	<dc:identifier>10.9753/icce.v1.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 1 (1950): Proceedings of First Conference on Coastal Engineering, Long Beach, California, October, 1950.; 7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/910/007_Snograss</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

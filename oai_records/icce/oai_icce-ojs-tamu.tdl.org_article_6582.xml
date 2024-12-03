@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6582</identifier>
+				<datestamp>2023-10-04T03:16:03Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUANTIFYING NEARSHORE MORPHOLOGICAL RECOVERY TIME SCALES USING ARGUS VIDEO IMAGING: PALM BEACH, SYDNEY AND DUCK, NORTH CAROLINA</dc:title>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:creator xml:lang="en">Holman, Rob</dc:creator>
+	<dc:creator xml:lang="en">de Schipper, Matthieu</dc:creator>
+	<dc:creator xml:lang="en">Lippmann, Tom</dc:creator>
+	<dc:creator xml:lang="en">Wehof, Jennifer</dc:creator>
+	<dc:creator xml:lang="en">Duong, Trang Minh</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Stive, Marcel</dc:creator>
+	<dc:subject xml:lang="en">Morphological resets</dc:subject>
+	<dc:subject xml:lang="en">Storm impact</dc:subject>
+	<dc:subject xml:lang="en">recovery time scales</dc:subject>
+	<dc:subject xml:lang="en">ARGUS</dc:subject>
+	<dc:description xml:lang="en">Time scales of post-storm nearshore morphological recovery and physical processes governing these time scales are poorly understood at present. The ability to predict nearshore morphological recovery time scales based on pre-, during- or post-resetting storm conditions is an essential requirement for building and validating scale aggregated models that operate at macro- and higher spatio-temporal scales. In this study, quality controlled ARGUS video derived beach states at Palm Beach, Sydney (4 years) and Duck, NC (2 years) and concurrent wave data are analysed to quantify the nearshore morphological recovery time scales (Tmr) and to determine the physical processes that may govern Tmr. The results show that Tmr is of the order of 5-10 days at these two beaches. Tmr is moderately positively correlated with the averaged longshore current over the 3 days immediately after the resetting storm, indicating that it might be possible to develop a predictor for Tmr based on wave conditions immediately after the resetting storm. Weak correlations are present between Tmr and several pre-storm, during-storm and post-storm parameters at the two sites. However, these correlations are inconsistent between the two sites. A thorough analysis employing long-term beach state and wave data at several different study sites is required to fully understand this phenomenon.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6582</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6582/pdf_577</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4557</identifier>
+				<datestamp>2021-01-19T17:19:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCALE EFFECT OF WAVE FORCE ON ARMOR UNITS</dc:title>
+	<dc:creator xml:lang="en">Sakakiyama, Tsutomu</dc:creator>
+	<dc:creator xml:lang="en">Kajima, Ryoichi</dc:creator>
+	<dc:subject xml:lang="en">armor units</dc:subject>
+	<dc:subject xml:lang="en">scale effect</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:description xml:lang="en">This paper describes the scale effect in experiments on the stability of armor units from the point of view of the wave forces. The relationship between the drag coefficient CD and the stability coefficient KD of Hudson formula is theoretically derived to be that KD « CD"3 on the condition that the inertia force is negligible. Three kinds experiments were performed by using various sizes of Tetrapods ranging from 16 g to 6800 g according to the Froude law for scaling, 1) to measure wave force on an armor unit placed in an armor layer of a breakwater, 2) to determine the drag and inertia coefficients in wave fields, and 3) to determine the drag coefficient in a steady flow. It is found that the wave force in the small-scale experiments is relatively larger than that in the large-scale experiments. As the wave height increases, the drag force becomes predominant in comparison with the inertia force. It is concluded that the scale effect of the wave force on armor units is mainly due to the change of the relative drag force number as a function of Reynolds number.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4557</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4557/4238</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

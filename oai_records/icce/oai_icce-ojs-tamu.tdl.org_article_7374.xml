@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7374</identifier>
+				<datestamp>2021-01-19T04:47:50Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EFFECTS OF WAVE-BREAKING-INDUCED TURBULENT COHERENT STRUCTURES ON BOTTOM STRESS AND SUSPENDED SEDIMENT TRANSPORT - A 3D NUMERICAL STUDY</dc:title>
+	<dc:creator xml:lang="en">Zhou, Zheyu</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Tian-Jian</dc:creator>
+	<dc:creator xml:lang="en">Ting, Francis C. K.</dc:creator>
+	<dc:creator xml:lang="en">Liu, Xiaofeng</dc:creator>
+	<dc:subject xml:lang="en">Breaking wave</dc:subject>
+	<dc:subject xml:lang="en">sediment suspension</dc:subject>
+	<dc:subject xml:lang="en">Large Eddy Simulation</dc:subject>
+	<dc:description xml:lang="en">To better understand the effect of wave-breaking-induced turbulence on nearshore sand transport, we carry out a 3D Large Eddy Simulation study of breaking solitary wave in spilling condition. Using a turbulence-resolving approach, we investigate the formation and evolution of wave-breaking-induced turbulent coherent structures, commonly known as obliquely descending eddies (ODEs), and how they may interact with the bed and enhance the suspended sediment transport. The numerical implementation is based on an open-source CFD library of solvers, called OpenFOAM®, where the incompressible 3D filtered Navier-Stokes equations for the water and the air phases are solved with a finite volume scheme. The evolution of the water-air interfaces are approximated with a Volume of Fluid (VOF) method. With the dynamic Smagorinsky closure, the numerical model results show good agreement with measured wave flume data of solitary wave breaking over a 1/50 sloping beach. Simulation results show that 3D hairpin vortices are generated under breaking wave, and they possess counter-rotating and downburst features, which are the key characteristics of obliquely descending eddies (ODEs) observed by earlier laboratory studies with Particle Image Velocimetry. A suspended sediment transport formulation (Liu and Garcia 2008) has been incorporated into the present hydrodynamic solver as part of the OpenFOAM® framework. Model results suggest that those ODEs that impinge onto the bed can cause significant bottom sediment suspension, and the location of the sediment plume is highly associated with the impinging points of ODEs but with notable time-lag.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7374</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7374/pdf_737</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

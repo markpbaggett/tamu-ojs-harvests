@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4183</identifier>
+				<datestamp>2021-01-19T19:27:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">2 - D CIRCULATION IN THE SARONIC GULF</dc:title>
+	<dc:creator xml:lang="en">Christodoulou, George C.</dc:creator>
+	<dc:creator xml:lang="en">Kouloumbis, Arthanassios E.</dc:creator>
+	<dc:creator xml:lang="en">Aza, Alice O.</dc:creator>
+	<dc:subject xml:lang="en">Saronic Gulf</dc:subject>
+	<dc:subject xml:lang="en">circulation</dc:subject>
+	<dc:subject xml:lang="en">2D circulation</dc:subject>
+	<dc:description xml:lang="en">The paper refers to mathematical modeling of the 2-D hydrodynamic circulation in the Saronic Gulf, in Greece. The finite element method is followed to evaluate the flow behaviour. Two grids are employed, a coarse one for initial model adaptation and a finer one for a more detailed study of circulation patterns. Actual tide data are obtained at the boundary of the domain and a typical compound tide is introduced; however residual tidal currents are found to be negligible. Wind-generated flow fields under several prevailing wind directions are determined and their comparison to qualitative field evidence is satisfactory. Furthermore, a possible surface tilt along the open boundary associated with large scale circulation in the Aegean Sea, is studied and shown to produce, significant motion in the Gulf. Based on circulation patterns obtained, preliminary estimates of dispersion from a proposed sea outfall for Athens sewage can be made. Further work proceeds towards quantitative verification of the model in connection with the proper description of forcing mechanisms and their superposition.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4183</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.182</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 182</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4183/3864</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

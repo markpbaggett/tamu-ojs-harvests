@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4716</identifier>
+				<datestamp>2021-01-19T16:25:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEW APPROACH FOR ESTIMATING THE SEVEREST SEA STATE FROM STATISTICAL DATA</dc:title>
+	<dc:creator xml:lang="en">Ochi, Michel K.</dc:creator>
+	<dc:subject xml:lang="en">sea state</dc:subject>
+	<dc:subject xml:lang="en">severe weather</dc:subject>
+	<dc:subject xml:lang="en">statistical data</dc:subject>
+	<dc:description xml:lang="en">This paper discusses a feature of the generalized gamma distribution which is particularly appropriate for statistical analysis of long-term significant wave height data. The agreement between the cumulative distributions of the data and the generalized gamma distribution is shown to be satisfactory. Methods to estimate the probable extreme sea state (significant wave height) expected in a specified time period as well as the extreme sea state for design consideration of marine systems are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4716</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4716/4397</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

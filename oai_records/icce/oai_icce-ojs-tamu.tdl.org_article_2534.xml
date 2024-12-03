@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2534</identifier>
+				<datestamp>2021-01-17T04:34:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE DYNAMICS OP A COAST WITH A GROYNE SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Bakker, W.T.</dc:creator>
+	<dc:subject xml:lang="en">groin</dc:subject>
+	<dc:subject xml:lang="en">groin system</dc:subject>
+	<dc:subject xml:lang="en">coastal dynamics</dc:subject>
+	<dc:description xml:lang="en">A mathematical theory will be given about the phenomena, which occur if on a coastal area groynes are constructed. In former similar theories ( [1] , [2], [3] , [4], [5] ) the coast was schematised by one coastline. In the following theory it is presented by two lines, one line representing the beach and the other one the inshore. The theory is based upon the following assumptions- 1° the littoral drift along beach and inshore is linear dependent of the angle of wave incidence and therefore of the direction of the line of beach and inshore respectively; 2 the transport perpendicular to the coast depends on the steepness of the profile. If the distance between the line of the beach and the line of the inshore is less than a certain equilibrium distance, the profile is too steep and there is an offshore transport. In the opposite case there is an onshore transport. The relation between offshore transport and distance between the mentioned lines is linearised. Some results are shown in fig. 8, 9 and 13. It is found, dat the influence of a groyne system is threefold: they reflect short-period beach processes on the adjacent areas, they retard erosion and they give a lee-side scour. But the theory only gives one aspect: influence of diffraction and of currents is not yet taken into account.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2534</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2534/2199</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

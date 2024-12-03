@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12727</identifier>
+				<datestamp>2023-09-01T15:12:38Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING INFRA-GRAVITY WAVES USING SCHISM-WWMIII BASED ON IMPROVED FORMULAS AND COUPLING APPROACH</dc:title>
+	<dc:creator xml:lang="en">Wang, Jinghua</dc:creator>
+	<dc:creator xml:lang="en">Liu, Philip L.-F.</dc:creator>
+	<dc:description xml:lang="en">The two-way coupled phase-resolved long wave (LW) model and phase-averaged spectrum wave (SW) model is often employed to simulate the coastal flooding due to superimposed astronomical high tides and storm surges.  This study suggests an alternative approach by proposing a new formula for the radiation stresses (RS) term to consider the IG waves. The new formula becomes space-time dependent, and it can reduce to the original form of RS and that corresponding to the ‘surf-beats’ (Longuet-Higgins and Stewart, 1964). The new formula is programmed and implemented in the model suite SCHISM-WWMIII (Zhang, et al., 2016), which is used to simulate short wave groups induced bound and free long waves on variable water depth. The good agreement between numerical results and theoretical predictions (Liu, 1989) indicates that the new formula and coupling approach can be accurately used to describe the scattering of the IG waves in coastal waters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12727</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12727/12000</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jinghua Wang, Philip L.-F. Liu</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

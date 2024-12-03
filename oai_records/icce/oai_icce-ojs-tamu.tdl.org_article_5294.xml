@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5294</identifier>
+				<datestamp>2021-01-19T13:08:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A HAMILTONIAN MODEL FOR NONLINEAR WATER WAVES AND ITS APPLICATIONS</dc:title>
+	<dc:creator xml:lang="en">Otta, A.K.</dc:creator>
+	<dc:creator xml:lang="en">Dingemans, M.W.</dc:creator>
+	<dc:creator xml:lang="en">Radder, A.C.</dc:creator>
+	<dc:subject xml:lang="en">Hamiltonian model</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">model application</dc:subject>
+	<dc:description xml:lang="en">Evolution equations for nonlinear long waves are considered from an approximation to the exact Hamiltonian (total energy) for the water waves. The approximation which is used here has two distinct advantages over many other formulations which are commonly used for the same purpose. Further, a variation of these evolution equations is considered in order to incorporate higher-order nonlinearity. Numerical solutions of the evolution equations have been carried out for both the systems. Application of these models is illustrated in some practical cases. Comparisons between experimental measurements and computed results show that the model can be used for satisfactory prediction of nonlinear transformation of non-breaking waves over varying depth. Two features for further investigation are: (i) inclusion of both short-wave and long-wave nonlinearity so that the model can be used with uniform validity from deep to shallow water and (ii) modifications of the evolution equations so that they can be applied to propagation of breaking waves in a robust way.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5294</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5294/4972</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

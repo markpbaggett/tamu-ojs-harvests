@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2390</identifier>
+				<datestamp>2021-01-17T05:20:10Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF THE RESPONSE OF OFFSHORE-MOORED SHIPS TO WAVES</dc:title>
+	<dc:creator xml:lang="en">Leendertse, Jan L.</dc:creator>
+	<dc:subject xml:lang="en">offshore moored ships</dc:subject>
+	<dc:subject xml:lang="en">response to waves</dc:subject>
+	<dc:description xml:lang="en">A vessel moored at sea will experience complicated series of translational and rotational oscillations due to sea waves. These motions can be considered as the summation of six components, three translational and three rotational. In the presently available analyses of motions of unmoored ships, differential equations can be written for each mode of movement. Unfortunately, motions in one of these modes are coupled to motions of other modes, and the analysis becomes rather complicated. Generally, the problem is simplified by neglecting some of the coupling effects and by specifying the position of the vessel in the wave system. This study develops and analyzes a model for a moored ship restrained by mooring lines, using the presently available mathematical models for the free ship and the force-displacement relationship of the cable-holding points on the ship. The coupled movement (three degrees of freedom) in a vertical plane through the longitudinal axis of the vessel and the generated mooring-line forces are considered in detail. The general case of six degrees of freedom in arbitrary heading is discussed briefly in general terms.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1964-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2390</dc:identifier>
+	<dc:identifier>10.9753/icce.v9.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 9 (1964): Proceedings of 9th Conference on Coastal Engineering, Lisbon, Portugal, 1964.; 46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2390/2065</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

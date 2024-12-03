@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8861</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHIP-GENERATED WAVES OVER A COMPLEX BATHYMETRY</dc:title>
+	<dc:creator xml:lang="en">Almström, Björn</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Granath, Lars</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Hans</dc:creator>
+	<dc:description xml:lang="en">Problems related to shipping have increased worldwide during the last decades as a result of more traffic travel-ling at higher speeds and using larger vessels. When ships move in a restricted fairway they generate primary (drawdown) and secondary (transverse and divergent) waves (Bertram 2000) that often cause adverse impact to adjacent shores. An example of this is the Furusund fairway in Sweden, which since the 1980's has experienced increased traffic and larger ships. This has resulted in a loss of natural fine sediment habitats along the shores as well as structural damages to piers and jetties (Granath 2015). Furusund is an important fairway into Stockholm, the capital of Sweden, and is located about 25 km north of the city within the Stockholm archipelago. It is mainly trafficked by large ferries (length/width/draft: 200x30x7m). The wind-wave regime in the fairway can be described as a low-energy environment, due to the short fetches and no swell. Hence, ship waves have a significant impact on the shores in terms of bed and bank erosion. This study aims at determining the primary ship wave characteristics and their relationship to ship properties and bathymetric conditions in the Furusund fairway. Measured water levels were collected for this purpose during three months at three locations. Existing empirical formulas for drawdown are evaluated based on the measurements and compared with a new formula derived for the specific fairway. The results are used for designing nature-based protection against ship-generated waves along the shores and to validate analytical and numerical models that can be employed for ship wave generation and propagation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8861</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8861/7659</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8861/8187</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

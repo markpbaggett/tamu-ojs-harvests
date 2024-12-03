@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4551</identifier>
+				<datestamp>2021-01-19T17:21:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CONCRETE ARMOR UNIT STRUCTURAL DESIGN CRITERIA</dc:title>
+	<dc:creator xml:lang="en">Anglin, C.D.</dc:creator>
+	<dc:creator xml:lang="en">Scott, R.D.</dc:creator>
+	<dc:creator xml:lang="en">Turcke, D.J.</dc:creator>
+	<dc:subject xml:lang="en">concrete armor</dc:subject>
+	<dc:subject xml:lang="en">armor unit</dc:subject>
+	<dc:subject xml:lang="en">armor design</dc:subject>
+	<dc:subject xml:lang="en">design criteria</dc:subject>
+	<dc:description xml:lang="en">A comprehensive examination of the structural response of breakwater armor units to static and wave-induced loads has been completed using a dolos armor unit load cell in a physical breakwater model. Three extensive test series were completed to assess the influence of a wide range of breakwater and sea state parameters, and data reduction and analyses techniques were developed to estimate the structural response as a function of the critical independent parameters. Using these data, improved design criteria, which consider both the hydraulic and structural aspects of breakwater design, have been developed for the dolos unit. Perhaps even more significant is the fact that the basic instrumentation scheme, model testing program, and data reduction and analysis procedures could be utilized to develop improved design procedures for other armor units, or to assist in the development of a new armor unit.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4551</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4551/4232</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

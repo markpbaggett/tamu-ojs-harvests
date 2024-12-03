@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12871</identifier>
+				<datestamp>2023-09-01T15:13:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYTIC SOLUTION FOR THE VELOCITY FIELD AROUND SUBMERGED PERMEABLE BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Kim, Jeongin</dc:creator>
+	<dc:creator xml:lang="en">Park, Yong Sung</dc:creator>
+	<dc:description xml:lang="en">In this paper, an analytic solution to the scattering of water wave by submerged permeable breakwaters in infinite-depth water is presented. The analytic solution of the velocity field around the permeable breakwater under the linear wave train in deep water condition is sought by formulating a nonhomogeneous Riemann-Hilbert problem. To deal with the nonlinearity due to the permeability of the plates, a perturbation method is applied in terms of a small parameter representing permeability. We present the leading order solution (impermeable breakwaters) and the first order solution (permeable breakwaters) of the spatial velocity field. The validity of the leading order solution was verified through comparison with the solutions suggested by Evans (1970). Then, the impermeable and permeable breakwater’s reflection and transmission coefficients are compared in order to investigate the effects of permeability. The analytical solution presented in this research can be used for designing breakwaters, such as calculating the force applied to the breakwaters, and for validation of numerical simulations or experimental results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12871</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12871/12144</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jeongin Kim, Yong Sung Park</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

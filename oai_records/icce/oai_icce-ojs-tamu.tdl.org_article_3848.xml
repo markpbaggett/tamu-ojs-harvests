@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3848</identifier>
+				<datestamp>2021-01-19T21:23:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE INTERACTION OF SMALL AND FINITE AMPLITUDE LONG WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Raichlen, F.</dc:creator>
+	<dc:creator xml:lang="en">Lee, J.J.</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">finite amplitude waves</dc:subject>
+	<dc:subject xml:lang="en">small waves</dc:subject>
+	<dc:description xml:lang="en">The interaction of waves and currents is important for many engineering problems. For example, when considering forces on marine structures, the velocity and acceleration field must be defined, and thus the manner in which a current interacts with small and finite amplitude waves must be understood. When the current is large and oblique to the waves, the direction of the force on an offshore structure may change significantly with depth introducing a torsional moment. Wave refraction and the concomitant attenuation or amplification of waves are also affected by offshore currents. An example is the effect on incident waves of offshore currents induced by the discharge of cooling water from coastal-sited power plants. This current can modify the direction and magnitude of approaching waves, and by these changes the breaking waves at the shore and the nearshore sediment transport associated with these waves may be changed. A number of theoretical studies have been conducted on various aspects of wave-current interactions; see Peregrine (1976). One theoretical study, Thomas (1981), will be used in this investigation. Careful experiments in this area are limited; several are: Iwagaki and Asano (1980), Sarpkaya (1957), and Thomas (1981). Each of these has given attention to certain aspects of small amplitude wave-current interactions. The experiments are difficult to conduct because of the problems inherent in introducing waves into a flume with a steadyuniform current or conversely a current into a wave tank with permanent waves. Certain features of these experimental problems can be seen through the following two examples. If a plunger-wave machine were used and located at one end of a flume in which a steady current is flowing, although the waves would be developing as they interact with the current, the previously steady current would be changed to an unsteady one by the periodic blockage of the flow by the plunger. If the waves are generated at one end of the tank and allowed to develop, and a current is introduced from the bottom of the tank, this current must expand to the full depth of the flow; hence, the waves propagate on a developing current. Therefore, comparisons to theory are, to some extent, difficult to realize, because the theory generally assumes wavecurrent interactions when each is fully developed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3848</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.67</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 67</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3848/3531</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

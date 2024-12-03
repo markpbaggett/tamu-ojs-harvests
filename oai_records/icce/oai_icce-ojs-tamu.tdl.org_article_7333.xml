@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7333</identifier>
+				<datestamp>2021-01-19T04:51:53Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL STUDY OF MORPHOLOGICAL CHANGES BY FAR-FIELD TSUNAMI IMPACTS</dc:title>
+	<dc:creator xml:lang="en">Son, Sangyoung</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:subject xml:lang="en">tsunamis</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq-type model</dc:subject>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:subject xml:lang="en">deposition</dc:subject>
+	<dc:subject xml:lang="en">wave</dc:subject>
+	<dc:subject xml:lang="en">sediment.</dc:subject>
+	<dc:description xml:lang="en">In this study, we present an integrated numerical model for sedimentation by long waves and also investigate morphological changes by far-field tsunami impacts. A set of models, each of which is responsible for hydrodynamics, sediment transport and morphological evolutions, are introduced with a basic concept of morphodynamic physics and are fully connected through two-way approach. Finite volume scheme, which turns out to be stable and suitable for long-term(more than 10 hours) tsunami simulations is used in the numerical discretization. An accuracy and applicability of developed model is evaluated through numerical tests covering one-dimensional or two-dimensional sedimentation problems in the shallow region. Then, we applied developed model to a field-scale tsunami, which had caused a significant bathymetric changes in harbors.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7333</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7333/pdf_724</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

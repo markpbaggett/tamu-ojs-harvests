@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4843</identifier>
+				<datestamp>2021-01-19T15:41:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COUPLING OF A QUASI-3D MODEL FOR THE TRANSPORT WITH A QUASI-3D MODEL FOR THE WAVE INDUCED FLOW</dc:title>
+	<dc:creator xml:lang="en">Katopodi, Irene</dc:creator>
+	<dc:creator xml:lang="en">Kitou, Nikos</dc:creator>
+	<dc:creator xml:lang="en">de Vriend, Huib J.</dc:creator>
+	<dc:subject xml:lang="en">wave induced flow</dc:subject>
+	<dc:subject xml:lang="en">transport model</dc:subject>
+	<dc:subject xml:lang="en">quasi-3D model</dc:subject>
+	<dc:description xml:lang="en">In this paper the coupling of a quasi-3D model for the suspended sediment transport with a quasi-3d model for the wave driven flow is presented. The quasi-3d model for the transport is based on an asymptotic solution of the wave-averaged convection-diffusion equation while the quasi-3D wave driven current model is based on a profile function technique. The resulting model is a low cost but detailed alternative to a full 3D model. An application is presented concerning cross-shore transport. Preliminary conclusions are drawn.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4843</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4843/4524</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

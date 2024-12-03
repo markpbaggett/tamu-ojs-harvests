@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5736</identifier>
+				<datestamp>2021-01-19T10:42:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORCES ON SOLID AND PERFORATED CAISSON BREAKWATERS: COMPARISON OF FIELD AND LABORATORY MEASUREMENTS</dc:title>
+	<dc:creator xml:lang="en">Franco, L.</dc:creator>
+	<dc:creator xml:lang="en">de Gerloni, M.</dc:creator>
+	<dc:creator xml:lang="en">Passoni, G.</dc:creator>
+	<dc:creator xml:lang="en">Zacconi, D.</dc:creator>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">caisson</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">field experiment</dc:subject>
+	<dc:subject xml:lang="en">lab experiment</dc:subject>
+	<dc:description xml:lang="en">Following an old Italian tradition of prototype measurements of wave pressures at vertical breakwaters (Franco, 1994), a new twin recording station was set up and operated in 1992-1994 at Porto Torres (Sardinia, Italy) industrial harbour breakwater. In the framework of the MAST3-PROVERBS project an extensive analysis of the available data has been carried out. Within the same project 2D model tests have also been performed in order to investigate the relation between pressure distribution and overall forces on and under both plain and perforated (multichamber) caissons. The results have been compared with the available design formulae like Goda's (1985). Statistical distributions of the horizontal and uplift forces for both structure types have also been derived. The scope of the study has been to assess the reliability of the present design methods and to outline a more physically based approach especially for the perforated structure type.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5736</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5736/5406</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

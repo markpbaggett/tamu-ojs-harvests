@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4559</identifier>
+				<datestamp>2021-01-19T17:19:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FORCES ON VERTICAL WALLS DUE TO OBLIQUELY-INCIDENT WAVES</dc:title>
+	<dc:creator xml:lang="en">Tsai, Chin-Piao</dc:creator>
+	<dc:creator xml:lang="en">Jeng, Dong-Sheng</dc:creator>
+	<dc:subject xml:lang="en">vertical walls</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">obliquely incident waves</dc:subject>
+	<dc:description xml:lang="en">The force exerted on a vertical wall due to obliquely-incident waves has been analyzed in this paper from the calculation of short-crested waves system by a numerical scheme. The numerical model preserves the wave elevation in an implicit function form for the dynamic and kinematic boundary equations on water surface, the accuracy is then improved. It is found that the maximum loading in onshore direction may be caused by obliquely-incident waves as the water is greater than intermediate depth. However, the onshore loading does not necessarily be the greatest force for such instance. The greatest force could be produced by the offshore loading under steeper normal standing waves. While the wall is in the shallow water region, the greatest force is occurred in onshore loading at crest by normal standing waves. This research also shows good comparisons from some experimental results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4559</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4559/4240</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

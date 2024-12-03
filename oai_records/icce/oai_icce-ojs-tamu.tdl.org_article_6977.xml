@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6977</identifier>
+				<datestamp>2023-10-04T03:00:29Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">2011 TOHOKU TSUNAMI RUNUP AND DEVASTATING DAMAGES AROUND YAMADA BAY, IWATE: SURVEYS AND NUMERICAL SIMULATION</dc:title>
+	<dc:creator xml:lang="en">Okayasu, Akio</dc:creator>
+	<dc:creator xml:lang="en">Shimozono, Takenori</dc:creator>
+	<dc:creator xml:lang="en">Sato, Shinji</dc:creator>
+	<dc:creator xml:lang="en">Tajima, Yoshimitsu</dc:creator>
+	<dc:creator xml:lang="en">Liu, Haijiang</dc:creator>
+	<dc:creator xml:lang="en">Takagawa, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Fritz, Hermann M.</dc:creator>
+	<dc:subject xml:lang="en">2011 Tohoku Tsunami</dc:subject>
+	<dc:subject xml:lang="en">Yamada Town</dc:subject>
+	<dc:subject xml:lang="en">tsunami survey</dc:subject>
+	<dc:subject xml:lang="en">tsunami simulation</dc:subject>
+	<dc:subject xml:lang="en">GPS wave gauge</dc:subject>
+	<dc:description xml:lang="en">Distributions of inundation and runup height for the 2011 off the Pacific coast of Tohoku Earthquake Tsunami were measured in and outside Yamada Bay located at the center of Iwate Prefecture, Japan. Numerical simulations were conducted to reproduce flow, inundation and runup height distributions. Surface elevation profiles recorded by the GPS wave gauges were used as the offshore boundary condition. In order to investigate characteristics of tsunami response to different geomorphological features, frequency separation was tried for the tsunami incident wave. It was found that the high frequency component was responsible for large tsunami height at narrow inlets and open bays, whereas the low frequency component had significant influence for inundation in closed bays.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6977</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6977/pdf_637</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

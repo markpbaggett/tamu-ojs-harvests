@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1220</identifier>
+				<datestamp>2021-01-19T08:40:05Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERIFICATION OF A MODIFIED BAYESIAN METHOD FOR ESTIMATING DIRECTIONAL WAVE SPECTRA FROM HF RADAR</dc:title>
+	<dc:creator xml:lang="en">Lukijanto, Lukijanto</dc:creator>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:creator xml:lang="en">Yamashiro, Masaru</dc:creator>
+	<dc:subject xml:lang="en">HF radar</dc:subject>
+	<dc:subject xml:lang="en">directional wave spectrum</dc:subject>
+	<dc:subject xml:lang="en">spectrum</dc:subject>
+	<dc:subject xml:lang="en">wave observation</dc:subject>
+	<dc:subject xml:lang="en">wave data analysis</dc:subject>
+	<dc:subject xml:lang="en">currents measurement</dc:subject>
+	<dc:subject xml:lang="en">Bayesian method</dc:subject>
+	<dc:description xml:lang="en">A Modified Bayesian Method (MBM) for estimating directional wave spectra from Doppler spectra obtained by HF radar is examined using field data which were employed in the verification of Bayesian Method (BM). Applicability, validity and accuracy of the MBM are demonstrated compared with the directional wave spectra estimated by BM and observed by buoy acquired from the reliable field data obtained from Surface Current and Wave Variability Experiments (SCAWVEX) project. The necessary conditions of the Doppler spectral components to be used to estimate a reliable directional spectrum are correspondingly estimated by BM. The results clearly demonstrate that directional wave spectra can be estimated by MBM on the basis of Doppler spectra. In addition, though BM shows very time consuming in computations, BM is more robust against the presence of noise than MBM.
+
+
+References
+
+Akaike, H. (1980). Likelihood and Bayesian procedure, Bayesian statistics. In J.M. Bernardo, M.H. De Groot, D.U. Lindley, and A.F.M. Smith (Eds.), 143-166. Valencia: University Press. PMid:6252024
+ 
+Barrick, D. E. (1972a). First order theory and analysis of MF/HF/VHF scatter from sea. IEEE Trans., Antennas Propagation, 20, 2-10. http://dx.doi.org/10.1109/TAP.1972.1140123
+ 
+Barrick, D. E. (1977). Extraction of wave parameters from measured HF radar sea-echo Doppler spectra. Radio Science, 12(3), 415-424. http://dx.doi.org/10.1029/RS012i003p00415
+ 
+Crombie, D. (1955). Doppler spectrum of sea echo at 13.56Mc/s. Nature, 175, 681-682. http://dx.doi.org/10.1038/175681a0
+ 
+Hashimoto, N. and Kobune, K. (1986). Estimation of directional spectra from the maximum entropy principle. Proceedings of 5th International Offshore Mechanics and Arctic Engineering Symposium, 1, 80-85.
+ 
+Hashimoto, N., Kobune, K., and Kameyama, Y. (1987). Estimation of directional spectrum using the Bayesian approach, and its application to field data analysis. Report of P.H.R.I., 26(5), 57-100.
+ 
+Hashimoto N., and Tokuda M., (1999): A Bayesian Method Approach for Estimation of Directional Wave Spectra with HF radar, Coastal Engineering Journal, vol. 41, 137-147. http://dx.doi.org/10.1142/S0578563499000097
+ 
+Hashimoto, N., Wyatt, L and Kojima, S. (2003): Verification of Bayesian Method for Estimating Directional Spectra from HF Radar Surface. Coastal Engineering Journal, 45(2), 255-274. http://dx.doi.org/10.1142/S0578563403000725
+ 
+Hashimoto, N., Lukijanto, and Yamashiro, M. (2008). Development of a practical method for estimating directional spectrum from HF radar backscatter. Annual Journal of Coastal Engineering (in Japanese), 55(1), 1451-1455. http://dx.doi.org/10.2208/proce1989.55.1451
+ 
+Hisaki, Y. (1996). Nonlinear inversion of the integral equation to estimate ocean wave spectra from HF radar. Radio science, 31(1), 25-39. http://dx.doi.org/10.1029/95RS02439
+ 
+Howell, R., and Walsh, J. (1993). Measurement of ocean wave spectra using a ship mounted HF radar. IEEE Journal of Oceanic Engineering, 18(3), 306-310. http://dx.doi.org/10.1109/JOE.1993.236369
+ 
+Lipa, B. J. and Barrick, D.E. (1982) : Analysis Methods for Narrow-Beam High-Frequency Radar Sea Echo, NOAA Technical Report ERL 420-WPL 56, 1-55.
+ 
+Lukijanto, Hashimoto, N., and Yamashiro, M. (2009a). Further modification practical method for estimating directional wave spectrum by HF radar. Proc. of 19 th ISOPE, 898-905.
+ 
+Lukijanto, Hashimoto, N., and Yamashiro, M. (2009b). An improvement of Modified Bayesian Method for estimating directional wave spectra from HF radar backscatter. Proceedings of 5 th APAC (Asian and Pacific Coasts), 105-111.
+ 
+Lukijanto, Hashimoto, N., and Yamashiro, M. (2009c). A comparison of analysis methods for estimating directional wave spectrum from HF ocean radar. Journal of Memoirs of the Faculty of Engineering, 69(4). Kyushu University, 163-185.
+ 
+Wyatt, L.R. (1990). A relaxation method for integral inversion applied to HF radar measurement of the ocean wave directional spectrum. International Journal Remote Sensing, 11(8), 1481-1494. http://dx.doi.org/10.1080/01431169008955106
+ 
+Wyatt, L. R. Gurgel, K.W., Peters, H.C., Prandle, D., Krogstad, H.E., Haug, O., Gerritsen, H., Wensink, G.J. (1997b). The SCAWVEX Project. Proceedings of WAVES97, ASCE.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1220</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1220/pdf_249</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

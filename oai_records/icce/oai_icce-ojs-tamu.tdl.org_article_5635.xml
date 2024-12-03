@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5635</identifier>
+				<datestamp>2021-01-19T11:15:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODEL OF FULLY-NONLINEAR WAVE REFRACTION AND DIFFRACTION</dc:title>
+	<dc:creator xml:lang="en">Isobe, Masahiko</dc:creator>
+	<dc:creator xml:lang="en">Abohadima, Samir</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave</dc:subject>
+	<dc:subject xml:lang="en">refraction</dc:subject>
+	<dc:subject xml:lang="en">diffraction</dc:subject>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:description xml:lang="en">Nonlinear mild-slope equations are a set of equations which were derived to analyze fully-nonlinear and fully-dispersive wave transformation. In the present study, it is shown that refraction-diffraction equations including the mild-slope equation, nonlinear shallow water equations and Boussinesq equations are derived as special cases of the nonlinear mild-slope equations. Then, a numerical model is developed for fully-nonlinear wave refraction and diffraction on the basis of the nonlinear mild-slope equations. The model is verified through comparison of numerical results with theoretical and experimental results. Finally, effect of nonlinearity on wave diffraction through a breakwater gap is discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5635</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5635/5305</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2018</identifier>
+				<datestamp>2021-01-17T06:46:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPENDING BEACHES FOR A WAVE CANAL</dc:title>
+	<dc:creator xml:lang="en">MARCOU, C.</dc:creator>
+	<dc:subject xml:lang="en">wave development</dc:subject>
+	<dc:subject xml:lang="en">wave canal</dc:subject>
+	<dc:subject xml:lang="en">reflection coefficient</dc:subject>
+	<dc:description xml:lang="en">The principal obstacle to the production of a pure wave in a laboratory-wave canal of short length is the presence of a wave reflected from the down-stream extremity of the canal. Different artifices are used to reduce the value of the coefficient of reflexion. It is of important to see that these setups occupy as small a length of the canal as possible.
+
+We have undertaken the study of a simple mechanism, easily constructed, whose parameters can be defined rigourously and whose action is consequently consistent. The different parameters can be varied systematically so that the values which give a minimum coefficient of reflection for - given Incident wave can be determined.
+
+The mechanism consists of a spending beach made of a thin aluminium plate ; the plate has the same width as the wave-canal, its lines of greatest slope being parallel to the plane of symmetry of the canal.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1954-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2018</dc:identifier>
+	<dc:identifier>10.9753/icce.v5.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 5 (1954): Proceedings of 5th Conference on Coastal Engineering, Grenoble, France, 1954.; 20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2018/1689</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

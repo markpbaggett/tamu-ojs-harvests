@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7839</identifier>
+				<datestamp>2021-01-20T03:36:32Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVING THE ESTIMATION OF EXTREME SEA LEVELS BY A CHARACTERIZATION OF THE DEPENDENCE OF SKEW SURGES ON HIGH TIDAL LEVELS</dc:title>
+	<dc:creator xml:lang="en">Kergadallan, Xavier</dc:creator>
+	<dc:creator xml:lang="en">Bernardara, Pietro</dc:creator>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:creator xml:lang="en">Daubord, Camille</dc:creator>
+	<dc:subject xml:lang="en">extreme sea levels</dc:subject>
+	<dc:subject xml:lang="en">tide surge dependence</dc:subject>
+	<dc:subject xml:lang="en">skew surge</dc:subject>
+	<dc:subject xml:lang="en">high tidal range</dc:subject>
+	<dc:description xml:lang="en">The knowledge of the statistical distribution of extreme sea levels at the coast is of utmost importance for the characterization of flood risks in coastal areas. In this study we consider that the sea level results from two components: the (astronomical) tide and the (meteorological) surge, without considering the effects of waves. We focus our attention on the dependence of the surge height on the tidal level. At sites with a strong tidal range, the classical analysis methods rely on working only with high tide data (namely high tidal levels and skew surges). A statistical method of adjustment of extreme values is applied to the surge component, leading to the Revisited Joint Probability Method. In that case, we consider that surge and tide components are independent. However, comparisons with measured data show that in several cases this procedure leads to an overestimation of the water levels for a given return period.
+We therefore propose here to study the dependence of skew surges on high tidal levels, with two different approaches: one based on a so-called seasonal dependence, and the other one based on the interaction between surge and tide. Three methods are adapted or developed to test the influence of these two forms of dependence. They are applied to a series of 19 French harbours along the Atlantic and English Channel coasts of France for which more than 10 years of data are available. The results show that the seasonal dependence does not affect the result significantly, while the interaction between the skew surge and the high tidal level appear to be significant for over half the harbours studied. A revisited model proposed here, as an extension of the model by Dixon and Twan (1994), seems to be more satisfactory at least for most harbours studied</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7839</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7839/pdf_975</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

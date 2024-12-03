@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10312</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ARBITRARY GENERATION OF VERY LONG, AND TSUNAMI-LIKE WAVES USING AN OPTIMZED PUMP-DRIVEN METHOD</dc:title>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:creator xml:lang="en">Hafen, Hajo von</dc:creator>
+	<dc:creator xml:lang="en">Ballesteros, Pablo</dc:creator>
+	<dc:creator xml:lang="en">Kerpen, Nils B.</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:description xml:lang="en">Tsunami remain a focal point of coastal engineering research, particularly when interacting with near-shore bathymetry and coastal developments. A recent push in experimentation involving long waves has led to novel methods, to generate and accurately control long waves in laboratories. This work showcases a recent implementation of a pump-driven long wave generation, with novel control strategies, an optimized inlet geometry, and an extra-wide and uniquely long propagation flume with the overall aim to provide the latest insight into experimental long wave generation.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/ZR0r88i2ev0</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10312</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10312/9598</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Nils Goseberg, Hajo von Hafen, Pablo Ballesteros, Nils B. Kerpen, Torsten Schlurmann</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

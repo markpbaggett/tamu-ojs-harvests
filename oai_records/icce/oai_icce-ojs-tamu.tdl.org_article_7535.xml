@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7535</identifier>
+				<datestamp>2021-01-20T03:40:34Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE EDDY SIMULATION OF WAVE BREAKING WITH  MOMENTUM-ADVECTED SCHEME FOR UNI-PHASE BUBBLY FLOW</dc:title>
+	<dc:creator xml:lang="en">Matsubayashi, Yuriko</dc:creator>
+	<dc:creator xml:lang="en">Okayasu, Akio</dc:creator>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">Large Eddy Simulation</dc:subject>
+	<dc:subject xml:lang="en">bubbly flow</dc:subject>
+	<dc:subject xml:lang="en">momentum conservation</dc:subject>
+	<dc:description xml:lang="en">In order to simulate wave breaking process, air mass and bubbles entrained in water should be considered in calculation. In the present study, a numerical scheme is developed for wave breaking assuming an incompressible uni-phase flow with density varying between air and water. To satisfy the momentum conservation over the computational domain with large density variation, Navier-Stokes equation described in terms of momentum advection is employed as the governing equation. The advection terms of the momentum equation and advection equation for Density Value Method are solved by R-CIP method to minimize numerical diffusion. The results are compared with experimental results for a dam-break, bore and wave breaking on a slope. It is found that the model can reproduce bubbly areas due to wave breaking fairy well.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7535</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.56</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.56</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7535/pdf_963</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

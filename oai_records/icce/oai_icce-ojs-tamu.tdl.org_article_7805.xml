@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7805</identifier>
+				<datestamp>2021-01-19T05:13:06Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY ON MECHANISM OF SHORELINE CHANGE IN SHICHIRI-MIHAMA IDA BEACH USING WEB CAMERA IMAGES</dc:title>
+	<dc:creator xml:lang="en">Vu, Huong Thi Lan</dc:creator>
+	<dc:creator xml:lang="en">Mizutani, Norimi</dc:creator>
+	<dc:subject xml:lang="en">WEB camera system</dc:subject>
+	<dc:subject xml:lang="en">image processing</dc:subject>
+	<dc:subject xml:lang="en">shoreline change</dc:subject>
+	<dc:description xml:lang="en">Image analysis using Web camera can be very useful tool to clarify the mechanics of beach deformation because it allows time domain analysis of shoreline changes. The purpose of the present study is to extract shoreline from the video images using image processing and investigate the relationship between shoreline change and waves. New method to detect shoreline in images has been proposed and it has been demonstrated to detect shoreline more stable than exiting CCD model. Results reveal that the shoreline tends to advance if the significant wave height is ranged between 1m and 2m, whereas it tends to retreat if the significant wave height is larger than 3m. Furthermore, the image analysis revealed that presence of artificial reefs reduces the retreat of shoreline during storm.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7805</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7805/pdf_432</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

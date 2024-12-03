@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5734</identifier>
+				<datestamp>2021-01-19T10:43:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">"A STATISTICAL TOOL FOR BREAKWATER DESIGN"</dc:title>
+	<dc:creator xml:lang="en">Silva, Rodolfo</dc:creator>
+	<dc:creator xml:lang="en">Govaere, Georges</dc:creator>
+	<dc:creator xml:lang="en">Martin, Francisco</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater design</dc:subject>
+	<dc:subject xml:lang="en">statistical design</dc:subject>
+	<dc:description xml:lang="en">This article presents a methodology for the design of breakwater dikes which includes wave estimation, evaluation of the runup at the dike, calculation of the dynamic and pseudohidrostatic forces operating on the crown wall and finally the estimation of the stability of the armour units in the main layer. The methodology presented is a development of existing experience in the evaluation of the effects produced by regular or monochromatic waves on structures (stability of pieces, induced forces and flow on the slope). This experience is extended to irregular or spectral waves via statistical distribution of waves, taking account of parameters such as root mean square or significant wave height, mean or peak period and water depth. The application of the methodology described here has given satisfactory results compared with those of other methodologies and experimental data from various researchers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5734</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5734/5404</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

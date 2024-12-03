@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10366</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG-WAVE MITIGATION STUDY FOR THE PORT OF NGQURA</dc:title>
+	<dc:creator xml:lang="en">Troch, Christophe</dc:creator>
+	<dc:creator xml:lang="en">Terblanche, Luther</dc:creator>
+	<dc:creator xml:lang="en">Rossouw, Marius</dc:creator>
+	<dc:creator xml:lang="en">Ntantala, Zanele</dc:creator>
+	<dc:creator xml:lang="en">Plessis, Gerrit du</dc:creator>
+	<dc:description xml:lang="en">Solutions to the long-wave induced moored ship motion problems at the Port of Ngqura were investigated in this study. Long-wave mitigation options were modelled with various layout modifications to the present model of the port, which has been validated with measured data. The numerical model simulations were used to derive long-term data sets inside the Port. Several moored ship motion simulations, using alternative conventional and dynamic mooring options, were performed for an extreme wave and wind condition for each berth at the port. Preferred port layout options and optimal mooring solutions were then determined for each berth. A complete framework of wave and ship motion simulations were performed for the preferred mitigation options. The ship motions and mooring line forces were determined for the relevant vessels at selected berths. This allowed for berth operability and downtime statistics to be determined, taking the limiting wave height and allowable mooring line criteria into account. Since several port layout options and different mooring arrangements were assessed, a Multi-Criteria-Analysis (MCA) was followed to determine the best possible solution.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/y79b158riGE</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10366</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10366/9652</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Christophe Troch, Luther Terblanche, Marius Rossouw, Zanele Ntantala, Gerrit du Plessis</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

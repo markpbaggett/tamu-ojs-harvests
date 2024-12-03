@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2516</identifier>
+				<datestamp>2021-01-17T04:40:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A STUDY ON MASS TRANSPORT IN BOUNDARY LAYERS IN STANDING WAVES</dc:title>
+	<dc:creator xml:lang="en">Noda, Hideaki</dc:creator>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:subject xml:lang="en">boundary layers</dc:subject>
+	<dc:subject xml:lang="en">standing waves</dc:subject>
+	<dc:description xml:lang="en">This paper deals with the mass transport in the boundary layers developed on smooth and horizontal bottoms by standing waves in shallow water. In a theoretical approach, the basic equations of laminar boundary layers are applied to solving the oscillatory motion in the boundary layers caused by the standing waves. The mass transport velocities are derived on the basis of solutions of the second approximation which describe the flow velocity near the bottom, and the effects of convective terms involved in the basic equations are investigated. Experimental measurements in standing waves of mass transport velocity in the bottom boundary layer were carried out using dye-streak and solid-particle methods. The experimental data are compared with the theoretical prediction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2516</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2516/2182</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

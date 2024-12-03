@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8127</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UPDATE OF THE EUROTOP NEURAL NETWORK TOOL:  IMPROVED PREDICTION OF WAVE OVERTOPPING</dc:title>
+	<dc:creator xml:lang="en">Zanuttigh, Barbara</dc:creator>
+	<dc:creator xml:lang="en">Formentin, Sara Mizar</dc:creator>
+	<dc:creator xml:lang="en">van der Meer, Jentsje Wouter</dc:creator>
+	<dc:subject xml:lang="en">artificial neural networks</dc:subject>
+	<dc:subject xml:lang="en">wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">generalization</dc:subject>
+	<dc:subject xml:lang="en">training</dc:subject>
+	<dc:subject xml:lang="en">database</dc:subject>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">wave reflection</dc:subject>
+	<dc:description xml:lang="en">The goal of this work is to present a synthesis of the improvements and updates developed to deliver the final version of the ANN tool adopted by the second edition of the wave overtopping manual, EurOtop, released on the internet in 2016. This tool consists of three identical but independent ANNs able to predict the main parameters representative of the wave-structure interaction processes, i.e. the mean wave overtopping discharge, the wave transmission and the wave reflection coefficients. The contribution focuses on the modifications of the ANN architecture carried out since the last ICCE conference to achieve an optimized representation of the wave overtopping, especially in case of low and extreme values of the overtopping discharge. The consistency of the ANN predictions is assessed through an artificial dataset including geometrical and climate input parameters that are varied with continuity, while the robustness of the tool is checked by applying the ANN to selected geometries excluded from the training database.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8127</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8127/DOC</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

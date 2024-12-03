@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7820</identifier>
+				<datestamp>2021-01-20T03:58:58Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A HYBRID-REDUCED PHYSICS MODELLING APPROACH  APPLIED TO THE DEBEN ESTUARY, UK</dc:title>
+	<dc:creator xml:lang="en">Horrillo-Caraballo, Jose M</dc:creator>
+	<dc:creator xml:lang="en">Karunarathna, Harshinie U</dc:creator>
+	<dc:creator xml:lang="en">Reeve, Dominic E</dc:creator>
+	<dc:creator xml:lang="en">Pan, Shunqi</dc:creator>
+	<dc:subject xml:lang="en">Deben Estuary</dc:subject>
+	<dc:subject xml:lang="en">inverse modelling</dc:subject>
+	<dc:subject xml:lang="en">hybrid-reduced technique</dc:subject>
+	<dc:description xml:lang="en">Accurate prediction of medium- and long-term morphological changes in estuaries remains very challenging. Approaches to predicting the morphological evolution of estuaries generally follow one of two types: Process based modelling and system behaviour modelling. Even though with the latter models, the underlying physical processes may not be fully explained, they provide good qualitative results. This has encouraged the development of hybrid models with simplified dynamics that are designed to predict estuary morphodynamic change by including only predominant processes. Here, we apply a new hybrid model to the Deben Estuary in the UK, which is a hybrid between process-based and behaviour-oriented approaches. The success of the analysis depends on the availability and precision of the historic data. Yearly scale changes of the Deben source terms are well predicted. Further analysis of source function is necessary for longer term predictions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7820</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.76</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.76</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7820/pdf_906</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

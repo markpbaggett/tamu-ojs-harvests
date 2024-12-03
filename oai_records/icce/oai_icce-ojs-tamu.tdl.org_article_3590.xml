@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3590</identifier>
+				<datestamp>2021-01-19T22:55:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING OF PLANFORM INFLUENCE ON CIRCULATION IN HARBOURS</dc:title>
+	<dc:creator xml:lang="en">Falconer, Roger A.</dc:creator>
+	<dc:subject xml:lang="en">planform influence</dc:subject>
+	<dc:subject xml:lang="en">harbor circulation</dc:subject>
+	<dc:subject xml:lang="en">circulation</dc:subject>
+	<dc:subject xml:lang="en">circulation modeling</dc:subject>
+	<dc:description xml:lang="en">A two dimensional numerical model has been developed which is capable of predicting the tidal water elevations, depth averaged velocity components and horizontal concentration distributions in narrow entranced harbours and marinas. Particular attention has been paid to the numerical treatment of the convective accelerations where, as a result of narrow harbour entrances and the general nature of planform geometries, the resulting highly non-uniform flow fields can readily lead to nonlinear instabilities and unstable numerical solutions. In order to check the validity of the numerical results, a comprehensive study was carried out to compare, with scaled laboratory model studies, the predicted tidal velocity fields and flushing characteristics for a number of rectangular harbours of constant planform area but different length to breadth ratios. The experimentally measured average per cycle exchange coefficients and the observed mean water level pathlines agreed reasonably well with the corresponding numerically predicted exchange coefficients and depth averaged velocity fields. The results of both the numerical and laboratory model studies confirmed conclusively that the maximum gross flushing characteristics occurred within a rectangular harbour when the length to breadth ratio was close to unity. Also, further tests showed that the insertion of impermeable barriers as a possible means of increasing the flushing efficiency proved to be unsatisfactory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3590</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.161</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 161</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3590/3272</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

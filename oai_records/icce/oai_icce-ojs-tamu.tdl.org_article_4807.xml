@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4807</identifier>
+				<datestamp>2021-01-19T15:53:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE MAINTENANCE OF HYDRAULIC STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Vrijling, J.K.</dc:creator>
+	<dc:creator xml:lang="en">Kuiper, H.</dc:creator>
+	<dc:creator xml:lang="en">Jorissen, R.E.</dc:creator>
+	<dc:creator xml:lang="en">Klatter, H.E.</dc:creator>
+	<dc:subject xml:lang="en">hydraulic structure</dc:subject>
+	<dc:subject xml:lang="en">structure maintenance</dc:subject>
+	<dc:description xml:lang="en">With the completion of the Eastern Scheldt storm surge barrier the Delta plan was realized. Herewith a period of the construction of large hydraulic engineering structures ended more or less. Therefore the interest in the optimal maintenance of the existing structures is growing and efforts are made to develop a theoretical basis for the planning of maintenance. In the field of mechanical engineering considerable progress has been made. Maintenance is defined as consisting of two activities inspection and repair. Inspection implies the observation of the state of the structure and repair the restoration of the structure to it's original state. Two main classes of maintenance are discerned: corrective and preventive maintenance. In this classification only the last subclass contains inspection besides repair. When a corrective maintenance strategy is applied, the structure will be repaired after failure. In a preventive maintenance scheme the structure will be repaired at specified intervals defined in time or operational hours before failure occurs. In a more refined strategy the state of the structure is inspected at such intervals. On the basis of the inspection result the decision to repair is taken.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4807</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4807/4488</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

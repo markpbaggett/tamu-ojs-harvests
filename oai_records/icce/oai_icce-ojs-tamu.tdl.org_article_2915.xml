@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2915</identifier>
+				<datestamp>2021-01-20T02:46:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL TESTS WITH DIRECTLY REPRODUCED NATURE WAVE TRAINS</dc:title>
+	<dc:creator xml:lang="en">Gravesen, Helge</dc:creator>
+	<dc:creator xml:lang="en">Fredericksen, Ebbe</dc:creator>
+	<dc:creator xml:lang="en">Kirkegaard, Jens</dc:creator>
+	<dc:subject xml:lang="en">model test</dc:subject>
+	<dc:subject xml:lang="en">wave train</dc:subject>
+	<dc:subject xml:lang="en">reproduced wave train</dc:subject>
+	<dc:description xml:lang="en">Hydraulic model tests are still recognized as the best and in many cases the only tool, indeed, for investigations of design criteria for harbours concerning a) the effect of wave disturbance on moored ships in harbour basins and at offshore terminals, b) stability of structures and wave forces on structures. Model tests with waves have until recently usually been made with regular waves varying the wave height, wave period, wave direction for each test run. An important improvement in the model technique has been the development of irregular wave generators, capable of generating waves directly from nature wave records. The following aspects are presented below 1) A discussion on the methodology of wave model tests. 2) A method for direct reproduction of nature wave records. 3) A method for determining the incoming wave heights in a short wave flume with a reflecting structure and reflection from the wave generator paddle.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2915</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2915/2580</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

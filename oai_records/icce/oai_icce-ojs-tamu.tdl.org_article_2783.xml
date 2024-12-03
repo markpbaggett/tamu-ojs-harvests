@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2783</identifier>
+				<datestamp>2021-01-20T03:36:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEQUENTIAL PHOTOGRAPHY OF COASTAL WATER</dc:title>
+	<dc:creator xml:lang="en">Nichols, Maynard M.</dc:creator>
+	<dc:subject xml:lang="en">sequential photography</dc:subject>
+	<dc:subject xml:lang="en">photography</dc:subject>
+	<dc:description xml:lang="en">Sequential photographs from aircraft and satellites provide a source of data for studying dynamic features of coastal waters. Procedures for detecting features in sequential photos follow two approaches; (1) application of sequential signatures, (2) simple comparative analysis. For quantitative analyses images of two or more frames must have proper registration and comparable tones, i.e. tones free of photographic variance from film processing, varying exposure and solar illumination. After a normalization correction for variance is determined through use of density control points, density of successive frames is measured with a microdensitometer, the correction is a.pplied and tonal differences determined. Such differences relate to the time character of a feature and to causal processes. Application of correction values and numerical differencing is best accomplished in a digital or computerized densitometer. However, corrections and differencing can also be accomplished graphically from line traces or plots of an objective densitometer. Application of the procedures is demonstrated by analyses of tonal patterns of suspended sediment concentration in an estuary.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2783</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2783/2447</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

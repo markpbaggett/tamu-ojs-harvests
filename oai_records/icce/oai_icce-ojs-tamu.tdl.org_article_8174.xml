@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8174</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FRAGILITY OF FLOATING DOCKS FOR SMALL CRAFT MARINAS</dc:title>
+	<dc:creator xml:lang="en">Keen, Adam Steven</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:creator xml:lang="en">Eskijian, Martin</dc:creator>
+	<dc:creator xml:lang="en">Ayça, Aykut</dc:creator>
+	<dc:subject xml:lang="en">small-craft harbor risks</dc:subject>
+	<dc:subject xml:lang="en">tsunami damage</dc:subject>
+	<dc:subject xml:lang="en">stochastic modeling</dc:subject>
+	<dc:description xml:lang="en">As a result of damage from the 2010 Chile and 2011 Japanese teletsunamis, the tsunami risk to the small craft marinas in California has become an important concern. This paper outlines an assessment tool which can be used to assess the tsunami hazard to small craft harbors. The methodology is based on the demand and capacity of a floating dock system. Results are provided as fragility curves and give a quantitative assessment of survivability. This tool is not exact and is provided only to give an indication as to survivability and/or failure of a floating dock system of vessels and floating components/piles, subject to tsunami events. The purpose is to quickly evaluate whether or not a floating dock is likely to survive or be destroyed by a tsunami having the input properties.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8174</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.management.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; management.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8174/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

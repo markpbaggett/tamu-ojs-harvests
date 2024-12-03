@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6916</identifier>
+				<datestamp>2023-10-04T02:21:58Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MATERIAL PLACEMENT IN THE NEARSHORE:  LABORATORY AND NUMERICAL MODEL INVESTIGATION</dc:title>
+	<dc:creator xml:lang="en">Johnson, Bradley D.</dc:creator>
+	<dc:creator xml:lang="en">Smith, Ernest R.</dc:creator>
+	<dc:subject xml:lang="en">nearshore</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">dispersion</dc:subject>
+	<dc:subject xml:lang="en">dredged material</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:description xml:lang="en">Typical practice for a century has been to transport dredged sand to an offshore disposal site in deep water where the sediment is lost from the littoral system.  The alternative of nearshore placement can retain the sand, but the fate of the material is poorly understood.  A set of laboratory experiments were conducted, using tracer sand, with the intent of quantifying the migration of material with alternative dredged mound placements within the surf zone.  Conventional depth-integrated tracer sand transport models can utilize a correction factor or a gradient diffusion mechanism to represent the effects of the depth variation.  In the surf zone, however, an analytical correction factor is not available and a gradient diffusion coefficient is arbitrary with no physical basis.  An alternative simple advective transport sand model is introduced herein that explicitly predicts both the advection associated with the return current and the wave-related onshore transport.  With a simple
+framework based on a suspended layer and a bedload layer of arbitrary transport directions, the Taylor dispersion of tracer sand is explicitly computed without any dependence on a diffusion mechanism.  Both the modeled and measured results indicate transport directed offshore by the undertow, onshore by the wave asymmetry, and down-drift as forced by the longshore current.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6916</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.126</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.126</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6916/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

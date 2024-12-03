@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3017</identifier>
+				<datestamp>2021-01-20T02:10:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DESIGN OF DISTORTED HARBOR WAVE MODELS</dc:title>
+	<dc:creator xml:lang="en">Whalin, R.W.</dc:creator>
+	<dc:creator xml:lang="en">Chatham, C.E.</dc:creator>
+	<dc:subject xml:lang="en">wave model</dc:subject>
+	<dc:subject xml:lang="en">model design</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">distorted harbor</dc:subject>
+	<dc:description xml:lang="en">An investigation of errors incurred by scale distortion for fixed-bed harbor wave models has been performed and results of this study applied to the design, construction, and operation of a model of Los Angeles and Long Beach Harbors. Objectives of the model investigation must be clearly prescribed in order that each phenomenon affected by scale distortion can be analyzed. In some cases, if study objectives are too broad, a distorted model may be incompatible with these objectives; however, it will be found that in many circumstances a distorted model will produce valid data with considerable time and cost savings in construction and operation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3017</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.122</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 122</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3017/2682</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

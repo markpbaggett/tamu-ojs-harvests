@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3297</identifier>
+				<datestamp>2021-01-20T00:32:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DIFFRACTION DIAGRAMS FOR DIRECTIONAL RANDOM WAVES</dc:title>
+	<dc:creator xml:lang="en">Goda, Yoshimi</dc:creator>
+	<dc:creator xml:lang="en">Takayama, Tomotsuka</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tasumasa</dc:creator>
+	<dc:subject xml:lang="en">random wave</dc:subject>
+	<dc:subject xml:lang="en">diffraction</dc:subject>
+	<dc:subject xml:lang="en">diffraction diagram</dc:subject>
+	<dc:subject xml:lang="en">wave direction</dc:subject>
+	<dc:description xml:lang="en">Conventional wave diffraction diagrams often yield erroneous estimation of wave heights behind breakwaters in the sea, because they are prepared for monochromatic waves while actual waves in the sea are random with directional spectral characteristics. A proposal is made for the standard form of directional wave spectrum on the basis of Mitsuyasu's formula for directional spreading function. A new set of diffraction diagrams have been constructed for random waves with the proposed directional spectrum. Problems of multi-diffraction and multi-reflection within a harbour can also be solved with serial applications of random wave diffraction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3297</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3297/2965</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

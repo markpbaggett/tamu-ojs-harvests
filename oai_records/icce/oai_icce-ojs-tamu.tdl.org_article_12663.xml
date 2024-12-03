@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12663</identifier>
+				<datestamp>2023-09-01T15:11:56Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPATIO-TEMPORAL VARIATION OF AEOLIAN SHOREWARD SAND TRANSPORT MEASURED USING NEAR-CONTINUOUS LASER SCANNING</dc:title>
+	<dc:creator xml:lang="en">Vos, Sander</dc:creator>
+	<dc:creator xml:lang="en">Anders, Katharina</dc:creator>
+	<dc:creator xml:lang="en">Wulf, Alain de</dc:creator>
+	<dc:creator xml:lang="en">Vries, Sierd de</dc:creator>
+	<dc:creator xml:lang="en">Lindenbergh, Roderik</dc:creator>
+	<dc:description xml:lang="en">A beach in Mariakerke-Bad (Belgium) was monitored in 2017-2018 for more than a year with a near-continuous laser scan system. From a total of 8500 scans 7700 hourly scan epochs were used to study the spatio-temporal shoreward sand transport at the beach. In order to account for weather influences and other possible disturbances of the scan-system, a time-dependent correction method was applied to reduce rotation errors up to 0.2 degrees in the point cloud orientation (around the zero point of the laser scanner) reducing height errors on the beach to the order of centimeters. Cross shore analysis of the beach profile shows that shoreward transport occurs at most times during the year with an accumulated maximum of 17m3/m throughout the measurement period and maximum transport rates of 0.6 m3/m/day. However most of the shoreward sand transport is redistributed seawards again due to beach shaping leaving a total of about 2 m3/m a year which is below the average values found along the Belgium coast. The spatio-temporal behavior of the shoreward sand transport has been studied with the 4D-OBC analysis technique which identified accumulations of sand in the full 4D point cloud dataset. A total of about 3600 4D-OBC accumulation events were identified and most found accumulations on the beach can be associated with natural (aeolian) processes. Also, accumulations appear to occur during the whole year which is consistent with the previous cross-shore analysis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12663</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12663/11936</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Sander Vos, Katharina Anders, Alain de Wulf, Sierd de Vries, Roderik Lindenbergh</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

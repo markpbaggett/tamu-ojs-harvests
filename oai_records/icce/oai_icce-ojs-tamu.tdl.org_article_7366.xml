@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7366</identifier>
+				<datestamp>2021-01-19T04:48:45Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING BEACH MORPHODYNAMICS FOR SOUTHERN GOLD COAST BEACH NOURISHMENT PROJECT AT BILINGA BEACH</dc:title>
+	<dc:creator xml:lang="en">Yuan, Fang</dc:creator>
+	<dc:creator xml:lang="en">Cox, Ron</dc:creator>
+	<dc:subject xml:lang="en">Southern Gold Coast Beach Nourishment Project</dc:subject>
+	<dc:subject xml:lang="en">shoreline model</dc:subject>
+	<dc:subject xml:lang="en">SBEACH</dc:subject>
+	<dc:subject xml:lang="en">accretion</dc:subject>
+	<dc:description xml:lang="en">A new cross shore process model NSBEACH (New SBEACH) has been applied to the Southern Gold Coast Nourishment Project at Bilinga beach (Australia) where nearshore nourishment and bar movement with beach berm and dune building have been simulated. Following the extension of the Tweed River training walls in the late 1960s, the downdrift Southern Gold Coast beaches to the north suffered extensive and prolonged erosion. Between 1988 and 1996, 6.6 million m3 of sand was deposited in both onshore and nearshore locations along the beaches of the Southern Gold Coast. Extensive post-nourishment beach monitoring data shows the recovery of Bilinga beach with the nearshore nourished material transported onshore. There have been many unsuccessful attempts to numerically model the beach recovery processes following the nearshore nourishment on the Southern Gold Coast. Most coastal models have been developed for prediction of storm erosion and as such have limited abilities in simulating bar movement and onshore accretion with beach recovery over extended periods of time. NSBEACH (New SBEACH) has been developed with the ability to simulate short term storm erosion and the longer duration recovery processes under natural or nourished conditions. NSBEACH has been successfully applied at Bilinga beach over an extended simulation period of 8 months with both erosion and accretion responses of the beach successfully simulated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7366</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7366/pdf_734</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

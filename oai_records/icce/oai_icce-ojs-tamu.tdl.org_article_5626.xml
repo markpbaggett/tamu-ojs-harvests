@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5626</identifier>
+				<datestamp>2021-01-19T11:18:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A LONG TERM WAVE HINDCAST SYSTEM USING ECMWF WINDS</dc:title>
+	<dc:creator xml:lang="en">Hatada, Yoshio</dc:creator>
+	<dc:creator xml:lang="en">Yamaguchi, Masataka</dc:creator>
+	<dc:subject xml:lang="en">ECMWF wind</dc:subject>
+	<dc:subject xml:lang="en">wave hindcast</dc:subject>
+	<dc:subject xml:lang="en">hindcast system</dc:subject>
+	<dc:description xml:lang="en">A long-term shallow water hindcast system for the evaluation of wave climate is applied to consecutive computation of nearshore waves over a period of 9 years from 1986 to 1994 at 6 wave measurement stations of the Pacific coast of Japan. The data of the windfields was acquiredfrom the ECMWF wind data sets. Comparison between hindcasts and measurements is made for wave climate represented by not only significant waves and mean wave direction but also frequency-integrated directional wave energy and directional spectrum in addition to time variation of significant waves and mean wave direction. The conclusion is that the newly-revised system is fairly useful for a reasonable and computationally efficient evaluation of the wave climate at the level of spectral representation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5626</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5626/5298</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

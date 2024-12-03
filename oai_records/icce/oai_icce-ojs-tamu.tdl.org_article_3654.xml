@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3654</identifier>
+				<datestamp>2021-01-19T22:32:07Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTATION OF PARTICLE PATHS USING THE LAGRANGIAN LONG WAVE EQUATIONS</dc:title>
+	<dc:creator xml:lang="en">Savoie, M.A.</dc:creator>
+	<dc:creator xml:lang="en">van de Kreeke, J.</dc:creator>
+	<dc:subject xml:lang="en">particle path</dc:subject>
+	<dc:subject xml:lang="en">Lagrangian path</dc:subject>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:description xml:lang="en">The Lagrangian long wave equations and the Lagrangian expressions for stress and strain are derived. Retaining the dominant terms the long wave equations are solved using an explicit finite difference method. Using the numerical solution, particle paths are computed for the tidal motion in a basin connected to the ocean by a single inlet. At the open boundary particle displacements are described. Computations are carried out with and without the Coriolis force and for linear and nonlinear bottom friction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3654</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3654/3337</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

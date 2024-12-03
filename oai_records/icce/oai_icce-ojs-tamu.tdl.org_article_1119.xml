@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1119</identifier>
+				<datestamp>2023-10-04T04:12:02Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING BIOGEOMORPHOLOGICAL INTERACTIONS IN UNDERWATER NOURISHMENTS</dc:title>
+	<dc:creator xml:lang="en">Borsje, Bas</dc:creator>
+	<dc:creator xml:lang="en">Kruijt, Maurits</dc:creator>
+	<dc:creator xml:lang="en">Werf, Jebbe van der</dc:creator>
+	<dc:creator xml:lang="en">Hulscher, Suzanne</dc:creator>
+	<dc:creator xml:lang="en">Herman, Peter</dc:creator>
+	<dc:subject xml:lang="en">Biogeomorphology</dc:subject>
+	<dc:subject xml:lang="en">Nourishments</dc:subject>
+	<dc:subject xml:lang="en">Dutch coast</dc:subject>
+	<dc:subject xml:lang="en">Bio-engineers</dc:subject>
+	<dc:subject xml:lang="en">Building with Nature</dc:subject>
+	<dc:description xml:lang="en">To prevent sandy coastlines from further erosion, nourishments are executed in which sand is usually put underwater at the foreshore. Waves and currents transport the sand on the beach and in this way stabilize the coastal profile. Little is known about the interactions of these so-called shoreface nourishments with the benthic populations inhabiting the coastal strip. Benthos is affected by the nourishments, but benthic populations could in turn affect the morphological evolution of the nourished coast. Monitoring has shown that the benthic community will mainly recovery after ca. 1 year. However, the impact of benthos on the sediment dynamics and hydrodynamics is unknown. In this paper we focus on tube building worms, which have a large abundance in the foreshore, live in patches of several square meters in diameter and protrude several centimeters from the sediment in the water column. Tube building worms are included in a numerical modeling tool (Delft3D), by explicitly accounting for the influence of cylindrical structures on drag and turbulence by an extra source term of friction force in the momentum equation and an extra source term of Total Kinetic Energy (TKE) and turbulent energy dissipation in the k-Îµ equations respectively. The model is validated against field and flume experiments and it shows a significant influence on flow velocities near the bed, bed shear stress and bed-load transport rates. Moreover, model results reveal that tube building worms are able to stabilize nourishments and slow down the migration of the outer breaker bar. Present model explorations indicate that future research should focus on the measurement of the patchy distribution of bio-engineers in the foreshore and their impact on the sediment dynamics and hydrodynamics. Such knowledge will enable process based modeling of the spatial and temporal variation in biological activity on the morphological development of the coastal profile and also it will lead to validation of the proposed model with field measurements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1119</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.104</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.104</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1119/pdf_205</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

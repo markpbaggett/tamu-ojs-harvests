@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5504</identifier>
+				<datestamp>2021-01-19T11:59:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHORELINE ANALYSIS USING DIGITAL PHOTOGRAPHY</dc:title>
+	<dc:creator xml:lang="en">Overton, Margery F.</dc:creator>
+	<dc:creator xml:lang="en">Fisher, John S.</dc:creator>
+	<dc:subject xml:lang="en">photography</dc:subject>
+	<dc:subject xml:lang="en">shoreline analysis</dc:subject>
+	<dc:description xml:lang="en">This paper discusses the application of digital photogrammetry to the analysis of shoreline change with examples from Holden Beach, NC. Beach cross sections are generated from a three dimensional stereo image. These profiles are then used to determine shoreline position and erosion rates. The paper compares these rates of shoreline change with those determined from the more traditional methodology based on the two dimensional interpretation of the wet-dry line. The paper also illustrates the improved accuracy obtained by using survey grade GPS as opposed to USGS topographic maps to establish ground control.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5504</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5504/5179</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

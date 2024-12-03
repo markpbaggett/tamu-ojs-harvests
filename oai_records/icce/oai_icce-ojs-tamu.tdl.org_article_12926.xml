@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12926</identifier>
+				<datestamp>2023-10-03T03:09:59Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL STUDY ON WAVE OVERTOPPING OF DOUBLE PARAPET TYPE SEAWALL</dc:title>
+	<dc:creator xml:lang="en">Tsuruta, Naoki</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Kojiro</dc:creator>
+	<dc:creator xml:lang="en">Nakazawa, Yuhi</dc:creator>
+	<dc:creator xml:lang="en">Nishinosono, Norihito</dc:creator>
+	<dc:creator xml:lang="en">Toyoda, Yosuke</dc:creator>
+	<dc:description xml:lang="en">Considering a risk of the future sea level rise, it is urgent issue that seawalls should be improved to reduce overtopping waves for ports and harbors in Japan. To improve existing seawalls, not only raising height of the sea walls, but also installing wave-dissipating blocks in front of the seawalls might be restricted depending on locations due to their use. In such cases, additional installation of a parapet, namely a double parapet is effective in reducing wave overtopping. The wave overtopping rate over a rear parapet fluctuates depending on the storage of a water-ponding between the parapets, which has not been studied sufficiently. This study investigates the tendency of fluctuation of wave overtopping rate according to the drainage performance by conducting three-dimensional hydraulic experiments targeting a double-parapet type seawall at an existing airport, particularly with focusing on a corner. Further, some additional countermeasures to reduce the wave overtopping rate are tested and their effectiveness is investigated through the experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12926</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12926/12199</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Naoki Tsuruta, Kojiro Suzuki, Yuhi Nakazawa, Norihito Nishinosono, Yosuke Toyoda</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

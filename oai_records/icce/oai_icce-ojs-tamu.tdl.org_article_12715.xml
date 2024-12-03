@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12715</identifier>
+				<datestamp>2023-09-01T15:12:31Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DAMPING OF FINITE AMPLITUDE SOLITARY WAVES IN A FLUME</dc:title>
+	<dc:creator xml:lang="en">Wang, Yufei</dc:creator>
+	<dc:creator xml:lang="en">Liu, Philip Li-Fan</dc:creator>
+	<dc:description xml:lang="en">Solitary wave is a permanent wave when the dissipation is ignored. Many analytical solutions have been developed for finite amplitude solitary waves. In additional to the perturbation solutions, closed form solutions are also available (e.g., McCowan 1891, Clamond and Fructus 2003, being denoted as CF from hereon), which are more accuracy, especially for larger amplitude solitary waves which were discussed in Wang and Liu (2022). In Wang and Liu (2022) ’s laboratory experiments, solitary waves are slowly damped along the wave flume, which can be attributed to the energy dissipation inside the boundary layers on the bottom and sidewalls. Keulegan (1948) first derived an approximate solution to describe the wave damping in the wave flume for small amplitude solitary wave. The basic idea of calculating the damping effect is that the rate of energy dissipation inside the boundary layers must be the same as the rate of wave energy loss. In this work, the same principle of energy balance is adopted for calculating the wave damping for finite amplitude solitary waves in a wave flume. The closed form solutions provided in CF are employed here for analyses.        </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12715</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12715/11988</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Yufei Wang, Philip Li-Fan Liu</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

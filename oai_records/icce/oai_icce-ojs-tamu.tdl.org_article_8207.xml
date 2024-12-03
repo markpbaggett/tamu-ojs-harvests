@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8207</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF BAYESIAN NETWORK AS A TOOL FOR COASTAL FLOODING IMPACT PREDICTION AT VARNA BAY (BULGARIA, WESTERN BLACK SEA)</dc:title>
+	<dc:creator xml:lang="en">Valchev, Nikolay</dc:creator>
+	<dc:creator xml:lang="en">Eftimova, Petya</dc:creator>
+	<dc:creator xml:lang="en">Andreeva, Nataliya</dc:creator>
+	<dc:creator xml:lang="en">Prodanov, Bogdan</dc:creator>
+	<dc:subject xml:lang="en">coastal storms</dc:subject>
+	<dc:subject xml:lang="en">coastal hazards</dc:subject>
+	<dc:subject xml:lang="en">flooding</dc:subject>
+	<dc:subject xml:lang="en">impact assessment</dc:subject>
+	<dc:subject xml:lang="en">Bayesian network</dc:subject>
+	<dc:description xml:lang="en">Storms and related disasters are one of the most important phenomena producing coastal hazards and endangering human life and occupation. While coastal response to extreme forcing conditions can be evaluated using numerical models, there is increasing need for less computationally expensive probability tools that can quickly produce results thus contributing to more effective coastal risk management. A possible response to this demand is a Bayesian Network, which relates near-shore storm conditions to their onshore flood potential and ultimately translates them to relevant impact (consequences) expressed as damage to various receptor groups. Bayesian Network can constitute a module in an early warning system or can be used as a planning tool to evaluate the long-term vulnerability due to multiple coastal hazards, under various climate-related scenarios. The present study describes the application of a Bayesian Network for Varna Bay building on developments made in the framework of the RISC-KIT (Resilience-Increasing Strategies for Coasts - toolKIT) project. Moreover, several alternatives involving disaster risk reduction measures were examined both in present and future climate conditions. It was found that the analysis of results through the prism of the Bayesian Network provides a useful insight of the problems at the study site making it a reliable coastal impact prediction tool.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8207</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.management.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; management.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8207/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

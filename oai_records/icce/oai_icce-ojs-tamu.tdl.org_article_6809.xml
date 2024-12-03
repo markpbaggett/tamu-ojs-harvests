@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6809</identifier>
+				<datestamp>2023-10-04T02:23:23Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NOTIONAL PERMEABILITY</dc:title>
+	<dc:creator xml:lang="en">Kik, Rémon</dc:creator>
+	<dc:creator xml:lang="en">Van den Bos, Jeroen P.</dc:creator>
+	<dc:creator xml:lang="en">Maertens, Jonas</dc:creator>
+	<dc:creator xml:lang="en">Verhagen, Henk Jan</dc:creator>
+	<dc:creator xml:lang="en">Van der Meer, Jentsje W.</dc:creator>
+	<dc:subject xml:lang="en">rubble mound</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">notional permeability</dc:subject>
+	<dc:subject xml:lang="en">van der Meer</dc:subject>
+	<dc:description xml:lang="en">Different layer design of a rock slope and under layers has a large effect on the strengths on the rock slope itself. In the stability formula developed of VAN DER MEER [1988] this effect is represented by the term Notional Permeability with symbol P. A more open, or permeable, structure underneath the armour layer has the ability to dissipate more wave energy and therefore requires less weight of the armour layer. The influence of this parameter is thus very important in economic sense. Up until now only three configurations have been tested. In practice often intermediate structures were designed which do not correspond to the standard situations. P-values then have to be estimated in comparison with the known structures, which gives some uncertainty around the P-value. Therefore there is the demand for more validated values of the notional permeability representing other structures. During this study physical scale modelling is used to produce a value of P for a new structure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6809</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.84</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.84</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6809/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

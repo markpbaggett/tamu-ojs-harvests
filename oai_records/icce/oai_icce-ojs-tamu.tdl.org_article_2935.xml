@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2935</identifier>
+				<datestamp>2021-01-20T02:39:23Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTATION OF LONGSHORE CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Jonsson, Ivar G.</dc:creator>
+	<dc:creator xml:lang="en">Skovgaard, Ove</dc:creator>
+	<dc:creator xml:lang="en">Jacobsen, Torben S.</dc:creator>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">computer aid</dc:subject>
+	<dc:description xml:lang="en">The steady state profile of the longshore current induced by regular, obliquely incident, breaking waves, over a bottom with arbitrary parallel bottom contours, is predicted. A momentum approach is adopted. The wave parameters must be given at a depth outside the surf zone, where the current velocity is very small. The variation of the bottom roughness along the given bottom profile must be prescribed in advance. Depth refraction is included also in the calculation of wave set-down and set-up. Current refraction and rip-currents are excluded. The model includes two new expressions, one for the calculation of the turbulent lateral mixing, and one for the turbulent bottom friction. The term for the bottom friction is non-linear. Rapid convergent numerical algorithms are described for the solution of the governing equations. The predicted current profiles are compared with laboratory experiments and field measurements. For a plane sloping bottom, the influence of different eddy viscosities and constant values of bottom roughness is examined.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2935</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2935/2600</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

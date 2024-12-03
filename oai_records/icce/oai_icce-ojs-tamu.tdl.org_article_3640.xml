@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3640</identifier>
+				<datestamp>2021-01-19T22:36:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF WAVE-CURRENT INTERACTION ON THE WAVE PARAMETER</dc:title>
+	<dc:creator xml:lang="en">Li, Yu-Cheng</dc:creator>
+	<dc:creator xml:lang="en">Herbich, John B.</dc:creator>
+	<dc:subject xml:lang="en">wave parameter</dc:subject>
+	<dc:subject xml:lang="en">wave/current interaction</dc:subject>
+	<dc:description xml:lang="en">The interaction of a gravity wave with a steady uniform current is described in this paper. Numerical calculations of the wave length change by different non-linear wave theories show that errors in the results computed by the linear wave theory are less than 10 percent within the range of 0.15 &lt; d/Ls s 0.40, 0.01 &lt; Hs/Ls &lt; 0.07 and -0.15 &lt; U/Cs i 0.30. Numerical calculations of wave height change employing different wave theories show that errors in the results obtained by the linear wave theory in comparison with the non-linear theories are greater when the opposing relative current and wave steepness become larger. However, within range of the following currents such errors will not be significant. These results were verified by model tests. Nomograms for the modification of wave length and wave height by the linear wave theory and Stokes1 third order theory are presented for a wide range of d/Ls, Hs/Ls and U/C. These nomograms provide the design engineer with a practical guide for estimating wave lengths and heights affected by currents.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3640</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3640/3323</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4367</identifier>
+				<datestamp>2021-01-19T18:24:26Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BLOCK REVETMENT DESIGN WITH PHYS. AND NUM. MODELS</dc:title>
+	<dc:creator xml:lang="en">Bezuijen, A.</dc:creator>
+	<dc:creator xml:lang="en">Wouters, J.</dc:creator>
+	<dc:creator xml:lang="en">Laustrup, C.</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">physical model</dc:subject>
+	<dc:subject xml:lang="en">block revetment</dc:subject>
+	<dc:subject xml:lang="en">revetment</dc:subject>
+	<dc:subject xml:lang="en">revetment design</dc:subject>
+	<dc:description xml:lang="en">A combination of a physical model and numerical models has been used in the design of a block revetment for the Danish North Sea coast. The wave pressure loading on the revetment during design conditions was investigated in a physical scale model. The measured wave pressures were used as a boundary condition for the numerical models. Solutions for the flow equations through the coverlayer, filter layer and subsoil were then obtained in the numerical models, taking into account the influence of turbulence. With these solutions the stability of the coverlayer and subsoil was evaluated. The paper presents a description of the various models and information about the design of the revetment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4367</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.160</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 160</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4367/4048</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

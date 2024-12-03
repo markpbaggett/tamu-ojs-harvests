@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3469</identifier>
+				<datestamp>2021-01-19T23:36:03Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL MODEL OF STORM WAVES IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Hauguel, A.</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">storm waves</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:description xml:lang="en">For studying storm waves in coastal areas, usual waves theories are no more valid. The presented enoidal theory allows the modelling of these problems. Furthermore, thanks to its non-linear properties, it makes possible the simulation of many phenomena usually neglected. A numerical model using this theory has been developped. it has been tested against analytical results and certain properties of non-linear waves experimentaly observed. Finaly, the practical problems raised by the utilisation of this model for harbour agitation computations, have been solved.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3469</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.45</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 45</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3469/3149</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

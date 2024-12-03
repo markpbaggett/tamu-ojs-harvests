@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6702</identifier>
+				<datestamp>2023-10-04T02:44:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN EARLY WARNING SYSTEM FOR THE ON-LINE PREDICTION OF COASTAL STORM RISK ON THE ITALIAN COASTLINE</dc:title>
+	<dc:creator xml:lang="en">Harley, Mitchell D.</dc:creator>
+	<dc:creator xml:lang="en">Valentini, Andrea</dc:creator>
+	<dc:creator xml:lang="en">Armaroli, Clara</dc:creator>
+	<dc:creator xml:lang="en">Ciavola, Paolo</dc:creator>
+	<dc:creator xml:lang="en">Perini, Luisa</dc:creator>
+	<dc:creator xml:lang="en">Calabrese, Lorenzo</dc:creator>
+	<dc:creator xml:lang="en">Marucci, Francesco</dc:creator>
+	<dc:subject xml:lang="en">Early Warning Systems</dc:subject>
+	<dc:subject xml:lang="en">beach erosion</dc:subject>
+	<dc:subject xml:lang="en">coastal risk</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">Lido di Classe</dc:subject>
+	<dc:subject xml:lang="en">Emilia-Romagna</dc:subject>
+	<dc:description xml:lang="en">The ability to predict the imminent arrival of coastal storm risks is a valuable tool for civil protection agencies in order to prepare themselves and, if needs be, execute the appropriate hazard-reduction measures. In this study we present a prototype Early Warning System (EWS) for coastal storm risk on the Emilia-Romagna coastline in Northern Italy. This EWS is run by executing a chain of numerical models (SWAN, ROMS and XBeach) daily, with the final output transformed into a format suitable for decision making by end-users. The storm impact indicator selected for this site is the Safe Corridor Width (SCW), which is a measure of how much dry beach width is available for safe passage by beach users. A three-day time-series of the predicted SCW is generated daily by the prototype EWS. If the minimum SCW exceeds a certain threshold, a warning is issued to end-users via an automated email service. All available prediction information is also updated daily on-line. Over the one year that the EWS has been operating (June 2011 until June 2012), 13 "code red† and 16 "code orange† warnings have been issued, with the remaining 305 predictions indicating low hazard in terms of the SCW.  The reliability of the predictions from the perspective of the end-user has meant that the EWS is currently being expanded to include the entire Emilia-Romagna coastline.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6702</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6702/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

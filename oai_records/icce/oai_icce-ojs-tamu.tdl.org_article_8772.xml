@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8772</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OPERATIONAL FORECASTING SYSTEM FOR DUBAI COASTAL WATERS</dc:title>
+	<dc:creator xml:lang="en">Juma, Ibrahim Mohammad</dc:creator>
+	<dc:creator xml:lang="en">Hokal, Noora Mohammed</dc:creator>
+	<dc:creator xml:lang="en">Jena, Gagan Kumar</dc:creator>
+	<dc:description xml:lang="en">The abstract is based on decision support system for Dubai Coastal Zone and Waterway Operations. This is a sophisticated project to couple a suite of meteorology and ocean models with data management infrastructure and web-based tools to deliver data and decision support information to Dubai Municipality as well as public users. The latest open-source modeling technology available from the research and academic communities to build an operational forecast system that is a suite of interconnected components that allows for seamless interaction of different models, real-time data, and custom web-based reports and tools that access model forecasts and real-time observations. This included measurements taken in the Dubai coastal zone, satellite and atmospheric measurements across the Arabian Gulf, and from a variety of online global environmental models. The data specifically used to create each of the meteorological, hydrodynamic, spectral wave, inundation and oil-spill models. The circulation modeling studies of the Arabian Gulf were carried out by Kampf (2006), Thoppil (2010) and Xue and Eltahir (2015).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8772</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8772/7571</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

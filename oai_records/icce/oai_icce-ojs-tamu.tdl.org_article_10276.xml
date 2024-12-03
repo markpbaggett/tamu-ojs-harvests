@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10276</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHIP PROPELLER EFFECTS ON HARBOURS</dc:title>
+	<dc:creator xml:lang="en">Llull, Toni</dc:creator>
+	<dc:creator xml:lang="en">Mujal-Colilles, Anna</dc:creator>
+	<dc:creator xml:lang="en">Castells, Marcella</dc:creator>
+	<dc:creator xml:lang="en">Gironella, Xavier</dc:creator>
+	<dc:description xml:lang="en">The increase in marine traffic during the last decades has led to important changes in ship designs. These changes have been directly affecting harbor structures designed to host smaller and less powerful ships. One of the most important consequences is the erosion of the seafloor close to the toes of the docking infrastructures which affects their stability. The World Association for Waterborne Transport Infrastructures published a guideline resuming the most used equations to solve the scouring problem (PIANC 2015). However most of the proposed formulas are empirical based using single propellers. Other common propulsion systems, such as the twin propeller, have been barely studied so far. Moreover, the propeller scouring action by a free developing jet has received much more attention in comparison with confined scour studies, i.e. nearby marine structures. Indeed, only one reference (Mujal-Colilles et al. 2018) with experiments on the effects of twin propeller in a confined scenario is found nowadays, although it is known that most of the ro-ro and ferry ships use this propulsion system when maneuvering near closed quays. This contribution aims to provide new insights about the effects that twin propeller propulsion system has over the seabed through a set of experiments with mobile sand bed. The effects of the propeller pitch ratio are also evaluated in an attempt to better reproduce the behaviour of ferry ships, since most of them use a Controllable Pitch Propeller (CPP) system.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/zx7-kKUZ7HU</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10276</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10276/9562</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Toni Llull, Anna Mujal-Colilles, Marcel_la Castells, Xavier Gironella</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

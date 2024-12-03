@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1322</identifier>
+				<datestamp>2023-10-04T04:26:50Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERTICAL SCALES AND SHEAR STRESSES IN WAVE BOUNDARY LAYERS OVER MOVABLE BEDS</dc:title>
+	<dc:creator xml:lang="en">Nielsen, Peter</dc:creator>
+	<dc:creator xml:lang="en">Guard, Paul A.</dc:creator>
+	<dc:subject xml:lang="en">wave boundary layers</dc:subject>
+	<dc:subject xml:lang="en">hydraulic roughness</dc:subject>
+	<dc:subject xml:lang="en">sheet flow</dc:subject>
+	<dc:subject xml:lang="en">boundary layer structure</dc:subject>
+	<dc:description xml:lang="en">Unified scaling rules are provided for smooth and rough wave boundary layers. It is shown that the rough equivalent of the smooth, or viscous, vertical scale , the Stokes' length, is a function of r, the Nikuradse roughness and A, the near-bed semi excursion of the wave motion.  Realizing this equivalence of viscous and rough scales a unified description in the style of Colebrook's (1939) formulae for steady flow friction can be devised based on the unified vertical scale. That is, unified smooth and rough wave friction factor formulae can be used with adequate accuracy.  A general procedure is given for deriving the unified vertical scale from velocity data including data from mobile bed experiments, which enable determination of the equivalent Nikuradse roughness from these experiments. Presently available sheet flow data show a velocity structure, which corresponds to a Nikuradse roughness r of the order 50 to 100 grain diameters. Instantaneous shear stresses derived through the usual momentum integral from sheet flow experiments show that the shear stress ï€ ï€ varies strongly through the sheet flow layer with the value at the lowest level of sediment motion being 2 to 3 times the value at the undisturbed bed level. The corresponding Nikuradse roughnesses are about 2.5d50 corresponding to the undisturbed bed level and 100d50 for the stress at the lowest level of sediment motion. With this strong variation of  the shear stress through the layer of moving sediment, it is not at all obvious what should be understood by THE BED SHEAR STRESS in the context of wave sediment transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1322</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1322/pdf_102</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

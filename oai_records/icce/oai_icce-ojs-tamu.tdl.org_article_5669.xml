@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5669</identifier>
+				<datestamp>2021-01-19T11:04:29Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND EFFECTS ON RUNUP AND BREAKWATER CREST DESIGN</dc:title>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:subject xml:lang="en">wind effects</dc:subject>
+	<dc:subject xml:lang="en">runup</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater design</dc:subject>
+	<dc:subject xml:lang="en">breakwater crest</dc:subject>
+	<dc:description xml:lang="en">Estimation of the run-up and overtopping rates corresponding to breakwaters is a critical aspect for designing. Although it is widely assumed that onshore winds significantly increase runup and overtopping, very few design rules and experimental data have been published to estimate the effects of wind on runup and overtopping. A conventional and several cuenco amortiguador breakwater cross sections were tested at the UPV wind and wave test facility using wind velocities up to 10 m/s. A neural network modeling using simulated annealing was developed to analyze the experimental results. A preliminary analysis of the results found that wave overtopping was sensitive to wind speed (U&gt;0), while runup seems sensitive only to high wind speed (U&gt; 8 m/s). The runup measurements using capacitance wave gauges placed along the slope are dependent on the distance from the theoretical profile; therefore, a pair of wave gauges placed at D,,so/3 and 2 Dnso/3 were used to calculate the measured runup on the conventional breakwater. A significant discrepancy was found between the visual observations of runup on the conventional breakwater and the measured runup using the capacitance wave gauges; it seems that capacitance wave gauges underestimate the runup because of the alteration of the capacity of the water due to air intrusion during the breaking process.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5669</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5669/5339</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

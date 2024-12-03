@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4974</identifier>
+				<datestamp>2021-01-19T14:57:38Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A GENERALIZED GREEN-FUNCTION METHOD FOR WAVE FIELD ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Nishimura, Hitoshi</dc:creator>
+	<dc:creator xml:lang="en">Matsuoka, Michio</dc:creator>
+	<dc:creator xml:lang="en">Matsumoto, Akira</dc:creator>
+	<dc:subject xml:lang="en">wave field</dc:subject>
+	<dc:subject xml:lang="en">wave analysis</dc:subject>
+	<dc:subject xml:lang="en">Green function</dc:subject>
+	<dc:description xml:lang="en">The Green-function method for analyzing wave refraction, diffraction and reflection is improved by deriving rational explicit formulations of boundary conditions. Possibilities and limitations of the method are discussed. Trial computations and their comparisons with experiments demonstrate the validity and usefulness of the numerical model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4974</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4974/4654</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

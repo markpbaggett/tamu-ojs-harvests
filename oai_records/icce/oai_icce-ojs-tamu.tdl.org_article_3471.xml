@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3471</identifier>
+				<datestamp>2021-01-19T23:35:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CORRECT REPRODUCTION OF GROUP-INDUCED LONG WAVES</dc:title>
+	<dc:creator xml:lang="en">Hansen, N.E. Ottesen</dc:creator>
+	<dc:creator xml:lang="en">Sand, Stig E.</dc:creator>
+	<dc:creator xml:lang="en">Lundgren, H.</dc:creator>
+	<dc:creator xml:lang="en">Sorensen, Torben</dc:creator>
+	<dc:creator xml:lang="en">Gravesen, H.</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">group induced waves</dc:subject>
+	<dc:subject xml:lang="en">wave reproduction</dc:subject>
+	<dc:description xml:lang="en">In nature short period storm waves generate longer waves with periods corresponding to the wave group periods. The long waves are generally referred to as the wave set-down of water level. The set-down term is of second order in the height of the short waves. With first order reproduction of natural storm waves in the laboratory, the setdown bound to the wave groups is not reproduced. As a result, various free waves are generated, propagate towards the model and reflect from the boundaries. These so-called parasitic waves cause an exaggeration of long wave phenomena, such as harbour resonance and slow drift oscillations of moored ships. The parasitic waves can be eliminated by means of compensating free waves imposed on the system by second-order paddle motion reproducing the natural set-down. The control signal for this motion has been calculated and checked by testing. The agreement between calculated and measured results is found to be good. Further, an alternative method for reducing the parasitic wave problem is presented. Utilizing the shoaling properties of the various waves, the influence of parasitic waves can be diminished by generating the waves in somewhat deeper water before they propagate into the shallower model area.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3471</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3471/3151</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

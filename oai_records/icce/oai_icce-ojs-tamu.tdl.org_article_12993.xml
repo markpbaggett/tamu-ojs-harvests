@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12993</identifier>
+				<datestamp>2023-09-01T15:14:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">3D NUMERICAL MODELLING OF FIVE SUBMARINE LANDSLIDE SCENARIOS IN PERTH CANYON, AUSTRALIA TO ASSESS TSUNAMIGENIC HAZARD</dc:title>
+	<dc:creator xml:lang="en">Buller, Elise J.</dc:creator>
+	<dc:creator xml:lang="en">Mollison, Kendall C.</dc:creator>
+	<dc:creator xml:lang="en">Power, Hannah E.</dc:creator>
+	<dc:description xml:lang="en">Submarine canyons have been identified on nearly all margins around the world (Urlaub et al., 2013). Their configuration and morphology has been attributed to several factors including geology, tectonism, sea-level variations, and sediment supply to the region (Laursen and Normark, 2002) with processes occurring over varying temporal and spatial scales driving complex morphologies (Drexler, et al., 2006). A common process in submarine canyons is the mass wasting of sediment in the form of submarine landslides (SMLS) (Brothers, et al., 2013). A SMLS is a displacement of sediment or debris driven by gravity where the downslope forces are greater than the forces that are acting to resist the mass-failures (Mountjoy and Micallef, 2018). The potential tsunami hazard posed by these SMLS was assessed by Buller et al. (2021) using empirical calculations which showed that these SMLSs posed a tsunami threat to the adjacent coastline with calculated wave amplitudes ranging from 2.13 – 15.90 m. However, the tsunami risk assessed in their study was a conservative initial assessment and did not consider how local bathymetry influenced tsunami propagation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12993</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12993/12266</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Elise J. Buller, Kendall C. Mollison, Hannah E. Power</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

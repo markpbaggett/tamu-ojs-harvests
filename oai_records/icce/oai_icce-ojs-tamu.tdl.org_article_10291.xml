@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10291</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTER-COUPLED TSUNAMI MODELLING THROUGH AN ABSORBING-GENERATING BOUNDARY</dc:title>
+	<dc:creator xml:lang="en">Son, Sangyoung</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:description xml:lang="en">For many practical and theoretical purposes, various types of tsunami wave models have been developed and utilized so far. Some distinction among them can be drawn based on governing equations used by the model. Shallow water equations and Boussinesq equations are probably most typical ones among others since those are computationally efficient and relatively accurate compared to 3D Navier-Stokes models. From this idea, some coupling effort between Boussinesq model and shallow water equation model have been made (e.g., Son et al. (2011)). In the present study, we couple two different types of tsunami models, i.e., nondispersive shallow water model of characteristic form(MOST ver.4) and dispersive Boussinesq model of non-characteristic form(Son and Lynett (2014)) in an attempt to improve modelling accuracy and efficiency.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/cTXybDEnfsQ</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10291</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10291/9577</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Sangyoung Son, Patrick Lynett</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

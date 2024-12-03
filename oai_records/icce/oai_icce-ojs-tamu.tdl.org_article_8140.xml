@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8140</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL STUDY ON THE INFLUENCE OF INFILTRATION ON SWASH HYDRODYNAMICS AND SEDIMENT TRANSPORT IN THE SWASH ZONE</dc:title>
+	<dc:creator xml:lang="en">Hammeken, Alejandro M.</dc:creator>
+	<dc:creator xml:lang="en">Simons, Richard R.</dc:creator>
+	<dc:subject xml:lang="en">swash</dc:subject>
+	<dc:subject xml:lang="en">infiltration</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">hydraulic conductivity</dc:subject>
+	<dc:subject xml:lang="en">bed shear stress.</dc:subject>
+	<dc:description xml:lang="en">Infiltration and exfiltration processes have a significant influence on the hydrodynamics of the swash zone. Such processes need to be taken into account in the modelling of cross-shore sediment transport and the prediction of beach profile evolution. This paper presents a numerical study of the swash hydrodynamics using a 2D Volume-Averaged Reynolds-Averaged Navier-Stokes model, which was calibrated and validated against new experimental data. The model was used to simulate wave run-up from regular waves over permeable and impermeable fixed slopes. Swash flow velocities and water depth data were obtained from the simulations and used to estimate bed shear stresses at three different locations on the beach slope. The results show that infiltration can have opposing effects on the bed shear stress when compared to equivalent swash on an impermeable slope. During the uprush phase, stresses are directly increased due to boundary layer thinning, whereas, during the backwash phase, there is a significant reduction of flow leading to a decrease in the bed shear stresses.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8140</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.currents.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; currents.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8140/6963</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7326</identifier>
+				<datestamp>2021-01-19T04:52:12Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING ON THE ESTUARINE TURBIDITY MAXIMUM OF YANGTZE ESTUARY BEFORE AND AFTER THE REGULATION WORKS USING Z-MODEL</dc:title>
+	<dc:creator xml:lang="en">Yu-Fang, Han</dc:creator>
+	<dc:creator xml:lang="en">Qing-Hua, Ye</dc:creator>
+	<dc:creator xml:lang="en">J.A., Roelvink Dano</dc:creator>
+	<dc:subject xml:lang="en">Turbidity maximum</dc:subject>
+	<dc:subject xml:lang="en">fine sediment</dc:subject>
+	<dc:subject xml:lang="en">salt intrusion</dc:subject>
+	<dc:subject xml:lang="en">salinity gradients</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:subject xml:lang="en">3D z-layer model</dc:subject>
+	<dc:subject xml:lang="en">Yangtze Estuary</dc:subject>
+	<dc:description xml:lang="en">Existence of the estuarine turbidity maximum (ETM) zone is ubiquitous in partially mixed estuaries. It is characterized by high suspended sediment concentration. The position of the TM usually corresponds to the head of the salt instruction. In the Yangtze Estuary, the ETM zone is extremely large in spatial scale, spreading over the entire mouth zone downstream the South Branch and inside the 10 m isobaths. The ETM is aslo accompanied by a board shallow area (basically around 6 m) in the mouth zone, namely the mouth bars. The presence of the mouth bars hampers the navigation significantly. Thus extensive engineering works are implemented to achieve deeper water depth with the help of dredging activities in the North Passage in the Yangtze Estuary. However after the completion of the engineering works, high siltation appears in the middle segment of the North Passage. The hypothesis is that the location of high siltation (expressed in the morphology) falls in the range of ETM zone modified by the completion of the engineering works. The formation and development of ETM and consequent morphodynamic development is focused on.A three-dimensional z-layer model Delft3D is employed. This study clearly shows that salinity gradients can be better simulated using the z-layer model, where the stratification at the upper limits of the salt wedge is better resolved. Afterwards, the consequent morphological changes are qualitatively demonstrated. The study shows the capability of this z-layer model to exploit the mechanism of generation and development of ETM, thus to explain the complex phenomenon of the high siltation in the North Passage of Yangtze estuary</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7326</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7326/pdf_723</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4495</identifier>
+				<datestamp>2021-01-19T17:41:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RUNUP, SETUP AND THE COASTAL WATERTABLE</dc:title>
+	<dc:creator xml:lang="en">Nielsen, Peter</dc:creator>
+	<dc:subject xml:lang="en">run up</dc:subject>
+	<dc:subject xml:lang="en">set up</dc:subject>
+	<dc:subject xml:lang="en">water table</dc:subject>
+	<dc:description xml:lang="en">The three related phenomena of wave runup, wave setup and the dynamics of the coastal watertable are considered and their inter-relations are investigated via a comprehensive field study. The measured runup distributions confirm the expectation that the Rayleigh distribution is a reasonable model and that the vertical scale of the distributions is proportional to v/(Horm8 L0) as in Hunt's (1959) formula but that the proportionality to the beach slope, also prescribed by this formula, only applies for fairly steep beaches. The measured setup profiles are quite different from the ones predicted on the basis of H=7h and linear wave theory in the surf zone. The measured profiles are flatter in the outer surf zone and steeper close to the beach. The shoreline setup is generally about 0.4 Horms, which is somewhat higher than the previously suggested values. This is because the previous values of the shoreline setup were rarely measured but generally extrapolated with insufficient recognition of the steepening of the profile near the shoreline. The watertable data show that the inclined beach face acts as a strongly non-linear filter which makes the watertable variation at a point inside the beach far from sinusoidal (when the tide is approximately sinusoidal) and elevates the average position of the watertable considerably compared to the mean sea level.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4495</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4495/4176</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

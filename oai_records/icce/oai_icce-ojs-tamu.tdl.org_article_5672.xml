@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5672</identifier>
+				<datestamp>2021-01-19T11:03:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME MULTI-DIRECTIONAL WAVES</dc:title>
+	<dc:creator xml:lang="en">Johannessen, T.B.</dc:creator>
+	<dc:creator xml:lang="en">Swan, C.</dc:creator>
+	<dc:subject xml:lang="en">extreme waves</dc:subject>
+	<dc:subject xml:lang="en">multidirectional waves</dc:subject>
+	<dc:description xml:lang="en">The present paper concerns the nonlinear description of large waves in which the wave energy is spread in both the frequency and the directional domains. A new series of experimental observations are briefly described in which a large number of deep-water focused wave groups were generated in a large wave basin. For each combination of frequency bandwidth and directional spread the intensity of the wave, measured in terms of a linear amplitude sum, was varied from a near-linear condition to the limit of incipient wave breaking. Comparisons between this laboratory data and a new fully nonlinear, multi-directional, numerical model are used to validate the modelling procedure and highlight the importance of the directionality. In particular, the results show that for a given linear amplitude sum an increase in the directional spread leads to a reduction in the magnitude of the nonlinear wave-wave interactions. Conversely, the maximum nonlinear crest elevation, observed just prior to the onset of wave breaking, increases with the directional spread assuming the frequency bandwidth remains constant. From a practical perspective, the paper demonstrates that an accurate representation of an extreme ocean wave requires a model that incorporates nonlinearity, unsteadiness and directionality. The present model satisfies these requirements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5672</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5672/5342</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4372</identifier>
+				<datestamp>2021-01-19T18:22:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE TRANSMISSION THROUGH A DOUBLE-ROW PILE BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Herbich, John B.</dc:creator>
+	<dc:creator xml:lang="en">Douglas, Barry</dc:creator>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">pile breakwater</dc:subject>
+	<dc:subject xml:lang="en">double row piles</dc:subject>
+	<dc:description xml:lang="en">Several previous investigators have conducted experiments leading to expressions for predicting the transformation of waves passing through closely-spaced pile or large cylinder breakwaters. The present study extends the earlier experiments which used a single row of piles instead of a double row of piles forming a breakwater. The experiments using the double-pile breakwater were performed in the same facility as the experiments conducted on a single-pile breakwater and employed the same method of analysis for a more meaningful comparison. The experiments consisted of allowing waves to pass through a pile array and measuring the incident and transmitted wave heights. The variables were: depth, period, diameter, monochromatic and random waves. The experimental matrix was three water depths, four wave periods, two pile diameters, two gap dimensions between piles and four random wave spectra: Darbyshire, I.T.T.C., Pierson- Moskowitz and JONSWAP, two pile diameters and two gap dimensions between piles. The two-row breakwater had less wave transmission than the single-row breakwater, as expected. For a gap to a pile diameter ratio, or b/D = 0.2 (where b = gap spacing, D - pile diameter), the wave transmission was reduced by 15 percent, as compared with a single-row breakwater; for a gap ratio of b/D - 0.1, the wave transmission was reduced by 5 to 10 percent.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4372</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.165</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 165</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4372/4053</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

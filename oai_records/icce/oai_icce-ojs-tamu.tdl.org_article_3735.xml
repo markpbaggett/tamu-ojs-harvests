@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3735</identifier>
+				<datestamp>2021-01-19T22:04:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NON-LINEAR WAVE FORCES ON FLOATING BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Niwinski, C.T.</dc:creator>
+	<dc:creator xml:lang="en">Isaacson, M. de St. Q.</dc:creator>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">floating breakwater</dc:subject>
+	<dc:description xml:lang="en">A non-linear numerical method for calculating wave forces on floating bodies has been developed by Isaacson (1981). The time stepping procedure is programmed for a computer solution, and an incident wave train is time stepped past a fixed two-dimensional rectangular breakwater. The influence of various input parameters on the accuracy of results is investigated, and optimal values of the parameters are determined. The optimal numerical parameters are used to generate force and transmission coefficient results, which are compared to the results of other published studies. The method is shown to compare favorably with other results, with the non-linear nature of the method being clearly demonstrated by the different force curves produced by varying the wave height.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3735</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.120</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 120</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3735/3418</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

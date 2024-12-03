@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4915</identifier>
+				<datestamp>2021-01-19T15:17:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A STUDY ON MUD MASS TRANSPORT UNDER WAVE BASED ON AN EMPIRICAL RHEOLOGY METHOD</dc:title>
+	<dc:creator xml:lang="en">Isobe, Masahiko</dc:creator>
+	<dc:creator xml:lang="en">Huynh, Trien N.</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Akira</dc:creator>
+	<dc:subject xml:lang="en">rheology</dc:subject>
+	<dc:subject xml:lang="en">mud</dc:subject>
+	<dc:subject xml:lang="en">mass transport</dc:subject>
+	<dc:description xml:lang="en">The Theological properties of mud play an important role in the motion of bed mud due to waves, currents, or combined waves and currents. In this paper, a dynamic rotary shear meter is developed to measure the shear stress in the mud under an arbitrary time history of the shear rate. Kaolinite is tested as an example of bed material and its rheology model is proposed. Another experiment is performed to confirm the predominance of the mud mass transport mode over the suspended mud transport mode in the wave-induced transport. Further experiments examine the role of pressure as an external force of the motion of the bed mud and measure some characteristics of waves on the mud bed. Finally, based on the empirical rheology model, a numerical model is developed to predict the motion of the bed mud, and resulting mud mass transport and wave damping. The calculated mud mass transport velocity and wave height change agree well with measurement.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4915</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4915/4596</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

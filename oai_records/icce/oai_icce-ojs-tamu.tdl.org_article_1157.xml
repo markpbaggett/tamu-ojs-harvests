@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1157</identifier>
+				<datestamp>2023-10-04T04:07:40Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OPTIMIZATION OF CAISSON BREAKWATER SUPERSTRUCTURE GEOMETRY USING A 2DV RANS-VOF NUMERICAL MODEL</dc:title>
+	<dc:creator xml:lang="en">Misra, Shubhra</dc:creator>
+	<dc:creator xml:lang="en">Narayanaswamy, Muthukumar</dc:creator>
+	<dc:creator xml:lang="en">Bayram, Atilla</dc:creator>
+	<dc:creator xml:lang="en">Shi, Fengyan</dc:creator>
+	<dc:subject xml:lang="en">Caisson breakwater</dc:subject>
+	<dc:subject xml:lang="en">RANS-VOF numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">Wave-structure interaction</dc:subject>
+	<dc:subject xml:lang="en">Wave overtopping</dc:subject>
+	<dc:subject xml:lang="en">Wave forces</dc:subject>
+	<dc:description xml:lang="en">This paper demonstrates that numerical modeling tools such as a RANS-VOF model can be applied confidently to reduce the level of uncertainty from empirical guidance and provide for a deterministic quantification of the hydraulic response associated with any arbitrary Caisson breakwater superstructure geometry. The RANS-VOF model used for this paper is first satisfactorily validated against laboratory measurements (surface elevation, overtopping and pressure) of a caisson breakwater on a rubble-mound foundation and then applied to several prototype caisson breakwater superstructure geometries. Numerical simulations presented in this paper for prototype geometries demonstrate that curved/inclined parapets, when compared with vertical face caisson breakwaters with the same crest elevation, can lead to large increases in overtopping as well as downward forces. Expectedly, the landward forces are reduced by the implementation of a curved or recessed and inclined parapet when compared to a caisson with a completely vertical face. During large overtopping events, the model results show that much larger short-duration seaward loads can be generated for curved and inclined superstructures when compared to vertical face geometries. This is in general agreement with previous laboratory experiments as well as field observations of seaward caisson sliding and failure resulting from large overtopping events. Further, numerical experiments indicate that the overtopping response of a superstructure can vary noticeably due to small changes in the recessed length of an inclined or curved parapet. The numerical model also easily provides for the quantification of the variation of instantaneous and peak overtopping discharges along the crest of the caisson superstructure, and which can provide for useful guidance in the design of various crest infrastructure components, such as drainage systems, flow deflectors, wave power devices etc.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1157</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.49</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.49</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1157/pdf_220</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

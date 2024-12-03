@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3392</identifier>
+				<datestamp>2021-01-20T00:03:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DIFFRACTION CALCULATION OF SHORELINE PLANFORMS</dc:title>
+	<dc:creator xml:lang="en">Dean, Robert G.</dc:creator>
+	<dc:subject xml:lang="en">diffraction</dc:subject>
+	<dc:subject xml:lang="en">diffraction calculation</dc:subject>
+	<dc:subject xml:lang="en">shoreline planform</dc:subject>
+	<dc:subject xml:lang="en">pocket beach</dc:subject>
+	<dc:description xml:lang="en">A method is presented, and illustrated with examples, for calculating planforms for a class of "pocket" beaches. This type of pocket beach is formed of mobile sediment due to waves diffracting through an opening in erosion resistant material, for example behind a break in a revetment or behind closely spaced offshore breakwaters. The opening is considered as a series of sources with circular wavelets radiating landward from each element. The height and phasing of each wavelet is varied depending on whether the depth at the element limits the wave height and on the wave direction relative to the opening, respectively. Based on reasonable, but not complete, considerations of sediment transport, the equilibrium bathymetry is considered to exist when the wave front is everywhere tangent to the local bottom contours. A differential equation is developed for the local orientation of the contours; this equation is solved numerically starting from a reference transect and extending the contour until it intersects the line defining the opening. Examples are presented illustrating the method for the following cases: (1) normally incident waves diffracting through a single relatively narrow opening, (2) obliquely incident waves diffracting through a single relatively narrow opening and (3) spiral bays which are contained by two relatively widely spaced headlands. In addition, a procedure is suggested for applying the results to the case of normally and obliquely incident waves diffracting through the openings formed by a series of offshore breakwaters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3392</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.115</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 115</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3392/3071</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

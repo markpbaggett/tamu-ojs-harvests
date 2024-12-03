@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2187</identifier>
+				<datestamp>2021-01-17T06:06:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTUARINE CURRENTS AND TIDAL STREAMS</dc:title>
+	<dc:creator xml:lang="en">Agnew, Roderick</dc:creator>
+	<dc:subject xml:lang="en">estuarine currents</dc:subject>
+	<dc:subject xml:lang="en">tidal streams</dc:subject>
+	<dc:subject xml:lang="en">density stratification</dc:subject>
+	<dc:description xml:lang="en">Fresh water spreading out from the mouth of a river as it enters a salt sea may preserve its identity for a considerable distance on the surface if wind-generated waves, longshore currents and tidal streams are capable of producing only weak mixing. Fig. 1 shows the three dimensional shape of a fresh-water tongue overlying more dense salt water, derived by Takano (1954) on the assumption of constant eddy viscosity and constant density in the fresh water layer, below which the density increases according to an assumed law, making an asymptotic approach to the density of salt water. Takano's model is thus a water jet entraining salt from around and below it.
+Salt or brackish water may penetrate along the deep channels of an estuary in the shape of a wedge complementary to the fresh water tongue, the salt wedge retreating seawards as heavy rainfall increases the river discharge, and advancing in dry weather intervals. Tidal streams cause a regular oscillation of both fresh and braok water in flood and ebb directions but the seasonal movements of the sloping boundary between fresh and salt water may still be important in low-lying delta regions. Strong tidal streams lead to intense mixing, when neither a fresh water tongue nor a salt wedge can be distinguished, but the isohalines (salinity contours) preserve the general wedge pattern - see Figs. 3 to 6. In the upper reaches of an estuary it is possible to study the effect of the tidal motion by treating it as a simple harmonic perturbation of the uni-directional river flow. Even in the middle portion of the estuary where there is reversal of the horizontal motion, one may seek a "quasi steady" solution for the net effect (seaward movement of fresh water) while allowing for the increased turbulence due to the tidal action. At the seaward end of the estuary there is little deviation from the astronomical tidal rhythm, so the problem reduces to simple harmonic oscillations of salt water. Higher harmonics may be introduced as an extension of the simple solution. For a first approximation it is sufficient to consider flow in the longitudinal vertical plane, to assume that the pressure distribution is hydrostatic as in long wave theory, and even to neglect inertia terms when investigating net effects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2187</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2187/1881</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

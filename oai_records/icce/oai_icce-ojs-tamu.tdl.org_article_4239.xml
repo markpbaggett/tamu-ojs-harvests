@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4239</identifier>
+				<datestamp>2021-01-19T19:08:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A HYDRODYNAMIC MODEL FOR COMPUTER AIDED HARBOUR ENGINEERING</dc:title>
+	<dc:creator xml:lang="en">Monso, J.L.</dc:creator>
+	<dc:creator xml:lang="en">Arcilla, A.S.</dc:creator>
+	<dc:creator xml:lang="en">Sierra, J.P.</dc:creator>
+	<dc:subject xml:lang="en">hydrodynamic model</dc:subject>
+	<dc:subject xml:lang="en">computer aided engineering</dc:subject>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:description xml:lang="en">Coastal hydrodynamic analyses are basic for the planning and assessment of activities in that area. An important application of these-analyses is harbour lay-out and location. In this paper, hydrodynamic results of a numerical model based on Boussinesq-type equations are presented in the issue of Computer Aided Harbour Engineering. This model achleves overall second-order accuracy and has efficient modules of pre- and post-processing of information. The model has been used as a CAD tool for the planning and design of Spanish harbours. Its flexibility and economy of operation allow the model to be used, in the future, as a module of a global expert system for CAD harbour lay-out. This global expert system will provide a fully automatic design process. The output of this system will consist in the final optimized harbour configuration, considering all Imposed constraints and requirements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4239</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4239/3920</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

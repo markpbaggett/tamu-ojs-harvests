@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3346</identifier>
+				<datestamp>2021-01-20T00:14:57Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND-GENERATED LONGSHORE CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Nummedal, Dag</dc:creator>
+	<dc:creator xml:lang="en">Finley, Robert J.</dc:creator>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">wind generated current</dc:subject>
+	<dc:description xml:lang="en">This paper evaluates, through the use of a stepwise multiple regression procedure, whether parameters descriptive of the surf-zone wave field adequately explain the variability in longshore current velocities, or if the inclusion of additional physical environmental parameters could significantly improve the ability to predict such currents. The data set consists of 250 LEO - observations, collected on a seasonal basis over one year, at Debidue Island beach, South Carolina. A regression analysis was performed both on linear combinations of all measured wave parameters, and on nonlinear parameter combinations proposed in various semiempirical predictive equations. Invariably, in all the regression analyses, the longshore component of the wind velocity proved to be the independent variable explaining most of the observed variance in the current velocity. Therefore, the statistical data analysis presented in this paper strongly suggests that wind stress can be a most significant factor in surf-zone current generation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3346</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.84</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 84</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3346/3015</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

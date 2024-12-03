@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1554</identifier>
+				<datestamp>2021-01-17T07:11:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NOTES ON THE GENERATION AND GROWTH OF OCEAN WAVES UNDER WIND ACTION</dc:title>
+	<dc:creator xml:lang="en">Neumann, Gerhard</dc:creator>
+	<dc:subject xml:lang="en">wind-wave generation</dc:subject>
+	<dc:subject xml:lang="en">wave forecasting</dc:subject>
+	<dc:subject xml:lang="en">wave energy dissipation</dc:subject>
+	<dc:description xml:lang="en">The basic problem of forecasting wind-generated waves is the development of equations which express the energy budget between wind and waves, and the derivation of physical laws governing the growth of the component wave trains. The waves can grow only in the case where the supply of energy by wind exceeds the loss of energy by friction and turbulence. Thus any attempt to calculate the growth of ocean waves under wind action requires a knowledge of the energy supply and the energy dissipation in every phase of wave development.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1952-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1554</dc:identifier>
+	<dc:identifier>10.9753/icce.v3.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 3 (1952): Proceedings of Third Conference on Coastal Engineering, Cambridge, Massachusetts, 1952.; 7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1554/834</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7058</identifier>
+				<datestamp>2021-01-19T05:24:16Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING EXTREME SEA LEVELS DUE TO SEA LEVEL RISE AND STORM SURGE IN THE SETO INLAND SEA, JAPAN</dc:title>
+	<dc:creator xml:lang="en">Lee, Han Soo</dc:creator>
+	<dc:subject xml:lang="en">extreme sea level</dc:subject>
+	<dc:subject xml:lang="en">sea level rise</dc:subject>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">ensemble empirical mode decomposition</dc:subject>
+	<dc:subject xml:lang="en">extreme value analysis</dc:subject>
+	<dc:subject xml:lang="en">the Seto Inland Sea</dc:subject>
+	<dc:description xml:lang="en">The extreme sea level due to storm surge and future sea-level rise (SLR) in the year of 2050 and 2100 are estimated by using ensemble empirical mode decomposition (EEMD) and extreme value analysis (EVA) with long-term sea level records in and around the Seto Inland Sea, Japan. Ensemble empirical mode decomposition, an adaptive data analysis method, can separate the tidal motions and the non-linear trend from the sea level records to reconstruct the storm surge levels, and then the reconstructed storm surge levels are applied to statistical model, EVA, to obtain the extreme storm surges at 95% confidence interval in the target return periods. The SLR trend at Tokuyama in the Seto Inland Sea obtained from EEMD is 3.58 mm/yr over 1993-2010, which is slightly larger than the recent altimetry-based global rate of 3.3 ± 0.4 mm/yr over 1993-2007. The resulting SLR in 2050 and 2100 estimated are 0.18 m and 0.49 m, respectively. The 30-, 50-, and 100-yr return levels at Tokuyama obtained by EVA are 1.30 m, 1.43 m and 1.64 m. Therefore, the extreme sea level in 2050 and 2100 due to future SLR and storm surge with 100-yr return level would be 1.82 m (1.35 m ~ 2.26 m with 95% confidence intervals) and 2.13 m (1.75 m ~ 3.10 m with 95% confidence intervals), respectively. The SLR is not only due to mass and volume changes of sea water, but also due to other factors such as local subsidence, river discharge and sediments, and vegetation effect. The non-linear trend of SLR, which is the residue from EEMD, can be regarded as a final consequential sea level after considering those factors and their nonlinearity. The combined EEMD-EVA method can be useful tool not only for the extreme sea level estimation under climate change, but also for many cases in coastal engineering and hydrology.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7058</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.management.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; management.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7058/pdf_396</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

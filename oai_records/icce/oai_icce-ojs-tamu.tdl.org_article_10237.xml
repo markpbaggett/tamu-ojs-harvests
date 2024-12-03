@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10237</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL EXPERIMENTS ON RESONANT WAVE AMPLIFICATION OVER A FRINGING REEF</dc:title>
+	<dc:creator xml:lang="en">Lasserre, Camila Gaido</dc:creator>
+	<dc:creator xml:lang="en">Tissier, Marion</dc:creator>
+	<dc:creator xml:lang="en">Reniers, Ad</dc:creator>
+	<dc:creator xml:lang="en">Pearson, Stuart</dc:creator>
+	<dc:creator xml:lang="en">Bricker, Jeremy</dc:creator>
+	<dc:description xml:lang="en">Waves are important drivers for reef hydrodynamics, and therefore strongly contribute to flooding over reef-lined coasts. While high-frequency waves are largely dissipated when they propagate over the reef flat due to breaking and friction, low-frequency (LF) waves are generally able to reach the back-reef beach. There, they can reflect and form (quasi-) standing wave patterns, which under resonant conditions can lead to disproportionally high run-up on the beach (e.g., Pequignet et al., 2009; Gawehn et al., 2016). The probability of this phenomenon is expected to increase due to sea-level rise (e.g., Pequignet et al., 2009). In this study, we numerically investigate long wave resonance and the processes enhancing or limiting the resonant amplification of long waves over the reef flat. Besides the role of frictional dissipation (e.g., Pomeroy et al. 2012), we investigate how the nonlinear transformation of long waves influences the amplification rate.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/caZcI8YYs0I</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10237</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10237/9523</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Camila Gaido Lasserre, Marion Tissier, Ad Reniers, Stuart Pearson, Jeremy Bricker</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

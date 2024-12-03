@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5077</identifier>
+				<datestamp>2021-01-19T14:21:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUSPENDED SEDIMENT TRANSPORT IN INNER SHELF WATERS DURING EXTREME STORMS</dc:title>
+	<dc:creator xml:lang="en">Madsen, O.S.</dc:creator>
+	<dc:creator xml:lang="en">Chisholm, T.A.</dc:creator>
+	<dc:creator xml:lang="en">Wright, L.D.</dc:creator>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">shelf</dc:subject>
+	<dc:subject xml:lang="en">storm</dc:subject>
+	<dc:subject xml:lang="en">extreme storm</dc:subject>
+	<dc:description xml:lang="en">The paper presents a simple model for the prediction of longshore and crosshore suspended sediment transport rates outside the surf zone in water depths less than 20 m or so. The model consists of a depth-resolving hydrodynamic component, which considers wind-induced currents in the presence of waves and includes the Coriolis effect. The hydrodynamic model component is coupled with a model for the mean suspended sediment concentration to produce a prediction of the depth-varying mean suspended sediment flux vector. In addition to specification of environmental conditions, i.e. waves and sediment characteristics as well as current driving forces (wind velocity and pressure gradient), the model requires three parameters: Ca, the wind-drag coefficient; fc/v, the movable bed bottom roughness; and 70, the resuspension parameter. These three model parameters were determined (Madsen et al., 1993) from a subset of field data obtained in 13 m depth off Duck, North Carolina, during the severe "Halloween Storm" of 1991 and are used to perform a limited comparison between predicted and observed current velocity vectors and mean suspended sediment concentrations. The agreement is very encouraging and model prediction of an offshore loss of 22 m3 sediment per m beach compares favorably with the loss of 27 to 54 m3 obtained from beach profile surveys.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5077</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5077/4755</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

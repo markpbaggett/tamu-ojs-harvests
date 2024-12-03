@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10317</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPING AGENT-BASED TSUNAMI EVACUATION MODEL FOR PEDESTRIAN AND CAR EVACUEES</dc:title>
+	<dc:creator xml:lang="en">Takabatake, Tomoyuki</dc:creator>
+	<dc:creator xml:lang="en">Fujisawa, Kota</dc:creator>
+	<dc:creator xml:lang="en">Esteban, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:description xml:lang="en">Appropriate evacuation strategies play an important role in saving lives during tsunamis. Evacuation by vehicle is generally not recommended, as it would induce severe congestion on roads. Nevertheless, it could be helpful for vulnerable people (e.g. the disabled, elderly, or infants) who live in an area which a tsunami would reach immediately after an earthquake, and cannot walk fast. Despite this, to date there are few simulation tools that can accurately reproduce the evacuation behavior of both pedestrians and vehicles as well as the tsunami inundation process. To help disaster risk managers with this problem, the authors newly developed an agent-based tsunami evacuation model that can consider both tsunami wave hydrodynamics and the behavior of both of these types of agents (i.e. vehicles and people) during evacuation.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/ZurujpEE0hY</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10317</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10317/9603</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Tomoyuki Takabatake, Kota Fujisawa, Miguel Esteban, Tomoya Shibayama</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

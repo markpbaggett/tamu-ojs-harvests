@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3782</identifier>
+				<datestamp>2021-01-19T21:47:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE EXPERIMENTAL VERIFICATION OF NUMERICAL MODELS OF PLUNGING BREAKERS</dc:title>
+	<dc:creator xml:lang="en">Kjeldsen, Soren Peter</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">plunging breaker</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">experimental verification</dc:subject>
+	<dc:description xml:lang="en">Results of a WAVE-FOLLOWER EXPERIMENT are presented, in which a moving current meter entrained in the crest of a steep Stokes wave and a moving high-speed film camera follows the wave with its non-linear phase velocity. Measurements of wave particle velocities are then obtained both in non-breaking steep wave crests, and in breaking waves. The breaking waves in deep water conditions are obtained by the application of a non-linear sweep frequency modulation technique, and the Stokes wave becomes unstable due to interaction of 13 wave components focused into one single point in space and time, KJELDSEN 1982. The result of this interaction is a large freak wave, breaking as a plunging breaker in deep water. Measured crest particle velocities obtained with the current meter exceeded the phase velocity of this wave with 36 %. Digitalisation of the high-speed film showed that particle velocities at the very tip of the plunging jet obtained the value 2.65 times the linear phase velocity. These results are then compared with predictions obtained from numerical simulations by LONGUET-HIGGINS &amp; COKELET 1976 and VINJE &amp; BREVIG 1980.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3782</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3782/3465</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

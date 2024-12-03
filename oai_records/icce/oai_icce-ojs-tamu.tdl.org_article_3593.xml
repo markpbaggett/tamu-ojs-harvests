@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3593</identifier>
+				<datestamp>2021-01-19T22:54:11Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON A ROLE OF THE INTERFACIAL FROUDE NUMBER</dc:title>
+	<dc:creator xml:lang="en">Kashiwamura, Masakazu</dc:creator>
+	<dc:subject xml:lang="en">Froude Number</dc:subject>
+	<dc:subject xml:lang="en">interfacial Froude Number</dc:subject>
+	<dc:description xml:lang="en">As already stated in the previous conference, the fresh-water flow which passes through a river mouth horizontally into the sea, exhibits a special characteristic due to the effect of buoyancy. Its dynamics belongs, essentially to the same category with the transonic flow in aerodynamics. The interfacial Froude number plays a dominant role in this case, as well as the Mach number does in the transonic gas flow. The supercritical zone, in which the interfacial Froude number exceeds unity, occupies the sea surface with some area, in response to a degree of the discharge amount of the fresh water. This zone begins at the river mouth and stretches in the offshore directions over the sea, accompanied with a lateral growth. As is well known, on the other hand, supersonic zones are sometimes formed partially along an airfoil, or in a tube with a varying crosssection, if they are placed in a subsonic gas flow. Those two different phenomena have been proved to be identical dynamically with each other [KASHIWAMURA and YOSHIDA 1978], [KASHIWAMURA 1979]. There have been a great number of researches in order to obtain an analytical solution of the transonic flow, in the past several decades, but there seem still many difficulties to attain a complete solution, except some particular cases such as a stream-lined approximation of immersed bodies being possible. Considering such circumstances, it may also be difficult for the present problem to be solved completely, although it Has not been decided yet to be impossible. The present author describes the process of his efforts for obtaining an analytical solution and its results, from a view point of the inspection on an applicability of the hodograph method, and its modification to this problem. In spite of incompleteness, they provide us several findings which are useful to understand the dynamics of the outflow of the fresh water. In addition to those, a few examples of field data concerning the horizontal distribution of the interfacial Froude number around a river mouth, and some experimental results are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3593</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.164</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 164</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3593/3275</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

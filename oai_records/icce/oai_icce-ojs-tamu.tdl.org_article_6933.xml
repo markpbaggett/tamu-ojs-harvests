@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6933</identifier>
+				<datestamp>2023-10-04T02:51:50Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A METHOD FOR THE SPATIAL ANALYSIS OF ANTHROPOGENIC PRESSURES IN SPANISH MARINE WATERS</dc:title>
+	<dc:creator xml:lang="en">Moreno, Isabel</dc:creator>
+	<dc:creator xml:lang="en">del Barrio, Irene</dc:creator>
+	<dc:creator xml:lang="en">Lloret, Ana</dc:creator>
+	<dc:creator xml:lang="en">Pérez-Puyol, Ainhoa</dc:creator>
+	<dc:subject xml:lang="en">cumulative analysis</dc:subject>
+	<dc:subject xml:lang="en">pressures</dc:subject>
+	<dc:subject xml:lang="en">ecosystem-based approach</dc:subject>
+	<dc:subject xml:lang="en">marine waters</dc:subject>
+	<dc:description xml:lang="en">In 2008, the European Community adopted the Marine Strategy Framework Directive, aiming to achieve or maintain good environmental status in the European marine environment by 2020, applying an ecosystem-based approach to the management of human activities. Spatial information of the distribution of the human activities and their related pressures is essential to accomplish this task successfully. After compiling the available data from official sources, the spatial extent of the land-based and ocean-based human activities that could have an impact on the Spanish marine waters were estimated and mapped using GIS tools. In addition, a series of indexes were created in order to develop a cumulative analysis, taking into account the different relevance of pressures and that single pressures have different intensities. The identification of areas with an accumulation of pressures revealed that it is in coastal waters around big cities where the greater part of the pressures concentrates for each of the five Spanish marine districts. Human impacts emanating from the identified pressures could not be evaluated and this task is proposed to be accomplished in further projects. Nonetheless, the resulting information is considered very useful for managers and technical staff to support not only marine management but also other planning and decision making in Spain.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6933</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.64</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.64</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6933/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

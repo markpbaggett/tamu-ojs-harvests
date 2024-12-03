@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/985</identifier>
+				<datestamp>2023-10-04T04:42:46Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD OBSERVATIONS OF SEICHE EVENTS IN A T-SHAPE BAY</dc:title>
+	<dc:creator xml:lang="en">Asano, Toshiyuki</dc:creator>
+	<dc:creator xml:lang="en">Yamashiro, Toru</dc:creator>
+	<dc:creator xml:lang="en">Kakinuma, Taro</dc:creator>
+	<dc:subject xml:lang="en">Secondary oscillation</dc:subject>
+	<dc:subject xml:lang="en">seiche</dc:subject>
+	<dc:subject xml:lang="en">coastal disaster</dc:subject>
+	<dc:subject xml:lang="en">air-ocean coupling process</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:description xml:lang="en">Field observations on secondary oscillations (seiche) in Urauchi Bay of Kami-koshiki Island, Japan were conducted during October 7-21, 2008. The seiches prone bay has a unique configuration as T-shape, which may cause the inherent characteristics of the eigen oscillations. The analyzed data show that the oscillations of the bay have at least two distinct modes; mode-1 oscillation of the period around 25 minutes with forming anti-nodes at the both inward inlets and possessing a node at the bay mouth, mode-2 oscillation of the period around 12 minutes which oscillates between the both inward inlets having the node at the branching point. Next, numerical simulations were conducted to reproduce the secondary oscillations in the bay by providing input sinusoidal waves with the eigen periods of oscillations to the calculating bay geometry. The numerical results are found to show basically consistent characteristics with the field observations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/985</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/985/pdf_13</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

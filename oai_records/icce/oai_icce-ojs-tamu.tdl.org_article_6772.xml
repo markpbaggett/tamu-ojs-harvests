@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6772</identifier>
+				<datestamp>2023-10-04T02:39:33Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERIZATION OF TRANSITION TO TURBULENCE IN SOLITARY WAVE BOUNDARY LAYER</dc:title>
+	<dc:creator xml:lang="en">Winarta, Bambang</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Hitoshi</dc:creator>
+	<dc:creator xml:lang="en">Yamaji, Hiroto</dc:creator>
+	<dc:subject xml:lang="en">solitary wave</dc:subject>
+	<dc:subject xml:lang="en">bottom boundary layer</dc:subject>
+	<dc:subject xml:lang="en">transition to turbulence</dc:subject>
+	<dc:subject xml:lang="en">turbulence intermittency</dc:subject>
+	<dc:subject xml:lang="en">bottom shear stress</dc:subject>
+	<dc:subject xml:lang="en">turbulence intensity</dc:subject>
+	<dc:subject xml:lang="en">phase difference</dc:subject>
+	<dc:subject xml:lang="en">wave friction factor</dc:subject>
+	<dc:description xml:lang="en">This paper reports on continues an experimental investigation of characterizing transition to turbulence for solitary wave boundary layer in a smooth bed condition. A series of experiments have been carried out by means of a closed conduit solitary wave generation system over the Reynolds number (Re) range 5.64 x 105 - 7.34 x 105. Additionally, the instantaneous velocities were measured by using a Laser Doppler Veloci-meter (LDV) over 50 wave numbers and at 17 to 22 points in the vertical direction. The turbulence intermittency has been analyzed based on experimental data. Moreover, momentum method has been employed for calculating bottom shear stress for all cases. And then, the turbulence intensity is plotted to give clearly description how turbulence generated in the various values of Re.          The phase difference and wave friction factor obtained from the present experiment has an excellent agreement with the result of previous studies. Inconsistency critical Reynolds number (Recr) can be found in solitary wave case in terms of phase difference and wave friction factor, this observable fact is difference with sinusoidal wave case which has consistency in Recr.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.ms-powerpoint</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6772</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.22</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.22</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6772/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6772/7754</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12966</identifier>
+				<datestamp>2023-10-03T03:05:56Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYTICAL STUDY ON EFFECTS OF TIDE ON STORM SURGE DEVIATIONS</dc:title>
+	<dc:creator xml:lang="en">Yoshihiko, Ide</dc:creator>
+	<dc:creator xml:lang="en">Masaru, Yamashiro</dc:creator>
+	<dc:creator xml:lang="en">Noriaki, Hashimoto</dc:creator>
+	<dc:creator xml:lang="en">Mitsuyoshi, Kodama</dc:creator>
+	<dc:creator xml:lang="en">Yoshihisa, Sugimura</dc:creator>
+	<dc:description xml:lang="en">Elucidating the mechanism of storm surge generation and gaining new knowledge is important for the advancement of numerical simulations and the consideration of disaster prevention measures. Previous studies have shown that even when the external forces (wind and pressure) of a typhoon are the same, the storm surge deviations generated change when the tidal phase at the time the typhoon strikes is different. This is because the difference in the tidal phase causes a change in water depth. In this study, we quantitatively examined the change in storm surge deviation with water depth and derived an analytical solution that is more accurate than the conventional equation. Subsequently, parameters indicating the effect of changes in water depth on storm surge deviation were derived, and the characteristics of major bays in Japan were examined using these parameters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12966</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12966/12239</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Ide Yoshihiko, Yamashiro Masaru, Hashimoto Noriaki, Kodama Mitsuyoshi, Sugimura Yoshihisa</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

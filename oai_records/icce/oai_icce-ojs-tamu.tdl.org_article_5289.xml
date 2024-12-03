@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5289</identifier>
+				<datestamp>2021-01-19T13:10:22Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A STATISTICAL APPROACH FOR MODELING TRIAD INTERACTIONS IN DISPERSIVE WAVES</dc:title>
+	<dc:creator xml:lang="en">Eldeberky, Y.</dc:creator>
+	<dc:creator xml:lang="en">Polnikov, V.</dc:creator>
+	<dc:creator xml:lang="en">Battjes, J.A.</dc:creator>
+	<dc:subject xml:lang="en">dispersive waves</dc:subject>
+	<dc:subject xml:lang="en">statistical approach</dc:subject>
+	<dc:subject xml:lang="en">triad interactions</dc:subject>
+	<dc:description xml:lang="en">The feasibility of a statistical approach to model the effect of triad interactions on the evolution of wave spectrum is investigated. The approach is based on the Zakharov kinetic integral for resonant triad interactions in capillary gravity waves. For application to dispersive gravity waves, the kinetic integral is modified by inclusion of a spectral filter (smeared delta function), to allow for the cross-spectral energy transfers in dispersive wavefields, with bandwidth to be determined empirically. Numerical investigation of the resulting expression indicates that the energy flux from the spectral peak region toward higher harmonics increases with decreasing water depth. The interaction integral has been cast into an energy source/sink term and implemented in an energy balance equation that describes the evolution of a unidirectional energy spectrum in shoaling regions. The evolution model is investigated using observations of harmonic generation. Qualitatively the comparisons have shown the ability of the model to generate higher harmonics and a consequent upward shift in the mean frequency. However, quantitatively the model performance needs improvement.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5289</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5289/4967</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5363</identifier>
+				<datestamp>2021-01-19T12:45:49Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF BED EVOLUTION BEHIND A DETACHED BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Pechon, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Teisson, Charles</dc:creator>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:subject xml:lang="en">bed evolution</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">detached breakwater</dc:subject>
+	<dc:description xml:lang="en">The sedimentological impact of waves on a sandy beach with a detached breakwater is simulated using a compound system of models. The results are satisfying since a salient could be generated behind the structure. They are in agreement with bed evolutions surveyed in experimental facilities and in nature. A quantitative analysis of the results performed in the framework of the working group 'Coastal Area Modelling' of the project MAST G8M shows that the volume of accretion computed here is in good agreement with the volumes obtained by other models and empirical formula.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5363</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5363/5040</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

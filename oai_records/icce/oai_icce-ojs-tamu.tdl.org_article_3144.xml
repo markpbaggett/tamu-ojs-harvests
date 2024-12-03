@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3144</identifier>
+				<datestamp>2021-01-20T01:24:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCOUR AROUND MODEL PIPELINES DUE TO WAVE ACTION</dc:title>
+	<dc:creator xml:lang="en">Herbich, John B.</dc:creator>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:subject xml:lang="en">pipeline</dc:subject>
+	<dc:subject xml:lang="en">model</dc:subject>
+	<dc:description xml:lang="en">The size, number and application of offshore pipelines are steadily increasing. At the same time, the incidence of reported pipeline failures is also increasing. There appear to be several reasons for these failures, and they can be placed in two basic categories: 1. inadequate cover, and 2. low "specific gravity" of the pipeline. Under the first category the depth of burial may be insufficient, the type of burial material may be inferior to the material alongside the trench, or the compaction of cover material may be inadequate. Under the second category the pipe may actually float up to the surface from the ocean bottom as material around the buried pipe liquifies. An extensive literature search revealed that many studies were conducted by Meyers (1936), Waters (1939), Johnson (1940), W.E.S. (1940), Rector (1954), Wiegel, et al (1954), Saville (1957), Iwagaki and Noda (1962), Nayak (1972), Noda (1972), and Earattupuzha (1974). In general, two types of "equilibrium profiles" were developed in the laboratory flumes, the "ordinary" and the "storm" (sometimes referred to as summer and winter profiles). Despite numerous previous investigations, knowledge of the "scale effects" involved in equilibrium beach profiles is inadequate. Many authors have analyzed model data without stating the relation between model and prototype dimensions. In addition, many have claimed certain phenomena observed in the model to be independent of initial slope. An extensive laboratory study was conducted to evaluate the development of underwater bars and scour patterns with the pipeline buried at various depths below the ocean bottom. Pictures of the beach profile were taken at specific time intervals through the glass wall of the wave tank. Attempts were made to correlate equilibrium profile geometric quantities, such as depth of offshore bar, scour depth and berm height with the wave characteristics. Qualitative agreement between laboratory and natural beach profiles were demonstrated by trial and error fitting of one to the other.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3144</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.94</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 94</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3144/2808</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

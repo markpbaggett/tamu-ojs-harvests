@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5405</identifier>
+				<datestamp>2021-01-19T12:32:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE TRANSMISSION PAST VERTICAL WAVE BARRIERS</dc:title>
+	<dc:creator xml:lang="en">Kriebel, David L.</dc:creator>
+	<dc:creator xml:lang="en">Bollmann, Chad A.</dc:creator>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">wave barrier</dc:subject>
+	<dc:description xml:lang="en">Three theories for predicting regular wave transmission past vertical wave barriers are evaluated using three sets of experimental data. The three theories are: (1) the power transmission theory of Wiegel (1960), (2) and modified power transmission theory that includes effects of wave reflection, and (3) the eigenfunction expansion theory of Losada et al. (1992). Under deep and near-deep water conditions - which are typical of most design conditions - the theory of Wiegel is found to over predict wave transmission under most circumstances. The modified power transmission theory provides better agreement with the data. The eigenfunction method provides good agreement for deep wave barrier drafts but overestimates transmission for shallow drafts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5405</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5405/5081</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

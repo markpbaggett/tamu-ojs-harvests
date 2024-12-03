@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12957</identifier>
+				<datestamp>2023-09-01T15:14:38Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATING DEBRIS TRANSPORT DURING EXTREME COASTAL EVENTS</dc:title>
+	<dc:creator xml:lang="en">Cinar, Gizem Ezgi</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:description xml:lang="en">Past extreme coastal events such as the 2004 Indian Ocean Tsunami, the 2011 Tohoku Tsunami and the 2018 Hurricane Michael demonstrated the significance of understanding the debris generation and its transport and impacts during coastal disasters. Although there are many studies on debris loading and impact for damage assessments, very few studies focus on predicting the motion of debris. Nearly all experimental debris motion studies consider tsunami-like flows for the hydrodynamic conditions. Therefore, we still have a major gap in the literature for debris transport under the combined effect of currents and wind waves. Physical model experiments attempted to recreate the dispersion of pier debris to better understand the transport of debris during extreme wave and current events. Visual analysis of spatial and temporal displacement of floating debris was studied performing object detection and tracking by using OpenCV and MATLAB routines.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12957</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.101</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.101</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12957/12230</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Gizem Ezgi Cinar, Patrick Lynett</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

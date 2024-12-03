@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8792</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE OVERTOPPING PREDICTION OF A GENTLE SLOPED STEPPED REVETMENT</dc:title>
+	<dc:creator xml:lang="en">Schoonees, Talia B.</dc:creator>
+	<dc:creator xml:lang="en">Kerpen, Nils B.</dc:creator>
+	<dc:creator xml:lang="en">Liebisch, Sven</dc:creator>
+	<dc:creator xml:lang="en">Schlurmann, Torsten</dc:creator>
+	<dc:description xml:lang="en">Stepped revetments are multi-functional coastal structures o ering protection against flooding. Despite the fact that these structures have been implemented for more than 60 years, comprehensive design guidance is lacking. Previous research studied overtopping of stepped revetments with slopes ranging between 1:1 to 1:4. To address the knowledge gap of predicting overtopping of stepped revetments with gentler slopes, this paper presents results of physical model tests for a 1:6 sloped stepped revetment with step heights of 0.05 m. The tests were conducted in a 110 m long, 2.2 m wide and 2.0 m deep wave flume. A fit through the overtopping results is compared with the reference curve for a smooth slope of EurOtop (2016), which allows the determination of the influence factor for roughness ( gamma_f ) of the stepped revetment. A value of gamma_f = 0.74 (r^2 of 0.94) is proposed to be used in combination with the overtopping prediction formula of EurOtop (2016) for slopes under breaking wave conditions. The results of the study indicate a high slope dependency for gamma_f .</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8792</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.99</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.99</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8792/7593</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

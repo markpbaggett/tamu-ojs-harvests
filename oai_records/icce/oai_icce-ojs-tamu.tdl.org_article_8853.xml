@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8853</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ESTIMATION OF BOUND AND RELEASED INFRAGRAVITY WAVES BASED ON WAVE OBSERVATION AND NUMERICAL SIMULATION IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Hirayama, Katsuya</dc:creator>
+	<dc:creator xml:lang="en">Kashima, Hiroaki</dc:creator>
+	<dc:creator xml:lang="en">Uno, Yoshiyuki</dc:creator>
+	<dc:description xml:lang="en">It is mentioned that observed infragravity waves consist of bound waves propagating with short-wave groups, released waves due to reduction of short crest waves and free waves existing in a field. Though it is difficult to distinguish among them, a standard spectrum for infragravity waves is defined by using a relation to a wind wave spectrum. In this study, a comprehensive definition of standard spectrum is newly proposed to estimate infragravity wave heights with the relation between the ratio of wave height and the ursell number of observed wave property, represented by selected data of wave observation in shallow water. Moreover, the release process of bound waves at a harbor entrance is reproduced in numerical simulation using a Boussinesq model for short-wave transformation. These results are verified by comparison to infragravity waves observed at outside/inside of a harbor for a month.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8853</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8853/7653</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8853/8181</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

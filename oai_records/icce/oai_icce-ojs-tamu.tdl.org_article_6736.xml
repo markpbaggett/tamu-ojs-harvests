@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6736</identifier>
+				<datestamp>2023-10-04T02:41:20Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING MICROBIAL WATER QUALITY AT A BEACH IMPACTED BY MULTIPLE NON-POINT SOURCES</dc:title>
+	<dc:creator xml:lang="en">Feng, Zhixuan</dc:creator>
+	<dc:creator xml:lang="en">Reniers, Ad</dc:creator>
+	<dc:creator xml:lang="en">Haus, Brian</dc:creator>
+	<dc:creator xml:lang="en">Solo-Gabriele, Helena</dc:creator>
+	<dc:creator xml:lang="en">Fiorentino, Laura</dc:creator>
+	<dc:creator xml:lang="en">Olascoaga, Maria</dc:creator>
+	<dc:creator xml:lang="en">MacMahan, Jamie</dc:creator>
+	<dc:subject xml:lang="en">water quality</dc:subject>
+	<dc:subject xml:lang="en">recreational beach</dc:subject>
+	<dc:subject xml:lang="en">enterococci</dc:subject>
+	<dc:subject xml:lang="en">Staphylococcus aureus</dc:subject>
+	<dc:subject xml:lang="en">non-point source</dc:subject>
+	<dc:subject xml:lang="en">Delft3D</dc:subject>
+	<dc:description xml:lang="en">Monitoring microbial water quality is essential for recreational beaches in order to protect human health. To evaluate the relative importance and impacts of various types of non-point microbial sources at a subtropical beach (Hobie Beach, Miami, USA), we utilized a coastal ocean circulation model (Delft3D) with a microbe transport-fate model. Those non-point sources include beach sediment, dog feces, bather shedding, and rainfall runoff. The hydrodynamic model results agreed well with tidal elevations recorded by a nearby NOAA tidal station and also field data collected by pressure sensors, acoustic Doppler current profiler (ADCP). We modeled enterococci levels from four different types of non-point sources on the beach and Staphylococcus aureus levels from only the bather shedding. Model results suggest that dog feces are spotty sources of enterococci and can result in transient spikes of enterococci levels for hours. Beach sands are pervasive sources of enterococci and may explain observed persistent elevations of enterococci levels at this site. Runoff may also significantly increase enterococci levels during rainfall events while bather shedding contribution of enterococci is almost negligible. Bather is the only Staphylococcus aureus source considered in the study and simulated levels are in the same order as prior field measurements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6736</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.74</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.74</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6736/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

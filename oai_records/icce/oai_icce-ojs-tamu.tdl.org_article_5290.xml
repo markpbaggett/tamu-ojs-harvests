@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5290</identifier>
+				<datestamp>2021-01-19T13:10:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A FULLY NONLINEAR 3D METHOD FOR THE COMPUTATION OF WAVE PROPAGATION</dc:title>
+	<dc:creator xml:lang="en">Kennedy, Andrew B.</dc:creator>
+	<dc:creator xml:lang="en">Fenton, John D.</dc:creator>
+	<dc:subject xml:lang="en">3D method</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">wave computation</dc:subject>
+	<dc:description xml:lang="en">The computational capabilities for calculating nonbreaking wave evolution have advanced a great deal in recent years. For fully nonlinear models, the adoption of multi-subdomain techniques (Wang et al., 1995, de Haas et al., 1996) has provided much greater efficiency while still allowing the calculation of wave transformation up to overturning. Still, computational times remain great enough that the application of these methods to three dimensional domains remains somewhat limited. The variable depth Boussinesq equations were originally developed with the twin assumptions of mild nonlinearity and frequency dispersion (Peregrine, 1967), but recently, beginning with Witting (1984), there have been concerted efforts to increase their range of applicability. Papers of particular note include Madsen and Serensen (1992), Nwogu (1993), Wei et al. (1994), Schaffer and Madsen (1995), and Gobbi and Kirby (1996) (GK). Of these, all but GK assume a flow field that varies quadratically in the vertical coordinate y, while GK derive their equations for a quartic vertical variation in the velocity potential. All of these methods have at least one free parameter which is invariably used to calibrate model linear phase speed, linear shoaling, second order transfer functions, or some combination of the three, to known analytic results over a level bed or small slope. For these special conditions, the accuracy of the various Boussinesq equations may be greatly improved and, in fact, the above papers have shown that accuracy is also improved for conditions which differ significantly from the idealised situations used for tuning. However, it is not possible to place confidence in velocities, pressures, and higher order free surface nonlinearities calculated by any of these methods except in reasonably shallow depths. The one exception to this are the GK higher order Boussinesq equations, which are quite complex.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5290</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5290/4968</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

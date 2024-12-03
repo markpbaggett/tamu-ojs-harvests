@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3306</identifier>
+				<datestamp>2021-01-20T00:29:18Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONGSHORE CURRENTS DUE TO SURF ZONE BARRIER</dc:title>
+	<dc:creator xml:lang="en">Bettess, R.</dc:creator>
+	<dc:creator xml:lang="en">Fleming, C.A.</dc:creator>
+	<dc:creator xml:lang="en">Heinrich, J.C.</dc:creator>
+	<dc:creator xml:lang="en">Zienkiewicz, O.C.</dc:creator>
+	<dc:creator xml:lang="en">Austin, D.I.</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">barrier</dc:subject>
+	<dc:description xml:lang="en">We consider a straight coastline exposed to large regular waves, of typical wave length, 100 m amplitude 1.6 m, and period 12 sec. The radiation stress gradients in the extensive (up to 2 km wide) surf zone cause set up and long-shore currents. Despite these currents, the beach is known to be fairly stable. If now a cooling water intake basin is introduced on the coast, it is required to determine first whether the wave induced currents in the vicinity of the basin will affect the circulation of cooling water and second, whether sediment transport will occur, leading to a dredging requirement for the basin. An extensive programme of physical model testing and numerical studies is being undertaken, in order to answer the above questions, and this paper will survey the progress made to date. At the 15th Coastal Engineering Conference a paper on the application of a mathematical model to the prediction of dredging properties inside a cooling water intake basin was 9 presented by Fleming and Hunt, which described the first stage of this work . - In that paper a sediment transport model was combined interactively with numerical models of wave refraction, wave diffraction, long shore currents and circulation currents. The last of these numerical models was used to evaluate the current patterns due to the interruption of the continuity of the longshore currents, together with the cooling water flows in the vicinity of the basin. In this paper we describe the development of more sophisticated numerical models for the first three stages of the process. An understanding of the process of longshore current and set up creation, depends on the concept of radiation stress, introduced by Longuet-Higgins and Stewart,12'13' ' in a series of papers. A number of workers have since used the radiation stress to determine coastline phenomena, and we now describe a few of the relevant papers, without any attempt at a comprehensive survey. Bowen 5'6 considered a straight coastline with parallel contours, and determined near shore circulation patterns, using a stream function formulation of the shallow water equations, for normally incident waves, with a sinusoidal coastwise variation in wave amplitude. He used a finite difference method to solve for the stream function. Longuet-Higgins10'11 criticized Bowen's use of a constant mixing length (horizontal) viscosity, and introduced a viscosity which varied directly with the distance from the shore, in his one dimensional analytical model for obliquely incident waves. He was able to obtain analytically longshore velocity profiles, which he plotted for a range of viscosities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3306</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3306/2974</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

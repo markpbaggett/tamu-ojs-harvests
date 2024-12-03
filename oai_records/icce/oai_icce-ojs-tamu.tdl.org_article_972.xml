@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/972</identifier>
+				<datestamp>2023-10-04T04:43:30Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVEMENT OF BOTTOM BOUNDARY LAYERS MODELING UNDER INTERACTIONS OF WAVE AND WAVE-INDUCED CURRENT</dc:title>
+	<dc:creator xml:lang="en">Zheng, Jinhai</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Chi</dc:creator>
+	<dc:creator xml:lang="en">Wang, Yigang</dc:creator>
+	<dc:creator xml:lang="en">Demirbilek, Zeki</dc:creator>
+	<dc:subject xml:lang="en">wave boundary layer</dc:subject>
+	<dc:subject xml:lang="en">wave-induce current</dc:subject>
+	<dc:subject xml:lang="en">wave-current interactions</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:description xml:lang="en">The bottom boundary layer characteristics beneath waves transforming on a natural beach are specifically affected both by wave and wave-induced current. This study presents an improved approach for coastal bottom boundary layers modeling under interactions of wave and wave-induced current. The improvement is achieved by formulating the mean horizontal pressure gradient term in the boundary layer equation with wave parameters and mean water level. This formulation represents the balance between the wave excess momentum flux gradient and the hydrostatic pressure gradient in a spatially transforming wave field, accounting for the effect of the wave-induced cross-shore current. Model is validated with experimental data for normally incident shoaling wave over a sloping bed. Calculated results agree well with data for instantaneous velocity profiles, wave oscillating amplitudes and mean velocity profiles. In particular, model reasonably reproduces the observed local onshore mean flow near the bottom beneath shoaling wave. It is revealed that the proposed formulation of the mean horizontal pressure gradient plays an important role in bottom boundary layer modeling under wave transforming over an variable near-shore bathymetry, and that the present model can be conveniently and reliably coupled with a sediment transport model to study coastal processes in engineering applications.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/972</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/972/pdf_6</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

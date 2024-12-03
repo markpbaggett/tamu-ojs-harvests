@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5640</identifier>
+				<datestamp>2021-01-19T11:13:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VARIATIONS IN NONLINEARLY EVOLVED NEARSHORE SPECTRA AND THEIR SIGNIFICANCE IN THE ESTIMATION OF WAVE FORCES</dc:title>
+	<dc:creator xml:lang="en">Beji, Serdar</dc:creator>
+	<dc:creator xml:lang="en">Nadaoka, Kazuo</dc:creator>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">force estimation</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">wave spectra</dc:subject>
+	<dc:subject xml:lang="en">spectra variation</dc:subject>
+	<dc:description xml:lang="en">Variability of spectral estimates is examined with respect to the nonlinearity of the wave field considered. Both measured field data and numerical simulations are used for checking the extent of variations, which are quantified as histograms that closely follow the chi-square distribution. An absolute assessment of the variations over the entire frequency band of a spectrum is also made and found to approach to a mean of 70% regardless of the frequency concerned. Finally, it is observed that a nonlinearly evolving wave field of initially constant spectral shape gradually assumes a spectral variability, which is characterized by the chi-square distribution. The last finding provides a clue for a possible cause of the variations observed in the estimates of spectra.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5640</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5640/5310</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

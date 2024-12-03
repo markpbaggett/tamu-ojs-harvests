@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8239</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-LAYER ANALYTICAL SOLUTION FOR WAVE ATTENUATION BY SUSPENDED AND NONSUSPENDED VEGETATION CANOPY</dc:title>
+	<dc:creator xml:lang="en">Zhu, Longhuan</dc:creator>
+	<dc:creator xml:lang="en">Zou, Qingping</dc:creator>
+	<dc:subject xml:lang="en">wave attenuation</dc:subject>
+	<dc:subject xml:lang="en">suspended vegetation canopy</dc:subject>
+	<dc:subject xml:lang="en">vegetation</dc:subject>
+	<dc:subject xml:lang="en">analytical solution</dc:subject>
+	<dc:subject xml:lang="en">wave and vegetation interaction</dc:subject>
+	<dc:description xml:lang="en">A generalized three-layer analytical solution for the wave attenuation by suspended and non-suspended vegetation canopy is developed in this study. The analytical solution reduces to the two-layer analytical solution by Kobayashi et al. (1993) for the non-suspended vegetation canopy rooted at the sea bed. The present theory is verified using laboratory experiments and field observations of a suspended and non-suspended as well as emerged and submerged vegetation canopy. The wave attenuation increase with the drag coefficient, blade diameter and length, canopy density and length, the elevation of the bottom of the canopy and the incident wave height. The influences of wave frequency and water depth on wave attenuation are more complex. They affect the wave attenuation mainly by changing the wave flow velocity encountered by the vegetation canopy. As a result, the canopy vertical position has significant impact on the relationship between the wave attenuation and wave frequency.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8239</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8239/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

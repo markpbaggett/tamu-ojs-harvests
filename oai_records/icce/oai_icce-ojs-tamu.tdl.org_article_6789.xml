@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6789</identifier>
+				<datestamp>2023-10-04T02:55:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTIONS OF CIRCULATING CURRENT FIELD AROUND A SUBMERGED BREAKWATER INDUCED BY BREAKING WAVES AND SURFACE ROLLERS</dc:title>
+	<dc:creator xml:lang="en">Tajima, Yoshimitsu</dc:creator>
+	<dc:subject xml:lang="en">submerged breakwater</dc:subject>
+	<dc:subject xml:lang="en">Q3D nearshore current model</dc:subject>
+	<dc:subject xml:lang="en">surface roller</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:description xml:lang="en">This paper develops a quasi-three-dimensional nearshore current model which accounts for excess shoreward volume fluxes due to waves and surface rollers. The model splits the water column at the wave trough level and solves two different layers of 2DH momentum equations. The first layer covers above the trough level and determines the shear stress at the trough level while the the second layer covers over the entire depth and determines the volume flux due to mean current components. Linearly approximated vertical profile of the shear stress and corresponding turbulent eddy viscosity model enables the present model to yield analytical explicit expression of the horizontal velocity profiles, which enhance computational efficiency of the model. The extended model was applied to predictions of longshore current velocity on the long straight beach and circulation current patterns behind the detached submerged breakwater on the plane beach. Excellent agreement between model predictions and measurements supports the validity of the model and importance of quasi-three-dimensional features around the submerged break water.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6789</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6789/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

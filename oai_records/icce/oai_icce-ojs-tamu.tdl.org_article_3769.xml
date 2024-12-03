@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3769</identifier>
+				<datestamp>2021-01-19T21:52:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE COASTAL WIND FIELD OF THE SOUTHERN CAPE</dc:title>
+	<dc:creator xml:lang="en">Hunter, Ian Tyrrell</dc:creator>
+	<dc:subject xml:lang="en">wind field</dc:subject>
+	<dc:subject xml:lang="en">Southern Cape</dc:subject>
+	<dc:subject xml:lang="en">coastal wind</dc:subject>
+	<dc:description xml:lang="en">The coastal region of the South Cape is presented as a typical semideveloped coastal zone with a limited environmental dataset. The author places himself in the position of a coastal engineer requiring wind data for design purposes. The various sources of wind measurement are discussed. Time series are presented depicting responses at different sites to the same large-scale synoptic situation. Spatial variations, both across the coastal boundary and in the offshore region are emphasized. These variations are brought to the attention of those engineers who may have to extrapolate wind conditions to their site of interest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3769</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.154</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 154</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3769/3452</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

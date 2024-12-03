@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2774</identifier>
+				<datestamp>2021-01-20T03:39:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF BED SHEAR STRESS UNDER WAVES</dc:title>
+	<dc:creator xml:lang="en">Riedel, H.P.</dc:creator>
+	<dc:creator xml:lang="en">Kamphuis, J.W.</dc:creator>
+	<dc:creator xml:lang="en">Brebner, A.</dc:creator>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">bed stress</dc:subject>
+	<dc:subject xml:lang="en">stress measurement</dc:subject>
+	<dc:description xml:lang="en">Shear stress measurements on both smooth and sand roughened beds were carried out in an oscillating water tunnel using a flexurally supported shear plate. The range of simulated wave boundary layers covered practically any situation possible in the field or laboratory. In the laminar range good agreement is obtained with the theoretical shear stress calculated from first order wave theory. However, in the turbulent flow regimes the experimental data indicates that theory results in an overestimate of the shear force by 20-50%. Limits of laminar, smooth turbulent and rough turbulent flow regimes are determined and it appears that the rough turbulent flow regime may itself be subdivided into two sections, each having different turbulence characteristics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2774</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2774/2438</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

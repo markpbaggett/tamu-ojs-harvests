@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8366</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SURROGATE MODELING OF STORM RESPONSE</dc:title>
+	<dc:creator xml:lang="en">Melby, Jeffrey A.</dc:creator>
+	<dc:creator xml:lang="en">Taflanidis, Alex</dc:creator>
+	<dc:creator xml:lang="en">Nadal-Caraballo, Norberto</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Victor</dc:creator>
+	<dc:creator xml:lang="en">Diop, Fatima</dc:creator>
+	<dc:description xml:lang="en">Surrogate models are yielding simple, fast and accurate storm response predictions. Surrogate modelling is being applied to compute regional response or compute thousands of realizations in seconds. These tools are useful for forecasting, scenario analysis and risk assessments. Approaches used for coastal application include artificial neural networks (ANN), Gaussian process regression (Kriging), and response surface techniques (e.g. Kim et al. 2015, Jia et al. 2013,). These previous approaches were limited to hurricane suites that were already optimally preconfigured using joint probability methods. The results were surprisingly effective in large part because the simulation suites were already optimized and the high dimensional parameter space was well correlated in time and space. The kriging method was applied for the study reported here to: 1) Optimize the parameter space and resulting selection of storms for high fidelity modelling, and 2) Construct surrogate models for both extratropical and tropical storm suites and for wave transformation as well as hurricane surge and other hurricane responses. The results were used for forecasting, scenario analysis, and risk assessments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8366</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8366/7174</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8366/7835</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

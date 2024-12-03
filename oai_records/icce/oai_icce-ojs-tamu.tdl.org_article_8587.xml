@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8587</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF WAVE OVERTOPPING MODEL INCORPORATING WATER OVERFLOW FOR VERTICAL WALLS</dc:title>
+	<dc:creator xml:lang="en">Tanaka, Yoji</dc:creator>
+	<dc:creator xml:lang="en">Suzuyama, Katsuyuki</dc:creator>
+	<dc:creator xml:lang="en">Higuchi, Naoto</dc:creator>
+	<dc:creator xml:lang="en">Shibaki, Hidenori</dc:creator>
+	<dc:description xml:lang="en">In a situation where water overflow occurs on the seawalls due to a storm surge, generally it is high waves that cause wave overtopping. However, it is common that overflow and overtopping are modeled as separate phenomena, in a situation where both phenomena occur at the same time, the amount of water exceeding the seawalls may not be evaluated correctly. The purpose of this research is to develop a new wave overtopping model including the water overflow for vertical seawalls. The new overtopping model improved the overtopping model of Goda (Goda, 2008: Goda08 model). Goda08 model was developed to adapt for various seawall forms. Goda (2008) insisted it was more accurate than EurOtop model. Nonetheless, Goda08 model has a problem of overestimation in shallow area. Therefore, we tuned the parameters again. It is difficult to reproduce the situation where the overtopping and overflow occur at the same time in a hydraulic experiment. Consequently, CADMAS-SURF which is based on the 2-dimensional non-compressive fluid using the VOF method was used as an experimental data provider for comparative verification of the model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8587</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8587/7391</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

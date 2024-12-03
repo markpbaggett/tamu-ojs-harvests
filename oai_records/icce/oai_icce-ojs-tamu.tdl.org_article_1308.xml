@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1308</identifier>
+				<datestamp>2023-10-04T03:52:20Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL ANALYSES ON PROPAGATION OF NONLINEAR INTERNAL WAVES</dc:title>
+	<dc:creator xml:lang="en">Yamashita, Kei</dc:creator>
+	<dc:creator xml:lang="en">Kakinuma, Taro</dc:creator>
+	<dc:creator xml:lang="en">Nakayama, Keisuke</dc:creator>
+	<dc:subject xml:lang="en">Internal wave</dc:subject>
+	<dc:subject xml:lang="en">two-layer system</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">variational principle</dc:subject>
+	<dc:subject xml:lang="en">submerged breakwater</dc:subject>
+	<dc:description xml:lang="en">A set of nonlinear surface/internal-wave equations, which have been derived on the basis of the variational principle without any assumptions concerning wave nonlinearity and dispersion, is applied to compare numerical results with experimental data of surface/internal waves propagating through a shallow- or a deep-water region in a tank. Internal waves propagating over a submerged breakwater or a uniformly sloping beach are also simulated. The internal progressive wave shows remarkable shoaling when the interface reaches the critical level, after which physical variables including wave celerity become unstable near the wave-breaking point. In the case of the internal-wave trough reflecting at the vertical wall, the vertical velocities of water particles in the vicinity of the interface are different from that of the moving interface at the wall near the wave breaking, which means that the kinematic boundary condition on the interface of trough has been unsatisfied.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1308</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1308/pdf_315</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

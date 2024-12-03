@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10314</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL STUDY ON MOVEMENT OF TSUNAMI BOULDER AND STORM BOULDER BY SPH METHOD </dc:title>
+	<dc:creator xml:lang="en">Yamamoto, Takashi</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Tomohiro</dc:creator>
+	<dc:description xml:lang="en">Smoothed Particle Hydrodynamics (SPH) is known as very useful method for large deformation problems, such as movement of wave absorbing blocks and sliding of caisson breakwater. Also, in the coastal area, boulders launched by tsunami and by high waves with typhoons (named tsunami boulders and storm boulders) are focused on because of risk assessment towards the tsunami or super typhoons. However, the difference of their movement mechanism have been rarely investigated in detail. This study aims to simulate the movement of the tsunami boulders and storm boulders, comparing with the hydraulic experiment, and evaluating the transport characteristics. Wave elevation and boulder displacement were reproduced in the numerical wave flume well compared to physical model. Also, there is difference between solitary and irregular waves when waves act on boulders.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/WOfXbU7m_8E</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10314</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10314/9600</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Takashi Yamamoto, Tomohiro YASUDA</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3577</identifier>
+				<datestamp>2021-01-19T22:59:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMMENTS ON TIDAL ENTRANCES ON SANDY COASTS</dc:title>
+	<dc:creator xml:lang="en">O'Brien, Morrough O.</dc:creator>
+	<dc:subject xml:lang="en">sandy coast</dc:subject>
+	<dc:subject xml:lang="en">tidal entrance</dc:subject>
+	<dc:subject xml:lang="en">tidal prism</dc:subject>
+	<dc:description xml:lang="en">The information necessary for computation of the tidal prism is available in charts and tide tables for many inlet-bay systems. Empirical correlations have been developed by Le Conte in 1905, O'Brien in 1931 and 1969, and others, which showed the flow area to be a unique function of the tidal prism for the sets of data studied. However, the data underlying these correlations were derived from inlets with semidiurnal tides, typical of the Atlantic and. Pacific Coasts of the United States. Jarrett in 1976 showed that such correlations are not valid for diurnal and mixed tides, such as occur along the Gulf Coast. Stevenson in 1874 pointed out that the scouring capacity of the tide must include the number of tidal cycles per year. Since the number of tidal cycles in any period of time is inversely proportional to their duration, the integrated scouring capacity of the tidal flow through an inlet channel should be independent of the duration of the tidal cycle and should depend primarily on the tidal discharge. If the maximum rate of tidal discharge (Qmax) and the variation of discharge throughout the tidal cycle are identical for two inlets subjected to tidal cycles of different duration, the scouring capacity of the two inlets would be the same over equal periods of time. The conclusion is that Qmax should provide a more generally valid basis for correlation with the flow area than does the tidal prism alone and one which may be valid at hydraulic model scale and for inlets maintained by the seiching of nontidal lakes, as at Duluth. Bruun (1978) used the correlation of the flow area with 0 in his studies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3577</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.148</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 148</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3577/3259</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3963</identifier>
+				<datestamp>2021-01-19T20:42:50Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MARINE ROUGHENED CYLINDER WAVE FORCE COEFFICIENTS</dc:title>
+	<dc:creator xml:lang="en">Nath, John H.</dc:creator>
+	<dc:subject xml:lang="en">roughened cylinder</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">force coefficients</dc:subject>
+	<dc:description xml:lang="en">Steel cylinders were submerged on a platform in the South Pass region of the Gulf of Mexico for one year to accumulate biofouling for later laboratory testing to determine wave force transfer coefficients. They were positioned at -55, -140, and -190 feet below the still water surface. Laboratory tests comprised steady tow up to Reynolds number cd 7x10^, and periodic waves up to Reynolds number of 1.6x10 and Keulegan-Carpenter number up to 25. The force transfer coefficients for the -55 cylinder were about equal to those for a sand roughened cylinder with relative cylinder roughness, e/D, of .03, where e is the height of the equivalent sand roughness size and D is the smooth cylinder diameter. The drag coefficient for very high Keulegan-Carpenter number, or steady tow, is about 1.0 if the effective cylinder diameter is taken into account, for the rougher cylinders.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3963</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.182</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 182</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3963/3646</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

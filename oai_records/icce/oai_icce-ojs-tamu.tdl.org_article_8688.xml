@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8688</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CONTRIBUTION OF LARGE RIVER SYSTEM ON WATER LEVEL DUE TO A STORM</dc:title>
+	<dc:creator xml:lang="en">Mohit, Abdul Al</dc:creator>
+	<dc:creator xml:lang="en">Ide, Yoshihiko</dc:creator>
+	<dc:creator xml:lang="en">Kodama, Mitsuyoshi</dc:creator>
+	<dc:creator xml:lang="en">Yamashiro, Masaru</dc:creator>
+	<dc:creator xml:lang="en">Hashimoto, Noriaki</dc:creator>
+	<dc:description xml:lang="en">Bangladesh is a riverine country in South Asia, which contain about 700 big or small rivers. The major Ganges- Brahmaputra-Meghna river system makes the coast of Bangladesh more complex and disaster vulnerable area. This river system may or may not have its impact on the height of the water level due to a storm. This area is a suitable place for research, but there is no such mention of suitable research conducted in this area. Worth mentioning works done by some scholars are Dube et al. (2004), Agnihotri et al. (2006). All the works are important to the Bay-River interaction for the storm surge simulation, but these studies were also limited by the lack of a representation of proper geometry of the river system. Some of them considered idealized river system with constant water depth and some of them did not consider the proper tidal resume. The present study is a step towards the development of an operational surge forecasting nonlinear Bay-River interaction model that incorporates the major river system with realistic geometry. Both the bay and river model equations are discretized by finite difference method with central in space and forward in time and are solved by a conditionally stable, semi-implicit manner on a staggered Arakawa C-grid system. A stable tidal condition was made by forcing the sea level with the most energetic tidal constituent, M2 , along the southern open boundary of the parent model (Bay model). The developed model was applied to foresee sea-surface elevation associated with the catastrophic cyclone 1991 and a recent cyclone MORA 2017 along the coast of Bangladesh. We also investigated how the river influences the sea surface elevation with and without fresh water discharge. We also intend to investigate the effect of river discharge with sediment. It is observed that the water levels are found to be influenced by the river system.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8688</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8688/7492</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8688/8070</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4476</identifier>
+				<datestamp>2021-01-19T17:47:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OBSERVATIONS OF WIND WAVE NONLINEARITY</dc:title>
+	<dc:creator xml:lang="en">Herbers, T.H.C.</dc:creator>
+	<dc:creator xml:lang="en">Guza, R.T.</dc:creator>
+	<dc:subject xml:lang="en">wind wave</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave</dc:subject>
+	<dc:subject xml:lang="en">wave observation</dc:subject>
+	<dc:description xml:lang="en">Observations of pressure fluctuations at the sea floor in 13 m depth are compared to an existing theory for weakly nonlinear surface gravity waves (Hasselmann, 1962). In this depth, free surface waves (obeying the dispersion relation) at sea and swell frequencies (0.05 - 0.3 Hz) are weakly attenuated, but free waves at frequencies higher than about 0.4 Hz do not reach the sea floor. However, nonlinear interactions between (primary) free waves of about the same frequency, propagating in nearly opposing directions, theoretically excite long wavelength, double frequency (secondary) forced waves that are only weakly attenuated at the sea floor. Bottom pressure spectra observed in 13 m depth show an (©(lO2)) increase in high frequency (0.35 - 0.6 Hz) forced wave energy levels in only a few hours after a sudden large veering in wind direction. Estimates of the free wave frequency-directional spectrum show a correspondingly rapid change with unidirectional seas when forced wave energy levels are low before the wind veering, and two nearly directionally opposing seas (0.15-0.3 Hz) when forced wave energy levels are high, consistent with the theoretical generation mechanism. The observed forced wave energy levels are in good agreement with theoretical predictions based on the directional spectrum estimates. Estimates of average wave numbers verify that sea and swell obey the dispersion relation, and show that double sea frequency forced waves have longer wavelengths than the interacting free waves, consistent with theory. Observed third order statistics confirm that the double frequency forced waves are coupled to the directionally opposing seas with a phase relationship predicted by theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4476</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4476/4157</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

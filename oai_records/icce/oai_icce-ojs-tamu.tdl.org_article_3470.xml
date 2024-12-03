@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3470</identifier>
+				<datestamp>2021-01-19T23:35:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE GENERATION OF LONG WAVES IN THE LABORATORY</dc:title>
+	<dc:creator xml:lang="en">Goring, Derek</dc:creator>
+	<dc:creator xml:lang="en">Raichlen, Frederic</dc:creator>
+	<dc:subject xml:lang="en">long waves</dc:subject>
+	<dc:subject xml:lang="en">wave generation</dc:subject>
+	<dc:subject xml:lang="en">laboratory waves</dc:subject>
+	<dc:description xml:lang="en">It became evident in the experimental aspects of a recent study of the propagation of nonlinear long waves past a step and up a slope that it was important to be able to generate waves which were initially well defined. The investigation dealt with the reflection and transmission of tsunamis past the continental shelf-break, and as such, two simple waves were used to represent certain characteristics of tsunamis: solitary waves and cnoidal waves. (Both of these permanent waves are solutions to the Korteweg-de Vries equation which to a certain order describe the propagation in two dimensions of nonlinear dispersive shallow water waves (see, e.g. Whitham, 1974).) The solitary wave actually can be generated in the laboratory in a simple manner if the wave tank is long enough and wave groups trailing the main wave are unimportant to the study. An example of the resulting waves obtained in the laboratory using a crude generation, procedure is demonstrated by the oscillograph record presented in Figure 1. Six traces are shown: the one at the bottom of the figure describes the time-displacement history of a vertical bulkhead wave generator which is moved by a hydraulic-servo system, the other five are the time variations of the water surface obtained using resistance wave gages spaced at the indicated number of depths downstream from the generator. (In the example presented, the depth of water was 10 cm and the wave plate was moved linearly with time a distance of 10.33 cm in 0.8 sec.) The wave generated and first shown 10 depths downstream appears to qonsist of a large wave followed by a series of oscillatory waves (termed the tail). As would be expected, as the waves propagate, due to the frequency content and the amplitude of the waves, the system separates into a leading wave followed some distance behind by the tail. The lead wave has the characteristic shape of a solitary wave. However, if the oscillatory tail is unacceptable for the type of experiments being conducted, and if it cannot be eliminated or the method of elimination is unacceptable, then a means of generation must be sought which eliminates the trailing waves initially.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3470</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3470/3150</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12804</identifier>
+				<datestamp>2023-09-01T15:13:18Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANISOTROPIC EDDY VISCOSITY A BENCHMARK CASE STUDY IN AN IDEALISED TIDAL ESTUARY</dc:title>
+	<dc:creator xml:lang="en">Leo, Annalisa De</dc:creator>
+	<dc:creator xml:lang="en">Collecutt, Greg</dc:creator>
+	<dc:creator xml:lang="en">Smith, Mitchell</dc:creator>
+	<dc:creator xml:lang="en">Stocchino, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Syme, Bill</dc:creator>
+	<dc:description xml:lang="en">Numerical schemes for solving the full shallow water equations require a turbulence closure model to represent the momentum diffusion caused by turbulence that the velocity fields do not explicitly capture. Typical models include Smagorinsky, depth-U*, Prandlt, and k-epsilon. All of these models predict isotropic eddy viscosity – i.e. the diffusion of momentum acts equally in all directions. However, it is known that when modelling saline transport within an estuary with a 2D scheme, mass dispersion is present in the longitudinal direction due to the depth velocity profile. In a 2D numerical scheme, should diffusion of momentum also be applied anisotropically? In this paper we present a benchmark case study between laboratory measured velocity results and those from numerical simulations using TUFLOW.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12804</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.sediment.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; sediment.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12804/12077</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Annalisa De Leo, Greg Collecutt, Mitchell Smith, Alessandro Stocchino, Bill Syme</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

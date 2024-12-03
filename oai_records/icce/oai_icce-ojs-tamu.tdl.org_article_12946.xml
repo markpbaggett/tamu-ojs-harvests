@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12946</identifier>
+				<datestamp>2023-10-03T03:08:56Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTIVENESS OF CORAL REEF RESTORATION IN WAVE ATTENUATION APPLICATIONS</dc:title>
+	<dc:creator xml:lang="en">Geldard, Justin</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Ryan</dc:creator>
+	<dc:creator xml:lang="en">Draper, Scott</dc:creator>
+	<dc:creator xml:lang="en">Ghisalberti, Marco</dc:creator>
+	<dc:creator xml:lang="en">Westera, Sonia</dc:creator>
+	<dc:creator xml:lang="en">Ellwood, George</dc:creator>
+	<dc:creator xml:lang="en">Cuttler, Michael</dc:creator>
+	<dc:creator xml:lang="en">Smith,  David</dc:creator>
+	<dc:creator xml:lang="en">McArdle, Alicia</dc:creator>
+	<dc:description xml:lang="en">Coral reefs are not only one of the most biologically diverse ecosystems, but they also deliver critical ecosystem services to millions of people worldwide, for example coastal hazard mitigation. Extreme surface waves associated with storm systems generate coastal flooding and erosion that can impact coastal populations and infrastructure. The large roughness of healthy coral reefs has the potential to significantly attenuate this wave energy prior to reaching the shoreline through the drag forces that coral roughness exerts on the water column. The magnitude of these drag forces is dependent on how the complex geometries of corals interact with wave-driven oscillatory flows. This interaction is most commonly described both physically and numerically with idealised models of canopies, typically using arrays of submerged cylinders that lack the natural complexity of coral reef roughness. A physical modelling approach with a canopy of complex coral shapes is needed to sufficiently investigate the properties of the canopy which best represent their interaction with wave-driven oscillatory flows resulting in the attenuation of wave energy. In this study we investigated the performance of a coral reef restoration approach developed by MARS Inc. to attenuate wave energy across a range of incident wave conditions, water depths and coral cover.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12946</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.90</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.90</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12946/12219</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Justin Geldard, Ryan Lowe, Scott Draper, Marco Ghisalberti, Sonia Westera, George Ellwood, Michael Cuttler,  David Smith, Alicia McArdle</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

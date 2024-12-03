@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6831</identifier>
+				<datestamp>2023-10-04T02:32:58Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">OFFSHORE WIND FARM MACRO AND MICRO SITING PROTOCOL APPLICATION TO RHODE ISLAND</dc:title>
+	<dc:creator xml:lang="en">Grilli, Annette Renee</dc:creator>
+	<dc:creator xml:lang="en">Spaulding, Malcolm</dc:creator>
+	<dc:creator xml:lang="en">O'Reilly, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Potty, Gopu</dc:creator>
+	<dc:subject xml:lang="en">offshore wind farm</dc:subject>
+	<dc:subject xml:lang="en">sitng optimization</dc:subject>
+	<dc:subject xml:lang="en">genetic algorithm</dc:subject>
+	<dc:subject xml:lang="en">cluster analysis</dc:subject>
+	<dc:subject xml:lang="en">WIFSI</dc:subject>
+	<dc:subject xml:lang="en">WIFSO</dc:subject>
+	<dc:description xml:lang="en">Since 2008, the Rhode Island (RI) Coastal Resources Management Council has been leading the development of an Ocean Special Area Management Plan (Ocean SAMP), in partnership with the University of Rhode Island, resulting in an extensive multidisciplinary analysis of the Rhode Island offshore environment and its suitability to site offshore wind farms. As part of SAMP, a comprehensive macro-siting optimization tool: the Wind Farm Siting Index (WIFSI), integrating technical, societal, and ecological constraints, was developed within the conceptual framework of ecosystem services. WIFSI uses multivariate statistical analyses (principal component and k-means cluster analyses) to define homogeneous regions, which integrate and balance ecological and societal constraints as part of a Cost/Benefit tool. More recently, a Wind Farm micro-Siting Optimization Tool was developed (WIFSO), which uses a genetic algorithm to derive the optimal layout of a wind farm sited within one of the macro-siting selected regions. In this work, we present an overview of the current state of development of the integrated macro- and micro- siting tools.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6831</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.management.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; management.73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6831/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

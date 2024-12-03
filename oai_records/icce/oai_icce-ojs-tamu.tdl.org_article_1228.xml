@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1228</identifier>
+				<datestamp>2023-10-04T04:33:31Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI RUN-UP ON THE HORIZONTAL BEACH</dc:title>
+	<dc:creator xml:lang="en">Shugan, Igor</dc:creator>
+	<dc:creator xml:lang="en">Hwung, Hwung-Hweng</dc:creator>
+	<dc:creator xml:lang="en">Yang, Ray-Yeng</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">run-up</dc:subject>
+	<dc:subject xml:lang="en">dam break</dc:subject>
+	<dc:subject xml:lang="en">Benney equation</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:description xml:lang="en">Tsunami run-up on the flat horizontal beach is studied by using the Benney shallow water equations. The dam-breaking flow includes vortexes, vertical shear flow and dissipation of momentum and energy on the front due to bore breaking. Propagating of hydrodynamics bores with breaking is analyzed by the mass, momentum and energy relations on the shock wave. Non dissipative wave front propagates faster than classical bore, while taking into account the dissipation and wave breaking leads to slowing of the wave front.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1228</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1228/pdf_66</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

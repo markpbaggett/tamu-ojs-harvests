@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5591</identifier>
+				<datestamp>2021-01-19T11:29:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL PREDICTION OF BREAKING WAVES AND CURRENTS WITH A BOUSSINESQ MODEL</dc:title>
+	<dc:creator xml:lang="en">Nwogu, Okey George</dc:creator>
+	<dc:subject xml:lang="en">numerical prediction</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">Boussinesq model</dc:subject>
+	<dc:description xml:lang="en">This paper describes the extension of a comprehensive numerical model for simulating the propagation and transformation of ocean waves in coastal regions and harbours to include wave breaking, runup and breaking-induced currents. The numerical model is based on a time-domain solution of a fully nonlinear set of Boussinesq-type equations for wave propagation in intermediate and shallow water depths. The equations are able to describe most of the phenomena of interest in the nearshore zone including shoaling, refraction, diffraction, reflection, wave directionality and nonlinear wave-wave interactions. The Boussinesq model is extended to the surf and swash zones by coupling the mass and momentum equations with a one-equation model for the temporal and spatial evolution of the turbulent kinetic energy produced by wave breaking. The waves are assumed to start breaking when the horizontal component of the orbital velocity at the wave crest exceeds the phase velocity of the waves. Numerical and experimental results are presented for the shoaling and runup of regular and irregular waves on a constant slope beach and wave-induced currents behind a detached breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5591</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5591/5264</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

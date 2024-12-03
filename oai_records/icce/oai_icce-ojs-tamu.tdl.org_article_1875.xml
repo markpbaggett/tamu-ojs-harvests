@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1875</identifier>
+				<datestamp>2021-01-17T06:33:35Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN EXPERIMENTAL INVESTIGATION OF DRIFT PROFILES IN A CLOSED CHANNEL</dc:title>
+	<dc:creator xml:lang="en">Russell, R. C. H.</dc:creator>
+	<dc:creator xml:lang="en">Osorio, J. D. C.</dc:creator>
+	<dc:subject xml:lang="en">wave mass transport</dc:subject>
+	<dc:subject xml:lang="en">progressive waves</dc:subject>
+	<dc:subject xml:lang="en">experimental data</dc:subject>
+	<dc:description xml:lang="en">The first order theory of water waves states that water particles move in closed orbits; that this was not exactly so, and that there was a slow drift of the water in the direction of wave propagation, was first realised by Stokes(1) who proposed a solution of the horizontal drift or mass transport for waves in an inviscid fluid. Recently the effect of the viscosity has been investigated by .Longuet-Higgins (2) Experimental measurements have been made by Caligny (3), the U.S. Beach Erosion Board (4), Bagnold (5), and previously by the Hydraulics Research Station. The evidence from these sources is incomplete. 
+In the experiments described in this paper measurements of the mass transport at all levels were made with progressive waves, varying in length from about 1 1/2 to 50 ft and in water between 6 and 20 in. deep.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1957-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1875</dc:identifier>
+	<dc:identifier>10.9753/icce.v6.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 6 (1957): Proceedings of 6th Conference on Coastal Engineering, Gainesville, Florida, 1957.; 10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1875/1148</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

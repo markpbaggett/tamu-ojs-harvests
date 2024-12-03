@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1921</identifier>
+				<datestamp>2021-01-17T06:25:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIDAL CURRENTS IN CONSTRICTED INLETS</dc:title>
+	<dc:creator xml:lang="en">Baines, W. Douglas</dc:creator>
+	<dc:subject xml:lang="en">tidal inlets</dc:subject>
+	<dc:subject xml:lang="en">currents</dc:subject>
+	<dc:subject xml:lang="en">tidal velocities</dc:subject>
+	<dc:description xml:lang="en">Many inlets along the coastline of North America are deep, wide bays which are connected to the ocean by a short channel of much smaller cross-section. Figure 1 is a schematic sketch of such an inlet. It is usual in these inlets that the tide curve (water surface elevation vs. time) in the bay does not coincide with that in the ocean. The range of variation is discussed by Caldwell (1) in a review of inlets in the United States. In addition, Caldwell classifies this type of inlet as one with an inadequate entrance. This term describes well the engineering problem encountered in most of them. There are high velocities in the entrance channel, usually near periods of slack water, which are inconvenient to navigation. In some instances these velocities combined with local geography constitute a serious hazard to shipping.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1957-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1921</dc:identifier>
+	<dc:identifier>10.9753/icce.v6.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 6 (1957): Proceedings of 6th Conference on Coastal Engineering, Gainesville, Florida, 1957.; 31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1921/1177</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2896</identifier>
+				<datestamp>2021-01-20T02:53:20Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME LEVELS ARISING FROM METEOROLOGICAL SURGES</dc:title>
+	<dc:creator xml:lang="en">Ackers, P.</dc:creator>
+	<dc:creator xml:lang="en">Ruxton, T.D.</dc:creator>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:subject xml:lang="en">extreme water level</dc:subject>
+	<dc:subject xml:lang="en">meteorological surge</dc:subject>
+	<dc:description xml:lang="en">The design of coastal works depends on estimating the probabilities of extreme water levels, as well as of waves Previous studies of surge-affected levels have extrapolated observed annual maxima or the n highest levels in n years to predict rarer events In addition to using these well-established methods, m this study of tide levels on the Essex coast of Britain a long term record of extreme levels was synthesised by adding surge residuals at the time of predicted HW to predicted HW levels, treating them as statistically independent events Many more large surge residuals have been measured than extreme water levels as many surges are associated with small tides Events with return periods up to 1000 years may be estimated without extrapolating beyond the range of observed surge residuals and predicted tides This method is assessed in relation to previous methods and information relevant to the design of coastal works in the south western part of the North Sea was obtained In addition to forecasting the probabilities of high tide levels, the study included wave forecasts and the encounter probabilities of combinations of sea level and wave height for various aspects of coastal developments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2896</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2896/2561</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

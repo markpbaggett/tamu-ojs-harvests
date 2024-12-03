@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3227</identifier>
+				<datestamp>2021-01-20T00:54:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DYNAMICS OF A LONGITUDINALLY STRATIFIED ESTUARY</dc:title>
+	<dc:creator xml:lang="en">Imberger, Jorg</dc:creator>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:subject xml:lang="en">estuary dynamics</dc:subject>
+	<dc:subject xml:lang="en">stratified estuary</dc:subject>
+	<dc:subject xml:lang="en">longitudinally stratified</dc:subject>
+	<dc:description xml:lang="en">Introduction. A partially stratified estuary is defined as one which possesses a quite definite longitudinal salinity gradient from the mouth to the head of the estuary, but only a very weak vertical or transverse salinity structure. For an estuary to exhibit such characteristics it must possess a source of fresh water near the head of the estuary, sufficient vertical mixing to overcome the potential energy associated with such a fresh water inflow and be very much longer than its width to reduce transverse variations. If the estuary is very shallow (a few meters) then wind generated turbulence is often sufficient to eliminate most or all the vertical structure. Deeper, or very sheltered, estuaries require additional strong tidal shears to break up the vertical density gradients. However, in both cases the mixing is usually not sufficient to completely homogenize the estuary longitudinally and it is found that these estuaries display a near linear salinity gradient along the principle axis of the estuary throughout most of the spring and summer months. Such a density gradient drives a gravitational circulation within the estuary which leads to a net transport of salt from the sea mouth to the head of the estuary. Two dimensional theories (see for instance Rat tray and Mitsuda (1974)) have been established, but In general these greatly underestimate the longitudinal transport found in such estuaries and three dimensional circulation effects must be considered. Fischer (1972) was the first to recognise this fact and he carried out a first order analysis which pointed to a greatly increased longitudinal dispersion. However, Fischer (1972) carried out his analysis only to first order, not explaining how the transverse pressure field, set up by the first order velocity field convecting the longitudinal density gradient, is balanced. It is the purpose of this paper to give a rigorous foundation to Fischer's (1972) hypothesis that it is the transverse variations in velocity which yield the greatest contribution to any longitudinal transport of the density or any passive pollutant. Furthermore, the presented theory is applied to a local Western Australian estuary which is ideally suited for such a comparison complying strictly to the assumptions of the theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3227</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.177</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 177</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3227/2891</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

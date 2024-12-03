@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10192</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A TWO DIMENSIONAL COUPLED MODEL FOR SUBMARINE DEBRIS FLOW AND ITS INTERACTION WITH SUBSEA INSTALLATIONS</dc:title>
+	<dc:creator xml:lang="en">Das, Himangshu</dc:creator>
+	<dc:description xml:lang="en">Debris flow are gravity driven mass flows which can create catastrophic geohazards along their overriding paths. Driven by the gravity, debris flow can travel long distances on favorable continental slopes. Their frontal velocity can be very high which may pose significant threat to offshore installations such as subsea pipelines, communication cables and offshore platforms (Yuan et. al., 2012). Therefore, understanding their dynamic behavior is critical in order to mitigate potential geohazards. The specific objective of this paper is to present a coupled two dimensional numerical model that characterizes debris flow movement, rheological properties and its interaction with subsea installations. For demonstration purpose, the coupled model has been applied to schematized settings representing generalized continental shelves with canyons.Recorded Presentation from the vICCE (YouTube Link):  </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10192</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.sediment.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; sediment.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10192/9478</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Himangshu Das</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

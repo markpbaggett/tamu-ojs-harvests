@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13088</identifier>
+				<datestamp>2023-09-01T15:15:47Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">3D NUMERICAL STUDY OF HYDROYNAMICS AROUND A MONOPILE FOUNDATION UNDER COMBINED WAVE CURRENT EFFECT</dc:title>
+	<dc:creator xml:lang="en">Purkayastha, Subhrangshu</dc:creator>
+	<dc:creator xml:lang="en">Dutta, Debasish</dc:creator>
+	<dc:creator xml:lang="en">Afzal, Mohammad Saud</dc:creator>
+	<dc:creator xml:lang="en">Bihs, Hans</dc:creator>
+	<dc:description xml:lang="en">A numerical investigation of hydrodynamics around a monopile foundation is presented in the paper. An open-source CFD program REEF3D is used for the present study. The REEF3D model solves the Reynolds-averaged Naiver-Stokes equation with k-w turbulence closure to obtain the flow hydrodynamics. The code utilizes a staggered cartesian grid system. Also, Message Passing Interface (MPI) based parallelization is used for domain decomposition. In order to ensure the precision of the flow field, the model is first validated for four different combined wave-current scenarios, where the currents and waves are following each other. The results obtained from the validation studies exhibit good agreement with the already reported experimental results. Initially, a grid convergence study has been performed to ensure that the Numerical wave tank is independent of the mesh size. Finally, numerical experiments corresponding to four different combined wave-current cases for different wave steepness are simulated using the code.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13088</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.130</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.130</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13088/12361</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Subhrangshu Purkayastha, Debasish Dutta, Mohammad Saud Afzal, Hans Bihs</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

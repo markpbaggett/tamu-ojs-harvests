@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6828</identifier>
+				<datestamp>2023-10-04T02:33:18Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD OBSERVATIONS AND MODEL PREDICTIONS OF WAVE TRANSFORMATION ON A MACRO-TIDAL BEACH, KOREA</dc:title>
+	<dc:creator xml:lang="en">Yoo, Jeseon</dc:creator>
+	<dc:creator xml:lang="en">Shin, Sungwon</dc:creator>
+	<dc:creator xml:lang="en">Jun, Ki-Cheon</dc:creator>
+	<dc:creator xml:lang="en">Shim, Jae-Seol</dc:creator>
+	<dc:subject xml:lang="en">macro-tidal</dc:subject>
+	<dc:subject xml:lang="en">field observation</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">RANS</dc:subject>
+	<dc:subject xml:lang="en">wave transformation</dc:subject>
+	<dc:description xml:lang="en">Macro-tidal beach processes are influenced by complicated interactions of tide actions, coastal waves and morphological changes. Tidal cycles may be a primary forcing responsible for specific characteristics of hydrodynamic and morphological processes complicated on the intertidal flat in space and time. Macro-tidal sandy beaches are frequently developed in the west coast of Korea, experiencing seasonal variations of inter-tidal processes caused by a monsoonal climate in the Yellow Sea. Large winter waves tend to excite active beach morphological processes, inducing beach erosion and seaward-directed sediment transports. This study is intended to investigate and characterize intertidal hydrodynamics including wave dynamics in a macro-tide environment in Korea, by using a numerical model named COBRAS. The measured water surface elevation data are divided into wave and tidal components, in order to be used as inputs of the model. Tidal components in terms of water level change are implemented in the model by adding constant currents at the offshore boundary. Comparisons of the measurements and the predictions show a good performance of the model for wave height transformation and wave set-up across the macro-tidal beach</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6828</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6828/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

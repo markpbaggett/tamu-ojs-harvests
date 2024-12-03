@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3339</identifier>
+				<datestamp>2021-01-20T00:17:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VELOCITY AND STRESS MEASUREMENTS IN A TIDAL INLET</dc:title>
+	<dc:creator xml:lang="en">Huntley, David A.</dc:creator>
+	<dc:creator xml:lang="en">Nummedal, Dag</dc:creator>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">stress measurement</dc:subject>
+	<dc:subject xml:lang="en">velocity measurement</dc:subject>
+	<dc:description xml:lang="en">Fast-response electromagnetic flowmeters were used in a marginal flood channel of an ebb tidal delta to assess the importance of wave contributions to the flood dominance of these channels. Measurements were made at a single point in the channel in both ebb and flood currents. The oscillatory motion of waves was a very significant feature of the velocity records, and its magnitude was comparable with the mean flow at all stages of the tide. This observation shows that flowmeters capable of responding accurately to wave velocities are needed to obtain accurate values of mean flow. Some earlier measurements made with slow response flowmeters are probably unreliable. Wave contributions to the mean flow were assessed by looking at the correlation between the low frequency (&gt;17.5s) oscillations of the along-channel current and the low frequency envelope of the wave velocities. Surprisingly little correlation was found for any time lag, suggesting that wave effects were not important in the mean tidal currents in the channel studied. However, close to low tide on the ebb, conditions existed which appear to have been favourable for the "wave pump" mechanism suggested by Bruun andViggisson (1973). Significant correlation between the wave envelope and low frequency fluctuations was observed at this time. It is therefore suggested that wave effects can be important to the mean flow in marginal channels with rapidly converging and shoaling mouths which are oriented towards the dominant incident wave direction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1978-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3339</dc:identifier>
+	<dc:identifier>10.9753/icce.v16.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 16 (1978): Proceedings of 16th Conference on Coastal Engineering, Hamburg, Germany, 1978.; 77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3339/3007</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

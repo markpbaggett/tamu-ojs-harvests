@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3797</identifier>
+				<datestamp>2021-01-19T21:42:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF TIDES AND STORM SURGES IN THE GREAT BARRIER REEF REGION</dc:title>
+	<dc:creator xml:lang="en">Stark, K.P.</dc:creator>
+	<dc:creator xml:lang="en">Bode, L.</dc:creator>
+	<dc:creator xml:lang="en">Mason, L.B.</dc:creator>
+	<dc:subject xml:lang="en">reef</dc:subject>
+	<dc:subject xml:lang="en">great barrier reef</dc:subject>
+	<dc:subject xml:lang="en">surge simulation</dc:subject>
+	<dc:subject xml:lang="en">tide simulation</dc:subject>
+	<dc:description xml:lang="en">The Great Barrier Reef Region which constitutes the north-eastern continental shelf waters of Australia, is an area that is subject to both large astronomical tides and the passage of tropical cyclones (hurricanes). One section of this area, centred on Mackay, is characterised by particularly high tides, with a springs range of order 10 metres. Numerical hydrodynamic modelling is used in the present study to: (a) simulate the M tide to investigate possible effects of the reef barrier on tidal amplification; (b) simulate the passage of a tropical cyclone across the continental shelf; (c) investigate the effect and consequences of non-linear surge/tide interactions. The recent discovery of a major shipping route through the reef in this area and the continuing development of natural resources makes a much more detailed understanding of the region's hydrodynamics essential for coastal engineering.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3797</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3797/3480</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

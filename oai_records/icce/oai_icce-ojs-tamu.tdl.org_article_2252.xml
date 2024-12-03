@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2252</identifier>
+				<datestamp>2021-01-17T05:53:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE SURFACE WAVE IN A TWO-DIMENSIONAL VORTEX LAYER</dc:title>
+	<dc:creator xml:lang="en">Hamada, Tokuichi</dc:creator>
+	<dc:subject xml:lang="en">vortex layer</dc:subject>
+	<dc:subject xml:lang="en">stream function</dc:subject>
+	<dc:subject xml:lang="en">irrotational progressive wave</dc:subject>
+	<dc:description xml:lang="en">Progressive surface wave in a two-dimensional vortex layer is theoretically treated. Dynamical equations and free surface conditions are shown by using the two-dimensional stream functions of wave and vortex.
+Then the perturbation equations are given by assuming that the ratio of length scale of vortices and wave is fairly small. The first approximate solution of wave has a usual form of an irrotational progressive wave. Vortices are assumed to be steady and to have simplified Fourier-
+Stleltjes form. Then the interaction of this primary wave and the vortices are examined. To satisfy the free surface condition of the second order, existent waves are formed.
+In the second order term of the free surface elevation, these secondary waves offset the effect of the above mentioned interaction, and so the surface profile of the primary wave is not altered by the existence of inner vortices of high frequency. Some pictures of Irregular surface waves in a turbulent flow are shown to verify this property.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2252</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2252/1943</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

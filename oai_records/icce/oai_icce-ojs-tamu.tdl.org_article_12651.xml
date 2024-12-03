@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12651</identifier>
+				<datestamp>2023-09-01T15:11:48Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF STORM TIDE MODELING IN THE PEARL RIVER ESTUARY</dc:title>
+	<dc:creator xml:lang="en">Shen, Edward Qiang</dc:creator>
+	<dc:description xml:lang="en">By reproducing storm tides during nine historical typhoons in the Pearl River Estuary against observations, this paper presents a data-model comparison approach to quantify the uncertainties of three parameters of Holland (1980) parametric wind model. The wind reduction factor that represents effects of mountains and skyscrapers surrounding the estuary may be estimated by finding the minimum RMSE in simulated storm tide peak elevation. The radius to maximum winds can be efficiently adjusted according to observed pressures through the exponential distribution of atmospheric pressure field; and the peakedness is verified on the basis of maximum wind speed versus pressure drop relations. By applying these parameters with the wind model, storm tides in the estuary can be effectively simulated, except for wind conditions where most of the estuary is within the maximum wind radius and winds there are significantly affected by the mountainous lands. Wave setups are noticeable when typhoons made landfall on the right bank of the estuary. As a prerequisite for good model performance, the grid size somewhere in a storm tide model should be smaller than the minimum spacing among soundings points at that location in order to effectively produce the model bathymetry described by the soundings data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12651</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12651/11924</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Edward Qiang Shen</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3628</identifier>
+				<datestamp>2021-01-19T22:41:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PROPOSAL FOR WAVE ENERGY CONVERSION NEAR CAPE TOWN</dc:title>
+	<dc:creator xml:lang="en">de F Retief, G.</dc:creator>
+	<dc:creator xml:lang="en">Prestedge, G.K.</dc:creator>
+	<dc:creator xml:lang="en">Muller, F.P.J.</dc:creator>
+	<dc:subject xml:lang="en">wave energy</dc:subject>
+	<dc:subject xml:lang="en">energy conversion</dc:subject>
+	<dc:subject xml:lang="en">Cape Town</dc:subject>
+	<dc:description xml:lang="en">The South African wave energy program has been underway for several years and has included an analysis of the temporal and spatial distribution of wave energy along the full coast-line, determination of energy attenuation perpendicular to the coast-line at a site on the south western coast, and the development of a wave energy converter which is most suited to local conditions and requirements. The resource analysis has shown that the inshore power levels occurring along the south western coast are as promising as any elsewhere in the world. A bottom mounted, V-shaped wave energy conversion device driving an air turbine has been found to be most suited to prevailing conditions. The conversion characteristics of the device are presented, based on 1:100 scale three dimensional and 1:50 scale two dimensional model studies. Preliminary design studies of the proposed conversion system have underlined its potential viability as a cost effective supplementary source of power.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3628</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3628/3311</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

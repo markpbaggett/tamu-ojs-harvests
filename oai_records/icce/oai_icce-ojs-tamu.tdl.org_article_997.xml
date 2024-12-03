@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/997</identifier>
+				<datestamp>2023-10-04T04:42:07Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING SHORELINE EVOLUTION IN RESPONSE TO CLIMATE CHANGE</dc:title>
+	<dc:creator xml:lang="en">Zacharioudaki, Anna</dc:creator>
+	<dc:creator xml:lang="en">Reeve, Dominic E</dc:creator>
+	<dc:subject xml:lang="en">modeling</dc:subject>
+	<dc:subject xml:lang="en">shoreline</dc:subject>
+	<dc:subject xml:lang="en">climate change</dc:subject>
+	<dc:subject xml:lang="en">statistical significance</dc:subject>
+	<dc:description xml:lang="en">In this paper we examine the evidence for detectable climate change impacts on shoreline evolution. In a sequentially linked set of models, climate change scenarios are taken from atmospheric climate models and used to generate time slices of deepwater wave climate, nearshore wave climate and shoreline evolution. The models used are simple, containing the key physical processes only. Results are based on a hypothetical case which has some similarities to a site on the south coast of the UK. Output from the model is analysed using a robust statistical methodology to determine the evidence for statistically significant differences between beach behaviour under current conditions and several future scenarios. Statistically significant differences vary with season and also with the combination of climate model outputs used for input. Summers are the only season for which all models showed significant changes, corresponding to an increase in the net eastward littoral transport.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/997</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.management.28</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; management.28</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/997/pdf_17</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

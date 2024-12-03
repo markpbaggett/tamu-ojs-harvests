@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5742</identifier>
+				<datestamp>2021-01-19T10:40:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">2DH MORPHOLOGICAL MODELLING OF SUBMERGED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">van der Biezen, S.C.</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, J.A.</dc:creator>
+	<dc:creator xml:lang="en">van de Graaff, J.</dc:creator>
+	<dc:creator xml:lang="en">Schaap, J.T.M.</dc:creator>
+	<dc:creator xml:lang="en">Torrini, L.</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">submerged breakwater</dc:subject>
+	<dc:subject xml:lang="en">2DH morphological modeling</dc:subject>
+	<dc:description xml:lang="en">The results are presented of 2DH numerical modelling of morphological effects of submerged breakwaters. In particular, segmented configurations are focussed upon, since segmented submerged breakwaters induce interesting and important current circulations in the horizontal plane. In a previous study, a module that calculates a phase-averaged stationary wave field was used to compute wave forces. These forces were next used to calculate current patterns. In the present study, waves are introduced via a harmonic boundary condition in a phase-resolving module, based on the nonlinear shallow water equations. The advantage of this approach is that the current patterns are directly calculated, the disadvantage is that it requires more computation time. The first results of morphodynamic computations with submerged breakwaters, in intra-wave mode, are promising. The most important mechanisms are reproduced rather well. Some of the shortcomings of the previous model study with a stationary wave model have been overcome. However, a lot of fine tuning still needs to be done.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5742</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5742/5412</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

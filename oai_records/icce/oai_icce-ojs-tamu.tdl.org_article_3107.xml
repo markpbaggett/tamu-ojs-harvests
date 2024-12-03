@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3107</identifier>
+				<datestamp>2021-01-20T01:38:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TRANSFORMATION OF TSUNAMIS IN A COASTAL ZONE</dc:title>
+	<dc:creator xml:lang="en">Nakamura, Shigehisa</dc:creator>
+	<dc:creator xml:lang="en">Higuchi, Haruo</dc:creator>
+	<dc:creator xml:lang="en">Tsuchiya, Yoshito</dc:creator>
+	<dc:subject xml:lang="en">coastal zone</dc:subject>
+	<dc:subject xml:lang="en">transformation</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:description xml:lang="en">In order to obtain fundamental information to establish warning practices and effective countermeasures against the tsunamis on the coast, the authors have studied on refraction of the tsunamis propagating into Osaka Bay and on tsunami spectra. ^he refraction of the tsunami is studied by a numerical computation for a program of refraction and shoaling of small amplitude wave. An example is shown for Chilean Tsunami in I960 to reveal that the refraction is an important factor to study on the tsunami wave height distribution along the coast of Kii Peninsula and Shikoku Island. The mareograms of the tsunamis are analyzed to obtain power spectra to study on transformation of the tsunamis from the Pacific ocean to the head of Osaka Bay. The result suggests that it is necessary to be careful to study on transformation of the tsunamis with use of the refraction diagram because the tsunami is not a simple monochromatic and small amplitude plane wave. A brief remark is given for the analysis of the tsunami as non-stationary process.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3107</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3107/2772</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

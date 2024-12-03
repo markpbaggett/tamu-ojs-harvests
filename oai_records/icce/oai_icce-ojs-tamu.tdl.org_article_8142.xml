@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8142</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEISMIC ANALYSIS OF QUAY WALLS BY CONSIDERING SOIL-WATER-STRUCTURE INTERACTION</dc:title>
+	<dc:creator xml:lang="en">Massah Fard, Maryam</dc:creator>
+	<dc:creator xml:lang="en">Pourzeynali, Saeid</dc:creator>
+	<dc:creator xml:lang="en">Lashteh Neshaei, Seyed Ahmad</dc:creator>
+	<dc:subject xml:lang="en">gravity quay walls</dc:subject>
+	<dc:subject xml:lang="en">seismic performance</dc:subject>
+	<dc:subject xml:lang="en">horizontal and vertical excitations</dc:subject>
+	<dc:subject xml:lang="en">soil-water-structure interaction</dc:subject>
+	<dc:subject xml:lang="en">nonlinear seismic behavior</dc:subject>
+	<dc:description xml:lang="en">A quay wall is a gravity wall structure having the dual functions of providing shore protection against light to moderate wave attack and a berthing face for ships. In the present study, nonlinear dynamic behavior of the quay walls is studied under the action of earthquake excitations by taking into account the soil-water-structure interaction. For this purpose, plane strain analysis of the wall is performed for both horizontal and vertical components of earthquake records; and the maximum displacements and stresses at critical points of the quay wall are obtained for different values of the wall slenderness ratio. From the numerical results, it is found that considering the vertical component of the ground motion besides the horizontal one in a linear analysis has a reduction effect on the quay wall seismic responses in comparison with that of the horizontal component alone. Moreover, it is found that nonlinear characteristics of soil, when the soil-water-structure interaction is taken into account, has more catastrophic effect on the performance of these walls in comparison with that of the linear one.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8142</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8142/7088</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

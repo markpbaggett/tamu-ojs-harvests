@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3049</identifier>
+				<datestamp>2021-01-20T01:58:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REVISIONS IN WAVE DATA PRESENTATION</dc:title>
+	<dc:creator xml:lang="en">Draper, Laurence</dc:creator>
+	<dc:subject xml:lang="en">wave data</dc:subject>
+	<dc:subject xml:lang="en">data presentation</dc:subject>
+	<dc:description xml:lang="en">In 1966 the author proposed, at the Tenth Conference on Coastal Engineering, methods (Reference 1) of presentation of wave data which were thought likely to be useful to the engineering user. Data obtained from many recording stations have been processed and presented in the formats proposed, and appear to have been able to provide answers to many of the wave questions posed by engineers. However, from time to time additional questions arise, and improvements in technology enable answers to more sophisticated questions to be given. The purpose of this paper is to describe the additions thought necessary to cope with these changes; there are no alterations to the 1966 presentation methods, only additions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3049</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3049/2714</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

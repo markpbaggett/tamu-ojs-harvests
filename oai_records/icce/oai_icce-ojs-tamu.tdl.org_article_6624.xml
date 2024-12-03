@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6624</identifier>
+				<datestamp>2023-10-04T03:10:52Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEPTH OF CLOSURE DETERMINATION IN THE VICINITY OF COASTAL STRUCTURE</dc:title>
+	<dc:creator xml:lang="en">Widyaningtias, Widyaningtias</dc:creator>
+	<dc:creator xml:lang="en">Tanaka, Hitoshi</dc:creator>
+	<dc:creator xml:lang="en">Kanayama, Susumu</dc:creator>
+	<dc:subject xml:lang="en">depth of closure</dc:subject>
+	<dc:subject xml:lang="en">coastal structure</dc:subject>
+	<dc:subject xml:lang="en">hydrodynamic conditions</dc:subject>
+	<dc:description xml:lang="en">This study is conducted to analyze the effect of coastal structure to depth of closure variation. Analysis on time series bathymetry data has been applied to determine location of depth of closure. The deviation of bathymetry profile changing is also considered. Furthermore, longshore variation of depth of closure is proposed. The hydrodynamic conditions are simulated using Boussinesq model derived by Peregrine (1967). This model is applied considering its applicability to observe non-linear and dispersion phenomenon while wave propagates to the shoreline. The simulation is carried out under regular wave assumption with 20% wave height in deep area is applied as representative wave. The simulation results are obtained in term of surface water level, bottom velocity in x and y direction and current velocity. The result is utilized to calculate maximum bottom velocity just outside boundary layer. To observe sediment movement along the coast, maximum shear stress is calculated under wave-current combined motion. Dimensionless Shields parameter is also assessed. The simulation results are depicted in spatial map. Furthermore, the effect of coastal structure to depth of closure variation is confirmed using hydrodynamic conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6624</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.87</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.87</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6624/pdf_609</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

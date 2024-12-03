@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5810</identifier>
+				<datestamp>2021-01-19T10:19:16Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEPTH OF CLOSURE: IMPROVING UNDERSTANDING AND PREDICTION</dc:title>
+	<dc:creator xml:lang="en">Nicholls, Robert J.</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Capobianco, Michele</dc:creator>
+	<dc:creator xml:lang="en">Birkemeier, William A.</dc:creator>
+	<dc:subject xml:lang="en">depth of closure</dc:subject>
+	<dc:subject xml:lang="en">depth of closure prediction</dc:subject>
+	<dc:description xml:lang="en">The closure concept is a fundamental cross-shore boundary condition for morphodynamics and other applications such as beach nourishment and sediment budgets. This paper examines closure at a range of scales, particularly from events up to years. At these scales, closure is primarily a function of direct external forcing (cross-shore redistribution of sediment by waves), indirect external forcing (sediment loss/gain by littoral transport and the resulting profile translation) and internal system dynamics (bar dynamics). Therefore, simple wave-based models such as Hallermeier (1981) cannot be expected to predict the actual closure, although they can predict distributional properties such as the limit. A general approach to develop more user orientated estimates of closure over a range of timescales is outlined based on equilibrium theory. This will include a user-defined depth change criterion as a function of timescale.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5810</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5810/5478</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

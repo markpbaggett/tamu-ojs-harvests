@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1413</identifier>
+				<datestamp>2023-10-04T04:22:38Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY OF GIRDER BRIDGE AGAINST TSUNAMI FLUID FORCE</dc:title>
+	<dc:creator xml:lang="en">Araki, Susumu</dc:creator>
+	<dc:creator xml:lang="en">Ishino, Kazuo</dc:creator>
+	<dc:creator xml:lang="en">Deguchi, Ichiro</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">wave pressure</dc:subject>
+	<dc:subject xml:lang="en">impact force</dc:subject>
+	<dc:description xml:lang="en">The horizontal and vertical components of the fluid force and pressure acting on a girder bridge due to tsunami like a solitary wave are measured in a hydraulic experiment and their characteristics are discussed. The peak of the impact fluid force is estimated on the basis of the change in the added mass of the structure. The wave pressure acting on the seaward side of the girder of the bridge is also estimated. The critical force for the stability of the girder bridge is estimated as the strength of bolts used in the shoes against shear stress.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1413</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.56</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.56</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1413/pdf_126</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

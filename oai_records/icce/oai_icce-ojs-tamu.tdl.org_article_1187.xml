@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1187</identifier>
+				<datestamp>2023-10-04T04:35:16Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL ANALYSIS OF BULK DRAG COEFFICIENT IN DENSE VEGETATION BY IMMERSED BOUNDARY METHOD</dc:title>
+	<dc:creator xml:lang="en">Suzuki, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:subject xml:lang="en">bulk drag coefficient</dc:subject>
+	<dc:subject xml:lang="en">drag coefficient</dc:subject>
+	<dc:subject xml:lang="en">multiple cylinders</dc:subject>
+	<dc:subject xml:lang="en">vegetation</dc:subject>
+	<dc:subject xml:lang="en">Immersed Boundary Method</dc:subject>
+	<dc:subject xml:lang="en">CADMAS-SURF/3D</dc:subject>
+	<dc:subject xml:lang="en">Large Eddy Simulation</dc:subject>
+	<dc:description xml:lang="en">In this paper, bulk drag coefficient in rigid dense vegetation is investigated mainly by using a three dimensional numerical simulation model CADMAS-SURF/3D by incorporating Immersed Boundary Method to calculate flow around the vertical cylinder in the Cartesian grid. Large Eddy Simulation is also incorporated as a turbulence model. Firstly, validation of the developed model is conducted with a single cylinder in the flow field based on literature. All the results obtained here (Re=300, 3,900 and 8,000) show good agreement with the reference data in literature. After the validation, multiple cylinders are allotted in three different densities (S/D=2.8, 2.0, 1.4) in a numerical wave tank and numerical simulations are conducted to investigate bulk drag coefficient. The result shows that the ratio of bulk drag coefficient to drag coefficient, which represents a reduction, is not just a function of density but a function of parameter 2a/S, in which 2a is stroke of the motion and S is cylinder distance. 2a is less than S, the effect of the density is neglected because the wake does not reach the other cylinders even when the density is high. On the contrary, it might affect the ratio of bulk drag coefficient to drag coefficient when the stroke of the motion is larger than the cylinder distance even when the density is low. In general, the ratio of bulk drag coefficient to drag coefficient decreases when 2a/S increases.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1187</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.48</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.48</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1187/pdf_54</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

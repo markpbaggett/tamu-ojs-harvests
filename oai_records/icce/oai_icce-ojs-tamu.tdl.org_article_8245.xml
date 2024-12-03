@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8245</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI INDUCED FORCES IN BRIDGES: LARGE-SCALE EXPERIMENTS AND THE ROLE OF AIR-ENTRAPMENT</dc:title>
+	<dc:creator xml:lang="en">Istrati, Denis</dc:creator>
+	<dc:creator xml:lang="en">Buckle, Ian G</dc:creator>
+	<dc:creator xml:lang="en">Lomonaco, Pedro</dc:creator>
+	<dc:creator xml:lang="en">Yim, Solomon</dc:creator>
+	<dc:creator xml:lang="en">Itani, Ahmad</dc:creator>
+	<dc:subject xml:lang="en">large-scale experiments</dc:subject>
+	<dc:subject xml:lang="en">tsunami waves</dc:subject>
+	<dc:subject xml:lang="en">bridges</dc:subject>
+	<dc:subject xml:lang="en">air-entrapment</dc:subject>
+	<dc:subject xml:lang="en">nonlinear wave-air interaction</dc:subject>
+	<dc:description xml:lang="en">In this study large scale hydraulic experiments of tsunami waves impacting a straight composite I-girder bridge were conducted in the LWF at Oregon State University. Both solitary waves and turbulent bores were tested and the experimental results revealed the existence of 4 different phases in the vertical force histories, among which is (i) a phase with a large applied moment and bridge rotation at the time of the first impact of the tsunami bore on the bridge, and (ii) a phase with a governing uplift mode of the bridge during the passage of the wave through the bridge. The first phase introduced the largest tensile forces in the offshore bearings and must be considered in order to prevent the progressive damage of bearings. In addition, the air-entrapment occurring in bridges with diaphragms was seen to (a) alter significantly the pattern of the applied pressures on the girders and below the deck in the internal chambers, (b) consistently increase the total uplift forces for all examined wave heights, and (3) cause a complex nonlinear wave-air interaction phenomenon with significant 3D effects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8245</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.structures.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; structures.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8245/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

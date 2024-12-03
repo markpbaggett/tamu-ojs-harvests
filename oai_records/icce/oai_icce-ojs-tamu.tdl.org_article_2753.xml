@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2753</identifier>
+				<datestamp>2021-01-20T03:46:06Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CONFIDENCE INTERVALS FOR OCEAN WAVE SPECTRA</dc:title>
+	<dc:creator xml:lang="en">Borgman, Leon E.</dc:creator>
+	<dc:subject xml:lang="en">confidence interval</dc:subject>
+	<dc:subject xml:lang="en">wave sprectra</dc:subject>
+	<dc:description xml:lang="en">The random nature of ocean wave records introduces statistical variability into the wave spectrum estimates based on these records. This may cause inaccuracy in subsequent calculations such as the prediction of the primary wave direction or the estimation of structural response. Confidence intervals on such estimates are needed to evaluate whether adequate estimate accuracy has been obtained. The chi-squared confidence interval commonly used for wave spectra is based on the assumption of a Gaussian sea surface. Its applicability for hurrican size waves has been open for question. Therefore, after a brief outline of the relevant statistical relations basic to the chi-squared procedure, wave data from Hurrican Carla is empirically analyzed and compared with the theoretical conclusions. A simulation procedure is used to proceed from the data to probability interval statements. A comparison of these with the correponding chi-squared statements shows the chi-squared relations to be fairly reasonable approximations for spectral estimates averaged over bands of at least eight values. The empirical simulation procedure can be extended to subsequent calculations based on the spectral estimates while the chi-square method encounters difficulty for such problems.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1972-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2753</dc:identifier>
+	<dc:identifier>10.9753/icce.v13.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 13 (1972): Proceedings of 13th Conference on Coastal Engineering, Vancouver, Canada, 1972.; 10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2753/2417</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

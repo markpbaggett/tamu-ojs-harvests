@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12719</identifier>
+				<datestamp>2023-09-01T15:12:33Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MULTI-SCALE WAVE MODELLING; FIELD VALIDATION IN FAXE BAY, DENMARK</dc:title>
+	<dc:creator xml:lang="en">Adell, Anna</dc:creator>
+	<dc:creator xml:lang="en">Almström, Björn</dc:creator>
+	<dc:creator xml:lang="en">Kroon, Aart</dc:creator>
+	<dc:creator xml:lang="en">Larson, Magnus</dc:creator>
+	<dc:creator xml:lang="en">Hallin, Caroline</dc:creator>
+	<dc:description xml:lang="en">Access to local nearshore wave climate conditions on a detailed spatial scale is important for many coastal engineering practices. These include assessing the flood risk of coastal infrastructure, designing coastal protection measures, and estimating sediment transport processes and wave run-up. The present study displays a multi-scale wave modelling approach using the numerical wave model SWAN (Booij et al., 1999) together with field data applied in the southern Baltic Sea. The main objective of the study was to investigate the possibility of employing a single wave model for seamless simulations over several scales in time and space, from offshore to nearshore, including the effects of grid size and resolution. Validation with extensive field data was a crucial part of the study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12719</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12719/11992</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Anna Adell, Björn Almström, Aart Kroon, Magnus Larson, Caroline Hallin</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

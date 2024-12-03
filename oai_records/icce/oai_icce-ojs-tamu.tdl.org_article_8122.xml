@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8122</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SAMPLING BIAS IN THE ESTIMATION OF SIGNIFICANT WAVE HEIGHT EXTREME VALUES</dc:title>
+	<dc:creator xml:lang="en">Dentale, Fabio</dc:creator>
+	<dc:creator xml:lang="en">Reale, Ferdinando</dc:creator>
+	<dc:creator xml:lang="en">D'Alessandro, Felice</dc:creator>
+	<dc:creator xml:lang="en">Damiani, Leonardo</dc:creator>
+	<dc:creator xml:lang="en">Di Leo, Angela</dc:creator>
+	<dc:creator xml:lang="en">Pugliese Carratelli, Eugenio</dc:creator>
+	<dc:creator xml:lang="en">Tomasicchio, Giuseppe Roberto</dc:creator>
+	<dc:subject xml:lang="en">extreme waves</dc:subject>
+	<dc:subject xml:lang="en">sampling bias</dc:subject>
+	<dc:subject xml:lang="en">wave measurement</dc:subject>
+	<dc:description xml:lang="en">It has been shown before, and it is intuitively evident, that in a Significant Wave Height (SWH) time series, the longer the sampling interval, the lower is the number of events which are above a given threshold value. As a consequence, the use of data with a low time resolution (such as a 3 h sampling, for instance) causes a considerable undervaluation of the extreme SWH values for a given return time RT. In this paper an example of such a bias is provided, and a method is suggested to estimate it on a regional basis. Results may help to improve the use of historical wave meters data which were often collected with a low time resolution, and may also provide a tool to improve the application of Numerical Meteo-Wave models to the evaluation of extremes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8122</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.waves.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; waves.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8122/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

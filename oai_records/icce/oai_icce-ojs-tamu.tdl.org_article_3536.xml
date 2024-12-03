@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3536</identifier>
+				<datestamp>2021-01-19T23:13:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY ANALYSIS OF SEAFLOOR FOUNDATIONS</dc:title>
+	<dc:creator xml:lang="en">Yamamoto, Tokuo</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tasumasa</dc:creator>
+	<dc:subject xml:lang="en">stability analysis</dc:subject>
+	<dc:subject xml:lang="en">seafloor foundations</dc:subject>
+	<dc:subject xml:lang="en">bed</dc:subject>
+	<dc:description xml:lang="en">Stability analysis of homogeneous and inhomogeneous seabed foundations under attack by storm waves are made by calculating the wave induced effective stresses. Wave induced effective stress analysis of homogeneous seabed is made using the theory previously developed by the senior author which is based on the poro-elastic theory by Biot. Effective stresses in inhomogeneous seabeds induced by waves are calculated by approximating an inhomogeneous bed by many layers of homogeneous soils each of which has different geotechnical properties of soils. A good agreement is obtained between the theory and the pore pressure data in situ field measurements. For a given wave length, it is found that there exists a most unstable thickness of homogeneous seabed when the seabed thickness is one-fifth of the wave length. As a realistic example of an inhomogeneous bed, the effective stresses in a typical seabed formation at the Mississippi Delta area of the Gulf of Mexico under the attack of design storm waves are calculated. The numerical results indicate that the storm waves induce a continuous submarine landslide which extends as deep as 9 m from the mud line. Numerical calculations also indicate that such landslides and liquefaction of seabeds can be prevented by placing a layer of concrete blocks or rubbles on the top of the seabeds.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3536</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.109</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 109</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3536/3218</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

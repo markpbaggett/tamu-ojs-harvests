@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8715</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTER-COMPARISON OF COASTAL MODELS: CASE STUDY OF STORM SURGE AT NEMURO IN JAPAN</dc:title>
+	<dc:creator xml:lang="en">Nakamura, Ryota</dc:creator>
+	<dc:creator xml:lang="en">Mäll, Martin</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Kato, Shigeru</dc:creator>
+	<dc:description xml:lang="en">The numerical coastal circulation models play an essential role in predicting storm surges. Several models (e.g. ADCIRC: Dietrich et al., 2004, FVCOM: Chen et al., 2003) have been previously inter-compared (Kerr et al., 2013; Chen et al., 2013). In these studies, storm surges were reproduced in locations where the bathymetry has a gradual increase from offshore to coast, within a closed gulf. On the other hand, there are few studies in regards to modelling storm surge where the near coast bathymetry is steep and connected to open ocean. Considering the storm surge dependence on local bathymetry, it can be important to conduct an inter-comparison of ocean circulation models in such a region. In this study, numerical coastal circulation models (2D-ADCIRC and 3D-FVCOM) are compared by using a 2014 Dec. storm surge event at Nemuro city in Hokkaido (Japan), which was caused by a rapidly intensified extra-tropical cyclone approaching the area. In this region, local bathymetry is steep due to Japan Trench. The cyclone caused a storm surge of nearly up to 1.8 m within the Nemuro city between 00:00 UTC 16th and 17th Dec. 2014. The aim of this study is to evaluate the performance of ocean circulation models using several air-sea drag coefficients and contribute to inter-comparison studies using ADCIRC and FVCOM.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8715</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.currents.79</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; currents.79</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8715/7517</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8715/8191</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

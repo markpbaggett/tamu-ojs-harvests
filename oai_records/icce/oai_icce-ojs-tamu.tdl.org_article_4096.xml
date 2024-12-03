@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4096</identifier>
+				<datestamp>2021-01-19T19:57:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNDISTORTED FROUDE MODEL FOR SURF ZONE SEDIMENT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Kriebel, D.L.</dc:creator>
+	<dc:creator xml:lang="en">Dally, W.R.</dc:creator>
+	<dc:creator xml:lang="en">Dean, R.G.</dc:creator>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">Froude model</dc:subject>
+	<dc:description xml:lang="en">Small scale movable bed wave tank experiments were carried out according to undistorted Froude model laws with the sediment fall time, H/wT, as the governing parameter for scaling the model sediment. Four questions addressed in this study included: (a) the ability to reproduce larger scale model results for both erosional and accretive conditions, (b) the effects of more realistic concave upward initial beach profiles instead of the more usual planar initial slopes, (c) the criterion for onshore-offshore sediment transport, and (d) the capability of the model to simulate post-storm recovery. Based on a comparison with large scale results of Saville (1957), it was found that the model provided good agreement for erosive conditions. For accretive conditions, the results were less conclusive although the general patterns of profile change were similar. The final beach profiles resulting from concave upward initial profiles were found to be substantially different from those for an initially planar profile. It appears that the initially planar profile unrealistically affects the breaker type and results in a more pronounced longshore bar and offshore slopes that are steeper than found in nature. Tests conducted to evaluate the criterion separating onshore-offshore transport suggested a higher value of the fall time parameter, H/wT, than was originally proposed by Dean (1973); this is interpreted to be due to scale effects in most of the model data used in the original development. Tests to simulate post-storm recovery were affected by the presence of "reflection bars" associated with a partial standing wave system. The reflection bars appear to strongly affect the sediment transport limiting the post-storm profile recovery. The most effective recovery was induced by continually changing wave conditions to maintain the wave breakpoint slightly landward of the bar crest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4096</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4096/3778</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7119</identifier>
+				<datestamp>2021-01-19T05:17:06Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CFD-CSD NUMERICAL MODELLING OF WAVE-INDUCED PRESSURES IN OPEN- PORED PBA-REVETMENTS</dc:title>
+	<dc:creator xml:lang="en">Alcerreca Huerta, Juan Carlos</dc:creator>
+	<dc:creator xml:lang="en">Oumeraci, Hocine</dc:creator>
+	<dc:subject xml:lang="en">porous bonded revetments</dc:subject>
+	<dc:subject xml:lang="en">wave-induced pressures</dc:subject>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:subject xml:lang="en">OpenFOAM</dc:subject>
+	<dc:description xml:lang="en">The highly porous Polyurethane Bonded Aggregates (PBA) revetments represent a novel ecologically friendly solution for the protection of shorelines and vulnerable coastal areas against erosion. Advantages of the open-pored PBA-revetments over conventional smooth impermeable revetments are among others, the reduction of: wave run- up/run-down, wave reflection and wave-induced loads on the sand core beneath the revetment. However, the hydro- geotechnical processes involved in the interaction of waves with such PBA-revetments and their foundation are still not sufficiently understood. Therefore, a new 3-dimensional one-way coupled CFD-CSD model system "wavePoreGeoFoam" was developed at the Leichtweiß-Institute (LWI) within the OpenFOAM® framework for the analysis of the response of open-pored PBA-revetments due to wave-induced loads. In this way, this paper firstly describes the new CFD-CSD model system. Second, validation of the model "wavePoreGeoFoam" is shown considering large-scale laboratory tests performed in the Large Wave Flume (GWK) at the Coastal Research Center (FZK) in Hanover, Germany (Oumeraci et al. 2010). Third, the relevance of implementing the CFD-CSD coupling for modelling wave-induced pressures on and beneath PBA-revetments is discussed. Fourth, a sensitivity analysis related to the effect of the empirically defined parameters for the numerical model is described. Finally, recommendations and implications of the use of CFD-CSD model for further research will be addressed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7119</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7119/pdf_419</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

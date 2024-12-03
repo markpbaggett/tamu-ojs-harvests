@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12985</identifier>
+				<datestamp>2023-09-01T15:14:52Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF VERTICAL LAND MOTIONS ALONG THE CHILEAN COAST CONSIDERING SEA LEVEL VARIABILITY, EARTHQUAKE AND CRUSTAL DEFORMATION OF  SUBDUCTION ZONES</dc:title>
+	<dc:creator xml:lang="en">Molteni-Pérez, Francisco</dc:creator>
+	<dc:creator xml:lang="en">Miyashita, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Shimura, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Nobuhito Mori</dc:creator>
+	<dc:description xml:lang="en">Chile is one of the most seismic countries world wide with approximately 86.000 km of coastline and a permanent need for development and management. Because of the Nazca plate subducting the South American plate, coastal evolution is modeled by oceanographic variables and plate tectonics Coastal towns are under permanent tsunami and storm risks unregulated real estate development and climate driven sea level rise (SLR) IPCC AR6 SSP5 8.5 scenario summarized future trend s in absolute mean sea level (AMSL) of ~ 0.1 m in the near term (2021 2040), 0.2 m in the medium term (2041 2060) and 0.6 m in the long term (2081 2100 ) along the coast . However, relative sea level is affected by large coseismic uplift and/or subsidence which may be comparable to or larger than SLR ( Montecino et al., 2017) The combination of SLR, earthquake and crustal deformation is important for long term development. Using satellite and tidal gauge data a comparison between the AMSL and relative mean sea level RMSL) was conducted for different locations along the Chilean coast between 1993 and 2020.       </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12985</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12985/12258</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Francisco Molteni-Pérez, Takuya Miyashita, Tomoya Shimura, Nobuhito Mori </dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

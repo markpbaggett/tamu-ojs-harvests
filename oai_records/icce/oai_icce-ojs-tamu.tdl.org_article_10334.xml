@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10334</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SALINITY RESPONSE TO ENVIRONMENTAL FLOW RELEASE IN ESTUARIES</dc:title>
+	<dc:creator xml:lang="en">McLean, Errol</dc:creator>
+	<dc:creator xml:lang="en">Hinwood, Jon</dc:creator>
+	<dc:description xml:lang="en">The Snowy River in southern Australia has been impacted by flow diversion since the construction of a dam in the upper catchment, constructed between 1955 and 1967. As part of a monitoring program the effects of two flow releases were studied in 2010 and 2011. The estuarine component of the monitoring and the estuarine modelling phase of the Snowy River Increased Flows Program has been presented. The impact on the estuarine salinity distribution for the selected flow releases is reported and a subsequent modelling exercise outlined. A simple numerical model has been used to simulate about 100 events in a mature barrier estuary, from which a sequence of response types has been identified. The occurrence of each response type has been related to the duration, inflow volume and peak flow rate of the inflow event and to relevant parameters of the estuary. It has been found that the salinity changes may be classified in terms of a dimensionless "estuary flushing parameter" E, which represents the ratio of the direct flushing by the river inflow to the tidal exchange.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/76fefltUCro</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10334</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10334/9620</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Errol McLean, Jon Hinwood</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

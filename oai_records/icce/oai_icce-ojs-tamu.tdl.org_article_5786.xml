@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5786</identifier>
+				<datestamp>2021-01-19T10:26:59Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERTICAL LENGTH SCALES OF NEARSHORE SUSPENSION EVENTS</dc:title>
+	<dc:creator xml:lang="en">Foster, D.L.</dc:creator>
+	<dc:creator xml:lang="en">Bowen, A.J.</dc:creator>
+	<dc:creator xml:lang="en">Hay, A.E.</dc:creator>
+	<dc:subject xml:lang="en">length scale</dc:subject>
+	<dc:subject xml:lang="en">sediment suspension</dc:subject>
+	<dc:description xml:lang="en">Most commonly, nearshore suspended sediment time series are characterized by distinct high concentration events. These events are coherent structures which should have lengths scales that are dependent on the length scale of the near bed turbulence. Possible generation mechanisms for coherent turbulent structures include bed shear, vortex shedding from bed forms, shear instabilities of oscillatory boundary layers, and surficial wave breaking. For turbulence mechanisms other than wave breaking, the characteristic length scale should be governed by the thickness of the bottom boundary layer. The objective of this investigation is to characterize the observed vertical length scales of suspended sediment plumes over the course of a single evolving storm and to compare these length scale estimates with the thickness of the displacement WBBL. Field observations were made at Queensland Beach on the east coast of Nova Scotia in 1995. This steep planar beach faces a restricted opening, with incoming waves approaching normal to the shore and has a 1 m tidal range. The instruments were located in an intermediate water depth of 3.2 m where the median grain size was 0.02 cm. Sediment suspension was measured with a 2.25 MHz acoustic sounder looking downward and the bed geometry was measure with a rotary sonar. Over the course of a relatively short lived storm event within a 24 hour period, the wave height ranged from .35 m to 1.4 m and the bed geometry underwent multiple transitions. During this event, the sediment suspension observations showed that while the the relatively infrequent large suspension events increase with increasing storm intensity, the mean suspension event length scale shows little variability. The suspended sediment length scales were compared with an estimate of the displacement thickness of the wave bottom boundary layer. Although the two estimates showed an order of magnitude agreement, the displacement thickness estimates increased slightly with increasing storm intensity. The rms deviation between the estimated boundary layer thickness and the mean length scale of the suspended sediment vertical excursion was 1.2 cm.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5786</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5786/5455</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

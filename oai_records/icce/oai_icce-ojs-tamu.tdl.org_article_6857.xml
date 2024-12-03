@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6857</identifier>
+				<datestamp>2023-10-04T02:29:38Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTEGRATED STUDY ON THE VELOCITY FIELD INDUCED BY PLUNGING BREAKERS</dc:title>
+	<dc:creator xml:lang="en">Rivillas, Germán Daniel</dc:creator>
+	<dc:creator xml:lang="en">Pedrozo-Acuña, Adrián</dc:creator>
+	<dc:creator xml:lang="en">Silva, Rodolfo</dc:creator>
+	<dc:creator xml:lang="en">Torres-Freyermuth, Alec</dc:creator>
+	<dc:creator xml:lang="en">Gutierrez, Cesar</dc:creator>
+	<dc:subject xml:lang="en">BIV</dc:subject>
+	<dc:subject xml:lang="en">RANS</dc:subject>
+	<dc:subject xml:lang="en">velocity fields</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:description xml:lang="en">In this investigation we employ a technique called Bubble Image Velocimeter (BIV) to obtain measurements of flow fields in the surf-zone. This technique allows measurements of flow velocity in the aerated breaking zone, where other techniques are ineffective. The technique has been widely used to study flow propagation in front of vertical structures, it is employed in this study to estimate the velocity field induced by the propagation of a plunging wave travelling over an impermeable slope. The BIV measurements were compared to those obtained with an Acoustic Doppler Velocimeter (ADV) showing that the BIV technique is more suitable when the velocity field is estimated under the presence of an aerated flow. Moreover, the phase-averaged velocity fields obtained from the numerical model were compared against those evaluated from the BIV measurements. A reliable estimation of the VOF-type numerical derivations in the surf zone was established. In the swash zone, an over prediction of the offshore flow was identified.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6857</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6857/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3655</identifier>
+				<datestamp>2021-01-19T22:31:45Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">2- AND 3-DIMENSIONAL DETERMINISTIC FREAK WAVES</dc:title>
+	<dc:creator xml:lang="en">Kjeldsen, Soren Peter</dc:creator>
+	<dc:subject xml:lang="en">freak waves</dc:subject>
+	<dc:subject xml:lang="en">deterministic waves</dc:subject>
+	<dc:subject xml:lang="en">2D waves</dc:subject>
+	<dc:subject xml:lang="en">3D waves</dc:subject>
+	<dc:description xml:lang="en">The present paper deals with a new non-linear technique for generation of violent breaking freak waves (plunging breakers) at specified positions and times in wave basins. First, results concerning generation of non-linear wave trains, Stokes-waves and wave solitons in deep water are given. Then the technique for generation of non-linear wave transients are given with specified non-linear dispersion properties. Finally, the new techniques are used to obtain collisions between non-linear solitons coming both from the same direction (2-dimensional case), and from different directions (3-dimensional case) leading to generation of steep and violent plunging breakers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3655</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3655/3338</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12761</identifier>
+				<datestamp>2023-09-01T15:12:56Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME WAVE CLIMATE OF THE NEW SOUTH WALES COAST</dc:title>
+	<dc:creator xml:lang="en">Garber, Sean</dc:creator>
+	<dc:creator xml:lang="en">Hanslow, David</dc:creator>
+	<dc:creator xml:lang="en">Taylor, David</dc:creator>
+	<dc:creator xml:lang="en">Dent, Jarrod</dc:creator>
+	<dc:description xml:lang="en">The NSW coast is subject to a relatively moderate wave climate that is periodically affected by large coastal storm events arising from a range of synoptic weather systems. Extreme wave events may cause coastal inundation, beach erosion, damage to property and marine structures, and risks to public safety. This paper describes the statistical analysis of the extreme directional wave climate along the NSW coast based on historical wave buoy data extending back to 1974. From the analysis, long-term trends in the extreme wave climate (storm peaks, storm duration and peak directions) are also identified. The work is largely an extension of the analysis completed by Shand et al (2011), that incorporates an additional 13 years of wave data up to 2022.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12761</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.waves.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; waves.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12761/12034</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Sean Garber, David Hanslow, David Taylor, Jarrod Dent</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

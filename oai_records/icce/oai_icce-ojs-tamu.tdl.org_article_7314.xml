@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7314</identifier>
+				<datestamp>2021-01-19T04:53:26Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FOCUSING UNIDIRECTIONAL WAVE GROUPS ON FINITE WATER DEPTH WITH AND WITHOUT CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Stagonas, Dimitris</dc:creator>
+	<dc:creator xml:lang="en">Buldakov, Eugeny</dc:creator>
+	<dc:creator xml:lang="en">Simons, Richard</dc:creator>
+	<dc:subject xml:lang="en">focused waves</dc:subject>
+	<dc:subject xml:lang="en">extreme waves</dc:subject>
+	<dc:subject xml:lang="en">waves on currents.</dc:subject>
+	<dc:description xml:lang="en">Focused waves are often used in physical and numerical studies as a representative condition for extreme waves or as a mean to generate very steep and breaking waves at a desired location in space and time. A focused wave is in theory created when all the components in a transient wave group come in phase. In the past, linear wave theory and empirical iterative methodologies have been suggested in order to achieve the required phase and amplitude focusing. Nevertheless, their effectiveness decreases as the non-linearity of the wave group increases and thus the generation of very high focused waves was a challenging task. Here, an empirical iterative methodology is suggested which can focus waves of any height at a predetermined temporal and spatial location. The methodology has been successfully applied to wave groups travelling on still water but also on sheared currents and it has been implemented in both physical and numerical wave flumes. The results presented here refer to linear, weakly non-linear and strongly non-linear focused waves generated with a realistic target spectrum.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7314</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7314/pdf_719</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

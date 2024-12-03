@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5335</identifier>
+				<datestamp>2021-01-19T12:55:14Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BREAKWATER STABILITY UNDER REGULAR AND IRREGULAR WAVE ATTACK</dc:title>
+	<dc:creator xml:lang="en">Jensen, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Andersen, Henning</dc:creator>
+	<dc:creator xml:lang="en">Gronbech, John</dc:creator>
+	<dc:creator xml:lang="en">Mansard, Etieene P.D.</dc:creator>
+	<dc:creator xml:lang="en">Davies, Michael H.</dc:creator>
+	<dc:subject xml:lang="en">wave attack</dc:subject>
+	<dc:subject xml:lang="en">regular wave</dc:subject>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater stability</dc:subject>
+	<dc:description xml:lang="en">The main objective of the present study was to compare the damage to a rubble mound breakwater under regular and irregular wave attack, and thereby identify an irregular wave height parameter that corresponds to the wave height of a regular wave in terms of inducing a similar degree of damage to the structure. The 1984 edition of the Shore Protection Manual recommends this irregular wave height parameter to be Hmo (the average of the highest one-10th of the waves in a sea state), but other researchers recommend Hmo (e.g. Vidal et al., 1995). For the present study, H1/2o is the irregular wave height parameter that yields the best correspondence between irregular and regular waves. However, this result is dependent on the length of the time series and on the number of times this time series is recycled to achieve a given damage level. The new wave height parameter H,, (the average of the n highest waves in a sea state) proposed by Vidal et al. (1995) takes into account the statistics of the large waves contained in the time series as well as the number of times this time series is recycled. The present study indicates that //2so (the average of the highest 250 waves in the sea state) is a suitable wave height parameter for characterizing breakwater stability under irregular waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5335</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5335/5013</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

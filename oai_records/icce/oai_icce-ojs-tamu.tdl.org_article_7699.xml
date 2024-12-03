@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7699</identifier>
+				<datestamp>2021-01-20T04:12:09Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF MORPHODYNAMICS AROUND A TIDAL INLET</dc:title>
+	<dc:creator xml:lang="en">Li, Ming</dc:creator>
+	<dc:creator xml:lang="en">Nicholson, John</dc:creator>
+	<dc:creator xml:lang="en">Pan, Shunqi</dc:creator>
+	<dc:creator xml:lang="en">O'Connor, Brian A</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">morphology</dc:subject>
+	<dc:subject xml:lang="en">tide</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:description xml:lang="en">A two-dimensional morphological model is used to study sediment transport and morphdynamics around a tidal inlet. The model includes the processes of erosion on side slope for the avalanching effects. The model has been tested against a laboratory study of an idealised tidal inlet configuration over 68 tidal cycles. The results show a reasonable agreement between the model and experiment measurements with a typical pattern of accretion at up-drift of the inlet and erosion at the down-drift. This study also reveals the importance of surface waves and cross-shore sediment transport to the evolution and migration of the tidal inlet.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7699</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7699/pdf_864</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

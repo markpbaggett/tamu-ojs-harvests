@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10371</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSING THE EFFECT OF EARTHQUAKE-INDUCED UPLIFT AND ENGINEERING WORKS ON A SURF BREAK OF NATIONAL SIGNIFICANCE</dc:title>
+	<dc:creator xml:lang="en">Shand, Tom</dc:creator>
+	<dc:creator xml:lang="en">Weppe, Simon</dc:creator>
+	<dc:creator xml:lang="en">Quilter, Peter</dc:creator>
+	<dc:creator xml:lang="en">Short, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Blumberg, Ben</dc:creator>
+	<dc:creator xml:lang="en">Reinen-Hamill, Richard</dc:creator>
+	<dc:description xml:lang="en">In November 2016 a Mw7.8 earthquake struck the northeast coast of the New Zealand South Island triggering numerous large landslips which severed key infrastructure and caused parts of the coastline to be uplifted by up to 3 m. This affected a notable surf break at Mangamaunu, north of Kaikoura. The uplift of the seabed at this location caused changes in the wave breaking characteristics and, at the same time, infrastructure recovery efforts proposed construction of engineering works along the site shoreline. The potential impacts of these works on the surf break caused significant local, national and international concern. An extensive study was initiated to better understand the characteristics of the surf break, the effects of the earthquake-induced seabed uplift and the potential effects of the engineering works. This included collection of topographic and bathymetric data using a combination of LiDAR, multibeam and an innovative UAV-based collection method within the surf zone. This provided a seamless terrain model which could be adjusted to pre-earthquake levels based on observed uplift rates. Two fixed camera stations were established with ground control information to collect data on wave breaking position and GPS-watches were deployed and utilized by the local surfing community to collect similar data. Image processing algorithms were developed to extract wave breaking on a wave-by-wave basis and aggregate to obtain breaking exceedance contours, an improvement from threshold analysis on time-averaged imagery. Both physical and numerical modelling was undertaken to better understand the effect of the earthquake and of the proposed works on wave characteristics, particularly wave reflection. The non-hydrostatic wave-flow model SWASH (Smit et al., 2013) was used to evaluate changes in the breaking position, the incident and reflected wave energy gradients, and surf zone hydrodynamics during a range of typical and optimal surfing conditions for present day and future water levels. An innovative wave breaking position post-processing routine was developed to allow assessment of the impact of reflected waves on the surfability of incoming wave forms on a wave-by-wave basis. Results found that the breaking mechanics of the surf break is controlled not only by nearshore bathymetry around break point but also offshore features which cause focusing of wave energy. The uplift has caused significant changes to the breaking characteristics, with increased wave focusing, breaking and dissipation. The proposed engineering works were found to potentially cause increased wave reflection at the outer part of the surf break during high water levels, however the spatial and temporal characteristics of this reflection mean that direct impacts on surfability are likely to be limited.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/u6nLAp-gQxw</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10371</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10371/9657</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Tom Shand, Simon Weppe, Peter Quilter, Andrew Short, Ben Blumberg, Richard Reinen-Hamill</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

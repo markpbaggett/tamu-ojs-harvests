@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5803</identifier>
+				<datestamp>2021-01-19T10:21:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SWASH ZONE MORPHODYNAMICS AND SEDIMENT TRANSPORT PROCESSES</dc:title>
+	<dc:creator xml:lang="en">Holland, K. Todd</dc:creator>
+	<dc:creator xml:lang="en">Sallenger, Asbury H.</dc:creator>
+	<dc:creator xml:lang="en">Raubenheimer, Britt</dc:creator>
+	<dc:creator xml:lang="en">Elgar, Steve</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">morphodynamics</dc:subject>
+	<dc:description xml:lang="en">Observations offoreshore morphologic change and swash flow velocities were made at Duck, NC in an effort to estimate cross-shore sediment flux magnitudes. The three-dimensional foreshore surface over an approximately 10 x 20m study area was determined repeatedly to roughly centimeter accuracy using a stereometric video method. Sediment flux magnitudes derived from the temporal gradient of these data showed erosion rates of over 25 cm/hr. Near-bed, cross-shore swash velocities were measured at multiple cross-shore locations using a separate video technique. Swash velocities estimated using this method were found to be consistent with current measurements obtained using acoustic Doppler and ducted impeller current meters. The swash zone profile observations and velocity estimates were used to test an energetics-based total load sediment transport model. Although the trends of both the model and the observations were qualitatively consistent, the magnitudes and positioning of observed sediment fluxes did not match the transport model predictions. This discrepancy implies that other factors, such as water depth variations, infiltration, or sediment advection, may be important.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5803</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5803/5471</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

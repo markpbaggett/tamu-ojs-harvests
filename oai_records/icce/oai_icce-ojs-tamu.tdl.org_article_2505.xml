@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2505</identifier>
+				<datestamp>2021-01-17T04:44:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE CHARACTERISTICS OF WIND-WAVES GENERATED IN THE LABORATORY</dc:title>
+	<dc:creator xml:lang="en">Lee, Theodore E.</dc:creator>
+	<dc:subject xml:lang="en">wave characteristics</dc:subject>
+	<dc:subject xml:lang="en">laboratory waves</dc:subject>
+	<dc:description xml:lang="en">Wind-wave characteristics were recorded in the laboratory for the primary purposes of (a) analysis of the probability distribution of wave height and wave period with wind speed, water depth, and fetch length as major parameters, and (b) comparison of the test results with existing theory and empirical formulae. An important aspect of this study was to test the validity of the Tucker and Draper method (Draper, 1966) for the presentation of ocean wave data as applicable to wave-data analysis for simulated wind waves. It was interesting to note that some corrections were necessary when the method proposed by Draper at the 10th Coastal Engineering Conference was used for analyzing waves generated in the laboratory. Approximately a positive 20% correction was necessary for this study in which the wave spectra distribution is of very narrow range, the wave width parametere = V1-(T /T ) varles from 0.25 to 0.50, where Tc and T2 represent crest wave period ana zero-crossing wave period, respectively. However, only a negative 5% correction was necessary when the method was used to analyze sea waves (e = 0 73 to 0 76) measured off the shoreline near Look Laboratory Therefore, it was concluded that the Tucker and Draper Method is quite feasible for engineering purposes in analyzing wind-waves having a spectral width parameter of 0.60 to 0.75 The experimental data were compared with those wave heights predicted by the Darbyshire formulas (Francis, 1959) developed for ocean waves. A significant correction factor was necessary for laboratory waves produced by low-speed wi nds. The "fetch graph" was prepared and compared with those developed theoretically by Hino (1966) and empirically by Ijima and Tang (1966) at the 10th Conference on Coastal Engineering, Tokyo, Japan Comparison was also made with the previous empirical formulae by Bretschneider (1951, 1957), Sverdrup and Munk (1947), and Wilson (1961,1962). The experimental results compared well with the Hino theory for both wave heights and wave periods, and fairly well with Bretschneider's fetch graph for wave heights The difference in the comparison of wave data with other investigators is illustrated in this paper. It is recommended that further study be made with emphasis on (a) theoretical and experimental studies of wind-wave characteristics on pre-existing waves, particularly moving storms, (b) wave-energy spectra involving stochastic characteristics and extreme values of wind waves</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2505</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2505/2171</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

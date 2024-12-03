@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4387</identifier>
+				<datestamp>2021-01-19T18:17:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORCE ON A CURTAIN-WALL-TYPE BREAKWATER DUE TO OBLIQUELY INCIDENT WAVES</dc:title>
+	<dc:creator xml:lang="en">Sekimoto, Tsunehiro</dc:creator>
+	<dc:creator xml:lang="en">Kondo, Kosuke</dc:creator>
+	<dc:creator xml:lang="en">Ohshimo, Tetsunori</dc:creator>
+	<dc:subject xml:lang="en">obliquely incident waves</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">curtain wall breakwater</dc:subject>
+	<dc:description xml:lang="en">Assessment of the characteristics of the wave force on the curtain-wall-type breakwater, due to obliquely incident waves, was conducted through numerical calculation, laboratory and field experiments. In the numerical calculations, the Boundary Integral Equation Method (BIEM) for obliquely incident waves was used. From the results of calculation and laboratory experiment, design graphs for estimating design wave force were established and the validity of the diagrams was verified through comparison with the results of laboratory and field experiments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4387</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.180</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 180</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4387/4068</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

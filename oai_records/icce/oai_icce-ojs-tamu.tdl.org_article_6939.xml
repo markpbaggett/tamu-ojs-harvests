@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6939</identifier>
+				<datestamp>2023-10-04T02:50:46Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A MULTIPLE-SIZED TRANSPORT FORMULA FOR NONUNIFORM SEDIMENTS UNDER CURRENT AND WAVES</dc:title>
+	<dc:creator xml:lang="en">Wu, Weiming</dc:creator>
+	<dc:creator xml:lang="en">Lin, Qianru</dc:creator>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">multiple-sized sediments</dc:subject>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">Nonuniform sediment transport exhibits difference from uniform sediment, even when the mean grain size is the same for both cases. The hiding, exposure, and armoring among different size fractions in the nonuniform bed material may significantly affect sediment transport, morphological change, bed roughness, wave dissipation, etc. It is necessary to develop multiple-sized sediment transport capacity formula to improve the accuracy and reliability of coastal analysis tools. The Wu et al. (2000) formula, which was developed for river sedimentation, is herein extended to calculate multiple-sized sediment transport under current and waves for coastal applications. This formula relates bed-load transport to the grain shear stress and suspended-load transport to the energy of the flow system. It considers the effect of bed material size composition in the hiding and exposure correction factor, which is omitted in many other existing formulas. Methods have been developed in this study to determine the bed shear stress due to waves only and combined current and waves, and in turn to compute the bed-load and suspended-load transport rates using the Wu et al. (2000) formula without changing its original formulation. The enhanced bed-load formula considers the effect of wave asymmetry on sediment transport, calculates the onshore and offshore bed-load transport rates separately and then derives the net transport rate, whereas the enhanced suspended-load formula calculates only the net transport rate due to the limit of available data. The formula has been tested using the single-sized and multiple-sized sediment transport data sets. The formula provides reliable predictions in both fractional and total transport rates. More than half of the test cases are predicted within a factor of 2 of the measured values, and more than 90% of the cases are within a factor of 5. This accuracy is generally reasonable for sediment transport under current and waves, which is very complex and little understood.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6939</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6939/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

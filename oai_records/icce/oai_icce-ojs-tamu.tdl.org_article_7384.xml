@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7384</identifier>
+				<datestamp>2021-01-19T04:46:18Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NEW CALIBRATION METHOD APPLICABLE TO SIGNIFICANT WAVE HEIGHTS OBTAINED BY X-BAND RADAR</dc:title>
+	<dc:creator xml:lang="en">Ahn, Kyungmo</dc:creator>
+	<dc:creator xml:lang="en">Chun, Jeho</dc:creator>
+	<dc:creator xml:lang="en">Cheon, Se-Hyeon</dc:creator>
+	<dc:subject xml:lang="en">significant wave height</dc:subject>
+	<dc:subject xml:lang="en">X-band radar</dc:subject>
+	<dc:subject xml:lang="en">calibration</dc:subject>
+	<dc:subject xml:lang="en">Bragg resonance</dc:subject>
+	<dc:description xml:lang="en">This paper presents a new calibration method of wave heights obtained using marine X-band radar wave measurement system. 
+Realtime information about sea state, such as wave height, period, and direction, is crucial for coastal protection as well as offshore operational management. In the last 30 years, routine sea state measurements have been carried out using different measuring devices such as mooring buoys, pressure gages, and acoustic type gages. Although such devices provide reliable measurements, they are subject to frequent damages and losses. Therefore, considerable interest has been shown lately in the use of remote sensing techniques to measure waves and surface currents.
+In recent years, it has been demonstrated that radar images of the ocean surface provide reliable information about the spatial behavior of wave fields. Many systems which utilize a commercial marine X-band radar for providing time series of radar backscatter images from the sea surface have been developed. (Borge et al., 2004, Plant and Zunk, 1997 )
+Wave measurement system using marine X-band radar has many advantages over conventional wave gages, which are  more robust in severe sea state, easy to maintain, economic maintenance cost, etc. However, one critical shortcoming of X-band radar system using in operational wave measurements is inaccuracy in the estimation of wave heights during weak local wind conditions. This is a critical weakness when people try to use measured wave data in the statistical estimation of design waves.
+It is not an easy task to overcome this critical shortcoming. It is because this problem resides in the X-band radar system's inherent sea surface scanning mechanism, which is called Bragg Resonance mechanism.
+It is known that under various conditions signatures of the sea surface are visible in the near ranges (usually less than 5.4 km) of marine radar images. These signatures are known as sea clutter because they are undesirable for navigational purposes and generally suppressed by filter algorithm. Sea clutter is mainly due to the backscatter through Bragg resonance with ocean waves of wavelengths similar to those of the transmitted electromagnetic waves. The longer waves become visible in the radar images because they modulate the sea clutter signals.  
+For the case of X-band radar (frequency of 9.4 GHz), sea surface with ripple waves (wavelength of about 2 cm) provide Bragg resonance, henceforth results in accurate estimation of wave heights. On the other hand, swell waves without ripples when no local wind available, are tend to be significantly underestimated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7384</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7384/pdf_742</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7384/7729</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

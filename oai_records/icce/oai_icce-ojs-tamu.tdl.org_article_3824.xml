@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3824</identifier>
+				<datestamp>2021-01-19T21:32:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VERIFICATION OF KIMURA's THEORY FOR WAVE GROUP STATISTICS</dc:title>
+	<dc:creator xml:lang="en">Battjes, J.A.</dc:creator>
+	<dc:creator xml:lang="en">van Vledder, G.Ph.</dc:creator>
+	<dc:subject xml:lang="en">Kimura's Theory</dc:subject>
+	<dc:subject xml:lang="en">verification of theory</dc:subject>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">wave statistics</dc:subject>
+	<dc:description xml:lang="en">North Sea wave records, obtained in conditions of active wave generation, have been analyzed with respect to the distribution of the length of wave groups. The results are compared to a theory by Kimura, in its original form as well as with the addition of a new spectral wave groupiness parameter, based on the theory of Gaussian processes. The results lend support to the validity of Kimura's theory, this in turn implies further evidence that the phenomenon of wave groups in sea waves can by and large be explained, both qualitatively and quantitatively, in terms of the linear, random phase model for the wave motion, even in conditions of active wave generation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3824</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3824/3507</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

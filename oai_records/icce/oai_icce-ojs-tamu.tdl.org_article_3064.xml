@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3064</identifier>
+				<datestamp>2021-01-20T01:53:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHARACTERISTIC WAVE PERIOD</dc:title>
+	<dc:creator xml:lang="en">Manohar, M.</dc:creator>
+	<dc:creator xml:lang="en">Mobarek, I.E.</dc:creator>
+	<dc:creator xml:lang="en">El Sharaky, N.A.</dc:creator>
+	<dc:subject xml:lang="en">wave period</dc:subject>
+	<dc:subject xml:lang="en">characteristic period</dc:subject>
+	<dc:description xml:lang="en">The wave period estimates obtained from different procedures are not consistent unlike statistical distribution analysis of wave heights. Thus not one definition of wave period is satisfactory for engineering analysis of coastal processes. There are at least 10 different measures of wave periods including the zero up-crossing period, the average wave period, significant height period and peak of the energy density spectrum period. For Lhe analysis of periods, 20 min. records were obtained from offshore pressure recorders. Summer and winter records were analysed separately. In the analysis, zero up-crossing period and average period were taken as reference periods. There were significant differences between the wave periods and they were found to depend also on the spectral width parameter. Finally comparison was made between the energy flux obtained under the spectral diagrams and energy flux obtained using various wave periods and heights. Study shows that if the total energy flux is desired, then the most appropriate values to be used are the root mean square wave height and period corresponding to that wave height. Use of significant wave height, along with zero up-crossing period gives higher values.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3064</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3064/2729</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

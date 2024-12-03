@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12640</identifier>
+				<datestamp>2023-09-01T15:11:38Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL WAVE OVERTOPPING: NEW NOWCAST AND MONITORING TECHNOLOGIES</dc:title>
+	<dc:creator xml:lang="en">Brown, Jennifer</dc:creator>
+	<dc:creator xml:lang="en">Yelland, Margaret</dc:creator>
+	<dc:creator xml:lang="en">Masselink, Gerd</dc:creator>
+	<dc:creator xml:lang="en">Poate, Tim</dc:creator>
+	<dc:creator xml:lang="en">Stokes, Kit</dc:creator>
+	<dc:creator xml:lang="en">Pascal, Robin</dc:creator>
+	<dc:creator xml:lang="en">Jones, David</dc:creator>
+	<dc:creator xml:lang="en">Cardwell, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Walk, John</dc:creator>
+	<dc:creator xml:lang="en">Martin, Barry</dc:creator>
+	<dc:creator xml:lang="en">Ganderton, Peter</dc:creator>
+	<dc:creator xml:lang="en">Darroch, Louise</dc:creator>
+	<dc:creator xml:lang="en">Gardner, Tom</dc:creator>
+	<dc:description xml:lang="en">It is projected that global mean sea level could rise up to 1 m this century with a strong regional pattern. It is estimated that 20percent of England’s coastal defenses could fail under just half this rise. Ambitious climate mitigation and adaptation plans may protect 400,000 – 500,000 people, but flood and coastal erosion risks cannot be fully eliminated. Building coastal climate resilience requires accurate wave overtopping prediction tools and nowcast information to prepare for and respond to coastal hazards. In Dawlish, SW England, a new monitoring system to measure concurrent beach level and wave overtopping conditions over a 1-year period was installed. The system obtains in-situ measurements of the inland wave overtopping distribution across a public walkway and railway line, and issues near real-time overtopping data to the British Oceanographic Data Centre, making it accessible online within 15 minutes of detection. This public web service also ingests near-real time wave and water level data from existing national coastal monitoring networks, providing a full dataset to validate and calibrate an operational wave, water-level and overtopping forecast system. Using these data, the numerical forecasts have been refined by incorporating recent beach levels to reduce the uncertainty in the wave overtopping predictions due to seasonal variability in the beach level at the toe of the sea wall.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12640</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12640/11913</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Jennifer Brown, Margaret Yelland, Gerd Masselink, Tim Poate, Kit Stokes, Robin Pascal, David Jones, Christopher Cardwell, John Walk, Barry Martin, Peter Ganderton, Louise Darroch, Tom Gardner</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

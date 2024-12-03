@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4269</identifier>
+				<datestamp>2021-01-19T18:57:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REALIZABLE WAVE PARAMETERS IN A LABORATORY FLUME</dc:title>
+	<dc:creator xml:lang="en">Funke, E.R.</dc:creator>
+	<dc:creator xml:lang="en">Mansard, E.P.D.</dc:creator>
+	<dc:creator xml:lang="en">Dai, G.</dc:creator>
+	<dc:subject xml:lang="en">laboratory flume</dc:subject>
+	<dc:subject xml:lang="en">wave parameters</dc:subject>
+	<dc:description xml:lang="en">In order to establish a sound basis for the methodology deployed for the generation of realistic waves under laboratory conditions, a comparison is presented between numerical and physical realizations derived from the Random Phase and the Random Complex Spectrum method for wave synthesis. The comparisons are made in terms of 12 critical wave parameters, including three wave grouping parameters. The results indicate that, for the physical realizations of the limited conditions tested, the two methods give compatible results which fall within the expected band of variability. All physical waves undergo some evolutionary change during propagation which affects predominantly the spectral characteristics. For physical waves produced by the Random Phase method, this change increases the variability of some wave parameters. A sample analysis of one case, applying second order wave and wave generation theory to a numerical simulation, suggests that certain differences between numerical and physical simulations can be explained by non-linear wave theory.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4269</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.62</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 62</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4269/3950</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

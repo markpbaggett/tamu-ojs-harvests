@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4348</identifier>
+				<datestamp>2021-01-19T18:31:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHORELINE AT JETTY DUE TO CYCLIC AND RANDOM WAVES</dc:title>
+	<dc:creator xml:lang="en">Walton, Todd L.</dc:creator>
+	<dc:creator xml:lang="en">Liu, Philip L.F.</dc:creator>
+	<dc:creator xml:lang="en">Hands, Edward B.</dc:creator>
+	<dc:subject xml:lang="en">random waves</dc:subject>
+	<dc:subject xml:lang="en">jetty</dc:subject>
+	<dc:subject xml:lang="en">cyclic waves</dc:subject>
+	<dc:description xml:lang="en">This paper examines the effects of random and deterministic cycling of wave direction on the updrift beach planform adjacent to a jetty. Results provided using a simplified numerical model cast in dimensionless form indicate the importance of the time series of wave direction in determining design jetty length for a given net sediment transport. Continuous cycling of - wave direction leads to the expected analytical solution. Simplications in the numerical model used restrict the applications to small wave angles, no diffraction, no reflection of waves off structure, no refraction, and no sand bypassing at jetty. The concept can be extended to more sophisticated numerical models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4348</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.141</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 141</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4348/4029</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6617</identifier>
+				<datestamp>2023-10-04T03:11:47Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LITTORAL TRANSPORT MODELING FOR OCEAN BEACH AND SAN FRANCISCO BIGHT, CALIFORNIA</dc:title>
+	<dc:creator xml:lang="en">Lin, Lihwa</dc:creator>
+	<dc:creator xml:lang="en">Li, Honghai</dc:creator>
+	<dc:creator xml:lang="en">Wu, Frank</dc:creator>
+	<dc:creator xml:lang="en">Andes, Lisa</dc:creator>
+	<dc:subject xml:lang="en">beach nourishment</dc:subject>
+	<dc:subject xml:lang="en">beneficial use</dc:subject>
+	<dc:subject xml:lang="en">nearshore berm</dc:subject>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">Ocean Beach</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:description xml:lang="en">This paper presents the littoral sediment transport numerical modeling effort of simulating physical processes of high energy coastline, including inlet and coastal zone, at Ocean Beach and San Francisco Bight, California. The study site is dominated by strong tidal current and breaking wave-induced longshore current. The numerical models for waves, currents, water levels, and sediment transport are provided by the Coastal Modeling System developed at the US Army Engineer Research and Development Center. The water level, current, wave, sediment, and bathymetric data collected by the US Army Engineer District, San Francisco, and USGS in recent years are assembled and utilized for model calibration and validation. One main effort of the study is to demonstrate the beneficial use of dredged clean material from the ship channel maintenance for onshore beach nourishment and nearshore berm placement at Ocean Beach to remediate the chronicle erosion threatening the structural integrity of the adjacent Great Highway. The modeling effort is intended to guide future dredging activities, dredged material placement site selection and evaluation, beneficial use of dredged material for nearshore and onshore beach nourishment for shore and beach protection. The model result can support and improve decision making for regional and local sediment management, enhance cross-mission benefit, and ultimately reduce the dredging project life-cycle costs.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6617</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6617/pdf_604</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

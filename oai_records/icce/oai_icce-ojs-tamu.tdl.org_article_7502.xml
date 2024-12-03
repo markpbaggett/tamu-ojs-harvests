@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7502</identifier>
+				<datestamp>2021-01-19T04:35:28Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING SCOUR IN FRONT OF DUNE REVETMENTS IN A SURF-BEAT MODEL</dc:title>
+	<dc:creator xml:lang="en">Van Geer, Pieter F. C.</dc:creator>
+	<dc:creator xml:lang="en">Van Thiel de Vries, Jaap S.M.</dc:creator>
+	<dc:creator xml:lang="en">Boers, Marien</dc:creator>
+	<dc:creator xml:lang="en">den Bieman, Joost P.</dc:creator>
+	<dc:creator xml:lang="en">McCall, Robert T.</dc:creator>
+	<dc:subject xml:lang="en">dune erosion</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">scour</dc:subject>
+	<dc:subject xml:lang="en">dune revetment</dc:subject>
+	<dc:description xml:lang="en">This paper presents adaptations to the XBeach model aimed at including the relevant processes for the generation of scour holes at the toe of a revetment. Dutch assessment rules for the safety of sea defenses need to be adjusted to cope with a combination of sandy dunes and hard elements. To that end, the XBeach model is prepared to be incorporated in the assessment rules. Until now, XBeach did not model scour hole development in front of dune revetments accurately. We suggest to include the advection of turbulence as well as the effect of backwash of short waves that creates additional turbulence in the model. Verification with three physical model experiments shows that with the suggested adaptations of the model a scour hole with significant depth can be modeled.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7502</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7502/pdf_778</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

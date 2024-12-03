@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6662</identifier>
+				<datestamp>2023-10-04T03:05:51Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF A PARAMETRIC-TYPE WAVE TRANSFORMATION MODEL AGAINST FIELD AND LABORATORY DATA</dc:title>
+	<dc:creator xml:lang="en">Jafari, Alireza</dc:creator>
+	<dc:creator xml:lang="en">Cartwright, Nick</dc:creator>
+	<dc:subject xml:lang="en">Wave transformation model</dc:subject>
+	<dc:subject xml:lang="en">surfzone hydrodynamics</dc:subject>
+	<dc:subject xml:lang="en">wave energy dissipation</dc:subject>
+	<dc:subject xml:lang="en">field data</dc:subject>
+	<dc:subject xml:lang="en">storm condition</dc:subject>
+	<dc:description xml:lang="en">Predicting wave properties via parametric wave propagation models are broadly used in many coastal engineering applications. Numerous researchers have refined these types of models to increase their accuracy including;  Battjes and Janssen (1978), Thornton and Guza (1983), Baldock et al. (1998), and Alsina and Baldock (2007). Alsina and Baldock (2007), proposed an improved parametric wave propagation models for a non-saturated surfzone which returns relatively more accuracy in comparison to others. In this paper, the Alsina and Baldock (2007) model along with Baldock et al. (1998) and Thornton and Guza (1983), are applied to data collected in South-East Queensland under stormy and calm conditions as well as laboratory data. Some of the comparisons indicate the need to incorporate some additional energy loss at the break point to account for plunging type breakers where the existing bore dissipation model is insufficient.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6662</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6662/pdf_641</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2189</identifier>
+				<datestamp>2021-01-17T06:05:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HURRICANE TIDE PREDICTION FOR NEW YORK BAY</dc:title>
+	<dc:creator xml:lang="en">Wilson, Basil W.</dc:creator>
+	<dc:subject xml:lang="en">hurricane</dc:subject>
+	<dc:subject xml:lang="en">tide prediction</dc:subject>
+	<dc:subject xml:lang="en">New York Bay</dc:subject>
+	<dc:subject xml:lang="en">surge</dc:subject>
+	<dc:description xml:lang="en">This paper is concerned with the solution of the problem of correlating, on a two-dimensional basis, the meteorological parameters of several off-shore storms with the known surge induced by them in New York Bay and with the application of the results to the prediction of likely effects in New York Bay from a design hurricane of given strength traversing a given path at a given speed. A purely theoretical approach would have been beyond practical possibility within the time available for this study; the method adopted therefore is empirical but with some degree of theoretical guidance. A recursion formula is evolved, using the method of finite differences for time increments of 1/3 hour, which relates tide elevation at the bay-mouth with two values of the elevation at 1/3 and 2/3 hour earlier and with values of wind-stress and pressure-gradient driving-force components (directed towards New York Bay from several remote two-dimensionally spaced offshore-stations on the continental shelf) at times earlier by the periods taken for free long gravity waves to travel from the stations to the bay-mouth. The formula includes a comulative forcing function term which allows for the geostrophic influence of the earth's rotation and also for an "edge-wave" effect northward along the eastern seaboard. Moreover it takes into account the observed tendencies of hurricane storm tides in New York Bay to develop resurgences at periods of 7 hours with decay rates of 50% amplitude decrease per cycle. The coefficients of the "forcing functions", determined by correlation, tend to represent the storm size and speed and also the dynamic augmentation of the forced wave. Predicted maximum storm tide heights are in fair agreement with crude empirical estimates based on central pressures within the hurricanes. Predictions, however, provide complete time-sequences of water level for periods up to 24 hours inclusive of the first resurgence after the main surge.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1960-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2189</dc:identifier>
+	<dc:identifier>10.9753/icce.v7.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 7 (1960): Proceedings of 7th Conference on Coastal Engineering, The Hague, The Netherlands, 1960.; 30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2189/1883</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

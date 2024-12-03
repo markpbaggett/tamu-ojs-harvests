@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6741</identifier>
+				<datestamp>2023-10-04T02:57:46Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF MAXIMUM POSSIBLE STORM SURGES IN ISE BAY UNDER A FUTURE CLIMATE</dc:title>
+	<dc:creator xml:lang="en">Murakami, Tomokazu</dc:creator>
+	<dc:creator xml:lang="en">Yoshino, Jun</dc:creator>
+	<dc:creator xml:lang="en">Yasuda, Takashi</dc:creator>
+	<dc:subject xml:lang="en">storm surge</dc:subject>
+	<dc:subject xml:lang="en">typhoon</dc:subject>
+	<dc:subject xml:lang="en">future climate</dc:subject>
+	<dc:subject xml:lang="en">Ise Bay</dc:subject>
+	<dc:subject xml:lang="en">numerical simulation</dc:subject>
+	<dc:description xml:lang="en">This study aims at investigating space and time-distributions of possible maximum storm surges in Ise Bay caused by potential typhoons based on the SRES A1B scenario. Initial fields of 50 potential typhoons were provided by using potential vorticity bogussing scheme of a tropical cyclone. Then, the distributions over the whole area of Ise Bay under the 50 initial fields were predicted by using an atmosphere-ocean-wave coupled model. The results show that all storm tides in Nagoya Port caused by the 50 potential typhoons exceed 3.5 m which is the largest storm tide ever recorded in Japan and that its maximum value reaches 6.9 m.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6741</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6741/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

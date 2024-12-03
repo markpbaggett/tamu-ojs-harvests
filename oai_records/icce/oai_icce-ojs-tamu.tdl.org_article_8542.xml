@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8542</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN EVALUATION OF SUSPENDED SEDIMENT CONCENTRATION MODELS UNDER BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Lim, Gabriel</dc:creator>
+	<dc:creator xml:lang="en">Jayaratne, Ravindra</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:description xml:lang="en">Implementing the effects of turbulent kinetic energy (TKE) is essential in producing accurate suspended sediment concentration (SSC) models, especially under breaking wave conditions. SSC is commonly attributed to two different turbulent sources under breaking wave conditions: 1) bed-friction and 2) breaking-induced turbulent vortices. Numerous studies have endeavoured to quantify the effects of TKE and incorporate them into SSC models. To name a few: Mocke &amp; Smith (1992, henceforth MS92), Shibayama &amp; Rattanapitikon (1993, henceforth SR93), Jayaratne &amp; Shibayama (2007, henceforth JS07), and Yoon et al. (2015, henceforth Y15). The present study evaluates these 4 existing SSC models and validates them against recently published datasets from the 'CROSSTEX' (Yoon &amp; Cox, 2010), 'SandT-Pro' (Ribberink et al., 2014) and 'SINBAD' (vdZ et al. 2015) projects. Following critical evaluation, suggestions are made to enhance existing SSC models, and these findings are then incorporated into producing two new SSC models that indicate improved accuracy.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8542</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8542/7346</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8542/7963</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8362</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL CALCULATION FOR INTERNAL WAVES OVER TOPOGRAPHY</dc:title>
+	<dc:creator xml:lang="en">Kakinuma, Taro</dc:creator>
+	<dc:creator xml:lang="en">Ochi, Naoto</dc:creator>
+	<dc:creator xml:lang="en">Yamashita, Kei</dc:creator>
+	<dc:creator xml:lang="en">Nakayama, Keisuke</dc:creator>
+	<dc:description xml:lang="en">The internal waves propagating from the deep to shallow, and the shallow to deep, areas in the two-layer fluid systems, have been numerically simulated by solving the set of nonlinear equations, based on the variational principle in consideration of both the strong nonlinearity and strong dispersion of internal waves. The incident wave in the deep area, is the BO-type downward convex internal wave, which is the numerical solution obtained for the present fundamental equations. In the cases where the interface elevation is below, or equal to, the critical level in the shallow area, the disintegration of the internal waves occurs remarkably, leading to a long wave train. The lowest elevation of the interface, increases after its gradual decrease in the shallow area, where the interface is above the critical level, while the lowest elevation of the interface, increases through the internal-wave propagation in the shallow area, where the interface elevation is below, or equal to, the critical level, after its steep decrease around the boundary between the area over the upslope, and the shallow region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8362</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.64</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.64</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8362/7170</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

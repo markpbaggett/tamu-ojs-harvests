@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6497</identifier>
+				<datestamp>2023-10-04T03:28:50Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF WAVE INTERACTION WITH SUBMERGED ADJACENT PORO-ELASTIC BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Lan, Yuan-Jyh</dc:creator>
+	<dc:creator xml:lang="en">Hsu, Tai-Wen</dc:creator>
+	<dc:creator xml:lang="en">Chen, Ching-Yu</dc:creator>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">submerged poro-elastic structures</dc:subject>
+	<dc:subject xml:lang="en">closely adjacent breakwaters</dc:subject>
+	<dc:subject xml:lang="en">interaction</dc:subject>
+	<dc:description xml:lang="en">In this study, the problem of wave interaction with two closely submerged adjacent porous elastic breakwaters is investigated theoretically. The porous elastic breakwaters are assumed to be homogeneous, isotropic and elastic. Lan and Lee's (2010) analytical solution is extended to the problem subject to proper boundary conditions. Using general solutions for each region and the matching boundary conditions, a set of simultaneous equations is thus developed and solved numerically. The present analytic solutions compare favorably with simplified cases of the poro-elastic submerged breakwater. Changes of the width of two adjacent breakwaters, the permeable coefficient effect on wave profile, and the effect of materials and configurations of breakwaters on wave variation are the focus of the present paper. The results show that a large amount of energy dissipates when the adjacent structures both have the same soft material and dimension of width with higher permeability. Different materials and shapes of structures could significantly influence the reflection coefficient.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6497</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.structures.31</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; structures.31</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6497/pdf_502</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

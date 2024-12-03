@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3624</identifier>
+				<datestamp>2021-01-19T22:42:28Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STATE OF THE ART IN TIDE PREDICTIONS</dc:title>
+	<dc:creator xml:lang="en">Zelter, B.D.</dc:creator>
+	<dc:subject xml:lang="en">tide prediction</dc:subject>
+	<dc:subject xml:lang="en">prediction</dc:subject>
+	<dc:description xml:lang="en">By the end of the nineteenth century, scientists had succeeded in achieving the ability to make reasonably accurate tide predictions by the harmonic method (Schureman, 1941). Except for the building of larger and more sophisticated mechanical tide prediction machines using the harmonic technique, tidal mathematicians more or less rested on their laurels during the first half of the twentieth century; indeed, many scientists assumed there was no need for further tidal research. It is ironic that one of the very few geophysical sciences that already had acceptable methods of prediction should become the subject of significant improvement during the last half of this century. These improvements include: 1) least square analysis for all tidal constituents simultaneously, 2) response analysis and prediction, 3) extended harmonic analysis, 4) tidal measurements in deep water on the ocean floor, and 5) global numerical models of tides.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3624</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3624/3307</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

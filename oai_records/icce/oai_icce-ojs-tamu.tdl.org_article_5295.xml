@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5295</identifier>
+				<datestamp>2021-01-19T13:08:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE ROLE OF WAVE-INDUCED SHEAR STRESSES IN THE MOMENTUM BALANCE EQUATIONS</dc:title>
+	<dc:creator xml:lang="en">Rivero, Francisco J.</dc:creator>
+	<dc:creator xml:lang="en">S.-Arcilla, Agustin</dc:creator>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">momentum balance</dc:subject>
+	<dc:description xml:lang="en">The wave-induced shear stresses, which result from the correlation between horizontal and vertical components of the oscillatory velocity after timeaveraging the horizontal momentum balance equations, are shown in this paper to play an important role in vertical circulation analysis, having the same order of magnitude than other wave-induced (normal) stresses. The model of Rivero and Arcilla (1995) to calculate the wave-induced shear stress for a 2DV situation, based on a mathematical identity that relates this stress to the wave-induced normal stresses and the oscillatory vorticity, is now extended to a general 3D flow. The consequences of neglecting the wave-induced shear stresses are shown to be an overprediction of the waves effect on the description of the vertical profiles of the mean (current) velocity. Theoretical examples of such effects are presented and discussed for some simplified situations (the undertow and longshore current vertical profiles).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5295</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5295/4973</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

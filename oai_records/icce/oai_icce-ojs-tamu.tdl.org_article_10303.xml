@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10303</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NATIONAL NONTIDAL SEA LEVEL FORECASTS ON A COASTAL WAVEGUIDE</dc:title>
+	<dc:creator xml:lang="en">Taylor, Andy</dc:creator>
+	<dc:creator xml:lang="en">Greenslade, Diana</dc:creator>
+	<dc:creator xml:lang="en">Zhou, Xiaobing</dc:creator>
+	<dc:creator xml:lang="en">Brassington, Gary</dc:creator>
+	<dc:description xml:lang="en">An approach to reduce gridded forecast data to novel waveguide coordinates is demonstrated; informed by the literature on coastally trapped waves. This does not produce new forecasts per se, but reduces data to a useful model-independent physically ordered array. Discussion is limited to the Australian mainland and forecast systems currently maintained in national operations. Heterogenous forecast models are considered with regard to the development of "seamless" sea level services across timescales.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/jlJO_dxHwuw</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10303</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10303/9589</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Andy Taylor,Diana Greenslade,Xiaobing Zhou,Gary Brassington</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

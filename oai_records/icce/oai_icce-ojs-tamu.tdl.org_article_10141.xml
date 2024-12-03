@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10141</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATING PORT OPERATION DOWNTIME UNDER RCP8.5 CLIMATE CHANGE SCENARIO IN CHILEAN PORTS</dc:title>
+	<dc:creator xml:lang="en">Winckler, Patricio</dc:creator>
+	<dc:creator xml:lang="en">Esparza, Cesar</dc:creator>
+	<dc:creator xml:lang="en">Melo, Oscar</dc:creator>
+	<dc:creator xml:lang="en">Mora, Javiera</dc:creator>
+	<dc:description xml:lang="en">The economic costs of port operation downtime due to ocean swells under the RCP8.5 climate change scenario at 8 ports in Chile is evaluated. First, wave statistics for the historical period (1985-2004) and projection (2026-2045) are computed using WWIII and 6 wind models with good performance in Southeastern Pacific Ocean (Hemer, 2016). The model is calibrated with data from directional wave buoys and satellite tracks between 1980 and 2015 in Chilean coasts (Bey et al., 2016). Offshore wave data is transferred using SWAN to point in the vicinity of each port. Then, the downtime is computed by comparing wave climate and 4 different threshold values of Hs for port closure (PPEE, 1999) for representative vessels at each site. Historical and projected downtimes are expressed in hours per year. The difference in downtime between both periods is attributed to climate change. The economic impact associated with the downtime for both periods is finally estimated.Recorded Presentation from the vICCE (YouTube Link): https://www.youtube.com/watch?v=O1e_OvWAI8E</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10141</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.management.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; management.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10141/9427</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Patricio Winckler, Cesar Esparza, Oscar Melo, Javiera Mora</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6777</identifier>
+				<datestamp>2023-10-04T02:55:42Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN ENERGETIC TYPE MODEL FOR THE CROSS-SHORE DISTRIBUTION OF TOTAL LONGSHORE SEDIMENT TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Baykal, Cuneyt</dc:creator>
+	<dc:creator xml:lang="en">Ergin, AyÅŸen</dc:creator>
+	<dc:creator xml:lang="en">Guler, IÅŸıkhan</dc:creator>
+	<dc:subject xml:lang="en">longshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">cross-shore distribution</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:description xml:lang="en">This paper presents an energetic-based simple approach for the computation of cross-shore distribution of total longshore sediment transport (LST) rates. The proposed approach (Baykal 2012) follows similar assumptions with the given formula of Bayram et al. (2007) for the total LST rate (Qlst,t) across the surf zone and is applied to investigate the relation between the rate of dissipation in wave energy flux due to wave breaking and total longshore sediment flux using the available laboratory measurements of Wang et al. (2002) and Gravens and Wang (2007) and the field measurements carried out at Duck site, North Carolina, USA between years 1995-1998 (Miller 1999). The proposed approach is also compared with some of the available distributed total load models. From the comparative studies, it is found that the proposed approach shows good agreement with both the laboratory and field measurements, using a single empirical constant, both qualitatively and quantitatively, especially for the cases where the wave conditions are highly energetic (both for plunging and spilling type breakers) and the suspended load is the main mode of sediment transport in the surf zone.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6777</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6777/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

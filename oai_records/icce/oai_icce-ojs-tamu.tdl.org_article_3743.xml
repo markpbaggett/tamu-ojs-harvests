@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3743</identifier>
+				<datestamp>2021-01-19T22:02:01Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IRREGULAR WAVE TESTS FOR COMPOSITE BREAKWATER FOUNDATIONS</dc:title>
+	<dc:creator xml:lang="en">Tanimoto, Katsutoshi</dc:creator>
+	<dc:creator xml:lang="en">Yagyu, Tadahiko</dc:creator>
+	<dc:creator xml:lang="en">Goda, Yoshimi</dc:creator>
+	<dc:subject xml:lang="en">irregular wave</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">breakwater foundation</dc:subject>
+	<dc:subject xml:lang="en">composite breakwater</dc:subject>
+	<dc:description xml:lang="en">The stability of armor units for the rubble mound foundations of composite breakwaters has been investigated under the action of irregular waves. The tests establish that irregular waves are more destructive than regular waves, when the height of regular waves is set equal to the significant wave height. The stability number, defined by Hudson, for quarry stones and concrete blocks with simple shapes is formulated on the basis of irregular wave tests. The stability number is expressed by two parameters of h'7/7]/3 and K, where h' is the crest depth of the rubble mound foundation, #1/3 is the design significant wave height, and K is a parameter for the combined effects of the relative water depth and the relative berm width of the rubble mound foundation to the wavelength. The design mass of armor units can be calculated by the stability equation with the stability number. The application of the proposed method to the results of the irregular wave tests demonstrates that the damage percent for the quarry stones is at most 3.5% at the design condition and the damage progresses rather gradually for the action of higher waves. On the other hand, the damage of the concrete blocks almost jumps beyond the design wave height. In particular, the drastic damage is often caused in the case of high rubble mound foundations. The proposed method is confirmed, however, to be applicable for the ordinary low mound foundations with a sufficient safety.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1982-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3743</dc:identifier>
+	<dc:identifier>10.9753/icce.v18.128</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 18 (1982): Proceedings of 18th Conference on Coastal Engineering, Cape Town, South Africa, 1982.; 128</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3743/3426</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

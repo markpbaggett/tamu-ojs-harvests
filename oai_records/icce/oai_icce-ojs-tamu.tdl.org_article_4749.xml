@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4749</identifier>
+				<datestamp>2021-01-19T16:14:24Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STATISTICS OF WAVE GROUP PARAMETERS</dc:title>
+	<dc:creator xml:lang="en">van Vledder, Gerbrant Ph.</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">group parameters</dc:subject>
+	<dc:subject xml:lang="en">wave statistics</dc:subject>
+	<dc:description xml:lang="en">The statistical properties of four spectral shape parameters {Qp, Qe, K and v) and the correlation coefficient between succeeding wave heights (pHH) are investigated using field data and numerically simulated data. The effects of spectral smoothing, integration range and duration of the data record on estimates of these parameters are discussed. The relation between spectral shape and wave grouping is discussed in relation to Kimura's theory for group length statistics. A group length distribution independent method for computing this mean group length is introduced. Further, a comparison is made between time and frequency domain estimates of the correlation coefficient between successive wave heights. Observed discrepancies between them are analyzed and an improved method for the spectral computation of this coefficient is suggested .</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4749</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4749/4430</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

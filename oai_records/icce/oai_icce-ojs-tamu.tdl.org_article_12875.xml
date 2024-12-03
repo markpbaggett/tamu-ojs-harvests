@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12875</identifier>
+				<datestamp>2023-09-01T15:13:59Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GRASS SOD PULLING TESTS TO DETERMINE RESISTANCE AGAINST EROSION BY WAVE OVERTOPPING</dc:title>
+	<dc:creator xml:lang="en">Steendam, Gosse Jan</dc:creator>
+	<dc:creator xml:lang="en">Meer, Jenttsje van der</dc:creator>
+	<dc:creator xml:lang="en">Mom, André van Hoven, Roy</dc:creator>
+	<dc:description xml:lang="en">From 2007 wave overtopping tests with the Wave Overtopping Simulator (Van der Meer et al, 2008) have been performed on real dikes in order to determine the strength of grass covers against loads from wave overtopping. Over 15 different locations and over 50 different test sections have been tested. Most of these large scale tests have been performed on grass covers on a clay subsoil. As part of the tests since 2014, grass pull tests with a grass sod pulling device have been performed in order to estimate the critical velocity, the strength of the grass cover, on a specific subsoil with a small and easy to perform test. The critical velocity is derived from the critical normal stresses which are calculated from the force needed to pull out the grass sod and the dimensions of the pulled sod. The method of determining the critical velocity from grass pull tests has been validated with the results of tests with the Wave Overtopping Simulator. The practical, mobile and easy to perform grass pull tests can be used to evaluate the strength of grass covers over time after seeding and for an estimation of strength of existing grass covers on different subsoils.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12875</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12875/12148</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Gosse Jan Steendam, Jenttsje van der Meer, André van Hoven, Roy Mom</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10325</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN APPROACH FOR PROBABILISTIC TSUNAMI HAZARD ASSESSMENT AND APPLICATION TO SOUTHERN COASTAL AREAS OF CHINA</dc:title>
+	<dc:creator xml:lang="en">Zhang, Xiaoxuan</dc:creator>
+	<dc:creator xml:lang="en">Zhao, Guangsheng</dc:creator>
+	<dc:creator xml:lang="en">Niu, Xiaojing</dc:creator>
+	<dc:description xml:lang="en">Seismic tsunami poses risks to many coast areas. Strong earthquakes in the area of Manila Trench may produce large-scale seismic tsunamis in South China Sea. This study aims to conduct PTHA (Probabilistic Tsunami Hazard Assessment) for the southern coastal areas of China. Several methods have already been developed to carry out PTHA, e.g. Geist &amp; Parsons, (2006). However, there are multiple seismic parameters that affect the scale of seismic tsunamis, and those parameters are with strong uncertainties. For accurately assessing the tsunami hazard, a large number of scenarios are inevitably required to do the probabilistic statistical analysis. Therefore, existing methods do make some limits on seismic parameters to ensure the efficiency. In order to balance the accuracy and feasibility in PTHA, this study proposes a new approach.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/DllGeiaJBmo</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10325</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.currents.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; currents.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10325/9611</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Xiaoxuan Zhang, Guangsheng Zhao, Xiaojing Niu</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

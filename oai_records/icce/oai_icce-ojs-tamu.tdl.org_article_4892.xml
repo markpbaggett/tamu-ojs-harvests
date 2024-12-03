@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4892</identifier>
+				<datestamp>2021-01-19T15:25:32Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LOCAL SCOUR AROUND A LARGE CIRCULAR CYLINDER ON THE UNIFORM BOTTOM SLOPE DUE TO WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Saito, Eiichi</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:subject xml:lang="en">local scour</dc:subject>
+	<dc:subject xml:lang="en">cylinder</dc:subject>
+	<dc:subject xml:lang="en">uniform slope</dc:subject>
+	<dc:subject xml:lang="en">bottom slope</dc:subject>
+	<dc:description xml:lang="en">In recent years, many kinds of coastal structure, such as man-made island, large-scale piers, marinas and so on, are constructed in the coastal area. Local scour occur around a coastal structure due to waves and currents. The scouring around a structure is important in the estimation of stability of the structures. However, there are no standard of judgement of measures against scour around coastal structures. There are few investigations for mechanism of local scours around a large-scale structures. The dimension of large-scale structure is comparable to the wave length, and the wave field around them is complicated owing to the presence of diffracted waves. The mechanism of sand movement around a large circular cylinder were first investigated experimentally by Toue and Katui(1985). Saito et al.(1990) presented a numerical model for the bottom topography changes around a large circular cylinder. The model consisted of three submodels, that is, wave model, current model and sand transport model. In the model, the wave field was evaluated by using the linear theory derived by McCamy and Fuchs(1954). The current field was evaluated as sum of the depth-integrated current induced by the spatial variation of the radiation stress and the mass transport velocity in the vicinity of the bed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4892</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4892/4573</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

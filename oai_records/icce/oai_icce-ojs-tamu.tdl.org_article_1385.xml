@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1385</identifier>
+				<datestamp>2023-10-04T03:45:52Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL STUDY OF SOLITARY WAVE EVOLUTION OVER A 3D SHALLOW SHELF</dc:title>
+	<dc:creator xml:lang="en">Lynett, Patrick J.</dc:creator>
+	<dc:creator xml:lang="en">Swigler, David</dc:creator>
+	<dc:creator xml:lang="en">Son, Sangyoung</dc:creator>
+	<dc:creator xml:lang="en">Bryant, Duncan</dc:creator>
+	<dc:creator xml:lang="en">Socolofsky, Scott</dc:creator>
+	<dc:subject xml:lang="en">3D turbulence</dc:subject>
+	<dc:subject xml:lang="en">experiment</dc:subject>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">breaking</dc:subject>
+	<dc:description xml:lang="en">A laboratory experiment was performed to investigate the three-dimensional turbulence and kinematic properties that develop due to a breaking solitary propagating over an irregular shallow water bathymetry.  The bathymetry consisted of a deep water region connected to a shallow shelf via a relatively steep slope.  The offshore boundary of the shelf break varied in the longshore direction, such that the shelf had a triangular shape in plan view, with the widest part of the shelf along the basin centerline. Free surface elevations and fluid velocities were measured using wave gauges and three-dimensional acoustic-Doppler velocimeters (ADVs), respectively.  From the free surface elevations the evolution and runup of the wave was revealed; while from the ADVs, the velocity and turbulent energy was determined and specific turbulent events and coherent structures were identified.
+It was found that significant shoaling was confined to areas with gentler sloping bathymetry near the basin side walls and the runup varied weakly in the alongshore direction.  The runup was characterized by a refraction-generated jetting mechanism caused by the convergence of water mass near the basin centerline.  The jetting mechanism caused the greatest cross-shore velocities to be located near the basin centerline.  The greatest turbulent events were well correlated to borefronts, of which there were four, caused by the leading wave, beach reflections, and shelf-trapped oscillations.  Along the shelf break, a large, shallow-water eddy developed which was found to have a peculiar three-dimensional flow field, where maximum velocity components were found at mid-depth.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.openxmlformats-officedocument.presentationml.presentation</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/x-ms-wmv</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1385</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.1</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.1</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/pdf_364</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7698</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7699</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7700</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7701</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7702</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7703</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7704</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7705</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7706</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7707</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7708</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7709</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1385/7710</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

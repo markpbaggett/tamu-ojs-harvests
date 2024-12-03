@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8722</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF TSUNAMI FORCE IN THE PRESENCE OF BEACHSIDE STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Nakamura, Tomoaki</dc:creator>
+	<dc:creator xml:lang="en">Yamashima, Aya</dc:creator>
+	<dc:creator xml:lang="en">Mizutani, Norimi</dc:creator>
+	<dc:creator xml:lang="en">Cho, Yonghwan</dc:creator>
+	<dc:description xml:lang="en">The 2011 Tohoku earthquake tsunami caused a catastrophic disaster along the northeast coast of the Honshu Island, Japan. To deal with such massive tsunamis (identified as "level 2† tsunamis in Japan), the concept of disaster mitigation using multifaceted countermeasures is essential in addition to the construction of shore protection facilities for tsunamis at relatively high frequencies ("level 1† tsunamis). This study focused on one of such countermeasures, which involved beachside rigid structures. Such structures are expected to be effective for disaster mitigation because of the complementation of shore protection facilities by reducing tsunami force on rear buildings. To quantitatively evaluate the influence of beachside rigid structures on tsunami force, a three-dimensional (3-D) numerical analysis was performed using a 3-D coupled fluid-structure-sediment-seabed interaction model (FS3M; Nakamura and Mizutani, 2014).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8722</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.structures.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; structures.66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8722/7523</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8722/8090</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

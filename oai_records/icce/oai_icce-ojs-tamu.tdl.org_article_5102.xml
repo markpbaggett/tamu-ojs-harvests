@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5102</identifier>
+				<datestamp>2021-01-19T14:12:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF PARAMETERS, DIRECTION AND RATE OP BEDFORM MIGRATION</dc:title>
+	<dc:creator xml:lang="en">Kos'yan, R.D.</dc:creator>
+	<dc:creator xml:lang="en">Podymov, I.S.</dc:creator>
+	<dc:subject xml:lang="en">wave direction</dc:subject>
+	<dc:subject xml:lang="en">bedform migration</dc:subject>
+	<dc:subject xml:lang="en">migration rate</dc:subject>
+	<dc:description xml:lang="en">Special sensor was developed in the Southern Branch of of the P.P.Shirshov Institute of Oceanology, Russian Academy of Sciences Oceanology Institute, able to register variations of sediment layer thickness in any point of interest on reservoir, sea, channel or river bottom under any hydrodynamic conditions. Uninterrupted information on geometry, rate and direction of migration of bedforms (ripples, ridges, dunes, bars) in the chosen point of underwater slope can be obtained in the following manner. Three or more sensors are placed by a diver on bottom in a horizontal plane in apieces of equilateral triangle on metal girder. The construction is put deeper into ground to 20-25 cm. Distance between sensors and their spatial orientation are set beforehand. Height and "period" of sand bedforms are found from time variations of sediment layer thickness above any of the sensors. Rate and directions of their migration are calculated by time of bedform crest transit above sensors. Sand wave length is calculated from its "period" and migration rate. A series of laboratory and field experiments has been performed for the purpose of clearing up a sensor working capacity, calibrating and work methods.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5102</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5102/4780</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

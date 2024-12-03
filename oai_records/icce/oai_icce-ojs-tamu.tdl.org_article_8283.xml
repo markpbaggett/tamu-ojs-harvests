@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8283</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF A FLOOD RISK ASSESSMENT MODEL FOR A BRAIDED RIVER SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Cambazoglu, Mustafa Kemal</dc:creator>
+	<dc:creator xml:lang="en">Blain, Cheryl Ann</dc:creator>
+	<dc:subject xml:lang="en">Pearl River</dc:subject>
+	<dc:subject xml:lang="en">unstructured grid</dc:subject>
+	<dc:subject xml:lang="en">finite element modeling</dc:subject>
+	<dc:subject xml:lang="en">ADCIRC</dc:subject>
+	<dc:subject xml:lang="en">river dynamics</dc:subject>
+	<dc:description xml:lang="en">The aim of this study is to construct a modeling system that will assist flood risk management strategies in a coastal plain braided river system. The model configuration consists of a hydrodynamic model (ADCIRC) of the river basin that receives tidal forcing at the open boundary and river discharge forcing at upstream flux boundary. An unstructured mesh model resolving the Pearl River channels at higher resolution from the coastline to approximately 75km inland to upstream reaches of the river has been constructed. The modeling system produces water levels and currents throughout the Lower Pearl River Basin. Initial sensitivity analysis efforts on the channel model include consideration of low-flow, average-flow, and high-flow scenarios. Model results were found to be slightly sensitive to slope of river channels and bottom friction to control stability in predictions. The model results were shown to be highly sensitive to the bathymetry of the model that controls the discharge capacity of the narrow river channels and the channel model resulted in elevated currents and water levels under high flow conditions. A channel discharge capacity analysis was conducted and the results showed the need to construct a floodplain mesh around the channel model with more realistic bathymetry and topography so that the flooding scenarios could be modeled with wetting and drying capability of ADCIRC. An initial attempt to develop such a floodplain mesh has been made with preliminary results and more comprehensive validation of the developed floodplain modeling system will extend to reproducing events associated with the historical Hurricane Isaac that impacted the region in 2012. This modeling system will provide an important tool to decision makers that could be used in future flood risk management and mitigation efforts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8283</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.management.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; management.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8283/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

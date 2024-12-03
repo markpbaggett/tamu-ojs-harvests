@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2003</identifier>
+				<datestamp>2021-01-17T06:51:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REMARKS ON THE CALCULATION OF AMPLITUDES OF THE LINEAR WAVE PRODUCED BY A WAVE MACHINE</dc:title>
+	<dc:creator xml:lang="en">Kravtchenko, J.</dc:creator>
+	<dc:subject xml:lang="en">linear wave theory</dc:subject>
+	<dc:subject xml:lang="en">wave amplitude</dc:subject>
+	<dc:subject xml:lang="en">wave machine</dc:subject>
+	<dc:description xml:lang="en">We are indebted to Havelock and to Biesel for their theoretical explanation of the mechanics of generation of the Stokes plane wave produced by a wave machine operating with a simple sinusoidal movement. The calculation of the wave amplitude, produced in this way, is the most salient feature of this theory. 
+
+We add nothing new to this research. But in view of its importance it seems fitting to pay special attention to a few mathematical difficulties that remain in the exposition of the above-mentioned authors, to indicate ways in which they may be solved in part, to simplify a few theoretical demonstrations and to make some comments on the physical significance of a theory which depends on very simplifying hypotheses. 
+
+More accurately speaking, we investigate a series of functions of one variable, introduced by Havelock and Biesel to present the solution of the problem. A gap in the theory is closed by showing that the series is complete; in fact, to establish this point, it is sufficient to employ a few results of the spectrum theory of certain differential operators. We complement then the indications of Biesel on the legitimacy of the term by term derivation of the series developments he has formed. Finally an elementary re-examination is made of the nature of singularities found in this solution and whose study has been made in a less direct manner in the works mentioned above.  It would appear that all the above remarks can be of assistance to technicians in the study of many analogous questions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1954-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2003</dc:identifier>
+	<dc:identifier>10.9753/icce.v5.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 5 (1954): Proceedings of 5th Conference on Coastal Engineering, Grenoble, France, 1954.; 5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2003/1673</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

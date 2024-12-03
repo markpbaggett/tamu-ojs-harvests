@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10384</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">USING SPECIFICATION OF OVERBURDEN TO IMPROVE NUMERICAL LONGSHORE SEDIMENT TRANSPORT MODELING</dc:title>
+	<dc:creator xml:lang="en">Watts, Irene</dc:creator>
+	<dc:creator xml:lang="en">Zarillo, Gary</dc:creator>
+	<dc:description xml:lang="en">The Sebastian Inlet Florida Coastal Processes Model computes sediment transport pathways in the nearshore to support sediment management activities. Longshore sediment transport rates are computed by the model and compared with field data. The model is run with two alternative specifications of hard bottom to investigate the impact on computed transport rates. One alternative specifies known hard bottom outcrop locations and the second, a uniform one-meter overburden throughout the model domain. The uniform overburden specification improved longshore sediment transport rate computations throughout the model domain. The goal of this work is to improve upon nearshore sediment transport and morphology by addressing uncertainty in hard bottom locations and ephemeral coverage. This paper documents the modeling effort and the changes necessary to improve model performance in the nearshore.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/u1bNOca5qUo</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10384</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.papers.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; papers.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10384/9670</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Irene Watts, Gary Zarillo</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

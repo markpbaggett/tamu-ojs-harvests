@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8397</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SLACK MOORING FOR A LARGE SHIP UNDER BEAM SEAS IN PORT</dc:title>
+	<dc:creator xml:lang="en">Sakakibara, Shigeki</dc:creator>
+	<dc:creator xml:lang="en">Sunahara, Shunji</dc:creator>
+	<dc:creator xml:lang="en">Ito, Kaku</dc:creator>
+	<dc:description xml:lang="en">As an empirical and traditional ship mooring method, a pretension mooring (a hard mooring) or slack mooring (without pretension in mooring line) is performed for large ship or small ship, respectively. However, the slack mooring is applied to a large ship under beam seas in port to avoid large roll and sway motions, and excessive loads in mooring lines and fenders. In this study, the mechanism and validity of the slack mooring for large ship is investigated by a physical model test and a numerical simulation method of the moored ship motions and mooring loads under beam seas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8397</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.risk.57</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; risk.57</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8397/7205</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

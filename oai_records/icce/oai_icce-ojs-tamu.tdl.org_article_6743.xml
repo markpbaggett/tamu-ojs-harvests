@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6743</identifier>
+				<datestamp>2023-10-04T02:57:37Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BORE-INDUCED MACROVORTICES OVER A PLANAR BEACH: THE CROSS-SEA CONDITION CASE</dc:title>
+	<dc:creator xml:lang="en">Postacchini, Matteo</dc:creator>
+	<dc:creator xml:lang="en">Brocchini, Maurizio</dc:creator>
+	<dc:creator xml:lang="en">Soldini, Luciano</dc:creator>
+	<dc:subject xml:lang="en">cross sea</dc:subject>
+	<dc:subject xml:lang="en">ray theory</dc:subject>
+	<dc:subject xml:lang="en">breaking</dc:subject>
+	<dc:subject xml:lang="en">vorticity generation</dc:subject>
+	<dc:subject xml:lang="en">Nonlinear Shallow Water Equations</dc:subject>
+	<dc:description xml:lang="en">Wave breaking over submerged topographic obstacles leads to vorticity generation and, at times, to the generation of strong offshore-directed rip currents. The generation of finite-length breakers may also be induced by the positive interaction of wave trains propagating to shore with a relative angle. Such an interaction gives rise to a short-crested system, this, in turn, generating both breakers of finite crossflow length and an intense associated vorticity. We here analyze such a vorticity generation mechanism specifically focusing on the location where wave breaking occurs. To this purpose we use both a simple theoretical approach, based on the well-known theory of wave ray propagation, and ad-hoc numerical simulations, by means of a NSWE (Nonlinear Shallow Water Equations) solver. A fair comparison between such preliminary theoretical and numerical results suggests that the present work can be used as the basis for future analyses of vorticity generation by cross seas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6743</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6743/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7379</identifier>
+				<datestamp>2021-01-19T04:47:32Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMIC INTERACTION OF SUBMERGED SLOTTED BARRIER UNDER SOLITARY WAVE</dc:title>
+	<dc:creator xml:lang="en">Wu, Yun-Ta</dc:creator>
+	<dc:creator xml:lang="en">Hsiao, Shih-Chun</dc:creator>
+	<dc:creator xml:lang="en">Yang, Ray-Yeng</dc:creator>
+	<dc:creator xml:lang="en">Chang, Kuang-An</dc:creator>
+	<dc:subject xml:lang="en">solitary wave</dc:subject>
+	<dc:subject xml:lang="en">slotted barrier</dc:subject>
+	<dc:subject xml:lang="en">PIV</dc:subject>
+	<dc:description xml:lang="en">We perform an experimental work on the interaction between a solitary wave and a submerged slotted barrier. The velocity fields in the vicinity of slotted barrier are measured by a high-resolution particle image velocimetry (PIV) system. The PIV measuring system consisted of a high-speed camera with maximum frame rate of 1,000 frames per second and a continuously output laser bean such that high temporal and spatial resolutions can be achieved. We repeated the same experiment up to 20 trials and used the ensemble-averaged method for the mean quantities.
+The results show that flow separation occurred by each element of slotted barrier, and the induced vortices would interact each other to further create complex flow pattern similar to vortex shedding process. Further, the induced flow fields and the location as well as the strength of each vortex can be quantitated. In the next step, we attempt to reproduce this setup using both RANS and LES modeling. Model-data comparisons in terms of free surface elevation, velocity and turbulence characteristics can be expected.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7379</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7379/pdf_738</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

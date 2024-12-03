@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3805</identifier>
+				<datestamp>2021-01-19T21:39:13Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF MEASUREMENT ERROR ON LONG-TERM WAVE STATISTICS</dc:title>
+	<dc:creator xml:lang="en">Le Mahaute, Bernard</dc:creator>
+	<dc:creator xml:lang="en">Wang, Shen</dc:creator>
+	<dc:subject xml:lang="en">measurement error</dc:subject>
+	<dc:subject xml:lang="en">error</dc:subject>
+	<dc:subject xml:lang="en">wave statistics</dc:subject>
+	<dc:subject xml:lang="en">long term statistics</dc:subject>
+	<dc:description xml:lang="en">The effect of sample size on confidence band in predicting the extreme wave height is related to the return period and the duration of the sample record length. An estimate of errors resulting from various methods of data acquisition is given. The uncertainties corresponding to various number of years of observation and various measurement errors are analyzed for various return intervals. It is shown that data accuracy and record length are equally important in long term wave predictions. At the present time, the determination of extreme event benefits more from relatively less accurate long-term hindcast calculation rather than short-term high quality measurements. In the long run, a long-term accurate measurement program is imperative if more definite descriptions of extreme events are sought.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3805</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3805/3488</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

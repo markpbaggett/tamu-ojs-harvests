@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2509</identifier>
+				<datestamp>2021-01-17T04:42:51Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BREAKING WAVE CRITERIA; A STUDY EMPLOYING A NUMERICAL WAVE THEORY</dc:title>
+	<dc:creator xml:lang="en">Dean, Robert G.</dc:creator>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">breaking wave criteria</dc:subject>
+	<dc:subject xml:lang="en">numerical wave thoery</dc:subject>
+	<dc:description xml:lang="en">Although it is well recognized that wave systems in nature are irregular, comprising a spectrum of fundamental periods, there is still a need for improving our understanding of near-breaking nonlinear wave systems which contain a single fundamental period. For example, most of the shallow water design situations and other cases including forces on small diameter structures in which drag forces predominate are more directly treated in terms of a "design wave" rather than a wave spectrum. This situation is contrasted to many important engineering design problems in which the dynamics of the system are paramount; for example, in the case of a moored drilling vessel. Finally, one may reasonably expect that accurate solutions to the problem of nonlinear wave systems with a single fundamental period will lend insight regarding productive approaches to the more realistic problem of a spectrum of nonlinear waves. This paper investigates the applicability of the stream function wave theory1 for the representation of breaking and near-breaking waves. This particular problem has received little attention, although considerable progress has occurred on two related problems: 1. The development of wave theories covering a wide range of relative water depths and wave heights, and 2. The development of wave theories which apply at breaking conditions. In general, although these theories may be applicable for the limiting wave conditions, their basis of derivation is such that they cannot be extended to non-breaking waves. The purpose of the present investigation, then, is to establish whether or not the stream function wave theory can be applied to span the range extending up to breaking conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1968-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2509</dc:identifier>
+	<dc:identifier>10.9753/icce.v11.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 11 (1968): Proceedings of 11th Conference on Coastal Engineering, London, United Kingdom, 1968.; 8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2509/2175</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

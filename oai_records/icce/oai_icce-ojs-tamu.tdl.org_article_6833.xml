@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6833</identifier>
+				<datestamp>2023-10-04T02:22:55Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STATISTICAL PREDICTION OF COASTAL AND ESTUARINE EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Magar, Vanesa</dc:creator>
+	<dc:creator xml:lang="en">Gross, Markus S.</dc:creator>
+	<dc:creator xml:lang="en">Probert, George</dc:creator>
+	<dc:creator xml:lang="en">Reeve, Dominic E.</dc:creator>
+	<dc:creator xml:lang="en">Cai, Yuzhi</dc:creator>
+	<dc:subject xml:lang="en">empirical orthogonal functions</dc:subject>
+	<dc:subject xml:lang="en">empirical orthogonal teleconnections</dc:subject>
+	<dc:subject xml:lang="en">forecasting skill</dc:subject>
+	<dc:description xml:lang="en">This paper presents a novel data-driven methodology based on empirical orthogonal teleconnections (EOTs) to analyse and forecast the evolution of coastal navigational channels near the mouth of the Exe estuary, UK. This is the first time EOTs are used in coastal morphodynamics. Therefore, particular emphasis is placed on the comparison of EOTs with the well established empirical orthogonal functions (EOFs) method. EOTs and EOFs are used with a series of 14 surveys, taken approximately every 8 months, covering the period between January 2001 and February 2010. The skill of the methods in producing accurate bathymetric one-step forecasts for February 2010 is analyzed and compared with one-step forecasts based on the raw data. It is found that, provided the order of the autoregressive forecast method is chosen appropriately, EOTs and EOFs are better than the raw data and EOTs outperforms than EOFs. This is attributed to the fact that EOTs, without the orthonormality restriction for the temporal eigenfunctions required in EOFs, capturing the temporal patterns within the data more accurately than EOFs.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6833</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.124</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.124</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6833/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

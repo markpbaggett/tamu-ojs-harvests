@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3983</identifier>
+				<datestamp>2021-01-19T20:35:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF SHORELINE EVOLUTION AROUND THE RIVER MOUTH</dc:title>
+	<dc:creator xml:lang="en">Lin, Ming-Chung</dc:creator>
+	<dc:creator xml:lang="en">Wang, Jyh-Cherng</dc:creator>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">shoreline evolution</dc:subject>
+	<dc:subject xml:lang="en">river mouth</dc:subject>
+	<dc:description xml:lang="en">The river sediments transport into coastal water together with wave induced longshore sediment transport make shoreline evolution much complicated. Fig.l shows typical feature of shoreline shape around a river mouth. Recently there are some investigators treated this problem (Grijm, 1964, Bakker §Edelmen,1964; Komar,1973; Tsuchiya § Yasuda,1978),and had developed some mathematical or numerical models. This paper proposes a numerical model for predicting long-term shoreline evolution around a river mouth by incorporation certain river parameters into the Willis beach evolution model (1978). The proposed model is at first applied to four ideal cases to investigate its general characteristics and adaptability, and reasonable results are found. In our results the accretion on updrift side is faster than downdrift side under the oblique incident wave condition and the width of the river mouth increase steadily. These results are different from other approachs that the shoreline shape is always nearly symmetrical with respect to the centerline of the river mouth. Finally, as an field case application of the model, a numerical simulation of shoneline changes around the Cho-shui River mouth is performed and compared with field data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3983</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.202</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 202</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3983/3666</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

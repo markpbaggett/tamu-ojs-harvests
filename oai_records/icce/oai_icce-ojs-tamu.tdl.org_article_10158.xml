@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10158</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ROUGHNESS FACTOR FOR MULTI-LAYER ARMOUR AS OVERTOPPING ESTIMATOR</dc:title>
+	<dc:creator xml:lang="en">Franco, Leopoldo</dc:creator>
+	<dc:creator xml:lang="en">Pepi, Yuri</dc:creator>
+	<dc:creator xml:lang="en">Finis, Stefano de</dc:creator>
+	<dc:creator xml:lang="en">Iorio, Verdiana</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:creator xml:lang="en">Cecioni, Claudia</dc:creator>
+	<dc:description xml:lang="en">Nowadays one of the most challenging problem for engineers is to adapt existing coastal structures to climate changes. Wave overtopping is highly sensitive to the increasing extreme water depths due to higher storm surges coupled with sea level rise. One way to face these problems for rubble mound breakwaters is to add one or more layers to the existing armour. Prediction of wave overtopping of coastal structures is presently obtained from empirical formulae in EurOtop (2018). For the case of overtopping over multi-layer armour, no validated method exists, so prediction must be based upon assumptions and judgement, with related uncertainties. This study is focused on the effects of different types of armour, the number of layer and other structural characteristics on the roughness factor f. The main effects of porosity and roughness will be investigated. This paper analyzes the results of several new physical model tests of different rubble mound breakwaters reproduced at the new medium scale random wave flume of the Department of Engineering of Roma Tre University.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/8cOdqkqQ-9s</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10158</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10158/9444</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Leopoldo Franco, Yuri Pepi, Stefano de Finis, Verdiana Iorio, Giorgio Bellotti, Claudia Cecioni</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

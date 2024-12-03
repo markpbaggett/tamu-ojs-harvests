@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1302</identifier>
+				<datestamp>2023-10-04T04:27:52Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE PREDICTIONS AT THE SITE OF A WAVE ENERGY CONVERSION ARRAY</dc:title>
+	<dc:creator xml:lang="en">Oskamp, Jeffrey A</dc:creator>
+	<dc:creator xml:lang="en">Özkan-Haller, H Tuba</dc:creator>
+	<dc:subject xml:lang="en">SWAN</dc:subject>
+	<dc:subject xml:lang="en">Wave Energy Converters</dc:subject>
+	<dc:subject xml:lang="en">Wave Modeling</dc:subject>
+	<dc:description xml:lang="en">The SWAN spectral wave model was applied to a domain along the coast of Oregon State, USA with the purpose of establishing a better understanding of wave conditions at a location which has been proposed for the installation of an array of Wave Energy Converters (WECs). The model uses the directional spectrum measured at a nearby NDBC (National Data Buoy Center) buoy as input and in situ measurements of waves at the proposed WEC location for model validation. It was found that wind -wave generation and bottom friction were not significant over the domain between the NDBC buoy and the WEC site (domain size was 30km in the cross-shore and 230km in the along-shore directions). The predicted wave heights at the WEC location compared favorably to the in situ data wave heights with rms error of ~10 percent. It is suggested that some of this error may arise from the offshore boundary condition where the waves are assumed to be along-shore uniform. Future work is proposed to address this issue. Future work will also include modeling in two other domains, one very small domain to resolve individual WECs and a domain between the WECs and the shore to assess the impact of WECs on the coastline.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1302</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1302/pdf_96</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

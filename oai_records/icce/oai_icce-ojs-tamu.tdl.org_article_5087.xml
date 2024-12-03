@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5087</identifier>
+				<datestamp>2021-01-19T14:17:44Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHEAR INSTABILITY OF LONGSHORE CURRENTS: EFFECTS OF DISSIPATION AND NON-LINEARITY</dc:title>
+	<dc:creator xml:lang="en">Falques, Albert</dc:creator>
+	<dc:creator xml:lang="en">Iranzo, Vicente</dc:creator>
+	<dc:creator xml:lang="en">Caballeria, Miquel</dc:creator>
+	<dc:subject xml:lang="en">shear instability</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">dissipation</dc:subject>
+	<dc:subject xml:lang="en">nonlinear current</dc:subject>
+	<dc:description xml:lang="en">The effect of bottom friction and turbulent lateral mixing on shear instability of the longshore current is investigated. Transition conditions for this instability as a function of non-dimensional parameters related to the basic current, topography, bottom friction and lateral mixing are found. A direct nonlinear numerical simulation of shear instability is presented. The basic flow is found to be supercritical and the amplitude of shear waves can reach at least 20% of the basic flow. A small increase in the period due to non-linearity is also found. Preliminary results suggest that far from criticality there is an important contribution of the instability to the mean flow. Some applications to field and laboratory experiments are discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5087</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5087/4765</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

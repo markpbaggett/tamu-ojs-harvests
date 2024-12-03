@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2260</identifier>
+				<datestamp>2021-01-17T05:50:41Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLUME EXPERIMENTS ON SAND TRANSPORT BY WAVES AND CURRENTS</dc:title>
+	<dc:creator xml:lang="en">Inman, Douglas L.</dc:creator>
+	<dc:creator xml:lang="en">Bowen, Anthony J.</dc:creator>
+	<dc:subject xml:lang="en">flume experiment</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">solid discharge</dc:subject>
+	<dc:description xml:lang="en">Measurements were made of the sand transport (solid discharge) caused by waves and currents traveling over a horizontal sand bed in water 50 cm deep. The waves had heights of 15 cm, and periods of 1.4 and 2.0 sec. The sand transport was measured first in the presence of waves only, then in the presence of waves superimposed on currents. The currents flowed in the direction of wave travel, with steady uniform velocities of 2, 4, and 6 cm/sec.
+Since sand moves to and fro under the influence of waves, sand traps were placed flush with the surface at either end of the bed. The net sand transport was determined by subtracting the amount of sand trapped at the upwave end of the bed, from that trapped at the downwave end. The total amount of sand caught in both traps was greatest with waves of 2.0 sec period, while the net sand transport was greatest with waves of 1.4 sec period. Super position of waves on currents of 2 cm/sec produced a two-fold increase in the sand transport for both wave types. Surprisingly, faster currents of 4 and 6 cm/sec caused the discharge to decrease somewhat.
+Estimates of the power expended by waves was obtained from the decrement in wave height as the wave traveled over the sand bed. The decrement in wave height was found to be about I0--5 per unit of distance traveled. Certain calculations show that about one tenth of the total power expended by the waves was used in transporting sediment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1962-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2260</dc:identifier>
+	<dc:identifier>10.9753/icce.v8.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 8 (1962): Proceedings of 8th Conference on Coastal Engineering, Mexico City, Mexico, 1962.; 11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2260/1951</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

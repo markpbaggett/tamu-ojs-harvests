@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5664</identifier>
+				<datestamp>2021-01-19T11:06:06Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON THE STATISTICAL VARIABILITY OF WAVE HEIGHT AND PERIOD PARAMETERS</dc:title>
+	<dc:creator xml:lang="en">Sanchez-Carratala, Carlos R.</dc:creator>
+	<dc:creator xml:lang="en">Gimenez, Marcos H.</dc:creator>
+	<dc:subject xml:lang="en">wave height</dc:subject>
+	<dc:subject xml:lang="en">period parameters</dc:subject>
+	<dc:subject xml:lang="en">statistical variability</dc:subject>
+	<dc:description xml:lang="en">A new method for the determination of short-term variability of some commonly used wave height and period parameters is presented. The new TFD method combines some previously available time and frequency domain approaches, optimizing their application and giving greater accuracy with easy implementation. Short-term variability predicted by the new TFD method is consistently higher than the one obtained with theoretical frequency domain expressions, and proves to be in very good agreement with sampling variability observed in Gaussian, non-periodic and non-deterministic random wave records generated with stable ARMA numerical simulators.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5664</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5664/5334</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

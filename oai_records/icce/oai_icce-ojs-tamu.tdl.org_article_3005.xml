@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3005</identifier>
+				<datestamp>2021-01-20T02:14:36Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE SCATTERING BY PERMEABLE AND IMPERMEABLE BREAKWATER OF ARBITRARY SHAPE</dc:title>
+	<dc:creator xml:lang="en">Ijima, Takeshi</dc:creator>
+	<dc:creator xml:lang="en">Chou, Chung Ren</dc:creator>
+	<dc:creator xml:lang="en">Yumura, Yasu</dc:creator>
+	<dc:subject xml:lang="en">wave scattering</dc:subject>
+	<dc:subject xml:lang="en">breakwater design</dc:subject>
+	<dc:subject xml:lang="en">impermeable</dc:subject>
+	<dc:subject xml:lang="en">permeable</dc:subject>
+	<dc:description xml:lang="en">This paper deals with a theoretical method of calculation of the fluid motion, when a sinusoidal plane wave incidents to a permeable breakwater of arbitrary shape at constant water depth and shows that the problem for impermeable breakwater is solved as a special case of this method. The method described here is the extension of the author's method of solution for two-dimensional permeable breakwater by the method of continuation of velocity potentials for two different fluid regions into three-dimensional problems by means of Green functions. Here, the analytical process of calculation is presented and as representative examples, wave height distributions and wave forces around an isolated elliptic- and rectangular breakwater are calculated and compared with experiments in wave channel. The principle of this method is also applied to the analysis of submerged and semi-immersed fixed cylinder and the motions of floating body of arbitrary.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3005</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.110</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 110</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3005/2670</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

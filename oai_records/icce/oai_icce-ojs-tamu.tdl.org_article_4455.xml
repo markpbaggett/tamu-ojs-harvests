@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4455</identifier>
+				<datestamp>2021-01-19T17:54:27Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLICATION OF LOGNORMAL TRUNCATED DISTRIBUTION TO PREDICTION OF LONG TERM SEA STATE USING VISUAL WAVE HEIGHT DATA</dc:title>
+	<dc:creator xml:lang="en">Gonzalez, Angel</dc:creator>
+	<dc:creator xml:lang="en">Martinez, Javier</dc:creator>
+	<dc:creator xml:lang="en">Blazquez, Rafael</dc:creator>
+	<dc:subject xml:lang="en">lognormal truncated distribution</dc:subject>
+	<dc:subject xml:lang="en">long term sea state</dc:subject>
+	<dc:subject xml:lang="en">sea state</dc:subject>
+	<dc:subject xml:lang="en">visual data</dc:subject>
+	<dc:description xml:lang="en">The purpose of this paper is to analyze the behaviour of the lognormal distribution function in wave studies, when visual observations are used to predict the long term wave height distribution. We are focused our attention on the problem of visual biased samples. For this kind of data the lognormal model does not fit accurately the sample leading to wrong extrapolations. One possible solution to avoid this problem is to consider the sample as truncated. According to this procedure the distribution function is estimated based only on data higher than the point of truncation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4455</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4455/4136</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

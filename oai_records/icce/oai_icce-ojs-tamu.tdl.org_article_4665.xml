@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4665</identifier>
+				<datestamp>2021-01-19T16:42:43Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTENSION OF THE BOUSSINESQ EQUATIONS TO INCLUDE WAVE PROPAGATION IN DEEPER WATER AND WAVE-SHIP INTERACTION IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Madsen, Per A.</dc:creator>
+	<dc:creator xml:lang="en">Sorensen, Ole R.</dc:creator>
+	<dc:subject xml:lang="en">Boussinesq equation</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">deep water</dc:subject>
+	<dc:subject xml:lang="en">water/ship interaction</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:description xml:lang="en">Mathematical short wave models based on the Boussinesq equations have been shown to be capable of reproducing the combined effects of most of the wave phenomena of interest to the coastal engineer for a relatively low cost. Today, the following phenomena can be taken into account in the most advanced numerical wave models: o Shoaling, refraction, diffraction o Partial reflection from breakwaters o Irregular wave trains o Directional wave input o Wave-wave and wave-current interaction. In this presentation the standard Boussinesq equations will be extended for two different purposes: o To simulate irregular wave propagation from deep to shallow water o To simulate wave-ship interaction in shallow water.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4665</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4665/4346</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10278</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REGULAR WAVE EFFECTS ON NEGATIVELY BUOYANT JETS</dc:title>
+	<dc:creator xml:lang="en">Valizadeh, Alireza</dc:creator>
+	<dc:creator xml:lang="en">Antenucci, Jason P.</dc:creator>
+	<dc:creator xml:lang="en">Griffith, Grant</dc:creator>
+	<dc:description xml:lang="en">Seawater desalination is an increasingly important technology in the supply of potable water to municipal communities. Brine created by this process is typically released back to the ocean via a nearshore diffuser into a wave-exposed climate. Despite this, little work has been published on the effect of waves on negatively buoyant jets. In this paper we outline the literature on this topic and the results of a series of computational fluid dynamics (CFD) simulations that address the role of regular waves on negatively buoyant jets.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/0085wAVVybc</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10278</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.waves.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; waves.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10278/9564</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Alireza Valizadeh, Jason P. Antenucci, Grant Griffith</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13127</identifier>
+				<datestamp>2023-10-03T02:54:44Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CHALLENGES IN AUTOMATION OF QUALITY CONTROL FOR TIDE GAUGE DATA</dc:title>
+	<dc:creator xml:lang="en">Soltau, Felix</dc:creator>
+	<dc:creator xml:lang="en">Niehüser, Sebastian</dc:creator>
+	<dc:creator xml:lang="en">Jensen, Jürgen</dc:creator>
+	<dc:description xml:lang="en">Tide gauges provide important water level data for navigation, port management, coastal protection strategies, ecological adaptation measures, or climate change assessments. For these tasks, a reliable availability and high quality of the data is crucial. However, water level data from tide gauges contain technical errors as well as anthropogenic and natural influences. For the German North Sea coast and estuaries, resulting water level anomalies are partially detected and corrected manually by qualified personnel and further considered by individual subsequent users of that data. Figure 1 shows an example of such a correction of water level anomalies around tidal low water from tide gauge data at Husum, Germany, in 2016. In general, manual quality control leads to different handlings and thus incomparable results. Consequently, a uniform and automated pre-processing is needed for tide gauge data in Germany in order to detect, correct, and classify anomalies ideally in real time. The developed pre-processing approaches will not be limited to tide gauges in Germany but can be globally transferred or be extended to river sites.           </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13127</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.169</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.169</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13127/12400</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Felix Soltau, Sebastian Niehüser, Jürgen Jensen</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

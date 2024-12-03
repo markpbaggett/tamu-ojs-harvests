@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3053</identifier>
+				<datestamp>2021-01-20T01:56:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REGIONAL NETWORK FOR COASTAL ENGINEERING DATA</dc:title>
+	<dc:creator xml:lang="en">Seymour, Richard J.</dc:creator>
+	<dc:creator xml:lang="en">Sessions, Meredith H.</dc:creator>
+	<dc:subject xml:lang="en">wave data</dc:subject>
+	<dc:subject xml:lang="en">regional network</dc:subject>
+	<dc:description xml:lang="en">The California Department of Navigation and Ocean Development (DNOD), responsible for shoreline protection within the state, was particularly aware of the lack of coastal wave statistics to support their beach erosion program. As a direct result of the 1974 ASCE-sponsored New Orleans Conference on Ocean Wave Measurement and Analysis, discussion was initiated within DNOD and then with the Scripps Institution of Oceanography (SIO) at La Jolla, on the feasibility o"f establishing a regional wave monitoring network for California. The initial specification presented by DNOD was for a 200-station network reporting directional wave spectra twice daily for a period of ten years. SIO ocean engineering personnel responded with a system concept employing low-cost pressure transducers hardwired to shore with a dialup telephone data gathering link to a central station. The initial cost estimates appeared attractive when compared with Corps of Engineers experience as reported in Peacock (1974). As a result, a small program was funded in February 1975 at Scripps to demonstrate critical hardware items through the breadboard stage. With the successful completion of this work, additional funds were allocated by DNOD as matching funds for a California Sea Grant Project. Th_e first station in the network began operation on 3 December 1975 at Imperial Beach, California. A second station was added at Ocean Beach (San Diego) on 27 March 1976, a third at SIO (La Jolla) on 18 May 1976 and the fourth at Oceanside, California on 2 June 1976. The locations of these initial stations are shown in Figure 1. Considerable effort has been directed during the past 10 years toward the development of numerical models to predict deep-water wave conditions from meteorological data. Reasonable results have been obtained and sufficient accuracy achieved to allow routing of both commercial and military ship traffic.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3053</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3053/2718</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

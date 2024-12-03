@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4370</identifier>
+				<datestamp>2021-01-19T18:23:26Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF WAVE FORCES ON A HORIZONTAL CYLINDER</dc:title>
+	<dc:creator xml:lang="en">Tsuzuki, Susumu</dc:creator>
+	<dc:creator xml:lang="en">Horikawa, Kiyoshi</dc:creator>
+	<dc:creator xml:lang="en">Watanabe, Akira</dc:creator>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:subject xml:lang="en">horizontal cylinder</dc:subject>
+	<dc:subject xml:lang="en">wave simulation</dc:subject>
+	<dc:description xml:lang="en">The characteristics of wave forces acting on a horizontal circular cylinder were investigated through numerical calculations as well as experimental findings. The laboratory data on wave forces were analyzed by the concept of wave force path and classified into two types. One is the circular type and the other one is the 8 - shaped type. In order to analyze the above phenomena, the discrete vortex method was applied with appropriate assumptions. The comparison between the numerically calculated results and laboratory data shows that the simulation model proposed in this paper seems to be favorable to predict the wave forces acting on a horizontal circular cylinder within a certain range of conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4370</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.163</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 163</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4370/4051</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

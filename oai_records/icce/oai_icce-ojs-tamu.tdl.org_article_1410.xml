@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1410</identifier>
+				<datestamp>2023-10-04T03:43:37Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF OBSERVED HURRICANE WAVES</dc:title>
+	<dc:creator xml:lang="en">Chen, Qin Jim</dc:creator>
+	<dc:creator xml:lang="en">Hu, Kelin</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, Andrew</dc:creator>
+	<dc:subject xml:lang="en">asymmetric wind</dc:subject>
+	<dc:subject xml:lang="en">spectral wave model</dc:subject>
+	<dc:subject xml:lang="en">hurricane waves</dc:subject>
+	<dc:subject xml:lang="en">wave-surge interaction</dc:subject>
+	<dc:description xml:lang="en">Extensive field measurements of wind waves in deep and shallow waters during Hurricane Gustav (2008) in the Gulf of Mexico have been simulated by the spectral wave prediction model, SWAN. First, a parametric asymmetric hurricane wind model with three major improvements is used to generate hurricane wind fields for the wave model. The changes of water level near the coast are taken into account by using a storm surge model. Forced by the verified hurricane winds and hindcasted water levels, the wave model performs fairly well in comparison to the observed wave heights and periods in both deep and shallow waters except a few locations with complex bathymetry and landscape. In addition to the hurricane wind field that controls the accuracy of wave modeling in deep water, wave-surge interaction plays an important role in the wave growth and transformation in shallow water. Wave spectral comparisons show that the white-capping formulation of Westhuysen et al. (2007) generally outperforms the default formulation of Komen et al. (1984) in SWAN under hurricane conditions. The model result indicates that the asymmetry of hurricane winds and the hurricane translation result in the maximum wind waves occurring on the right side of the hurricane track and propagating in the direction parallel to the hurricane translation direction, consistent with field observations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-02-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1410</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1410/pdf_361</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

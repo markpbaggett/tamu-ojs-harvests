@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5484</identifier>
+				<datestamp>2021-01-19T12:06:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">KINEMATICS AND SHEAR STRESSES FROM COMBINED WAVES AND LONGSHORE CURRENTS IN THE UK COASTAL RESEARCH FACILITY</dc:title>
+	<dc:creator xml:lang="en">Simons, Richard R.</dc:creator>
+	<dc:creator xml:lang="en">MacIver, Ruairi D.</dc:creator>
+	<dc:creator xml:lang="en">Saleh, Wameidh M.</dc:creator>
+	<dc:subject xml:lang="en">United Kingdom</dc:subject>
+	<dc:subject xml:lang="en">wave kinematics</dc:subject>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:description xml:lang="en">The paper describes a series of experiments involving regular and random waves propagating over an orthogonal longshore current in the UK Coastal Research Facility at Wallingford. Mean and wave-induced velocities have been measured above a horizontal fixed rough bed using three acoustic velocimeters, and simultaneous measurements of mean and oscillatory bottom shear stress have been made with a UCL shear cell. Wave-induced shear stresses have been expressed as friction factors and compared with widely used empirical formulae. Other results have been compared with predictions for shear stress and apparent bed roughness from eight wave-current theories. The predicted enhancement of these parameters is judged against the relative strengths of the waves and currents tested, and against the practical range of conditions achievable in such laboratory basins.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5484</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5484/5161</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

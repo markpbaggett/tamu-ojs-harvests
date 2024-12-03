@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1369</identifier>
+				<datestamp>2023-10-04T04:25:13Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUASI-3D MODELLING OF SURF ZONE DYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Luijendijk, Arjen</dc:creator>
+	<dc:creator xml:lang="en">Henrotte, Johan</dc:creator>
+	<dc:creator xml:lang="en">Walstra, Dirk Jan</dc:creator>
+	<dc:creator xml:lang="en">van Ormondt, Maarten</dc:creator>
+	<dc:subject xml:lang="en">quasi-3d modelling</dc:subject>
+	<dc:subject xml:lang="en">surf zone</dc:subject>
+	<dc:subject xml:lang="en">coastal modelling</dc:subject>
+	<dc:subject xml:lang="en">nearshore morphodynamics</dc:subject>
+	<dc:description xml:lang="en">A quasi-three-dimensional model (quasi-3D) has been developed through the implementation of an analytical 1DV flow model in existing depth-averaged shallow water equations. The model includes the effects of waves and wind on the vertical distribution of the horizontal velocities. Comparisons with data from both physical and field cases show that the quasi-3D approach is able to combine the effect of vertical structures with the efficiency of depth-averaged simulations.
+Inter-comparisons with three-dimensional simulations show that the quasi-3D approach can represent similar velocity profiles in the surf zone. Quasi-3D morphodynamic simulations show that the bed dynamics in the surf zone represent the
+relevant 3D effects in the surf zone much more than the depth-averaged computations. It was shown that the quasi-3D approach is computationally efficient as it only adds about 15-20% to the runtimes of a 2DH simulation which is minor compared to a run time increase of 250-800% when switching to a 3D simulation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1369</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.currents.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; currents.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1369/pdf_111</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

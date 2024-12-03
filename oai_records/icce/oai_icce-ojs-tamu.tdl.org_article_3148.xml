@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3148</identifier>
+				<datestamp>2021-01-20T01:23:18Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT OF BED FRICTION IN TIDAL INLETS</dc:title>
+	<dc:creator xml:lang="en">Mehta, A.J.</dc:creator>
+	<dc:creator xml:lang="en">Byrne, R.J.</dc:creator>
+	<dc:creator xml:lang="en">DeAlteris, J.T.</dc:creator>
+	<dc:subject xml:lang="en">tidal inlet</dc:subject>
+	<dc:subject xml:lang="en">bed friction</dc:subject>
+	<dc:subject xml:lang="en">friction measurement</dc:subject>
+	<dc:description xml:lang="en">The flow characteristics and the stability of a tidal inlet are governed, among other factors, by the channel bed friction. In order to determine the bed shear stress regime and the frictional characteristics, near-bed velocity profiles were obtained at the throat sections of two inlets, John's Pass and Blind Pass, on the Gulf Coast of Florida. A specially designed steel cage with five current meters in a vertical array was used to obtain the profiles in the bottom one meter of the flow. The profiles were found to be logarithmic but it is noted that, especially near the times of slack water, the effect of inertia becomes significant. However, during the major part of the flood or ebb flow period, frictional effects are dominant. In the fully rough regime of flow, the bed-shear stress - velocity relationship is found to follow the square law, with a constant, characteristic friction factor and Manning's n for each inlet. This friction factor is used in hydraulic formulas, based on uniform, steady open channel flow relationships, to obtain the tidal prism - throat cross-sectional area ratio, which is then compared with that obtained from flow discharge measurements. Agreements and discrepancies in the comparison are discussed. The relationship between the bed shear stress at incipient motion and the grain size at the bed is reviewed, and it is noted that the observed relationship at the two inlets does not agree with the well-known correlation of Shields for uniform sandy beds.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3148</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.98</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 98</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3148/2812</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

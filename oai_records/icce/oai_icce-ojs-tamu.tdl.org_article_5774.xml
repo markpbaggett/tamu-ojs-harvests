@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5774</identifier>
+				<datestamp>2021-01-19T10:30:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CROSS-SHORE GRADED SEDIMENT TRANSPORT: GRAIN SIZE AND DENSITY EFFECTS</dc:title>
+	<dc:creator xml:lang="en">Koomans, R.L.</dc:creator>
+	<dc:creator xml:lang="en">de Meijer, R.J.</dc:creator>
+	<dc:creator xml:lang="en">Venema, L.B.</dc:creator>
+	<dc:subject xml:lang="en">graded sediment</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">grain size</dc:subject>
+	<dc:subject xml:lang="en">density effect</dc:subject>
+	<dc:description xml:lang="en">Sediment sorting processes (sorting on grain size and density) are the result of local hydrodynamic conditions. In this paper two measuring techniques are described which derive in situ time dependent and time averaged distributions of sediment sorted on grain size and density. The technique on measuring grain size of the sediment is described in more detail. The sediment distributions give information on the local hydrodynamic conditions on different time scales. Measurements from the field serve as a test case of describing the depth of closure from measurements of sediment composition.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1998-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5774</dc:identifier>
+	<dc:identifier>10.9753/icce.v26.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 26 (1998): Proceedings of 26th Conference on Coastal Engineering, Copenhagen, Denmark, 1998.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5774/5444</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

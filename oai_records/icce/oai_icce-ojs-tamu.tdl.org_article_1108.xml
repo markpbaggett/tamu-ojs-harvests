@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1108</identifier>
+				<datestamp>2021-01-19T09:48:47Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL FORMULA FOR THE WAVE-INDUCED SHIP MOORING FORCE</dc:title>
+	<dc:creator xml:lang="en">Meng, Xiangwei</dc:creator>
+	<dc:creator xml:lang="en">Gao, Xue-ping</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Wen-zhong</dc:creator>
+	<dc:creator xml:lang="en">Jiang, Yun-peng</dc:creator>
+	<dc:subject xml:lang="en">mooring ship cable force</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">calculation formula</dc:subject>
+	<dc:subject xml:lang="en">model test</dc:subject>
+	<dc:description xml:lang="en">The wave force dose not considered at the formula of mooring ship cable force in the Load Code for Harbor Engineering[JTJ215-98]. This brought the inconvenience to the calculation of designed cable force for mooring ship. By means of analysis for the laboratory model test result of mooring ship cable force under wave effect, Wave force formula of mooring ship under wave effect was gained. This formula well reflected the influence of ship size, ship load , ship rolling period, ship pitch period, wave period and wave height. The formula can be used in the calculation of standard value of mooring ship cable force under the wave effection, also it can be used to instruct the wave model test for mooring ship.
+
+
+References
+
+Zhang Ri-xiang. Liu Zhong-bo. Zhang Ning-chuan. 2003 .An Experimental Study on the Mooring Line Forces &amp; Impact Forces of a Moored Ship Under the Combined Action of Wind,Wave and Current [J].,China offshore Platform, (01).15-18.
+ 
+Li Yan. Zheng Bao-you.Gao Feng. Meng Xiang-wei.2007.Model test study on the impact forces and mooring line forces of a moored ship under the combined action of wave and current [J].;The Ocean Engineering, (02).57-63.
+ 
+Ministry of transport of the People's Republic of China(1998).The Load Code for Harbor Engineering(JTJ215-98). [S].
+ 
+Jiang Qing. Ge Hong-zheng.Xie Peng.2007.Influence of Ship's Type and Tonnage on the Ship's Mooring Force [J]. Port &amp; Waterway Engineering, (09).51-59.
+ 
+Wu Xiuhuan. 1999.Ship and maneuverability and seakeeping [M]. Ministry of transport of the People's Republic of China. p220.
+ 
+Zhang Wen-zhong. Etc.(2006): Model test of Mooring LNG ship at Jiangsu Provence, Tianjin Port Engineering Institute Ltd. of CCCC.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1108</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.waves.61</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; waves.61</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1108/pdf_33</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

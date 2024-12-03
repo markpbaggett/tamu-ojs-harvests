@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8285</identifier>
+				<datestamp>2020-06-22T13:59:21Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WIND WAVE MODELLING OVER THE BALTIC SEA USING WAM MODEL AND THE COUPLED OCEAN CIRCULATION-WAVE POM MODEL</dc:title>
+	<dc:creator xml:lang="en">CieÅ›likiewicz, Witold</dc:creator>
+	<dc:creator xml:lang="en">Dudkowska, Aleksandra</dc:creator>
+	<dc:creator xml:lang="en">Janowczyk, Roman</dc:creator>
+	<dc:creator xml:lang="en">RošÄinski, Vitalij</dc:creator>
+	<dc:creator xml:lang="en">Roziewski, Szymon</dc:creator>
+	<dc:creator xml:lang="en">Badur, Jordan</dc:creator>
+	<dc:subject xml:lang="en">Wind wave forecasting</dc:subject>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">sea waves</dc:subject>
+	<dc:subject xml:lang="en">WAM model</dc:subject>
+	<dc:subject xml:lang="en">project PROZA</dc:subject>
+	<dc:subject xml:lang="en">Princeton Ocean Model</dc:subject>
+	<dc:subject xml:lang="en">POM</dc:subject>
+	<dc:subject xml:lang="en">wave-current interactions</dc:subject>
+	<dc:description xml:lang="en">This study presents a setup of the wind wave forecasting model WAM working over the Baltic Sea in operational mode. The work is a part of the PROZA project financed from the Polish Innovative Economy Programme and the European Regional Development Fund. The modelling results are verified against observations recorded with a directional waverider buoy.  The results of the validation studies are presented in this paper. The agreement between the modelled and observed wave data obtained was quite a good. The model setup is part of the system allowing for operational decision-making based on atmospheric and sea conditions.
+
+In the next stage of the project we are seeking for improvement of the modelling accuracy by taking into account wave-current interactions. To this end a new version of POM with embedded wave sub-model has been implemented. Based on cross-comparisons against observed waverider buoy data and the results obtained with WAM, some adjustments of the parameters controlling the coupled circulation-wave POM were applied. They are presented and discussed in this study.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-08-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8285</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.posters.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; posters.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8285/7103</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4766</identifier>
+				<datestamp>2021-01-19T16:08:35Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE IMPACT FORCES ON MIXED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Grilli, Stephan T.</dc:creator>
+	<dc:creator xml:lang="en">Losada, Miguel A.</dc:creator>
+	<dc:creator xml:lang="en">Martin, Francisco</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">mixed breakwater</dc:subject>
+	<dc:subject xml:lang="en">wave impact</dc:subject>
+	<dc:subject xml:lang="en">wave forces</dc:subject>
+	<dc:description xml:lang="en">Flat impact of a solitary wave on a mixed breakwaters is experimentally and numerically studied, using a 2D nonlinear potential flow model. Free surface profiles, internal velocities, instantaneous pressure and pressure envelope on the wall, and on the berm, are analyzed based on both measurements and calculations. Results show, a converging flow occurs above the berm, followed by a small vertical jet, with large acceleration, that is responsible for large impact pressure on the wall. Short duration peak pressures occur above SWL, and quite large pressures also occur on the berm, as far away as twice the local depth from the wall. Maximum pressure force and overturning moment on the wall reach up to 9 and 15 times corresponding hydrostatic values based on water elevation at the wall.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4766</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4766/4447</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3079</identifier>
+				<datestamp>2021-01-20T01:48:08Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ENERGY SPECTRA OF IRREGULAR SURF WAVES</dc:title>
+	<dc:creator xml:lang="en">Busching, Fritz</dc:creator>
+	<dc:subject xml:lang="en">energy spectra</dc:subject>
+	<dc:subject xml:lang="en">surf waves</dc:subject>
+	<dc:subject xml:lang="en">irregular waves</dc:subject>
+	<dc:description xml:lang="en">The investigations under consideration are based on synchronous measurements of water level deflections n(t) at some positions in a beach profile with a slope of approximately 1:40. Surf conditions are studied during a severe storm surge as well as during periods of attenuating wave action. By the use of a FOURIER ANALYZER 40 energy spectra are calculated which are also presented in integrated form (co-cumulative spectra). Because of different site arrangements it is possible to analyze the deformation of the spectra due to tide dependent changes of the water depth as well as due to coastward decreasing water depth. It happens that there are some phenomena associated with certain frequency bands. With the water depth decreasing the energy densities in surf spectra are distributed over a wider frequency band. In the present case unbroken waves are characterized by energy spectra in which at least 90 % of the energy is represented by FOURIER components in the frequency range 0 - f - 0.5 Hz. Increasing distribution of the energy densities over a wider frequency band represents at first breaking and finally broken waves. Sometimes the amount of energy coastward of the surf zone is higher than seaward of the breakers. This phenomenon can be explained by refraction effects caused by local nearshore bathymetry. All of there investigations were sponsored by the DEUTSCHE FORSCHUNGSGEMEINSCHAFT (German Research Foundation).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3079</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3079/2744</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12705</identifier>
+				<datestamp>2023-09-01T15:12:24Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DOES COASTAL WETLAND RESTORATION WORK AS A CLIMATE CHANGE ADAPTATION STRATEGY? THE CASE OF THE SOUTH-EAST OF SICILY COAST</dc:title>
+	<dc:creator xml:lang="en">Musumeci, Rosaria Ester</dc:creator>
+	<dc:creator xml:lang="en">Marino, Massimiliano</dc:creator>
+	<dc:creator xml:lang="en">Cavallaro, Luca</dc:creator>
+	<dc:creator xml:lang="en">Foti, Enrico</dc:creator>
+	<dc:description xml:lang="en">The South-East of Sicily hosts a complex system of coastal lagoons and wetlands of great naturalistic value. The area is under significant anthropogenic pressure due to intensive agriculture and tourism activities, resulting in a decline in biodiversity, ecosystem services, and an increase in coastal erosion and flooding risks, which are further exacerbated by the impact of climate change. The present study investigates the effectiveness of a set of restoration activities to mitigate coastal risks in the region. Specifically, the effects of revegetation interventions in the estuary and in the dune strip are investigated. This was carried out through a numerical modeling developed to simulate coastal flooding under present and climate change scenarios (IPCC AR5). The model consists of a coupled SWAN model for nearshore wave processes and Xbeach for flood modelling. Wave forcing were obtained by means of extreme event analysis associated with 100 years return time. Effects of sea level rise are also included. The results show that the proposed restoration measures reduce the risk of coastal flooding from extreme wave events up to 18percent of the flooded volume.          </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12705</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12705/11978</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Rosaria Ester Musumeci, Massimiliano Marino, Luca Cavallaro, Enrico Foti</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

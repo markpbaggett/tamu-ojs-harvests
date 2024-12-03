@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7381</identifier>
+				<datestamp>2021-01-19T04:47:13Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF HORIZONTAL NON-HOMOGENEOUS SOIL PROPERTY ON LOCAL WAVE-INDUCED SOIL RESPONSE</dc:title>
+	<dc:creator xml:lang="en">Zheng, Jinhai</dc:creator>
+	<dc:creator xml:lang="en">Sui, Titi</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Chi</dc:creator>
+	<dc:creator xml:lang="en">Guo, Yakun</dc:creator>
+	<dc:subject xml:lang="en">wave</dc:subject>
+	<dc:subject xml:lang="en">soil response</dc:subject>
+	<dc:subject xml:lang="en">horizontal</dc:subject>
+	<dc:subject xml:lang="en">non-homogeneous.</dc:subject>
+	<dc:description xml:lang="en">In this study, a numerical model for wave-induced horizontal non-homogeneous seabed response is developed. Two new coefficients are proposed to describe the influence degrees of horizontal non-homogeneous soil property. The effects of wave condition and adjacent soil properties on the local soil response are investigated. Numerical results show that the influence range of the horizontal non-homogeneous soil property increases with the increase of wave period, wave height and soil permeability, and increases with the decrease of soil air content.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7381</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7381/pdf_739</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

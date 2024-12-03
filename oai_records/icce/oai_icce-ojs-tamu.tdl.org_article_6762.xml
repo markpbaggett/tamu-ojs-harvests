@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6762</identifier>
+				<datestamp>2023-10-04T02:40:11Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PIV MEASUREMENTS OF PARTICLE VELOCITIES AND TRAJECTORIES FOR INTERNAL WAVES PROPAGATING IN A TWO-LAYER FLUID ON A SLOPING BOUNDARY</dc:title>
+	<dc:creator xml:lang="en">Umeyama, Motohiko</dc:creator>
+	<dc:creator xml:lang="en">Nguyen, Kim-Cuong</dc:creator>
+	<dc:subject xml:lang="en">internal waves</dc:subject>
+	<dc:subject xml:lang="en">velocity</dc:subject>
+	<dc:subject xml:lang="en">trajectory</dc:subject>
+	<dc:subject xml:lang="en">flow measurement</dc:subject>
+	<dc:subject xml:lang="en">PIV</dc:subject>
+	<dc:description xml:lang="en">Some characteristics of internal waves propagating in a two-layer fluid on a sloping bottom were investigated experimentally using particle image velocimetry (PIV) that was originally developed to express the velocity field in a two-dimensional area. Two dimensional vector distributions of velocity were estimated at several phases during one wave cycle. The method of characteristics was adapted to calculate the interfacial displacement and water particle trajectory. In addition, the variations of wave speed, wave height and wave setup from deepwater to shallow-water regions by an imaging technique were compared with those by a wave dissipation model based on the radiation stress concept. These attempts proved the ability of the imaging technique to accurately measure both temporal and spatial variations of some physical quantities due to the propagation of internal waves. The PIV technique was applied to the prediction of Lagrangian velocity in a Eulerian scheme. The measured particle path was compared with the positions found theoretically by the method of characteristics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6762</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6762/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

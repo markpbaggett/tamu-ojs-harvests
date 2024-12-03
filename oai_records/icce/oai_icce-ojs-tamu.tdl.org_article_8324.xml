@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8324</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VALIDATION OF UNSTRUCTURED WAVEWATCH III FOR NEARSHORE WAVES</dc:title>
+	<dc:creator xml:lang="en">Smith, Jane McKee</dc:creator>
+	<dc:creator xml:lang="en">Hesser, Tyler</dc:creator>
+	<dc:creator xml:lang="en">Roland, Aron</dc:creator>
+	<dc:creator xml:lang="en">Bryant, Mary</dc:creator>
+	<dc:description xml:lang="en">Unstructured wave model grids in the nearshore coastal region provide flexibility and efficiency to resolve complex shorelines and high-gradient wave zones to drive nearshore circulation, wave setup and wave-driven sediment transport. Recent improvements to the unstructured version of WAVEWATCH III (WW3) (WW3DG 2016) to support nearshore application include an implicit solution scheme and domain decomposition for multi-scale spatial coverage over approximately three orders of magnitude. The hybrid approach to parallelization involves spectral partitioning for advection in geographical space and domain decomposition for spectral advection and the source term integration. The advection part of wave action equation is integrated fully implicitly, and a new convergent action limiter derived from Komen et al. (1994) and Hersbach and Janssen (1999) is applied. New Block-Jacobi and Block-Gauss-Seidel solvers are applied with improved convergence. The purpose of this paper is to evaluate the upgraded unstructured WW3 for nearshore application.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8324</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.waves.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; waves.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8324/7132</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8324/7804</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

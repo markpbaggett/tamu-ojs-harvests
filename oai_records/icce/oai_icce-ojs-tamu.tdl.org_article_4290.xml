@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4290</identifier>
+				<datestamp>2021-01-19T18:50:46Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL MODEL OF NEARSHORE CURRENTS DUE TO IRREGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Yamaguchi, Masataka</dc:creator>
+	<dc:subject xml:lang="en">numerical model</dc:subject>
+	<dc:subject xml:lang="en">nearshore current</dc:subject>
+	<dc:subject xml:lang="en">irregular waves</dc:subject>
+	<dc:description xml:lang="en">This paper presents a numerical model of nearshore currents due to irregular waves. The radiation stress is estimated by a current-depth refraction model for irregular waves, in which the energy dissipation due to wave breaking is modeled through the use of a saturated frequency spectrum in shallow water. The model is in reasonable agreement with measured wave height, mean water level variation and observed nearshore current patterns. Next, the model is applied to the computation of wave transformation and nearshore currents on a uniformly sloping beach and on model topographies with complicated contour lines. Comparison with the results based on a regular wave model shows that wave irregularity has a smoothing effect on cross-shore distributions of wave height, mean water level variation and longshore currents, but that it does not have much effect on nearshore current patterns.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4290</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.83</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 83</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4290/3971</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

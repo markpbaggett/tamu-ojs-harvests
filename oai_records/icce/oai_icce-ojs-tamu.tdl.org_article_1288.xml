@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1288</identifier>
+				<datestamp>2023-10-04T04:28:58Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOE ROCK STABILITY FOR RUBBLE MOUND BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Baart, Stephan</dc:creator>
+	<dc:creator xml:lang="en">Ebbens, Reinder</dc:creator>
+	<dc:creator xml:lang="en">Nammuni-Krohn, Julia</dc:creator>
+	<dc:creator xml:lang="en">Verhagen, Henk Jan</dc:creator>
+	<dc:subject xml:lang="en">rubble mound breakwater</dc:subject>
+	<dc:subject xml:lang="en">toe structure</dc:subject>
+	<dc:subject xml:lang="en">toe bund</dc:subject>
+	<dc:subject xml:lang="en">rock stability</dc:subject>
+	<dc:subject xml:lang="en">wave load</dc:subject>
+	<dc:subject xml:lang="en">foreshore slope</dc:subject>
+	<dc:description xml:lang="en">Present design tools, as found in the Rock Manual or Coastal Engineering Manual, for the determination of toe rock size for rubble mound breakwaters are based on test data with a large spread: data is relatively dispersed around the centre and descriptive equations have limited applicability ranges. New research has been undertaken to contribute to a more accurate description of toe rock stability. Flume tests have lead to an empirical design criterion for toe bunds in very shallow water based on the Hudson-type stability number. Herein the foreshore slope turns out to have an important influence. An approach with theoretical background has been used for toe bunds in surging wave conditions. The resulting stability description, based on local flow velocities, has been verified with existing data sets. Additional flume tests were performed to measure flow velocities at the toe bund. Results are used to calibrate the velocity-approach, providing an improved design criterion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1288</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.structures.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; structures.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1288/pdf_90</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

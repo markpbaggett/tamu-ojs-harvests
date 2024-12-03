@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6700</identifier>
+				<datestamp>2023-10-04T02:44:20Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOW VISUALISATION AROUND A SOLID SPHERE ON A ROUGH BED UNDER REGULAR WAVES</dc:title>
+	<dc:creator xml:lang="en">Vithana, Hela Vidura</dc:creator>
+	<dc:creator xml:lang="en">Simons, Richard Robert</dc:creator>
+	<dc:creator xml:lang="en">Hyde, Martin</dc:creator>
+	<dc:subject xml:lang="en">Shear stress</dc:subject>
+	<dc:subject xml:lang="en">incipient motion</dc:subject>
+	<dc:subject xml:lang="en">flow visualization</dc:subject>
+	<dc:description xml:lang="en">Flow visualization using Volumetric Three-component Velocimetry (V3V) was carried out during laboratory tests to determine threshold shear stress and forces on idealized spherical stones. Incipient motion tests consisted of light weight spherical particles of specific gravity=1.19-2.65 and diameter=9.6mm-31.8mm. In-line and uplift forces on a 50mm sphere sitting on a rough bed of similar spheres were measured using pressure transducers linked to tappings on the sphere surface. It was found that the Shields critical shear stress and stone protrusion has an exponential relationship. At an exposure of 0.2d and less, bed protection is remarkably stable. Incipient motion data for currents are applicable for waves when the flow is fully developed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6700</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6700/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

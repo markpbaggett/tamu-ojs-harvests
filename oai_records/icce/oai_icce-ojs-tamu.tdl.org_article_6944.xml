@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6944</identifier>
+				<datestamp>2023-10-04T02:50:08Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NONLINEAR BEHAVIOUR OF TSUNAMI-LIKE SOLITARY WAVE OVER SUBMERGED IMPERMEABLE STRUCTURES OF FINITE WIDTH</dc:title>
+	<dc:creator xml:lang="en">Strusinska-Correia, Agnieszka</dc:creator>
+	<dc:creator xml:lang="en">Oumeraci, Hocine</dc:creator>
+	<dc:subject xml:lang="en">solitary wave</dc:subject>
+	<dc:subject xml:lang="en">impermeable submerged structure</dc:subject>
+	<dc:subject xml:lang="en">soliton fission</dc:subject>
+	<dc:subject xml:lang="en">wave breaking</dc:subject>
+	<dc:subject xml:lang="en">wave transmission</dc:subject>
+	<dc:subject xml:lang="en">reflection</dc:subject>
+	<dc:subject xml:lang="en">energy dissipation</dc:subject>
+	<dc:description xml:lang="en">A study on the nonlinear transformation of a tsunami-like solitary wave over impermeable submerged structures of finite widths was performed to examine the feasibility of the integration of such structures into tsunami coastal protection systems. Laboratory experiments with varying structure geometry and incident wave conditions were conducted to determine wave evolution modes, incipient wave breaking and the number of solitons resulting from the wave fission process. The latter was found to be constant for a given relative structure submergence depth and width, irrespective of incident wave conditions, and tended to increase for smaller freeboards and larger barrier widths. The hydraulic performance of the structure, predicted numerically for more realistic tsunami conditions by means of the Boussinesq-type model COULWAVE, was determined in terms of wave transmission, wave reflection and wave energy dissipation coefficients. The rate of wave transmission and energy dissipation was dependent on the breaking conditions over the structure crest: the weakest wave attenuation (approximately 10%) corresponded to nonbreaking waves, while the highest wave damping (about 25%) was achieved for the widest relative structure width (B/Li = 1.0) and the smallest relative structure submergence depth (dr/h = 0.3) investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6944</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6944/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

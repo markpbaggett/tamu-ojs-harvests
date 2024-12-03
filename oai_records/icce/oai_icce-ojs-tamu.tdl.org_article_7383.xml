@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7383</identifier>
+				<datestamp>2021-01-19T04:46:36Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY OF ARMOR UNITS COVERING RUBBLE MOUND OF COMPOSITE BREAKWATERS AGAINST A STEADY OVERFLOW OF TSUNAMI</dc:title>
+	<dc:creator xml:lang="en">Mitsui, Jun</dc:creator>
+	<dc:creator xml:lang="en">Matsumoto, Akira</dc:creator>
+	<dc:creator xml:lang="en">Hanzawa, Minoru</dc:creator>
+	<dc:creator xml:lang="en">Nadaoka, Kazuo</dc:creator>
+	<dc:subject xml:lang="en">tsunami</dc:subject>
+	<dc:subject xml:lang="en">overflow</dc:subject>
+	<dc:subject xml:lang="en">armor unit</dc:subject>
+	<dc:subject xml:lang="en">stability</dc:subject>
+	<dc:subject xml:lang="en">harbor-side</dc:subject>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:description xml:lang="en">This paper presents a simple and highly accurate stability estimation method for armor units covering breakwater rubble mounds against tsunami overflow. In this method, overflow depth is used to represent the external force. This enables an easier and more robust estimation of the required mass of the armor units than the conventional method based on flow velocity. This method takes into account the influence of the impingement position of the overflow jet and the influence of harbor-side water depth, both of which are important factors for armor stability. Numerical computation is also carried out aiming at the establishment of a stability analysis method for armor units. The validity of the computation method is confirmed by comparing the measured current field. The stability of armor units is investigated by computing the hydraulic force acting on each armor unit.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7383</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7383/pdf_741</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

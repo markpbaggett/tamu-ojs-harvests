@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6812</identifier>
+				<datestamp>2023-10-04T02:35:21Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FREQUENCY-BASED HARBOR RESPONSE TO INCIDENT TSUNAMI WAVES IN AMERICAN SAMOA</dc:title>
+	<dc:creator xml:lang="en">Huang, Ziyi</dc:creator>
+	<dc:creator xml:lang="en">Lee, Jiin-Jen</dc:creator>
+	<dc:subject xml:lang="en">tsunami waves</dc:subject>
+	<dc:subject xml:lang="en">American Samoa</dc:subject>
+	<dc:subject xml:lang="en">Pago Pago Harbor</dc:subject>
+	<dc:subject xml:lang="en">frequency-based model</dc:subject>
+	<dc:subject xml:lang="en">fundamental resonance mode</dc:subject>
+	<dc:subject xml:lang="en">local response</dc:subject>
+	<dc:subject xml:lang="en">mode shape</dc:subject>
+	<dc:subject xml:lang="en">near-field tsunami</dc:subject>
+	<dc:description xml:lang="en">September 29, 2009 Samoa tsunami attacked Pago Pago Harbor, the major harbor in American Samoa. The original tsunami waves were greatly amplified when they propagated into the harbor, causing extensive inundations and thus fatalities and village damages. A frequency-based numerical model developed by Lee and Xing (2010) was utilized to investigate the mechanism of the amplification. The fundamental resonance mode of the harbor was identified as 18-minutes period based on the average water depth; the computed amplification factor, defined as the ratio of responded wave amplitude to incoming wave amplitude, was quite large on the fundamental mode at the interior of the harbor. Tidal gauge measurements of several other tsunami events in Pacific Ocean verified the simulation results and further corroborated the local response due to the topography and bathymetry of the harbor is responsible for the amplification of incoming waves. An unfounded speculation was discussed to interpret the distinguishing frequency distribution of wave spectral density in the Samoa tsunami event.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>video/avi</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6812</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6812/pdf</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6812/7757</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6812/7758</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

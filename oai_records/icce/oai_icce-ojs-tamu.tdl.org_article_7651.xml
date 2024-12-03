@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7651</identifier>
+				<datestamp>2021-01-20T04:17:16Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASURED GRADIENTS IN ALONGSHORE SEDIMENT TRANSPORT ALONG THE DUTCH COAST</dc:title>
+	<dc:creator xml:lang="en">de Vries, Sierd</dc:creator>
+	<dc:creator xml:lang="en">de Schipper, Matthieu Andreas</dc:creator>
+	<dc:creator xml:lang="en">Stive, Marcel</dc:creator>
+	<dc:subject xml:lang="en">Alongshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">Sand Engine</dc:subject>
+	<dc:subject xml:lang="en">Topographic measurement</dc:subject>
+	<dc:description xml:lang="en">In this paper it is aimed to quantify bulk (surf-zone integrated) alongshore sediment transport using morphological data collected along the Dutch coast. The collected morphological data covers a domain of 18 km alongshore including the beach, the foreshore and the intertidal zone in the cross shore. The  measurement domain contains the 20 million m 3 Sand Engine mega-nourishment. Detailed volume changes in cross shore profiles are calculated using the collected data. Based on the calculated volume changes in the cross shore profiles, gradients in alongshore transport can be derived. In the scope of this paper we have derived alongshore transport gradients considering three periods; 1) a period of one year; 2) a period of two months with mild wave conditions; 3) a period of four months with stormy weather. Changes in the derived gradients in sediment transport for the selected periods are significant depending on alongshore location and temporally varying forcing conditions. The potential of the data-set is only explored to a limited extent so far. Additional parameters to be analyzed in the future are coastline orientation and cross shore profile gradients.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7651</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.58</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.58</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7651/pdf_848</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4074</identifier>
+				<datestamp>2021-01-19T20:04:54Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NUMERICAL INVESTIGATION OF THE LONGSHORE CURRENT PROFILE FOR MULTIPLE BAR/TROUGH BEACHES</dc:title>
+	<dc:creator xml:lang="en">Baum, Steven K.</dc:creator>
+	<dc:creator xml:lang="en">Basco, David R.</dc:creator>
+	<dc:subject xml:lang="en">numerical investigation</dc:subject>
+	<dc:subject xml:lang="en">longshore current</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:subject xml:lang="en">current profile</dc:subject>
+	<dc:subject xml:lang="en">multiple bear</dc:subject>
+	<dc:subject xml:lang="en">trough beach</dc:subject>
+	<dc:description xml:lang="en">A numerical model is developed which calculates the longshore current profile for an arbitrary bottom profile. The basis of the model is the use of radiation stress theory in a longshore momentum balance equation which includes a driving stress, a bottom stress, and a lateral mixing stress. Each of the stresses is derived from previously developed formulations, rederiving them to take into account separate cross shore variations in the wave height and the water depth, as well as the wave approach angle. This is done to dispense with the constant wave breaking index assumption used to model wave decay in the surf zone, which is rejected as unrealistic for natural beaches. A numerical model is used to calculate distributions of the wave height and water depth across the surf zone for arbitrary, yet realistic, bottom profiles. A numerical model of the theoretically derived longshore momentum balance equation is developed and solved using the distributions obtained from the wave decay model. The profiles calculated are compared to previous theoretical models and to laboratory and field measurements.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4074</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4074/3756</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7794</identifier>
+				<datestamp>2021-01-20T04:01:29Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN EFFECTIVE DESIGN OF A DOUBLE PARAPET PERMEABLE-TYPE SEAWALL USING THE CADMAS-SURF SIMULATION</dc:title>
+	<dc:creator xml:lang="en">Ishimoto, Kenji</dc:creator>
+	<dc:creator xml:lang="en">Asano, Toshiyuki</dc:creator>
+	<dc:creator xml:lang="en">Ono, Nobuyuki</dc:creator>
+	<dc:creator xml:lang="en">Kojima, Haruyuki</dc:creator>
+	<dc:subject xml:lang="en">overtopping waves</dc:subject>
+	<dc:subject xml:lang="en">CADMAS-SURF</dc:subject>
+	<dc:subject xml:lang="en">Double Para-pet</dc:subject>
+	<dc:subject xml:lang="en">permeable layer</dc:subject>
+	<dc:subject xml:lang="en">physical model</dc:subject>
+	<dc:description xml:lang="en">At Beppu port (Kitahama area 1), where Satohama creation is underway with considerations of protection against the high tide, utilization of the seashore, and the environment, a double parapet seawall for both utilization and protective effects was planned. For a double parapet seawall, vertical wave-dissipating blocks and a permeable layer structure for drainage were employed. To evaluate the multiple functions of protection for overtopping waves, (Super Roller Flume for Computer Aided Design of Maritime Structures) and a physical model were conducted. The calculated overtopping flow of CADMAS-SURF matched with that of the simulation model through CADMAS-SURF, and therefore the applicability of the physical model was confirmed. Since the physical model is often performed for representative cross- sections, reflecting the results of the physical model for parameter adjustment in the CADMAS-SURF computation resulted in improving the reliability of examinations of other parts of cross-sectional dimensions, and therefore enabled the omission of Unneeded cases in the physical model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7794</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.structures.67</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; structures.67</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7794/pdf_898</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

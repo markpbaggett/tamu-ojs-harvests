@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/10177</identifier>
+				<datestamp>2021-01-03T02:39:57Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NONLINEAR METHOD FOR REAL-TIME WAVE FORCE RECONSTRUCTION ON A CYLINDER BY USING MEASURED WAVE ELEVATION</dc:title>
+	<dc:creator xml:lang="en">Liu, Jiabin</dc:creator>
+	<dc:creator xml:lang="en">Guo, Anxin</dc:creator>
+	<dc:description xml:lang="en">For a constructed offshore structure, wave force evaluation on its foundation in an intricate wave field will benefit the load data collection and structural safety monitoring. Then, the collected data can provide valuable references for similar structures constructed in the same ocean region in the future. A real-time wave force prediction can further contribute to the active control of the structural dynamic responses. According to the incident waves known or unknown, the wave force reconstruction issue can be divided into two categories. When the incident waves are known, the wave forces on the cylinder can be achieved by the theoretical methods or numerical methods. When the incident waves are unknown, researchers try to reconstruct the wave force indirectly. For a small-scale cylinder, researchers predicted the wave forces by using the Morison equation in random wave fields with measured data of wave elevation. These studies indicated a shortcut for determining the wave force on the cylinder by using the data of water surface elevation. However, the wave fields are assumed to be undisturbed by the structure in the mentioned studies. For a vertical larger-scale cylinder, Liu et al. (2018) established a prediction method to reconstruct wave force by using the recorded data of wave elevation around the cylinder. A linear method for the circular cylinder is provided that shows an excellent reconstruction of wave force for its dominant frequent components. However, reconstruction results showed that high frequency wave forces are underestimated and low frequency wave forces are overestimated, which means the linear method is incapable to predict the nonlinear wave forces on the structure. An improved method is built for reconstructing wave forces on a circular cylinder in the real-time. Two different algorithms, Fast Fourier Translation (FFT) and Recursive Least Squares (RLS), for real-time reconstruction are conducted. The present method can be applied for the data collection of wave loads on a constructed offshore structure.Recorded Presentation from the vICCE (YouTube Link): https://youtu.be/PYOuCNP8pgQ</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2020-12-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/10177</dc:identifier>
+	<dc:identifier>10.9753/icce.v36v.structures.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36v (2020): Proceedings of virtual Conference on Coastal Engineering, 2020; structures.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/10177/9463</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Jiabin Liu, Anxin Guo</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

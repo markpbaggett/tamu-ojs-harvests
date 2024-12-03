@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4467</identifier>
+				<datestamp>2021-01-19T17:50:25Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN EXPERIMENTAL STUDY OF WAVE ON A STRONGLY SHEARED CURRENT PROFILE</dc:title>
+	<dc:creator xml:lang="en">Swan, Christopher</dc:creator>
+	<dc:subject xml:lang="en">current profile</dc:subject>
+	<dc:subject xml:lang="en">experimental study</dc:subject>
+	<dc:subject xml:lang="en">waves study</dc:subject>
+	<dc:subject xml:lang="en">current shear</dc:subject>
+	<dc:description xml:lang="en">This paper describes a series of observations within a combined wave-current flume. A two dimensional progressive wave train was superimposed upon a co-flowing current profile. The direction of this current was reversible, thereby allowing the formation of both a "favourable" current velocity (one in which the current is in the same direction as the wave celerity), and an "adverse" current velocity. The combined flow field was measured using laser Doppler anemometry. The nature of the current profile was modified so as to allow an investigation of the interaction resulting from both a uniform current and a sheared current profile. In the case of a uniform current, there was no observable phase change between the surface elevation and the velocity profile. In this respect the present measurements are very different from the observations presented by Brevik (1980a). Indeed, they confirm that a description of the oscillatory motion merely requires the introduction of a Doppler shift as was suggested by Fenton (1985). In the case of a sheared current profile the oscillatory component of the wave motion is found to be strongly dependant upon the vorticity within the current profile. The analytical solution proposed by Kishida and Sobey (1988) appears to underestimate the extent of the interaction, while the numerical solution proposed by Chaplin (1990) provides a better description of the combined flow field. The departure from irrotational theory is significant. In the case of waves superimposed on a strongly sheared "adverse" current the horizontal velocity component may be as much as 80% larger than the predicted irrotational motion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4467</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4467/4148</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

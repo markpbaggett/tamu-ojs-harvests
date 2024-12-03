@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2401</identifier>
+				<datestamp>2021-01-17T05:15:39Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL CALCULATION OF WIND WAVES IN SHALLOW WATER</dc:title>
+	<dc:creator xml:lang="en">Ijima, Takeshi</dc:creator>
+	<dc:creator xml:lang="en">Tang, Frederick L.W.</dc:creator>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">shallow water</dc:subject>
+	<dc:subject xml:lang="en">numerical calculation</dc:subject>
+	<dc:description xml:lang="en">For the purpose of estimating the waves raised by typhoons approaching continental shelf and inland seas, one of the authors (I960) devised graphical method to the forecasting the waves in the fetches travelling over shallow water area in I960. The method has been widely adopted to evaluate the waves of the bays and inland seas in Japan and the western coast of Taiwan, since it was proved that calculated results considerably agreed with measured records. On the account of the spread of electronic computers, numerical analysis will be more expedient than graphical operations nowadays. Wilson s numerical integration method (I96I)(I962) has been extended to facilitate the calculation of the waves of shallow water area. The procedures of calculation are described and example of hindcasting of waves in typhoon by the machine run are also submitted in this paper.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1966-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2401</dc:identifier>
+	<dc:identifier>10.9753/icce.v10.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 10 (1966): Proceedings of 10th Conference on Coastal Engineering, Tokyo, Japan, 1966.; 3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2401/2076</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

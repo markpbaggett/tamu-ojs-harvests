@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3833</identifier>
+				<datestamp>2021-01-19T21:28:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF WAVE GROUP STATISTICS</dc:title>
+	<dc:creator xml:lang="en">Elgar, Steve</dc:creator>
+	<dc:creator xml:lang="en">Guza, R.T.</dc:creator>
+	<dc:creator xml:lang="en">Seymour, R.J.</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">wave prediction</dc:subject>
+	<dc:subject xml:lang="en">statistics</dc:subject>
+	<dc:description xml:lang="en">Two methods of numerically simulating random seas, given a target power spectrum, are discussed. Wave group statistics, such as the mean length of runs of high waves, produced by the different simulation schemes are compared. For a large number of spectral components, no significant differences are found in the wave group statistics produced by the two simulation techniques. Using the simulation techniques, it is shown that ocean gravity wave group statistics are not inconsistent with an underlying wave field composed of linearly superposed random waves. The majority of the field data examined were collected in 9-10 m depth, significant wave heights ranged from about 20 to 200 cm, and the spectral shapes ranged from fairly narrow to broad. For the 9-10 m depth data, observed mean run length, variance of run length, and the probabilities of runs of a given number of high waves were statistically consistent with the linear simulations. In contrast to the apparent linear behavior in 9-3 0 m depth, waves in 2-3 m depth showed substantial departures from the linear simulations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3833</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3833/3516</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

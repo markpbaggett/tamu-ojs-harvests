@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4441</identifier>
+				<datestamp>2021-01-19T17:59:09Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VIOLENT WATER MOTION AT BREAKING-WAVE IMPACT</dc:title>
+	<dc:creator xml:lang="en">Cooker, M.J.</dc:creator>
+	<dc:creator xml:lang="en">Peregrine, D.H.</dc:creator>
+	<dc:subject xml:lang="en">wave impact</dc:subject>
+	<dc:subject xml:lang="en">breaking wave</dc:subject>
+	<dc:subject xml:lang="en">violent water motion</dc:subject>
+	<dc:description xml:lang="en">A numerical study of water waves breaking against a vertical wall is described. The exact equations for free-surface potential flow are solved. Solutions for a simple overturning wave meeting a vertical wall placed at several positions give unexpectedly violent water motion. The face of the incident wave can converge towards a point on the wall causing very high pressure, acceleration and velocity. It seems likely that this particular type of flow corresponds to the most extreme conditions encountered in laboratories and on coasts despite the lack of any direct water impact. Details of the flow reveal that compressibility of the water is unlikely to be relevant for wave forces, but that scaling from laboratory to prototype should allow for wall roughness and for small waves riding on the incident wave.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1990-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4441</dc:identifier>
+	<dc:identifier>10.9753/icce.v22.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 22 (1990): Proceedings of 22nd Conference on Coastal Engineering, Delft, The Netherlands, 1990.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4441/4122</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

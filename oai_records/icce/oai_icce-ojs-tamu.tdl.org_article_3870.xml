@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3870</identifier>
+				<datestamp>2021-01-19T21:16:05Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOW RESISTANCE DUE TO INTENSE BEDLOAD TRANSPORT</dc:title>
+	<dc:creator xml:lang="en">Hanes, Daniel M.</dc:creator>
+	<dc:subject xml:lang="en">flow resistance</dc:subject>
+	<dc:subject xml:lang="en">bedload transport</dc:subject>
+	<dc:subject xml:lang="en">intense transport</dc:subject>
+	<dc:description xml:lang="en">When water flows over a stationary bed the fluid motion is retarded by both skin the friction and local pressure gradient forces related to the roughness of the bed. If the bed itself is composed of discreet movable grains, the boundary is less clearly defined and the dynamics poorly understood (see Gust and Southard, 1983). Owen (1964) proposed that saltating grains (grains which lift off the bed, move through the fluid, and fall back to the bed without colliding with other grains) have the effect of increasing the frictional resistance of the bottom. At higher flow stages, Hanes and Bowen (1984) have suggested a model for bedload transport which is based upon the dynamics of collisional grain flows following Bagnold (1954, 1956). In such a collision dominated flow, it appears that the resistance of the bed to the overlying flow can be less than the resistance of a fixed bed to the same overlying flow. This result is consistent with the dynamics of rapid granular-fluid flows, as will be discussed below.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1984-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3870</dc:identifier>
+	<dc:identifier>10.9753/icce.v19.89</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 19 (1984): Proceedings of 19th Conference on Coastal Engineering, Houston, Texas, 1984.; 89</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3870/3553</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

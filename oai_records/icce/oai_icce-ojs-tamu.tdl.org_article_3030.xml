@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3030</identifier>
+				<datestamp>2021-01-20T02:05:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE DESIGN SYSTEMS FOR APPLICATIONS IB COASTAL ENGINEERING</dc:title>
+	<dc:creator xml:lang="en">Abbott, M.B.</dc:creator>
+	<dc:creator xml:lang="en">Bertelsen, J. Aa.</dc:creator>
+	<dc:creator xml:lang="en">Verwey, A.</dc:creator>
+	<dc:subject xml:lang="en">design systems</dc:subject>
+	<dc:subject xml:lang="en">engineering application</dc:subject>
+	<dc:description xml:lang="en">The Computational Hydraulics Centre in Copenhagen has developed three design systems for applications in hydraulics, coastal and offshore engineering. Each system constitutes a software - documentation entity that automatically constructs and runs mathematical models of a specific class when presented only with the model description. The systems concerned are as follows: System 11, "Siva", is restricted to 1-dimensional flows of 1-layer (vertically homogeneous) fluids. System 21, "Jupiter", applies to 2-dimensional flows of 1-layer fluids. Systems 12/13 and 22/23, "Neptune", apply to 1-dimensional flows with 2 or 3 layers for the 12/13 and 2-dimensional flows with 2 or 3 layers for the 22/23. Brief descriptions of these systems follow.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1974-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3030</dc:identifier>
+	<dc:identifier>10.9753/icce.v14.135</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 14 (1974): Proceedings of 14th Conference on Coastal Engineering, Copenhagen, Denmark, 1974.; 135</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3030/2695</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

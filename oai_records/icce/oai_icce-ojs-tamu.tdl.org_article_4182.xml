@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4182</identifier>
+				<datestamp>2021-01-19T19:28:00Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INNOVATIVE DETERMINATION OF NEARSHORE FLOOD FREQUENCY</dc:title>
+	<dc:creator xml:lang="en">Butler, H. Lee</dc:creator>
+	<dc:creator xml:lang="en">Prater, Mark D.</dc:creator>
+	<dc:subject xml:lang="en">nearshore flood</dc:subject>
+	<dc:subject xml:lang="en">flood frequency</dc:subject>
+	<dc:description xml:lang="en">Reliable estimates of coastal flooding from tides and storm surges are required for making sound engineering decisions regarding the design, operation and maintenance of many coastal projects. A recent investigation of flood frequency along the coast and within the bays of southern Long Island, New York, produced new and optimal approaches to obtain meaningful statistical estimates of flood levels. This paper summarizes various elements of the study and concentrates on the problem of stage-frequency computations in the inland bay areas. Methods for optimizing the number of necessary storm/tide simulations and estimating the accuracy of results are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1986-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4182</dc:identifier>
+	<dc:identifier>10.9753/icce.v20.181</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 20 (1986): Proceedings of 20th Conference on Coastal Engineering, Taipei, Taiwan, 1986.; 181</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4182/3863</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

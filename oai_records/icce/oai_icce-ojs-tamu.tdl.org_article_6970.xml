@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6970</identifier>
+				<datestamp>2023-10-04T02:47:54Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANALYSIS OF CURRENT PATTERNS IN COASTAL AREAS USING X-BAND</dc:title>
+	<dc:creator xml:lang="en">Swinkels, Cilia</dc:creator>
+	<dc:creator xml:lang="en">Peters, Herman</dc:creator>
+	<dc:creator xml:lang="en">van Heesen, Jos</dc:creator>
+	<dc:subject xml:lang="en">remote sensing</dc:subject>
+	<dc:subject xml:lang="en">x-band radar</dc:subject>
+	<dc:subject xml:lang="en">nearshore hydrodynamics</dc:subject>
+	<dc:subject xml:lang="en">numerical modelling</dc:subject>
+	<dc:description xml:lang="en">The Seadarq software from Nortek is designed to derive wave, water depth and current information from ordinary navigation radar images. This is done by analysis of the wave propagation patterns using an inverse dispersion fitting technique. The remotely sensed data provides the unique opportunity to assess temporal and spatial propagation patterns
+of waves and currents over a significant stretch of water overlooked by a radar station. This exploratory study shows that radar data can provide very valuable insight in otherwise seldom disclosed current patterns. The spatial and temporal information of the radar data may allow us to calibrate our numerical model not only for water levels but now also for
+details in the currents patterns. Moreover, the radar data has improved the understanding of the hydrodynamics in a complex tidal inlet and around a mega-nourishment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6970</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6970/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

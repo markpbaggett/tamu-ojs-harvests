@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8215</identifier>
+				<datestamp>2020-06-22T13:59:01Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE-EDDY SIMULATION OF OSCILLATORY FLOW AND MORPHODYNAMICS OVER RIPPLES</dc:title>
+	<dc:creator xml:lang="en">Leftheriotis, Georgios</dc:creator>
+	<dc:creator xml:lang="en">Dimas, Athanassios</dc:creator>
+	<dc:subject xml:lang="en">ripples</dc:subject>
+	<dc:subject xml:lang="en">oscillatory flow</dc:subject>
+	<dc:subject xml:lang="en">sediment transport</dc:subject>
+	<dc:subject xml:lang="en">bed load</dc:subject>
+	<dc:subject xml:lang="en">suspended load</dc:subject>
+	<dc:subject xml:lang="en">morphodynamics</dc:subject>
+	<dc:subject xml:lang="en">immersed boundary</dc:subject>
+	<dc:subject xml:lang="en">large eddy simulation</dc:subject>
+	<dc:description xml:lang="en">The objective of the present study was to study the morphodynamical development of ripples in a movable bed. The methodology is based on the coupling of fluid flow, sediment transport and morphodynamics. A well-resolved large-eddy simulation (LES) is employed for the simulation of the three-dimensional turbulent oscillatory flow and the corresponding bed and suspended sediment transport over a rippled bed. The evolution of the bed form is obtained by the numerical solution of the Exner equation based on the spanwise-mean flow and sediment transport conditions. The Immersed Boundary method is implemented for the imposition of fluid and sediment boundary conditions on the moving bed surface. Results are presented for ripple creation and propagation from a quasi-flat bed, as well as results of initially sinusoidal ripples adapting to water conditions, based on the mobility number, Ïˆ. The numerical model demonstrates phenomena of ripple creation, propagation and migration, resulting in ripple lengths in agreement with those predicted by empirical equations. It was shown that under the same hydrodynamic forcing, the bed tends to reach the same equilibrium state, regardless of the initial bed form.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2017-06-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8215</dc:identifier>
+	<dc:identifier>10.9753/icce.v35.sediment.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 35 (2016): Proceedings of 35th Conference on Coastal Engineering, Antalya, Turkey, 2016; sediment.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8215/pdf</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

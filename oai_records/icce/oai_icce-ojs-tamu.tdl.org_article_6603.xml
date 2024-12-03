@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6603</identifier>
+				<datestamp>2023-10-04T03:13:35Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPATIOTEMPORAL ANALYSIS OF VARIATIONS OF CERTAIN MORPHOLOGICAL BEACH FORMS</dc:title>
+	<dc:creator xml:lang="en">Pruszak, Zbigniew</dc:creator>
+	<dc:creator xml:lang="en">Schönhofer, Jan</dc:creator>
+	<dc:creator xml:lang="en">RóÅ¼yÅ,,ski, Grzegorz</dc:creator>
+	<dc:subject xml:lang="en">shoreline</dc:subject>
+	<dc:subject xml:lang="en">dune foot</dc:subject>
+	<dc:subject xml:lang="en">non-tidal sea</dc:subject>
+	<dc:subject xml:lang="en">Baltic Sea</dc:subject>
+	<dc:subject xml:lang="en">wavelet transform</dc:subject>
+	<dc:description xml:lang="en">The study is focused on spatiotemporal shoreline variability at a beach with a wide surf zone featuring 3-5 bars based on field observations done between 1983-2008 in the south Baltic Sea. The implementation of various analyses from simple geometry, through spectral analysis up to Discrete Wavelet Transform (DWT) allowed for a synergistic description of simultaneous shoreline and dune foot variability in space and time. The results include meso-scale and long-term phenomena with time scales from several months to many years and spatial scales ranking between a few hundred meters up to several kilometers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6603</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.82</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.82</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6603/pdf_592</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

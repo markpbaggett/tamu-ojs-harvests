@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12770</identifier>
+				<datestamp>2023-09-01T15:13:01Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEPTH-RESOLVED MODELLING OF SEDIMENT FLUXES UNDER BICHROMATIC WAVES IN THE SWASH ZONE</dc:title>
+	<dc:creator xml:lang="en">Kranenborg, J.W.M.</dc:creator>
+	<dc:creator xml:lang="en">Campmans, G.H.P.</dc:creator>
+	<dc:creator xml:lang="en">Werf, J.J. Van der</dc:creator>
+	<dc:creator xml:lang="en">McCall, R.T.</dc:creator>
+	<dc:creator xml:lang="en">Reniers, A.J.H.M.</dc:creator>
+	<dc:creator xml:lang="en">Hulscher, S.J.M.H.</dc:creator>
+	<dc:description xml:lang="en">Traditionally, many numerical studies of sediment transport or morphodynamics in the swash zone use depth-averaged approach. This is relatively computationally cheap, however, the assumptions it makes on vertical structures of the flow velocity and suspended sediment concentration are not always fully met. Depth-resolving models, albeit more computationally expensive, offer the ability to investigate sediment transport without imposing assumptions on vertical structures. Therefore, these models are a great tool for investigating processes related to sediment transport in the swash zone. In this study, will look at the behavior of suspended sediment in the swash zone, and the role vertical structures therein.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12770</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.currents.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; currents.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12770/12043</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 J.W.M. Kranenborg, G.H.P. Campmans, J.J. Van der Werf, R.T. McCall, A.J.H.M. Reniers, S.J.M.H. Hulscher</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

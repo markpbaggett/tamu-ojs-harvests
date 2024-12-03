@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3125</identifier>
+				<datestamp>2021-01-20T01:31:37Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY AND IMPULSE RESPONSE OF EMPIRICAL EIGENFUNCTIONS</dc:title>
+	<dc:creator xml:lang="en">Winant, Clinton D.</dc:creator>
+	<dc:creator xml:lang="en">Aubrey, David G.</dc:creator>
+	<dc:subject xml:lang="en">Eigenfunctions</dc:subject>
+	<dc:subject xml:lang="en">impulse response</dc:subject>
+	<dc:subject xml:lang="en">stability</dc:subject>
+	<dc:description xml:lang="en">The statistical method of empirical eigenfunctions has been applied to four years of beach profile data. The eigenfunctions associated with the three largest eigenvalues are shown to be stable for data sets of one, two, three, and four years length, and they correctly describe beach changes caused by storm activity. The usefulness of the eigenfunction representation is confirmed as a concise means of representing beach profile variability.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1976-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3125</dc:identifier>
+	<dc:identifier>10.9753/icce.v15.76</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 15 (1976): Proceedings of 15th Conference on Coastal Engineering, Honolulu, Hawaii, 1976.; 76</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3125/2790</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

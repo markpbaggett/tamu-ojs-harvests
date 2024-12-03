@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12933</identifier>
+				<datestamp>2023-09-01T15:14:28Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE EDDY SIMULATIONS OF BREAKING WAVE IMPACT ON A VERTICAL WALL ATTACHED WITH PARAPET</dc:title>
+	<dc:creator xml:lang="en">Ravindar, Rajendran</dc:creator>
+	<dc:creator xml:lang="en">Christou, Aristos</dc:creator>
+	<dc:creator xml:lang="en">Sriram, Venkatachalam</dc:creator>
+	<dc:creator xml:lang="en">Stoesser, Thorsten</dc:creator>
+	<dc:description xml:lang="en">Wave return seawalls are structures designed to protect the leeward side from overtopping due to the action of waves. The numerical modelling of breaking waves on fully reflective structures like wave return seawalls are challenging due to the complex fluid dynamics involved, air-water mixture's interaction due to air entrapment and air entrainment and the dominant change in the ambient pressure as an effect of the hydrodynamic flow, which leads to compression and expansion of the air pocket. In this study, the vertical wall with parapet is considered since existing vertical walls are convenient to be retrofitted with such attachments to increase their efficiency in overtopping reduction. Very few numerical studies exist of violent breaking wave impacts on a vertical wall with parapets or curved structures, to the authors' knowledge.  In addition, no direct numerical study discusses breaking wave impact on such structures and validated with experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12933</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12933/12206</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Rajendran Ravindar, Aristos Christou, Venkatachalam Sriram,Thorsten Stoesser</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

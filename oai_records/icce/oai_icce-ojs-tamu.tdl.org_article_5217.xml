@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5217</identifier>
+				<datestamp>2021-01-19T13:34:19Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF PROPAGATING NONLINEAR WAVE GROUPS</dc:title>
+	<dc:creator xml:lang="en">de Haas, Paul</dc:creator>
+	<dc:creator xml:lang="en">Dingemans, Maarten</dc:creator>
+	<dc:creator xml:lang="en">Klopman, Gert</dc:creator>
+	<dc:subject xml:lang="en">wave group</dc:subject>
+	<dc:subject xml:lang="en">nonlinear waves</dc:subject>
+	<dc:subject xml:lang="en">wave propagation</dc:subject>
+	<dc:subject xml:lang="en">wave simulation</dc:subject>
+	<dc:description xml:lang="en">Propagating nonlinear waves can be computed with a time-domain numerical method based on a boundary element method. For the simulation of propagating wave groups a domain decomposition method is used to increase the efficiency of the model and to enable simulation over many wave periods. In the computations described in this paper several nonlinear formulations for an initial wave group signal are used to investigate their ability to describe a wave group of fixed form. A difficulty consists of the imposition of the boundary conditions at the unknown free-surface elevation. The nonlinear contributions to the first-order signal are related to the generation of free waves as computed by the model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5217</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5217/4895</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3582</identifier>
+				<datestamp>2021-01-19T22:58:04Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SATELLITE APPLICATIONS ON A COASTAL INLET STABILITY STUDY</dc:title>
+	<dc:creator xml:lang="en">Wang, Yu-Hwa</dc:creator>
+	<dc:subject xml:lang="en">inlet</dc:subject>
+	<dc:subject xml:lang="en">inlet stability</dc:subject>
+	<dc:subject xml:lang="en">satellite application</dc:subject>
+	<dc:description xml:lang="en">It is known that longshore drift of alluvial material occurs along sandy barrier islands. Inlets between these barrier islands intercept the normal littoral drift, resulting in a net loss of sand from the beaches. During a flood tide, sand is brought into the inlet and part of it is retained to form the inner bar; during ebb cycle, part of the sand is jetted out into the ocean to form an outer bar. The reversing flows of flood and ebb cycles may also cause deposition or scouring on the bottom of inlet channels. There are two sets of parameters pertinent to the behavior of inlets. The first set deals with the changes in the dynamic bottom configuration (i.e. the movement of inner and outer bars, the choking or scouring of the inlet channel). The second set of parameters regards the driving forces of the coastal system (i.e. wave climate, tide, wind and currents). Understanding the interrelationship of these two sets of parameters lead to the solution of stabilizing the inlet. The time sequential dynamic interrelationships and natural tendencies of inlets are we11-portrayed on available Landsat imageries. The techniques of mapping the sand bars and their movements are traditionally done by a sounding boat and survey team. The derived point and line information are then used to produce the contour map of the bottom. Extensive interpolations are needed because many details between the points and lines are missing. The operation is expensive and the procedures are time consuming. Techniques using remote sensing can be used to monitor the changes that take place, reducing costs and increasing efficiency. Eventhough standard procedures have not yet been established, the satellite sensing of bottom features has progressed considerably in recent years. Sherman (1975), Middleton and Barber (1976), Hubbard (1977), and Lyzenga and Thomson (1978) all demonstrated that it is possible to correlate the radiance values of multi-spectral images, such as Landsat imagery, with the depth related information in shallow water. The present study is one more example of such an effort.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3582</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.153</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 153</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3582/3264</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

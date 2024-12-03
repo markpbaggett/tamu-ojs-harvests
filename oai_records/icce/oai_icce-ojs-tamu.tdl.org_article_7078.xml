@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7078</identifier>
+				<datestamp>2021-01-19T05:22:05Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SURF ZONE HYDRODYNAMICS - COMPARISON OF MODELLING AND FIELD DATA</dc:title>
+	<dc:creator xml:lang="en">Grunnet, Nicholas</dc:creator>
+	<dc:creator xml:lang="en">Martins, Kévin</dc:creator>
+	<dc:creator xml:lang="en">Deigaard, Rolf</dc:creator>
+	<dc:creator xml:lang="en">Dr¸nen, Nils</dc:creator>
+	<dc:subject xml:lang="en">surf zone modelling</dc:subject>
+	<dc:subject xml:lang="en">field data</dc:subject>
+	<dc:subject xml:lang="en">waves</dc:subject>
+	<dc:subject xml:lang="en">tide</dc:subject>
+	<dc:subject xml:lang="en">current</dc:subject>
+	<dc:description xml:lang="en">Field data from the NOURTEC project is used for comparison with simulation results by the MIKE21 FM model complex. The study includes generation of boundary data by a regional model and simulations by local models of the water level, waves conditions and current fields in the nearshore area of the island of Terschelling.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7078</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.currents.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; currents.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7078/pdf_403</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12867</identifier>
+				<datestamp>2023-09-01T15:13:55Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCOUR AMPLIFICATION CAUSED BY STRUCTURE PROXIMITY IN EXTREME FLOWS</dc:title>
+	<dc:creator xml:lang="en">April-LeQuéré, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:creator xml:lang="en">Mohammadian, Abdolmajid</dc:creator>
+	<dc:description xml:lang="en">Forensic engineering field surveys of recent tsunamis (Saatcioglu et al. 2005, Chock et al. 2013) highlighted the importance of scour-related damage to structures located in coastal communities. To date, only a limited number of studies have investigated the interaction of extreme hydrodynamic flows and groups of structures, and none have studied the scour around multiple structures interacting with each other. One field example discussed by Yeh et al. (2013) documented flow concentration in between two tsunami-resistant buildings, leading to a deep scour hole between them and infrastructure failures onshore of the gap between the two buildings. This field example shows that multiple buildings, often crammed, lead to complex flow-structure interactions, leading to flow and scour either amplification or reduction depending on the relative position of the buildings. Nouri et al. (2010) and Thomas et al. (2015) investigated the flow velocity amplification caused by structures proximity, which concentrated the flow onto a downstream monitored structure. Their results informed the ASCE7 Ch.6 “Tsunami Loads and Effect” standard on flow velocity amplification caused by nearby structures. However, in this standard, there is currently no link between flow velocity amplification factors and their effects on scour around structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12867</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12867/12140</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Philippe April-LeQuéré, Ioan Nistor, Abdolmajid Mohammadian</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

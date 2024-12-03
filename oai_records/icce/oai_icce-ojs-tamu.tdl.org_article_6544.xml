@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6544</identifier>
+				<datestamp>2023-10-04T03:22:21Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING BEACH PROFILE EVOLUTION - A STATISTICAL-PROCESS BASED APPROACH</dc:title>
+	<dc:creator xml:lang="en">Pender, Douglas</dc:creator>
+	<dc:creator xml:lang="en">Karunarathna, Harshinie</dc:creator>
+	<dc:subject xml:lang="en">extreme storm statistics</dc:subject>
+	<dc:subject xml:lang="en">XBeach</dc:subject>
+	<dc:subject xml:lang="en">erosion and accretion</dc:subject>
+	<dc:subject xml:lang="en">morphodynamics</dc:subject>
+	<dc:subject xml:lang="en">medium-term beach change</dc:subject>
+	<dc:description xml:lang="en">This paper presents a new combined statistical-process based approach for modeling storm driven, cross-shore beach profile response. The approach discussed here involves combining detailed statistical modeling of offshore storm data and a process based morphodynamic model (XBeach), to assess the medium to long-term morphodynamic response of cross-shore beach profiles. Up until now the use of process-based models has been curtailed at the storm event timescale. This approach allows inclusion of the post-storm recovery, in addition to individual event impacts, thus allowing longer-term predictions. The calibration of XBeach for modeling, both, storm induced erosion and post- storm recovery, taking Narrabeen Beach, NSW, Australia as a case study; and the approach used to combine XBeach with the statistical framework to develop the approach are discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6544</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6544/pdf_543</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

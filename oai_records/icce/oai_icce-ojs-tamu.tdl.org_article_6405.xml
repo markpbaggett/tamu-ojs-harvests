@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6405</identifier>
+				<datestamp>2023-10-04T03:37:18Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DRAG COEFFICIENT OF VEGETATION IN FLOW MODELING</dc:title>
+	<dc:creator xml:lang="en">Hu, Zhan</dc:creator>
+	<dc:creator xml:lang="en">Stive, M.</dc:creator>
+	<dc:creator xml:lang="en">Zitman, T.</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, T.</dc:creator>
+	<dc:subject xml:lang="en">vegetation</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">drag coefficient</dc:subject>
+	<dc:description xml:lang="en">Flow through vegetation has a significant impact on sediment transport and ecosystem robustness in the coastal and fluvial environment. Numerical models (Nepf and Vivoni, 2000; Uittenbogaaard, 2003) have been developed to simulate this type of flow. The success of these models depends on proper characterization of the main processes and appropriate setting of pre-defined empirical coefficients. Among others, the drag coefficient CD is one of the most important coefficients, which influences the mean velocity and the turbulence characteristics (Nepf and Ghisalberti, 2008).
+Tanino and Nepf (2008) and Cheng (2011) have derived empirical relationships of CD for flow through emerged rigid vegetation. Both studies confirm that CD is related to canopy properties (plants density, diameter, etc.) as well as flow conditions. However, in both studies CD is estimated by simply equating the vegetation drag force to the water level gradient. Bed shear stress and Reynolds stress were ignored. More importantly, the CD  provided by these expressions is depth averaged, which is not suitable for modelling flow and canopy that both vary in vertical (Nepf and Vivoni, 2000). In this study, the CD relation proposed by Cheng (2011) is modified. This new relation depends on the local flow conditions and canopy properties in the vertical. Further, this relation is implemented in an iterative scheme of a 1DV flow model. The modelling results are compared with experiment data of flow through emerged and submerged rigid vegetation. Our results show that when special defined Reynolds number is small, this relation performs less well compare to that when it is larger.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.ms-powerpoint</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6405</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6405/pdf_459</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6405/7734</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

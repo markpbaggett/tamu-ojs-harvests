@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6592</identifier>
+				<datestamp>2023-10-04T03:14:43Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE INTERACTION WITH LARGE ROUGHNESS ELEMENTS ON AN IMPERMEABLE SLOPING BED</dc:title>
+	<dc:creator xml:lang="en">Jensen, Bjarne</dc:creator>
+	<dc:creator xml:lang="en">Christensen, Erik Damgaard</dc:creator>
+	<dc:creator xml:lang="en">Sumer, B. Mutlu</dc:creator>
+	<dc:subject xml:lang="en">Fluid-structure interaction</dc:subject>
+	<dc:subject xml:lang="en">Breakwaters</dc:subject>
+	<dc:subject xml:lang="en">Model scale experiments</dc:subject>
+	<dc:subject xml:lang="en">Numerical modelling</dc:subject>
+	<dc:description xml:lang="en">The present paper presents the results of an experimental and numerical investigation of the flow between large roughness elements on a steep sloping impermeable bed during wave action. The setup is designed to resemble a breakwater structure. The work is part of a study where the focus is on the details in the porous core flow and the armour layer flow i.e. the interaction between the two flow domains and the effect on the armour layer stability. In order to isolate the processes involved with the flow in the porous core the investigations are first carried out with a completely impermeable bed and successively repeated with a porous bed. In this paper the focus is on the impermeable bed. Results are obtained experimentally for flow and turbulence between the roughness elements on the sloping bed. Numerical simulations have reproduced the experimental results with good agreements and can hereby add more details to the understanding of the fluid-structure interaction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6592</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.waves.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; waves.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6592/pdf_585</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

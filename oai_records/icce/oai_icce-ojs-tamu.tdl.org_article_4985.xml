@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4985</identifier>
+				<datestamp>2021-01-19T14:54:02Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHEAR STRESSES AND MEAN FLOW IN SHOALING AND BREAKING WAVES</dc:title>
+	<dc:creator xml:lang="en">Stive, Marcel J.F.</dc:creator>
+	<dc:creator xml:lang="en">De Vriend, Huib J.</dc:creator>
+	<dc:subject xml:lang="en">shear stress</dc:subject>
+	<dc:subject xml:lang="en">shoaling</dc:subject>
+	<dc:subject xml:lang="en">breaking waves</dc:subject>
+	<dc:subject xml:lang="en">mean flow</dc:subject>
+	<dc:description xml:lang="en">We investigate the vertical, wave averaged distributions of shear stresses and Eulerian flow in normally incident, shoaling and breaking waves. It is found that shear stresses are solely due to wave amplitude variations, which can be caused by shoaling, boundary layer dissipation and/or breaking wave dissipation. The resulting shear stress and mean flow distributions for these cases are derived, and compared with earlier work. The attractive, now frequently used modelling choice of specifying a shear stress at the mean surface level is discussed in the context of the constituent equations and related boundary conditions and constraints. A derivation of the shear stress at the mean surface level is given both by using the momentum balance and energy balance equations, which is shown to lead to the same result, if the effects of a changing roller are incorporated correctly3'. Finally, matching solutions for the shoaling and breaking wave cases between the boundary layer and the middle layer for the shear stresses and the wave averaged flow are derived.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4985</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4985/4665</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

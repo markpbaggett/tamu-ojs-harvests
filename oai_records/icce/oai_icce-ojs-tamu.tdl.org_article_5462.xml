@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5462</identifier>
+				<datestamp>2021-01-19T12:12:55Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A COMPARISON OF FIELD OBSERVATIONS AND QUASI-STEADY LINEAR SHEAR INSTABILITIES OF THE WAVE BOTTOM BOUNDARY LAYER</dc:title>
+	<dc:creator xml:lang="en">Foster, D.L.</dc:creator>
+	<dc:creator xml:lang="en">Bowen, A.J.</dc:creator>
+	<dc:creator xml:lang="en">Beach, R.A.</dc:creator>
+	<dc:creator xml:lang="en">Holman, R.A.</dc:creator>
+	<dc:subject xml:lang="en">bottom boundary layer</dc:subject>
+	<dc:subject xml:lang="en">field observations</dc:subject>
+	<dc:subject xml:lang="en">quasi-steady linear shear instability</dc:subject>
+	<dc:subject xml:lang="en">shear instability</dc:subject>
+	<dc:description xml:lang="en">Field observations of near-bed high frequency velocity fluctuations and suspended sediment are compared with predictions of momentary flow stability by a quasi-steady linear instability model. Field observations were made as part of the Duck94 cooperative field experiment and consisted of a vertical array of four hot-film anemometers and 19 fiber-optic backscatter sensors located within the wave bottom boundary layer. Predicted instabilities for the quasi-steady model occur over length scales ranging from 2 cm to 1 m and therefore may be assumed to be a plausible mechanism for the generation of turbulence and suspension of sediment. However with the quasi-steady model, the instabilities are at the same phase as the sediment suspension events, but are occuring too late in the wave phase for them to be generating the observed turbulence.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5462</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5462/5138</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

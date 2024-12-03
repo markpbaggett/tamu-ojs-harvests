@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1134</identifier>
+				<datestamp>2023-10-04T04:08:47Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A HYBRID MODEL OF SWASH-ZONE LONGSHORE SEDIMENT TRANSPORT ON REFLECTIVE BEACHES</dc:title>
+	<dc:creator xml:lang="en">Jiang, Angela Wenping</dc:creator>
+	<dc:creator xml:lang="en">Hughes, Michael</dc:creator>
+	<dc:creator xml:lang="en">Cowell, Peter</dc:creator>
+	<dc:creator xml:lang="en">Gordon, Angus</dc:creator>
+	<dc:creator xml:lang="en">Savioli, Juan Carlos</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:subject xml:lang="en">swash zone</dc:subject>
+	<dc:subject xml:lang="en">wave up-rush</dc:subject>
+	<dc:subject xml:lang="en">longshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">reflective beaches</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:description xml:lang="en">The hydrodynamics and sediment transport in the swash zone is currently outside the domain of coastal-area models, which is a significant limitation in obtaining littoral sediment-transport estimates, especially on steep reflective beaches where the waves practically break on the beachface. In this study, an existing process-based coastal model (MIKE 21) is combined with a theoretical derivation of swash processes, resulting in an innovative hybrid modelling approach that is capable of estimating longshore sediment transport in the swash zone. The method relies upon estimation of swash hydrodynamics from an extended ballistic swash model with friction included. The terminal bore and other incident wave properties were computed from the output of a spectral-wave model (MIKE 21 SW). The Bagnold-type equation was applied to estimate gross transport volumes and the longshore component was computed for the sand volume displaced during the up-rush. The newly developed hybrid modelling approach was applied to Jimmys beach, a steep reflective beach (D50 = 0.3 mm, gradient=0.1) along the northern shoreline of Port Stephens, Australia. The model results yield the alongshore swash transport pathways and the indicative transport volumes. A point of divergence is identified at the beach erosion area, which is of critical importance in terms of shoreline erosion and management. The preliminary results suggest that swash-zone transport can account for a large percentage of the total littoral drift for such beaches. However, further field or laboratory data are required to test model utility, as well as to tune calibration parameters based on the site-specific conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1134</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1134/pdf_213</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

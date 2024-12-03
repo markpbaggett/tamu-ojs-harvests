@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12655</identifier>
+				<datestamp>2023-09-01T15:11:51Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FREE AND BOUND WAVES IN THE COASTAL ZONE:  FIELD, LABORATORY AND NUMERICAL EXPERIMENTS</dc:title>
+	<dc:creator xml:lang="en">Kuznetsov, Sergey</dc:creator>
+	<dc:creator xml:lang="en">Saprykina, Yana</dc:creator>
+	<dc:creator xml:lang="en">Shtremel, Margarita</dc:creator>
+	<dc:description xml:lang="en">Traditionally we look on storm waves as on periodic in space and time motion. Main feature of wave transformation in the coastal zone over inclined bottom is the higher harmonic generation that occurs so fast (during the one wavelength) that we can’t consider the wave motion as periodic in space. Spatial measurements of the wave profile are difficult in the coastal zone and are replaced by point chronograms of free surface elevations and then interpreted using traditional wave theories to calculate the practically important the wave energy and speed of wave propagation. These interpretations very often lead to paradoxical results, such as unexpected spatial fluctuations of the wave energy and propagation velocities, which are usually interpreted as shortcomings in the calibration of gauges, but our experience told that is the result of simultaneous existing of free and bound waves. Many researchers consider the free and bound second and higher harmonics of waves on the intermediate water as “parasitic” or “spurious” and try to avoid it in laboratory and in numerical experiments, but second harmonic are practically important. We will try to figure out what is the matter on the basis of field, laboratory and numerical experiments consider the waves in both time and space domains.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12655</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12655/11928</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Sergey Kuznetsov, Yana Saprykina, Margarita Shtremel</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6676</identifier>
+				<datestamp>2023-10-04T03:03:44Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LAGRANGIAN DRIFTER MODELLING OF AN EXPERIMENTAL RIP CURRENT</dc:title>
+	<dc:creator xml:lang="en">Suarez, Leandro</dc:creator>
+	<dc:creator xml:lang="en">Cienfuegos, Rodrigo</dc:creator>
+	<dc:creator xml:lang="en">Barthélemy, Eric</dc:creator>
+	<dc:creator xml:lang="en">Michallet, Hervé</dc:creator>
+	<dc:creator xml:lang="en">Escauriaza, Cristian</dc:creator>
+	<dc:subject xml:lang="en">rip currents</dc:subject>
+	<dc:subject xml:lang="en">non-linear shallow-water equations</dc:subject>
+	<dc:subject xml:lang="en">lagrangian drifters</dc:subject>
+	<dc:description xml:lang="en">A non-uniform alongshore wave forcing on an experimental uneven mobile bathymetry create mean circulation on a rip channel. A 2D numerical hydrodynamic model that integrates the non-linear shallow-water equations in a shock-capturing finite-volume framework is used to validate the nearshore circulation, and drifters displacement.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6676</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.currents.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; currents.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6676/pdf_653</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

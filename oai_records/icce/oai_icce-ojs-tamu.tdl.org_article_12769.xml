@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12769</identifier>
+				<datestamp>2023-09-01T15:13:00Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATIONS OF BORE-BORE CAPTURE ON A MACROTIDAL BEACH</dc:title>
+	<dc:creator xml:lang="en">Hart, Rosanne</dc:creator>
+	<dc:creator xml:lang="en">Power, Hannah E.</dc:creator>
+	<dc:creator xml:lang="en">Stringari, Caio E.</dc:creator>
+	<dc:creator xml:lang="en">Blenkinsopp, Chris</dc:creator>
+	<dc:description xml:lang="en">The aim of better understanding the mechanisms of extreme runup events has led to increasing interest into bore-bore capture statistics and drivers. Bore-bore capture occurs when a broken wave (bore) travels over the front of another broken wave on approach to the shore. A similar but distinct process is shoreline capture which is where a broken wave travels over an uprush swash lens (therefore located in the swash zone), Bore-bore capture events occur in the surf and outer swash zones and have been shown to greatly influence runup statistics on natural beaches (Stringari and Power, 2020). Garcia-Medina et al. (2017) investigated bore-bore capture on a dissipative beach using numerical modelling and found that bore-bore capture was correlated to the largest runup events. Stringari and Power (2020) expanded on this by investigating bore-bore capture on 7 different beaches and found that bore-bore capture was responsible for over 97 percent of extreme shoreline maximas. The exact mechanisms behind bore-bore capture which result in extreme runup events in the form of energy transfer, however, are yet to be investigated. Whilst the relationship between infragravity energy at the shoreline and the probability of bore capture has been identified (Stringari and Power, 2020), the influence of infragravity energy on runup elevations resulting from captured and non-captured waves is yet to be fully quantified.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12769</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.currents.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; currents.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12769/12042</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Rosanne Hart, Hannah E. Power, Caio E. Stringari, Chris Blenkinsopp</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

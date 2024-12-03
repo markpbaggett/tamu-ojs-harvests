@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/3571</identifier>
+				<datestamp>2021-01-19T23:01:53Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE USE OF ARRAY PROCESSORS FOR NUMERICAL MODELLING OF TIDAL ESTUARY DYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Prandle, D.</dc:creator>
+	<dc:creator xml:lang="en">Funke, E.R.</dc:creator>
+	<dc:creator xml:lang="en">Crookshank, N.L.</dc:creator>
+	<dc:creator xml:lang="en">Renner, R.</dc:creator>
+	<dc:subject xml:lang="en">estuary dynamics</dc:subject>
+	<dc:subject xml:lang="en">array processors</dc:subject>
+	<dc:subject xml:lang="en">numerical modeling</dc:subject>
+	<dc:subject xml:lang="en">tidal estuary</dc:subject>
+	<dc:subject xml:lang="en">estuary</dc:subject>
+	<dc:description xml:lang="en">The use of array processors for the numerical modelling of estuarine systems is discussed here in the context of "hybrid modelling", however, it is shown that array processors may be used to advantage in independent numerical simulations. Hybrid modelling of tidal estuaries was first introduced by fiolz (1977) and later by Funke and Crookshank (1978). In a hybrid model, tidal propagation in an estuary is simulated by dynamically linking an hydraulic (or physical) scale model of part of the estuary to a numerical model of the remaining part in a manner such that a free interchange of flow occurs at the interface(s). Typically, the elevation of the water surface at the boundary of the scale model is measured and transmitted to the numerical model. In return, the flow computed at the boundary of the numerical model is fed directly into the scale model. This approach enables the extent of the scale model to be limited to the area of immediate interest (or to that area where flow conditions are such that they can be most accurately simulated by a scale model). In addition, since the region simulated by the numerical model can be extended almost indefinitely, the problems of spurious reflections from downstream boundaries can be eliminated. In normal use, numerical models are evaluated on the basis of computing requirements, cost and accuracy. The computer time required to simulate one tide cycle is, in itself, seldom of interest except in so far as it affects the above criteria. However in hybrid modelling this parameter is often paramount since concurrent operation of the numerical and scale models requires that the former must keep pace with the latter. The earlier hybrid model of the St. Lawrence (Funke and Crookshank, 1978) involved a one-dimensional numerical model of the upstream regions of the river. However, future applications are likely to involve extensive two-dimensional numerical simulation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1980-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/3571</dc:identifier>
+	<dc:identifier>10.9753/icce.v17.142</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 17 (1980): Proceedings of 17th Conference on Coastal Engineering, Sydney, Australia, 1980.; 142</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/3571/3253</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

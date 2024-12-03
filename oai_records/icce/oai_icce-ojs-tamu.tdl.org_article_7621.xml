@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7621</identifier>
+				<datestamp>2021-01-20T04:27:30Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FINITE ELEMENT MODELING OF NONLINEAR WAVE TRANSFORMATION USING ELLIPTIC MILD SLOPE EQUATION</dc:title>
+	<dc:creator xml:lang="en">Sharma, Abhishek</dc:creator>
+	<dc:creator xml:lang="en">Panchang, Vijay G.</dc:creator>
+	<dc:subject xml:lang="en">Nonlinear mild-slope equation</dc:subject>
+	<dc:subject xml:lang="en">triad wave inteactions</dc:subject>
+	<dc:subject xml:lang="en">harbor resonance</dc:subject>
+	<dc:description xml:lang="en">Accurate modeling of nonlinear wave transformation is important for studies related to harbor and nearshore design. While sophisticated finite-element models based on the elliptic mild-slope equation are often used for wave prediction, they do not include wave-wave interactions. These interactions, in general, involve transfer of energy and wave phase coupling among spectral components and are known to be quite significant especially in shoaling regions and inside harbors. To overcome this limitation, and to provide a basis for the eective modeling of nonlinear wave transformation in complex coastal and harbor environments, the development of a finite-element model based on the second-order nonlinear mild-slope equation of Kaihatu and Kirby (1995) is considered. The model uses an iterative procedure for solving the second-order boundary value problem. To ensure eective boundary treatment, a combination of frequently-used boundary conditions and the method of internal wave generation is used. Two cases involving nonlinear shoaling and harbor resonance are considered for model validation. Modeled results are compared with experimental data, and good agreement is observed in most cases. The methodology described in this paper can improve the applicability of existing finite-element based mild-slope models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7621</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.waves.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; waves.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7621/pdf_816</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

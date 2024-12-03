@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12998</identifier>
+				<datestamp>2023-09-01T15:15:00Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI MODELLING IN A BUILT-IN COASTAL ENVIRONMENT WITH ADAPTIVE MESH RIFINEMENT AND VARYING BOTTOM FRICTION</dc:title>
+	<dc:creator xml:lang="en">Aljber, Morhaf</dc:creator>
+	<dc:creator xml:lang="en">Nogami, Kaho</dc:creator>
+	<dc:creator xml:lang="en">Jeong, Jae-Soon</dc:creator>
+	<dc:creator xml:lang="en">Cabrera, Jonathan Salar</dc:creator>
+	<dc:creator xml:lang="en">Lee, Han Soo</dc:creator>
+	<dc:description xml:lang="en">The great Japan earthquake on March/11/2011provoked an extreme tsunami wave toward the northeastern Japanese coast. The tsunami inundation covered a wide range of territories stretching over 500 km2 and caused devastating influences that claimed more than 15,000 lives (Mori et al. (2011)). Miyagi Prefecture, the closest mainland to the epicentre, received massive tsunami waves that reached over 40 m in run-up height. Prasetyo et al. (2019) aimed to reproduce the tsunami wave inundation in Onagawa Town of Miyagi Prefecture by building a physical model using Hybrid Tsunami Open Flume in Ujigawa Open Laboratory (HyTOFU) at Kyoto University to study the inundation process by measuring the wave height and arrival time. For that purpose, two wave types were used, the (Pump-type) hydraulic bore, and the (Piston-type) solitary wave. Also, 2D and quasi-3D (Q3D) models were tested for their robustness and applied to emulate tsunami propagation in the complex coastal city model. In this study, we adopted adaptive mesh refinement (AMR) for its efficiency in tsunami modelling with Basilisk open-source flow solver for non-linear shallow water (Saint-Venant) equations and fully non-linear Boussinesq (Green-Naghdi) equations (Popinet (2015)). The numerical experiment was conducted to validate the model by comparing the wave height with the physical model experiment, the 2D, and Q3D model results by Prasetyo et al. (2019).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12998</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.40</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.40</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12998/12271</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Morhaf Aljber, Kaho Nogami, Jae-Soon Jeong, Jonathan Salar Cabrera, Han Soo Lee</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

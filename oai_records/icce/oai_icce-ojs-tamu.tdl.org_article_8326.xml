@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8326</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING WAVE OVERTOPPING FOR GRASS COVERS AND TRANSITIONS IN DIKE REVETMENTS</dc:title>
+	<dc:creator xml:lang="en">Warmink, Jord J.</dc:creator>
+	<dc:creator xml:lang="en">Van Bergeijk, Vera M.</dc:creator>
+	<dc:creator xml:lang="en">Chen, Weiqui</dc:creator>
+	<dc:creator xml:lang="en">Van Gent, Marcel R. A.</dc:creator>
+	<dc:creator xml:lang="en">Hulscher, Suzanne J. M. H.</dc:creator>
+	<dc:description xml:lang="en">Transitions in the dike revetment or in the grass cover can significantly affect the wave overtopping discharge and the dike cover erosion. At the University of Twente, two PhD students recently started on the challenge of quantifying the effect of (1) waterside transition on the wave overtopping discharge and (2) transitions in grass covered dikes on dike erosion. In this paper we present their preliminary results and outline their future plans. Firstly, new laboratory experiments show that the existing wave overtopping formulas are not able to accurately predict the overtopping discharge in case of transitions on the waterside slope. Secondly, the analytical dike cover erosion model shows that transitions in grass covers significantly affect the location of maximum flow velocity and potential dike cover erosion. In future work, detailed numerical models will be developed for both the waterside slope and the landward slope to further increase our understanding of the effects of transitions on the wave overtopping discharge and the dike cover erosion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8326</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8326/7134</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8326/7806</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

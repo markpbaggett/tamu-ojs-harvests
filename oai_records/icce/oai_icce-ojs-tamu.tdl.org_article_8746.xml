@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8746</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODEL TESTS OF WAVE OVERTOPPING AND FORCES ON BREAKWATER CROWN WALLS</dc:title>
+	<dc:creator xml:lang="en">Franco, Leopoldo</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:creator xml:lang="en">Cecioni, Claudia</dc:creator>
+	<dc:description xml:lang="en">This paper describes new physical model tests aiming at measuring both wave overtopping and wave induced forces on rubble mound breakwater crown walls. The physical model and the equipment used for the measurements are described in detail. For the completed tests, a detailed analysis is reported, by evaluating the properties of the incoming waves at the toe of the breakwater and some statistical parameters to describe the wave induced forces and pressures on the crown wall. Careful analysis is also carried out to evaluate how the distribution of the pressures changes with time. It is found that the upper part of the wall is subjected to the first large quasi-impulsive action of the wave; the lower part of the wall is afterwards flooded and a quasi-hydrostatic pressure develops along the height of the wave wall. As far as the pressures on the base of the crown wall are concerned, they develop after a quite large time lag after the maximum of the horizontal force. First attempts to correlate the maximum horizontal force with some explanatory variables such as the ratio of the crest freeboard and of the significant wave height of the incoming waves indicate a promising correlation, also in agreement with the existing literature on the topic. The overtopping rate are also measured and compared with empirical formulas. The correlation between the wave induced forces and the average overtopping discharge on the breakwater is also investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8746</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.papers.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; papers.63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8746/7548</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8746/8110</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

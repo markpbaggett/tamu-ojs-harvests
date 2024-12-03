@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1065</identifier>
+				<datestamp>2023-10-04T04:17:20Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EMPIRICAL RELATIONSHIP BETWEEN INLET CROSS-SECTIONAL AREA AND TIDAL PRISM: A RE-EVALUATION</dc:title>
+	<dc:creator xml:lang="en">Stive, Marcel</dc:creator>
+	<dc:creator xml:lang="en">Ji, Liang</dc:creator>
+	<dc:creator xml:lang="en">Brouwer, Ronald L</dc:creator>
+	<dc:creator xml:lang="en">van de Kreeke, Co</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roahanka</dc:creator>
+	<dc:subject xml:lang="en">inlets</dc:subject>
+	<dc:subject xml:lang="en">tidal prism</dc:subject>
+	<dc:subject xml:lang="en">empirical relationship</dc:subject>
+	<dc:subject xml:lang="en">equilibrium cross-sectional area</dc:subject>
+	<dc:description xml:lang="en">The well-known empirical relationship between the equilibrium cross-sectional area of tidal inlet entrances (A) and the tidal prism (P), first developed by O'Brien (1931), has been extensively reviewed. Our theoretical investigations indicate that a unique A-P relationship should only be expected for clusters of inlets that are phenomenological similar (i.e. fairly similar hydrodynamic and morphological conditions), and that the exponent q in the A-P relation should be larger than 1. However, relevant published data available to date do not clearly support this theoretical finding. A re-analysis of the available data sets by Stive et al. (2009) indicated that they may not be sufficiently reliable to verify our theoretical finding with regard to q&gt;1 due to the violation of the condition of phenomenological similarity, and possibly also due to violating the initial definitions given by O'Brien (1931) in estimating the tidal prism. The resolution of this issue is important because slightly different values of q result in significantly variable values for the equilibrium cross-sectional area of the tidal entrance. This may have significant implications in determining the true stable equilibrium entrance cross-sectional area. Here we present a re-analysis of the available data with a focus on determining the phenomenological dependencies of the A-P relationship. The available A-P data from the US Pacific, Atlantic and Gulf coasts (Jarrett, 1976 and Powell, 2003) have been re-scrutinized and categorized following the above mentioned phenomenological similarity criteria, viz. similar tidal range, similar sediment size, similar littoral transport and similar hydraulic radius. All together, some 20 different categories were considered and A-P relationships were obtained for each category. Generally, high correlations were found between the stable inlet predicted by each A-P relationship and the corresponding data. However, only in a limited number of categories were they significantly better than the correlations for the complete datasets. Finally, we point out that only in a number of categories the q value associated with the A-P relationship exceeded unity as suggested by the theoretical derivations. In the majority of categories the q value associated with the A-P relationship does not exceed unity. This is truly disappointing, and we have no physical explanation for this and consider this issue unresolved.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2011-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1065</dc:identifier>
+	<dc:identifier>10.9753/icce.v32.sediment.86</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 32 (2010): Proceedings of 32nd Conference on Coastal Engineering, Shanghai, China, 2010.; sediment.86</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1065/pdf_173</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

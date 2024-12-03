@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4922</identifier>
+				<datestamp>2021-01-19T15:14:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DISPERSION OF HEAVY SUSPENSIONS IN WAVE BOUNDARY LAYERS</dc:title>
+	<dc:creator xml:lang="en">Mei, Chiang C.</dc:creator>
+	<dc:creator xml:lang="en">Chian, Chimin</dc:creator>
+	<dc:subject xml:lang="en">dispersion</dc:subject>
+	<dc:subject xml:lang="en">suspended sediment</dc:subject>
+	<dc:subject xml:lang="en">boundary layer</dc:subject>
+	<dc:description xml:lang="en">The transport of suspended particles is of interest to the coastal engineer because it affects the distribution of sediments and the evolution of shorelines. It is also important to pollutant disposal in the sea, and to the transport of nutrients needed for sustaining marine life. Planktonic larvae depend on waves and currents to carry them from offshore to the rock stratum for reproduction and growth. External fertilization of sperms and eggs of marine organisms are further affected by the convection and diffusion processes in the sea. Taylor's pioneer work in a steady flow through a tube has shown that diffusion, whether molecular or turbulent, is greatly enhanced by transverse shear in the flow. Since in the sea the bottom boundary layer is the zone where shear is the strongest, dispersion must be the most prominent there. For wave-induced boundary layers only the flow field has been studied extensively. For example Stokes laminar boundary layer theory has been extended to turbulent boundary layers by Kajiura(1968), Jonnson &amp; Carlsen(1976), Grant &amp; Madsen(1979) and others. The mean circulation induced in the oscillating boundary layer by Reynolds stresses has been studied under pseudo-laminar model by Longuet- Higgins(1958), Hunt &amp; Johns(1963), Carter, Liu &amp; Mei(1973) etc. Trowbridge &amp; Madsen(1984a,b) further extended it to turbulent flows. So far there has been little theoretical work for predicting dispersion in wave boundary layers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1992-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4922</dc:identifier>
+	<dc:identifier>10.9753/icce.v23.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 23 (1992): Proceedings of 23rd Conference on Coastal Engineering, Venice, Italy, 1992.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4922/4603</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

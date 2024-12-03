@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7875</identifier>
+				<datestamp>2021-01-20T03:53:39Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACCELERATED BEACH EROSION ALONG THE UPPER TEXAS COAST</dc:title>
+	<dc:creator xml:lang="en">Park, Young Hyun</dc:creator>
+	<dc:creator xml:lang="en">Edge, Billy L</dc:creator>
+	<dc:creator xml:lang="en">Cheon, Sehyun</dc:creator>
+	<dc:subject xml:lang="en">beach erosion</dc:subject>
+	<dc:subject xml:lang="en">Texas Coast</dc:subject>
+	<dc:subject xml:lang="en">Neural Network</dc:subject>
+	<dc:subject xml:lang="en">Pattern recognition</dc:subject>
+	<dc:description xml:lang="en">The upper Texas coast has been severely eroded and beach erosion is going on. It is not extreme comparing past one but its strength is still strong by a magnitude. There are some methods and numbers to determine stability of beach by historical beach observation but they are evaluated only for a certain location. It may not be available in the places which have rare observation data such as the upper Texas coast. The study focused on factors to determine the stability of beach against beach erosion. The pattern recognition of neural network was applied to classification of the factors such as beach width, dune height from field observed data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2014-10-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7875</dc:identifier>
+	<dc:identifier>10.9753/icce.v34.sediment.81</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 34 (2014): Proceedings of 34th Conference on Coastal Engineering, Seoul, Korea, 2014; sediment.81</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7875/pdf_923</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4428</identifier>
+				<datestamp>2021-01-19T18:03:52Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UTILIZATION OF MOORED VESSELS IN HYDRAULIC MODELS OF HARBORS</dc:title>
+	<dc:creator xml:lang="en">Guarga, Rafael</dc:creator>
+	<dc:creator xml:lang="en">Goldsztejn, Eduardo</dc:creator>
+	<dc:creator xml:lang="en">Puntigliano, Fernando</dc:creator>
+	<dc:subject xml:lang="en">harbor</dc:subject>
+	<dc:subject xml:lang="en">harbor model</dc:subject>
+	<dc:subject xml:lang="en">hydraulic model</dc:subject>
+	<dc:subject xml:lang="en">moored vessel</dc:subject>
+	<dc:description xml:lang="en">The behavior of the model of a moored vessel in a harbor's hydraulic model (Froude's model) is studied, taking into account the difficulties arising from the fact that modelling a moored vessel requires to incorporate the Reynolds number. Experiments made with the model of a large grain carrier at a 1/175 scale are shown. The horizontal motions of this ship due to the waves were measured when it is moored in a zone in which the length scale along the vertical axis was modified (vertical distortion), and the influence of different depths on these motions was studied. This study was performed in order to be able to use this ship model for the evaluation of different alternatives of harbor design, in the building of new facilities at a port placed in the Atlantic coast of Uruguay.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4428</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.221</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 221</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4428/4109</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

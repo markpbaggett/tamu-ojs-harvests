@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4250</identifier>
+				<datestamp>2021-01-19T19:04:34Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVES IN TURNING WIND FIELDS</dc:title>
+	<dc:creator xml:lang="en">van Vledder, G.Ph.</dc:creator>
+	<dc:creator xml:lang="en">Holthuijsen, L.H.</dc:creator>
+	<dc:subject xml:lang="en">wind field</dc:subject>
+	<dc:subject xml:lang="en">wind waves</dc:subject>
+	<dc:subject xml:lang="en">turning wind field</dc:subject>
+	<dc:description xml:lang="en">A numerical model to compute to a high degree of accuracy nonlinear wave-wave interactions of wind generated waves supplemented with formulations of wind generation and white-capping, has been used to estimate qualitatively and quantitatively the effect of these physical processes on the directional response of waves in a turning wind field. After a sudden shift in wind direction the wave spectrum develops a secondary peak in the new wind direction. The initial peak of the spectrum either merges fairly quickly with this new peak or it slowly disappears, depending on the magnitude of the directional wind shift. The turning of the mean wave direction towards the new wind direction is caused by wind generation. The processes of nonlinear wave-wave interactions and white-capping tend to slow down the turning rate induced by the wind generation. The net turning rate of the mean wave direction in the model is twice as slow as in observations acquired in the central and southern North Sea.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1988-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4250</dc:identifier>
+	<dc:identifier>10.9753/icce.v21.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 21 (1988): Proceedings of 21st Conference on Coastal Engineering, Torremolinos, Spain, 1988.; 43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4250/3931</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6545</identifier>
+				<datestamp>2023-10-04T03:22:11Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF SEDIMENT TRANSPORT MODELS WITH IN-SITU SAND FLUX MEASUREMENTS AND BEACH MORPHODYNAMIC EVOLUTION</dc:title>
+	<dc:creator xml:lang="en">Cartier, Adrien</dc:creator>
+	<dc:creator xml:lang="en">Larroudé, Philippe</dc:creator>
+	<dc:creator xml:lang="en">Héquette, Arnaud</dc:creator>
+	<dc:subject xml:lang="en">Longshore sediment transport</dc:subject>
+	<dc:subject xml:lang="en">sediment transport modeling</dc:subject>
+	<dc:subject xml:lang="en">macrotidal beaches</dc:subject>
+	<dc:subject xml:lang="en">storm.</dc:subject>
+	<dc:description xml:lang="en">The aim of this study is to set up a procedure of linking of three codes to be able to simulate realistic coastal sediment transport and associated morphological change. In order to calibrate sediment transport formulae, comparisons of our simulations were carried out with in-situ data of sand transport measured on macrotidal beaches of northern France on the shore of the English Channel and Dover Strait. This technique of simulation was then used to compare and investigate the efficiency of several sediment transport models on the site of Sète (microtidal beach on the Mediterranean coast) during two storms events.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6545</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6545/pdf_544</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

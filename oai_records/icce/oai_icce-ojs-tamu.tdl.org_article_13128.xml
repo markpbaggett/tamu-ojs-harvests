@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13128</identifier>
+				<datestamp>2023-09-01T15:16:03Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INSHORE TSUNAMI HAZARD INCLUDING BATHYMETRIC AND EPISTEMIC UNCERTAINTY – A DESIGN METHODOLOGY</dc:title>
+	<dc:creator xml:lang="en">Couper, Zachariah</dc:creator>
+	<dc:creator xml:lang="en">Waterhouse, Alex</dc:creator>
+	<dc:description xml:lang="en">Probabilistic Tsunami Hazard Analysis (PTHA), as detailed by Thio et al (2005) amongst others, can be considered a conceptually standard approach to assessing tsunami hazard, as discussed by Geoscience Australia in the Tsunami Hazard Modelling Guidelines (2018). Typically, hazard curves of a hydrodynamic parameter such as surge level are produced at an offshore location. This study presents a methodology which facilitates the production of inshore hazard curves which retain and account for complex hydrodynamic interactions, in addition to allowing uncertainty in bathymetry and model capture of seiching in local embayments. The methodologies are demonstrated through a case study of American Samoa, for which detailed bathymetry is available in the public domain, and high-resolution tsunami observations have been previously captured.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13128</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.170</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.170</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13128/12401</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Zachariah Couper, Alex Waterhouse</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

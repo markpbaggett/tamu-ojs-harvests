@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/8376</identifier>
+				<datestamp>2020-06-23T01:34:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MORPHOLOGICAL MODELING OF LOW-DUNE BARRIER HEADLAND SYSTEM CHANGES DUE TO HURRICANE FORCING</dc:title>
+	<dc:creator xml:lang="en">Johnson, Cody</dc:creator>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:description xml:lang="en">Coastal barrier landforms serve as the first line of defense against oceanic and meteorological forces. Landward infrastructure and ecosystems, without these barriers, would be significantly more at risk to the flooding and wave forcing caused by extreme storms. Widespread recognition of this function has prompted coastal managers to adopt systematic restoration programs. As an exemplar, the Caminada Headlands (CH) Beach and Dune Restoration Project, located adjacent Port Fourchon, Louisiana (LA), USA cost an estimated $220 million USD and restored ~22.5 kilometers of coastline with a 6.4 million m3 sediment placement. Insight into the performance of the CH restoration during future hurricane impacts requires an understanding of the system's response to historical storms. In general, the CH experiences high background shoreline erosion rates. Recent historical averages are on the order of 15 m yr-1 [Byres et al., 2017]. This rate may double during active tropical storm seasons, e.g. the year of hurricane Katrina (2005) [Byres et al., 2017] and, at the event time-scale, localized erosion rates spike dramatically as shorelines may translate 100s of meters landward due to dune overwashing and breaching. Calibration of realistic process based morphological models that can accurately simulate these effects require extensive, high fidelity input data. To achieve this end, this study makes use of several monitoring projects in the LA region while employing a coupled XBeach and Delft3D modeling system to simulate the impact of hurricane Gustav (2008) on the CH.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2018-12-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/8376</dc:identifier>
+	<dc:identifier>10.9753/icce.v36.sediment.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 36 (2018): Proceedings of 36th Conference on Coastal Engineering, Baltimore, Maryland, 2018; sediment.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8376/7185</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/8376/7844</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Coastal Engineering Proceedings</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

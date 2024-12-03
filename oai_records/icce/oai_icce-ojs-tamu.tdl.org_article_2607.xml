@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/2607</identifier>
+				<datestamp>2021-01-17T04:07:42Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SWELL AND STORM CHARACTERISTICS FROM COASTAL WAVE RECORDS</dc:title>
+	<dc:creator xml:lang="en">Thompson, Warren C.</dc:creator>
+	<dc:subject xml:lang="en">swell</dc:subject>
+	<dc:subject xml:lang="en">storm characteristics</dc:subject>
+	<dc:subject xml:lang="en">wave records</dc:subject>
+	<dc:description xml:lang="en">Manual analysis of strip-chart records from a conventional wave sensor at Monterey, California was found to yield a linear frequency shift associated with each arriving swell tram, from which the origin time and travel distance of the swell could be computed The use of surface weather maps allows identification of the source, and thereby yields an accurate determination of the deep-water arrival direction of the swell for use on the local coast The wave records are analyzed for the frequency of the individual waves composing wave groups, f , consistency of the results obtained indicates that f is equivalent to the frequency of maximum energy density f , obtained by spectral analysis Five swell sets studied were found to max J f J originate in North Pacific storms advancing toward Monterey The seas in the fetch were fully arisen at the time of computed swell origin, and the surface to geostrophic wind ratio was 0 83 The dominant swell emerged from the fetch at a time when its group velocity equalled the velocity of the fetch toward Monterey.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1970-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/2607</dc:identifier>
+	<dc:identifier>10.9753/icce.v12.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 12 (1970): Proceedings of 12th Conference on Coastal Engineering, Washington, D.C., 1970.; 3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/2607/2272</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

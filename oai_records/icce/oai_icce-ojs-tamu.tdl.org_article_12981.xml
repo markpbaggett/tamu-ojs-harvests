@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12981</identifier>
+				<datestamp>2023-09-01T15:14:50Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTING SHORELINE EVOLUTION IN A CHANGING WAVE CLIMATE</dc:title>
+	<dc:creator xml:lang="en">Ibaceta, Raimundo</dc:creator>
+	<dc:creator xml:lang="en">Kristen D. Splinter</dc:creator>
+	<dc:creator xml:lang="en">Mitchell D. Harley</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian L.</dc:creator>
+	<dc:description xml:lang="en">Reliable predictions of shoreline evolution at a range of time scales both now and by end of the century are required for assessing coastal vulnerability in a changing climate. This is particularly important given the possible changes in regional wave climates and/or ocean water levels due to climate variability. To this end, much work has gone into the development of simple and efficient semi-empirical shoreline models that can be used to predict shoreline evolution over time scales ranging from seasonal to multi-decadal. An alternative is to use time-varying model parameters to improve model predictability at interannual timescales. Kalman filter techniques offer a framework to detect time-varying (or non-stationary) model parameters by adjusting them as shoreline observations become available. Ibaceta et al. (2020) implemented a dual state parameter Ensemble Kalman Filter (EnKF) within the shoreline evolution model ShoreFor (Davidson et al., 2013), and showed that this methodology is suitable to detect parameter changes that best hindcasted observed shoreline evolution. Additionally, they demonstrated that this observed parameter non-stationarity could be linked to the changing characteristics of the underlying wave forcing. The application of this methodology over long-term datasets now enables the parametrization and physical interpretation of the model parameters as a function of the multi-year variability in wave forcing, allowing for enhanced shoreline predictions out of the selected training period.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12981</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12981/12254</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Raimundo Ibaceta, Kristen D. Splinter , Mitchell D. Harley , Ian L. Turner</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

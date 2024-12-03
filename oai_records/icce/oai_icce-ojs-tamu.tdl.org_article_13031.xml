@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13031</identifier>
+				<datestamp>2023-10-09T23:31:02Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IDENTIFICATION OF POTENTIAL STORM SURGES DUE TO TYPHOON RAI USING NUMERICAL MODELS</dc:title>
+	<dc:creator xml:lang="en">Valdez, Justin Joseph</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Esteban, Miguel</dc:creator>
+	<dc:creator xml:lang="es">Esteban, Miguel</dc:creator>
+	<dc:description xml:lang="en">In December 2021, Typhoon Rai (local name: Odette) hit the Visayas region of the Philippines. It had a minimum sea level pressure (MSLP) of 915 hectopascals (hPa) and a maximum sustained wind speed of 54.02 m/s and was classified as a violent typhoon by the Japan Meteorological Agency. Rai caused massive damage to infrastructure and housing (NDRRMC 2022). Rai passed through the vulnerable islands of Bohol and Cebu, where high storm surge heights could be expected from strong typhoons (Lapidez et al., 2015). Field surveys were conducted right after a typhoon event to investigate the condition of the affected areas. However, Rai hit during the pandemic when travel restrictions were effective in the country. Thus, it was difficult to identify the areas hit by potential storm surges immediately. Satellite imagery is one method; however, it is generally difficult to identify if the area was affected by storm surges using images. Numerical modeling of the typhoon event over select areas is one way to solve the problem of disaster information shortage. In this study, Rai is simulated using weather and storm models over the provinces of Bohol and Cebu.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13031</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13031/12304</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Justin Joseph Valdez, Tomoya Shibayama</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

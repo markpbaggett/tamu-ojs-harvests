@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12893</identifier>
+				<datestamp>2023-09-01T15:14:09Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME WAVES IN SHALLOW WATER AND DREDGED CHANNELS FOR DIRECTIONAL SEAS</dc:title>
+	<dc:creator xml:lang="en">Taylor, David</dc:creator>
+	<dc:creator xml:lang="en">Garber, Sean</dc:creator>
+	<dc:creator xml:lang="en">Collins, Scott</dc:creator>
+	<dc:creator xml:lang="en">Baker, Scott</dc:creator>
+	<dc:creator xml:lang="en">Cornett, Andrew</dc:creator>
+	<dc:description xml:lang="en">Extreme wave conditions at coastal structures located offshore of natural coastlines and the zone of wave breaking are influenced by the deepwater wave conditions, the coastal bathymetry between deepwater and the structure, and the ongoing growth, generation and decay of waves across the coastal shelf. At locations where the coastal shelf is relatively flat, the gradually reducing water depths can limit the significant and maximum wave heights and crest elevations that may be encountered. If a coastal structure is located in deeper water than the bathymetry of approaching waves, for example port or navigation structures located in dredged channels or basins, coastal engineers need to consider wave conditions in the shallower approach waters and the transformation and propagation of waves across the dredged area. The directional characteristics of wave spectra in this situation can have a significant impact on extreme wave conditions that occur within the dredged basin. This paper presents insights into extreme wave conditions for gently sloping natural seabed profiles and also within a dredged basin, for directional seas which occur within the direct path of severe storms; for example, tropical cyclones.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12893</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.structures.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; structures.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12893/12166</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 David Taylor, Sean Garber, Scott Collins, Scott Baker, Andrew Cornett</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

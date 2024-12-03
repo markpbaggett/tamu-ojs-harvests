@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12995</identifier>
+				<datestamp>2023-09-01T15:14:58Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THREE-DIMENSIONAL PHISICAL MODELING OF LANDSLIDE-GENERATED TSUNAMIS</dc:title>
+	<dc:creator xml:lang="en">Takabatake, Tomoyuki</dc:creator>
+	<dc:creator xml:lang="en">Han, Dawn Chenxi</dc:creator>
+	<dc:creator xml:lang="en">Esteban, Miguel</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:description xml:lang="en">Massive landslides can generate significant tsunamis and endanger coastal communities, as shown by recent catastrophic events such as the 2018 Palu Tsunami and 2018 Sunda Strait Tsunami (e.g., Heidarzadeh et al. 2018; Takabatake et al. 2019). While a number of experimental studies have been conducted to investigate landslide generated tsunamis, most were performed using two dimensional (2D) wave flumes (e.g., Fritz et al. 2004; Takabatake et al. 2020). Thus, the present study conducted three-dimensional (3D) experiments to clarify the characteristics of landslide-generated tsunamis, and to develop empirical equations that can predict the generated wave heights and periods.                   </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12995</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.management.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; management.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12995/12268</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Tomoyuki Takabatake, Dawn Chenxi Han, Miguel Esteban, Tomoya Shibayama</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

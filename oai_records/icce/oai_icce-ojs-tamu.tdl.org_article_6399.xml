@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6399</identifier>
+				<datestamp>2021-01-19T07:49:00Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SUITABILITY INDEX FOR COASTAL ENVIRONMENT RESTORATION IN ENCLOSED BAY</dc:title>
+	<dc:creator xml:lang="en">Horie, Takehito</dc:creator>
+	<dc:creator xml:lang="en">Okada, Tomonari</dc:creator>
+	<dc:creator xml:lang="en">Watanuki, Akira</dc:creator>
+	<dc:subject xml:lang="en">ENCLOSED BAY</dc:subject>
+	<dc:subject xml:lang="en">FISH</dc:subject>
+	<dc:subject xml:lang="en">SUITABILITY INDEX MODELS</dc:subject>
+	<dc:description xml:lang="en">HSI (Habitat Suitability Index) models are a numerical index that describes the habitat quality for individual species of aquatic organism. This models are composed of SI (suitability index) models, which show the cause-and-effect relationships between biomass of target species and the variation of individual water environmental factors. Fish are often used as the environmental indicator species of HSI models, because fish are strongly related to marine algae, sea grass, water quality, and so forth, and fish are predator high in the food chain for the aquatic system. 
+In order to restore the marine environment of Tokyo Bay, in Japan(Fig.1), some SI models have been proposed. However, we have few precision SI models on target fish. Therefore, the objective of this study is to reveal the relationship between seasonal or daily variations of water environment components in Tokyo bay or in offshore sea area of the Pacific coast of Tokyo metro (Fig.1) and the total mass of fish living in Tokyo bay in order to create precision SI models of fish.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/vnd.ms-powerpoint</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6399</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6399/6075</dc:relation>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6399/pdf_449</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

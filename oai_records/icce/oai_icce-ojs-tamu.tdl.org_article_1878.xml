@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/1878</identifier>
+				<datestamp>2021-01-17T06:32:31Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A WAVE HEIGHT AND FREQUENCY METER</dc:title>
+	<dc:creator xml:lang="en">Snodgrass, Frank E.</dc:creator>
+	<dc:creator xml:lang="en">Putz, Robert R.</dc:creator>
+	<dc:subject xml:lang="en">wave measurement</dc:subject>
+	<dc:subject xml:lang="en">zero-crossing</dc:subject>
+	<dc:subject xml:lang="en">data analysis</dc:subject>
+	<dc:description xml:lang="en">During World War II a group of Naval officers conducted visual measurements of ocean waves simultaneously with instrumental recordings. A comparison of the visual and instrumental values indicated ".... the natural tendency for the observer .... to record not the average wave height but a wave height based on some kind of average of the highest waves. The general experience is that an observer will give a value for the wave height which represents the average of the highest 20 to 40 per cent of the waves" (SIO, 1944). The average height of the highest one-third of the waves, H1/3, was therefore suggested as the characteristic (or significant) wave height. "Characteristic wave period" was given a corresponding definition as the average period of the highest one-third waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1957-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/1878</dc:identifier>
+	<dc:identifier>10.9753/icce.v6.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 6 (1957): Proceedings of 6th Conference on Coastal Engineering, Gainesville, Florida, 1957.; 13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/1878/1151</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

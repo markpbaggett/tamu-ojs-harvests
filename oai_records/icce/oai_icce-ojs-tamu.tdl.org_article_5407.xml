@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5407</identifier>
+				<datestamp>2021-01-19T12:31:30Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A DESIGN SHORT-CRESTED WAVE FORCE MODEL FOR VERTICAL DEEP-WATER BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Tzang, S.Y.</dc:creator>
+	<dc:creator xml:lang="en">Liaw, S.R.</dc:creator>
+	<dc:subject xml:lang="en">breakwater</dc:subject>
+	<dc:subject xml:lang="en">deep water</dc:subject>
+	<dc:subject xml:lang="en">wave force</dc:subject>
+	<dc:subject xml:lang="en">force model</dc:subject>
+	<dc:description xml:lang="en">Fenton's short-crested wave force approximations were modified for designing a vertical breakwater in deep water regions. The theoretical water surface profiles and depth-distributions of hydrodynamic pressure in front of a vertical breakwater were first evaluated with field wave conditions of height HD=lOm and period T=9.6s at depths d from 20m to 40m. The calculations immediately illustrated characteristics of residual pressures at wave crest and exponentially decreasing profiles under design water level. As d increased, wave crest height decreased as well and the crest pressure deviations became negligible while overestimated pressure force by assuming linear under-water pressure distributions became more significant. Through appropriate modifications, a design wave force model were proposed and compared with Goda's design formulae for standing waves. Results clearly displayed that 45° incident short-crested waves could induce greater total wave forces on a vertical breakwater than those by Goda's formulae at the same depth. Differences became greater at </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5407</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5407/5083</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/7021</identifier>
+				<datestamp>2023-10-04T02:44:40Z</datestamp>
+				<setSpec>icce:Posters</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VULNERABILITY OF COASTAL STRUCTURES WITH FUSE ELEMENTS</dc:title>
+	<dc:creator xml:lang="en">Abanades, Javier</dc:creator>
+	<dc:creator xml:lang="en">Campos, Alvaro</dc:creator>
+	<dc:creator xml:lang="en">Castillo, Carmen</dc:creator>
+	<dc:subject xml:lang="en">fuse element</dc:subject>
+	<dc:subject xml:lang="en">coastal structures</dc:subject>
+	<dc:subject xml:lang="en">Motril</dc:subject>
+	<dc:subject xml:lang="en">Spain</dc:subject>
+	<dc:subject xml:lang="en">structure failure</dc:subject>
+	<dc:description xml:lang="en">Vulnerability of coastal structures is very important especially in low-lying areas considering sea level rise and the increase in severity of other associated agents. The vulnerability of a vertical breakwater is defined as the probability of attaining a level of damage under different classes of external actions. The damage can be related to reliability or operationality and the external action is defined with a global descriptor, usually, it will be the maximum significant wave height in a storm.  As expected, the comparison between actual and optimized breakwater shows an increase of the probability of collapse (level 3) for Hs &gt; 4m, although these waves have a small probability of occurrence. The latter section was designed using probabilistic techniques.  On one hand, the comparison between sections with and without fuse element shows an increase on the probability of damage level 2 in the former because this level includes the simultaneous occurrence of fuse failure and, therefore, an increase in overtopping which exceeds the tolerance.  On the other hand, the fuse element reduces the probability of level 3 (collapse: caisson failure) for Hs between 4 and 6m for the optimized section.  The fuse element is shown to be more efficient when there are no activities on the lee of the breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-12-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/7021</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.posters.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; posters.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/7021/pdf</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

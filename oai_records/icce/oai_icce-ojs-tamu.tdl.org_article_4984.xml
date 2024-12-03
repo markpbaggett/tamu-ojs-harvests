@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/4984</identifier>
+				<datestamp>2021-01-19T14:54:21Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS FROM DIRECTIONALITY AND SPECTRAL BANDWIDTH ON NON-LINEAR SPATIAL MODULATIONS OF DEEP-WATER SURFACE GRAVITY WAVE TRAINS</dc:title>
+	<dc:creator xml:lang="en">Stansberg, Carl Trygve</dc:creator>
+	<dc:subject xml:lang="en">spectral bandwidth</dc:subject>
+	<dc:subject xml:lang="en">nonlinear spatial modulations</dc:subject>
+	<dc:subject xml:lang="en">deep water</dc:subject>
+	<dc:subject xml:lang="en">gravity waves</dc:subject>
+	<dc:subject xml:lang="en">wave train</dc:subject>
+	<dc:description xml:lang="en">The non-linear nature of the largest waves in random wave trains is studied. Experimental wave elevation records from measurements in a large wave basin are analysed. Longcrested as well as shortcrested wave conditions, with various spectral shapes, are included. The spatial development of spectral and statistical properties of the wave trains are analysed. The results indicate that closer than 10- 15 wavelengths, observed deviations from linear theory may be explained by 2nd order effects. Further away, higher-order modulational instabilities may lead to a stronger increase of extreme waves. This is especially observed in narrow-banded long-crested waves, while observations in short-crested sea show very little content of these space-dependent modulational effects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1994-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/4984</dc:identifier>
+	<dc:identifier>10.9753/icce.v24.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 24 (1994): Proceedings of 24th Conference on Coastal Engineering, Kobe, Japan, 1994.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/4984/4664</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

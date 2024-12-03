@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/5464</identifier>
+				<datestamp>2021-01-19T12:12:17Z</datestamp>
+				<setSpec>icce:old_proceedings</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BACKFILLING OF TRENCHES EXPOSED TO WAVES</dc:title>
+	<dc:creator xml:lang="en">Jensen, Jacob Hjelmager</dc:creator>
+	<dc:creator xml:lang="en">Fredsoe, Jorgen</dc:creator>
+	<dc:subject xml:lang="en">trench</dc:subject>
+	<dc:subject xml:lang="en">backfill</dc:subject>
+	<dc:subject xml:lang="en">numerical prediction</dc:subject>
+	<dc:description xml:lang="en">This paper treats the numerical prediction of initial and long-term morphology of small pipeline trenches. For this purpose a refined flow and sediment transport description is applied such that the entire mathematical problem is formulated and solved on a curvilinear grid using a k - e turbulence-closure. The backfilling process of trenches exposed to either waves or a steady current is of importance in relation to the implementation of pipelines in the marine environment. With respect to the sedimentation of trenches, the non-dimensional Trench-Keulegan- Carpenter number, KC = a/L, where a is the excursion length of a particle in waves and L the trench length, is investigated in detail, and an optimal KC-numher for the backfilling rate is found. Coherent structures in the non-uniform unsteady trench-flow are shown to dominate the deposition rate when present. The importance of a detailed description of the flow is further justified by comparing predictions of a very simple flow-model neglecting convective terms with the sophisticated flow-model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>1996-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/5464</dc:identifier>
+	<dc:identifier>10.9753/icce.v25.%p</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 25 (1996): Proceedings of 25th Conference on Coastal Engineering, Orlando, Florida, 1996.</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/5464/5140</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

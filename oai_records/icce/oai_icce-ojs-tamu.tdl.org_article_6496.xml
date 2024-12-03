@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/6496</identifier>
+				<datestamp>2023-10-04T03:28:59Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG-TERM NEARSHORE BATHYMETRY EVOLUTION FROM VIDEO IMAGERY: A CASE STUDY IN THE MIYAZAKI COAST</dc:title>
+	<dc:creator xml:lang="en">Liu, Haijiang</dc:creator>
+	<dc:creator xml:lang="en">Arii, Makoto</dc:creator>
+	<dc:creator xml:lang="en">Sato, Shinji</dc:creator>
+	<dc:creator xml:lang="en">Tajima, Yoshimitsu</dc:creator>
+	<dc:subject xml:lang="en">long-term evolution</dc:subject>
+	<dc:subject xml:lang="en">nearshore bathymetry mapping</dc:subject>
+	<dc:subject xml:lang="en">video imagery</dc:subject>
+	<dc:subject xml:lang="en">EOF analysis</dc:subject>
+	<dc:subject xml:lang="en">cross-shore movement</dc:subject>
+	<dc:subject xml:lang="en">longshore movement</dc:subject>
+	<dc:description xml:lang="en">A four-year evaluation of the nearshore morphology based on video imagery was conducted in the Miyazaki coast, Japan. An automatic nearshore bathymetry mapping technique was developed based on the linear wave dispersion relationship, in which the wave phase velocity was estimated from the cross-correlation of neighboring pixels' brightness time series. Bathymetry estimation was carried out at both low and high tide levels of each day and integrated over a 7-day period which includes both the neap and spring tides. Model validation shows the present technique reproduced the ground truth data fairly well with a bias generally less than 0.3 m in the surf zone. In total, 88 bathymetry data were obtained within the investigation period. Subsequently, a two dimensional Empirical Orthogonal Function (EOF) analysis was applied to the time series of the obtained nearshore bathymetry data in order to investigate their long-term morphological behavior. Results from the first three modes of the EOF analysis represent the bathymetry variation from the nearshore response due to the cross-shore processes. The first mode reveals the coastal erosion occurred during the study period with a net loss of sand volume in the target region. Erosion was severe before December 2008, especially in the offshore region, and mitigated afterwards resulting a relatively equilibrium stage for the mean beach profile. The second mode shows the mean beach profile rotated in an anti-clockwise direction around a cross-shore location of 50 m away from the present shoreline, which led to a milder beach slope in the study period. The third mode represents the cross-shore movement of the longshore bar. Higher modes of the EOF analysis, such as fourth, fifth and sixth modes, correspond to the bathymetry variation due to the longshore sediment movement which frequently changed its direction as indicated from a number of nodal points in the relevant temporal eigenfunction distribution. Based on the EOF analysis, it is also confirmed that the nearshore morphological process in the target area was predominant by the cross-shore sand movement.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2012-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/6496</dc:identifier>
+	<dc:identifier>10.9753/icce.v33.sediment.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 33 (2012): Proceedings of 33rd Conference on Coastal Engineering, Santander, Spain, 2012; sediment.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/6496/pdf_501</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

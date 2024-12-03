@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/12678</identifier>
+				<datestamp>2023-09-01T15:12:07Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">YEPPOON SURF POOL: FULL-SCALE VALIDATION OF A CFD MODEL</dc:title>
+	<dc:creator xml:lang="en">Valizadeh, Alireza</dc:creator>
+	<dc:creator xml:lang="en">Mortensen, Simon Brandi</dc:creator>
+	<dc:creator xml:lang="en">Antenucci, Jason</dc:creator>
+	<dc:creator xml:lang="en">Trevis, Aaron</dc:creator>
+	<dc:description xml:lang="en">DHI has been supporting Surf Lakes in the design and optimization of their inland surf pool since 2017. This support has been primarily through providing CFD simulations of various aspects of the design. Whilst the CFD model was verified against basic functionality tests and qualitatively compared to the field data, no quantitative comparisons were available until February 2022, where our high-quality numerical model was compared with the field measurements. The results of that comparison and some details and challenges of the numerical model are addressed in this paper. The agreement between measured data and CFD results is excellent, demonstrating the ability to provide effective design support despite a range of numerical challenges.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2023-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/12678</dc:identifier>
+	<dc:identifier>10.9753/icce.v37.papers.39</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 37 (2022): Proceedings of 37th Conference on Coastal Engineering, Sydney, Australia, 2022; papers.39</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/12678/11951</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Alireza Valizadeh, Simon Brandi Mortensen, Jason Antenucci, Aaron Trevis</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
