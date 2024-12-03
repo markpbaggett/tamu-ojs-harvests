@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/211</identifier>
+				<datestamp>2024-10-30T19:15:46Z</datestamp>
+				<setSpec>aavptbiennial:S6</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Immunopharmacology Biological Response Modifers (BRMs)</dc:title>
+	<dc:creator xml:lang="en">Peters, Bruce A.</dc:creator>
+	<dc:creator xml:lang="en">Cox, William I.</dc:creator>
+	<dc:creator xml:lang="en">Van Kampen, Kent</dc:creator>
+	<dc:subject xml:lang="en">biological response modifer</dc:subject>
+	<dc:subject xml:lang="en">immunological response</dc:subject>
+	<dc:subject xml:lang="en">antigen specificity</dc:subject>
+	<dc:description xml:lang="en">This paper will review studies of experimental modification of immunological responses with BRMs. BRMs can be calssified as either antigen specific (Table 1) or antigen nonspecific (Table 2). It is obvious from a comparison of the two tables that there are many more antigen nonspecific BRMs than antigen specific BRMs. This emphasizes one of the major problems with BRM immunotherapy, that of lack of specificity and control of the response. For instance, one might attempt to treat allergic responses by suppressing the total IgE response, but this might comprise resistance to parasites. A much better therapy would be to induce suppressor cells that would specifically suppress the IgE response against the allergen, leaving the remainder of the IgE system intact.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>1986-06-10</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/211</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; Fifth Biennial Symposium; 227-235</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/211/199</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1986 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

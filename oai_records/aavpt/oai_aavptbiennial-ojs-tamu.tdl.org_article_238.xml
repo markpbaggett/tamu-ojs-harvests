@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/238</identifier>
+				<datestamp>2024-10-30T19:17:40Z</datestamp>
+				<setSpec>aavptbiennial:SII</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A New Approach to Tissue Residue Analyses</dc:title>
+	<dc:creator xml:lang="en">Barker, Steven A.</dc:creator>
+	<dc:creator xml:lang="en">Long, Austin R.</dc:creator>
+	<dc:creator xml:lang="en">Short, Charles R.</dc:creator>
+	<dc:subject xml:lang="en">drug residue</dc:subject>
+	<dc:subject xml:lang="en">thin layer chromatography</dc:subject>
+	<dc:subject xml:lang="en">racing thoroughbreds</dc:subject>
+	<dc:subject xml:lang="en">trace drug levels</dc:subject>
+	<dc:subject xml:lang="en">food animals</dc:subject>
+	<dc:subject xml:lang="en">screening methods</dc:subject>
+	<dc:description xml:lang="en">The previous presentations illustrate a consensus that a new approach to the analysis of tissues for drug residues is needed. The approach of analysis for individual compounds by individual methods cannot keep pace with the ever-increasing need to analyze more samples for more drugs and their metabolites in the future.
+In part, the problem is parallel in nature to that which occurs in the screening of urine samples for the presence of drugs of abuse, such as occurs in laboratories which conduct equine medication surveillance of racing thoroughbreds as occurs in our laboratory. In these analyses, generic countercurrent extraction methods are used to isolate compounds according to class (such as acid, base, neutral or amphoteric). Once isolated, generic methods for the screening of the extracts for the presence of drugs are utilized. The simplest and least expensive is thin layer chromatography (tlc) and can be highly effective in detecting a wide range of drugs or drug metabolites. However, the sensitivity of tlc is inadequate for the detection of trace levels of drugs that may be used to effect the performance of the equine. In these cases, radioimmunoassay (RIA) or variants of RIA type assays are used to detect the presence of drugs at levels of less than 2 ng/ml of sample. Compounds for which no such assays are available may be detected by gas chromatography (GC) analysis using nitrogen/phosphorous (NPD) or electron capture (EC) detection with and/or without derivatization of the sample. Thermally labile samples may be assayed by high pressure liquid chromatography (HPLC) using fluoresence, UV and/or electrochemical detection, individually or in series.
+Can such an approach be applied to drug residue analysis in food animals? Most likely. Screening of marketed animals by such methods could be adapted, examining urine, blood or biopsied tissue samples prior to slaughter or post slaughter. This will require generic extraction methods and characterization and validation of the more generic screening methods for these purposes. Immunoassays for such applications may be class specific, such as for sulfonamides or benzimidazoles, in general. Subsequent quantitation and confirmatory methods can then be conducted on those samples which are of a suspect nature. As new drugs come to the market they could first be examined by such generic methodology by their sponsors. If found to be detectable by such methodology, at levels required, then further development would not be required. Drugs that can not be analyzed by such approaches would require special consideration.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>1988-06-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/238</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; Sixth Biennial Symposium; 55-56</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/238/221</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1988 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/247</identifier>
+				<datestamp>2024-10-30T19:17:32Z</datestamp>
+				<setSpec>aavptbiennial:SIV</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Future Applications of Computer Technology in Pharmacology: Roles for Artificial Intelligence, Hypertext, Networking, and Interactive Video</dc:title>
+	<dc:creator xml:lang="en">Coppoc, Gordon L.</dc:creator>
+	<dc:subject xml:lang="en">information systems</dc:subject>
+	<dc:subject xml:lang="en">artificial intelligence</dc:subject>
+	<dc:subject xml:lang="en">hypertext</dc:subject>
+	<dc:subject xml:lang="en">interactive video</dc:subject>
+	<dc:subject xml:lang="en">information organization</dc:subject>
+	<dc:subject xml:lang="en">technology</dc:subject>
+	<dc:description xml:lang="en">Because the title includes topics that could each serve as subjects for separate symposia, this paper will be limited to introducing the concepts and giving some sample applications of interactive video, hypertext, and artificial intelligence. The goal is to create interest that will lead to widespread application of these new tools in teaching veterinary pharmacology and in creating drug-related information systems for veterinarians.
+Major topics to be considered are general considerations, interactive video, hypertext, and artificial intelligence. Although superficially disparate, the latter 3 topics are related by an underlying concept that can be expressed by a question. Namely, how can we enhance acquisition and use of data, information, knowledge, and wisdom in pharmacology? In this context, "acquisition" refers to acquisition in a computer manipulable form. "Use" refers to applications in education and professional practice. "Data", "information", "knowledge", and "wisdom" refer to the level of organization of the symbols (facts or information), that we might expect to obtain from a computer system. It is obvious that with current levels of technology and understanding, we are going to be much more successful at creating computer systems to help us at the "data" end of this spectrum than at the "wisdom" extreme.
+Our considerations of what human "knowing" entails at various levels of sophistication and organization, prompted my colleague, Dr. James B. Morrison, to rhetorically ask "If your specialty is pharmacology, why worry about epistemology?" This might seem to be a rather arcane issue, but it is a legitimate question. Why, indeed, should pharmacologists be concerned with how information and know ledge are symbolized and organized?
+Among the reasons is that we have exceeded the limit of our ability as humans to ingest and use the information being made available to us at an ever increasing rate. Yet, if we cannot handle it, we still cannot afford to ignore it (1). Therefore, we need a cadre of scientists in our discipline who can organize and compress (2) the information into a more digestible and retrievable form for use by students and professionals alike.
+Two major categories of technology will help us accomplish the task of organizing and compressing pharmacologic information to facilitate its use. The two categories are machines and concepts. Computers and audio/video equipment form the mechanistic foundation. The concepts are implementable in software including interactive video, hypertext/ hypermedia systems, and artificial intelligence/expert systems. The importance of rapid advances in computer and audio/ video technology combined with lower cost in making the entire concept viable cannot be overemphasized. Success in creating a future we prefer will depend on our own human efforts and intellect more than on these technologies. We have our work cut out for us.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>1988-06-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/247</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; Sixth Biennial Symposium; 91-94</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/247/230</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1988 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

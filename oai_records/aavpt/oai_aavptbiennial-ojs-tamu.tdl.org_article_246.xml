@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/246</identifier>
+				<datestamp>2024-10-30T19:17:33Z</datestamp>
+				<setSpec>aavptbiennial:SIV</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PharmTools: A Computer Technique for Pharmacokinetic Modeling and Replacement of Teaching Animals</dc:title>
+	<dc:creator xml:lang="en">Wilcke, Jeff</dc:creator>
+	<dc:creator xml:lang="en">Osborne, Carl</dc:creator>
+	<dc:creator xml:lang="en">Bataller, Neal</dc:creator>
+	<dc:subject xml:lang="en">pharmacokinetic profile</dc:subject>
+	<dc:subject xml:lang="en">sulfonamide</dc:subject>
+	<dc:subject xml:lang="en">pharmacokinetic modelling</dc:subject>
+	<dc:subject xml:lang="en">computerized modeling system</dc:subject>
+	<dc:description xml:lang="en">A pharmacokinetics laboratory has been included in the sequence of basic pharmacology laboratories taught at the Virginia- Maryland Regional College of Veterinary Medicine. Originally, sheep were dosed with various sulfonamides, blood and urine samples were collected and analyzed using the Bratton-Marshall colorimetric method. Although some of the data was certainly representative of the pharmacokinetic profile for a given sulfonamide, much of it could not be analyzed appropriately. Dosing, sampling, and analytical errors lead to results inconsistent with the known behavior of the various sulfonamides in sheep. In many cases, determinations of total urine sulfonamide eliminated suggested that the sheep "manufactured" considerable amounts of sulfonamide.
+In 1983, data were developed, by computer simulation, from known pharmacokinetic models for sulfonamides in sheep. The emphasis of the laboratory shifted from sheep handling, sample acquisition, concentration determinations and finally, pharmacokinetic profies; to data analysis, the development of appropriate models, multiple compartment procedures, and the simulation of the altered pharmacokinetic behavior of clinical situations. In the latter simulations, students were encouraged to use the pharmacokinetic models they developed in the laboratory and speculate about altered draug distribution and/or elimination. The simulations were done using CONSAAM (1) which is essentially an operating environment for SAAM27A. Unfortunately, it is a very cumbersome way to manipulate the requests from 12 laboratory groups who wished to run 2 to 5 simulations. Further it requires some expertise in CONSAAM, an understanding of simulation by the SAAM27 A package, and in our case, access to a VAX 11/785 mainframe computer. Simulations for the laboratory required up to 12 hours of faculty and computer time which was expensive and made the faculty member unavailable to consult with the students on the validity of the simulations they were developing, or to answer questions about their pharmacokinetic models.
+In 1987, two senior veterinary students (who, as sophomores, participated in the revised laboratory described above) agreed to develop a computerized modeling system as a project assignment in an elective Clinical Pharmacology rotation. PharmTools is the fruit of their academic labor. I simply made the request; set the guidelines for basic features; and, until the fun of evaluating their unique product, stayed out of the way.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>1988-06-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/246</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; Sixth Biennial Symposium; 89-90</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/246/229</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1988 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
