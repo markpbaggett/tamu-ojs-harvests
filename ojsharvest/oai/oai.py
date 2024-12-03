@@ -39,8 +39,6 @@ class OAIHarvester:
         if until_date:
             params["until"] = until_date
 
-        record_number = 1
-
         while True:
             xml = self.fetch(params)
             if xml is None:
@@ -51,7 +49,6 @@ class OAIHarvester:
                 identifier = record.find(".//oai:identifier", namespaces=self.ns).text
                 file_name = f"{identifier.replace(':', '_').replace('/', '_')}.xml"
                 self.save_record_to_disk(record, file_name)
-                record_number += 1
 
             resumption_token = xml.find(".//oai:resumptionToken", namespaces=self.ns)
             if resumption_token is not None and resumption_token.text:
@@ -68,7 +65,7 @@ class OAIHarvester:
             params["from"] = from_date
         if until_date:
             params["until"] = until_date
-        record_number = 1
+        record_number = 0
         while True:
             xml = self.fetch(params)
             if xml is None:
