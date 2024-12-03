@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3961</identifier>
+				<datestamp>2020-02-06T08:45:34Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">New technology for milking vacuum diagnostics helps veterinarians better understand udder health problems</dc:title>
+	<dc:creator xml:lang="en">Detrick, K.</dc:creator>
+	<dc:creator xml:lang="en">Postma, E. M.</dc:creator>
+	<dc:subject xml:lang="en">udder health</dc:subject>
+	<dc:subject xml:lang="en">milking equipment</dc:subject>
+	<dc:subject xml:lang="en">Milking Time Test</dc:subject>
+	<dc:subject xml:lang="en">vacuum</dc:subject>
+	<dc:subject xml:lang="en">data logger</dc:subject>
+	<dc:subject xml:lang="en">milking routines</dc:subject>
+	<dc:description xml:lang="en">Udder health problems are often related to the milking equipment, many times in combination with inadequate milking routines. Notorious are teat-end vacuum fluctuations due to insufficient vacuum capacity, pathogens reaching the teat-end due to 'back-spray', and of course insufficient preparation before milking.
+Most veterinarians are familiar with the Milking Time Test, or 'wet test'. In the wet test, the milking vacuum and pulsation are recorded during milking, which gives a good indication of how the milking equipment and milking routines perform in real life - when milking cows. Veterinarians understand the high value of this wet test because it helps them determine if an udder health problem is animal related or equipment related.
+Despite this, many veterinarians are reluctant to do a wet test because of the perceived complexity and time it consumes. When normally performing a wet test, the veterinarian is wired to the milking point, meaning that the milking routines cannot be observed; moreover, the veterinarian's presence disturbs the milking routine. To get a good overview, data for quite a few cow milkings should be recorded, which implies that the veterinarian is trapped in the milking parlor and cannot spend his valuable time on anything else.
+This poster is about experiences of European veterinarians and advisers with a new battery operated data logger that logs the vacuum autonomously at four points during milking. This data logger (VaDia) is small and light enough to be taped to a teat cup and makes wet testing much easier, faster, and hands- and eyes-free.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2012-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3961</dc:identifier>
+	<dc:identifier>10.21423/aabppro20123961</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2012; 252</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3961/3889</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2012 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

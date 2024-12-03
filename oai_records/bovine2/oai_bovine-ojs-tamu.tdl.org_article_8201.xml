@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8201</identifier>
+				<datestamp>2021-08-31T19:00:07Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The association between Whisper® lung scores and feedlot performance in crossbred steer calves</dc:title>
+	<dc:creator xml:lang="en">Funk, Jenna L.</dc:creator>
+	<dc:creator xml:lang="en">Dewell, Grant A.</dc:creator>
+	<dc:creator xml:lang="en">Meyer, Brent D.</dc:creator>
+	<dc:creator xml:lang="en">Engelken, Terry J.</dc:creator>
+	<dc:subject xml:lang="en">BRDC</dc:subject>
+	<dc:subject xml:lang="en">lung auscultation score</dc:subject>
+	<dc:subject xml:lang="en">Whisper®</dc:subject>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">feeding performance</dc:subject>
+	<dc:subject xml:lang="en">health performance</dc:subject>
+	<dc:description xml:lang="en">A cohort study was conducted in a population ofcrossbred feeder steers to assess the relationship betweenWhisper® lung scores taken at feedlot arrival and subsequent health and performance. The primary outcome of interest was average daily gain. Other feeding performance outcomes included feed efficiency, hot carcass weight, dressing percentage, marbling score, fat thickness, and ribeye area. Health performance outcomes included treatment for bovine respiratory disease (BRD), death due to BRD, being diagnosed with chronic BRD, and dying after treatment for BRD. The only significant association between arrival lung score (ALS) and feeding performance was improvement in feed efficiency for those calves with an ALS of 4 (p = 0.02) or 5 (p = 0.005), where feed efficiency was determined by backcalculation using individual carcass weight and yield obtained at harvest. There was a significant increase in the odds ratio for treatment for BRD for calves with an ALS of 5 (OR 1.27, 95% CI 1.03-1.57, p = 0.005), as well as a significant increase in the odds ratio for death due to BRD for calves with an ALS of 4 (OR 1.06, 95% CI 1.00-1.13, p = 0.02). This study demonstrates that higher ALS may be associated with increased risk of treatment for BRD and death due to BRD along with improved feed efficiency, but further research is warranted.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8201</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol55no1p57-64</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 55, No. 1 (2021); 57-64</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8201/8140</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

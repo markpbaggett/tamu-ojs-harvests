@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/9</identifier>
+				<datestamp>2015-06-04T19:06:54Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Reevaluation of the Embryonic Stem Cell Test</dc:title>
+	<dc:creator xml:lang="en">Inselman, Amy L.</dc:creator>
+	<dc:creator xml:lang="en">Nolen, Greg T.</dc:creator>
+	<dc:creator xml:lang="en">Chang, Ching-Wei</dc:creator>
+	<dc:creator xml:lang="en">Harrouk, Wafa</dc:creator>
+	<dc:creator xml:lang="en">Fisher, J. Edward</dc:creator>
+	<dc:creator xml:lang="en">Tassinari, Melissa S.</dc:creator>
+	<dc:creator xml:lang="en">Hansen, Deborah K.</dc:creator>
+	<dc:subject xml:lang="en">embryonic stem cell test (EST)</dc:subject>
+	<dc:subject xml:lang="en">mouse embryonic stem cells (mESCs)</dc:subject>
+	<dc:subject xml:lang="en">developmental toxicity</dc:subject>
+	<dc:subject xml:lang="en">embryotoxicity</dc:subject>
+	<dc:subject xml:lang="en">alternative test method</dc:subject>
+	<dc:description xml:lang="en">In recent years there has been a heightened interest in developing alternative toxicity testing methods that enhance the current system that relies almost exclusively on whole-animal testing to include in vitro assays focused on defined pathways.   The embryonic stem cell test (EST) is one alternative that has been suggested for use in developmental toxicity testing.  The EST utilizes the D3 mouse embryonic stem cell line to assess sensitivity of chemicals on differentiating cardiomyocytes.  Additionally, a BALB/3T3 line is used to monitor cytotoxicity and compare sensitivities between adult and embryonic cells.   We have reevaluated the EST nearly 10 years after formal validation by the European Center for the Validation of Alternative Methods (ECVAM) to test the stability and reliability of the cell lines in predicting developmental toxicity.  Eight compounds from the ECVAM validation including the positive control, 5-fluorouracil, and the negative control, penicillin G, were tested.  All eight compounds matched the classification reported during validation, indicating comparable responses and transferability of the experimental protocol.  However, an increased sensitivity of the cell lines, identified by lower ID50 and IC50 values, was observed for many of the chemicals when compared to the results from the ECVAM validation.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2013-11-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/9</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.119</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 1 No. 1 (2013); 32-49</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/9/5</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

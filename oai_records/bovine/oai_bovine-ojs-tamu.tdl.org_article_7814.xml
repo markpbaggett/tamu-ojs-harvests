@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7814</identifier>
+				<datestamp>2021-08-27T21:08:55Z</datestamp>
+				<setSpec>aabp:CCS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Suturing the Nictitating Membrane for Treatment of Pinkeye in the Bovine</dc:title>
+	<dc:creator xml:lang="en">Brown, Cyril</dc:creator>
+	<dc:subject xml:lang="en">Keratoconjunctivitis</dc:subject>
+	<dc:subject xml:lang="en">pinkeye</dc:subject>
+	<dc:subject xml:lang="en">vaccine</dc:subject>
+	<dc:subject xml:lang="en">facefly</dc:subject>
+	<dc:description xml:lang="en">Keratoconjunctivitis, commonly called pinkeye, has been a recognized condition in cattle for many years. Over the years, treatment methods have varied. Some were successful, others failed.
+The old-timers talked about pinkeye vaccine which has only become a reality recently; and we wonder about their efficiency.
+The spread of eye pathology from cow to cow has no doubt been a bigger problem with the advent of the facefly.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1977-12-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7814</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1977; 153-154</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7814/6455</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1977 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

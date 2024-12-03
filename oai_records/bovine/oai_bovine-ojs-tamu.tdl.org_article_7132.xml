@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7132</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Climate smart dairy and beef</dc:title>
+	<dc:creator xml:lang="en">Mitloehner, Frank M.</dc:creator>
+	<dc:subject xml:lang="en">production efficiency</dc:subject>
+	<dc:subject xml:lang="en">inputs</dc:subject>
+	<dc:subject xml:lang="en">outputs</dc:subject>
+	<dc:description xml:lang="en">Production efficiency in the dairy and beef industry canbe defined as minimizing the amount of inputs (e.g., feed, fossil fuels) and outputs (e.g., ammonia, NH3; greenhouse gases, GHG) to produce a given quantity of milk or meat. The present paper will focus on the dairy example. Production efficiency improvements can come from minimizing waste, maximizing a dairy cow’s milk production, and maximizing the proportion of her life spent in peak milk production without sacrificing animal health and well-being.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7132</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197132</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 177-181</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7132/5916</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

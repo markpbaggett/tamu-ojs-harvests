@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4528</identifier>
+				<datestamp>2020-02-15T08:41:34Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Neospora: Does it Make Sense to Monitor and Control it?</dc:title>
+	<dc:creator xml:lang="en">Gay, John M.</dc:creator>
+	<dc:subject xml:lang="en">bovine neosporosis</dc:subject>
+	<dc:subject xml:lang="en">control strategy</dc:subject>
+	<dc:subject xml:lang="en">monitoring strategy</dc:subject>
+	<dc:subject xml:lang="en">seronegativity testing</dc:subject>
+	<dc:description xml:lang="en">Although more research is needed to improve our understanding of the epidemiology of bovine neosporosis, our current knowledge is likely sufficient for developing effective control and monitoring strategies. The decision of whether or not it makes sense to monitor and control the infection in a given herd depends on a complex set of factors that differ between herds and regions. Control likely should be considered in the light of resource limitations, management goals and other problems and opportunities faced by the herd. Several authors have suggested that practitioners should consider performing a cost-benefit analysis on each herd to determine the critical prevalence threshold for undertaking a herd control program and to determine the best strategy. Currently the optimal control method appears to be testing potential replacements for seronegativity prior to their selection, but the optimal strategy will likely change with increased understanding, and as improved vaccines and even therapies emerge.
+Simplicity does not precede complexity, but follows it.
+(Alan Perlis)</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2007-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4528</dc:identifier>
+	<dc:identifier>10.21423/aabppro20074528</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2007; 116-121</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4528/4434</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2007 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

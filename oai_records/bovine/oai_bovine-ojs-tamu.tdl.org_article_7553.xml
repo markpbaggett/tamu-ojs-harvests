@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7553</identifier>
+				<datestamp>2020-08-17T20:00:04Z</datestamp>
+				<setSpec>aabp:GS3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">How to Conduct and Interpret Field Trials</dc:title>
+	<dc:creator xml:lang="en">Erb, Hollis N.</dc:creator>
+	<dc:subject xml:lang="en">bovine practitioners</dc:subject>
+	<dc:subject xml:lang="en">management programs</dc:subject>
+	<dc:subject xml:lang="en">field trials</dc:subject>
+	<dc:subject xml:lang="en">statistical issues</dc:subject>
+	<dc:subject xml:lang="en">surgical techniques</dc:subject>
+	<dc:description xml:lang="en">Some bovine practitioners are beginning to conduct their own field trials in order to test new drugs, surgical techniques, feed additives, management programs, and the like. Other practitioners are being asked by scientists in universities or industry to participate in trials, and all practitioners should be reading reports of field trials in journals. There is a science to field trials. Trials that are bad science shouldn't be conducted or believed.
+In this essay I will discuss 6 of the major issues in the design of field trials: controls, sample size, informed consent, baseline measurements, assignment of treatments, and blindness. I will not discuss statistical issues other than some general comments regarding sample size. I'll generally take the point of view of the practitioner trying to design his or her own trial, but these same issues may be used to evaluate the quality of other people's trials. (For further reading, there's an excellent recent article by Dohoo and Waltner-Toews (1), and a very good, non-statistical introductory textbook by Friedman et al. (2).)</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1986-11-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7553</dc:identifier>
+	<dc:identifier>10.21423/aabppro19867553</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1986; 66-69</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7553/6118</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1986 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

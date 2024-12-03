@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/60</identifier>
+				<datestamp>2022-06-28T19:11:13Z</datestamp>
+				<setSpec>aavptbiennial:S2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Feasibility of Hepatic Fine Needle Aspiration as a Minimally Invasive Sampling Method for Gene Expression Quantification of Pharmacogenetic Targets</dc:title>
+	<dc:creator xml:lang="en">Hull, Matthew B.</dc:creator>
+	<dc:creator xml:lang="en">Schermerhorn, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Vieson, Miranda</dc:creator>
+	<dc:creator xml:lang="en">Reinhart, Jennifer M.</dc:creator>
+	<dc:subject xml:lang="en">Pharmacogenetics</dc:subject>
+	<dc:subject xml:lang="en">pharmacogenomics</dc:subject>
+	<dc:subject xml:lang="en">canine</dc:subject>
+	<dc:subject xml:lang="en">liver</dc:subject>
+	<dc:subject xml:lang="en">qPCR</dc:subject>
+	<dc:description xml:lang="en">Variability in hepatic expression of drug transporters and enzymes can significantly impact pharmacokinetics, drug efficacy, and adverse reactions. Research on gene expression in clinical patients has been limited by the necessity of biopsies, which carries inherent risk and may not uniformly represent underlying pathology without acquiring multiple samples. The utility of minimally invasive sampling techniques, such as fine needle aspiration (FNA), as well as the effect of sampling location on hepatic gene expression has not been evaluated in veterinary medicine. We hypothesized that hepatic gene expression can be accurately measured from FNA samples and will not differ based on sampling method or location. Biopsy and FNA samples were acquired in triplicate from central and peripheral locations of the right and left lateral liver lobes of a healthy liver. Relative expression of ABCB1, GSTT1, and CYP3A12 were measured via reverse-transcriptase, quantitative PCR. The effects of sampling method, lobe, and location on expression were assessed using a 3-way ANOVA. Expression of all targets were detectable in all FNA samples. Sampling method did not affect relative expression of ABCB1 or GSTT1, but did impact CYP3A12 expression (p=0.013). Lobe sampled affected ABCB1 expression (p=0.001) and site within lobe affected ABCB1 (p=0.018) and GSTT1 (p=0.025) expression. All differences identified were statistically significant but small. FNA appears to be a feasible technique for minimally invasive evaluation of hepatic gene expression, but results cannot be directly compared to biopsy samples. Sampling location impacts expression of some targets; combination of FNAs from multiple sites may reduce this variation.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2019-08-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/60</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 21st Biennial Symposium; 41</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/60/55</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9012</identifier>
+				<datestamp>2024-12-02T14:54:06Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Risk factors associated with case fatality and treatment success following initial bovine respiratory disease treatment in feedyard cattle</dc:title>
+	<dc:creator xml:lang="en">Neal, Kyndall B.</dc:creator>
+	<dc:creator xml:lang="en">White, Brad J.</dc:creator>
+	<dc:creator xml:lang="en">Amrine, David E.</dc:creator>
+	<dc:creator xml:lang="en">Lubbers, Brian V.</dc:creator>
+	<dc:creator xml:lang="en">Tessman, Ronald K.</dc:creator>
+	<dc:creator xml:lang="en">Larson, Robert L.</dc:creator>
+	<dc:subject xml:lang="en">bovine respirator disease</dc:subject>
+	<dc:subject xml:lang="en">case fatality risk</dc:subject>
+	<dc:subject xml:lang="en">first treatment success</dc:subject>
+	<dc:subject xml:lang="en">risk factors</dc:subject>
+	<dc:subject xml:lang="en">antimicrobials</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease (BRD) is an important disease of fed cattle and knowledge gaps exist regarding factors predict­ing treatment success. The study objective was to identify po­tential relationships between risk factors known at the time of initial BRD treatment with 3 post-treatment outcomes: first treatment success (FTS), non-cause specific case fatal­ity risk (CFRALL), and cause-specific case fatality risk (CFRBRD). This retrospective analysis used generalized linear mixed models to evaluate relationships between covariates of interest with each outcome. Analysis included 132,521 individual-animal initial BRD treatment re­cords from 14 central U.S. feedyards (May 2017 to Dec 2020) with overall FTS of 67.8%, CFRALL of 10.0%, and CFRBRD of 6.3%. The FTS was associated (P &amp;lt; 0.05) with all covariates ex­cept sex, CFRALL was associated with all covariates, and CFR­BRD was associated with all covariates except day-of-week treated. Treatments early in the feeding phase (DOF 0-10, 11- 20) resulted in lower (P &amp;lt; 0.05) FTS (49.2% ± 0.8; 55.3% ± 0.8), higher (P &amp;lt; 0.05) CFRALL (12.5% ± 1.3; 12.6% ± 1.4) and higher (P &amp;lt; 0.05) CFRBRD (6.3% ± 1.1; 6.1% ± 1.0) compared to cattle treated on days 21-70. Rectal temperature in the 103.1-104.0 (39.4-40.0 °C) category had higher (P &amp;lt; 0.05) CFRALL (15.3% ± 1.5) and CFRBRD (9.2% ± 1.5) compared to other rectal tempera­ture categories. Specific risk factors including days on feed at treatment, sex and weight at the time of treatment were associ­ated with treatment outcomes. Results can be useful for defin­ing expectations following first treatment for BRD.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2024-05-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9012</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol58no2p1-8</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 58 No. 2 (2024); 1-8</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9012/8714</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2024 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

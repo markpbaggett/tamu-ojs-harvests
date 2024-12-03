@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/84</identifier>
+				<datestamp>2023-04-11T01:47:55Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Fertilizer Mixer Performance Evaluation using Chloride Titration</dc:title>
+	<dc:creator xml:lang="en">Hsieh, Yi-Cheng</dc:creator>
+	<dc:creator xml:lang="en">Herrman, Timothy</dc:creator>
+	<dc:subject xml:lang="en">Fertilizer blending</dc:subject>
+	<dc:subject xml:lang="en">Performance evaluation</dc:subject>
+	<dc:subject xml:lang="en">Mixer performance</dc:subject>
+	<dc:subject xml:lang="en">Chloride titration to evaluate fertilizer blending performance</dc:subject>
+	<dc:subject xml:lang="en">Performance evaluation on four types of fertilizer mixer</dc:subject>
+	<dc:description xml:lang="en">Mixing processes are a critical step in manufacturing blended fertilizer products. Although each stage of the production process is monitored to prevent deficiencies and ensure quality in fertilizer production, evaluation of mixing performance by regulatory agencies are the keys to assessing quality of the final product. The Office of the Texas State Chemist (OTSC) conducted a fertilizer mixer evaluation study, which involved two main components: sample collection and lab analyses. Samples from 9 mixers were collected from 7 fertilizer manufacturing locations in Texas. Firms were selected based on the type of fertilizer components currently in use and the type of mixer(s), which included cement type, vertical, volumetric and paddle. Sample collection follows the process outlined by The Fertilizer Institute (TFI). Samples are collected from the blended product and from the individual raw ingredient materials. In the laboratory, the samples from the individual raw materials and blended product stream cut samples were analyzed for size guide number (SGN), density, particle number, and nitrogen (N)-phosphorous (P)-potassium (K) levels, and Chloride (Cl-) content. The sample accuracy was calculated by comparing the actual formula weights to the expected values for the blended product. To determine mixer efficiency and reproducibility, coefficient of variations were calculated to determine the variability between various samples of the blended product. Our results indicated Cl- titration is a cost effective method to efficiently evaluate mixer performance, the mixing time of tested cement mixer may result in high variation in the N-P-K analysis, and Cl- level in blended samples. Based on our previous feed mixer study, facilities operating these cement mixers may consider to check mixer readiness and increase mixing time to achieve better homogeneity.https://doi.org/10.21423/jrs-v06n02p008 (DOI assigned 1/24/2019)</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2018-11-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">SGN, Density, N-P-K Analyses, Choloride measurement (titration &amp; QuanTab)</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/84</dc:identifier>
+	<dc:identifier>10.21423/JRS-V06N02P008</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol 6, No 2 (2018); 8-17</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/84/90</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 Journal of Regulatory Science</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

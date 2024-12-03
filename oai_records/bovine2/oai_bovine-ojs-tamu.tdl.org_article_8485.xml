@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8485</identifier>
+				<datestamp>2022-10-20T00:04:25Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Associations between pen management characteristics and bovine respiratory disease incidence in the first 45 days post-arrival in feedlot cattle</dc:title>
+	<dc:creator xml:lang="en">Rojas, Hector A.</dc:creator>
+	<dc:creator xml:lang="en">White, Brad J.</dc:creator>
+	<dc:creator xml:lang="en">Amrine, David E.</dc:creator>
+	<dc:creator xml:lang="en">Larson, Robert L.</dc:creator>
+	<dc:creator xml:lang="en">Capik, Sarah F.</dc:creator>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">bunk space</dc:subject>
+	<dc:subject xml:lang="en">pen space</dc:subject>
+	<dc:description xml:lang="en">&amp;nbsp;
+&amp;nbsp;The purpose of this study was to utilize retrospective commer­cial feedlot data to evaluate the potential associations between pen housing management factors and first treatment BRD inci­dence during the first 45 days on feed (DOF). Our study popula­tion included 1,733 cohorts of feedlot cattle representing 188,188 total animals from 2018 to 2020. Our explanatory variables of interest in this study were pen area per animal and bunk space per animal. These variables were categorized as either having below, adequate, or above recommended pen area/bunk space per animal-based guidelines from the central United States. Our data were analyzed with a generalized linear mixed model utilizing a binomial link function. Results demonstrated that pen housing management factors were significantly (P &amp;lt; 0.05) associated with BRD incidence in the first 45 DOF, but their ef­fects were modified by relevant cattle demographic factors (co­hort size at arrival, average arrival weight, sex, and quarter of arrival). For example, cohorts with an average arrival weight between 900 to 1,000 lb. (409 to 453 kg) had a higher probability of BRD incidence in the first 45 DOF when provided below rec­ommended pen area per head compared to similar weighted co­horts that had adequate, or above, recommended pen area per head. Our results from this study identify potential situations where pen housing management factors, combined with cattle demographics, may impact the risk of BRD in feedlot cattle. Further defining these situations may allow feedlot managers to utilize these estimates to manage feedlot cattle health more effectively.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2022-10-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8485</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol56no1p40-52</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 56 No. 1 (2022); 40-52</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8485/8286</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

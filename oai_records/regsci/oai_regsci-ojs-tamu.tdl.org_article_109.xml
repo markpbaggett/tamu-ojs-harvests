@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/109</identifier>
+				<datestamp>2023-04-11T02:10:11Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">An Approach for Predicting Mainstream Cigarette Smoke Harmful and Potentially Harmful Constituent (HPHC) Yields</dc:title>
+	<dc:creator xml:lang="en">Hannel, Thaddaeus</dc:creator>
+	<dc:creator xml:lang="en">Pithawalla, Yezdi B.</dc:creator>
+	<dc:creator xml:lang="en">Morton, Michael J.</dc:creator>
+	<dc:creator xml:lang="en">Wang, Jingzhu</dc:creator>
+	<dc:creator xml:lang="en">Gannon, Thomas J.</dc:creator>
+	<dc:creator xml:lang="en">Wagner, Karl A.</dc:creator>
+	<dc:creator xml:lang="en">Jupe, Richard</dc:creator>
+	<dc:creator xml:lang="en">Rostami, Ali A.</dc:creator>
+	<dc:subject xml:lang="en">HPHC</dc:subject>
+	<dc:subject xml:lang="en">Cigarette manufacturing</dc:subject>
+	<dc:subject xml:lang="en">Statistical modeling</dc:subject>
+	<dc:subject xml:lang="en">regulatory reporting</dc:subject>
+	<dc:subject xml:lang="en">manufacturing change</dc:subject>
+	<dc:subject xml:lang="en">Regulatory Submission</dc:subject>
+	<dc:description xml:lang="en">To ensure quality, consistency, and supply of cigarette products, a manufacturer may change materials, which can affect its product portfolio. Rather than testing each product individually to determine the effect of a change, designed experiments can be conducted using a subset of products, and statistical modeling can be performed to determine the harmful and potentially harmful constituent (HPHC) yields for the remaining products. To demonstrate this, we selected 30 representative cigarette products covering a wide range of tobacco blends, ingredients, and design parameters from a manufacturer's portfolio. Sets of cigarette products used papers produced with one type of manufacturing technology (control products) and two additional cigarette papers (changed products). The physical characteristics of the changed products' papers were similar to the control products but were manufactured using alternative methods, which could lead to differences in their chemical composition. The experiment was controlled to minimize variations among products, manufacturing, and testing. Linear regression was used to model the relationship between HPHC yields of the tested products. Twelve randomly selected products were used for validation by comparing predicted to measured yields. Model predictions were robust; differences between measured and predicted values were within standard repeatability limits, demonstrating the feasibility of this approach.https://doi.org/10.21423/jrs-v07hannel</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">statistical</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/109</dc:identifier>
+	<dc:identifier>10.21423/JRS-V07HANNEL</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol 7 (2019); 1-18</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/109/117</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Journal of Regulatory Science</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

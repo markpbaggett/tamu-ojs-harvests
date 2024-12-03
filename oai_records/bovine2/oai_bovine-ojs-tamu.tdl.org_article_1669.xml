@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1669</identifier>
+				<datestamp>2021-08-30T18:51:04Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Seroprevalence and productivity effects of infection with bovine leukemia virus, Mycobacterium avium subspecies paratuberculosis, and Neospora caninum in Maritime Canadian dairy cattle</dc:title>
+	<dc:creator xml:lang="en">Van Leeuwen, J.A.</dc:creator>
+	<dc:creator xml:lang="en">Keefe, G. P.</dc:creator>
+	<dc:creator xml:lang="en">Tiwari, A.</dc:creator>
+	<dc:subject xml:lang="en">antibodies</dc:subject>
+	<dc:subject xml:lang="en">dairy cattle</dc:subject>
+	<dc:subject xml:lang="en">disease prevalence</dc:subject>
+	<dc:subject xml:lang="en">diseases</dc:subject>
+	<dc:subject xml:lang="en">lactation</dc:subject>
+	<dc:subject xml:lang="en">lactation number</dc:subject>
+	<dc:subject xml:lang="en">milk production</dc:subject>
+	<dc:subject xml:lang="en">seroprevalence</dc:subject>
+	<dc:subject xml:lang="en">somatic cell count</dc:subject>
+	<dc:description xml:lang="en">To determine the effect of subclinical infection with bovine leukaemia virus (BLV), Mycobacterium avium subspecies paratuberculosis (MAP) and Neospora caninum (NC) on milk production in dairy cattle in 3 Maritime Canadian provinces, 90 dairy herds (all on monthly milk recording) were randomly recruited. Within each herd, a serum sample was obtained from approximately 30 randomly selected lactating animals. Samples were tested for antibodies against the agents using commercially available enzyme linked immunosorbent assays (ELISA). Associations were tested between 305-day milk production and test results for each pathogen using linear regression and controlling for sampling weights, within-herd clustering, provincial stratification, lactation number, and linear score somatic cell count. Overall, 20.8, 2.6, and 20.3% of cattle were test-positive for exposure to BLV, MAP, and NC, respectively. MAP test positive cows had significantly lower 305-day milk production than MAP test negative cows, when data were pooled for all lactations, and specifically for lactations one (1260 lb; 573 kg) and five (3020 lb; 1373 kg). There was a negative trend toward lower 305-day milk production for MAP test positive cows in lactation 2 and 4 compared with MAP test negative cows. In lactation 3, MAP test positive cows had significantly higher 305-day milk production (3248 lb; 1476 kg) than MAP test negative cows. No significant differences in production were observed for NC or BLV positive animals. Being test positive for one pathogen was not associated with being test positive for the other pathogens, and no interactive effects on 305-day milk production among pathogen test results were observed.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2002-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1669</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol36no2p86-91</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 36, No. 2 (2002 June); 86-91</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1669/7775</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2002 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

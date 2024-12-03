@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4705</identifier>
+				<datestamp>2020-02-14T15:20:48Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Improving Decision Making by Consideration of Type I and Type II Error Costs</dc:title>
+	<dc:creator xml:lang="en">Overton, Michael W.</dc:creator>
+	<dc:subject xml:lang="en">new products</dc:subject>
+	<dc:subject xml:lang="en">interventions</dc:subject>
+	<dc:subject xml:lang="en">reproductive interventions</dc:subject>
+	<dc:subject xml:lang="en">pregnancy rate</dc:subject>
+	<dc:subject xml:lang="en">AI</dc:subject>
+	<dc:description xml:lang="en">Dairy producers must make good decisions regarding potential new products or interventions in order to optimize profitability. Choosing to use a product that does not yield a profitable response is an example of a type I error. The concept of minimizing type I error cost by good decision making is usually intuitive. However, the concept of"lost opportunity cost" is a bit more nebulous. The choice of not using a product that in reality would have returned a profit is an example of a lost opportunity or a type II error cost. Calculation of the error costs for a single product with sound research is straightforward. Applying this concept to reproductive interventions is more problematic due to the difficulty in measuring the value of reproductive change. The model presented in this paper attempts to quantify the value of improved reproductive performance by estimating the value of the change in milk production, the value of calves produced, and the effects of culling changes. Application of type I and type II error theory to the question of "should TAI be used" yielded different results in the two examples. In the first scenario, the conclusion reached was that overall, herds with a baseline pregnancy rate (PR) of 16% or less utilizing AI based upon detection of estrus should carefully consider the use of TAI based on the large advantage of type II vs type I error costs. However, in scenario two, herds that have already achieved a PR of 17% have less to gain economically by making the reproductive management change.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4705</dc:identifier>
+	<dc:identifier>10.21423/aabppro20064705</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2006; 190-195</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4705/4603</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

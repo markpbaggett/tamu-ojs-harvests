@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4755</identifier>
+				<datestamp>2020-02-15T08:42:14Z</datestamp>
+				<setSpec>aabp:RS3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Parameters of Ear Notch Samples for BVDV Testing: Stability, Size Requirements and Viral Load</dc:title>
+	<dc:creator xml:lang="en">Ridpath, J. F.</dc:creator>
+	<dc:creator xml:lang="en">Hessman, B. E.</dc:creator>
+	<dc:creator xml:lang="en">Neill, J. D.</dc:creator>
+	<dc:creator xml:lang="en">Fulton, R. W.</dc:creator>
+	<dc:creator xml:lang="en">Step, D. L.</dc:creator>
+	<dc:subject xml:lang="en">ELISA</dc:subject>
+	<dc:subject xml:lang="en">ear notch samples</dc:subject>
+	<dc:subject xml:lang="en">surveillance programs</dc:subject>
+	<dc:subject xml:lang="en">viral load</dc:subject>
+	<dc:subject xml:lang="en">working parameters</dc:subject>
+	<dc:subject xml:lang="en">storage conditions</dc:subject>
+	<dc:subject xml:lang="en">real-time PCR</dc:subject>
+	<dc:description xml:lang="en">Infection with bovine viral diarrhea viruses (BVDV) is a major source of economic loss for the US cattle industry. Houe (2003) estimates that losses in areas where BVD is endemic range between $10 to 40 million per million calvings. Results of serology surveys in the US suggests that our losses are in the upper end of this range (Houe et al, 1995a; Houe et al, 1995b; Paisley et al, 1996). In 2004, 37.6 million calves were born in the US; thus, US losses by this estimate would be between $376 million to 1.5 billion for 2004. The 2005 calf crop was ~37.8 million, making the 2005 estimate very similar to that of 2004.
+While BVDV infections are well recognized as reproductive pathogens among dairy producers, producers are less aware that BVDV infections are also associated with increased respiratory disease, increased severity of secondary infections and decreased milk production. Persistently infected (PI) animals are the major vectors for spreading BVDV within and among herds. Based on studies of dairies of 100 cows or more, Joly et al (2005) estimated that the presence of one PI animal in a herd resulted in a loss of $1.93/cwt of milk sold. Studies estimate that 10-15% of US herds have at least one PI animal (Houe et al, 1995c; Wittum et al, 2001). In 2004, US dairies produced 170,805 million lb (77,638 kg) of milk. If 10% to 15% of dairy herds have at least one PI animal, then the cost to milk production is between $330 to 494 million per year.
+Control efforts in the US are geared towards identifying and eliminating Pis. Several tests based on detection of either antigen or viral RNA in blood, serum, bulk milk or skin biopsies are currently in use (Cornish et al, 2005; Fulton et al, 2006). Ear notch samples have become the tissue of choice for screening for PI animals because 1) they are easy to collect; 2) equipment requirements are minimal; 3) they are not affected by presence of passive antibodies; and 4) they can be used as the sample for a wide variety of tests including immunohistochemistry, real-time polymerase chain reaction and antigen-capture ELISA.
+While ear notches have become one of the samples of choice, there is little information available regarding sample size requirements and stability. Further, while pooling of ear notch samples has been proposed for reducing the cost of surveillance programs (Kennedy et al, 2006), the viral load available for detection from ear notch samples is largely undetermined. The purpose of this study was to establish working parameters for sample size, viral detection limit and sample storage conditions for real-time PCR and antigen-capture ELISA.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4755</dc:identifier>
+	<dc:identifier>10.21423/aabppro20064755</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2006; 269-270</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4755/4652</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

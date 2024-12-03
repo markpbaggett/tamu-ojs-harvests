@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8377</identifier>
+				<datestamp>2022-10-24T20:58:19Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Using network meta-analyses to increase the power of a subsequent trial with a new treatment</dc:title>
+	<dc:creator xml:lang="en">Hu, D. </dc:creator>
+	<dc:creator xml:lang="en">Wang, C.</dc:creator>
+	<dc:creator xml:lang="en">O'Connor, Annette M.</dc:creator>
+	<dc:subject xml:lang="en">non-inferiority study</dc:subject>
+	<dc:subject xml:lang="en">power calculations</dc:subject>
+	<dc:subject xml:lang="en">meta-analysis</dc:subject>
+	<dc:description xml:lang="en">Randomized controlled trials remain a critical way to assess interventions in feedlot production. For areas where effective interventions are known to exist, increasingly, the question of interest is about non-inferiority of alternatives, i.e., is a new treatment at least equivalent to a currently used product. The question of non-inferiority is often more meaningful and realistic than asking if the new treatment is superior to current therapy. The new product might be equal in efficacy but cheaper or have other favorable attributes which would still motivate switching products. Given the desire to assess non-inferiority, the next step is to design a trial. Usually, this would involve determining the sample size, however some feedlots are limited in the sample size that can be enrolled. In these circumstances, the question is, given this sample size, what is the power of a non-inferiority study a given sample size. The standard approach to determining the power of a study the result will be analyzed independent of other information. Here we propose a method that prospectively plans to incorporate the new trial results into a network meta-analysis. With this plan, data from the meta-analysis can be considered in power calculations resulting in more powerful design than traditional stand-alone approaches.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8377</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2021 Annual Conference Proceedings; 255</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8377/8255</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

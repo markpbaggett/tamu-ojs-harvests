@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3666</identifier>
+				<datestamp>2020-02-06T08:42:36Z</datestamp>
+				<setSpec>aabp:GS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Air quality in open-lot dairies and cattle feedyards</dc:title>
+	<dc:creator xml:lang="en">Auvermann, Brent</dc:creator>
+	<dc:subject xml:lang="en">dairy</dc:subject>
+	<dc:subject xml:lang="en">feedyard</dc:subject>
+	<dc:subject xml:lang="en">air quality</dc:subject>
+	<dc:description xml:lang="en">The research community is making good progress in understanding the mechanical, biochemical, and atmospheric processes responsible for airborne emissions of particulate matter (PM, or “dust”), gases, and vapors from open-lot livestock production, especially dairies and cattle feedyards. Recent studies in Texas, Kansas, Nebraska, Colorado, California, and Australia have expanded the available data on both emission rates and abatement measures. A national guidance document published by USDA last summer established what researchers believe to be the state of the art in estimating greenhouse-gas emissions from individual facilities. Although the uncertainties associated with our estimates of fugitive emissions are still unacceptably high, we have learned from our recent experience with ammonia that using a wide variety of credible measurement techniques, rather than focusing on 1 so-called “standard” technique, may be the better way to improve confidence in our estimates. The most promising control measures for gaseous emissions continue to be dietary strategies to increase nutrient-use efficiency, with management of corral-surface moisture a close second. For particulate matter, corral-surface management and moisture management may play comparable roles, depending on the mechanical strength of soils and the availability of water, respectively. The cost per unit reduction of emitted mass attributable to these abatement measures varies as widely as the emissions estimates themselves. Therefore, continued emphasis on process-based emissions research to reduce variances in emissions estimates, and to mitigate the contingency of prior, empirically based estimates is necessary. As a general rule, although cattle feedyard emission factors may be considered a reasonable starting point for estimating emissions from open-lot dairies, such estimates should be viewed with suspicion.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2014-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3666</dc:identifier>
+	<dc:identifier>10.21423/aabppro20143666</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2014; 1-4</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3666/3610</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2014 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3499</identifier>
+				<datestamp>2021-02-05T03:10:19Z</datestamp>
+				<setSpec>aabp:RS4</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Diagnostic accuracy of clinical illness for bovine respiratory disease diagnosis in feedlot beef calves: a systematic review of the literature and Bayesian meta-analysis</dc:title>
+	<dc:creator xml:lang="en">Timsit, E.</dc:creator>
+	<dc:creator xml:lang="en">Dendukuri, N.</dc:creator>
+	<dc:creator xml:lang="en">Schiller, I.</dc:creator>
+	<dc:creator xml:lang="en">Buczinski, S.</dc:creator>
+	<dc:description xml:lang="en">Bovine respiratory disease (BRD) diagnosis in feedlots is based on clinical inspection (CI) done once or twice daily by pen-riders or pen-walkers. A diagnosis of BRD is typically established when an animal has visual signs of BRD and a rectal temperature above a threshold (ranging from 103.1 to 104 °F) (39.5 to 40 °C). This diagnostic approach is known to have less than ideal sensitivity (SeCI) and specificity (SpCI). However, accurate estimates of SeCI and SpCI are not available, in part due to the absence of a reference test for antemortem diagnosis of BRO. The objective was to determine the diagnostic accuracy of CI for BRO diagnosis in post-weaned beef calves. The presence of lung lesions at slaughter (LU) was used as an imperfect reference test to determine SeCI and SpCI.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2016-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3499</dc:identifier>
+	<dc:identifier>10.21423/aabppro20163499</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2016; 180-181</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3499/3447</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2016 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

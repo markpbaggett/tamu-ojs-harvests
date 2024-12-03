@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6562</identifier>
+				<datestamp>2020-08-11T00:37:18Z</datestamp>
+				<setSpec>aabp:PHM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Application of a Computerized Herd Management &amp; Production Control Program in Costa Rica</dc:title>
+	<dc:creator xml:lang="en">Dwinger, R. H.</dc:creator>
+	<dc:creator xml:lang="en">Capella, E.</dc:creator>
+	<dc:creator xml:lang="en">Pérez, E.</dc:creator>
+	<dc:creator xml:lang="en">Baayen, M.</dc:creator>
+	<dc:creator xml:lang="en">Müller, E.</dc:creator>
+	<dc:subject xml:lang="en">data recording techniques</dc:subject>
+	<dc:subject xml:lang="en">livestock production</dc:subject>
+	<dc:subject xml:lang="en">farm income</dc:subject>
+	<dc:subject xml:lang="en">deforestation</dc:subject>
+	<dc:subject xml:lang="en">herd health</dc:subject>
+	<dc:subject xml:lang="en">software programs</dc:subject>
+	<dc:description xml:lang="en">The development of computerized data recording techniques in recent years has greatly facilitated concise monitoring of herd health and production parameters. Various computer software programs have been described for use in large animal practice1. Whether the program was developed for analyzing reproductive health in dairy herds2 or to estimate the cost of raising dairy replacements3, each aimed at improving farm management and optimizing farm income. A herd health and production management program for dairy farms has been described extensively elsewhere4. The program is supported by a software package called VAMPP (Veterinary Automated Management and Production control Program), which has been adapted for use in microcomputers.
+Presently this program is being used widely in the Netherlands and other countries for monitoring dairy cattle and swine farms5. A spanish version of VAMPP, was introduced in 1987 in Costa Rica by the Veterinary School of the Universidad Nacional (UNA) as part of a teaching and research program in herd health and production management.
+With an annual per capita gross domestic product of US $ 1424 in 19886, Costa Rica still qualifies as a developing country. However, unlike many other developing countries, Costa Rica can boast a stable democracy, a literacy rate of 93 % in 19895, a good road and communication system and a fairly reliable and extensive electricity supply. This infrastructure in combination with the importance of the livestock sector for both the national requirements and the export industry provide a suitable basis for the introduction of a sophisticated computer program to assist farmers in improving farm management. Optimizing the livestock industry is of paramount importance to Costa Rica since an annual human population growth rate of 2.25 % in 19906 and pressure for agricultural land has resulted in extensive deforestation during the past decades. An effective measure to prevent further deforestation, is to optimize the production of existing livestock units per hectare.
+Computerized recording techniques can provide the farmer as well as the extension worker with production figures to monitor the performance of individual cows, while herd averages can be compared with regional index figures or livestock industry production goals. Thus, livestock production and farm income can be assessed and optimized using the existing pasture areas without the need for expansion.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6562</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926562</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 3; 42-44</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6562/7146</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

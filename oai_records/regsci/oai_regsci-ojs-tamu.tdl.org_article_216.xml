@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/216</identifier>
+				<datestamp>2023-04-11T23:13:49Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A national probabilistic characterization of local crop proximity and density for refining US screening level exposure estimates of pesticides in surface water arising from agricultural use</dc:title>
+	<dc:creator xml:lang="en">Holmes, Christopher M</dc:creator>
+	<dc:creator xml:lang="en">Desmarteau, Dean</dc:creator>
+	<dc:creator xml:lang="en">Ritter, Amy </dc:creator>
+	<dc:creator xml:lang="en">Hendley, Paul</dc:creator>
+	<dc:subject xml:lang="en">Aquatic exposure modeling</dc:subject>
+	<dc:subject xml:lang="en">Catchment</dc:subject>
+	<dc:subject xml:lang="en">Pyrethroids</dc:subject>
+	<dc:subject xml:lang="en">Surface water</dc:subject>
+	<dc:subject xml:lang="en">Geographic Information System</dc:subject>
+	<dc:subject xml:lang="en">Landscape</dc:subject>
+	<dc:subject xml:lang="en">Spatial</dc:subject>
+	<dc:subject xml:lang="en">Ecological Risk Assessment</dc:subject>
+	<dc:subject xml:lang="en">Pesticide exposure modeling</dc:subject>
+	<dc:subject xml:lang="en">Spatial analysis</dc:subject>
+	<dc:description xml:lang="en">Rising world population and changing diets are increasing the need for efficient and effective food and fiber production. Pesticides are used across the US to control pests and improve food yield and quality, but these benefits are offset by their potential to reach and possibly impact aquatic or terrestrial ecosystems. Regulatory agencies rely on prospective exposure models that often start with conservative simplifying assumptions that are refined with additional information if needed. The USEPA ecological risk assessment framework for pesticides assumes, at screening level, that 100% of the area draining to a water body is cropped. However, at the grower’s real-world scale, this simplifying assumption is generally not realistic and should be refined for higher tier assessment. The present study developed a US-wide spatially explicit analysis of crop density and proximity to surface waters to characterize the potential for pyrethroid insecticides to enter flowing surface waters. Reliable, transparent, and publicly available government spatial cropping and hydrology datasets were employed at the catchment-scale across the full extent of agricultural production in the US were used to generate fifteen novel crop-specific probabilistic distributions describing the extent and proximity of each crop to the flowing water body defining small catchments. These were used to refine estimated environmental concentrations using USEPA standard regulatory scenarios to evaluate the importance of considering agricultural landscapes when refining aquatic pesticide concentrations. Incorporating these real-world probabilities of crop occurrence and proximity showed that, while potential maximal aquatic exposure concentrations are unchanged, the probability of exceeding regulatory decision-making concentration endpoints is much lower than predicted by standard assumptions (e.g., 1.9 to ~50-fold reductions by crop for 90% of catchments). Additionally, we show that the relative ranking of crops by their aquatic pesticide exposure potential may change from that indicated when cropping density and proximity are considered.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2023-01-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/216</dc:identifier>
+	<dc:identifier>10.21423/JRS-V10A216</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 10 No. 1 (2022); 1 - 31</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/216/295</dc:relation>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/216/296</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 Christopher M Holmes, Dean Desmarteau, Amy  Ritter, Paul Hendley</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

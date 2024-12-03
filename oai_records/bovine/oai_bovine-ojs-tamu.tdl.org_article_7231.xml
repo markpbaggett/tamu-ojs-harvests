@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7231</identifier>
+				<datestamp>2021-08-27T21:21:50Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Ureaplasma (T Strain Mycoplasma) Infection of the Bovine Reproductive Tract</dc:title>
+	<dc:creator xml:lang="en">Doig, P.A.</dc:creator>
+	<dc:creator xml:lang="en">MacKay, A. L.</dc:creator>
+	<dc:creator xml:lang="en">Ruhnke, H. L.</dc:creator>
+	<dc:subject xml:lang="en">Bovine Reproductive Disease</dc:subject>
+	<dc:subject xml:lang="en">Mycoplasma bovis</dc:subject>
+	<dc:subject xml:lang="en">Granular Vulvitis</dc:subject>
+	<dc:subject xml:lang="en">ureaplasma</dc:subject>
+	<dc:subject xml:lang="en">semen contamination</dc:subject>
+	<dc:description xml:lang="en">The mycoplasmas or more correctly the •"Mycoplasmatales", have been recognized as disease causing agents for over eighty years. The organisms were first isolated from cases of contagious bovine pleuropneumonia and for this reason, subsequent isolates were initially termed pleuropneumonia-like organisms (PPLO). In more recent years numerous additional mycoplasma species have been isolated from animals, birds, man, plants and insects. The group has now been divided into three major families based on morphological and biochemical criteria.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1980-11-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7231</dc:identifier>
+	<dc:identifier>10.21423/aabppro19807231</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1980; 127-135</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7231/7394</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1980 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

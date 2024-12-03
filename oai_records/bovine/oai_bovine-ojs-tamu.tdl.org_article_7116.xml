@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7116</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Ruminate on this: Automatic monitoring of cows through the transition period</dc:title>
+	<dc:creator xml:lang="en">Stangaferro, Matias L.</dc:creator>
+	<dc:creator xml:lang="en">Perez, Martin M.</dc:creator>
+	<dc:creator xml:lang="en">Giordano, Julio O.</dc:creator>
+	<dc:subject xml:lang="en">dairy cow</dc:subject>
+	<dc:subject xml:lang="en">automation</dc:subject>
+	<dc:subject xml:lang="en">health</dc:subject>
+	<dc:subject xml:lang="en">sensors</dc:subject>
+	<dc:description xml:lang="en">Over the past several years, the structure of the dairy industry has changed dramatically, with fewer dairy operations, larger herd sizes, higher labor costs, and a reduction of qualified labor. These factors, along with a recent explosion in the development and commercialization of sensor-based automated systems for dairy farms, have become major drivers for the automation of different farm activities. In this regard, new technologies have the ability to positively change herd management in many ways. For example, they have the potential to reduce the burden associated with health monitoring programs by reducing labor cost, improving cow time-budgets, and providing tools for more accurate and earlier disease diagnosis. Similarly, these systems can provide valuable information in other areas such as reproduction and nutrition. Still, sensor data are only useful if interpreted and used efficiently in the decision-making process. This article aims to describe current knowledge about the potential use of automated health monitoring systems (AHMS) to identify cows with health disorders, with special focus on the practical “on farm” implementation of these technologies.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7116</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197116</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 139-145</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7116/5908</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

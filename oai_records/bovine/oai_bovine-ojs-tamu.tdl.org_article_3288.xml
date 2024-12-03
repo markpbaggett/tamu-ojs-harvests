@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3288</identifier>
+				<datestamp>2020-02-06T08:35:51Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">More is better: Reviewing the science behind duration of antimicrobial therapy</dc:title>
+	<dc:creator xml:lang="en">Lubbers, Brian V.</dc:creator>
+	<dc:subject xml:lang="en">antimicrobial regimen</dc:subject>
+	<dc:subject xml:lang="en">duration of therapy</dc:subject>
+	<dc:subject xml:lang="en">antimicrobial stewardship</dc:subject>
+	<dc:description xml:lang="en">Antimicrobial resistance concerns have created a renewed interest in antimicrobial stewardship programs in both human and veterinary medicine. Due to the associated logistical and administrative burdens, formal antimicrobial stewardship programs have seen limited adoption outside of large institutional care centers. However, one of the key components of these programs is to optimize antimicrobial therapy - administration: of the right drug, to the right patient, at the right dose, by the right route, for the right duration. Optimizing dosing regimens does not have the same logistical burdens as a formal program, it simply requires evidential support and implementation by individual clinicians; which begs the question, "what is the basis for our current duration of antibiotic therapy recommendations?". To answer this question, a literature search was conducted to evaluate the scientific basis to support current recommendations for duration of therapy in veterinary medicine. Overall, the quantity and quality of scientific studies to support a specific duration oftherapy for a specific antimicrobial was underwhelming. However, the limited data generally supports the assumption that shorter durations of therapy can be effective and should be more thoroughly investigated.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2017-09-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3288</dc:identifier>
+	<dc:identifier>10.21423/aabppro20173288</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2017; 102-106</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3288/3248</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

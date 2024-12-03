@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/121</identifier>
+				<datestamp>2018-02-13T14:35:53Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Forecasting London Museum Visitors Using Google Trends Data</dc:title>
+	<dc:creator xml:lang="en">Volchek, Ekaterina</dc:creator>
+	<dc:creator xml:lang="en">Song, Haiyan</dc:creator>
+	<dc:creator xml:lang="en">Law, Rob</dc:creator>
+	<dc:creator xml:lang="en">Buhalis, Dimitrios</dc:creator>
+	<dc:subject xml:lang="en">Attractions</dc:subject>
+	<dc:subject xml:lang="en">museum</dc:subject>
+	<dc:subject xml:lang="en">forecast</dc:subject>
+	<dc:subject xml:lang="en">search engine</dc:subject>
+	<dc:subject xml:lang="en">information search</dc:subject>
+	<dc:subject xml:lang="en">Google Trends</dc:subject>
+	<dc:description xml:lang="en">Information search is an indicator of tourist interest in a specific service and potential purchase decision. User online search patterns are a well-known tool for forecasting pre-trip consumer behaviour, such as hotel demand and international tourist arrivals. However, the potential of search engine data for estimating the demand for tourist attractions, which is created both before and during a trip, remains underexplored. This research note investigates the relationships between Google search queries for the most popular London museums and actual visits to these attractions. Preliminary findings indicate high correlation between monthly series data. Search query data is expected to generate reliable forecasts of visits to London museums.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2018-02-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/121</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; 2018: ENTER 2018 Volume 9 Conference on Information and Communication Technologies in Tourism RESEARCH NOTES</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/121/28</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

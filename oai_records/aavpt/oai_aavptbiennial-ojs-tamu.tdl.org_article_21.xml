@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/21</identifier>
+				<datestamp>2022-06-28T18:47:44Z</datestamp>
+				<setSpec>aavptbiennial:S3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of minimum inhibitory concentration of veterinary tetracyclines in broth and serum microdilution</dc:title>
+	<dc:creator xml:lang="en">Mead, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Lees, Peter</dc:creator>
+	<dc:creator xml:lang="en">Rycroft, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Standing, Joseph</dc:creator>
+	<dc:creator xml:lang="en">Mitchell, John</dc:creator>
+	<dc:creator xml:lang="en">Pelligand, Ludovic</dc:creator>
+	<dc:subject xml:lang="en">Minimum inhibitory concentration (MIC)</dc:subject>
+	<dc:subject xml:lang="en">minimum bactericidal concentration (MBC)</dc:subject>
+	<dc:subject xml:lang="en">Tetracycline</dc:subject>
+	<dc:subject xml:lang="en">Pasterurella multocida</dc:subject>
+	<dc:subject xml:lang="en">Mannhaemia haemolytica</dc:subject>
+	<dc:description xml:lang="en">Tetracycline is commonly used as reference for susceptibility testing before initiating treatment with another drug from the family (oxytetracycline, doxycycline).This study investigates the differences in MIC between three tetracyclines and the effect of using serum for the determination of MIC and minimum bactericidal concentration (MBC) for bovine respiratory pathogens (Mannhaemia haemolytica [MH] and Pasteurella multocida [PM] field isolates). Tetracycline, oxytetracycline and doxycycline potencies were determined using non-standard methodology (adapted from CLSI guidelines) involving five overlapping sets of two-fold dilution series in cation-adjusted Mueller-Hinton broth and foetal bovine serum. Free drug MIC and MBC were compared between media and drugs using ANOVA and Tukey post-hoc analysis. Doxycycline broth MICs (0.18 mcg/mL PM,0.31 mcg/mL MH) were significantly lower than oxytetracycline (0.34 mcg/mL PM, 0.35 mcg/mL MH) and tetracycline (0.38 mcg/mL PM, 0.52 mcg/mL MH), except for M. haemolytica MIC in broth (only lower than tetracycline MIC). Doxycycline broth MBCs (0.53 mcg/mL PM, 0.86 mcg/mL MH) were significantly lower than oxytetracycline (1.27 mcg/mL PM, 1.58 mcg/mL MH) and tetracycline (1.14 mcg/mL PM, 1.38 mcg/mL MH), oxytetracycline MIC for M.haemolytica were significantly lower than tetracycline, regardless of matrix. Serum increased MIC for tetracycline, oxytetracycline and doxycycline 6.67-, 6.93- and 1.35-fold (p&amp;lt;0.001) for P. multocida and 5.46-, 9.38- and 1.15-fold, for M. haemolytica respectively. The MBC tetracycline and oxytetracycline were also significantly higher in serum than in broth. In conclusion, use of a more biologically relevant media could present an extension to current methods and a more relevant PK/PD target for dosage determination.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2017-05-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/21</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 20th Biennial Symposium</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/21/21</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

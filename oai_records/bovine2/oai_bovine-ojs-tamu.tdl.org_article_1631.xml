@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1631</identifier>
+				<datestamp>2021-08-30T18:39:15Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Preliminary evaluation of the effect of vaccination with modified live bovine viral diarrhea virus (BVDV) on detection of BVDV antigen in skin biopsies using immunohistochemical methods</dc:title>
+	<dc:creator xml:lang="en">DuBois, William R.</dc:creator>
+	<dc:creator xml:lang="en">Cooper, V. L.</dc:creator>
+	<dc:creator xml:lang="en">Duffy, Jeanenne C.</dc:creator>
+	<dc:creator xml:lang="en">Dean, Darrin D.</dc:creator>
+	<dc:creator xml:lang="en">Ball, Roy L.</dc:creator>
+	<dc:creator xml:lang="en">Starr, Billie D.</dc:creator>
+	<dc:subject xml:lang="en">biopsy</dc:subject>
+	<dc:subject xml:lang="en">calves</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">diagnostic techniques</dc:subject>
+	<dc:subject xml:lang="en">immunohistochemistry</dc:subject>
+	<dc:subject xml:lang="en">live vaccines</dc:subject>
+	<dc:subject xml:lang="en">mucosal disease</dc:subject>
+	<dc:subject xml:lang="en">respiratory diseases</dc:subject>
+	<dc:subject xml:lang="en">vaccination</dc:subject>
+	<dc:subject xml:lang="en">vaccines</dc:subject>
+	<dc:description xml:lang="en">Immunohistochemical (IHC) testing of skin biopsies (ear notch samples) is a method to identify cattle persistently infected (PI) with bovine diarrhoea virus (BDV). Skin biopsies were taken from 90 calves upon arrival (day 0) at a feedlot, and on days 14, 28 and 42 following arrival. Calves were vaccinated with modified live virus (MLV) BDV vaccine on days 1 and 14 following arrival. Additional samples were obtained from 50 of the calves between days 1 and 10 when they were treated for bovine respiratory disease. Immunohistochemical testing for BDV antigen was performed on all samples. One calf was positive for BDV antigen by IHC techniques on 5 skin biopsies. This calf was also positive by virus isolation (VI) on the buffy coat of a blood sample obtained on day 42 following arrival. All samples from the remaining calves were negative when tested with the IHC method. Other tests, VI and polymerase chain reaction, used to identify PI cattle may give positive results in cattle recently vaccinated with MLV BDV vaccine. This study suggests that IHC testing of skin biopsies may be advantageous over other tests to identify PI cattle recently vaccinated with MLV BVDV.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2000-05-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1631</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol34no2p98-100</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 34, No. 2 (2000 May); 98-100</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1631/7816</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2000 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

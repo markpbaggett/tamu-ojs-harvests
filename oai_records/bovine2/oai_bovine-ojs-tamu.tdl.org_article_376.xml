@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/376</identifier>
+				<datestamp>2021-08-31T01:55:24Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Case report: Utilizing formic acid to effectively eliminate Mycoplasma bovis in unpasteurized fresh raw milk</dc:title>
+	<dc:creator xml:lang="en">Beidel, Curtis R.</dc:creator>
+	<dc:creator xml:lang="en">Kristula, Michaela A.</dc:creator>
+	<dc:creator xml:lang="en">Aceto, Helen W.</dc:creator>
+	<dc:creator xml:lang="en">Smith, Billy I.</dc:creator>
+	<dc:subject xml:lang="en">milk</dc:subject>
+	<dc:subject xml:lang="en">acidification</dc:subject>
+	<dc:subject xml:lang="en">Mycoplasma bovis</dc:subject>
+	<dc:subject xml:lang="en">formic acid</dc:subject>
+	<dc:description xml:lang="en">Calves fed milk infected with Mycoplasma bovis are at risk of developing mycoplasma-associated diseases such as pneumonia, otitis media, and arthritis. This study was conducted to determine if acidification of milk cultured positive for M. bovis would consistently result in complete elimination of the organism. Three consecutive daily milk samples were obtained from 8 cows with confirmed M. bovis mastitis. An aliquot of each milk sample was submitted for culture and enumeration of M. bovis as colony-forming units per milliliter (cfu/mL). Dilute (9.8%) formic acid was used to acidify the remainder of each sample, after which culture and enumeration of M. bovis was repeated. Prior to acidification, M. bovis was detected in all milk samples, but the levels present were highly variable both between cows on a given day and within cow between days. On day 1, the median was 418 cfu/mL of M. bovis (interquartile range (IQR) 25th and 75th percentile (125 to 1,445; range 15 to 3,640 cfu/mL)). Equivalent results for day 2 were median 155 cfu/mL (IQR 30 to 1,330; range 20 to 2,280 cfu/mL), whereas day 3M. bovis levels were median 35 cfu/mL (IQR 27 to 230; range 15 to 440 cfu/mL). Each of the samples collected on days 1 to 3 was culture negative for M. bovis following acidification. Results from the current study demonstrate that formic acid is effective for consistently eliminating M. bovis from culture-positive milk. </dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2016-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/376</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol50no2p137-141</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 50, No. 2 (2016 Summer); 137-141</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/376/371</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2016 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

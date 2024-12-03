@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5696</identifier>
+				<datestamp>2020-03-31T07:23:34Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Practical Computerized Monitoring of Parlor Cow Flow</dc:title>
+	<dc:creator xml:lang="en">Stewart, Steven C.</dc:creator>
+	<dc:creator xml:lang="en">Eicker, Steven W.</dc:creator>
+	<dc:subject xml:lang="en">management control</dc:subject>
+	<dc:subject xml:lang="en">electronically captured data</dc:subject>
+	<dc:subject xml:lang="en">parlor performance</dc:subject>
+	<dc:subject xml:lang="en">decision making</dc:subject>
+	<dc:subject xml:lang="en">milking parlor</dc:subject>
+	<dc:description xml:lang="en">As dairies grow larger, efficient operation of the milking parlor becomes critical for many reasons. First, it is typically one of the largest capital investments on the dairy. Second, it is often the limiting resource to further expansion. Third, it requires a substantial percentage of the total labor force on the dairy. Fourth, it is often the place where disease detection occurs or cows are identified for other management needs. It is also often the actual site of treatment or sorting for further action. Therefore, constant monitoring of a parlor is necessary to keep it operating at peak efficiency.
+Electronics in the form of automatic identification and electronic milk weighing meters, coupled with computers and herd management software, are increasingly being used to aid this monitoring. This area has much potential to allow better management control and decision making, but usually this potential (as well as the substantial investment for the electronics) is at best greatly under-utilized, if not wasted. This paper will discuss using electronically captured data to monitor and manage parlor performance.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1998-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5696</dc:identifier>
+	<dc:identifier>10.21423/aabppro19985696</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1998; 148-153</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5696/5539</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1998 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

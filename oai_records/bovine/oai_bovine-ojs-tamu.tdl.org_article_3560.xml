@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3560</identifier>
+				<datestamp>2020-02-06T08:39:43Z</datestamp>
+				<setSpec>aabp:BRDS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Vaccinating high-risk calves against BRD</dc:title>
+	<dc:creator xml:lang="en">Richeson, John T.</dc:creator>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">stress</dc:subject>
+	<dc:subject xml:lang="en">vaccine</dc:subject>
+	<dc:description xml:lang="en">Prevention of infectious disease by vaccination is a cornerstone of animal health management. Almost all commercial feedlots in the US (&amp;gt;90%) vaccinate newly received beef calves against viral respiratory pathogens, whereas a fewer majority use bacterin and/or toxoid agents. Many of these calves arrive as high-risk for developing clinical signs of bovine respiratory disease (BRD) because predisposing factors can cause stress-induced immune dysfunction, and previous virus transmission is plausible during the marketing process. Published studies that utilize a non-vaccinated control treatment under commercial conditions are limited, thus it is difficult to elucidate the efficiency of respiratory vaccines used in high-risk calves. Health and performance outcomes of vaccinates in such studies range from beneficial to detrimental, yet the variable research results are confusing. Inconsistent research outcomes may be explained by: 1) different vaccine products or regimens used, 2) differences in stress, population dynamics, or natural virus challenge conditions between studies or treatment pens within a study, 3) poor sensitivity and specificity of current BRD diagnostic methods used to determine morbidity outcome, and 4) issues with sample size when comparing pen means of binary data (i.e., morbidity and mortality) and risk of type II statistical error. Similarly, controlled studies evaluating the efficacy of respiratory vaccines used in beef calves subjected to chronic physiological stress are rare. The humoral immune response to vaccine antigens administered in stressed cattle may depend on the duration and severity of stress imposed, and whether live-attenuated or non-replicating vaccine agents are administered. Current dogma indicates the immune response to a respiratory vaccine is diminished for stressed calves, but this philosophy will require refinement with further research and understanding.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2015-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3560</dc:identifier>
+	<dc:identifier>10.21423/aabppro20153560</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2015; 172-175</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3560/3507</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2015 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

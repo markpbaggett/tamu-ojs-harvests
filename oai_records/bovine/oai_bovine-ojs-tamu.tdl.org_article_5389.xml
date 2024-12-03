@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5389</identifier>
+				<datestamp>2020-03-21T07:23:14Z</datestamp>
+				<setSpec>aabp:RS2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Herd Screening Using a Nested RT-PCR Technique to Detect Bovine Viral Diarrhea Virus (BVDV) from Pooled Buffy Coat Samples</dc:title>
+	<dc:creator xml:lang="en">Braun, Lyle</dc:creator>
+	<dc:creator xml:lang="en">Peterson, Darin</dc:creator>
+	<dc:creator xml:lang="en">Chase, Chris</dc:creator>
+	<dc:subject xml:lang="en">Bovine viral diarrhea virus</dc:subject>
+	<dc:subject xml:lang="en">persistently infected</dc:subject>
+	<dc:subject xml:lang="en">herd management</dc:subject>
+	<dc:subject xml:lang="en">herd screening method</dc:subject>
+	<dc:subject xml:lang="en">diagnostic test</dc:subject>
+	<dc:description xml:lang="en">Bovine viral diarrhea virus (BVDV) is the leading infectious cause of abortions, stillbirths and weak calves in South Dakota. The ability to detect and identify the BVDV persistently infected animal is imperative for good herd management. There are several methods to detect BVDV in infected herds including virus isolation (VI), reverse transcriptase-polymerase chain reaction (RT-PCR) and antigen capture enzyme-linked immunosorbent assay (AC-ELISA). The microtiter test or the AC-ELISA in a multi-well tissue culture plate have been the most popular for herd screens. The RTPCR is the most sensitive assay, but due to its high cost has primarily been used as an individual test rather than a herd screening method. Dr. Kenny Brock has designed an RT-PCR to test bulk-milk samples from dairy herds. In our efforts to make RT-PCR more economically feasible as a screening assay for BVDV, we have performed several experiments involving pooled buffy coat (BC) samples.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2000-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5389</dc:identifier>
+	<dc:identifier>10.21423/aabppro20005389</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2000; 147</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5389/5254</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2000 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5383</identifier>
+				<datestamp>2020-03-21T07:23:21Z</datestamp>
+				<setSpec>aabp:RS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Accurate Diagnosis of the Mycobacterium paratuberculosis Status of Cattle Herds</dc:title>
+	<dc:creator xml:lang="en">Smith, David R.</dc:creator>
+	<dc:subject xml:lang="en">M. paratuberculosis</dc:subject>
+	<dc:subject xml:lang="en">diagnostic strategy</dc:subject>
+	<dc:subject xml:lang="en">ELISA serology</dc:subject>
+	<dc:description xml:lang="en">Programs to classify cattle herds by M. paratuberculosis infection status must satisfy buyer's concerns that cattle from tested herds are unlikely to be infected (high negative predictive value), and seller's concerns that their herds will not be erroneously, classified as infected (high positive predictive value). Veterinarians recommending these programs need confidence that a high percentage of herds will be classified correctly. Probablistic models were used to evaluate 3 diagnostic strategies that use tests of individuals to classify cattle herds by M. paratuberculosis infection status: 1) enzyme-linked immunosorbent assay (ELISA) serology; 2) culture of feces; 3) ELISA serology in series with confirmatory culture of feces.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2000-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5383</dc:identifier>
+	<dc:identifier>10.21423/aabppro20005383</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2000; 141-142</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5383/5248</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2000 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

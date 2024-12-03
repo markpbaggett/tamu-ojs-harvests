@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3660</identifier>
+				<datestamp>2020-02-06T08:37:50Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Cow-level analysis of bovine leukemia virus infection and milk production in Michigan dairy cows</dc:title>
+	<dc:creator xml:lang="en">Norby, Bo</dc:creator>
+	<dc:creator xml:lang="en">Bartlett, Paul C.</dc:creator>
+	<dc:creator xml:lang="en">Byrem, Todd M.</dc:creator>
+	<dc:creator xml:lang="en">Erskine, Ron J.</dc:creator>
+	<dc:subject xml:lang="en">Enzootic bovine leukosis</dc:subject>
+	<dc:subject xml:lang="en">bovine leukemia virus</dc:subject>
+	<dc:subject xml:lang="en">BLV</dc:subject>
+	<dc:subject xml:lang="en">lymphoma</dc:subject>
+	<dc:subject xml:lang="en">dairy cattle</dc:subject>
+	<dc:subject xml:lang="en">economic</dc:subject>
+	<dc:description xml:lang="en">Enzootic bovine leukosis is a chronic infectious disease of cattle caused by bovine leukemia virus (BLV), a deltaretrovirus. The main route of BLV transmission among cattle appears to be hematogenous transfer of infected B cells. A persistent lymphocytosis (PL) phenotypic state is observed in approximately 30% of infected cattle. Cattle that do not become PL remain aleukemic (AL) with normal lymphocyte counts. About 0.1 to 10% of BLV-infected cows progress to develop lymphoma. Little has been done to limit the spread of BLV in the US dairy herd. In a 1996 National Animal Health Monitoring System (NAHMS) survey of dairy herds in the US, the herd-level prevalence was 89%. A similar herd-level prevalence of 83.9% based on bulk-tank testing was reported in the 2007 NAHMS dairy study, and in a 2010 study of 113 Michigan dairy herds, the mean within-herd prevalence was 32.8%. Bovine leukemia virus infection has been shown to reduce milk production at the herd level. The direct losses associated with BLV infections to the dairy industry and consumers have been estimated to be in excess of $500 million yearly. The objective of this paper was to determine the association between the predicted 305-day mature equivalent (ME305) milk of cows in their lactation following BLV milk-ELISA testing and BLV status.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2015-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3660</dc:identifier>
+	<dc:identifier>10.21423/aabppro20153660</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2015; 289</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3660/3604</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2015 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

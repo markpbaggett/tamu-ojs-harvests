@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2775</identifier>
+				<datestamp>2021-08-30T20:49:30Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Quantifying shape of lactation curves, and benchmark curves for common dairy breeds and parities</dc:title>
+	<dc:creator xml:lang="en">Ehrlich, J. L.</dc:creator>
+	<dc:subject xml:lang="en">lactation curves</dc:subject>
+	<dc:subject xml:lang="en">milk production</dc:subject>
+	<dc:subject xml:lang="en">persistence</dc:subject>
+	<dc:description xml:lang="en">The MilkBot®(DairySight LLC,Argyle, NY; http://milkbot.com) lactation model provides a means of quantifying both shape and magnitude oflactation curves as a set of parameter values, each of which is associated with a single aspect of lactation curve shape. Lactation data may be fitted to the model to summarize a lactation as a set of parameter values which summarize the lactation as a whole. The scale parameter controls magnitude without changing the shape of the curve, the ramp parameter controls steepness of the post-parturient rise in milk production, the decay parameter controls the rate of late lactation decline, and the offset parameter defines a theoretical offset between the start of milk production and calving. The decay parameter is easily re-expressed mathematically as persistence to quantify the rate of decline in production after peak milk. Time and quantity of peak milk, or production for any day or period in the lactation may be calculated directly from parameter values.
+Aggregate normal lactation curves for mean and median milk production of Holstein, Jersey, Crossbred, Guernsey, Ayrshire, and Brown Swiss dairy cattle, stratified by parity, are calculated from a DHIA data set collected from 2005 through mid-2008 and covering over six million lactations and 51 million milk weights, mainly from farms in the eastern United States. These constitute benchmark curves that may be used as standards for normal milk production, or to quantify changes in normal productivity over time or with respect to other variables, or in econometric studies.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2010-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2775</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol45no1p88-95</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 45, No. 1 (2011 Spring); 88-95</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2775/2765</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2011 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

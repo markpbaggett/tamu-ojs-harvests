@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6729</identifier>
+				<datestamp>2020-07-22T18:34:14Z</datestamp>
+				<setSpec>aabp:FS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Using Epidemiology as an Aid in Feedlot Disease Management</dc:title>
+	<dc:creator xml:lang="en">Ribble, Carl S.</dc:creator>
+	<dc:creator xml:lang="en">Van Donkersgoed, Joyce</dc:creator>
+	<dc:creator xml:lang="en">Harland, Richard J.</dc:creator>
+	<dc:creator xml:lang="en">Janzen, Eugene D.</dc:creator>
+	<dc:subject xml:lang="en">feedlot industry</dc:subject>
+	<dc:subject xml:lang="en">computers</dc:subject>
+	<dc:subject xml:lang="en">epidemiology</dc:subject>
+	<dc:subject xml:lang="en">animal health</dc:subject>
+	<dc:subject xml:lang="en">management techniques</dc:subject>
+	<dc:subject xml:lang="en">disease management</dc:subject>
+	<dc:description xml:lang="en">The recent introduction of computers to the feedlot industry for monitoring animal health has markedly improved the efficiency with which we can use epidemiology as a means for developing new management techniques to prevent disease. With the computer we can keep accurate health records which can be analyzed rapidly by the attending veterinarian on a regular basis. We describe the kind of system we find useful for recording data on a computer in the feedlot. We also describe how those data can be summarized to help develop an epidemiological approach to disease management in the feedlot, using respiratory disease and hemophilosis as specific examples. Our experience is based upon working in medium-sized feedlots with capacities of several thousand to 15,000 or more head.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1991-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6729</dc:identifier>
+	<dc:identifier>10.21423/aabppro19916729</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1991; 122-127</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6729/6567</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1991 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

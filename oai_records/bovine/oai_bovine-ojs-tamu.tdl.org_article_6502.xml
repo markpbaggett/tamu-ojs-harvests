@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6502</identifier>
+				<datestamp>2020-08-07T00:32:49Z</datestamp>
+				<setSpec>aabp:M</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Evaluation of Animal Drug Residue Detection Methods</dc:title>
+	<dc:creator xml:lang="en">Bishop, J. Russell</dc:creator>
+	<dc:creator xml:lang="en">Whittier, William D.</dc:creator>
+	<dc:creator xml:lang="en">Duncan, Susan E.</dc:creator>
+	<dc:creator xml:lang="en">Jones, Gerald M.</dc:creator>
+	<dc:subject xml:lang="en">Bacillus stearothermophilus</dc:subject>
+	<dc:subject xml:lang="en">milk testing</dc:subject>
+	<dc:subject xml:lang="en">antimicrobial agents</dc:subject>
+	<dc:subject xml:lang="en">milk drug residues</dc:subject>
+	<dc:description xml:lang="en">Animal drug residues in milk have been a major source of concern in the United States for several years. Many new methods to detect various residues at low levels have been introduced, revised or improved. At present the only "official" method approved by federal regulatory officials is for the detection of beta-lactam type antibiotics and is the Bacillus Stearothermophilus disc assay. The Food and Drug Administration (FDA) HPLC (High Pressure Liquid Chromatography) procedure is the "official" confirmatory method. A study was undertaken to evaluate 14 detection methods with 24 animal drug residues in milk to determine the sensitivity of each method and its ability to detect a residue at the FDA "recommended violative" level. No method tested is quantitative but give only a positive or negative indication of the presence of the drug. Milk samples were contaminated or "spiked" with known amounts of commonly available antimicrobial agents in 3 to 6 concentration levels. Fifteen replicates of each milk preparation were tested with applicable methods. The data revealed a total of 13 methods capable of detecting 23 drug residues at their respective levels of concern. Therefore, it would appear there exists adequate methodology for supplementation of the Bacillus stearothermophilus disc assay in regulatory milk testing.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6502</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926502</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 2; 117-121</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6502/7074</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

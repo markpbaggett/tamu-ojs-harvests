@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/563</identifier>
+				<datestamp>2020-01-28T11:35:21Z</datestamp>
+				<setSpec>ertr:DEM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CityRec — A Data-Driven Conversational Destination Recommender System</dc:title>
+	<dc:creator xml:lang="en">Myftija, Saadi</dc:creator>
+	<dc:creator xml:lang="en">Dietz, Linus W.</dc:creator>
+	<dc:subject xml:lang="en">Tourism recommendation</dc:subject>
+	<dc:subject xml:lang="en">Conversational recommender systems</dc:subject>
+	<dc:subject xml:lang="en">Destination characterization</dc:subject>
+	<dc:description xml:lang="en">In today's age of information, recommender systems have evolved to a must have feature for many platforms, especially in the area of travel and tourism. Destination recommender systems is a challenging domain, since unlike restaurants and points of interests, the items are not so well defined and no reliable rating information is available. Thus, we propose a data-driven characterization of cities, which is then directly used in a conversational recommender system. Through this, we overcome the costly elicitation of expert-based destination characterization, as well as the cold start problem of recommender systems. The recommender system can be used at http://cityrec.cm.in.tum.de/ and the source code has been published.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2020-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/563</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 17 No. 5 (2020)</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/563/200</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

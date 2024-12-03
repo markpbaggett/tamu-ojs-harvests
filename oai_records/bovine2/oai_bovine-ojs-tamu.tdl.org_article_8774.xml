@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8774</identifier>
+				<datestamp>2024-02-25T00:19:30Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Analysis of published and clinical sample data to develop new ranges of liver and blood concentrations of vitamin A for diagnosis of vitamin A deficiency in cattle</dc:title>
+	<dc:creator xml:lang="en">Villar, David</dc:creator>
+	<dc:creator xml:lang="en">Schaeffer, David J.</dc:creator>
+	<dc:subject xml:lang="en">vitamin A deficiency</dc:subject>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">guidelines</dc:subject>
+	<dc:subject xml:lang="en">regression models</dc:subject>
+	<dc:description xml:lang="en">In cattle, liver stores of vitamin A (VA) maintain blood VA concentrations until liver supplies are nearly exhausted, pro­viding VA to tissues during insufficient dietary intake. There­fore, normal blood levels do not indicate adequate VA, but low blood levels indicate a deficiency. We hypothesized that previous diagnostic criteria for VA deficiency needed updating and that blood levels of VA could be used as indicators of liver VA deficiency. We performed multiple regressions of paired blood and liver sample data from published experimental and field case reports of VA deficiency in cattle to demonstrate this. We fitted various models using data from unpaired clini­cal samples submitted to the Iowa State University Diagnostic Laboratory by comparing fractiles of liver and plasma/serum samples. Using these relationships, we propose new ranges for severely deficient, deficient, marginal and adequate, and we also propose that blood samples alone can be used to di­agnose deficiency in the presence of clinical signs of VA defi­ciency. Veterinary diagnostic laboratories can use this infor­mation to better estimate serum and liver VA concentrations for unpaired data and recommend to cattle practitioners the status of VA in their herds.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2023-11-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8774</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol27no2p17-24</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 57 No. 2 (2023); 16-24</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8774/8518</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/47</identifier>
+				<datestamp>2021-08-30T20:23:06Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Effect of Vaccination and Weaning Timing on Backgrounding Morbidity in Preconditioned Beef Feeder Calves</dc:title>
+	<dc:creator xml:lang="en">White, B. J.</dc:creator>
+	<dc:creator xml:lang="en">McReynolds, S.</dc:creator>
+	<dc:creator xml:lang="en">Goehl, D.</dc:creator>
+	<dc:creator xml:lang="en">Renter, D. G.</dc:creator>
+	<dc:subject xml:lang="en">bovine</dc:subject>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">backgrounding</dc:subject>
+	<dc:subject xml:lang="en">vaccination</dc:subject>
+	<dc:subject xml:lang="en">weaning</dc:subject>
+	<dc:subject xml:lang="en">beef cattle</dc:subject>
+	<dc:subject xml:lang="en">calves</dc:subject>
+	<dc:subject xml:lang="en">disease prevention</dc:subject>
+	<dc:subject xml:lang="en">immunization</dc:subject>
+	<dc:subject xml:lang="en">morbidity</dc:subject>
+	<dc:subject xml:lang="en">respiratory diseases</dc:subject>
+	<dc:subject xml:lang="en">viral diseases</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease is the most common illness in post-weaned beef calves, and numerous pre-conditioning programs have been designed to mitigate the impact of this disease syndrome. Preconditioning programs rely on proper implementation of tools, including vaccination and weaning, to prepare the calf to successfully overcome disease challenges. Our objective was to determine whether backgrounding morbidity was associated with the timing of previous vaccinations and the number of days weaned prior to commingling of beef feeder calves. Data were procured over a six-year period from 85 producers that preconditioned calves and placed them in a commingled backgrounding lot for approximately three months. Generalized linear mixed models were utilized to assess the impact of the number of days between first and second viral vaccinations, number of days between the final viral vaccination and commingling and the number of days weaned prior to commingling. Hypothesis testing was performed using P &amp;lt;0.10 due to the relatively small sample size when year and origin farm were considered. Morbidity during the backgrounding phase was significantly higher ( P &amp;lt;0.10) when the time between initial and booster vaccination was less than 14 days. No morbidity differences were found based on weaning time or the proximity of the final vaccination to commingling. Our results illustrate that the timing of vaccinations influences health outcomes of preconditioning programs, and that further research is necessary to provide definitive recommendations regarding timing of vaccination and weaning.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2008-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/47</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol42no2p111-116</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 42, No. 2 (2008 Summer); 111-116</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/47/7650</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2008 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

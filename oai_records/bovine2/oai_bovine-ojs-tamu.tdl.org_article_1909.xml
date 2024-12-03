@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1909</identifier>
+				<datestamp>2023-03-15T19:15:21Z</datestamp>
+				<setSpec>bovine:AABPN</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Problem solving and self-evaluation for dairy practitioners</dc:title>
+	<dc:creator xml:lang="en">University of Minnesota., Department of Large Animal Veterinary Clinical Sciences</dc:creator>
+	<dc:subject xml:lang="en">evaluation</dc:subject>
+	<dc:description xml:lang="en">Self-evaluation program presented at the AABP Annual Conference, San Francisco, California, 1976.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1978-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Administrative matter, etc.</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1909</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1978no13p152-158</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 13 (1978 November); 152-158</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1909/1901</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1978 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

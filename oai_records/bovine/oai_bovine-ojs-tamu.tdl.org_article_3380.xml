@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3380</identifier>
+				<datestamp>2020-02-06T08:34:32Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Application of the matrix-assisted laser desorption ionization time of flight (MALDI-TOF) mass spectrometry method to identify Moraxella spp isolated from cattle eyes</dc:title>
+	<dc:creator xml:lang="en">Robbins, Kara</dc:creator>
+	<dc:creator xml:lang="en">Dickey, Aaron</dc:creator>
+	<dc:creator xml:lang="en">Clawson, Michael L.</dc:creator>
+	<dc:creator xml:lang="en">Loy, John Dustin</dc:creator>
+	<dc:subject xml:lang="en">Infectious bovine keratoconjunctivitis</dc:subject>
+	<dc:subject xml:lang="en">IBK</dc:subject>
+	<dc:subject xml:lang="en">bacterium</dc:subject>
+	<dc:subject xml:lang="en">Moraxella bovis</dc:subject>
+	<dc:subject xml:lang="en">bovine eyes</dc:subject>
+	<dc:subject xml:lang="en">bacterial identification</dc:subject>
+	<dc:subject xml:lang="en">MALDITOF MS</dc:subject>
+	<dc:description xml:lang="en">Infectious bovine keratoconjunctivitis (IBK) is an economically significant disease caused by the Gram-negative bacterium Moraxella bovis. Moraxella bovoculi also secretes virulence factors and is the most frequently isolated species from bovine eyes during IBK outbreaks. Whole genome sequencing has presented extensive genetic differences between M. bovoculi isolated from the eye and nasopharynx (NP) of cattle with and without IBK. At present, distinguishing between Moraxella species in clinical laboratory specimens is time consuming and relies on expensive and complex biochemical testing, of which reactions are not always consistent. Nucleic acid assays (PCR RFLP) can distinguish species, but can be costly and do not work on all strains. Identification of the specific etiologic agent during an IBK outbreak is critical to assist veterinarians implement the proper prevention and treatment strategies. Matrix assisted laser desorption ionization time of flight (MALDI-TOF) mass spectrometry is an emerging tool in bacterial identification that is rapid, inexpensive, and provides advantages over current identification methods. The overall goal of this study was to determine the accuracy of the MALDITOF MS method as applied to Moraxella spp isolated from bovine eyes and compare it to existing identification methods.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2017-09-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3380</dc:identifier>
+	<dc:identifier>10.21423/aabppro20173380</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2017; 233</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3380/3338</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/499</identifier>
+				<datestamp>2019-12-07T12:51:02Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Exploring the Presence of Tourists’ Photos Through Algorithmic Visual Content Analysis</dc:title>
+	<dc:creator xml:lang="en">Zhang, Kun</dc:creator>
+	<dc:creator xml:lang="en">Li, Qinghui</dc:creator>
+	<dc:creator xml:lang="en">Wang, Hongyu</dc:creator>
+	<dc:creator xml:lang="en">Chen, Dongzhi</dc:creator>
+	<dc:subject xml:lang="en">big pictorial data</dc:subject>
+	<dc:subject xml:lang="en">deep learning model</dc:subject>
+	<dc:subject xml:lang="en">visual content analysis</dc:subject>
+	<dc:subject xml:lang="en">tourism destination</dc:subject>
+	<dc:subject xml:lang="en">user-generated photography</dc:subject>
+	<dc:description xml:lang="en">Big pictorial data is a significant data resource for discovering tourists' behaviors and perceptions. Innovatively, this study adopted two deep learning models, namely scene recognition and semantic segmentation for uncovering the presence of tourist photos in a tourism destination. In all, 36497 photos shared by oversea tourists in Beijing were screened out by data mining and taken for visual content analysis. By developing two types of categories, the perceived destination attractions by tourists were analyzed. Theoretically, this study contributes to the establishment of a smart approach for understanding tourist preference through big pictorial data.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2019-12-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/499</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 17 No. 2 (2019)</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/499/141</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

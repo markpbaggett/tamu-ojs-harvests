@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6561</identifier>
+				<datestamp>2020-08-11T00:37:20Z</datestamp>
+				<setSpec>aabp:PHM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Computer Graphics for the Diagnosis of Herd Reproductive Status</dc:title>
+	<dc:creator xml:lang="en">Ehrlich, James</dc:creator>
+	<dc:subject xml:lang="en">Reproductive performance</dc:subject>
+	<dc:subject xml:lang="en">graphs</dc:subject>
+	<dc:subject xml:lang="en">statistics</dc:subject>
+	<dc:subject xml:lang="en">distributions</dc:subject>
+	<dc:subject xml:lang="en">seasonal calving</dc:subject>
+	<dc:description xml:lang="en">Reproductive performance of a herd of cows is a major determinant of productivity for both beef and dairy cattle. Production is maximized when each individual in the herd calves at the optimum time, determined by that individual's previous calving date (if any) and the desired pattern of seasonal calving for the herd. Commonly used measures like "Calving Interval" over-summarize data by giving us an average only, when the distribution of points around the mean is both important and highly variable among herds.
+We have designed two graphs that may be used as aids in screening for, and diagnosing, herd reproductive problems. Because they use shape to convey information about distributions within the herd they are partially qualitative measures of herd reproductive status. All the same, they convey important information that is not available from the usual statistics. They are practical, and easy to interpret. We generate the graphs automatically from data downloaded from a Dairy Herd Improvement Association (DHIA) computer, at a cost that makes them easily affordable for routine use in herds of any size. Algorithms for generating the graphs are straightforward and printing is done with block characters so that graphs can be printed quickly on an inexpensive computer printer. In fact, the graphs are a great deal harder to describe than they are to interpret.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6561</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926561</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 3; 38-41</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6561/7145</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

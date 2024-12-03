@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/69</identifier>
+				<datestamp>2022-06-28T19:22:14Z</datestamp>
+				<setSpec>aavptbiennial:S2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Advantages of a likelihood approach for regression analysis of pharmacokinetic and pharmacodynamic data</dc:title>
+	<dc:creator xml:lang="en">Woodward, AP</dc:creator>
+	<dc:subject xml:lang="en">modelling</dc:subject>
+	<dc:subject xml:lang="en">pharmacokinetics</dc:subject>
+	<dc:subject xml:lang="en">pharmacodynamics</dc:subject>
+	<dc:subject xml:lang="en">regression analysis</dc:subject>
+	<dc:subject xml:lang="en">maximum likelihood estimation</dc:subject>
+	<dc:description xml:lang="en">Though non-linear mixed-effects modelling (NLME) is now routine in many applications in pharmacokinetics and pharmacodynamics, regression (‘two-stage’) analysis remains popular, including in veterinary science. Regression analyses in quantitative pharmacology have typically been conducted using variations of the weighted sum-of-squares (WSS) approach, which have intuitive meaning in the context of parameter estimation. In many other applications, WSS is often substituted by maximum likelihood estimation (MLE), a probabilistic interpretation of model optimization. MLE underlies many of the familiar estimation procedures in NLME, but has rarely been described for regression analysis. It is proposed here that the capabilities of regression analysis of pharmacokinetic and/or pharmacodynamic data may be expanded by the use of MLE. Working with the likelihood function, as a probabilistic measure of model goodness-of-fit, facilitates extensions to the typical practice of regression analysis in quantitative pharmacology. Whereas censored observations, for example those below an assay performance limit, must be removed or substituted by an arbitrary value in WSS, they may be handled as partially observed in MLE. For multivariate models (i.e. with multiple simultaneous response variables), WSS approaches present difficulty regarding the selection of relative weights for the responses, especially where they are observed on different scales (e.g. in PK-PD or physiologically-based models), but in MLE this may be handled by specifying an error model for each response. Finally, use of the likelihood facilitates uncertainty analysis at the subject-level, using recently developed methods involving the profile likelihood function. These characteristics are demonstrated in a case study.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2019-08-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/69</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 21st Biennial Symposium; 50</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/69/64</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6699</identifier>
+				<datestamp>2020-07-22T18:35:07Z</datestamp>
+				<setSpec>aabp:GS2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Using and Interpreting Diagnostic Tests</dc:title>
+	<dc:creator xml:lang="en">Spangler, Liz</dc:creator>
+	<dc:subject xml:lang="en">clinical medicine</dc:subject>
+	<dc:subject xml:lang="en">diagnostic</dc:subject>
+	<dc:subject xml:lang="en">disease screening</dc:subject>
+	<dc:subject xml:lang="en">environment</dc:subject>
+	<dc:subject xml:lang="en">data</dc:subject>
+	<dc:subject xml:lang="en">objectivity</dc:subject>
+	<dc:subject xml:lang="en">food animal medicine</dc:subject>
+	<dc:subject xml:lang="en">tests</dc:subject>
+	<dc:description xml:lang="en">&amp;nbsp;Everything a veterinary clinician does ends in a decision: to treat, to do more tests, or to wait. The diagnostic process is, of necessity, a dualistic one. We have a need for a binary classification system because the decisions we must make are usually dualistic or binary in nature themselves. But the data we have to use is complex, not necessarily dualistic, subjective and not infrequently, contradictory. It must be reduced, consciously or unconsciously, to a single judgement, sick or well. The purpose of this exercise is to examine objectively how diagnostic decisions are made, with the objective of improving diagnostic capabilities in food animal medicine.
+The diagnostic problem in either the clinical setting or the screening situation is similar: the correct classification of our patients' disease condition. In clinical medicine, the goal is to assign the correct diagnosis from a list of problems with similar presentation. In screening for disease, the goal becomes to classify herds or individuals correctly as either free of some particular disease of interest or not. The ringer in this process is that diagnostic decisions are never made in isolation. There are economic, social and psychological consequences of making a diagnosis that depend largely upon the environment of the individual or herd. Whatever happens next depends on factors such as the effect of labelling on the herd or owner, the likelihood of owner compliance with testing and/or recommendations which follow from the testing, human considerations, our best estimate of cost/benefit ratio of the procedures we are considering, and other issues.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1991-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6699</dc:identifier>
+	<dc:identifier>10.21423/aabppro19916699</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1991; 22-28</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6699/6545</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1991 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

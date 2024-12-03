@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5806</identifier>
+				<datestamp>2020-04-03T07:26:17Z</datestamp>
+				<setSpec>aabp:GS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Implementing Biosecurity in Beef and Dairy Herds</dc:title>
+	<dc:creator xml:lang="en">Thompson, John U.</dc:creator>
+	<dc:subject xml:lang="en">Biocontainment</dc:subject>
+	<dc:subject xml:lang="en">epidemics</dc:subject>
+	<dc:subject xml:lang="en">biosecurity</dc:subject>
+	<dc:subject xml:lang="en">pathogens</dc:subject>
+	<dc:subject xml:lang="en">genetics</dc:subject>
+	<dc:subject xml:lang="en">nutrients</dc:subject>
+	<dc:subject xml:lang="en">risk management</dc:subject>
+	<dc:subject xml:lang="en">disease prevention</dc:subject>
+	<dc:subject xml:lang="en">control practices</dc:subject>
+	<dc:description xml:lang="en">The common disease prevention and control practices employed by the majority of beef and dairy herds today are inadequate to meet the future demands. They rely on visual observation, regulatory compliance, vaccination, and limited attention to biosecurity of the herds making animal additions.1
+Bovine practitioners have been encouraged to increase their participation in nutritional, genetic selection, and financial and production record analysis for beef and dairy herds. Different surveys have indicated that cattle owners continue to look to the bovine practitioner primarily for the diagnosis and treatment of diseases and addressing the needs of the individual animal. Veterinarians can strengthen their position in the decision-making team by providing a herd biosecurity and biocontainment risk management assessment and protocol.
+For this article, biosecurity will refer to attempts to prevent the entry of pathogens considered potentially harmful to the health and well-being of the herd. Practitioners are encouraged to expand the principles to include such things as genetics and nutrients. Biocontainment will refer to controlling the elements within a given population of cattle. Biocontainment strategies should apply to the management of epidemics within a herd and should address biosecurity failures.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1997-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5806</dc:identifier>
+	<dc:identifier>10.21423/aabppro19975806</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1997; 8-14</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5806/5633</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1997 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

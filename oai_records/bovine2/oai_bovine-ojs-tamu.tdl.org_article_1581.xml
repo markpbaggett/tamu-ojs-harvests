@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1581</identifier>
+				<datestamp>2021-08-28T02:41:22Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Environmental assessments: A veterinary perspective</dc:title>
+	<dc:creator xml:lang="en">Forbes, A. B.</dc:creator>
+	<dc:subject xml:lang="en">ecology</dc:subject>
+	<dc:subject xml:lang="en">environmental assessment</dc:subject>
+	<dc:subject xml:lang="en">environmental impact</dc:subject>
+	<dc:subject xml:lang="en">toxicology</dc:subject>
+	<dc:subject xml:lang="en">veterinarians</dc:subject>
+	<dc:description xml:lang="en">Environmental safety is an important consideration in the registration and use of veterinary products in farm livestock. A common approach to environmental risk assessment is through a tiered testing system in which compounds may be taken through a gradation of tests of increasing complexity and scale. Whilst activity at lower tiers is not necessarily predictive of impact in the field, absence of effect in small scale studies generally obviates the necessity to proceed to larger scale testing. If effects are observed in the initial experiments, then the likely environmental impact of a particular compound can be estimated from consideration of the predicted exposure of non-target organisms to the active ingredient and its physico-chemical and biological characteristics. Confirmation that environmental impact assessments based on this type of extrapolation are valid can be determined through further testing of products at higher tiers representative of conditions of particular use. Testing at these higher tiers is logistically more demanding and limits the degree of control and replication compared to that which can be achieved in the laboratory, however the results are more closely allied to normal farm conditions and evaluations can include population and community measurements.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1998-05-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1581</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1998no32.2p50-52</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 32.2 (1998 May); 50-52</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1581/1574</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1998 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5714</identifier>
+				<datestamp>2020-03-31T07:23:22Z</datestamp>
+				<setSpec>aabp:RSD12</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of Two Estrus Synchronization Programs in a Large, Confinement-Housed Dairy Herd</dc:title>
+	<dc:creator xml:lang="en">Britt, Jenks Swann</dc:creator>
+	<dc:creator xml:lang="en">Gaska, Jerome</dc:creator>
+	<dc:subject xml:lang="en">ovulation synchronization program</dc:subject>
+	<dc:subject xml:lang="en">estrus detection</dc:subject>
+	<dc:subject xml:lang="en">reproduction management</dc:subject>
+	<dc:subject xml:lang="en">PGF2a</dc:subject>
+	<dc:description xml:lang="en">Estrus synchronization programs have been used to manage reproduction in dairy cattle for many years. These programs involve various protocols for administration of a single hormone or combinations of hormones, but results have varied among programs and herds. Several synchronization programs use injections of prostaglandin F2a (PGF2a).1-3 A commonly used PGF2a program includes per rectal palpation to identify a corpus luteum (CL). Cattle with a CL are injected with PGF2a, observed for estrus, and inseminated only after estrus is detected. This program depends on the palpator's ability to detect a prostaglandin-receptive CL and may not be the most effective way to evaluate CL activity. Other programs that use PGF2a include the administration of 2 injections of PGF2a at selected intervals (usually 12 to 14 days) and insemination at a predetermined time or after cattle are detected in estrus. Both of these programs have resulted in the highest conception rates when cattle were inseminated after being detected in estrus, rather than inseminating at a predetermined time without detection of estrus.4
+A new ovulation synchronization program5-11 does not require estrus detection. This program (Ovsynch) uses gonadotropin-releasing hormone (GnRH) and PGF2a to synchronize ovulation, which may not be accompanied by detectable signs of estrus. In the Ovsynch program, an initial dose of GnRH is used to synchronize waves of follicles and PGF2a is used to lyse the CL in groups of cattle and synchronize estrus. A second injection of GnRH induces ovulation of the dominant follicle in 85 to 95% of the synchronized cattle.5
+Pregnancy rates often drop during seasons with high ambient temperature.7 This may be related to heat stress, rather than problems with estrus or ovulation synchronization, because conception rates typically decrease during periods with high ambient temperature.12</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1998-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5714</dc:identifier>
+	<dc:identifier>10.21423/aabppro19985714</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1998; 175-178</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5714/5552</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1998 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/25</identifier>
+				<datestamp>2022-06-25T02:53:05Z</datestamp>
+				<setSpec>aavptbiennial:S3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Exercise training normalizes excitability of pre-sympathetic neurons by increasing GABAergic transmission in rats with heart failure</dc:title>
+	<dc:creator xml:lang="en">Shen, Yiming</dc:creator>
+	<dc:creator xml:lang="en">Lee, So Yeong</dc:creator>
+	<dc:creator xml:lang="en">Han, Seong Kyu</dc:creator>
+	<dc:creator xml:lang="en">Ryu, Pan Dong</dc:creator>
+	<dc:subject xml:lang="en">paraventricular nucleus</dc:subject>
+	<dc:subject xml:lang="en">slice patch clamp</dc:subject>
+	<dc:subject xml:lang="en">firing rate</dc:subject>
+	<dc:subject xml:lang="en">heart rate variability</dc:subject>
+	<dc:subject xml:lang="en">circadian fluctuation</dc:subject>
+	<dc:description xml:lang="en">Sympathetic hyper-activation is a hallmark of heart failure (HF). Recent studies showed that exercise training (ExT) decreases sympathetic nerve activity in HF rats, which may explain the beneficial effects of Ext on HF patients. Here, we investigated the mechanisms of ExT-induced decrease in sympathetic nerve activity in HF rats. We measured electrical activity of the paraventricular nucleus neurons projecting to rostral ventrolateral medulla (PVN-RVLM) using slice patch technique combined with retrograde labeling, and heart rate using telemetry technique. The HF was induced by ligating the left descending coronary artery. Neuronal activity or heart rate variability was recorded at the 8th week after the ligation. The rats were exercised on a motor-driven treadmill for 3 weeks before recording. ExT decreased the firing rate of PVN-RVLM neurons in HF rats (3.40 vs. 1.98 Hz), and increased the frequency of spontaneous IPSCs (1.13 vs. 3.14 Hz) without affecting EPSC. Replacement of Ca2+ with Mg2+ in recording solution reduced miniature IPSC frequency more in HF-ExT than in HF group (71.4 vs. 40.4%). GABA-A receptor blocker (bicuculline, 20 μM) increased the firing rate more in HF-ExT than in HF group (10.3 vs. 93.0%). ExT also increased the amplitude of circadian fluctuation in heart rate and sympatho-vagal activity in HF rats. Collectively, the results indicate that ExT-induced increase in GABA release normalizes the elevated excitability of the hypothalamic pre-sympathetic neurons and the blunted circadian rhythm in sympatho-vagal balance in HF rats. Our findings newly provide a synaptic mechanism of ExT-induced beneficial effect in HF patients.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2017-05-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/25</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 20th Biennial Symposium</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/25/25</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

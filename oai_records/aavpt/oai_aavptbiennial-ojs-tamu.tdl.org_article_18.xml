@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/18</identifier>
+				<datestamp>2022-06-25T02:40:22Z</datestamp>
+				<setSpec>aavptbiennial:S3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Implications of Canine Cytochrome P450 Oxidoreductase Genetic Polymorphisms in Drug Metabolism</dc:title>
+	<dc:creator xml:lang="en">Martinez, Stephanie E.</dc:creator>
+	<dc:creator xml:lang="en">Court, Michael H.</dc:creator>
+	<dc:subject xml:lang="en">P450 oxidoreductase</dc:subject>
+	<dc:subject xml:lang="en">Cytochrome P450</dc:subject>
+	<dc:subject xml:lang="en">Pharmacogenomics</dc:subject>
+	<dc:subject xml:lang="en">Recombinant Proteins</dc:subject>
+	<dc:subject xml:lang="en">Drug Metabolism</dc:subject>
+	<dc:description xml:lang="en">Two variants in canine cytochrome P450 oxidoreductase (POR), the sole electron donor for all microsomal cytochrome P450 (CYP) enzymes, have recently been discovered in our laboratory resulting in either one (POR-H2) or two (POR-H3) amino acid changes in the coding region of the gene. Breed screens using our Hospital DNA Bank revealed that greyhounds had the highest allele frequency for POR-H3. Due to the necessity of POR for CYP-function, metabolism of xenobiotics and endogenous compounds may be affected by these mutations. The purpose this study is to determine whether POR genetic variants impact CYP-mediated drug metabolism in an isoform-dependent manner and to elucidate how these interactions are mediated. A baculovirus expression vector system was selected for recombinant protein generation using Sf9 insect cells. Wild-type POR-H1, POR-H2 and POR-H3 were independently expressed. The effect of POR-H2 and –H3 variants on intrinsic electron transport activity was assessed through an NADPH-P450 reductase assay using cytochrome c as a surrogate electron acceptor. All expression experiments were repeated at least three independent times. Initial results suggest no significant differences among POR variants in cytochrome c reduction indicating that the mutations may not affect the enzyme’s innate ability to transport electrons. Experiments are ongoing in our laboratory to continue to elucidate how POR variants affect CYP metabolism in an isoform-dependent manner through co-expression with major drug metabolizing CYP enzymes.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2017-05-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/18</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 20th Biennial Symposium</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/18/17</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

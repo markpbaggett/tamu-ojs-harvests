@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2328</identifier>
+				<datestamp>2021-08-28T01:57:24Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Sintel: an integrated automated veterinary management program for dairy farms</dc:title>
+	<dc:creator xml:lang="en">Leroy, I.</dc:creator>
+	<dc:creator xml:lang="en">Jactel, B.</dc:creator>
+	<dc:creator xml:lang="en">Ennuyer, M.</dc:creator>
+	<dc:creator xml:lang="en">Lecri, F.</dc:creator>
+	<dc:subject xml:lang="en">Computers</dc:subject>
+	<dc:subject xml:lang="en">Cows</dc:subject>
+	<dc:subject xml:lang="en">Dairy cattle</dc:subject>
+	<dc:subject xml:lang="en">Data collection</dc:subject>
+	<dc:subject xml:lang="en">Disease prevention</dc:subject>
+	<dc:description xml:lang="en">SINTEL is a veterinary dairy herd management program. It rests on a whole farm approach and it aims at improving the health status and increasing productivity and profitability of farms. It helps the veterinarian and the farmer to make annual strategic decisions, in order to correct the weak points underlined in the farm, and tactic decisions, at the time of regular veterinary visits, in order to quickly correct any error of herd management going against the laid down annual objectives. SINTEL can be considered as a decision-making aid. A whole list of parameters makes it possible to obtain a synthetic vision of the farm and to measure the evolution of the results of production and reproduction, of health status and economic results between two veterinary visits. The program is conceived in the form of unrolling menus and functions on all compatible computer IBM. SINTEL allows to develop the role of the veterinarian to advise in farm management.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1991-09-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2328</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1991no26p46-48</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 26 (1991 September); 46-48</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2328/7865</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1991 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

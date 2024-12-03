@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4132</identifier>
+				<datestamp>2020-02-06T08:51:36Z</datestamp>
+				<setSpec>aabp:RS2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Development of a Bulk-tank Surveillance Program for Johne's Disease in New York Dairy Farms</dc:title>
+	<dc:creator xml:lang="en">Schukken, Y. H.</dc:creator>
+	<dc:creator xml:lang="en">VanSlyke, T. M.</dc:creator>
+	<dc:creator xml:lang="en">Djuranovic, N.</dc:creator>
+	<dc:subject xml:lang="en">Johne's disease</dc:subject>
+	<dc:subject xml:lang="en">dairy cattle</dc:subject>
+	<dc:subject xml:lang="en">Mycobacterium avium</dc:subject>
+	<dc:subject xml:lang="en">diagnostic testing</dc:subject>
+	<dc:subject xml:lang="en">screening</dc:subject>
+	<dc:subject xml:lang="en">bulk-milk screening</dc:subject>
+	<dc:subject xml:lang="en">fecal culture</dc:subject>
+	<dc:description xml:lang="en">Johne's disease in dairy cattle is caused by Mycobacterium avium subsp paratuberculosis (MAP). Diagnostic testing is an important tool to identify infected animals, however individual animal testing is expensive and labor intensive. A screening test to reliably identify herds with a significant MAP problem would be of great value to the industry. To evaluate the value of a bulk-milk screening test, we collected data on MAP infection status based on 1) fecal culture of cows in the herd, and 2) contemporary environmental samples, and compared these two estimates of MAP infection status to a bulk-milk MAP ELISA titer.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2010-08-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4132</dc:identifier>
+	<dc:identifier>10.21423/aabppro20104132</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2010; 207</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4132/4056</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2010 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

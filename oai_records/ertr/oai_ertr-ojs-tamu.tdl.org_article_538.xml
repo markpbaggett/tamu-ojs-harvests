@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/538</identifier>
+				<datestamp>2019-12-20T19:08:39Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Automated Topic Modeling of Negative Tourist Reviews</dc:title>
+	<dc:creator xml:lang="en">Kirilenko, Andrei P.</dc:creator>
+	<dc:creator xml:lang="en">Stepchenkova, Svetlana</dc:creator>
+	<dc:subject xml:lang="en">Traveler satisfaction</dc:subject>
+	<dc:subject xml:lang="en">Latent Dirichlet allocation</dc:subject>
+	<dc:subject xml:lang="en">Anna Karenina effect</dc:subject>
+	<dc:subject xml:lang="en">TripAdvisor</dc:subject>
+	<dc:subject xml:lang="en">Social media.</dc:subject>
+	<dc:description xml:lang="en">Automated content analysis of online travel reviews allows analysis of topics of travelers’ satisfaction and dissatisfaction, yet its domain is not well researched. We suggest that the “Anna Karenina principle” positing a greater variability of the factors leading to business failure as opposed to those leading to its success results in limitations of topic modeling applied to dissatisfied visitor reviews. We test our hypothesis using TripAdvisor reviews of the Museum of Terracotta Warriors (China). Our findings confirm the hypothesis; we also report the main themes of satisfaction and dissatisfaction of visitors from mainland China and industrialized English speaking countries.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2019-12-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/538</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 17 No. 4 (2020)</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/538/175</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

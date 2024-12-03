@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5678</identifier>
+				<datestamp>2020-03-31T07:23:55Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Vaccines I would Not Use in My Cattle</dc:title>
+	<dc:creator xml:lang="en">Schultz, R. D.</dc:creator>
+	<dc:subject xml:lang="en">vaccines</dc:subject>
+	<dc:subject xml:lang="en">clinical disease</dc:subject>
+	<dc:subject xml:lang="en">management factors</dc:subject>
+	<dc:subject xml:lang="en">environmental factors</dc:subject>
+	<dc:subject xml:lang="en">host factors</dc:subject>
+	<dc:description xml:lang="en">There are numerous vaccines available for cattle. Each of them were developed with the intent to provide protection from infectious agents that are believed to cause clinical disease. However, development of disease in susceptible animal is dependent not only on the host and pathogen, but also on many management factors. Certain of the current vaccines are better than others in providing protection from specific diseases. Differences among vaccines are significant and depend on the amount of antigen, the serotype (specificity) of the antigens, whether the antigen is live or non-infectious, the route of administration, the number of doses given, the adjuvant and other vaccine factors. Equally important are the many host factors such as age of the animal, the amount of passively acquired antibody present at time of vaccination, the nutritional status of the animal, immunogenetics and additional host factors. Management must also be considered such as crowding, ventilation, sanitation, water and feed sources (e.g. contamination), stress related to movement, assembly of animals from various sources, environmental factors such as fluctuations in temperatures, as well as other management factors.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1998-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5678</dc:identifier>
+	<dc:identifier>10.21423/aabppro19985678</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1998; 119-120</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5678/5521</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1998 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

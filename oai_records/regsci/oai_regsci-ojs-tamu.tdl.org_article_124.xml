@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/124</identifier>
+				<datestamp>2023-04-11T02:29:54Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Sensitive SERS Characterization and Analysis of Chlorpyrifos and Aldicarb Residues in Animal Feed using Gold Nanoparticles</dc:title>
+	<dc:creator xml:lang="en">Lee, Kyung-min</dc:creator>
+	<dc:creator xml:lang="en">Yarbrough, Danielle</dc:creator>
+	<dc:creator xml:lang="en">Kozman, Mena</dc:creator>
+	<dc:creator xml:lang="en">Herrman, Timothy</dc:creator>
+	<dc:creator xml:lang="en">Park, Jinhyuk</dc:creator>
+	<dc:creator xml:lang="en">Wang, Rui </dc:creator>
+	<dc:creator xml:lang="en">Kurouski, Dmitry</dc:creator>
+	<dc:subject xml:lang="en">surface-enhanced Raman spectroscopy (SERS)</dc:subject>
+	<dc:subject xml:lang="en">nanoparticle</dc:subject>
+	<dc:subject xml:lang="en">pesticide</dc:subject>
+	<dc:subject xml:lang="en">chlorpyrifos</dc:subject>
+	<dc:subject xml:lang="en">aldicarb</dc:subject>
+	<dc:subject xml:lang="en">animal feed</dc:subject>
+	<dc:subject xml:lang="en">food safety</dc:subject>
+	<dc:subject xml:lang="en">Analytical chemistry</dc:subject>
+	<dc:subject xml:lang="en">Raman spectroscopy</dc:subject>
+	<dc:subject xml:lang="en">chemometrics</dc:subject>
+	<dc:subject xml:lang="en">food safety</dc:subject>
+	<dc:description xml:lang="en">The spectroscopic method based on surface-enhanced Raman spectroscopy (SERS) technique combined with chemometric methods was developed for simple, cost-effective, and efficient analysis of chlorpyrifos (CPF) and aldicarb (ALD) pesticide residues in animal feed. Animal feeds free from the pesticides were spiked at different concentrations of CPF (0-20 mg/kg) and aldicarb (0-100 µg/kg). Gold nanoparticles were mixed with sample extract for SERS measurement. A significant spectral difference induced by the presence and different level of CPF and ALD concentration in animal feed was observed between the pesticide spiking groups. Different chemometric models applied on training datasets showed excellent classification rates (100 percent) while the models on external validation dataset exhibited lower correct classification rates (50.0-76.7 percent) with no false-negative error. The selected chemometric models for CPF and ALD quantification also showed a high predictive ability and performance. The developed models displayed no statistical significant difference between model predicted and reference values in the external validation dataset (p &amp;lt; 0.01). The study results indicate that the SERS spectroscopic method could be an effective and efficient analytical tool for pesticide analysis in highly complex animal feed matrices for screening at a point of sampling to improve food and feed safety.
+https://doi.org/10.21423/jrs-v08lee</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2020-08-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/124</dc:identifier>
+	<dc:identifier>10.21423/JRS-V08LEE</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 8 (2020); 1-14</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/124/196</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 Kyung-min Lee, Danielle Yarbrough, Mena Kozman, Timothy Herrman, Jinhyuk Park, Rui  Wang, Dmitry Kurouski</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

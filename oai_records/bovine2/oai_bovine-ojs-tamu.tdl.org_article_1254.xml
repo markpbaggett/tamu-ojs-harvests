@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1254</identifier>
+				<datestamp>2021-08-28T01:02:54Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Mastitis microbiology simplified</dc:title>
+	<dc:creator xml:lang="en">Hoblet, K. H.</dc:creator>
+	<dc:creator xml:lang="en">Hueston, W. D.</dc:creator>
+	<dc:creator xml:lang="en">Angrick, E.</dc:creator>
+	<dc:subject xml:lang="en">coliform bacteria</dc:subject>
+	<dc:subject xml:lang="en">Cows</dc:subject>
+	<dc:subject xml:lang="en">differentiation</dc:subject>
+	<dc:subject xml:lang="en">Mastitis</dc:subject>
+	<dc:subject xml:lang="en">microorganisms</dc:subject>
+	<dc:description xml:lang="en">A system for determining whether mastitis is due to contagious or environmental pathogens is described. The sampling format for herds with bulk milk somatic cell counts (SCC) &amp;gt;500 000/ml or Wisconsin mastitis test (WMT) score &amp;gt;15 is to test all cows with high SCC or WMT and a random sample of cows representative of the total herd with respect to age and lactation stage; for herds with clinical mastitis cases but bulk milk SCC &amp;lt;300 000 and WMT &amp;lt;10, samples are taken from cows with high SCC or WMT and from those with clinical mastitis. Bacterial culturing of the samples on sheep blood agar, thallium/crystal violet/ferric citrate agar and McConkey's agar allows determination of whether Streptococcus spp., Staphylococcus spp. or coliforms are present; catalase, coagulase and cAMP tests provide further classification of the mastitis pathogens present.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1986-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1254</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol0no21p77-78</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 21 (1986 November); 77-78</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1254/1245</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1986 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

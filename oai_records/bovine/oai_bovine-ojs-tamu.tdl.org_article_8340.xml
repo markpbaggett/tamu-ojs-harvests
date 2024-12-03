@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8340</identifier>
+				<datestamp>2022-10-24T20:58:19Z</datestamp>
+				<setSpec>aabp:CSS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Making better medical decisions</dc:title>
+	<dc:creator xml:lang="en">Smith, David</dc:creator>
+	<dc:subject xml:lang="en">epidemiology</dc:subject>
+	<dc:subject xml:lang="en">incidence</dc:subject>
+	<dc:subject xml:lang="en">prevalance</dc:subject>
+	<dc:subject xml:lang="en">relative risk</dc:subject>
+	<dc:subject xml:lang="en">attributable fraction</dc:subject>
+	<dc:subject xml:lang="en">number needed to treat</dc:subject>
+	<dc:subject xml:lang="en">regression to the mean</dc:subject>
+	<dc:description xml:lang="en">Cattle veterinarians should know how to describe the occur­rence of a health condition in a population, compare the risk for the condition between subjects with different characteris­tics, be able to evaluate the impact that those characteristics or exposures may have on the occurrence of the health condition in that population, and use those metrics to make appropriate medically and economically sound client recommendations. Incidence is analogous to the probability, or rate, for a subject to become a case in a given time-period. Measures of incidence are the basis for comparing disease risk for differing expo­sures, determining the impact of the exposure on the exposed, as well as the impact of that exposure on the disease burden of a population. Medical interventions are intended to reduce the burden of disease, and statistics such as number needed to treat help the veterinarian determine how effective, and costly, those interventions might be. Recognizing certain statistical traps, such as regression to the mean, can help the veterinarian avoid mistakes in interpreting data. By using certain population-based statistics correctly, veterinarians can better recognize what is happening in a herd, make more informed recommen­dations to their clients, and evaluate the outcomes resulting from their advice.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8340</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2021 Annual Conference Proceedings; 204-208</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8340/8219</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

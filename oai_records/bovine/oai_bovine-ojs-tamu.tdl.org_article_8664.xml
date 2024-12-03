@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8664</identifier>
+				<datestamp>2023-07-18T01:21:17Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Impact of oral calcium bolus timing on milk production and health events in early lactation Holstein cows</dc:title>
+	<dc:creator xml:lang="en">Seely, C.</dc:creator>
+	<dc:creator xml:lang="en">Wilbur, C.</dc:creator>
+	<dc:creator xml:lang="en">Fang, K.</dc:creator>
+	<dc:creator xml:lang="en">McArt, J.</dc:creator>
+	<dc:description xml:lang="en">Treatment of subclinical hypocalcemia by administration of an oral Ca bolus at 0 and 24 h post calving has shown limited suc­cess in increasing production and minimizing adverse health events. Our objective was to explore the effect of delayed oral Ca bolus supplementation on milk production and disease inci­dence and the impact of delayed oral Ca bolus supplementation on postpartum blood Ca dynamics. We conducted a random­ized controlled trial on multiparous Holstein cows (n = 998) from 4 herds in New York. At calving, cows were randomly assigned to 1 of 3 treatment groups: 1) no supplemental Ca at or around parturition (CON; n = 343), 2) an oral Ca bolus con­taining 43 g Ca at calving and 24 h later (BOL-C; n = 330), or 3) an oral Ca bolus containing 43 g Ca at 48 and 72 h post-calving (BOL-D; n = 325). We created generalized linear mixed models to analyze differences in serum total Ca (tCa) at 1 and 4 DIM and milk yield for the first 10 wk of lactation between treatment groups and multivariable Poisson regression models to analyze adverse event outcomes (metritis, displaced abomasum, died or sold, or a combination of the above) in the first 30 DIM. Serum tCa was lower at 1 than 4 DIM (P &amp;lt; 0.001; 1.91 [95% CI = 1.90, 1.93] mmol/L and 2.26 [95% CI = 2.24, 2.28] mmol/L, respectively), and there was no difference in tCa between treatment groups (P = 0.16). Milk yield increased by week (P &amp;lt; 0.001) and was not af­fected by treatment (P = 0.18; CON: 48.9 [95% CI = 48.1, 49.8] kg, BOL-C: 48.3 [95% CI = 47.5, 49.1] kg, BOL-D: 49.3 [95% CI = 48.5, 50.1] kg). A treatment by parity group interaction for milk yield (P = 0.005) showed that BOL-D parity 3 cows produced more milk than BOL-D cows in parity group 2 or 4+ as well as CON and BOL-C cows in parity groups 2, 3 or 4+. Incidence of adverse events did not differ between treatments (P = 0.39; CON: 9.5%, BOL-C: 8.1%, BOL-D: 11.5%). Our findings suggest that delaying oral Ca bolus supplementation has limited impact on blood Ca concentrations but may be beneficial to cohorts of cows as a tar­geted prophylactic supplement to support milk production.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2023-07-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8664</dc:identifier>
+	<dc:identifier>10.21423/aabppro20228664</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; No. 55 (2022): 2022 Annual Conference Proceedings; 190</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8664/8469</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

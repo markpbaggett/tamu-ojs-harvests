@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1506</identifier>
+				<datestamp>2021-08-28T02:13:58Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COWBOSS: A Microcomputer Record Keeping System for Cow/Calf Herds</dc:title>
+	<dc:creator xml:lang="en">Ahmadi, A.</dc:creator>
+	<dc:creator xml:lang="en">Oltjen, J. W.</dc:creator>
+	<dc:creator xml:lang="en">Berry, S. L.</dc:creator>
+	<dc:creator xml:lang="en">van Riet, W. J.</dc:creator>
+	<dc:creator xml:lang="en">Farley, J. L.</dc:creator>
+	<dc:subject xml:lang="en">calves</dc:subject>
+	<dc:subject xml:lang="en">computer software</dc:subject>
+	<dc:subject xml:lang="en">cows</dc:subject>
+	<dc:subject xml:lang="en">record keeping</dc:subject>
+	<dc:description xml:lang="en">COWBOSS is a cow/calf record keeping system designed to aid the manager in rational decision making by providing rapid and flexible analytical capability.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1997-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1506</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1997no31.1p98-100</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 31.1 (1997 January); 98-100</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1506/1499</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1997 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

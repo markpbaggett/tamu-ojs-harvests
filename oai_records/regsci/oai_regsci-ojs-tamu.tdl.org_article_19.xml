@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/19</identifier>
+				<datestamp>2019-06-27T16:46:09Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Analysis of Pesticides in Olive Oil Using a Modified QuEChERS Method with LC-MS/MS and GC-MS/MS</dc:title>
+	<dc:creator xml:lang="en">Chamkasem, Narong</dc:creator>
+	<dc:creator xml:lang="en">Harmon, Tiffany</dc:creator>
+	<dc:subject xml:lang="en">QuEChERS</dc:subject>
+	<dc:subject xml:lang="en">Pesticides Analysis</dc:subject>
+	<dc:subject xml:lang="en">LC-MS/MS</dc:subject>
+	<dc:subject xml:lang="en">GC-MS/MS</dc:subject>
+	<dc:subject xml:lang="en">Olive oil</dc:subject>
+	<dc:description xml:lang="en">A simple and high-throughput screening method for the analysis of pesticides in olive oil is presented. A modified QuEChERS sample preparation method was developed to improve the extraction recovery of highly lipophilic pesticides. The acetonitrile extract of the olive oil was directly injected to LC-MS/MS, while other GC-amenable compounds were treated with the modified QuEChERS procedure for GC-MS/MS analysis. The method is an extension of the LIB 4517 to include olive oil. The average recoveries for 80 pesticides quantified by LC-MS/MS at 200, 500, and 1000 ng/g fortifying levels were 91% or better (RSD &amp;lt; 5.5%), while GC-MS/MS analysis demonstrated 81% or better (RSD &amp;lt; 7.2%) for average recovery from 59 compounds at the same spike levels. This method showed an improved recovery of several challenging lipophilicpesticides in olive oils.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2015-08-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/19</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.3119</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 3 No. 1 (2015); 16-35</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/19/16</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

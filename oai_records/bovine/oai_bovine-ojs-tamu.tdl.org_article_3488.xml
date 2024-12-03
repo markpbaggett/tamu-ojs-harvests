@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3488</identifier>
+				<datestamp>2021-02-05T03:04:54Z</datestamp>
+				<setSpec>aabp:RS3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Exploring the susceptibility of humans to animal prion diseases</dc:title>
+	<dc:creator xml:lang="en">Davenport, K. A.</dc:creator>
+	<dc:creator xml:lang="en">Henderson, D. M.</dc:creator>
+	<dc:creator xml:lang="en">Mathiason, C. K.</dc:creator>
+	<dc:creator xml:lang="en">Hoover, E. A.</dc:creator>
+	<dc:subject xml:lang="en">Prion disease</dc:subject>
+	<dc:subject xml:lang="en">protein</dc:subject>
+	<dc:subject xml:lang="en">animal by-products</dc:subject>
+	<dc:subject xml:lang="en">BSE</dc:subject>
+	<dc:subject xml:lang="en">supply chain</dc:subject>
+	<dc:subject xml:lang="en">outbreak</dc:subject>
+	<dc:subject xml:lang="en">prion conversion</dc:subject>
+	<dc:subject xml:lang="en">species barriers</dc:subject>
+	<dc:description xml:lang="en">Prion diseases are fatal, infectious diseases of cattle (bovine spongiform encephalopathy, BSE), sheep (scrapie), deer and elk ( chronic wasting disease, CWD) and humans (Creutzfeldt Jakob disease). Disease is caused by the misfolding of a normal protein, PrP, into a pathogenic form called a prion. Prions then coerce normal PrP to misfold, resulting in propagation of the pathogenic form in the brain and elsewhere, where it is toxic to neurons. Over 200 people were infected with BSE and 4 million cattle were culled during an outbreak in the United Kingdom in the 1980s. The fallout led to constraints on the use of animal by-products, organ donation and cattle culling, which have effectively ended the BSE outbreak. Nevertheless, an atypical form of BSE has been identified in older cattle in several countries, including the USA. These cases are disruptive to the beef supply chain and raise concerns for another outbreak. CWD is spreading through deer and elk in the United States and, increasingly, abroad. CWD infection of humans has not been documented, but we do not know the risk of CWD transmission to humans, how BSE and CWD may be different in their host ranges, or what defines this difference. Using an in vitro model of prion conversion, we have demonstrated that CWD prions adapt more readily to a new host than do BSE prions, which remain largely unchanged. These observations prompted us to investigate the role of specific regions of the PrP molecule in defining species barriers.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2016-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3488</dc:identifier>
+	<dc:identifier>10.21423/aabppro20163488</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2016; 171</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3488/3437</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2016 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

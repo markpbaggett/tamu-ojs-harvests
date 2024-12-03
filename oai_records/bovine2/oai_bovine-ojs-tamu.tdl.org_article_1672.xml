@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1672</identifier>
+				<datestamp>2021-08-30T18:51:04Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Economic evaluation of beef cowherd screening for cattle persistently-infected with bovine viral diarrhea virus</dc:title>
+	<dc:creator xml:lang="en">Larson, R. L.</dc:creator>
+	<dc:creator xml:lang="en">Pierce, V. L.</dc:creator>
+	<dc:creator xml:lang="en">Grotelueschen, D. M.</dc:creator>
+	<dc:creator xml:lang="en">Wittum, T. E.</dc:creator>
+	<dc:subject xml:lang="en">beef cattle</dc:subject>
+	<dc:subject xml:lang="en">beef production</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">disease prevalence</dc:subject>
+	<dc:subject xml:lang="en">losses</dc:subject>
+	<dc:subject xml:lang="en">mucosal disease</dc:subject>
+	<dc:subject xml:lang="en">pregnancy rate</dc:subject>
+	<dc:subject xml:lang="en">profitability</dc:subject>
+	<dc:subject xml:lang="en">screening</dc:subject>
+	<dc:subject xml:lang="en">simulation models</dc:subject>
+	<dc:description xml:lang="en">Bovine viral diarrhoea virus (BVDV) infection is responsible for a variety of economically important syndromes in cattle. In order to quantify the economic benefit for removing BVDV persistently infected (PI) animals, a 10-year farm profitability simulation model was used to compare production scenarios with and without PI calves present. Differences in profitability between the scenarios, estimates the value of diagnostic testing given the expected prevalence in the herd. If the true prevalence of herds with at least one PI animal is 1% (low end of the 95% confidence interval for randomly selected herds), the average annual dollars available for screening is only $0.15. Using a 10-year period, if the whole herd is tested the initial year and the cost of the initial screening is pro-rated over 10 years, and only replacements are screened in subsequent years, $0.60 is available for costs associated with each animal tested. If, however, the true prevalence of herds with at least one PI animal is 30% (high end of the 95% confidence interval for pre-screened herds), the average annual dollars available for screening is $4.60. In this scenario, $18.40 is available for each animal tested. These figures show that practitioners may not be economically justified to initiate diagnostic screening protocols for PI BVDV cattle for all clients. However, if ranch history raises a suspicion of BVDV PI cattle being present, a screening protocol can be defended based on its likelihood to improve economic return.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2002-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1672</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol36no2p106-112</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 36, No. 2 (2002 June); 106-112</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1672/7778</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2002 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

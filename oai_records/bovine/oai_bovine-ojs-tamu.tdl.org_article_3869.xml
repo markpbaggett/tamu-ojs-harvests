@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3869</identifier>
+				<datestamp>2020-02-06T08:47:41Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Integrated program for reducing bovine respiratory disease complex in beef and dairy cattle coordinated agricultural project (BRD CAP)</dc:title>
+	<dc:creator xml:lang="en">Van Eenennaam, Alison L.</dc:creator>
+	<dc:subject xml:lang="en">disease resistance</dc:subject>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">genetic</dc:subject>
+	<dc:subject xml:lang="en">susceptibility</dc:subject>
+	<dc:subject xml:lang="en">animal welfare</dc:subject>
+	<dc:subject xml:lang="en">antimicrobial therapeutics</dc:subject>
+	<dc:description xml:lang="en">There is growing interest in selective breeding of livestock for enhanced disease resistance. Bovine respiratory disease (BRD), or pneumonia, is the largest single natural cause of death in US beef and dairy cattle, and BRD resistance represents an obvious target for selective breeding programs. The heritability of disease resistance is typically low, in part as a result of suboptimal diagnosis (i.e. not all sick animals are identified, healthy animals may be incorrectly diagnosed as ill, and some susceptible animals will appear resistant when in fact they have not been exposed). Additionally, the genetic basis of BRD susceptibility is likely complex and governed by the effects of multiple genes. This suggests a large number of case:control animals will be needed in datasets for disease susceptibility marker discovery. In 2011, the Agriculture and Food Research Initiative (AFRI) funded a five-year Coordinated Agricultural Project entitled "Integrated Program for BRD in Beef and Dairy Cattle". The overarching research objective of this multi-institutional "BRD CAP" project is to use newly-available genomic tools to identify host genome regions associated with susceptibility to BRD. During 2011, 2,000 dairy calves on a single large California facility were enrolled in a BRD case:control design study using an objective scoring system, and genotyped using a high-density bovine single nucleotide polymorphism (SNP) chip. It is envisaged that analyses of these data and future studies will lead to development of DNA tests to enable the selection of animals that are less susceptible to BRD, which is much-needed given growing concern regarding both animal welfare and use of antimicrobial therapeutics.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2012-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3869</dc:identifier>
+	<dc:identifier>10.21423/aabppro20123869</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2012; 36-39</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3869/3801</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2012 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

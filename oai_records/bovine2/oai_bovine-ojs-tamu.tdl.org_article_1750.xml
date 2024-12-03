@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1750</identifier>
+				<datestamp>2021-08-30T19:38:18Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Case report: biohydrogenation of conjugated linoleic acid (CLA) as a probable cause of milk fat depression in a dairy herd</dc:title>
+	<dc:creator xml:lang="en">Thomas, Mark J.</dc:creator>
+	<dc:subject xml:lang="en">conjugated linoleic acid</dc:subject>
+	<dc:subject xml:lang="en">cows</dc:subject>
+	<dc:subject xml:lang="en">dairy cattle</dc:subject>
+	<dc:subject xml:lang="en">dairy cows</dc:subject>
+	<dc:subject xml:lang="en">dairy herds</dc:subject>
+	<dc:subject xml:lang="en">linoleic acid</dc:subject>
+	<dc:subject xml:lang="en">milk</dc:subject>
+	<dc:subject xml:lang="en">milk fat</dc:subject>
+	<dc:subject xml:lang="en">nutritional disorders</dc:subject>
+	<dc:subject xml:lang="en">rumen fermentation</dc:subject>
+	<dc:description xml:lang="en">Milk fat depression (MFD) is a common nutritional disorder on commercial dairy farms. Subacute rumen acidosis (SARA) secondary to inadequate effective fiber is traditionally one of the first areas to investigate when consulting with these herds. A less frequently recognized cause of MFD is the presence of unsaturated oils in the ration, which can have an indirect effect on milk fat synthesis. One of the predominant fatty acids produced in the rumen is conjugated linoleic acid (CLA). Under certain altered rumen fermentation processes, the biochemical pathway produces an increased amount of the trans vs. the cis-isomer of CLA. These trans-isomers of CLA are potent inhibitors of milk fat synthesis. This case report will detail the process by which there is diet-induced milk fat depression despite adequate forage intake and apparent normal rumen health.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1750</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol40no1p33-36</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 40, No. 1 (2006 Spring); 33-36</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1750/7690</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/26</identifier>
+				<datestamp>2022-06-25T02:54:20Z</datestamp>
+				<setSpec>aavptbiennial:S3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Pharmacodynamics and PK-PD modeling of danofloxacin against Pasteurella multocida in bovines</dc:title>
+	<dc:creator xml:lang="en">Sidhu, Pritam K.</dc:creator>
+	<dc:creator xml:lang="en">Sappal, R.</dc:creator>
+	<dc:creator xml:lang="en">Bedi, G. K.</dc:creator>
+	<dc:creator xml:lang="en">Chaudhary, R. K. </dc:creator>
+	<dc:creator xml:lang="en">Gehring, Ronette</dc:creator>
+	<dc:subject xml:lang="en">Danofloxacin</dc:subject>
+	<dc:subject xml:lang="en">Pharmacodynamics</dc:subject>
+	<dc:subject xml:lang="en">Time-kill kinetics</dc:subject>
+	<dc:subject xml:lang="en">Pasteurella multocida</dc:subject>
+	<dc:subject xml:lang="en">PK-PD modelling</dc:subject>
+	<dc:description xml:lang="en">The objective of this study was to predict rational dosage schedule of danofloxacin (DFL) using PK-PD modeling approach for Pasteurella multocida in bovines. The minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) of DFL were determined in Mueller Hinton Broth (MHB) and buffalo calf serum for four isolates of P. multocida according to CLSI guidelines, using five overlapping sets of doubling dilutions. The mutant prevention concentration (MPC) was determined in MHB by the method described by Blondeau et al. (2004). In vitro time-kill kinetics against P. multocida were determined in MHB and serum to generate information on the time course of DFL action, understanding the mode of antibacterial activity (as time-, concentration- or co-dependent in their killing) and determination of PK/PD breakpoints by PK/PD modelling. The ranges of MIC and MBC of DFL in broth were narrow, 0.045-0.065 and 0.060-0.080μg/ml, respectively, for P. multocida. In serum, MIC ranged from 0.055-0.0.70μg/ml and MBC was 0.060-0.090μg/ml. For P. multocida the range of MPC was 0.80-1.30μg/ml. In vitro time-kill studies demonstrated concentration dependent bactericidal activity of DFL in MHB and serum. The viable count decreased by 3-log colony forming units (cfu)/ml after 1h and 3h of incubation at 2×MIC for isolates of P. multocida and viable count was 33 cfu/ml at 4×MIC. PK-PD modelling will be used to determine, AUC24h/MIC ratios required for bactericidal action and eradication of bacteria. Based on PK-PD modelling a dosage schedule of DFL will be calculated for bactericidal activity and eradication of P. multocida in buffalo species.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2017-05-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/26</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 20th Biennial Symposium</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/26/26</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

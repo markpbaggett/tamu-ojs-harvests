@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3858</identifier>
+				<datestamp>2020-02-06T08:43:25Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Performance of an IDEXX Bovine Pregnancy Test adapted for visual-read results and designed for in-clinic use</dc:title>
+	<dc:creator xml:lang="en">Rice, A. M.</dc:creator>
+	<dc:creator xml:lang="en">Fabbricante, M. J.</dc:creator>
+	<dc:creator xml:lang="en">Koller, S. I.</dc:creator>
+	<dc:creator xml:lang="en">Lemieux, L.</dc:creator>
+	<dc:creator xml:lang="en">Welles, P.</dc:creator>
+	<dc:subject xml:lang="en">pregnancy</dc:subject>
+	<dc:subject xml:lang="en">blood testing</dc:subject>
+	<dc:subject xml:lang="en">IDEXX</dc:subject>
+	<dc:subject xml:lang="en">ELISA</dc:subject>
+	<dc:subject xml:lang="en">cost-effective</dc:subject>
+	<dc:description xml:lang="en">While bovine pregnancy diagnosis today is predominately done by palpation and ultrasound, blood testing for pregnancy is growing in popularity as producers and veterinarians identify ways to incorporate it into their practices. Many veterinary clinics that are interested in adopting blood testing, however, find the up-front investment in instrumentation required for an ELISA setup to be cost-prohibitive. To address this need, IDEXX is developing a pregnancy test designed for veterinary clinics that does not require ELISA instrumentation. The plate ELISA is washed manually with a wash bottle and read visually; pregnant samples appear blue, while open samples have no color. This technological advance enables veterinarians to offer cost-effective blood-based pregnancy testing in addition to the palpation and ultrasound services they already provide.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2013-09-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3858</dc:identifier>
+	<dc:identifier>10.21423/aabppro20133858</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2013; 199</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3858/3791</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2013 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

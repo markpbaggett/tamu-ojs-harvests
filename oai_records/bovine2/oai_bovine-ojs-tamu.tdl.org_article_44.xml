@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/44</identifier>
+				<datestamp>2021-08-30T20:18:01Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of pooled testing to individual testing with an ear-notch antigen-capture enzyme-linked immunosorbent assay for bovine viral diarrhea virus.</dc:title>
+	<dc:creator xml:lang="en">Funk, Rebecca A.</dc:creator>
+	<dc:creator xml:lang="en">Thomson, Daniel U.</dc:creator>
+	<dc:creator xml:lang="en">Renter, David G.</dc:creator>
+	<dc:creator xml:lang="en">White, Brad J.</dc:creator>
+	<dc:creator xml:lang="en">Guillossou, Stephane</dc:creator>
+	<dc:subject xml:lang="en">bovine</dc:subject>
+	<dc:subject xml:lang="en">BVDV</dc:subject>
+	<dc:subject xml:lang="en">persistent infection</dc:subject>
+	<dc:subject xml:lang="en">earnotch</dc:subject>
+	<dc:subject xml:lang="en">biopsy</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">diagnostic techniques</dc:subject>
+	<dc:subject xml:lang="en">diarrhoea</dc:subject>
+	<dc:subject xml:lang="en">ears</dc:subject>
+	<dc:subject xml:lang="en">ELISA</dc:subject>
+	<dc:subject xml:lang="en">methodology</dc:subject>
+	<dc:description xml:lang="en">Thirty-seven skin samples (ear notches) from individual antigen-capture enzyme-linked immunosorbent assay (ACE)-positive cattle were collected and pooled with negative samples in pools of two, three, four, five, 10 and 15 samples to experimentally determine an optimum pool size for the testing protocol for bovine viral diarrhea virus (BVDV). All positive BVDV pooled samples containing ACE-positive skin specimens resulted in positive tests for all pool sizes investigated. Samples in the 15 ear-notch pools, despite remaining positive, approached the detection limit of the assay. An economic analysis of pooled ACE testing was undertaken to determine the most economically rewarding pool size within the constraints of the test. The analysis demonstrated that as BVD PI prevalence increased, optimal pool size decreased. In all cases, a point of diminishing returns was seen until there was a reversal of the trend, and an increased pool size increased the cost of testing on a per-head basis regardless of BVD PI prevalence. Given the results from the economic analysis and the evaluation of ACE pooled testing, these data suggest that pool sizes of five to 10 samples may be most advantageous both economically and for reliably to detect persistently infected animals.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2008-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/44</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol42no1p93-97</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 42, No. 1 (2008 Spring); 93-97</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/44/7671</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

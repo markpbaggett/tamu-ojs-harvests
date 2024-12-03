@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/191</identifier>
+				<datestamp>2021-08-30T21:12:47Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Establishing reference ranges for sulfur concentrations in bovine liver and kidney samples</dc:title>
+	<dc:creator xml:lang="en">Taylor, Jared D.</dc:creator>
+	<dc:creator xml:lang="en">Bischoff, Karyn L.</dc:creator>
+	<dc:creator xml:lang="en">Hillebrandt, Joseph R.</dc:creator>
+	<dc:creator xml:lang="en">Morgan, Sandra E.</dc:creator>
+	<dc:creator xml:lang="en">Campbell, Gregory A.</dc:creator>
+	<dc:creator xml:lang="en">Lamm, Catherine G.</dc:creator>
+	<dc:subject xml:lang="en">polioencephalomalacia</dc:subject>
+	<dc:subject xml:lang="en">PEM</dc:subject>
+	<dc:subject xml:lang="en">sulfur</dc:subject>
+	<dc:subject xml:lang="en">sulfate</dc:subject>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">distillers grains</dc:subject>
+	<dc:description xml:lang="en">Sulfur toxicosis is a common cause of polioencepha- lomalacia in cattle. Diagnosis requires comprehensive determination of dietary sulfur intake, which may not be possible if feedstuffs are no longer available. The goal of this study was to establish reference ranges for concentrations of sulfur in liver and kidney samples from cattle dying of causes unrelated to sulfur toxicosis. Samples were collected from 71 cattle and assessed for sulfur content using inductive coupled plasma atomic- emission spectroscopy. Cattle demonstrating neurologic signs or gross or histologic lesions of the brain were excluded from the study. Sulfur concentrations were calculated on a wet- and dry-matter basis. Values were examined for Gaussian distribution, and 95% confidence intervals were calculated using the mean for normally distributed values and the median for non-normally distributed values. The 95% confidence interval for liver sulfur was 4,522 to 9,982 ppm dry-matter (1,270 to 2,640 ppm wet-matter). The 95% Cl for kidney sulfur was 5,070 to 19,017 ppm dry-matter (1,187 to 2,918 ppm wet-matter). Correlation assessments suggest that dry- matter liver analysis may be the best defined and most reliable measure of sulfur burden. Additional research is needed to assess concentrations of sulfur present in the liver and kidney of cattle with sulfur toxicosis, the impact of dietary intake on tissue concentrations, and to determine whether postmortem sulfur measurement is a viable method of diagnosing sulfur toxicosis.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2013-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/191</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol47no1p42-46</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 47, No. 1 (2013 Spring); 42-46</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/191/7637</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2013 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

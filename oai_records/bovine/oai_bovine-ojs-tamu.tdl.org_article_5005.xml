@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5005</identifier>
+				<datestamp>2020-03-18T07:12:42Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Observations of Management Intensive Grazing and Forage Management</dc:title>
+	<dc:creator xml:lang="en">Lubben, Dave</dc:creator>
+	<dc:subject xml:lang="en">Management Intensive Grazing</dc:subject>
+	<dc:subject xml:lang="en">soybeans</dc:subject>
+	<dc:subject xml:lang="en">corn</dc:subject>
+	<dc:subject xml:lang="en">finishing feedlot</dc:subject>
+	<dc:subject xml:lang="en">pasture</dc:subject>
+	<dc:subject xml:lang="en">hay</dc:subject>
+	<dc:subject xml:lang="en">rotation</dc:subject>
+	<dc:description xml:lang="en">Management Intensive Grazing is a tool we have developed over the years to harvest forages on our 1400-acre farming operation. Our family-owned corporation consists of my father and one employee, and includes 400 acres in corn, 400 acres in soybeans, 160 acres in hay and 500 acres in pasture. We have 220 beef cows and a 400-head finishing feedlot.
+Since adopting Management Intensive Grazing in 1989, it has evolved into an integral part of our operation. Today we have 12 major paddocks subdivided into 50 smaller paddocks, through which our 220 cows are rotated in four to five cycles.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2002-09-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5005</dc:identifier>
+	<dc:identifier>10.21423/aabppro20025005</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2002; 42-44</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5005/4893</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2002 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

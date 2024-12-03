@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8339</identifier>
+				<datestamp>2022-10-24T20:58:19Z</datestamp>
+				<setSpec>aabp:CSS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The art and mathematics of making a useful diagnosis</dc:title>
+	<dc:creator xml:lang="en">Smith, David</dc:creator>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">predictive value</dc:subject>
+	<dc:subject xml:lang="en">diagnostic test</dc:subject>
+	<dc:subject xml:lang="en">screening ttest</dc:subject>
+	<dc:subject xml:lang="en">cognitive bias</dc:subject>
+	<dc:description xml:lang="en">Veterinarians make a diagnosis to summarize the state of health of an animal. A diagnosis explains the animal’s clini­cal signs and helps to establish a prognosis and plan of action. Unfortunately, there is no foolproof way to make a diagnosis, regardless of experience, and, unfortunately, diagnostic errors are common. The steps to making an accurate diagnosis involve both art and basic mathematical skills. The art of the diagnosis is in conducting a complete history and physical examination, developing a comprehensive list of differential diagnoses, as­signing reasonable likelihoods for those differentials, and rec­ognizing and avoiding cognitive biases. Mathematics are used to combine test performance data and disease likelihood to understand if a diagnostic test is more likely to improve diag­nostic accuracy or more likely to be misleading. The nature of diagnostic error is predictable. Tests for rare conditions have problems with poor positive predictive value, whereas tests for common conditions have problems of poor negative predic­tive value. Strategies for using multiple tests, such as testing in series or in parallel, may improve the likelihood of getting test results that reflect the animal’s true condition.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8339</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2021 Annual Conference Proceedings; 200-203</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8339/8218</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

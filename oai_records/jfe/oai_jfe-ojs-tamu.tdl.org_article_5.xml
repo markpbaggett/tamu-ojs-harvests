@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:jfe-ojs-tamu.tdl.org:article/5</identifier>
+				<datestamp>2023-12-22T06:27:36Z</datestamp>
+				<setSpec>jfe:RZ</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A reference database for the DNA-based identification of North American Calliphorinae.</dc:title>
+	<dc:creator xml:lang="en">Picard, Christine</dc:creator>
+	<dc:creator xml:lang="en">Balaji, Adhitya</dc:creator>
+	<dc:creator xml:lang="en">Benson, Diamond</dc:creator>
+	<dc:subject xml:lang="en">Calliphorinae</dc:subject>
+	<dc:subject xml:lang="en">DNA-based identification</dc:subject>
+	<dc:subject xml:lang="en">COI Sequencing</dc:subject>
+	<dc:subject xml:lang="en">Calliphora</dc:subject>
+	<dc:subject xml:lang="en">Cynomya</dc:subject>
+	<dc:subject xml:lang="en">Bellardia</dc:subject>
+	<dc:subject xml:lang="en">Cyanus</dc:subject>
+	<dc:subject xml:lang="en">Cytochrome oxidase I</dc:subject>
+	<dc:subject xml:lang="en">forensic entomology</dc:subject>
+	<dc:subject xml:lang="en">calliphoridae</dc:subject>
+	<dc:subject xml:lang="en">calliphorinae</dc:subject>
+	<dc:description xml:lang="en">DNA-based species identifications continue to be a robust tool for the forensic entomologist to identify immature or damaged specimens.&amp;nbsp; However, much of that identification is dependent on the use of a reliable database that encompasses all species possible.&amp;nbsp; Here, we queried DNA databases for DNA records of COI sequence data of 18 species of Calliphorinae present in North America to determine if the DNA-based identification is reliable, and to provide a resource for other entomologists to use, add to or build off of.&amp;nbsp; Our results indicate that approximately 650bp of the standard DNA barcode is not sufficient to identify all possible species in North America using the DNA, and provide guidance on using this database in future applications.</dc:description>
+	<dc:publisher xml:lang="en">North American Forensic Entomology Association (NAFEA)</dc:publisher>
+	<dc:date>2023-01-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer reviewed article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dc:format>
+	<dc:format>text/plain</dc:format>
+	<dc:format>text/plain</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>text/plain</dc:format>
+	<dc:identifier>https://jfe-ojs-tamu.tdl.org/jfe/article/view/5</dc:identifier>
+	<dc:source xml:lang="en">Journal of Forensic Entomology; Vol. 1 (2023): The Journal of Forensic Entomology</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/5/10</dc:relation>
+	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/5/11</dc:relation>
+	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/5/12</dc:relation>
+	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/5/13</dc:relation>
+	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/5/14</dc:relation>
+	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/5/15</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 Journal of Forensic Entomology</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6462</identifier>
+				<datestamp>2020-08-07T00:34:07Z</datestamp>
+				<setSpec>aabp:PHM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Development and Implementation of the Ontario Dairy Monitoring and Analysis Program</dc:title>
+	<dc:creator xml:lang="en">Kelton, David F.</dc:creator>
+	<dc:creator xml:lang="en">Martin, S. Wayne</dc:creator>
+	<dc:creator xml:lang="en">Hansen, Donna S.</dc:creator>
+	<dc:subject xml:lang="en">herd performance</dc:subject>
+	<dc:subject xml:lang="en">dairy producer</dc:subject>
+	<dc:subject xml:lang="en">herd level</dc:subject>
+	<dc:subject xml:lang="en">herd management</dc:subject>
+	<dc:subject xml:lang="en">milk production</dc:subject>
+	<dc:subject xml:lang="en">reproductive performance</dc:subject>
+	<dc:description xml:lang="en">The importance of monitoring dairy cattle health and productivity at the herd level has become evident during the last decade (1). To monitor all aspects of the herd's performance, dairy producers and veterinarians need a variety of herd level information based on daily cow and farm events. These data are stored either on the farm or in central databases maintained by agencies serving the dairy industry. Unfortunately, in many cases the information useful for monitoring herd performance has not been gleaned from the existing cow level data, or has not been presented in a fashion that facilitates the monitoring process. The Ontario Dairy Monitoring and Analysis Program (ODMAP) evolved out of a perceived need for a herd level monitoring system that utilized the available herd data and was tailored to the characteristics of the Ontario dairy industry. The objectives of the ODMAP project included the establishment of a herd level database that could be used 1) to produce periodic summary reports useful to producers and veterinarians for monitoring herd performance, and 2) to investigate the herd level associations among measures of herd management, milk production, reproductive performance, animal health, and profitability. This manuscript outlines the development and implementation of the ODMAP and summarizes some of the data collected during the first year of the project.
+Spanish and French summaries in PDF.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6462</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926462</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 1; 285-290</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6462/7040</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

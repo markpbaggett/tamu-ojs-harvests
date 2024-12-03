@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4892</identifier>
+				<datestamp>2020-03-21T07:16:39Z</datestamp>
+				<setSpec>aabp:GS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Veterinary Antimicrobial Decision Support (VADS) System: Progress and Challenges</dc:title>
+	<dc:creator xml:lang="en">Apley, Mike</dc:creator>
+	<dc:subject xml:lang="en">analytical protocols</dc:subject>
+	<dc:subject xml:lang="en">analysis technique</dc:subject>
+	<dc:subject xml:lang="en">quality assurance</dc:subject>
+	<dc:subject xml:lang="en">drug regimens</dc:subject>
+	<dc:subject xml:lang="en">pathogen susceptibility profile</dc:subject>
+	<dc:description xml:lang="en">This update summarizes progress specifically related to pharmacokinetic dataset categorization and clinical trial literature evaluation as well as challenges encountered in content development. The number of reference datasets available for regimen construction are constantly changing due to new data additions, but currently approximately 164 cattle datasets and 47 swine datasets are the basis for pharmacokinetic projections. Additional datasets are undergoing analysis for small ruminants and poultry. Pharmacokinetic datasets are categorized by animal species, age and health status as well as drug, drug form and injection site. Clinical trial literature is also being accumulated, evaluated and prepared for presentation on the VADS System website. As of the writing of this proceedings article, the VADS System development group is focusing on completing modeling of pharmacokinetic data and entering output on the website in the form of antimicrobial drug regimens combined with pathogen susceptibility profiles. The site is being constructed for ease of long-term maintenance in the form of modification of analysis techniques, addition of new data, and quality assurance of both data entry and data analysis. Data sources and analytical protocols are presented so as to be completely transparent to the user.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2004-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4892</dc:identifier>
+	<dc:identifier>10.21423/aabppro20044892</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2004; 18-22</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4892/4783</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2004 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

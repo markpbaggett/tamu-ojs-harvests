@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/8</identifier>
+				<datestamp>2015-06-04T19:06:02Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Variance structure of aflatoxin contaminated maize in commercial grain elevators and transporters</dc:title>
+	<dc:creator xml:lang="en">Herrman, Timothy J</dc:creator>
+	<dc:creator xml:lang="en">Lee, Kyung-Min</dc:creator>
+	<dc:creator xml:lang="en">Jones, Ben L</dc:creator>
+	<dc:creator xml:lang="en">Haggart, Don R</dc:creator>
+	<dc:subject xml:lang="en">aflatoxin</dc:subject>
+	<dc:subject xml:lang="en">variance component analysis</dc:subject>
+	<dc:subject xml:lang="en">grain elevator</dc:subject>
+	<dc:subject xml:lang="en">risk management</dc:subject>
+	<dc:subject xml:lang="en">regulatory</dc:subject>
+	<dc:subject xml:lang="en">agency</dc:subject>
+	<dc:subject xml:lang="en">Aflatoxin risk management</dc:subject>
+	<dc:description xml:lang="en">The application of risk analysis to manage chemical hazards in the grain industry by regulators presents significant challenges including development of sampling schemes and disposition plans in the presence of high levels of aflatoxin contamination. In this study, a firm comprised of seven grain elevators with 38 storage bins containing aflatoxin contaminated maize were studied to evaluate the risk management effectiveness of a sampling strategy negotiated in bankruptcy court. Samples from 551 incoming trucks and 301 outbound trucks of maize were analyzed for aflatoxin by Grain Inspection and Packers Stockyard Administration (GIPSA) Official Inspection Agencies (OIA). A comparison of the average aflatoxin measures for all incoming and outgoing trucks were 373 and 376 mg/kg, respectively. A comparison of 64 outbound trucks between the GIPSA OIA and the Office of the Texas State Chemist (OTSC) revealed that the aflatoxin measurements between the two agencies were significantly (p&amp;lt;0.01) related, with a correlation coefficient of r=0.80. The outbound trucks sampled by OTSC were subjected to a hierarchical analysis to derive grain elevator, grain bin, truck-to-truck and intra-truck variance components. The variance was partitioned as follows: grain elevator variance (1.9%), bin variance (65.8%), truck variance (9.1%) and the residual error (23%) representing intra-truck aflatoxin variability. This study documents that the negotiated sampling plan provided regulators the ability to detect and isolate grain unfit for commerce.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2013-11-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">liquid chromatography, variance structure analysis</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/8</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.118</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 1 No. 1 (2013); 23-31</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/8/4</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7566</identifier>
+				<datestamp>2020-08-22T01:27:10Z</datestamp>
+				<setSpec>aabp:DSS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Interpretating Bulk Tank Somatic Cell Counts</dc:title>
+	<dc:creator xml:lang="en">Thurmond, M. C.</dc:creator>
+	<dc:subject xml:lang="en">BTSCC</dc:subject>
+	<dc:subject xml:lang="en">bulk tank somatic cell counts</dc:subject>
+	<dc:subject xml:lang="en">milk quality</dc:subject>
+	<dc:subject xml:lang="en">udder inflammation</dc:subject>
+	<dc:subject xml:lang="en">bacteria counts</dc:subject>
+	<dc:description xml:lang="en">During the past few years veterinarians have begun to appreciate some of the benefits in monitoring bulk tank somatic cell counts (BTSCC). Although it is a measure of milk quality and not udder inflammation, the BTSCC does provide an estimate of the herd udder health. Because there is little confusion as to where cells constituting the BTSCC originate, changes in BTSCC can be more directly attributable to changes in udder inflammation than can be changes in bulk tank bacteria counts. Moderate correlations between BTSCC and quarter infection rates provide further support for the use of BTSCC as a proxy for herd udder health (Dohoo and Meek, 1982).</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1986-11-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7566</dc:identifier>
+	<dc:identifier>10.21423/aabppro19867566</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1986; 80-81</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7566/6123</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1986 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

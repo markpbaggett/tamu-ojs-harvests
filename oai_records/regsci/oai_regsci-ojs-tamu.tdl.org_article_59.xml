@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/59</identifier>
+				<datestamp>2023-04-10T23:48:19Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Determination of Paraquat and Diquat in Potato by Liquid Chromatography/Tandem Mass Spectrometer</dc:title>
+	<dc:creator xml:lang="en">Chamkasem, Narong</dc:creator>
+	<dc:creator xml:lang="en">Morris, Cynthia</dc:creator>
+	<dc:creator xml:lang="en">Harmon, Tiffany</dc:creator>
+	<dc:subject xml:lang="en">paraquat</dc:subject>
+	<dc:subject xml:lang="en">diquat</dc:subject>
+	<dc:subject xml:lang="en">potatoes</dc:subject>
+	<dc:subject xml:lang="en">LC-MS/MS</dc:subject>
+	<dc:subject xml:lang="en">determination</dc:subject>
+	<dc:subject xml:lang="en">analytical method validation</dc:subject>
+	<dc:description xml:lang="en">A high-throughput liquid chromatography/tandem mass spectrometry (LC-MS/MS) method was developed for the determination of paraquat and diquat in potatoes using a reversed-phase with weak anion-exchange and cation-exchange mixed-mode Acclaim™ Trinity Q1 column. Five grams of sample was shaken with fifteen milliliters of 1:1 MeOH: 0.1 N HCl for 10 min at room temperature and heated for 15 min at 80°C. After centrifugation, the supernatant was passed through an Oasis HLB SPE to retain suspended particulates and non-polar interferences. The sample was directly injected and analyzed for 10 min by LC-MS/MS with no sample concentration. Two multiple reaction monitoring (MRM) channels were monitored in the method for each target compound to achieve true positive identification. Two internal standards corresponding to each analyte were used to counter matrix suppression effect. Linearity of the detector response with a minimum coefficient of determination (r2) of more than 0.997 was demonstrated in the range from 2 to 250 ng/mL for each analyte using matrix-matched standard. The average recovery for all analytes at 10, 25, 100, and 500 ng/g (n$=$5) are between 87-106% with a relative standard deviation of less than 12%.https://doi.org/10.21423/jrs-v05n01p001 (DOI assigned 4/17/2019)</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2017-03-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">LC/MS</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/59</dc:identifier>
+	<dc:identifier>10.21423/JRS-V05N01P001</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 5 No. 1 (2017); 1-8</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/59/51</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 Journal of Regulatory Science</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

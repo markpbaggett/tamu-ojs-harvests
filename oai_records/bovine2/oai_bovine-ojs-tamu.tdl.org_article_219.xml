@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/219</identifier>
+				<datestamp>2021-08-27T23:44:40Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Serologic testing in the diagnosis of virus diseases of cattle</dc:title>
+	<dc:creator xml:lang="en">Kahrs, Robert F.</dc:creator>
+	<dc:subject xml:lang="en">IBR</dc:subject>
+	<dc:subject xml:lang="en">BVD-MD</dc:subject>
+	<dc:subject xml:lang="en">BPI-3</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:description xml:lang="en">Serologic tests for IBR, BVD-MD and BPI-3 sometimes aid in the differential diagnosis and sometimes only mislead the person who submitted the specimens. When negative, these tests can be useful in the diagnostic “process of elimination.” Efforts to obtain a positive etiologic diagnosis are frequently frustrating. The relationship between the time of infection and the time of serum collection is a critical factor in the interpretation of test results. Because the time of infection is usually unknown, paired samples are essential. The aseptic specimens needed for virus serology should be collected in B-D Vacutainers. Antibodies induced by natural infection cannot be distinguished from antibodies induced by vaccination or from colostrally acquired maternal antibodies.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1971-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/219</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1971no6p50-53</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 6 (1971 November); 50-53</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/219/234</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1971 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

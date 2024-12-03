@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4522</identifier>
+				<datestamp>2020-02-15T08:41:38Z</datestamp>
+				<setSpec>aabp:Fedlot</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Economics of Diagnostic Testing</dc:title>
+	<dc:creator xml:lang="en">Larson, Robert L.</dc:creator>
+	<dc:subject xml:lang="en">Biosecurity</dc:subject>
+	<dc:subject xml:lang="en">screening tests</dc:subject>
+	<dc:subject xml:lang="en">contagious pathogen</dc:subject>
+	<dc:subject xml:lang="en">diagnostic test</dc:subject>
+	<dc:description xml:lang="en">Biosecurity is the attempt to keep infectious agents away from a herd or feedlot. Diagnostic screening tests of all incoming (apparently healthy) cattle can be used to identify and remove animals that carry contagious pathogens, with the desired result of reducing disease risk. To determine if such a biosecurity strategy is economically rewarding, veterinarians must know the sensitivity and specificity of the diagnostic test, prevalence of carrier animals, cost of testing and cost of the disease should it enter the population. In some situations additional tests, either in series or in parallel, may increase the economic return for a testing strategy. In other situations, cost of screening for biosecurity purposes may be greater than the cost of a rare disease, but the potential disruption in cash flow from that rare occurrence may cause some producers to institute testing to avoid that rare possibility.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2007-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4522</dc:identifier>
+	<dc:identifier>10.21423/aabppro20074522</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2007; 82-85</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4522/4428</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2007 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

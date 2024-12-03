@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/269</identifier>
+				<datestamp>2024-03-05T01:28:43Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The  Analysis of unintended open reading frame ORF-130 expression in maize event MZIR098 by LC-MS as part of the allergenicity risk assessment of genetically modified crops</dc:title>
+	<dc:creator xml:lang="en">Birukou, Ivan</dc:creator>
+	<dc:creator xml:lang="en">Bailey, Kathryn</dc:creator>
+	<dc:creator xml:lang="en">Sugar, James</dc:creator>
+	<dc:creator xml:lang="en">McClain, Scott</dc:creator>
+	<dc:creator xml:lang="en">Young, Scott</dc:creator>
+	<dc:subject xml:lang="en">parallel reaction monitoring</dc:subject>
+	<dc:subject xml:lang="en">open reading frame</dc:subject>
+	<dc:subject xml:lang="en">risk assessment</dc:subject>
+	<dc:subject xml:lang="en">genetically modified (GM) crops</dc:subject>
+	<dc:subject xml:lang="en">LC-MS/MS</dc:subject>
+	<dc:subject xml:lang="en">liquid chromatography - mass spectrometry</dc:subject>
+	<dc:subject xml:lang="en">parallel reaction monitoring</dc:subject>
+	<dc:subject xml:lang="en">protein quantitation</dc:subject>
+	<dc:description xml:lang="en">Rigorous safety assessments are required for genetically modified (GM) crops to support their use as food or feed.&amp;nbsp; These assessments include bioinformatics analysis of the amino acid sequences of all potential open reading frames (ORFs) encoded in the exogenous DNA introduced into the plant through genetic modification.&amp;nbsp; Sequence similarities of potential DNA products to known or potential toxins and allergens trigger subsequent assessments of potential hazards for the consumer or the environment.&amp;nbsp; The bioinformatic analysis of Syngenta maize event MZIR098 insert DNA revealed a total of 415 ORFs.&amp;nbsp; One putative ORF (ORF-130) triggered further risk assessment based on its sequence similarities with known allergens, including peanut allergen Ara h 1, wheat glutenin, and others. We examined the potential expression of ORF-130 at a protein level to exclude the possibility of exposure during consumption of MZIR098 maize.&amp;nbsp; Specifically, we developed and validated a liquid chromatography approach coupled to a tandem mass spectrometry (LC-MS/MS) method, called parallel reaction monitoring (PRM). This measure of expression was quantitative and targeted against the peptides unique to ORF-130.&amp;nbsp; The linear range of the method was 25-5000 amol ORF-130/µl.&amp;nbsp; Both, limit of detection (LOD) and lower limit of quantitation (LLOQ) of the method, were 12 μg ORF-130 per gram of dry MZIR098 maize leaf.&amp;nbsp; The method was accurate and specific to ORF-130.&amp;nbsp; PRM analysis of MZIR098 extracts did not detect putative ORF-130 above the limits of detection/quantitation.&amp;nbsp; Furthermore, the broad proteomic data dependent acquisition (DDA) analysis of the MZIR098 extracts demonstrated no evidence of ORF-130 corroborating the PRM analysis.&amp;nbsp; Our results confirm that ORF-130 is not characterized as a functional gene in Syngenta maize event MZIR098 insert DNA and does not express gene products at detectable levels.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2024-03-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/269</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.121269</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 12 No. 1 (2024)</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/269/323</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2024 Ivan Birukou, Kathryn Bailey, James Sugar, Scott McClain, Scott Young</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

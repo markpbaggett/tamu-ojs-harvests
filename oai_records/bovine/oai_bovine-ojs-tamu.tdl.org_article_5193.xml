@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5193</identifier>
+				<datestamp>2021-02-19T21:15:55Z</datestamp>
+				<setSpec>aabp:RSB</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Plasma 3-methylindole and Blood 3-methyleneindolenine in Feedlot Cattle</dc:title>
+	<dc:creator xml:lang="en">Loneragan, Guy H.</dc:creator>
+	<dc:creator xml:lang="en">Morley, Paul S.</dc:creator>
+	<dc:creator xml:lang="en">Wagner, John J.</dc:creator>
+	<dc:creator xml:lang="en">Gould, Daniel H.</dc:creator>
+	<dc:creator xml:lang="en">Mason, Gary S.</dc:creator>
+	<dc:creator xml:lang="en">Yost, Garold S.</dc:creator>
+	<dc:subject xml:lang="en">Bovine respiratory disease complex</dc:subject>
+	<dc:subject xml:lang="en">Rumen-generated toxins</dc:subject>
+	<dc:subject xml:lang="en">3-methylindole</dc:subject>
+	<dc:subject xml:lang="en">enzymes</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease complex (BRD) results from an interaction of stressors, animal susceptibility and respiratory pathogens. Well known factors that increase the likelihood of BRD development include young animals, long transportation distances and dehydration. Rumen-generated toxins, such as 3-methylindole (3MI), may also be an important BRD-propagating factor.
+Animals challenged with both bovine respiratory syncytial virus (BRSV) and 3MI developed more severe respiratory disease than animals challenged with BRSV or 3MI alone.1 Further, animals with greater serum 3MI concentrations at feedlot arrival had greater odds of being treated for respiratory disease than animals with lower serum 3MI.2
+3-methylindole must be metabolized to induce toxicity. Enzymes responsible for the bioactivation of 3MI are P450s and prostaglandin H synthetase (PHS).3,5 These enzymes are found in high concentrations in the bovine Clara cells. The putative pneumotoxic metabolite of3MI thought responsible for 3MI-induced disease is 3-methyleneindolenine (3MEIN).4 Pulmonary injury is prevented if bioactivation of 3MI is blocked.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5193</dc:identifier>
+	<dc:identifier>10.21423/aabppro20015193</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2001; 126</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5193/5065</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

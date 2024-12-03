@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3908</identifier>
+				<datestamp>2020-02-06T08:46:45Z</datestamp>
+				<setSpec>aabp:RS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Efficiency of a genetic test to detect benzimidazole-resistant Haemonchus contortus nematodes on sheep farms in Quebec</dc:title>
+	<dc:creator xml:lang="en">Barrere, V.</dc:creator>
+	<dc:creator xml:lang="en">Prichard, R. K.</dc:creator>
+	<dc:subject xml:lang="en">sheep</dc:subject>
+	<dc:subject xml:lang="en">benzimidazole resistance</dc:subject>
+	<dc:subject xml:lang="en">pyrosequencing</dc:subject>
+	<dc:subject xml:lang="en">mutations</dc:subject>
+	<dc:subject xml:lang="en">single nucleotide polymorphisms</dc:subject>
+	<dc:subject xml:lang="en">fecal egg count reduction test</dc:subject>
+	<dc:subject xml:lang="en">FECRT</dc:subject>
+	<dc:subject xml:lang="en">anthelmintic resistance</dc:subject>
+	<dc:subject xml:lang="en">Haemonchus contortus</dc:subject>
+	<dc:description xml:lang="en">Benzimidazole-based drugs have been used to treat Haemonchus contortus and other gastrointestinal nematode infestations in sheep. However, numerous cases of benzimidazole-resistance in H. contortus have been reported worldwide. The fecal egg count reduction test (FECRT), which consists of comparing parasite egg counts in feces before and after treatment, is a technique commonly used to assess anthelmintic resistance. Unfortunately, this method is not very sensitive and is dependent on factors that can distort the results. Veterinarians and farmers have been seeking a method for detection of anthelmintic resistance which would be faster and cheaper than the FECRT, and used prior to anthelmintic treatment. Mutations called single nucleotide polymorphisms (SNP) on the a-tubulin isotype 1 gene of H. contortus have been associated with benzimidazole resistance. These mutations are located at positions 200 (a TTC codon in susceptible parasites and a TAC codon in resistant ones), 167 (TTC for susceptible parasites and TAC for resistant parasites), and 198 (GAA for susceptible parasites and GCA for resistant parasites). A molecular method that uses pyrosequencing has been developed to measure the frequency of the resistant allele of these three markers of benzimidazole resistance. The female nematode releases eggs, which are shed through the feces of the sheep. We can apply the pyrosequencing protocol on nematode eggs isolated from sheep feces to assess the benzimidazole resistance of the adult nematodes that colonize the host's abomasum.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2012-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3908</dc:identifier>
+	<dc:identifier>10.21423/aabppro20123908</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2012; 193-194</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3908/3839</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2012 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

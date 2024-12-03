@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/126</identifier>
+				<datestamp>2018-02-05T09:12:11Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Now We Are Talking! Flexible and Open Goal-Oriented Dialogue Systems for Accessing Touristic Services</dc:title>
+	<dc:creator xml:lang="en">Şimşek, Umutcan</dc:creator>
+	<dc:creator xml:lang="en">Fensel, Dieter</dc:creator>
+	<dc:subject xml:lang="en">e-tourism</dc:subject>
+	<dc:subject xml:lang="en">schema.org</dc:subject>
+	<dc:subject xml:lang="en">goal-oriented dialogue systems</dc:subject>
+	<dc:subject xml:lang="en">lightweight semantic web services</dc:subject>
+	<dc:description xml:lang="en">Goal-oriented dialogue systems have drawn interest from the academia and industry since the 1950s. The application areas vary between the likes of well-defined customer service processes and complex planning tasks. The practical applications are mostly developed with predefined dialogues and backend systems, which makes them challenging to extend with new services as well as new dialogues. In this research note, we propose an approach for flexible and open goal-oriented dialogue systems based on schema.org annotations. We extend the traditional concept of dialogue systems with a semantic task manager that generates task related dialogues dynamically by processing semantic descriptions of lightweight web services. Such a system can improve e-tourism processes especially for online marketplaces offering heterogeneous services (e.g. destination management organizations, DMO), where new services can be included mostly with the cost of having semantically annotated structured data and web services.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2018-02-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/126</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; 2018: ENTER 2018 Volume 9 Conference on Information and Communication Technologies in Tourism RESEARCH NOTES</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/126/33</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

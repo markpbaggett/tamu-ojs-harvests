@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5275</identifier>
+				<datestamp>2020-03-21T07:19:10Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Comparison of Serologic Responses to Type 1 and 2 Bovine Viral Diarrhea Viruses in Naturally Exposed Dairy Cattle</dc:title>
+	<dc:creator xml:lang="en">Tremblay, R. R. M.</dc:creator>
+	<dc:creator xml:lang="en">Power, C. A.</dc:creator>
+	<dc:creator xml:lang="en">Jordan, L. T.</dc:creator>
+	<dc:creator xml:lang="en">Carman, P. S.</dc:creator>
+	<dc:subject xml:lang="en">bovine viral diarrhea viruses</dc:subject>
+	<dc:subject xml:lang="en">BVDV</dc:subject>
+	<dc:subject xml:lang="en">type-1</dc:subject>
+	<dc:subject xml:lang="en">type-2</dc:subject>
+	<dc:subject xml:lang="en">serologic response</dc:subject>
+	<dc:description xml:lang="en">The two genotypes of bovine viral diarrhea viruses (BVDV) are designated as types 1 and 2. Type 1 BVDV can be further subdivided into types 1a and 1b. Although the differences between types 1 and 2 are based on the viral genome, there are also antigenic differences. Veterinarians routinely use serology as a tool to diagnose BVDV infections, but it is unclear if serologic testing for antibody against a type-1 BVDV will reliably detect cattle exposed to a type-2 BVDV. In 1999 in Ontario, 50% of BVDV isolated from diagnostic samples were type-2 BVDV (1). This study was undertaken to evaluate serologic response to a type-1 and a type-2 BVDV following natural exposure in dairy heifers.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5275</dc:identifier>
+	<dc:identifier>10.21423/aabppro20015275</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2001; 203</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5275/5144</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

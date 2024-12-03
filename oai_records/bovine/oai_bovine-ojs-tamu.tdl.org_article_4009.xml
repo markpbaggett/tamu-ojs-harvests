@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4009</identifier>
+				<datestamp>2020-02-06T08:49:22Z</datestamp>
+				<setSpec>aabp:VetTech</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Putting it All Together: Udder Health Programs in Private Practice</dc:title>
+	<dc:creator xml:lang="en">Moslock-Carter, Brenda</dc:creator>
+	<dc:subject xml:lang="en">veterinary technicians</dc:subject>
+	<dc:subject xml:lang="en">udder health</dc:subject>
+	<dc:subject xml:lang="en">microbiological testing</dc:subject>
+	<dc:subject xml:lang="en">teat-end</dc:subject>
+	<dc:subject xml:lang="en">data management</dc:subject>
+	<dc:description xml:lang="en">Veterinary technicians (LVTs) can play a large role in the implementation of successful udder health programs in private practice. In addition to performing microbiological testing, LVTs can gather on-farm data necessary to evaluate and/or monitor key factors that influence udder health, such as teat-end scoring, hygiene scoring, and parlor performance (i.e. prep routine, timing, and equipment function). Recent software developments have made it possible to seamlessly export culture results directly into DairyComp305®, enhancing the ability to monitor pathogens at both the individual cow and herd levels.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2011-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4009</dc:identifier>
+	<dc:identifier>10.21423/aabppro20114009</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2011; 129-130</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4009/3936</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2011 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

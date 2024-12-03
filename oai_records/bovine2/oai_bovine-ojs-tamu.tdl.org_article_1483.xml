@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1483</identifier>
+				<datestamp>2021-08-30T18:30:53Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Johne's Disease Update</dc:title>
+	<dc:creator xml:lang="en">Step, D. L.</dc:creator>
+	<dc:creator xml:lang="en">Streeter, Robert N.</dc:creator>
+	<dc:creator xml:lang="en">Kirkpatrick, John G.</dc:creator>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">disease control</dc:subject>
+	<dc:subject xml:lang="en">reviews</dc:subject>
+	<dc:subject xml:lang="en">zoonoses</dc:subject>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">Johne's disease</dc:subject>
+	<dc:description xml:lang="en">Mycobacterium paratuberculosis causes a granulomatous enteritis in cattle that is commonly known as Johne's Disease or paratuberculosis. Young calves acquire the infection in utero or within the first few months of age by the fecal-oral route. Available diagnostic tests have limitations, but when used with appropriate management practices, a control/eradication program can be designed to meet the needs of the producer. Control programs are aimed at minimizing or eliminating exposure to the organism. There is no curative treatment for paratuberculosis.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-08-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1483</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol34no1p6-12</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 34, No. 1 (2000 January); 6-12</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1483/1476</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

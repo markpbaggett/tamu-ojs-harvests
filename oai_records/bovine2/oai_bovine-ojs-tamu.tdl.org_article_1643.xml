@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1643</identifier>
+				<datestamp>2021-08-30T18:47:17Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Half-life for maternally derived immunoglobulin G anti-viral antibodies in data from an observational field study</dc:title>
+	<dc:creator xml:lang="en">Mechor, G. D.</dc:creator>
+	<dc:creator xml:lang="en">Virtala, A.-M.K.</dc:creator>
+	<dc:creator xml:lang="en">Dubovi, E. J.</dc:creator>
+	<dc:creator xml:lang="en">Grohn, Y.T.</dc:creator>
+	<dc:subject xml:lang="en">calves</dc:subject>
+	<dc:subject xml:lang="en">half life</dc:subject>
+	<dc:subject xml:lang="en">humoral immunity</dc:subject>
+	<dc:subject xml:lang="en">IgG</dc:subject>
+	<dc:subject xml:lang="en">maternal antibodies</dc:subject>
+	<dc:subject xml:lang="en">mucosal disease</dc:subject>
+	<dc:subject xml:lang="en">neutralizing antibodies</dc:subject>
+	<dc:subject xml:lang="en">rhinotracheitis</dc:subject>
+	<dc:subject xml:lang="en">cohort studies</dc:subject>
+	<dc:description xml:lang="en">Using data for 161 calves from a matched case control study nested in an observational prospective cohort study, the half-life of virus-specific maternal serum antibodies was estimated. Each calf had virus-neutralizing antibody titres measured against bovine viral diarrhoea virus (BVDV), infectious bovine rhinotracheitis, parainfluenza 3, and bovine respiratory syncytial viruses determined postcolostrally, and at one or two time points later in life (but before 100 days of age). In this calf population, few calves were infected with viruses, because only 16 virus isolations from 15 animals were obtained and the population showed declining titres for viruses. The half-life for virus-specific antibodies was estimated as 23 days or less (95% confidence interval [CI], 21 to 26 days). This corresponds to the half-life for IgG found in many other studies with different study designs. If the three calves persistently infected (PI) with BVDV and/or five suspected-BVDV-PI-calves were excluded, the estimated half-life did not change. If samples from calves &amp;gt;30 days of age were excluded from the analysis, the half-life was determined to be 12 days (95% CI, 10 to 17 days).</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1643</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol35no2p131-136</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 35, No. 2 (2001 June); 131-136</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1643/7804</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

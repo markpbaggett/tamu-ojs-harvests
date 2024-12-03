@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/141</identifier>
+				<datestamp>2023-04-11T18:41:40Z</datestamp>
+				<setSpec>regsci:PC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Can Mass Spectrometry Analysis of In Vitro Digestion Products Improve the Assessment of Allergenic Potential of a Newly Expressed Protein?</dc:title>
+	<dc:creator xml:lang="en">Wang, Rong</dc:creator>
+	<dc:creator xml:lang="en">Houston, Norma</dc:creator>
+	<dc:creator xml:lang="en">Cheever, Matthew L.</dc:creator>
+	<dc:creator xml:lang="en">Geng, Tao</dc:creator>
+	<dc:creator xml:lang="en">Gillikin , Nancy</dc:creator>
+	<dc:creator xml:lang="en">McDonald, Justin</dc:creator>
+	<dc:creator xml:lang="en">Serrano, Hector</dc:creator>
+	<dc:creator xml:lang="en">Shippar, Jeffrey</dc:creator>
+	<dc:creator xml:lang="en">Tetteh, Afua</dc:creator>
+	<dc:creator xml:lang="en">Wang, Yanfei</dc:creator>
+	<dc:creator xml:lang="en">Liu, Lucy</dc:creator>
+	<dc:subject xml:lang="en">genetically modified crops</dc:subject>
+	<dc:subject xml:lang="en">allergenicity assessment</dc:subject>
+	<dc:subject xml:lang="en">in vitro digestion</dc:subject>
+	<dc:subject xml:lang="en">mass spectrometry</dc:subject>
+	<dc:subject xml:lang="en">genetically modified crops</dc:subject>
+	<dc:description xml:lang="en">The rigorous safety assessment conducted on genetically modified crops includes an evaluation of allergenic potential for an associated newly expressed protein (NEP). Since no single method is recognized as a predictor for protein allergenicity, a weight of evidence approach (WOE) has been adopted. In vitro digestion is a part of the WOE approach and is used to evaluate the susceptibility of a NEP to digestion by gastrointestinal proteases. In 2017, the European Food Safety Authority outlined additional digestion conditions and suggested liquid chromatography tandem mass spectrometry (LC-MS/MS) as an analytical method to detect small post-digestion peptides. This technical review paper focuses on the question of whether LC-MS/MS can aid in assessing allergenic potential of in vitro digestion products generated under the newly proposed conditions. After an extensive review, it was determined that LC-MS/MS can detect very small digestion products. However, the method cannot provide relevant information to differentiate whether these products are allergenic or non-allergenic. Therefore, the use of LC-MS/MS for a standard in vitro digestibility assessment provides no improvement in allergenicity prediction.
+doi: 10.21423/jrs-v09i1wang</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2021-01-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/141</dc:identifier>
+	<dc:identifier>10.21423/JRS-V09I1WANG</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 9 No. 1 (2021): Special Issue on Genetically Modified Organisms; 76-83</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/141/218</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 Rong Wang, Norma Houston, Matthew L. Cheever, Tao Geng, Nancy Gillikin , Justin McDonald, Hector Serrano, Jeffrey Shippar, Afua Tetteh, Yanfei Wang, Lucy Liu</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

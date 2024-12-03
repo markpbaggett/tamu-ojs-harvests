@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8687</identifier>
+				<datestamp>2023-07-18T01:21:17Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Better than the human eye – machine learning models to objectively analyze bovine embryo quality</dc:title>
+	<dc:creator xml:lang="en">Wells, C. E.</dc:creator>
+	<dc:creator xml:lang="en">Killingsworth, R.</dc:creator>
+	<dc:description xml:lang="en">Machine learning (ML) is a type of artificial intelligence that al­lows software applications to become more accurate at predict­ing outcomes without being explicitly programmed. ML models use millions of parameters to detect patterns and generate al­gorithms which can provide image analysis and predictive out­put superior to the human eye. ML models offer value to many biological applications, including the evaluation and selection of bovine embryos in conventional embryo transfer (ET) and in vitro fertilization (IVF). The objective of this study was to train ML models to evaluate bovine embryo viability and test their prediction accuracy against known pregnancy outcomes.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2023-07-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8687</dc:identifier>
+	<dc:identifier>10.21423/aabppro20228687</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; No. 55 (2022): 2022 Annual Conference Proceedings; 214</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8687/8440</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

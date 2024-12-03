@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3829</identifier>
+				<datestamp>2020-02-06T08:43:46Z</datestamp>
+				<setSpec>aabp:RS2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Impact of uncertainty in foot and mouth disease indirect transmission probability on outbreak duration and number of herds depopulated</dc:title>
+	<dc:creator xml:lang="en">McReynolds, S. W.</dc:creator>
+	<dc:creator xml:lang="en">Sanderson, M. W.</dc:creator>
+	<dc:subject xml:lang="en">foot and mouth</dc:subject>
+	<dc:subject xml:lang="en">FMD</dc:subject>
+	<dc:subject xml:lang="en">biosecurity</dc:subject>
+	<dc:subject xml:lang="en">disease model</dc:subject>
+	<dc:subject xml:lang="en">epidemiology</dc:subject>
+	<dc:subject xml:lang="en">stochastic</dc:subject>
+	<dc:description xml:lang="en">The central United States (US) has a large livestock population including cattle, swine, sheep, and goats that are susceptible to foot and mouth disease (FMD). Because FMD is a highly infective foreign animal disease, the only method to assess the impact of an introduction and the effectiveness of control programs is via modeling. We developed simulation scenarios to assess the impact of the introduction of FMD in the central US and the effect of vaccination strategies and variation in biosecurity on FMD outbreaks using the North American Animal Disease Spread Model (NAADSM), a spatially explicit, stochastic infectious disease model.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2013-09-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3829</dc:identifier>
+	<dc:identifier>10.21423/aabppro20133829</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2013; 167</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3829/3767</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2013 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

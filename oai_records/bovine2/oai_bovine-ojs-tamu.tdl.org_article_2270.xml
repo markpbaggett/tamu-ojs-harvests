@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2270</identifier>
+				<datestamp>2021-08-28T01:41:29Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Salorn: a new breed of cattle</dc:title>
+	<dc:creator xml:lang="en">American Association of Bovine Practitioners, </dc:creator>
+	<dc:subject xml:lang="en">new breed</dc:subject>
+	<dc:subject xml:lang="en">longhorn</dc:subject>
+	<dc:subject xml:lang="en">french salers</dc:subject>
+	<dc:subject xml:lang="en">beef cattle</dc:subject>
+	<dc:description xml:lang="en">Salorn, a new breed of lean beef cattle, is under development in the United States. The Salorn is comprised of 5/8 French Salers and 3/8 Texas Longhorn blood. This combination of genetics utilizes the most historically adapted breed of cattle in America-the Texas Longhorn-with the Salers, which is claimed to be the most proven carcass quality breed.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1989-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2270</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol0no24p165-166</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 24 (1989 November); 165-166</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2270/2262</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1989 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

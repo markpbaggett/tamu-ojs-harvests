@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/58</identifier>
+				<datestamp>2022-06-28T19:04:55Z</datestamp>
+				<setSpec>aavptbiennial:S2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Equine UDP Glucuronosyltransferase 1A1, 2A1, 2B4, 2B31: cDNA cloning, expression, and initial characterization</dc:title>
+	<dc:creator xml:lang="en">Hamamoto-Hardman, Briana D.</dc:creator>
+	<dc:creator xml:lang="en">Baden, Russell W.</dc:creator>
+	<dc:creator xml:lang="en">McKemie, Daniel S.</dc:creator>
+	<dc:creator xml:lang="en">Knych, Heather K.</dc:creator>
+	<dc:subject xml:lang="en">horse</dc:subject>
+	<dc:subject xml:lang="en">UGT</dc:subject>
+	<dc:subject xml:lang="en">morphine</dc:subject>
+	<dc:subject xml:lang="en">metabolism</dc:subject>
+	<dc:description xml:lang="en">Horses efficiently and extensively glucuronidate a number of xenobiotics making uridine diphospho-glucuronosyltransferases (UGTs) an important group of drug metabolizing enzymes for the clearance of drugs in this species. UGTs are membrane bound enzymes that catalyze the conjugation of glucuronic acid onto a diverse set of xenobiotics. The use of recombinant enzymes has allowed researchers to characterize the metabolism of a variety of drugs. The goal of the current study was to clone, express and characterize equine UGTs using morphine as a substrate.&amp;nbsp; Four UGT variants were selected from the NCBI equine genome database based on homology to the human UGT2B7, the well characterized enzyme responsible for metabolizing morphine in humans. cDNA sequences were cloned and resulting protein expressed in a baculovirus expression system. Functionality of the enzymes was assessed using the commonly glucuronidated substrate 4-methylumbelliferone (4-MU). Each recombinant enzyme, non-expressed control cells, equine liver microsomes and commercial human recombinant UGT2B7 were then incubated with morphine and concentrations of metabolite measured using LC-MS/MS. Based on homology to the human UGT2B7, four equine UGT variants were expressed: UGT1A1, UGT2A1, UGT2B31, and UGT2B4. Of these variants, UGT2B31 metabolized morphine into significant amounts of morphine-3 glucuronide and trace amounts of morphine-6 glucuronide. To the authors’ knowledge, this is the first successful expression of functional recombinant equine UGTs. These results warrant further investigation into UGT2B31 as a contributor to morphine metabolism and investigation into potential polymorphisms that may contribute to the variation in morphine metabolism in vivo.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2019-08-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/58</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 21st Biennial Symposium; 39</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/58/53</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3462</identifier>
+				<datestamp>2021-02-05T02:48:51Z</datestamp>
+				<setSpec>aabp:RS2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The use of day level feeding behaviors to detect illness in group housed automatically fed pre-weaned dairy calves</dc:title>
+	<dc:creator xml:lang="en">Knauer, Whitney A.</dc:creator>
+	<dc:creator xml:lang="en">Godden, Sandra</dc:creator>
+	<dc:creator xml:lang="en">James, Robert</dc:creator>
+	<dc:creator xml:lang="en">Dietrich, Alyssa</dc:creator>
+	<dc:subject xml:lang="en">dairy calves</dc:subject>
+	<dc:subject xml:lang="en">Group housing</dc:subject>
+	<dc:subject xml:lang="en">automatic feeding</dc:subject>
+	<dc:subject xml:lang="en">Software</dc:subject>
+	<dc:subject xml:lang="en">feeding behavior</dc:subject>
+	<dc:subject xml:lang="en">detection</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:description xml:lang="en">Group housing and automatic feeding of dairy calves is gaining in popularity among dairy producers, yet disease detection remains a significant challenge of this management system. Software programs currently aim to assist in the detection of sick calves through such methods as flagging calves when there has been a 25% reduction in milk intake or in drinking speed as compared to a 3-day average. However, research suggests that using simple deviations in daily averages may not be useful, as calves have been shown to change behaviors only on the day of illness detection. The greater aim of our research program is to determine if we can use different approaches to examine feeding behavior that may improve the sensitivity and timeliness of detecting sick calves. The objective of the current study is to identify which feeding behaviors are most different between matched pairs of healthy and sick calves, and to determine if these changes differ by disease diagnosis.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2016-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3462</dc:identifier>
+	<dc:identifier>10.21423/aabppro20163462</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2016; 150</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3462/3412</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2016 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

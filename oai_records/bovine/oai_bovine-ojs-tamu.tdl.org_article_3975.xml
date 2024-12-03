@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3975</identifier>
+				<datestamp>2020-02-06T08:45:14Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Graphical applications of lactation model residuals for monitoring health in dairy cattle</dc:title>
+	<dc:creator xml:lang="en">Ehrlich, J. L.</dc:creator>
+	<dc:subject xml:lang="en">lactation curves</dc:subject>
+	<dc:subject xml:lang="en">data points</dc:subject>
+	<dc:subject xml:lang="en">individual lactations</dc:subject>
+	<dc:subject xml:lang="en">aggregated residuals</dc:subject>
+	<dc:subject xml:lang="en">group composition</dc:subject>
+	<dc:description xml:lang="en">The lactation curves which results from fitting observed data points from individual lactations to the MilkBot® lactation model represent estimates of what milk production would be in the absence of all factors that cause short-term changes in production. This means that aggregated residuals, the differences between observed milk and model predictions, measure the result of short-term changes that are common to the group (such as feeding, health, and environment), while filtering out the effect of lactation stage and changes in group composition. In the context of a large data set covering thousands of herds over several years, residuals would be expected to show mainly the effect of season on lactation. In the context of an individual herd, patterns in residuals (less the component attributable to season), show the effect of herd management and local environment. For an individual lactation, patterns in residuals may reflect health events.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2012-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3975</dc:identifier>
+	<dc:identifier>10.21423/aabppro20123975</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2012; 268</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3975/3903</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2012 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

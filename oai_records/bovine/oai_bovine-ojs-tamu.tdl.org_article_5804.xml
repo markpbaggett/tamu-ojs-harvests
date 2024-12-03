@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5804</identifier>
+				<datestamp>2020-04-03T07:26:19Z</datestamp>
+				<setSpec>aabp:Abs</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Simulated airborne spread of Aujeszky's disease and foot-and-mouth disease</dc:title>
+	<dc:creator xml:lang="en">Casal, J.</dc:creator>
+	<dc:creator xml:lang="en">Moreso, J. M.</dc:creator>
+	<dc:creator xml:lang="en">Planas-Cuchí, E.</dc:creator>
+	<dc:creator xml:lang="en">Casal, J.</dc:creator>
+	<dc:subject xml:lang="en">virus spread</dc:subject>
+	<dc:subject xml:lang="en">foot-and-mouth</dc:subject>
+	<dc:subject xml:lang="en">Aujeszky's disease</dc:subject>
+	<dc:subject xml:lang="en">computer model</dc:subject>
+	<dc:subject xml:lang="en">atmospheric dispersion</dc:subject>
+	<dc:description xml:lang="en">The atmospheric dispersion of virus was simulated using a computer model which had been developed for predicting the dispersion of toxic gases from chemical engineering plants. The results were compared with data from four outbreaks in which virus was believed to have been transported by air: two outbreaks of foot-and-mouth disease in the United Kingdom in 1967 and outbreaks of Aujeszky's disease in Yorkshire in 1981 to 1982 and Indiana in 1988. There was relatively good agreement with most of these data. The paper shows that the model could be useful in an emergency because the risk of virus spread could be predicted in real time.
+Full paper published in Veterinary Record (1997) 140, 672-676</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1997-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5804</dc:identifier>
+	<dc:identifier>10.21423/aabppro19975804</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1997; 4</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5804/5631</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1997 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

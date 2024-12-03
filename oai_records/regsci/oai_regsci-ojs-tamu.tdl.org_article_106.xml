@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/106</identifier>
+				<datestamp>2023-04-11T02:14:52Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Best Practices for the Use of Portable X-Ray Fluorescence Analyzers to Screen for Toxic Elements in FDA-Regulated Products</dc:title>
+	<dc:creator xml:lang="en">Palmer, Peter T.</dc:creator>
+	<dc:creator xml:lang="en">Jacobs, Richard M.</dc:creator>
+	<dc:creator xml:lang="en">Yee, Sally</dc:creator>
+	<dc:creator xml:lang="en">Li, Tao</dc:creator>
+	<dc:creator xml:lang="en">Reed, Christopher</dc:creator>
+	<dc:creator xml:lang="en">Nebenzahl, Deborah</dc:creator>
+	<dc:creator xml:lang="en">Liu, Anita</dc:creator>
+	<dc:creator xml:lang="en">Chu, Gordon</dc:creator>
+	<dc:creator xml:lang="en">MacCorkell, Elizabeth</dc:creator>
+	<dc:creator xml:lang="en">Duong, Tracey</dc:creator>
+	<dc:creator xml:lang="en">Sawyer, Travell</dc:creator>
+	<dc:creator xml:lang="en">Douglas, Michele</dc:creator>
+	<dc:subject xml:lang="en">X-Ray Fluorescence</dc:subject>
+	<dc:subject xml:lang="en">screening</dc:subject>
+	<dc:subject xml:lang="en">mercury</dc:subject>
+	<dc:subject xml:lang="en">arsenic</dc:subject>
+	<dc:subject xml:lang="en">lead</dc:subject>
+	<dc:subject xml:lang="en">selenium</dc:subject>
+	<dc:subject xml:lang="en">Toxic elements</dc:subject>
+	<dc:subject xml:lang="en">field screening</dc:subject>
+	<dc:description xml:lang="en">Globalization of trade has made it easy for consumers to purchase products from all over the world. A small fraction of these products contain toxic elements that may pose a health risk to consumers, and there is a clear need for small, portable, and fast methods to rapidly screen these products. Portable X-Ray Fluorescence (XRF) analyzers are the ideal tool for this application, as they involve minimal sample preparation and analysis times of a minute or less. XRF is also well suited for elemental analysis of products that are resistant to traditional hydrochloric/nitric acid digestions such as cosmetics and dietary supplements, and can prevent contamination of expensive Inductively Coupled Plasma Mass Spectrometry (ICP-MS) instruments used for ultra-trace level analyses. Moreover, XRF can be used to monitor most of the elements in the periodic table, with detection limits as low as 1-10 ppm for some elements. This article describes an U.S. Food and Drug Administration (FDA) field study to screen for consumer products containing toxic elements at an International Mail Facility (IMF). After brief training and hands-on activities using real-world samples, two three-person teams using two portable XRF systems analyzed 183 different products over a seven-hour time period, and found 10 that contained significant levels of mercury (Hg), lead (Pb), arsenic (As), and/or selenium (Se), potentially in violation of FDA’s requirements. The goal of this article is to provide guidelines and recommendations for safe, reliable, and efficient use of XRF to screen for toxic elements in FDA-regulated products.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2019-07-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/106</dc:identifier>
+	<dc:identifier>10.21423/JRS-V07PALMER</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol 7 (2019); 1-11</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/106/114</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Journal of Regulatory Science</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

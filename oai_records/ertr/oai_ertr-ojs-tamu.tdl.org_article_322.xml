@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/322</identifier>
+				<datestamp>2019-01-30T10:46:44Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UbiRS4Tourism: Design and Development of Point-of-Interest Recommender Systems Made Easy</dc:title>
+	<dc:creator xml:lang="en">Mettouris, Christos</dc:creator>
+	<dc:creator xml:lang="en">Papadopoulos, George A.</dc:creator>
+	<dc:subject xml:lang="en">point of interest recommendations</dc:subject>
+	<dc:subject xml:lang="en">intelligent recommendations for tourism</dc:subject>
+	<dc:subject xml:lang="en">UbiCARS</dc:subject>
+	<dc:subject xml:lang="en">modelling</dc:subject>
+	<dc:description xml:lang="en">Point-of-Interest (POI) recommender systems recommend POIs to users based on their preferences. POI recommender systems can be utilized in a variety of mobile and web applications for tourism, touristic websites, travel agency systems, etc., aiming not only to increase customer satisfaction and improve user experience while interacting with these applications but to eventually increase business revenue as well. In this respect, tourism businesses can directly benefit from developing and deploying recommender systems in their platforms. However, developing effective recommender systems by non-recommender system experts, such as Tourism practitioners and web developers, is not an easy task due to the complexity of building data models and selecting and configuring recommendation algorithms. In this paper, the “Ubiquitous Recommender Systems for Tourism” (UbiRS4Tourism) Model Driven Framework for the POI for tourism recommendation domain is proposed. The UbiRS4Tourism Framework utilizes a model driven methodology and defines a novel graphical Domain Specific Modelling Language, aiming to reduce the complexity and expedite the development of POI recommender systems for tourism by practitioners/developers with no expertise and background in recommender systems.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2019-01-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/322</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 16 No. 2/3 (2019)</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/322/95</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

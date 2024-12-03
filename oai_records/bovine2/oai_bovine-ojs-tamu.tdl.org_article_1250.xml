@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1250</identifier>
+				<datestamp>2021-08-28T01:02:54Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Treatment of bovine respiratory disease with erythromycin and amoxicillin</dc:title>
+	<dc:creator xml:lang="en">Morter, R. L.</dc:creator>
+	<dc:creator xml:lang="en">Boyce, J. R.</dc:creator>
+	<dc:creator xml:lang="en">Amstutz, H. E.</dc:creator>
+	<dc:subject xml:lang="en">antibiotics</dc:subject>
+	<dc:subject xml:lang="en">Bacterial diseases</dc:subject>
+	<dc:subject xml:lang="en">Beef cattle</dc:subject>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">drug therapy</dc:subject>
+	<dc:subject xml:lang="en">Erythromycin</dc:subject>
+	<dc:subject xml:lang="en">respiratory diseases</dc:subject>
+	<dc:subject xml:lang="en">beta-lactam antibiotics</dc:subject>
+	<dc:description xml:lang="en">The antibiotic used first in beef cattle with respiratory disease (attributable to Pasteurella haemolytica) was erythromycin. The cure rate fell from 60% in 1984 to 53% in 1985. Cases which failed to respond were next treated with amoxicillin, giving combined cure rates of 82% in 1984 and 87.5% in 1985. Spectinomycin was the third antibiotic used, if needed. The sensitivity of P. haemolytica to these antibiotics was discussed.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1986-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1250</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol0no21p62-64</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 21 (1986 November); 62-64</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1250/1241</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1986 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

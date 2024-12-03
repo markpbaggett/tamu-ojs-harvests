@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1602</identifier>
+				<datestamp>2021-08-28T02:45:59Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Pooled faecal samples compared with individual samples for detection of Salmonella in cattle</dc:title>
+	<dc:creator xml:lang="en">Kivela, Sirkka-Liisa</dc:creator>
+	<dc:creator xml:lang="en">Ruoho, Olli</dc:creator>
+	<dc:creator xml:lang="en">Seun, Eija</dc:creator>
+	<dc:creator xml:lang="en">Hintikka, Eeva-Liisa</dc:creator>
+	<dc:subject xml:lang="en">bacterial diseases</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">faeces</dc:subject>
+	<dc:description xml:lang="en">The modified ISO 6579:1993 method was used to examine in parallel the presence of Salmonella in 4579 individual faecal samples and 210 pooled samples from 130 herds of cattle. 25 clinically or subclinically S. infantis-infected herds were detected. Positive herds were examined once a month for 7 months. 112 pooled samples and individual samples, respectively, were negative. 88 pooled samples were Salmonella-positive. Ten negative pooled samples contained faeces from animals which were found to be Salmonella-positive in individual sampling. Nine of these false negative pooled samples contained faeces from more than 20 animals and all contained relatively few Salmonella-positive animals. These results indicated that Salmonella was reliably detected in pooled faecal samples of a maximum of 20 animals (Kappa test 0.98).</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1999-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1602</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol33no1p74-75</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 33, No. 1 (1999 January); 74-75</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1602/1595</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1999 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

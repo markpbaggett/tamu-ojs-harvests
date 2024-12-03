@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4907</identifier>
+				<datestamp>2020-03-21T07:16:17Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Epidemiologic Approaches for Measuring and Understanding Abortion in Dairy Cows</dc:title>
+	<dc:creator xml:lang="en">Thurmond, Mark C.</dc:creator>
+	<dc:subject xml:lang="en">abortion risk</dc:subject>
+	<dc:subject xml:lang="en">statistical modeling</dc:subject>
+	<dc:subject xml:lang="en">reproductive feature</dc:subject>
+	<dc:subject xml:lang="en">previous abortion</dc:subject>
+	<dc:subject xml:lang="en">dam gravidity</dc:subject>
+	<dc:subject xml:lang="en">herd-based diagnosis</dc:subject>
+	<dc:subject xml:lang="en">putative abortifacient agents</dc:subject>
+	<dc:description xml:lang="en">This paper offers methods for measuring abortion risk and undertaking abortion diagnostic investigations. In addition, some of the associations found between demographic and reproductive features of the dam and subsequent abortion are described. The cohort life table method is used to compute risk of fetal loss (abortion) for pre-defined time intervals (eg. days or weeks) during the gestation period, as well as overall proportion of cows that abort. In contrast, the abortion density method calculates abortion risk for a defined calendar time (eg. per month) as the number of abortions per cowdays- at risk. Both methods are standardized to account for the changing number of cows at risk of abortion, as a result of culling, death, abortion, and calving. Thus, both methods will produce higher and more realistic estimates for abortion risk than are typically calculated. These measures and statistical modeling have been used to estimate the expected magnitude of abortion for dairies (ranging from 8% to 19%) and to identify associations between demographic or reproductive features of the dam and subsequent risk of abortion. Some factors discussed are effects of a previous abortion, dam gravidity and age, days open at time of conception, and season. Analytic methods also are presented for herd-based diagnosis of abortion related to infectious agents or other exposures. These methods permit estimates of the risk, or proportion, of abortions attributable to exposure to an infectious agent or to other putative abortifacient agents.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2004-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4907</dc:identifier>
+	<dc:identifier>10.21423/aabppro20044907</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2004; 83-89</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4907/4798</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2004 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

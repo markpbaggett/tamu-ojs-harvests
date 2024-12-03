@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/472</identifier>
+				<datestamp>2019-10-15T14:40:19Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Gap Analysis of the Service Area of West Virginia’s Trail Network</dc:title>
+	<dc:creator xml:lang="en">Kearns, Matt</dc:creator>
+	<dc:creator xml:lang="en">Deng, Jinyang</dc:creator>
+	<dc:subject xml:lang="en">Trail</dc:subject>
+	<dc:subject xml:lang="en">Gap analysis</dc:subject>
+	<dc:subject xml:lang="en">GIS</dc:subject>
+	<dc:subject xml:lang="en">West Virginia</dc:subject>
+	<dc:description xml:lang="en">Good trail infrastructure supports the physical and economic health of communities. However, trails – and access to their benefits – are not always evenly distributed. Ensuring equitable access to infrastructure like trails, and the corresponding positive health and economic outcomes, is part of the growing consciousness of environmental justice and recreationally “underserved” communities. In view of this, this study examines the service area of West Virginia’s trail network (both existing and proposed) using the ArcGIS Network Analyst tool. Results show that with a 10-mile service area, the proposed trails of 2,577 miles (or 65% increase in trail mileage) only increase the geographical extent of the service area by 8% and the demographic extent of the service area by 5%, reinforcing the existing regional trail disparities. This study helps recreation planners prioritize projects/resources and identify gaps.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2019-10-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/472</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 17 No. 1 (2019)</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/472/136</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

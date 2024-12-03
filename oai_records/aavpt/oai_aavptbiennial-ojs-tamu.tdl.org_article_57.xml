@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/57</identifier>
+				<datestamp>2022-06-28T19:02:27Z</datestamp>
+				<setSpec>aavptbiennial:S2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Metabolism, pharmacokinetics and selected pharmacodynamic effects of codeine following a single oral administration to horses</dc:title>
+	<dc:creator xml:lang="en">Gretler, Sophie R.</dc:creator>
+	<dc:creator xml:lang="en">McKemie, Daniel S.</dc:creator>
+	<dc:creator xml:lang="en">Knych, Heather K.</dc:creator>
+	<dc:subject xml:lang="en">horse</dc:subject>
+	<dc:subject xml:lang="en">metabolism</dc:subject>
+	<dc:subject xml:lang="en">codeine</dc:subject>
+	<dc:subject xml:lang="en">pharmacokinetics</dc:subject>
+	<dc:subject xml:lang="en">pharmacodynamics</dc:subject>
+	<dc:description xml:lang="en">In humans, codeine is a commonly prescribed analgesic that produces its therapeutic effect largely through metabolism to morphine.&amp;nbsp; In some species, analgesic effects of morphine have also been attributed to the M6G metabolite. Although an effective analgesic, administration of morphine to horses produces dose-dependent neuroexcitation at therapeutic doses.&amp;nbsp; To date, there have been no studies describing the metabolism, pharmacokinetics or analgesic efficacy of codeine in horses. Our laboratory has hypothesized that codeine administration will provide effective analgesia with decreased adverse excitatory effects due to slower biotransformation to morphine and production of morphine-6-glucuronide. In the current study, we take the first step in testing this hypothesis by describing the metabolism, including presumed conversion to morphine and M6G, pharmacokinetics and select pharmacodynamic parameters of codeine following a single oral administration to horses. To that end, 12 horses received a dose of 0.6 mg/kg codeine. Blood was collected before administration and at various time points until 120 h post administration. Plasma samples were analyzed for codeine and its metabolites by liquid chromatography-mass spectrometry. The subsequent data was evaluated using a two-compartment population model. Pharmacodynamic data was collected prior to and until 4h post administration. Codeine was rapidly converted to morphine and both M3G and M6G, with M6G concentrations equivalent to previous reports following high dose morphine administration.&amp;nbsp; Codeine concentrations were below the LOQ for all twelve horses by 18h. The Cmax, Tmax, and elimination t1/2 for codeine were 209.8 ng/mL, 0.31h, and 0.50h respectively. No significant adverse or excitatory effects were observed.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2019-08-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/57</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 21st Biennial Symposium; 38</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/57/52</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

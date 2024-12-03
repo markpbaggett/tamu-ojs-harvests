@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7303</identifier>
+				<datestamp>2021-02-01T23:43:04Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Investigating the dynamics of Johne’s Disease on Ontario dairy farms</dc:title>
+	<dc:creator xml:lang="en">Imada, Jamie</dc:creator>
+	<dc:creator xml:lang="en">Kelton, David</dc:creator>
+	<dc:creator xml:lang="en">Roche, Steven</dc:creator>
+	<dc:creator xml:lang="en">Bauman, Cathy</dc:creator>
+	<dc:subject xml:lang="en">Johne’s disease</dc:subject>
+	<dc:subject xml:lang="en">control program</dc:subject>
+	<dc:subject xml:lang="en">risk assessment surveys</dc:subject>
+	<dc:subject xml:lang="en">bulk tank milk testing</dc:subject>
+	<dc:description xml:lang="en">Johne’s disease (JD) is an untreatable disease of ruminants caused by Mycobacterium avium subspecies paratuberculosis. The long latent period and variable manifestation in clinical presentation poses some significant challenges in its detection and control on farms. JD results in economic losses from early culling and production loss due to chronic enteric disease. In January 2010, Ontario began a voluntary control program called the Johne’s Education and Management Assistance program. The program consisted of an on-farm risk assessment survey and whole herd testing by either milk or serum ELISA with subsequent permanent removal of any high titre cow. The purpose of the risk assessment surveys or RAMPs (Risk assessment and management plans) were to identify areas on farm that would result in increased risk of acquiring or transmitting JD. After completing the RAMP, the farm would be given a score out of 300; a higher score correlating with a higher risk of JD. The veterinarian would then make a maximum of three recommendations for improvement of facilities or management for JD control. Based on data collected from over 2,000 dairy farms in Ontario from 2010 to 2013, using individual animal ELISA testing of milk or serum, approximately 26% of farms had at least one test positive animal. Through testing of bulk tank (BT) milk from all Ontario farms in 2013, roughly 50% of farms had a positive bulk tank test for Johne’s. There are numerous barriers to the efficacy of extension programs targeting JD control, and the benefit of risk assessment-based programs for a disease such as Johne’s remains unclear. The objectives of the study are to 1) assess changes in herd-level prevalence of JD 2) to describe associations between RAMP score and herd bulk tank test changes.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7303</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197303</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 401</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7303/6030</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

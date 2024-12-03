@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/15</identifier>
+				<datestamp>2022-06-25T02:39:21Z</datestamp>
+				<setSpec>aavptbiennial:S3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">POPULATION PHARMACOKINETIC MODELING OF THE GLOMERULAR FILTRATION RATE IN GROWING PIGLETS USING IOHEXOL</dc:title>
+	<dc:creator xml:lang="en">Gasthuys, Elke</dc:creator>
+	<dc:creator xml:lang="en">Millecam, Joske</dc:creator>
+	<dc:creator xml:lang="en">Croubels, Siska</dc:creator>
+	<dc:creator xml:lang="en">Gehring, Ronette</dc:creator>
+	<dc:creator xml:lang="en">Devreese, Mathias</dc:creator>
+	<dc:subject xml:lang="en">piglet</dc:subject>
+	<dc:subject xml:lang="en">glomerular filtration rate</dc:subject>
+	<dc:subject xml:lang="en">iohexol</dc:subject>
+	<dc:subject xml:lang="en">population pharmacokinetic modeling</dc:subject>
+	<dc:subject xml:lang="en">animal model</dc:subject>
+	<dc:description xml:lang="en">Development of appropriate animal models that take growth and maturation into account is pivotal for pediatric preclinical pharmacokinetic (PK) research. To determine if the pig (Landrace x Large White) is such a potential animal model, the ontogeny of the different elimination processes need to be unraveled. In this study, the glomerular filtration rate (GFR) was determined and correlated with GFR data obtained in humans [1]. Iohexol (Omnipaque®, 64.7 mg/kg BW) was administered to piglets of four different age categories (8 days and 7 weeks: 16♂/group, 4 weeks and 6 months: 8♂/group [2]). Plasma concentrations were determined using a validated HPLC-UV method. Nonlinear mixed-effects modeling was conducted using Phoenix NLME® to determine the GFR based on iohexol clearance. The iohexol data were best described using a two-compartmental model with first order elimination. Body surface area (BSA determined by CT scans analyzed with VGStudioMax®) was included as covariate on volume of distribution and total body clearance. The population estimate of the GFR was 74.89 mL/min/m². The GFR for the individual in the different age groups (mean ± SD) was 41.59±16.98, 64.74±10.87, 99.00±21.69, 121.24±20.97 mL/min/m² for the 8 days, 4/7 weeks and 6 months old piglets, respectively. Iohexol plasma concentration data is best described using a two-compartmental model in pigs, with BSA as covariate. The GFR values obtained in the current study were comparable to humans. Therefore, the pig could be a convenient juvenile animal model for studying the GFR in the pediatric subpopulation, and to evaluate the PK of renally excreted drugs.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2017-05-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/15</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 20th Biennial Symposium</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/15/13</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

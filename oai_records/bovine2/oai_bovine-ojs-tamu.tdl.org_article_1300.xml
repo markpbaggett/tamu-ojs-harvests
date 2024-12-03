@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1300</identifier>
+				<datestamp>2021-08-28T01:08:33Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Use of a food animal health resource management system for dairy herds</dc:title>
+	<dc:creator xml:lang="en">Mather, E. C.</dc:creator>
+	<dc:creator xml:lang="en">Bartlett, P. C.</dc:creator>
+	<dc:creator xml:lang="en">Gibson, C. D.</dc:creator>
+	<dc:creator xml:lang="en">Kaneene, J. B.</dc:creator>
+	<dc:creator xml:lang="en">Kirk, J. H.</dc:creator>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">disease control</dc:subject>
+	<dc:subject xml:lang="en">economics</dc:subject>
+	<dc:description xml:lang="en">The objectives of this paper are to describe a farm record system used on a sample of Michigan dairy farms and to report on the incentive mechanism used to maintain the farmers interest in data collection from 1981-1985 while the program was developed. Associated with the above objectives, an animal health management system (FAHRMX) was developed to collect and utilize data on production, animal management, health, and economics. The system was designed to serve multi-veterinarian practices and their clients, and also for other agri-business support systems. Dairymen provided events data on a daily basis and veterinarians provided data on services to their clients as it occurred. DHIA production data were added at monthly intervals and epidemiologic data were added annually to the data base. A computer system was developed which represented a hierarchical-distributive network which placed processing capabilities, data storage, and retrieval functions at the appropriate level such that it supplied decision makers information on a cost-effective manner. Management aids and reports were generated for use by the veterinarian and dairyman upon demand, but were most often requested weekly. Herd health reports were generated monthly and contained management, health, and reproductive indicies. The evaluation of 2847 lactations and 21 herds revealed an average occurrence of 1.8 services per conception, 117 days open and a lactational disease incidence rate of 17.5% for reproductive tract infections, 15.1% for clinical mastitis, 12.5% for cystic ovaries, and 7.5% for retained placenta. Most striking was herd-to-herd variation in disease incidence. The value of the information to the user contributed to the quality of data input and was a motivation to the participants to maintain the program during its development.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1987-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1300</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol0no22p23-25</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 22 (1987 November); 23-25</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1300/1294</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1987 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

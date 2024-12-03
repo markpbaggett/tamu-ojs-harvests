@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/13</identifier>
+				<datestamp>2022-06-25T02:36:21Z</datestamp>
+				<setSpec>aavptbiennial:S3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Population pharmacokinetics opens new perspectives for pharmacokinetic studies in small and exotic avian species: the case of celecoxib, mavacoxib and meloxicam in cockatiels (Nymphicus hollandicus)</dc:title>
+	<dc:creator xml:lang="en">Dhondt, Laura</dc:creator>
+	<dc:creator xml:lang="en">Devreese, Mathias</dc:creator>
+	<dc:creator xml:lang="en">Croubels, Siska</dc:creator>
+	<dc:creator xml:lang="en">De Baere, Siegrid</dc:creator>
+	<dc:creator xml:lang="en">Haesendonck, Roel</dc:creator>
+	<dc:creator xml:lang="en">Goessens, Tess</dc:creator>
+	<dc:creator xml:lang="en">Gehring, Ronette</dc:creator>
+	<dc:creator xml:lang="en">De Backer, Patrick</dc:creator>
+	<dc:creator xml:lang="en">Antonissen, Gunther</dc:creator>
+	<dc:subject xml:lang="en">Celecoxib</dc:subject>
+	<dc:subject xml:lang="en">Cockatiel</dc:subject>
+	<dc:subject xml:lang="en">Mavacoxib</dc:subject>
+	<dc:subject xml:lang="en">Meloxicam</dc:subject>
+	<dc:subject xml:lang="en">Pharmacokinetics</dc:subject>
+	<dc:description xml:lang="en">In general, pharmacokinetic (PK) studies require structured sampling time schedules and frequent manipulation of the animals. These manipulations can cause a significant degree of distress. Sparse sampling in combination with nonlinear mixed effects (NLME) modeling gives the possibility to obtain robust estimates of PK parameters while minimizing distress and blood loss, which is of pivotal importance in small bird species. The objective is to describe the PK of selected NSAIDs in cockatiels using sparse plasma sampling and NLME modeling.PK parameters and absolute oral bioavailability expressed as percentage (F%) of celecoxib (10 mg/kg BW), mavacoxib (4 mg/kg BW) and meloxicam (1 mg/kg BW) were determined following single oral and intravenous administration to 90 cockatiels (Nymphicus hollandicus) in total. The drugs were quantified in plasma by liquid chromatography-tandem mass spectrometry. Data were processed using the NLME approach.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2017-05-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/13</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 20th Biennial Symposium</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/13/11</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

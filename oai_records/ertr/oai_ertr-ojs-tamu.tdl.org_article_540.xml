@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/540</identifier>
+				<datestamp>2019-12-20T19:08:39Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Automated Identification of Tourist Activities in Social Media Photographs: a Comparative Analysis Using Visual-based, Textual-based and Joint-based Methods</dc:title>
+	<dc:creator xml:lang="en">Ma, Shihan (David)</dc:creator>
+	<dc:creator xml:lang="en">Kirilenko, Andrei P.</dc:creator>
+	<dc:subject xml:lang="en">tourist activity</dc:subject>
+	<dc:subject xml:lang="en">image identification</dc:subject>
+	<dc:subject xml:lang="en">Instagram</dc:subject>
+	<dc:subject xml:lang="en">social media photography</dc:subject>
+	<dc:subject xml:lang="en">data fusion</dc:subject>
+	<dc:description xml:lang="en">The studies pertaining to image identification of tourist photographs are mainly dealing with objects/landscapes, while the activities of tourists interacting with these objects is not well researched. The eligible methods to identify in-depth activities are likewise greatly missing. In this paper, we first explore the feasibility of using different data approaches (visual and textual) to identify tourist activities in social media photos. We further develop a multimodal method combining both text-based and visual-based information. The performances of these methods are compared and validated by manual reviewing. The findings confirm that data fusing methodology is improving identification of micro-level activities.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2019-12-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/540</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 17 No. 4 (2020)</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/540/177</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/607</identifier>
+				<datestamp>2022-10-01T15:54:43Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">An  Empirical Analysis of US Hotels Including Free Breakfast with Room Rent</dc:title>
+	<dc:creator xml:lang="en">Mathur, Sameer</dc:creator>
+	<dc:description xml:lang="en">The likelihood of a US hotel including free breakfast with its rent is empirically measured as a function of hotel star rating, capacity and the rack rate. We use mixed-effects logistic regression to analyze the choices made by 1607 US hotels, regarding whether to offer or not offer free breakfast with their room rent. Our analysis reveals that the probability of a hotel including free breakfast with its rent decreases with an increase in star rating; decreases with an increase in hotel capacity; decreases with an increase in the rack rate. These results have practical implications for hotel strategy.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2022-10-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/607</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 19 No. 1 (2022); 30-53</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/607/264</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4273</identifier>
+				<datestamp>2021-08-31T18:44:30Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Systematic review and meta-analysis comparing arrival versus delayed vaccination of high-risk beef cattle with 5-way modified-live viral vaccines against BHV-1, BRSV, PI3, and BVD types 1 and 2</dc:title>
+	<dc:creator xml:lang="en">Snyder, Emily R.</dc:creator>
+	<dc:creator xml:lang="en">Credille, Brent C.</dc:creator>
+	<dc:creator xml:lang="en">Heins, Brad D.</dc:creator>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">vaccination</dc:subject>
+	<dc:subject xml:lang="en">shipping fever</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease (BRD) is a major economic and welfare concern of the beef cattle industry. Various approaches to vaccination against the major viral pathogens have been investigated, including timing. It is thought that beef cattle entering feedlots may not be able to adequately respond to vaccination due to the stresses of shipping and processing. A meta-analysis was performed to compare the effectiveness of on-arrival vaccination to vaccination delayed 7 or more days following arrival, using a modified-live viral (MLV) vaccine against bovine herpesvirus-1 (BHV-1 ), bovine respiratory syncytial virus (BRSV), parainfluenza-3 (PI3), and bovine viral diarrhea types 1 and 2 (BVD 1 and 2), on outcomes of BRO morbidity, retreatment risk, and mortality. Eight studies were identified comparing vaccination timing in feedlot cattle via literature search. Mantel-Haenzsel risk ratios were calculated for each outcome, and Forest plots were constructed. In the studies identified, there was no difference in BRD morbidity risk, retreatment risk, or BRD mortality between calves vaccinated at arrival or delayed. Based on the data from the studies analyzed, it would not appear that there is an advantage or disadvantage in terms or morbidity, retreatment risk, or mortality in delaying vaccination.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/4273</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol53no1p1-7</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 53, No. 1 (2019 Spring); 1-7</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/4273/4187</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

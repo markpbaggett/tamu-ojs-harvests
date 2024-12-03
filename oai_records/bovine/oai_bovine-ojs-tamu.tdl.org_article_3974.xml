@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3974</identifier>
+				<datestamp>2020-02-06T08:45:15Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Derivation and interpretation of the MilkBot® lactation model in monitoring health of dairy cattle</dc:title>
+	<dc:creator xml:lang="en">Ehrlich, J. L.</dc:creator>
+	<dc:subject xml:lang="en">lactation model</dc:subject>
+	<dc:subject xml:lang="en">lactation-curve</dc:subject>
+	<dc:subject xml:lang="en">derivation</dc:subject>
+	<dc:subject xml:lang="en">model parameters</dc:subject>
+	<dc:description xml:lang="en">The MilkBot® model is a nonlinear lactation model that has been shown to perform well both in summarizing differences in lactation-curve shape and in projecting future milk production for individual lactations. An understanding of the derivation and assumptions behind the model aids in interpretation of model parameters, which constitute a concise language for summarizing the distribution of milk production within a lactation.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2012-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3974</dc:identifier>
+	<dc:identifier>10.21423/aabppro20123974</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2012; 267</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3974/3902</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2012 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3693</identifier>
+				<datestamp>2020-02-06T08:42:04Z</datestamp>
+				<setSpec>aabp:RS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Characterizing the BRD sickness response: opportunities for improved disease detection</dc:title>
+	<dc:creator xml:lang="en">Toaff-Rosenstein, R. L.</dc:creator>
+	<dc:creator xml:lang="en">Gershwin, L. J.</dc:creator>
+	<dc:creator xml:lang="en">Zanella, A. J.</dc:creator>
+	<dc:creator xml:lang="en">Tucker, C. B.</dc:creator>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">Bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">diagnostic</dc:subject>
+	<dc:subject xml:lang="en">depression</dc:subject>
+	<dc:subject xml:lang="en">anorexia</dc:subject>
+	<dc:subject xml:lang="en">respiratory changes</dc:subject>
+	<dc:subject xml:lang="en">temperature elevation</dc:subject>
+	<dc:subject xml:lang="en">DART</dc:subject>
+	<dc:subject xml:lang="en">fever</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease (BRD) is the most prevalent and costly illness in feedlot cattle. A limiting factor in efforts to reduce BRD is the poor accuracy of the usual diagnostic approach, pen rider detection of animals with depression, anorexia, respiratory changes, and temperature elevation (DART). The relationship between DART-identified individuals and those with definitive BRD only has an estimated specificity and sensitivity of 63% and 62%, respectively. Limited monitoring (e.g. 2x/d), human presence, and handling may contribute to DART’s poor accuracy. Continuous, automated monitoring of fever and anorexia is more effective than DART for BRD detection. Both fever and anorexia are part of the generalized sickness response, a collection of physiological and behavioral changes associated with inflammation. This response also includes a reduction in grooming behavior, but this behavior has not been studied in the context of BRD and may be another candidate for improved, automated detection. Our objective was to further characterize the BRD sickness response, especially those components that may be monitored automatically. We hypothesized that BRD-challenged cattle would have fever, anorexia, and less grooming in comparison to healthy controls, and that the magnitude of these changes would reflect the extent of gross lung lesions (%LUNG).</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2014-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3693</dc:identifier>
+	<dc:identifier>10.21423/aabppro20143693</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2014; 114-115</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3693/3636</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2014 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

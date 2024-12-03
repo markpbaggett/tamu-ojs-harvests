@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2257</identifier>
+				<datestamp>2021-08-28T01:41:29Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The DairyCHAMP program, a micro-computer based health and management program for dairy herds</dc:title>
+	<dc:creator xml:lang="en">Williamson, Norman B.</dc:creator>
+	<dc:creator xml:lang="en">Udomprasert, Preeyaphan</dc:creator>
+	<dc:subject xml:lang="en">animal health</dc:subject>
+	<dc:subject xml:lang="en">computer software</dc:subject>
+	<dc:subject xml:lang="en">Cows</dc:subject>
+	<dc:subject xml:lang="en">Dairy farms</dc:subject>
+	<dc:subject xml:lang="en">farm management</dc:subject>
+	<dc:description xml:lang="en">In a paper first presented at a conference on Dairy Herd Health Programming (University of Minnesota, USA, June 1989), the DairyCHAMP microcomputer-based dairy health and management system is described. The program allows herd monitoring, problem diagnosis and provides aids to management. The program should run on any PC-DOS or compatible computer. The dairy farm processes which this program may be applied to are control of reproduction, mastitis, nutrition, disease, herd replacement and herd inventory management. The program deals with system control, animal records, herd test records, milk production and feed use records, education, financial management and interfacing with other programs. Data entry is through programs selected via menus. These allow selection of information for recording from on-screen lists in English which are stored in the computer as code. Results may be viewed on-screen interactively or printed. They consist of periodic reports which allow key indices of milk production, disease, reproduction and heifer growth to be monitored. An evaluation report may be used to analyse clinical trials and in comparative analysis of herd performance. It lists observations such as means, s.d., the number of observation ranges and confidence intervals for performance indices. Diagnostic reports allow performance to be analysed so as to enable causes of inadequate performance to be identified. The program has been designed to fit the operational needs of all types of dairy production systems.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1989-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2257</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol0no24p106-109</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 24 (1989 November); 106-109</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2257/2249</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1989 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

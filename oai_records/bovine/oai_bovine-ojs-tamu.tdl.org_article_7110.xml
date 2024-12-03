@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7110</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Understanding the mechanism of metaphylaxis from an epidemiologic perspective</dc:title>
+	<dc:creator xml:lang="en">Vander Ley, Brian</dc:creator>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">metaphylaxis</dc:subject>
+	<dc:subject xml:lang="en">epidemiology</dc:subject>
+	<dc:description xml:lang="en">Metaphylaxis has become an integral component of BRD control in high-risk cattle in North America. It has proven to be both effective and economically advantageous in clinical trials and in field application. The efficacy of metaphylaxis against BRD not only lies in its ability to treat cases in progress at the time of administration, but also in that metaphylaxis modifies epidemic parameters that ultimately reduce the size and severity of disease outbreaks in groups of cattle. One possible explanation for this effect is that metaphylaxis temporarily creates a uniform shift in the susceptibility of treated cattle that delays clinical disease while allowing stress to dissipate and adaptive immunity against BRD pathogens to develop. This shift, and the changes that occur while it is in effect, starve the epidemic of new susceptible cases which reduces BRD morbidity in the population. Provided this theory is accurate, metaphylaxis could be better targeted by using diagnostics to identify and treat only susceptible cattle rather than all of them; however, current technology prevents timely application of such information.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7110</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197110</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 120-122</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7110/5901</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

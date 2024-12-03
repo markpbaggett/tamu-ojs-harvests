@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/123</identifier>
+				<datestamp>2018-02-05T09:12:11Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Assessing the usefulness of online image annotation services for destination image measurement</dc:title>
+	<dc:creator xml:lang="en">Nixon, Lyndon</dc:creator>
+	<dc:subject xml:lang="en">media mining</dc:subject>
+	<dc:subject xml:lang="en">media analysis</dc:subject>
+	<dc:subject xml:lang="en">media annotation</dc:subject>
+	<dc:subject xml:lang="en">visual analysis</dc:subject>
+	<dc:subject xml:lang="en">concept detection</dc:subject>
+	<dc:subject xml:lang="en">image annotation</dc:subject>
+	<dc:subject xml:lang="en">destination image</dc:subject>
+	<dc:subject xml:lang="en">tourism intelligence</dc:subject>
+	<dc:description xml:lang="en">This research note reports on an initial exploration of the usefulness of online image annotation services for the measurement of destination image. Destination Marketing Organisations (DMOs) today, while actively data mining textual content for insights into visitor sentiment towards their destination or the most popular topics or themes of visitors at that destination, increasingly face usage of digital imagery or videos - yet non-textual content is not as easily ‘understood’ by machines to provide the same insights. The recent emergence of online services for image annotation might be of value to DMOs but to the best of the author’s knowledge no evaluation of their usefulness has been made in the touristic domain. We present here initial results which indicate the progress that image annotation services still need to make before DMOs could use them in destination image measurement.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2018-02-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/123</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; 2018: ENTER 2018 Volume 9 Conference on Information and Communication Technologies in Tourism RESEARCH NOTES</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/123/30</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

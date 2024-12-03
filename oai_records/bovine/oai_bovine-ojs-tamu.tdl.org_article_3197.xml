@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3197</identifier>
+				<datestamp>2020-04-09T16:31:01Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Validation of a handheld somatic cell count device</dc:title>
+	<dc:creator xml:lang="en">Domino, Tonie</dc:creator>
+	<dc:creator xml:lang="en">Nydam, Daryl</dc:creator>
+	<dc:creator xml:lang="en">Watters, Rick</dc:creator>
+	<dc:subject xml:lang="en">Mastitis</dc:subject>
+	<dc:subject xml:lang="en">milk production</dc:subject>
+	<dc:subject xml:lang="en">milk quality</dc:subject>
+	<dc:subject xml:lang="en">instruments</dc:subject>
+	<dc:subject xml:lang="en">somatic cells</dc:subject>
+	<dc:description xml:lang="en">Mastitis is the most common and costly disease of dairy cattle. It impacts farm economics through diagnostic and treatment costs and loss of income through discarded milk, decreased milk production, and loss of milk quality premiums. It negatively affects cow comfort and increases the culling risk. Most cases of mastitis are subclinical, leading to undetected economic losses. To mitigate these losses, surveillance for subclinical mastitis (SCM) indicators can be useful. One such indicator is the somatic cell count (SCC). Elevated SCC indicates inflammation, most likely caused by bacterial infection. One barrier to early detection of SCM is the lag between sample collection and availability of test results. The objective of this study was to evaluate a novel handheld, cow-side instrument for the enumeration of somatic cells in milk, the DQI iPod Touch Cell Counter. Our goal is to determine the sensitivity, specificity, and agreement of the instrument compared to currently available laboratory methods.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2018-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3197</dc:identifier>
+	<dc:identifier>10.21423/aabppro20183197</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2018; 320</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3197/3166</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

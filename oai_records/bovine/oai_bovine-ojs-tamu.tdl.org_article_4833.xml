@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4833</identifier>
+				<datestamp>2020-03-21T07:13:05Z</datestamp>
+				<setSpec>aabp:RS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Using ELISA Adjusted Optical Density (OD) Measures to Predict Mycobacterium avium paratuberculosis Shedding Status of Individual Dairy Cattle</dc:title>
+	<dc:creator xml:lang="en">Pillars, Roxanne</dc:creator>
+	<dc:creator xml:lang="en">Kaneene, John B.</dc:creator>
+	<dc:creator xml:lang="en">Grooms, Daniel</dc:creator>
+	<dc:subject xml:lang="en">Fecal culture</dc:subject>
+	<dc:subject xml:lang="en">Mycobacterium avium paratuberculosis</dc:subject>
+	<dc:subject xml:lang="en">ELISA</dc:subject>
+	<dc:subject xml:lang="en">optical density</dc:subject>
+	<dc:subject xml:lang="en">likelihood ratio</dc:subject>
+	<dc:description xml:lang="en">Fecal culture remains the standard for diagnosing Mycobacterium avium paratuberculosis (MAP) in individual cattle, however it generally requires 8-16 weeks to obtain results. The enzyme-linked immunosorbent assay (ELISA) has a rapid turnaround time, although its sensitivity is poor, especially in subclinically infected cattle. It is generally accepted that as the infection progresses, mean ELISA response and sensitivity increases. Cattle infected with MAP have a long prepatent period in which no shedding of the organism occurs, followed by intermittent then continuous shedding that increases in volume as the disease progresses. While any cow infected with MAP is undesirable, only cattle shedding the organism pose an immediate threat to other cattle. These cattle generally have higher ELISA optical density (OD) values compared to cattle not shedding MAP. The objective of this study was to compare the mean ELISA-adjusted OD values of cattle with negative fecal cultures to cattle classified as either low (≥10 cfu) or high (&amp;gt;10 cfu) shedders and determine the positive likelihood ratios for each.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2005-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4833</dc:identifier>
+	<dc:identifier>10.21423/aabppro20054833</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2005; 166</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4833/4728</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2005 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

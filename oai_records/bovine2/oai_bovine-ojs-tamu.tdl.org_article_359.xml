@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/359</identifier>
+				<datestamp>2021-08-30T20:38:34Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Costs of Living for US Veterinarians in Food Animal Practice Compared to other Practice Categories and the Effect on Adjusted Income</dc:title>
+	<dc:creator xml:lang="en">Tyler, Jeff W.</dc:creator>
+	<dc:creator xml:lang="en">Aura, Saku</dc:creator>
+	<dc:creator xml:lang="en">Schultz, Loren G.</dc:creator>
+	<dc:subject xml:lang="en">cost of living</dc:subject>
+	<dc:subject xml:lang="en">income</dc:subject>
+	<dc:subject xml:lang="en">veterinary practice</dc:subject>
+	<dc:subject xml:lang="en">forrd animal practice</dc:subject>
+	<dc:description xml:lang="en">The purpose of this study was to determine whether the cost of living (COL) experienced by veterinarians in the United States varied with their species emphasis. A total of 1191 entries were drawn from the American Veterinary Medical Association directory. A data set consisting of species emphasis category and addresses was systematically collected from the directory, and then cost of living indices (COLI) based on geographic locale were determined for each veterinarian using an internet-based tool. A Kruskal-Wallis analysis of variance on ranks was used to determine whether COL varied among species emphasis categories for veterinarians. Species category was significantly associated with cost of living (P &amp;lt; 0.001): companion animal-exclusive veterinarians had significantly higher median cost of living (99) than food animal predominant (84), food animal-exclusive (89), and mixed animal veterinarians (86). Equine-exclusive veterinarians had significantly higher COLI (94) than food animal predominant and mixed animal veterinarians. The COLI for companion animal-predominant veterinarians were significantly higher (89) than food animal-predominant veterinarians (84). No other pair-wise comparisons of species category COLI differed significantly. When income was adjusted for COL ($152,398), food animal-exclusive veterinarians had greater income than all other species defined categories, and exceeded that of companion animal-exclusive veterinarians by $48,577 per year. When adjusted for COL, companion animal-exclusive incomes were lower than all other species-defined categories.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2010-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/359</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol44no1p77-82</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 44, No. 1 (2010 Spring); 77-82</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/359/354</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2010 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/192</identifier>
+				<datestamp>2021-08-30T21:12:47Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Effect of sulfur and use of ruminal available sulfur as a model to predict incidence of polioencephalomalacia in feedlot cattle</dc:title>
+	<dc:creator xml:lang="en">Nichols, C. A.</dc:creator>
+	<dc:creator xml:lang="en">Bremer, V. R.</dc:creator>
+	<dc:creator xml:lang="en">Watson, A. K.</dc:creator>
+	<dc:creator xml:lang="en">Buckner, C. D.</dc:creator>
+	<dc:creator xml:lang="en">Harding, J. L.</dc:creator>
+	<dc:creator xml:lang="en">Klopfenstein, T. J.</dc:creator>
+	<dc:creator xml:lang="en">Smith, D. R.</dc:creator>
+	<dc:subject xml:lang="en">byproducts</dc:subject>
+	<dc:subject xml:lang="en">feedlot cattle</dc:subject>
+	<dc:subject xml:lang="en">neutral detergent fiber</dc:subject>
+	<dc:subject xml:lang="en">NDF</dc:subject>
+	<dc:subject xml:lang="en">polioencephalomalacia,</dc:subject>
+	<dc:subject xml:lang="en">PEM</dc:subject>
+	<dc:subject xml:lang="en">sulfur</dc:subject>
+	<dc:description xml:lang="en">longitudinal analysis of health and nutritional data from 16,760 cattle within 80 beef feedlot finishing trials was conducted to evaluate the effect of dietary sulfur on polioencephalomalacia (PEM). Data were compiled from health and research records collected at the University of Nebraska Research Feedlot between 2002 and 2009. Poisson regression was used to test the relationship between health outcomes and dietary factors on PEM incidence. Because of the low incidence of PEM in these data, statistical significance was defined a priori at alpha &amp;lt;0.10. There was a significant interaction between concentration of dietary sulfur and forage NDF on the incidence of PEM cases. The dietary sulfur by forage neutral detergent fiber (NDF) interaction is probably due to forage fiber moderating H2S production in the rumen. Rumen available sulfur (RAS) was estimated for feedstuffs. As level of RAS increased in the diet by 0.1%, the incidence of PEM increased nearly 3-fold. There was no interaction between RAS and forage NDF on PEM incidence. It may be that RAS is a better measure of PEM risk than dietary sulfur because it estimates the rumen available forms of sulfur which pose a greater risk of inducing PEM, and RAS accounts for PEM risk independent of the risk due to forage fiber. It may be possible to manage PEM incidence by using RAS measurements to formulate rations fed to feedlot cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2013-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/192</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol47no1p47-53</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 47, No. 1 (2013 Spring); 47-53</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/192/201</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2013 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

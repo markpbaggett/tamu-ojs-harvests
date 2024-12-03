@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3583</identifier>
+				<datestamp>2020-02-06T08:39:17Z</datestamp>
+				<setSpec>aabp:RS2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Validation of a prototype cow-side instrument for the measurement of blood ionized calcium concentrations in dairy cattle</dc:title>
+	<dc:creator xml:lang="en">Neves, R. C.</dc:creator>
+	<dc:creator xml:lang="en">Stokol, T.</dc:creator>
+	<dc:creator xml:lang="en">Curler, M. D.</dc:creator>
+	<dc:creator xml:lang="en">Thomas, M. J.</dc:creator>
+	<dc:creator xml:lang="en">McArt, J. A. A.</dc:creator>
+	<dc:subject xml:lang="en">field measurement</dc:subject>
+	<dc:subject xml:lang="en">blood calcium</dc:subject>
+	<dc:subject xml:lang="en">ionized</dc:subject>
+	<dc:subject xml:lang="en">instrument</dc:subject>
+	<dc:description xml:lang="en">There is currently no efficient and inexpensive method for field measurement of blood calcium concentrations. Ionized calcium (iCa) is the homeostatic form of the mineral and is thought to have greater biological relevance over that of total calcium. The objective of this study was to evaluate the linearity and precision of a prototype cow-side instrument (Horiba, Japan) for measuring blood iCa concentrations.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2015-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3583</dc:identifier>
+	<dc:identifier>10.21423/aabppro20153583</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2015; 210</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3583/3529</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2015 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

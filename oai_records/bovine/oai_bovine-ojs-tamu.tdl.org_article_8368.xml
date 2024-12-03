@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8368</identifier>
+				<datestamp>2022-10-24T20:58:19Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Application of the Ruminant Farm Systems model (RuFaS) to assess the environmental impact of reproductive strategies in dairy farms : greenhouse gas</dc:title>
+	<dc:creator xml:lang="en">Reed, Kristan F.</dc:creator>
+	<dc:creator xml:lang="en">Nydam, Daryl V.</dc:creator>
+	<dc:creator xml:lang="en">Li, M/</dc:creator>
+	<dc:creator xml:lang="en">Cabrera, V.</dc:creator>
+	<dc:subject xml:lang="en">greenhouse gas</dc:subject>
+	<dc:subject xml:lang="en">whole farm modeling</dc:subject>
+	<dc:subject xml:lang="en">Ruminant Farm Systems model</dc:subject>
+	<dc:description xml:lang="en">Dairy producers are challenged to meet goals to produce milk in an economically viable and socially acceptable way that minimizes environmental footprints and maintains cow health. In support of their work, producers, managers, and consultants use a variety of decision support tools. However, most of these tools focus on specific parts of the dairy operation and are not able to predict how changing one part of the system will influence others. Whole farm models integrate all parts of a farm operation and can be useful management tools illustrating impacts of sets of management choices. Models are the most practical method to estimate environmental outcomes like greenhouse gas emissions, nutrient leaching, and soil erosion which are commonly required to gain access to certain markets, meet environmental regulations, or participate in ecosystem service markets. Unfortunately, most existing whole farm models are not built to be decision support tools and are limited in the management practices they can represent. Because of this, we are building a new whole farm modeling platform called the Ruminant Farm Systems model. Here we focus on the animal component of the whole farm model with the objective of illustrating the impacts of different reproductive strategy choices.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-10-09</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8368</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2021 Annual Conference Proceedings; 249</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8368/8246</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

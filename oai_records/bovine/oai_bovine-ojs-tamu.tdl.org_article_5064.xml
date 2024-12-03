@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5064</identifier>
+				<datestamp>2020-03-18T07:11:16Z</datestamp>
+				<setSpec>aabp:RSG</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Rapid Serologic Test for the Detection of Antibodies to Mycobacterium paratuberculosis with Applications for Bovine Practitioners</dc:title>
+	<dc:creator xml:lang="en">Jackson, T. A.</dc:creator>
+	<dc:creator xml:lang="en">Cecchetti, P.</dc:creator>
+	<dc:creator xml:lang="en">McCrann, M.</dc:creator>
+	<dc:subject xml:lang="en">enzyme linked immunoabsorbent assay</dc:subject>
+	<dc:subject xml:lang="en">IDEXX SNAP™ device</dc:subject>
+	<dc:subject xml:lang="en">animal-side test</dc:subject>
+	<dc:subject xml:lang="en">in-clinic assay</dc:subject>
+	<dc:subject xml:lang="en">microtiter-plate antibody test</dc:subject>
+	<dc:description xml:lang="en">A prototype enzyme linked immunoabsorbent assay (ELISA) test has been developed on the IDEXX SNAP™ device to detect antibodies to Mycobacterium avium subspecies paratuberculosis (MAP), the causative organism of Johne's disease in ruminants. Initial validation studies have been completed utilizing bovine serum as the specimen type. This SNAP test format has potential applications as an animal-side or in-clinic assay for large animal veterinarians who require a rapid test result on symptomatic or suspicious animals. Total assay time is 22 minutes. The purpose of this study was to evaluate the performance of this new MAP ELISA by testing populations of dairy cattle (n = 1276). A comparison of results obtained with the prototype SNAP assay and a USDA-licensed, microtiter-plate antibody test kit was made.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2002-09-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5064</dc:identifier>
+	<dc:identifier>10.21423/aabppro20025064</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2002; 204</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5064/4951</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2002 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

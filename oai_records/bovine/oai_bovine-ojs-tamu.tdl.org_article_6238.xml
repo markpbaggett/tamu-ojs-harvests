@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6238</identifier>
+				<datestamp>2020-08-14T00:34:55Z</datestamp>
+				<setSpec>aabp:Fedlot</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Live Animal Sampling for Antibacterial Susceptibility Testing</dc:title>
+	<dc:creator xml:lang="en">Clarke, Cyril R.</dc:creator>
+	<dc:subject xml:lang="en">samples</dc:subject>
+	<dc:subject xml:lang="en">susceptibility testing</dc:subject>
+	<dc:subject xml:lang="en">antibacterial agents</dc:subject>
+	<dc:subject xml:lang="en">in vitro susceptibility</dc:subject>
+	<dc:description xml:lang="en">The value of in vitro antibacterial susceptibility testing depends on the relevancy of the microbiological samples collected. Those from the lower respiratory tract are most likely to contain etiologic pathogens but their collection requires a high level of expertise and specialized equipment. Therefore, collection of tracheal swabs is recommended. Samples should be refrigerated and desiccation should be avoided. Selection of antibacterial agents for initial therapy of BRD should be based on microbiological testing of samples collected from live animals prior to therapy. Selection of antibacterial agents to be used when initial treatment fails can be based on results of susceptibility testing conducted on treatment failures.
+Correct interpretation of agar disk diffusion or MIC data depends not only on an understanding of the correlation between in vitro susceptibility and in vivo efficacy, but also the origin of the samples from which offending bacteria are cultured. Ideally, samples collected for bacteriological culture and isolation should: (1) contain the etiologic pathogen and not be contaminated with inconsequential isolates; (2) be collected, preserved, packaged, and transported in such a manner that the viability of microorganisms is maintained; and (3) yield isolates that are representative etiologic agents of the disease condition. These requirements are sometimes difficult to satisfy in the managerial and physical environment in which feedlot cattle are maintained.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1994-09-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6238</dc:identifier>
+	<dc:identifier>10.21423/aabppro19946238</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1994; 150-151</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6238/6741</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1994 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

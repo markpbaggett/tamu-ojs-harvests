@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/15</identifier>
+				<datestamp>2023-04-06T20:06:52Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Direct Determination of Glyphosate, Glufosinate, and AMPA in milk by Liquid chromatography/tandem mass spectrometry</dc:title>
+	<dc:creator xml:lang="en">Chamkasem, Narong</dc:creator>
+	<dc:creator xml:lang="en">Morris, Cynthia</dc:creator>
+	<dc:creator xml:lang="en">Harmon, Tiffany</dc:creator>
+	<dc:subject xml:lang="en">Glyphosate</dc:subject>
+	<dc:subject xml:lang="en">milk</dc:subject>
+	<dc:subject xml:lang="en">LC-MS/MS</dc:subject>
+	<dc:subject xml:lang="en">direct determination</dc:subject>
+	<dc:subject xml:lang="en">Analytical Method</dc:subject>
+	<dc:description xml:lang="en">A simple high-throughput liquid chromatography/tandem mass spectrometry (LC-MS/MS) method was developed for the determination of glyphosate, aminomethylphosphonic acid (AMPA) and glufosinate in milk using a reversed-phase liquid chromatography column with weak anion/cation exchange stationary phase.  One milliliter of milk was shaken with three milliliters of water containing Na2EDTA and acetic acid for 10 minutes, to precipitate the protein content in the sample. After centrifugation, the supernatant was passed through an Oasis HLB SPE to retain suspended particulates and phospholipids. The sample was directly injected and analyzed in 6 min, with no sample concentration or derivatization steps. Two multiple reaction monitoring (MRM) channels were monitored in the method for each target compound to achieve true positive identification. Three internal standards corresponding to each analyte were used to counter matrix suppression effects. The linearity of the detector response was demonstrated in the range of 4 to 1000 ng/mL for each analyte, with a minimum coefficient of determination (R2) value of more than 0.995. Through the use of this internal standard calibration method, the average recovery for all analytes at 0.025, 0.1, 0.5, and 2 µg/g (n = 7) are between 84-111% with a relative standard deviation of less than 8%.https://doi.org/10.21423/jrs-v03n02p020 (DOI assigned 8/7/2019)</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2016-01-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">direct determination with LC-MS/MS</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/msword</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/15</dc:identifier>
+	<dc:identifier>10.21423/JRS-V03N02P020</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 3 No. 2 (2015); 20-26</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/15/27</dc:relation>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/15/28</dc:relation>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

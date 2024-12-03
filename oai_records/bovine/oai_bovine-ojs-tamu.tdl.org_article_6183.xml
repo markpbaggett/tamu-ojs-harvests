@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6183</identifier>
+				<datestamp>2020-08-06T00:29:56Z</datestamp>
+				<setSpec>aabp:CPT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Barcode and voice recognition techniques for data entry into computerized dairy database records</dc:title>
+	<dc:creator xml:lang="en">Eilts, Bruce E.</dc:creator>
+	<dc:creator xml:lang="en">Paccamonti, Dale L.</dc:creator>
+	<dc:creator xml:lang="en">Holmes, Robert A.</dc:creator>
+	<dc:subject xml:lang="en">data input</dc:subject>
+	<dc:subject xml:lang="en">computerized system</dc:subject>
+	<dc:subject xml:lang="en">barcode</dc:subject>
+	<dc:subject xml:lang="en">voice recognition</dc:subject>
+	<dc:description xml:lang="en">Even though computers operate at amazing speeds, data input into programs remains the rate-limiting step preventing many dairymen and veterinarians from adopting a computerized system. Keyboard entry of individual animal events into a computer program is extremely tedious, but present barcode and voice recognition technologies exist to ease this cumbersome task.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1995-09-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6183</dc:identifier>
+	<dc:identifier>10.21423/aabppro19956183</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1995; 244</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6183/6971</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1995 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

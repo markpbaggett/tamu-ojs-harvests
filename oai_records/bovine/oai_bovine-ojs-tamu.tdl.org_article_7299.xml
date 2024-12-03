@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7299</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Identification of epigenetic markers predictive of late embryonic mortality in milk</dc:title>
+	<dc:creator xml:lang="en">Droscha, C. J.</dc:creator>
+	<dc:creator xml:lang="en">Kesler, K. W.</dc:creator>
+	<dc:creator xml:lang="en">Smith, Katie</dc:creator>
+	<dc:creator xml:lang="en">Sporer, Kelly</dc:creator>
+	<dc:creator xml:lang="en">Zenchak, Jessie</dc:creator>
+	<dc:subject xml:lang="en">pregnancy diagnostics</dc:subject>
+	<dc:subject xml:lang="en">embryonic mortality</dc:subject>
+	<dc:subject xml:lang="en">epigenetic factors</dc:subject>
+	<dc:subject xml:lang="en">gene expression</dc:subject>
+	<dc:subject xml:lang="en">microRNAs</dc:subject>
+	<dc:subject xml:lang="en">Late embryonic mortality</dc:subject>
+	<dc:subject xml:lang="en">early embryonic mortality</dc:subject>
+	<dc:description xml:lang="en">Current industry standards of pregnancy diagnostics include transrectal palpation, ultrasound and measurement of pregnancy-associated glycoprotein (PAG) levels via ELISA; however, there is no available diagnostic that can predict embryonic mortality, which is a major contributor to reproductive failure (Inskeep and Dailey, 2005). Early embryonic mortality (EEM) occurs before day 30 of gestation and is generally associated with failures of implantation and maternal recognition of pregnancy (Pohler et al., 2016a; Pohler et al., 2016b; Thatcher et al., 2001). Late embryonic mortality (LEM) occurs between days 30 and 60 of pregnancy is generally attributed to placental insufficiency (Pohler et al., 2016b). LEM has an inordinate economic impact for the producer due to calving interval extension (Pohler et al., 2016; Silke et al., 2002).
+Developmental processes enlist epigenetic factors that tightly control the timing and magnitude of gene expression within and between mother and fetus. Detection and quantification of soluble and circulating epigenetic factors such as microRNAs to determine embryogenic fidelity is at the forefront of modern molecular diagnostics as demonstrated in non-invasive prenatal testing (NIPT) within humans (Biró et al., 2018; Liu et al., 2017; Zhu et al., 2013). Circulating miRNAs in serum and milk have been shown to be reliable non-invasive biomarkers of acute animal physiology due to their stable, sensitive, and specific nature (Pohler et al, 2017; Etheridge et al., 2011; Gilad et al.,2008; Izumi et al., 2012). We hypothesized that LEM-specific microRNAs in milk are present, predictive and robust biomarkers.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7299</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197299</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 397</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7299/6026</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5230</identifier>
+				<datestamp>2020-03-21T07:20:16Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Impact of Treatment with Monensin Controlled-release Capsule on Blood Biochemical Constituents</dc:title>
+	<dc:creator xml:lang="en">Cécyre, Dominique</dc:creator>
+	<dc:creator xml:lang="en">DesCôteaux, Luc</dc:creator>
+	<dc:creator xml:lang="en">Brodeur, Marcel</dc:creator>
+	<dc:creator xml:lang="en">Tremblay, Armand V.</dc:creator>
+	<dc:subject xml:lang="en">Rumensin CRC</dc:subject>
+	<dc:subject xml:lang="en">ketosis</dc:subject>
+	<dc:subject xml:lang="en">biochemical constituent</dc:subject>
+	<dc:subject xml:lang="en">treatment</dc:subject>
+	<dc:subject xml:lang="en">herd risk for ketosis</dc:subject>
+	<dc:subject xml:lang="en">production</dc:subject>
+	<dc:subject xml:lang="en">feeding</dc:subject>
+	<dc:subject xml:lang="en">lactation</dc:subject>
+	<dc:subject xml:lang="en">body condition</dc:subject>
+	<dc:description xml:lang="en">In the context of a large, post-approval randomized clinical trial on Rumensin CRC®, blood samples were collected to determine the impact of treatment on different blood constituents of lactating dairy cows. This study was performed on 730 cows from 38 Quebec herds. Cows were randomly assigned to receive a Rumensin CRC capsule (n=354) or a placebo capsule (n=376) between two and four weeks before the expected calving date. Two blood samples were taken for each cow: once between two and four weeks postpartum and again between six and eight weeks postpartum. Blood analyses were performed on serum for the following biochemical constituents: glucose, urea, total protein, albumin, GGT, AST, potassium, inorganic phosphorus, calcium, Na, Cl, total CO2, Mg, cholesterol and B-hydroxybutyrate (BHB).
+Herd means for serum BHB were calculated from the first blood samples taken from the placebo cows. Those means were ranked, and three groups of risk for ketosis were created based on quartiles. For the low-risk-for-ketosis (LRK) herds, herd BHB mean was in the first quartile; for the medium-risk-for-ketosis (MRK) herds, between the first and third quartile; and for the high-risk-for-ketosis (HRK) herds, in the fourth quartile. A linear mixed-effect model (proc mixed in SAS) was applied to assess the effect of treatment on each biochemical constituent. Herd was entered in all models as a random variable and the following variables were included in the models to control for their fixed effects: treatment, biochemistry number, herd risk for ketosis, cow's level of production, herd's level of production, type of feeding, group of lactation and body condition. Interactions of each fixed variable with treatment were also verified. Tests for BHB were performed on log transformation.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5230</dc:identifier>
+	<dc:identifier>10.21423/aabppro20015230</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2001; 160-161</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5230/5100</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

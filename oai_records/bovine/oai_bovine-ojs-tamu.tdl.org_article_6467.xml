@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6467</identifier>
+				<datestamp>2020-08-07T00:33:55Z</datestamp>
+				<setSpec>aabp:GaT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Simulation Model to Compare Strategies For Reducing the Effect of Cystic Ovarian Disease of Dairy Cattle on Herd Average Open Days</dc:title>
+	<dc:creator xml:lang="en">Scholl, Daniel T.</dc:creator>
+	<dc:subject xml:lang="en">cystic ovarian disease</dc:subject>
+	<dc:subject xml:lang="en">heat detection</dc:subject>
+	<dc:subject xml:lang="en">extended calving intervals</dc:subject>
+	<dc:subject xml:lang="en">therapy</dc:subject>
+	<dc:description xml:lang="en">A theoretical approach was taken to compare various ways of reducing the extended calving intervals that may result from cystic ovarian disease of dairy cattle. The question evaluated was which of the three following options would yield the greatest benefit in tenns of reducing the herd's average number of open days: 1) reducing the cumulative incidence of cystic ovarian disease, 2) improving cystic ovary therapy effectiveness, or 3) improving heat detection and conception rate perfonnance in general. A stochastic Markov Chain model was developed on a computerized spread sheet. This simulation model has the following alterable inputs: 1) cumulative incidence of ovarian cysts occurring before the first postpartum ovulation, 2) cumulative incidence of ovarian cysts occurring after the first postpartum ovulation, 3) probability of spontaneous resolution before or after first postpartum ovulation, 4) probability of responding to treatment, 5) probability of recurrence, 6) average days postpartum at first veterinary reproductive examination, 7) days postpartum of first allowable insemination, 8) days between routine veterinary reproductive examinations, 9) herd average services per conception, and 10) heat detection efficiency. The respective inputs were varied to simulate the expected improvement in herd average days open. Improving herd heat detection efficiency and service per conception were more effective at reducing herd average days open that were improvement of any of the cystic ovarian disease parameters.
+German and Spanish summaries in PDF.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6467</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926467</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 1; 304-309</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6467/7044</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

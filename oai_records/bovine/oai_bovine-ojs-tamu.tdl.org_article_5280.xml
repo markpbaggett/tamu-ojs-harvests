@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5280</identifier>
+				<datestamp>2020-03-21T07:19:03Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of Three Reverse Transcription-Polymerase Chain Reaction Assays for the Detection and Genotyping of Bovine Viral Diarrhea Virus Isolates</dc:title>
+	<dc:creator xml:lang="en">Ahn, Byung Chul</dc:creator>
+	<dc:creator xml:lang="en">Walz, Paul H.</dc:creator>
+	<dc:creator xml:lang="en">Kapil, Sanjay</dc:creator>
+	<dc:subject xml:lang="en">Bovine viral diarrhea virus</dc:subject>
+	<dc:subject xml:lang="en">BVDV</dc:subject>
+	<dc:subject xml:lang="en">transcription-polymerase chain reaction</dc:subject>
+	<dc:description xml:lang="en">Bovine viral diarrhea virus (BVDV) is an important infectious disease in cattle. Isolates of BVDV are classified into type I or type II based upon the genomic sequences. Several reverse transcription-polymerase chain reaction (RT-PCR) techniques utilizing different genomic regions, such as 5'UTR, E0, and NS5B, have been developed for detecting and genotyping BVDV isolates. The purpose of this study was to compare the agreement among RT-PCR assays based upon these three different BVDV genomic regions in detecting and genotyping BVDV field isolates.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5280</dc:identifier>
+	<dc:identifier>10.21423/aabppro20015280</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2001; 208</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5280/5149</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

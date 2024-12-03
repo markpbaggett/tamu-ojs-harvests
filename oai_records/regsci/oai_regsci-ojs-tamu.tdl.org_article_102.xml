@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/102</identifier>
+				<datestamp>2023-04-11T02:02:43Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of Southern-by-Sequencing (SbSTM) technology and Southern Blot Analysis for Molecular Characterization of Genetically Modified Crops</dc:title>
+	<dc:creator xml:lang="en">Brink, Kent</dc:creator>
+	<dc:creator xml:lang="en">Anitha, S. C.</dc:creator>
+	<dc:creator xml:lang="en">Beatty, Mary K.</dc:creator>
+	<dc:creator xml:lang="en">Anderson, Jennifer A.</dc:creator>
+	<dc:creator xml:lang="en">Lyon, Megan</dc:creator>
+	<dc:creator xml:lang="en">Weaver, Janine</dc:creator>
+	<dc:creator xml:lang="en">Dietrich, Nina</dc:creator>
+	<dc:subject xml:lang="en">Molecular characterization</dc:subject>
+	<dc:subject xml:lang="en">genetically modified (GM) crops</dc:subject>
+	<dc:subject xml:lang="en">Southern-by- Sequencing (SbSTM) Technology</dc:subject>
+	<dc:subject xml:lang="en">Southern blot</dc:subject>
+	<dc:subject xml:lang="en">next-generation sequencing</dc:subject>
+	<dc:subject xml:lang="en">genetically modified crops</dc:subject>
+	<dc:description xml:lang="en">Southern blot analysis is typically used for molecular characterization of genetically modified (GM) crops. &amp;nbsp;Southern-by-Sequencing (SbSTM technology, hereafter referred to as SbS) is a high-throughput, sequence-based alternative technique utilizing targeted sequence capture coupled with next-generation sequencing (NGS) and bioinformatics tools to achieve the same molecular endpoints.&amp;nbsp; To demonstrate that both SbS and Southern blot analysis reach the same conclusions about insertion copy number and intactness of the inserted DNA, both techniques were used to characterize four soybean GM events containing simple or complex DNA insertions.&amp;nbsp; To demonstrate that both techniques reach the same conclusions about the presence of unintended DNA, maize GM events containing Agrobacterium plasmid backbone fragments were characterized.&amp;nbsp; Additionally, oligonucleotides containing varying lengths of target sequence were analyzed to compare both techniques’ sensitivity for detecting small insertions.&amp;nbsp; SbS and Southern blots had similar sensitivity and provided comparable results for copy number and intactness of simple and complex DNA insertions.&amp;nbsp; Both techniques also had comparable results for detection of unintended plasmid backbone DNA sequences and small DNA fragments.&amp;nbsp; Thus, SbS can deliver the same endpoints as Southern blot analysis for key molecular characterization aspects of GM crops and gene edited varieties, providing important information to inform regulatory decisions.
+https://doi.org/10.21423/jrs-v07brink</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2019-07-03</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/102</dc:identifier>
+	<dc:identifier>10.21423/JRS-V07BRINK</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol 7 (2019); 1-14</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/102/119</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Journal of Regulatory Science</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2488</identifier>
+				<datestamp>2021-08-28T00:44:16Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Calf mortality, heifer replacements and vaccines: TI/59 programmable calculator programs to estimate the costs</dc:title>
+	<dc:creator xml:lang="en">Kirk, John H.</dc:creator>
+	<dc:subject xml:lang="en">Cost benefit analysis</dc:subject>
+	<dc:subject xml:lang="en">Data processing</dc:subject>
+	<dc:subject xml:lang="en">Disease prevention</dc:subject>
+	<dc:subject xml:lang="en">Economics</dc:subject>
+	<dc:subject xml:lang="en">Losses</dc:subject>
+	<dc:description xml:lang="en">Preweaning calfhood diseases such as diarrhea and pneumonia have a devastating effect on a dairyman’s efforts to improve production. Losses of up to 30% of the live born calves are all too common. These losses reduce the dairyman’s ability to cull cows for low production and may increase dairy expenses due to the purchase of heifer replacements. In some cases, vaccines are available to control these losses, however, these vaccines should be less expensive than the disease itself in order to justify their use. The purpose of this article is to present two programmable calculator programs which help to explain the economic impact of diseases such as calfhood diarrhea and pneumonia. The first program projects the availability of herd replacements while the other program compares the cost of preventing a disease by vaccination to the actual cost of the disease itself.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1983-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2488</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1983no18p98-103</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 18 (1983 November); 98-103</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2488/2480</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1983 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

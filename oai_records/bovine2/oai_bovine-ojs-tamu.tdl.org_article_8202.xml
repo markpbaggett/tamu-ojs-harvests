@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8202</identifier>
+				<datestamp>2021-09-23T02:56:56Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Description of feedlot animals culled for slaughter, revenue received, and associations with reported US beef market prices</dc:title>
+	<dc:creator xml:lang="en">Horton, Lucas M.</dc:creator>
+	<dc:creator xml:lang="en">Depenbusch, Brandon E.</dc:creator>
+	<dc:creator xml:lang="en">Pendell, Dustin L. </dc:creator>
+	<dc:creator xml:lang="en">Renter, David G. </dc:creator>
+	<dc:subject xml:lang="en">beef markets</dc:subject>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">cull</dc:subject>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">revenue</dc:subject>
+	<dc:description xml:lang="en">Our objectives were to describe revenue received for feedlot cattle culled for slaughter and associations with reported weekly prices from US beef markets. Observational data on feedlot culls (N = 2,992) were collected from 4 Kansas feedlots over 2 years (2018 to 2020). Weekly prices from various US beef markets were used to evaluate correlations with prices received for culled animals. Descriptive statistics, and linear and generalized linear mixed models, were used to evaluate characteristics of feedlot culls. Musculoskeletal/trauma (49.7%) and respiratory disease (40.9%) were the most common reasons for culling. Culls returned revenue 98.1% of the time; those culled for respiratory disease or “other” reasons returned revenue significantly less frequently (96.7 or 96.3%, respectively) than those culled for musculoskeletal/trauma (99.1%). Mean revenue received [± 95% CI] was 434.81 [427.22 to 442.40] $/animal (culls returning no revenue included); and mean carcass price was 87.40 [86.70 to 88.10] $/hundredweight. Revenue was significantly correlated with several market indices, but most correlations were relatively weak. In this population, national cull cow (Breaker [75% lean]; over 500 lb [227 kg]) prices appeared to be the overall best indicator of feedlot cull prices, with feedlot cull carcasses averaging 74.6% of the weekly cull cow carcass price.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8202</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol55no1p65-77</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 55, No. 1 (2021); 65-77</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8202/8141</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

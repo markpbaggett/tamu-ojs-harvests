@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/68</identifier>
+				<datestamp>2023-04-10T23:58:54Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Development and Independent Laboratory Validation of an Analytical Method for the Direct Determination of Glyphosate, Glufosinate, and Aminomethylphosphonic Acid in Honey by Liquid Chromatography/Tandem Mass Spectrometry</dc:title>
+	<dc:creator xml:lang="en">Chamkasem, Narong</dc:creator>
+	<dc:creator xml:lang="en">Vargo, John D.</dc:creator>
+	<dc:subject xml:lang="en">glyphosate</dc:subject>
+	<dc:subject xml:lang="en">honey</dc:subject>
+	<dc:subject xml:lang="en">LC/MS</dc:subject>
+	<dc:subject xml:lang="en">method development and validation</dc:subject>
+	<dc:description xml:lang="en">A simple high-throughput liquid chromatography/tandem mass spectrometry (LC-MS/MS) method was developed for the determination of glyphosate, glufosinate and aminomethylphosphonic acid (AMPA) in honey using a reversed-phase column with weak anion-exchange and cation-exchange mixed-mode. One gram of sample was shaken with water containing ethylenediaminetetraacetic acid disodium salt and acetic acid for five minutes. After centrifugation, the supernatant was mixed with internal standard and directly injected and analyzed in ten minutes by LC-MS/MS with no sample concentration or derivatization steps. Two precursor/product ion transitions were monitored in the method for each target compound to achieve true positive identification. Three isotopically labelled internal standards corresponding to each analyte were used to correct for matrix suppression effects and/or instrument signal drift. The average recovery for all analytes at 25, 50, 100, and 500 ng/g (n=11) ranged from 87 to 111% with a relative standard deviation of less than 12%.https://doi.org/10.21423/jrs-v05n02p001 (DOI assigned 3/11/2019)</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2017-08-08</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">new method</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/68</dc:identifier>
+	<dc:identifier>10.21423/JRS-V05N02P001</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol 5, No 2 (2017); 1-9</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/68/69</dc:relation>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

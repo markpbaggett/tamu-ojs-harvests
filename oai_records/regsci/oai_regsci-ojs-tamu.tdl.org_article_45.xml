@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/45</identifier>
+				<datestamp>2023-04-10T23:40:09Z</datestamp>
+				<setSpec>regsci:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Regulatory Science: Mathematical vs. Statistical Models</dc:title>
+	<dc:creator xml:lang="en">Shepard, Richard B</dc:creator>
+	<dc:subject xml:lang="en">statistics</dc:subject>
+	<dc:subject xml:lang="en">models</dc:subject>
+	<dc:subject xml:lang="en">prediction</dc:subject>
+	<dc:subject xml:lang="en">water quality</dc:subject>
+	<dc:subject xml:lang="en">natural variability</dc:subject>
+	<dc:description xml:lang="en">Natural resource companies do not object to environmental regulations that are consistent and support predictability. Consistency and predictability are critical for decision making under conditions of uncertainty. Natural ecosystems are inherently variable across a broad range of temporal and spatial scales; climate change, drought, and societal desires for sustainability make people more aware of this variability. The science used for development and enforcement of environmental regulations has not kept pace with developments in ecological theory and the analytical tools capable of describing, characterizing, classifying, and predicting natural ecosystems as well as distinguishing natural variability from anthropogenic changes.Because natural resource industries (agriculture, energy, mining) provide the base for all economic and societal activities it is critical that environmental statutes and regulations be regularly updated to use the most technically sound and legally defensible scientific knowledge and tools.Mathematical models were the tools of choice when environmental statutes and regulations were introduced, perhaps because they were successfully applied to static components of the built environment such as buildings and bridges. While their limitations for highly variable natural ecosystems were accepted then, there is now no benefit to not replacing them with statistical models.This paper describes limitations in policy and regulatory decision-making based on mathematical models and explains how the appropriate statistical models avoid the subjectivity and rigidity of the former. Changing the basis of determining and justifying policy and environmental regulations is consistent with the concepts of regulatory science applied to human health.https://doi.org/10.21423/jrs-v04n04p010 (DOI assigned 5/14/2019)</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2016-09-16</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/45</dc:identifier>
+	<dc:identifier>10.21423/JRS-V04N04P010</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 4 No. 4 (2016); 7-17</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/45/45</dc:relation>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

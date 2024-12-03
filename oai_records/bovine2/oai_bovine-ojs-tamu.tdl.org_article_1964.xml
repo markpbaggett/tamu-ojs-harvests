@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1964</identifier>
+				<datestamp>2021-08-28T00:41:24Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Mastitis prevention by selection of sires</dc:title>
+	<dc:creator xml:lang="en">Grootenhuis, G.</dc:creator>
+	<dc:subject xml:lang="en">bovine mastitis</dc:subject>
+	<dc:subject xml:lang="en">breeding</dc:subject>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">controls</dc:subject>
+	<dc:subject xml:lang="en">Cows</dc:subject>
+	<dc:subject xml:lang="en">Genetics</dc:subject>
+	<dc:subject xml:lang="en">Mastitis</dc:subject>
+	<dc:subject xml:lang="en">selection</dc:subject>
+	<dc:subject xml:lang="en">disease resistence</dc:subject>
+	<dc:description xml:lang="en">The investigation results mentioned led to the hypothesis: "Higher milk cell counts in the 1st lactation daughter groups indicate a higher susceptibility to mastitis and subsequently a higher mastitis prevalence with increasing age". The validity of this hypothesis has been investigated in the presented study by a simple scheme.
+Older sires were selected for this purpose in order to establish the (different) predicting cell counts in their 1st lactation daughters - and - to examine quarter samples from respective older age groups for the prevalence of mastitis.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1981-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1964</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1981no16p37-39</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 16 (1981 November); 37-39</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1964/1956</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1981 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

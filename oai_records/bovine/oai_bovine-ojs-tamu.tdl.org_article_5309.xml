@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5309</identifier>
+				<datestamp>2020-03-21T07:17:39Z</datestamp>
+				<setSpec>aabp:RSD1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Persistent Coliform Mastitis</dc:title>
+	<dc:creator xml:lang="en">Ackerman, C. E.</dc:creator>
+	<dc:creator xml:lang="en">Wehrman, C. T.</dc:creator>
+	<dc:creator xml:lang="en">Busman, P. A.</dc:creator>
+	<dc:creator xml:lang="en">Neuder, L. M.</dc:creator>
+	<dc:creator xml:lang="en">Sears, P. M.</dc:creator>
+	<dc:subject xml:lang="en">coliforms</dc:subject>
+	<dc:subject xml:lang="en">clinical mastitis</dc:subject>
+	<dc:subject xml:lang="en">gram-negative</dc:subject>
+	<dc:subject xml:lang="en">antibiotics</dc:subject>
+	<dc:subject xml:lang="en">herd health</dc:subject>
+	<dc:description xml:lang="en">The debate over treating clinical mastitis with an antibiotic has hinged around the isolation of environmental pathogens. Although intramammary antibiotics may be successful in eliminating gra~-positive organisms, beta-lactam antibiotics have little efficacy on gram-negative organisms. Research also reports1 that many of the gram-negative coliforms are self-eliminating, and are generally cleared by the time clinical mastitis is detected when antibiotics are administered. However, others have reported2 that coliforms can persist without treatment and can contribute to increased somatic cell count in a herd. This study looked at the persistence of gram-negative coliforms in quarters that have been identified by culture at the signs of clinical mastitis.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2003-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5309</dc:identifier>
+	<dc:identifier>10.21423/aabppro20035309</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2003; 170-171</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5309/5177</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2003 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

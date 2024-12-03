@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4079</identifier>
+				<datestamp>2020-02-06T08:52:59Z</datestamp>
+				<setSpec>aabp:GS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Recommendations for Castration and Dehorning of Cattle</dc:title>
+	<dc:creator xml:lang="en">Coetzee, Hans</dc:creator>
+	<dc:subject xml:lang="en">dehorning</dc:subject>
+	<dc:subject xml:lang="en">castration</dc:subject>
+	<dc:subject xml:lang="en">pain management</dc:subject>
+	<dc:subject xml:lang="en">anesthesia</dc:subject>
+	<dc:subject xml:lang="en">analgesia</dc:subject>
+	<dc:subject xml:lang="en">weight gain</dc:subject>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:description xml:lang="en">Pain associated with routine husbandry procedures such as dehorning and castration is increasingly being scrutinized by the public. The results of a survey of AABP and AVC members suggest that surgical castration with a scalpel followed by emasculator (&amp;gt;200 lb or 90 kg) or twisting ( &amp;lt;200 lb or 90 kg) is the most common castration method used by practitioners in the United States. Risk of injury to the operator, calf size, handling facilities, and experience were the most important considerations in selecting a castration method. Non-surgical castration is perceived to cause more adverse events than surgical castration. One in five veterinarians currently report using anesthesia or analgesia at the time of castration. Ninety percent of veterinarians vaccinate and dehorn at the time of castration. The Barnes dehorning tool appears to be the most common method of dehorning used in the US. Results of studies that use plasma cortisol or weight gain to determine the optimal timing and method of castration and use of analgesia are often equivocal or conflicting. The preliminary findings of a study using electroencephalography to examine the effect of age at the time of castration on brainwave activity show a more prominent shift toward high-frequency, low-amplitude brain activity in older calves compared with six-week-old calves. Meloxicam tablets administered orally at 0.45 mg/lb (1 mg/kg) may provide a convenient and cost-effective means of providing analgesia in cattle. A mean peak plasma concentration (Cmax) of3.10 ug/mL (Range: 2.64- 3.79 ug/mL) was recorded at 11.64 hours (Range: 10 - 12 hours) with a half-life (T ½ Az) of 27.54 hours (Range: 19.97 - 43.29 hours) after oral meloxicam administration. In recent studies we found that meloxicam administered prior to dehorning at 0.23 mg/lb (0.5 mg/kg) IV significantly increased average daily weight gain in calves after dehorning. A second study found that calves receiving oral meloxicam 24 hours prior to surgical castration tended to have a lower incidence of bovine respiratory disease.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2010-08-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4079</dc:identifier>
+	<dc:identifier>10.21423/aabppro20104079</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2010; 40-45</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4079/4004</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2010 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

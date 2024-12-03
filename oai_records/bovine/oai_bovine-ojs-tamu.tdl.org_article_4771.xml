@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4771</identifier>
+				<datestamp>2020-02-15T08:42:00Z</datestamp>
+				<setSpec>aabp:JD</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Association Between Reproduction and Preweaning Growth Traits and ELISA Scores for Paratuberculosis in an Angus-Brahman Multibreed Herd of Cattle</dc:title>
+	<dc:creator xml:lang="en">Elzo, M. A.</dc:creator>
+	<dc:creator xml:lang="en">Rae, D. O.</dc:creator>
+	<dc:creator xml:lang="en">Lanhart, S. E.</dc:creator>
+	<dc:creator xml:lang="en">Wasdin, J. G.</dc:creator>
+	<dc:creator xml:lang="en">Dixon, W. P.</dc:creator>
+	<dc:creator xml:lang="en">Jones, J. L.</dc:creator>
+	<dc:subject xml:lang="en">gestation length</dc:subject>
+	<dc:subject xml:lang="en">calving interval</dc:subject>
+	<dc:subject xml:lang="en">time open</dc:subject>
+	<dc:subject xml:lang="en">weight change</dc:subject>
+	<dc:subject xml:lang="en">pre-calving</dc:subject>
+	<dc:subject xml:lang="en">weaning</dc:subject>
+	<dc:subject xml:lang="en">paratuberculosis</dc:subject>
+	<dc:description xml:lang="en">Genetic evaluation of animals for reproduction and production traits in beef cattle relies on models that account for environmental and genetic effects in the records used to perform computations. Records are assumed to come from healthy animals. This assumption is likely to be appropriate for acute or subacute infectious diseases that have short subclinical stages, where sick animals can be easily identified, and their records excluded from genetic evaluations. However, for chronic infectious diseases with long subclinical stages, it may be difficult to accurately identify sick animals. Their records are likely to be included in genetic evaluations, and losses in performance due to subclinical disease effects will not be accounted for.
+One chronic incurable disease of cattle and other ruminants with subclinical stages that last for years is paratuberculosis. Paratuberculosis is caused by Mycobacterium avium subspecies paratuberculosis (MAP). A commonly used serological test to detect subclinical para tuberculosis is ELISA. The purpose of ELISA is to detect antibodies against MAP in the serum of infected animals. This test is primarily a herd-screening tool, and can detect approximately 50% of infected animals. In spite of its low sensitivity, Elzo et al (2006) found significant associations between ELISA scores for paratuberculosis and several cow and calf traits in a multibreed herd of beef cattle. The next step was to evaluate these associations from a genetic evaluation perspective, i.e., to quantify the association between individual traits of interest and ELISA scores.
+The objective of this research was to obtain regression estimates of gestation length (GL), calving interval (CI), time open (TO), weight change of cow (WC) from late November (pre-calving) to September (weaning), birth weight of calf (BW) and weaning weight of calf (WW) on ELISA scores for paratuberculosis in an Angus-Brahman multibreed herd of beef cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4771</dc:identifier>
+	<dc:identifier>10.21423/aabppro20064771</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2006; 318-319</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4771/4667</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

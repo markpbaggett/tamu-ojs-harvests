@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/74</identifier>
+				<datestamp>2023-04-11T02:09:29Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Variance Structure of Aflatoxin Contaminated Maize In Incoming Trucks at Commercial Mills in Kenya</dc:title>
+	<dc:creator xml:lang="en">Fischer, Karen</dc:creator>
+	<dc:creator xml:lang="en">Herrman, Timothy J.</dc:creator>
+	<dc:creator xml:lang="en">Hoffmann, Vivian</dc:creator>
+	<dc:creator xml:lang="en">Lee, Kyung-Min</dc:creator>
+	<dc:subject xml:lang="en">aflatoxin</dc:subject>
+	<dc:subject xml:lang="en">variance component analysis</dc:subject>
+	<dc:subject xml:lang="en">mill</dc:subject>
+	<dc:subject xml:lang="en">risk management</dc:subject>
+	<dc:subject xml:lang="en">regulatory</dc:subject>
+	<dc:subject xml:lang="en">agency</dc:subject>
+	<dc:description xml:lang="en">Aflatoxin contamination in maize represents a significant food safety hazard in Kenya. To manage this risk, millers need to properly sample incoming bags of maize. In this study, three firms allowed researchers access to sample three incoming trucks each to quantify sources of variability using a hierarchical sampling design. A total of 180 samples consisting of two samples per bag, ten bags per truck, three trucks per mill, and three mills were sampled in April of 2014 and analyzed for aflatoxins using the Romer-FluorQuant test method. Samples from three trucks were analyzed twice for aflatoxin to define intra-bag variability, and extracts were analyzed in duplicate to quantify analytical variability. The variance was partitioned as follows: mill (1.9%), truck (4.1%), bag (60.8%), in-bag (26.6%), analytical error (6.3%) and residual error (0.3%). Using these data, a power study was conducted to optimize the number of bags per truck that should be sampled. The power test, depicted using a power curve, indicated that 20 bags provided a statistical probability of 0.83. This study characterizes the sources of variability in sampling, and the inclusion of a power study highlights the tradeoffs in the number of bags sampled and the ability to detect small effects in estimating the level of aflatoxin contamination in maize. https://doi.org/10.21423/jrs-v07fischer</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2019-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/74</dc:identifier>
+	<dc:identifier>10.21423/JRS-V07FISCHER</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol 7 (2019); 1-5</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/74/107</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 Journal of Regulatory Science</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2878</identifier>
+				<datestamp>2021-08-30T19:48:33Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Update on the USDA National Animal Identification System (NAIS) program</dc:title>
+	<dc:creator xml:lang="en">Spire, Mark F.</dc:creator>
+	<dc:subject xml:lang="en">bovine</dc:subject>
+	<dc:subject xml:lang="en">animal ID</dc:subject>
+	<dc:subject xml:lang="en">identification</dc:subject>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">disease surveys</dc:subject>
+	<dc:description xml:lang="en">The National Animal Identification System proposed and under development by the USDA-APHIS is a comprehensive program designed to provide rapid response following the introduction of a foreign animal disease (accidental or intentional), the discovery of an emerging pathogen or within the framework of existing regulatory programs for currently known domestic animal diseases. It is being planned as a three-part voluntary programme: premises registration, individual or group/lot animal identification and animal movement tracking. The premises and animal identification components of the program fit well with other USDA programs, particularly the Agricultural Marketing Service source and age verification programme, for use by producers for value discovery in animals entering marketing channels.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2007-03-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2878</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol41no1p66-69</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 41, No. 1 (2007 Spring); 66-69</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2878/2868</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2007 The Bovine Practitioner</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

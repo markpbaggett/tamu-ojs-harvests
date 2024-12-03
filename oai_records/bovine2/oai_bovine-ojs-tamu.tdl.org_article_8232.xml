@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8232</identifier>
+				<datestamp>2022-01-20T03:02:47Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Retrospective evaluation of excess death loss in feedlot  cattle associated with in-feed tylosin application  programs</dc:title>
+	<dc:creator xml:lang="en">Rutten-Ramos, Stephanie C.</dc:creator>
+	<dc:creator xml:lang="en">Simjee, Shabbir</dc:creator>
+	<dc:creator xml:lang="en">Bargen, Jason L. </dc:creator>
+	<dc:creator xml:lang="en">Vogel, Gary J. </dc:creator>
+	<dc:subject xml:lang="en">antibiotic</dc:subject>
+	<dc:subject xml:lang="en">typlosin</dc:subject>
+	<dc:subject xml:lang="en">feed</dc:subject>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">mortality</dc:subject>
+	<dc:description xml:lang="en">Daily feedlot records from steer and heifer lots slaughtered between January 2015 and December 2020 were evaluated for timing of tylosin programs and death events. Tylosin applications were described as Any/None (1/0) in the first 30 days-on-feed, Any in the middle feeding period, and Any/None (1/0) in the last 30 days-on-feed. The final analysis included 125,520 lots of cattle with 18,814,224 head placed. By year, week of the year, week on feed, sex type, hundred-weight at placement and tylosin program, weekly deaths were summarized as deaths per thousand head fed (Deaths_K). Using continuously fed tylosin lots as baseline for each summarized category, excess Deaths_K were calculated for each program. For each hundredweight group, mixed analysis of variance models were developed to assess differences in excess Deaths_K across tylosin programs. Overall, cattle not fed tylosin in the first 30 d in the feedlot experienced higher Deaths_K than cattle that were. Differences in excess death loss across tylosin programs were greater among cattle placed under 800 lb (363 kg) compared to heavier cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-12-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8232</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol55no2p134-139</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 55 No. 2 (2021); 134-139</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8232/8156</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

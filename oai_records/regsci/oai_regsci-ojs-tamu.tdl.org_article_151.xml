@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/151</identifier>
+				<datestamp>2023-04-11T19:27:25Z</datestamp>
+				<setSpec>regsci:PC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Utility of Weight-of-Evidence Components in Risk Assessment: Example of Digestion Results in the Allergenicity Assessment of Newly Expressed Proteins in Genetically Engineered Crops</dc:title>
+	<dc:creator xml:lang="en">Herman, Rod</dc:creator>
+	<dc:creator xml:lang="en">Roper, Jason</dc:creator>
+	<dc:creator xml:lang="en">Storer, Nicholas</dc:creator>
+	<dc:subject xml:lang="en">risk assessment</dc:subject>
+	<dc:subject xml:lang="en">weight of evidence</dc:subject>
+	<dc:subject xml:lang="en">genetically engineered crops</dc:subject>
+	<dc:subject xml:lang="en">allergenicity</dc:subject>
+	<dc:subject xml:lang="en">regulatory oversight</dc:subject>
+	<dc:subject xml:lang="en">Regulatory Science</dc:subject>
+	<dc:description xml:lang="en">Various weight-of-evidence risk-assessment frameworks have been used for regulatory decision making. In this policy commentary, we critically assess the value of including gastric and/or intestinal digestion results in the weight of evidence designed to inform the allergenicity assessment of newly expressed proteins in genetically engineered crops. This example highlights a general concept: specifically, that there is negligible value in considering a factor as a component of the risk assessment when differing outcomes for this factor do not result in different risk decisions under any reasonable hypothetical scenario regarding results from the other components of the risk assessment. We conclude that equitable and science-based regulatory guidance should include examples of weight-of-evidence scenarios illustrating how differing outcomes for each individual component within the weight of evidence would result in a different conclusion on the acceptability of the potential risk under consideration. Critically assessing each component of the weight of evidence in this manner helps avoid inclusion of components that can only distract risk assessors from the critical decision-making process, possibly resulting in inconsistent risk assessment outcomes for the same datasets.
+https://doi.org/10.21423/jrs-v09i2rod</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2021-06-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/151</dc:identifier>
+	<dc:identifier>10.21423/JRS-V09I2ROD</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 9 No. 2 (2021); 1-3</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/151/235</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 Rod Herman, Jason M. Roper, Nicholas P. Storer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0/</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

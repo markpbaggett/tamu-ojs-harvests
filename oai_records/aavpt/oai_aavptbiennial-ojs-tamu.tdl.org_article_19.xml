@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/19</identifier>
+				<datestamp>2022-06-25T02:44:41Z</datestamp>
+				<setSpec>aavptbiennial:S3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A novel, selective HPLC method for the determination of ponazuril concentrations in green turtle (Chelonia mydas) plasma</dc:title>
+	<dc:creator xml:lang="en">Maxwell, L.</dc:creator>
+	<dc:creator xml:lang="en">Stacy, N.</dc:creator>
+	<dc:creator xml:lang="en">Jacobson, E.</dc:creator>
+	<dc:creator xml:lang="en">Mader, D.</dc:creator>
+	<dc:creator xml:lang="en">Moretti, R.</dc:creator>
+	<dc:creator xml:lang="en">Zirkelbach, B.</dc:creator>
+	<dc:creator xml:lang="en">O'Connor, C.</dc:creator>
+	<dc:creator xml:lang="en">Rackley, K.</dc:creator>
+	<dc:subject xml:lang="en">high-performance liquid chromatography</dc:subject>
+	<dc:subject xml:lang="en">solid-phase extraction</dc:subject>
+	<dc:subject xml:lang="en">toltrazuril sulphone</dc:subject>
+	<dc:subject xml:lang="en">sea turtle</dc:subject>
+	<dc:subject xml:lang="en">reptile</dc:subject>
+	<dc:description xml:lang="en">Ponazuril is a triazine antiprotozoal drug that is approved in the U.S. for the therapy of Sarcocystis neurona infection in horses. A related apicomplexan parasite, Caryospora cheloniae, is associated with severe enteritis and encephalitis in immature wild and farm-raised green turtles (Chelonia mydas) in Australia and Florida. Therefore, an effective therapeutic agent should be both orally absorbed and well-distributed to the central nervous system of green turtles. Since ponazuril is administered to bearded dragons (Pogona spp) with coccidiosis and is broadly active against apicomplexans, we selected ponazuril for assessment in green turtles. Initial HPLC analysis of green turtle plasma revealed large endogenous peaks that co-eluted with ponazuril. Therefore, solid-phase extraction (Oasis HLB, Waters Corp. Milford, MA) cartridges were utilized to remove the interfering compound. The final method used toltrazuril as an internal standard, a SymmetryShield RP18 5μm column (Waters Corp.), and a mobile phase of 0.1% formic acid in 61% of 1:1 acetonitrile:methanol with ultraviolet detection at 255 nm. It was simple, sensitive, and specific in turtle plasma. The limit of quantitation was 0.05 mg/l. The intraday accuracy and CV was 95% and 4% at 0.5 mg/l and 108% and 5% at 25 mg/l, whereas the interday accuracy and CV were 99% and 4% at 0.5 mg/l and 106% and 2% at 25 mg/l, respectively. The method successfully demonstrated that ponazuril was absorbed after oral administration to a green turtle at a dose rate of 50 mg/kg, so appropriate use of ponazuril in this species is worthy of further study.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2017-05-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/19</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 20th Biennial Symposium</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/19/19</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

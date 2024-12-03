@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8773</identifier>
+				<datestamp>2024-02-25T00:19:35Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of electronic nose and conventional cow-side diagnostic tools for detection of ketosis in early lactation dairy cows</dc:title>
+	<dc:creator xml:lang="en">Schelkopf, Conrad S.</dc:creator>
+	<dc:creator xml:lang="en">Apley, Michael D.</dc:creator>
+	<dc:creator xml:lang="en">Lubbers, Brian V.</dc:creator>
+	<dc:subject xml:lang="en">ketosis</dc:subject>
+	<dc:subject xml:lang="en">dairy cattle</dc:subject>
+	<dc:subject xml:lang="en">diagnostic test</dc:subject>
+	<dc:subject xml:lang="en">electronic nose</dc:subject>
+	<dc:description xml:lang="en">Rapid diagnosis of ketosis in dairy cows is imperative for treatment and managing economic losses. Cow-side ketosis diagnostic tools are greatly needed. The objective of this study was to compare three tools for the detection of ketosis, using serum β-hydroxybutyrate (BHB) as the gold standard. The di­agnostic tools tested were: (1) Precision Xtra® handheld blood ketone meter, (2) ReliOn® urine ketone test strip, and (3) Cyra­nose 320® electronic nose (eNose) for use on milk and urine. Dairy cows (n = 60) were sampled immediately post-calving. Whole blood, serum, milk, and urine were collected and ana­lyzed on the same day. Each modality was compared to BHB to determine sensitivity and specificity. Positive predictive value (PPV) and negative predictive value (NPV) were calculated across a range of ketosis, consistent with reported prevalence (10-35%) in U.S. dairy operations. Urine ketone strips provided the highest specificity (99.2%), yet low sensitivity (58.6%). The Precision Xtra demonstrated adequate sensitivity (93.8%) and specificity (92.9%). The eNose had substandard sensitivity and specificity when used on milk (Sn: 58.8%; Sp: 44.3%) and urine (Sn: 18.8%%; Sp: 80.6%) compared to the other modalities. Al­though the actual predictive values change with prevalence, urine ketone test strips had the highest PPV (89.5-97.6%) and Precision Xtra had the highest NPV (99.3-96.5%) across all simulated ketosis prevalences. Both urine ketone test strips and the Precision Xtra are adequate cow-side ketosis detection tools. Further optimization of the eNose is needed before de­ployment as a field diagnostic tool.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2023-11-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8773</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol27no2p5-16</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 57 No. 2 (2023); 5-15</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8773/8516</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/17</identifier>
+				<datestamp>2019-06-27T16:46:09Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Establishment of Performance Verification Procedures for Fourier Transform Infrared Spectrometers</dc:title>
+	<dc:creator xml:lang="en">Lanzarotta, Adam</dc:creator>
+	<dc:creator xml:lang="en">Witkowski, Mark</dc:creator>
+	<dc:creator xml:lang="en">Andria, Sara</dc:creator>
+	<dc:creator xml:lang="en">Crowe, John</dc:creator>
+	<dc:subject xml:lang="en">Spectrometer</dc:subject>
+	<dc:subject xml:lang="en">Infrared spectroscopy</dc:subject>
+	<dc:subject xml:lang="en">Infrared microscope</dc:subject>
+	<dc:subject xml:lang="en">Performance verification procedures</dc:subject>
+	<dc:subject xml:lang="en">Standard operating procedures</dc:subject>
+	<dc:description xml:lang="en">An integral part of any laboratory Quality Management System (QMS) is the ability to verify an analytical instrument0s performance prior to analyzing ocial samples. Performance verification procedures provide the instrument user the means to assess whether a system is functioning properly. They are a routine predetermined set of tests and acceptance criteria that can be provided by the instrument manufacturer and/or established by the laboratory itself. Performance verification procedures that have been established for a Fourier transform infrared (FT-IR) microscope system outfitted with a macro sampling accessory allow the user to determine the daily and/or annual functionality of the instrument. Specifications were established for the IR microscope operating in transmission, reflection/absorption (R/A) and attenuated total reflection (ATR) sampling modes. The specifications for the macro sampling accessory were established for transmission and ATR sampling modes only. The acceptance criterion for each performance verification specification was calculated from a series of measurements made using each accessory and sampling mode. The performance verification procedures, as well as their associated specification and acceptance criteria described in this study, are general enough that they can be applied to FT-IR instruments from dierent manufacturers.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2015-08-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/17</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.3117</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 3 No. 1 (2015); 1-8</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/17/75</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/258</identifier>
+				<datestamp>2023-02-21T22:59:42Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Use of a Portable X-Ray Fluorescence Analyzer for  Rapid and Accurate Determination of Iron in Vitamins and Supplements</dc:title>
+	<dc:creator xml:lang="en">Casillas, Cassandra</dc:creator>
+	<dc:creator xml:lang="en">Chew, Swee</dc:creator>
+	<dc:creator xml:lang="en">Lam, Alex</dc:creator>
+	<dc:creator xml:lang="en">Castillo, Juan</dc:creator>
+	<dc:creator xml:lang="en">Palmer, Pete</dc:creator>
+	<dc:subject xml:lang="en">SRM</dc:subject>
+	<dc:subject xml:lang="en">ICP-MS</dc:subject>
+	<dc:subject xml:lang="en">LOD</dc:subject>
+	<dc:subject xml:lang="en">ppm</dc:subject>
+	<dc:subject xml:lang="en">XRF</dc:subject>
+	<dc:subject xml:lang="en">Regulatory Analysis</dc:subject>
+	<dc:subject xml:lang="en">Analytical Method</dc:subject>
+	<dc:description xml:lang="en">This study describes the development of an X-Ray Fluorescence (XRF) method to quantify iron in vitamins and supplements. Four different products and a NIST Standard Reference Material (SRM) were prepared by homogenizing 20 tablets in a mixer mill and diluting known masses of each sample into known masses of cellulose. Calibration standards were similarly prepared by diluting known masses of iron oxide into known masses of cellulose. Analyses were performed using a handheld XRF analyzer using one-minute analysis times. The method gave linear calibration curves with R2 values greater than 0.9995, and good accuracy as demonstrated by relative errors of 9% in the analysis of the NIST SRM. Experimentally determined concentrations of the samples were compared to the nominal concentration of the samples based on the mass of iron per tablet and the average tablet mass. XRF results gave relative differences of +4% and -4% for two iron supplements. XRF results gave a larger relative difference of -19% for the women’s vitamin product. Although the label on the men’s vitamin product stated it was iron-free, XRF and Microwave Plasma Atomic Emission Spectrometry (MP-AES) analyses showed it contained iron levels of 157 and 133 µg/g (ppm), respectively. This XRF method offers a simpler, faster, and less expensive alternative to conventional atomic spectrometry-based methods for this type of application.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2023-02-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/258</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.102258</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 10 No. 2 (2022): Special Issue on Regulatory Applications of Portable Tools and Methods to Monitor Toxic Substances in Consumer Products; 1-13</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/258/301</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2023 Cassandra Casillas, Swee Chew, Alex Lam, Juan Castillo, Pete Palmer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

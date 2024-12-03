@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5972</identifier>
+				<datestamp>2020-04-10T16:56:12Z</datestamp>
+				<setSpec>aabp:RS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Dectomax Discovery: A Review of the Scientific Approach to Long Duration Endectocide Activity</dc:title>
+	<dc:creator xml:lang="en">Rew, Robert S.</dc:creator>
+	<dc:subject xml:lang="en">novel endectocide</dc:subject>
+	<dc:subject xml:lang="en">pharmacokinetic profiles</dc:subject>
+	<dc:subject xml:lang="en">parasiticides</dc:subject>
+	<dc:subject xml:lang="en">Streptomyces auermitilis</dc:subject>
+	<dc:description xml:lang="en">Approximately 10 years ago, Pfizer Animal Health resolved to discover and develop a novel parasiticide active against internal and external parasites that was superior to currently marketed parasiticides in spectrum of activity and time of protection from reinfection. Several scientific teams of researchers were assembled to achieve this goal through a series of approaches including innovative fermentation research. These scientists discovered a series of key enzymes in a complex biochemical pathway that controlled the production of avermectins by Streptomyces auermitilis. Modification of one of these enzymes through mutational techniques allowed the scientists to alter the known end-products, and with subsequent novel substrate feeding, allowed them to create a series of novel avermectin analogs. Biological screens were then utilized to select the "best" analog against parasites in non-target and target hosts. Concomitant with the biological testing, pharmacokinetic profiles were generated to select the "best" formulation of the "best" analog for therapeutic activity and time of protection from reinfection. The end result was Dectomax, a novel endectocide for treatment and long-acting protection against economically important, internal and external parasites of cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1996-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5972</dc:identifier>
+	<dc:identifier>10.21423/aabppro19965972</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1996; 161-163</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5972/5784</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1996 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

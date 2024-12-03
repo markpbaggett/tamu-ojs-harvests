@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7094</identifier>
+				<datestamp>2021-08-27T21:21:50Z</datestamp>
+				<setSpec>aabp:FCCDCS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Daisy: Dairy Information System, An Aid to Record Keeping &amp; Health Management</dc:title>
+	<dc:creator xml:lang="en">Esslemont, R. J.</dc:creator>
+	<dc:creator xml:lang="en">Stephens, A. J.</dc:creator>
+	<dc:creator xml:lang="en">Ellis, P.R.</dc:creator>
+	<dc:subject xml:lang="en">Herd Health</dc:subject>
+	<dc:subject xml:lang="en">Productivity Control</dc:subject>
+	<dc:subject xml:lang="en">Herd Monitoring</dc:subject>
+	<dc:subject xml:lang="en">MELBREAD</dc:subject>
+	<dc:subject xml:lang="en">Data entry</dc:subject>
+	<dc:subject xml:lang="en">database</dc:subject>
+	<dc:description xml:lang="en">This paper presents background information on the development of herd monitoring and a description of computerized record systems for the dairy herd developed by V.E.E.R.U., especially the 'DAISY' software package for small computer systems.&amp;nbsp;</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1980-11-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7094</dc:identifier>
+	<dc:identifier>10.21423/aabppro19807094</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1980; 51-60</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7094/7383</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1980 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

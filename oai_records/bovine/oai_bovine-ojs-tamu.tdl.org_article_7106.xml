@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7106</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Basics of genetic variation and the use of genomic technologies in cattle</dc:title>
+	<dc:creator xml:lang="en">Osterstock, Jason B.</dc:creator>
+	<dc:subject xml:lang="en">Genetic variation</dc:subject>
+	<dc:subject xml:lang="en">phenotype</dc:subject>
+	<dc:subject xml:lang="en">genomic technologies</dc:subject>
+	<dc:subject xml:lang="en">genomic merit</dc:subject>
+	<dc:description xml:lang="en">Genetic variation is an important factor in determining phenotypic variation in cattle. This variation arises in large part from differences in the genetic composition among animals. Genomic technologies can help to describe this variation and expected phenotypic impacts in part associated with differences in coding regions of the genome affecting protein structure and function, and by characterizing similarities among animals at the molecular level that can help inform prediction of genetic merit among genomically similar animals. When applied in this manner, genomic technologies help to provide more accurate estimation of genetic merit for more traits than can often be effectively measured phenotypically much earlier in life. This improves and accelerates decision making, thus optimizing production efficiency.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7106</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197106</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 110-111</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7106/5898</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

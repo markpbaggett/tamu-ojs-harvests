@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7301</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The potential use of MALDI Sepsityper™ technology for rapid diagnosis of septicemia in dairy calves</dc:title>
+	<dc:creator xml:lang="en">Hengy, M. H.</dc:creator>
+	<dc:creator xml:lang="en">Garcia, J. D.</dc:creator>
+	<dc:creator xml:lang="en">Diaz-Campos, D.</dc:creator>
+	<dc:creator xml:lang="en">Pempek, J. A.</dc:creator>
+	<dc:creator xml:lang="en">Hinds, C. A.</dc:creator>
+	<dc:creator xml:lang="en">Habing, G. G.</dc:creator>
+	<dc:subject xml:lang="en">neonatal calf diarrhea</dc:subject>
+	<dc:subject xml:lang="en">septicemia</dc:subject>
+	<dc:subject xml:lang="en">bacteremia</dc:subject>
+	<dc:subject xml:lang="en">diagnostic tools</dc:subject>
+	<dc:description xml:lang="en">Neonatal calf diarrhea is the leading cause of calf mortality in the United States and can be associated with more severe sequela including septicemia. The current preferred method for diagnosing septicemia in these patients is culture-based and can take a week or more to provide bacterial identification. Therefore, this method is impractical to use when rapid treatment is necessary. In most instances, farm personnel give antibiotics empirically without confirmation of sepsis or identification of the causative agent, raising concerns over unnecessary or suboptimal antibiotic administration. A more recent alternative method for diagnosing bacteremia involves utilization of a Sepsityper™ kit in conjunction with matrix assisted laser desorption/ionization-time of flight mass spectrometry (MALDI-TOF MS), though this has not been employed extensively in veterinary medicine. This kit provides the ability to prepare a small sample of positive blood culture fluid for rapid bacterial identification, ultimately detecting bacteria causing sepsis 1 to 3 days sooner than traditional diagnostic measures. The sensitivity and specificity of this method for diagnosing septicemia has not been established in veterinary medicine. Therefore, the objective of this study was to ascertain these values and compare the use of Sepsityper with MALDI to current culture-based methods of detecting sepsis in diarrheic dairy calves. We hypothesized that the Sepsityper method would demonstrate more rapid and sensitive results for detecting bacteremia than traditional culture-based methods.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7301</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197301</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 399</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7301/6028</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

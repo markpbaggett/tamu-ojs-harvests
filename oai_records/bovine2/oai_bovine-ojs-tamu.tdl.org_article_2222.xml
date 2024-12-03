@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2222</identifier>
+				<datestamp>2021-08-28T00:56:48Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Decision analysis in bovine practice</dc:title>
+	<dc:creator xml:lang="en">Dohoo, Ian R.</dc:creator>
+	<dc:subject xml:lang="en">animal husbandry</dc:subject>
+	<dc:subject xml:lang="en">Bovine mastitis</dc:subject>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">Cost benefit analysis</dc:subject>
+	<dc:subject xml:lang="en">Economics</dc:subject>
+	<dc:description xml:lang="en">Decision and analysis has been described as “A systematic articulation of common sense”. It represents a quantitative approach to the decision-making process and, as such, it is simply a means of enhancing, not replacing, clinical judgment. In bovine practice, decisions have to be made regularly and these decisions are often made under conditions of uncertainty. Decision analysis is a tool to help insure that appropriate decisions are made.
+The technique is widely used in the business community and is rapidly gaining acceptance in the medical profession but has only recently started to find favour in veterinary medicine. One of the first examples of its use in veterinary medicine was the analysis of the use of heat mount detectors in dairy herds. Subsequently it has been used in bovine practice to evaluate time for treatment of ovarian cysts in dairy cattle and the use of metabolic and cellular profiles in beef feed lots.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1984-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2222</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1984no19p193-196</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 19 (1984 November); 193-196</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2222/2214</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1984 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

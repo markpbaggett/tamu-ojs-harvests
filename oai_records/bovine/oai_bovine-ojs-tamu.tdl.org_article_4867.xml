@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4867</identifier>
+				<datestamp>2020-10-16T19:54:04Z</datestamp>
+				<setSpec>aabp:RS4</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Bovine Viral Diarrhea Viruses (BVDV) in the Feedlot: Prevalence of Persistent Infections, Utilization of Diagnostic Tests, and Distribution of BVDV Subtypes 1a, 1b, 2a</dc:title>
+	<dc:creator xml:lang="en">Fulton, R. W.</dc:creator>
+	<dc:creator xml:lang="en">Hessman, B.</dc:creator>
+	<dc:creator xml:lang="en">Johnson, B. J.</dc:creator>
+	<dc:creator xml:lang="en">Ridpath, J. F.</dc:creator>
+	<dc:creator xml:lang="en">Saliki, J. T.</dc:creator>
+	<dc:creator xml:lang="en">Burge, L. J.</dc:creator>
+	<dc:creator xml:lang="en">Confer, A. W.</dc:creator>
+	<dc:creator xml:lang="en">Payton, M. E.</dc:creator>
+	<dc:subject xml:lang="en">BVDV subgenotypes</dc:subject>
+	<dc:subject xml:lang="en">transmission</dc:subject>
+	<dc:subject xml:lang="en">prevalence</dc:subject>
+	<dc:subject xml:lang="en">persistently infected</dc:subject>
+	<dc:description xml:lang="en">Bovine viral diarrhea viruses (BVDV) represent significant pathogens for cattle. The BVDV affect several organ systems; however, the respiratory tract and fetal infections receive critical attention based on disease impact and potential for reservoirs/transmission. BVDV may cause primary infection of the respiratory tract and also serve to predispose the infected bovine to bacterial pathogens such as Mannheimia haemolytica, Pasteurella multocida, Histophilus somni, Archanobacterium pyogenes and Mycoplasma spp. Calves infected in utero and born persistently infected (PI) are important reservoirs of infection as they are life-long shedders of virus to susceptible cattle. Respiratory diseases in the feedlot are significant based on morbidity mortality and economic losses. Detection and removal of PI cattle could potentially lessen the economic effect of BVDV in the feedlot. Also, current BVDV control programs utilize vaccines in the US, primarily those containing BVDV1a and BVDV2a strains. Research at our institution has shown that the BVDV1b subgenotype is the major BVDV strain in our diagnostic laboratory accessions. The purpose of this study was three-fold: (1) determine prevalence of PI cattle entering a feedlot; (2) to utilize and compare various diagnostic tests to identify PI cattle; and (3) to determine the distribution of the BVDV1a, BVDV1b and BVDV2a subgenotypes in PI cattle entering the feedlot.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2005-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4867</dc:identifier>
+	<dc:identifier>10.21423/aabppro20054867</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2005; 206-207</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4867/4760</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2005 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

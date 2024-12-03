@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/97</identifier>
+				<datestamp>2021-08-31T02:18:08Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Randomized controlled trial to test the effect of on- arrival vaccination and deworming on Stocker cattle health and growth performance</dc:title>
+	<dc:creator xml:lang="en">Griffin, Courtney M.</dc:creator>
+	<dc:creator xml:lang="en">Scott, Jenna A.</dc:creator>
+	<dc:creator xml:lang="en">Karisch, Brandi B.</dc:creator>
+	<dc:creator xml:lang="en">Woolums, Amelia R.</dc:creator>
+	<dc:creator xml:lang="en">Blanton, John R.</dc:creator>
+	<dc:creator xml:lang="en">Kaplan, Ray M.</dc:creator>
+	<dc:creator xml:lang="en">Epperson, William B.</dc:creator>
+	<dc:creator xml:lang="en">Smith, David R.</dc:creator>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">vaccination</dc:subject>
+	<dc:subject xml:lang="en">performance</dc:subject>
+	<dc:subject xml:lang="en">deworming</dc:subject>
+	<dc:subject xml:lang="en">stocker cattle</dc:subject>
+	<dc:description xml:lang="en">Our objective was to determine the effect of vaccination and deworming at arrival (d 0) on bovine respiratory disease (BRD) incidence, mortality, and growth of Stocker calves. Calves (n=80) were stratified by d -3 weight and fecal egg count (FEC) into 20 pens of 4 calves. Pens were randomly assigned to treatments in a 2x2 factorial design, testing d 0 vaccination (modified-live respiratory virus and clostridial vaccine, or not) and deworming (oral fenbendazole and levamisole, or not). Body weights were measured on days 0, 14,28,42, 56, 70, and 85, and FEC were measured on days -3, 28, 56, and 85. Incidence of BRD was greater for d 0 vaccination (RR=3.2), high fever (&amp;gt;104°F, &amp;gt;40°C) at d 0 (RR=6), and higher d -3 FEC (RR=1.2 per 100 epg). Mortality was greater for d 0 vaccination (OR=8.3) and high fever (OR=41.6). Growth was 10.3 lb (4.7 kg) lower for d 0 vaccination, 24 lb (11 kg) and 16 lb (7.3 kg) lower for moderate (103°F to 103.9°F; 39.4°C to 39.9°C) and high fever, respectively, and 17.6 lb (8 kg) lower for each additional BRD treatment a calf received. Deworming was neither beneficial nor detrimental to any health or performance factors. Health and growth performance of Stocker calves may be adversely affected by vaccination at arrival, higher arrival FEC, and fever at arrival.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2018-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/97</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol52no1p26-33</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 52, No. 1 (2018 Spring); 26-33</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/97/88</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

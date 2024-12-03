@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1580</identifier>
+				<datestamp>2021-08-28T02:41:22Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Development and use of BOVID-3, an expert system for veterinarians involved in diagnosis, treatment and prevention of diseases of cattle</dc:title>
+	<dc:creator xml:lang="en">Brightling, P.</dc:creator>
+	<dc:creator xml:lang="en">Larcombe, M. T.</dc:creator>
+	<dc:creator xml:lang="en">Blood, B. C.</dc:creator>
+	<dc:creator xml:lang="en">Kennedy, P. C.</dc:creator>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">databases</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">disease prevention</dc:subject>
+	<dc:subject xml:lang="en">information processing</dc:subject>
+	<dc:subject xml:lang="en">treatment</dc:subject>
+	<dc:subject xml:lang="en">veterinarians</dc:subject>
+	<dc:description xml:lang="en">Case management is a complex process in which veterinarians utilise a large amount of information about diseases. This project was undertaken to develop a comprehensive, up-to-date information source on diseases of cattle, which could be easily interrogated and was presented in a form that supported common veterinary diagnostic decision-making techniques. The objective was to provide an information management tool which would be valuable for practitioners and government officers and could be used to enhance undergraduate education in cattle medicine. BOVID-3 is compiled from the veterinary literature and the experience of a panel of senior cattle clinicians and pathologists. Over 1040 different diseases have their clinical signs, clinicopathological findings, gross and histological lesions specified. Each disease also has a summary of its cause and transmission, major risk factors, confirmatory tests, recommended treatments and control measures (in general terms), and cross-references in standard texts. In case investigations, field veterinarians aim to establish differential lists that rank diseases in order of likelihood. BOVID-3 includes a classical probability analysis routine to model that approach. The program is currently used in 42 sites internationally. It is a primary resource for senior undergraduate veterinary students at the University of Melbourne where it has been integrated into the cattle medicine curriculum. Through use of BOVID-3, students learn the basis of the diagnostic strategies they are employing and how to access and manipulate information sources. These are facets of the deep learning approaches that innovative contemporary veterinary educators now foster.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1998-05-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1580</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1998no32.2p46-49</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 32.2 (1998 May); 46-49</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1580/1573</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1998 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

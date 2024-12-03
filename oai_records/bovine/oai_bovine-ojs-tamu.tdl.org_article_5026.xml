@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5026</identifier>
+				<datestamp>2020-03-18T07:12:06Z</datestamp>
+				<setSpec>aabp:RSB</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Antimicrobial Peptides and Surfactant Proteins: Potential New Factors Against Respiratory Tract Infection</dc:title>
+	<dc:creator xml:lang="en">Ackerman, Mark R.</dc:creator>
+	<dc:creator xml:lang="en">Brogden, Kim A.</dc:creator>
+	<dc:creator xml:lang="en">McCray, P. B.</dc:creator>
+	<dc:subject xml:lang="en">anionic peptides</dc:subject>
+	<dc:subject xml:lang="en">peptides</dc:subject>
+	<dc:subject xml:lang="en">cathelicidins</dc:subject>
+	<dc:subject xml:lang="en">defensins</dc:subject>
+	<dc:subject xml:lang="en">epithelia</dc:subject>
+	<dc:subject xml:lang="en">immunity</dc:subject>
+	<dc:subject xml:lang="en">pneumonia</dc:subject>
+	<dc:subject xml:lang="en">respiratory tract</dc:subject>
+	<dc:subject xml:lang="en">shipping fever</dc:subject>
+	<dc:description xml:lang="en">Although some vaccines and antibiotics have been very effective in preventing and treating respiratory disease, they have not been fully satisfactory. Recently, components of the innate immune system have been increasingly appreciated for their role in host defense against microbial pathogens. These molecules include lysozyme and lactoferrin, but recent work in cattle, sheep, man and other species have identified new classes of peptides expressed by respiratory epithelial cells that have potent microcidal activity in nanogram quantities. These peptides, termed antimicrobial peptides (AMP), include defensins, cathelicidins and anionic peptides. Some are expressed continuously whereas expression of others is stimulated by infection/inflammation. In calves, we have found that two AMP from the defensin family, tracheal antimicrobial peptide (TAP) and lingual antimicrobial peptide (LAP), are expressed in the newborn and increased in response to Mannheimia (Pasteurella) haemolytica infection. In contrast, sheep beta defensin-1 (SBD-1) is not induced by infection and, in fact, appears decreased during viral infection with paramyxovirus-3 (PI-3). Decreased SBD-1 by Pl-3 may increase the lung's susceptibility to secondary infections or re-infections. Other innate defense molecules include proteins released with lung surfactant. Surfactant protein A and D (SAD) can opsonize and aggregate respiratory syncytial virus (RSV) and activate alveolar macrophages. Preliminary work suggests that chronic bacterial infections result in reduced SpA and SpD expression and we are currently assessing SAD expression in response to Pl-3 and RSV. A long-term goal of our work is to identify ways to up-regulate expression of AMP and/or surfactant proteins in the neonate and at times of stress in older animals in order to reduce microbial colonization. Other investigators are seeking ways to utilize AMP's as a new class of antibiotics.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2002-09-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5026</dc:identifier>
+	<dc:identifier>10.21423/aabppro20025026</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2002; 159-165</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5026/4913</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2002 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

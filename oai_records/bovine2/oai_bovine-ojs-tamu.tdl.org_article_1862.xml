@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1862</identifier>
+				<datestamp>2021-08-28T00:13:13Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Acorn poisoning in cattle</dc:title>
+	<dc:creator xml:lang="en">Stober, M.</dc:creator>
+	<dc:creator xml:lang="en">Ziegler, H. P.</dc:creator>
+	<dc:creator xml:lang="en">Benten, K. von</dc:creator>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">poisoning</dc:subject>
+	<dc:subject xml:lang="en">poisonous plants</dc:subject>
+	<dc:description xml:lang="en">The poisoning symptoms observed (in 6 calves and one cow) included anorexia, diarrhoea, bradycardia, sluggishness, emaciation, reduction in skin turgidity, crusty ocular secretion and slimy nasal discharge. Body temperature was normal. There was glycosuria, hypocalcaemia, dehydration and liquefaction of the rumen contents. In spite of intensive treatment only one of the 6 calves survived; the cow had to be destroyed earlier. The cause was traced to excessive acorn (Quercus robur s. pedunculata) consumption.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1976-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1862</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1976no11p36-41</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 11 (1976 November); 36-41</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1862/1854</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1976 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6321</identifier>
+				<datestamp>2020-09-03T00:13:46Z</datestamp>
+				<setSpec>aabp:GS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">How Can We Measure a Relevant Immune Response?</dc:title>
+	<dc:creator xml:lang="en">Ellis, John A.</dc:creator>
+	<dc:subject xml:lang="en">immune function</dc:subject>
+	<dc:subject xml:lang="en">laboratory tests</dc:subject>
+	<dc:subject xml:lang="en">immune response.</dc:subject>
+	<dc:subject xml:lang="en">indicators of protection</dc:subject>
+	<dc:subject xml:lang="en">field trials</dc:subject>
+	<dc:subject xml:lang="en">experimental disease models</dc:subject>
+	<dc:description xml:lang="en">Challenge of immunity by natural or experimental infection with a given pathogen is the most relevant test on naturally acquired or vaccine-induced immune responses. This approach is often not feasible due to logistic and economic constraints. In natural challenge situations there are potential problems with equal levels of pathogen exposure in the population at risk. In the case of many models of experimentally induced disease the method of administration and dose of pathogen raises questions regarding the relevance of the model to the disease as it occurs in nature. These problems with using challenge infections as the ultimate test of immunity have led to the development of numerous laboratory tests of immune function that are used as an adjunct to challenge and in assessing vaccine efficacy. When employing laboratory assays in an attempt to measure a relevant immune response several questions should be borne in mind: 1) Does this immune response mechanism that is being tested relate to prevention of infection or prevention of disease? 2) Is the population of cells or soluble mediators (antibodies and cytokines) being tested relevant to the anatomical site of disease? 3) Is the immune response mechanism being tested likely to be relevant to protection based on current knowledge about the pathogenesis of a given disease. Immune function testing as it relates to bovine respiratory disease is discussed in the framework of these questions, emphasizing celluar and antibody responses to bovine herpes virus-1 and bovine respiratory syncytial virus.
+In summary, there are currently numerous laboratory tests to assess immune function. Given the multifactorial nature of immunity, in most instances a panel of tests is probably required to assess a relevant immune response. When possible laboratory test results should correlate with clinical indicators of protection derived from field trials and experimental models of disease.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1993-09-16</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6321</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1993; 10-12</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6321/6622</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1993 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

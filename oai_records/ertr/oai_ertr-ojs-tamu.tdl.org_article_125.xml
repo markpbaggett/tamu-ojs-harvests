@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/125</identifier>
+				<datestamp>2018-02-05T09:12:11Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Analysis of Schema.org Usage in the Tourism Domain</dc:title>
+	<dc:creator xml:lang="en">Balcı, Boran Taylan</dc:creator>
+	<dc:creator xml:lang="en">Şimşek, Umutcan</dc:creator>
+	<dc:creator xml:lang="en">Kärle, Elias</dc:creator>
+	<dc:creator xml:lang="en">Fensel, Dieter</dc:creator>
+	<dc:subject xml:lang="en">schema.org</dc:subject>
+	<dc:subject xml:lang="en">e-tourism</dc:subject>
+	<dc:subject xml:lang="en">annotation</dc:subject>
+	<dc:description xml:lang="en">Schema.org is an initiative founded in 2011 by the four-big search engine Bing, Google, Yahoo!, and Yandex. The goal of the initiative is to publish and maintain the schema.org vocabulary, in order to facilitate the publication of structured data on the web which can enable the implementation of automated agents like intelligent personal assistants and chatbots. In this paper, the usage of schema.org in tourism domain between years 2013 and 2016 is analysed. The analysis shows the adoption of schema.org, which indicates how well the tourism sector is prepared for the web that targets automated agents. The results have shown that the adoption of schema.org type and properties is grown over the years. While the US is dominating the annotation numbers, a drastic drop is observed for the proportion of the US in 2016. Poorly rated businesses are encountered more in 2016 results in comparison to previous years.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2018-02-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/125</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; 2018: ENTER 2018 Volume 9 Conference on Information and Communication Technologies in Tourism RESEARCH NOTES</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/125/32</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3475</identifier>
+				<datestamp>2021-02-05T02:53:20Z</datestamp>
+				<setSpec>aabp:RS3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Using a deterministic systems model to examine the effects of the postpartum period on cow-calf productivity over 10 years</dc:title>
+	<dc:creator xml:lang="en">Shane, Douglas D.</dc:creator>
+	<dc:creator xml:lang="en">Larson, Robert L.</dc:creator>
+	<dc:subject xml:lang="en">postpartum</dc:subject>
+	<dc:subject xml:lang="en">anestrus</dc:subject>
+	<dc:subject xml:lang="en">reproductive momentum</dc:subject>
+	<dc:subject xml:lang="en">cow-calf production</dc:subject>
+	<dc:subject xml:lang="en">pregnancy</dc:subject>
+	<dc:description xml:lang="en">The duration of postpartum anestrus is important to consider for reproductive momentum and efficiency in cow~calf operations. It is challenging to fully understand the long-term impacts that the average duration of postpartum anestrus has on production. We developed a deterministic model of cow-calf production over 10 years using the software program Stella Professional to model the effects that various postpartum anestrus lengths have on measures of herd productivity, including the percent of cows pregnant at pregnancy diagnosis and the pounds of calf weaned per cow exposed.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2016-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3475</dc:identifier>
+	<dc:identifier>10.21423/aabppro20163475</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2016; 161-162</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3475/3425</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2016 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

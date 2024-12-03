@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4982</identifier>
+				<datestamp>2020-03-21T07:14:28Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison Of Commercial ELISA Tests For Johne's Disease In Beef Cattle Herds</dc:title>
+	<dc:creator xml:lang="en">Heeb, Matt</dc:creator>
+	<dc:creator xml:lang="en">Austerman, S. R.</dc:creator>
+	<dc:creator xml:lang="en">Hall, Jason</dc:creator>
+	<dc:creator xml:lang="en">Evans, R.</dc:creator>
+	<dc:subject xml:lang="en">Johne's disease</dc:subject>
+	<dc:subject xml:lang="en">beef producers</dc:subject>
+	<dc:subject xml:lang="en">ELISA tests</dc:subject>
+	<dc:subject xml:lang="en">diagnostic tests</dc:subject>
+	<dc:subject xml:lang="en">sera samples</dc:subject>
+	<dc:description xml:lang="en">The prevalence of Johne's disease throughout the United States has prompted the development of several USDA approved ELISA kits. These test kits are widely used in diagnostic labs throughout the country. As numbers of beef producers utilizing these ELISA tests to detect Johne's disease increase, it becomes important to critically evaluate the performance of these diagnostic tests specifically in beef cattle.
+The aim of this study was to evaluate the specificity and agreement between the three commercially manufactured ELISA tests for Johne's in beef cattle herds. Two-thousand fifty-four sera samples were collected from six beef herds in Iowa, South Dakota and Georgia. The samples were ran according to manufacturer's recommendations. The results were evaluated based upon specificity in negative herds, and kappa statistics were calculated for both positive and negative herds. The specificities ranged between 90.48 and 9.41 %. Agreement between tests ranged from k-0.394-0.061 in negative herds and k-0.503-0.310 in positive herds. These data indicate a significant difference between commercial ELISA tests.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2004-09-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4982</dc:identifier>
+	<dc:identifier>10.21423/aabppro20044982</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2004; 300</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4982/4871</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2004 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

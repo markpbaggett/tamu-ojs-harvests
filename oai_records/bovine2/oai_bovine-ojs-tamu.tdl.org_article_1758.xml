@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1758</identifier>
+				<datestamp>2021-08-30T19:42:02Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Estimating the effects of animal health on the performance of feedlot cattle</dc:title>
+	<dc:creator xml:lang="en">Irsik, Max</dc:creator>
+	<dc:creator xml:lang="en">Langemeier, Michael</dc:creator>
+	<dc:creator xml:lang="en">Schroeder, Ted</dc:creator>
+	<dc:creator xml:lang="en">Spire, Mark</dc:creator>
+	<dc:creator xml:lang="en">Roder, Joseph Deen</dc:creator>
+	<dc:subject xml:lang="en">animal health</dc:subject>
+	<dc:subject xml:lang="en">costs</dc:subject>
+	<dc:subject xml:lang="en">feed conversion</dc:subject>
+	<dc:subject xml:lang="en">feed conversion efficiency</dc:subject>
+	<dc:subject xml:lang="en">feed intake</dc:subject>
+	<dc:subject xml:lang="en">feedlots</dc:subject>
+	<dc:subject xml:lang="en">liveweight gain</dc:subject>
+	<dc:subject xml:lang="en">mortality</dc:subject>
+	<dc:subject xml:lang="en">performance traits</dc:subject>
+	<dc:description xml:lang="en">This study was conducted to determine the effect of animal health on the performance of feedlot cattle. Multiple regression models were developed to aid in the performance analysis for feed conversion, average daily gain, added cost and cost of gain. Results of this study showed that for each percentage increase in mortality in a pen of cattle, the feed conversion ratio increased by 0.27 pounds (0.12 kg), the average daily gain decreased by 0.08 lb (0.036 kg) per day and added costs increased $1.00 per head. For each percentage increase in the treatments for a pen of cattle, death loss increased by 0.143%. A 10% treatment rate would equate to a 1.7% death loss. These data should be useful in estimating the performance of fed cattle. This study confirmed and quantified the negative effect of adverse health on the performance of fed cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1758</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol40no2p65-74</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 40, No. 2 (2006 Summer); 65-74</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1758/7677</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

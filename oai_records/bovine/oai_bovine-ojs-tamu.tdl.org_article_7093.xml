@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7093</identifier>
+				<datestamp>2021-08-27T21:21:50Z</datestamp>
+				<setSpec>aabp:FCCDCS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Dairy Health Management Records</dc:title>
+	<dc:creator xml:lang="en">Davidson, J. N.</dc:creator>
+	<dc:creator xml:lang="en">Sniffen, C. J.</dc:creator>
+	<dc:creator xml:lang="en">Smith, R. D.</dc:creator>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">forms</dc:subject>
+	<dc:subject xml:lang="en">DHMR</dc:subject>
+	<dc:description xml:lang="en">The dairy industry has been utilizing computer technology for over 30 years. Dairy Herd Improvement Associations have made tremendous strides improving dairy records through the use of computers. The basis for these types of dairy records has been the large, centrally located, mainframe computer. However, in the last few years there has been a technological explosion in the development of small, reliable, relatively inexpensive microcomputers. This now provides dairymen and veterinarians with the opportunity of obtaining locally controlled computerized records. Although computer technology is presently available for computerized dairy record-keeping, the programs required to run the computers and make them a functional record-keeping system have lagged behind in development. Only recently have programs become available.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1980-11-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7093</dc:identifier>
+	<dc:identifier>10.21423/aabppro19807093</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1980; 41-50</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7093/7382</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1980 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6459</identifier>
+				<datestamp>2020-08-07T00:34:15Z</datestamp>
+				<setSpec>aabp:PHM</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Genetic Evaluations of Dairy Bulls and Cows For Production</dc:title>
+	<dc:creator xml:lang="en">McDaniel, Ben T.</dc:creator>
+	<dc:subject xml:lang="en">genetic influences</dc:subject>
+	<dc:subject xml:lang="en">environmental influences</dc:subject>
+	<dc:subject xml:lang="en">genetic relationship matrix</dc:subject>
+	<dc:subject xml:lang="en">genetic value</dc:subject>
+	<dc:description xml:lang="en">The innovative and most important features of the animal model are twofold. First, equations are developed for each animal that include all of the environmental and genetic influences that affect the trait being evaluated. Second, the genetic relationships of each animal being evaluated to every other related one that is identified - sire, dam, offspring, sisters, brothers, aunts, uncles, cousins, etc. - are included simultaneously by adding the inverse of the genetic relationship matrix (A1 in genetic jargon) to the genetic equations for cows. The net result is that everything that affects a cow's performance for a trait - genetics, location (herd), year and season of calving, weather, nutrition, exposure to disease - can be included inone of the many equations and the cow's record will be adjusted for it. Effects of nutrition, weather and exposure to disease are generally accounted for by the herd-year-season equations. Equations for environmental affects and those for cows, which may together number in the millions, are then solved simultaneously to get the most accurate measure of the animal's genetic value possible.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6459</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926459</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 1; 270-273</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6459/7037</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

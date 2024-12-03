@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8545</identifier>
+				<datestamp>2023-03-01T02:21:23Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Health and performance outcomes from a randomized clinical trial of post-metaphylactic intervals following tildipirosin metaphylaxis for control of naturally occurring BRD in commingled lightweight yearling steers in a commercial feedlot</dc:title>
+	<dc:creator xml:lang="en">Szasz, John I.</dc:creator>
+	<dc:creator xml:lang="en">Bryant, Tony C.</dc:creator>
+	<dc:creator xml:lang="en">Bryant, Lonty K.</dc:creator>
+	<dc:creator xml:lang="en">Streeter, Marshall N.</dc:creator>
+	<dc:creator xml:lang="en">Hutcheson, John P.</dc:creator>
+	<dc:creator xml:lang="en">Renter, David G.</dc:creator>
+	<dc:subject xml:lang="en">metphylaxis</dc:subject>
+	<dc:subject xml:lang="en">moratorium</dc:subject>
+	<dc:subject xml:lang="en">PMI</dc:subject>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">feedlot cattle</dc:subject>
+	<dc:description xml:lang="en">This study’s objectives were to assess health and performance outcomes in yearling steers randomized to pens with 4-day, 7-day, 10-day, or 13-day postmetaphylaxis intervals (PMI) following arrival administration of tildipirosin (ZuprevoR). The primary objective was to assess linear or non-linear responses to different PMI. Crossbred beef steers (N = 8,160), 648 lb overall mean body weight, were allocated to 40 pens, in 10 blocks, over a 3-week period. Study blocks were defined by arrival and processing date. Data were analyzed using mixed models for a randomized complete block design with pen as the experimental unit. Across all pens and blocks, the incidence of BRD first pulls, morbidity (temperature &amp;gt; 103.5°F), mortality, and removals were: 11.67%, 9.20%, 0.89% and 0.92%, respectively. During the first 45 days, there were linear relationships between PMI and BRD morbidity (P = 0.006) and BRD first pulls (P = 0.003) indicating that apparent incidence decreased linearly as PMI increased. Over the entire feeding period (mean = 217 days), apparent BRD morbidity also decreased linearly (P = 0.01) as PMI increased; however, there was a quadratic (non-linear) relationship between BRD first pulls and PMI (group means 12.0%, 12.9%, 11.08% and 9.49%, respectively). There were no significant associations (P values &amp;gt; 0.10) between PMI and BRD relapses, first treatment success, case fatality, mortality or any live and carcass performance measures. In this study, longer PMI (fewer days eligible for treatment) led to reduced BRD first treatments, with no evidence for negative impacts on mortality or performance.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2022-12-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8545</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol56no2p38-46</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 56 No. 2 (2022); 38-46</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8545/8334</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

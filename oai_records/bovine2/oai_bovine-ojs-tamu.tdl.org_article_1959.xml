@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1959</identifier>
+				<datestamp>2021-08-28T00:41:24Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparative clinical pharmacology of gentamicin and tobramycin in neonatal calves</dc:title>
+	<dc:creator xml:lang="en">Ziv, G.</dc:creator>
+	<dc:creator xml:lang="en">Storper, M.</dc:creator>
+	<dc:creator xml:lang="en">Wanner, M.</dc:creator>
+	<dc:creator xml:lang="en">Nicolet, J.</dc:creator>
+	<dc:subject xml:lang="en">antibiotics</dc:subject>
+	<dc:subject xml:lang="en">Bacterial diseases</dc:subject>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">gentamicin</dc:subject>
+	<dc:subject xml:lang="en">Pharmacokinetics</dc:subject>
+	<dc:subject xml:lang="en">tobramycin</dc:subject>
+	<dc:subject xml:lang="en">aminoglycoside antibiotics</dc:subject>
+	<dc:subject xml:lang="en">calves</dc:subject>
+	<dc:description xml:lang="en">The minimum inhibitory concentrations (MIC) of gentamicin, and a closely related aminoglycoside--tobramycin, for gram-negative bacteria isolated from cattle (326 strains of E. coli, 240 Salmonella sp., 17 Klebsiella, 6 Aerobacter aerogenes, 32 Pseudomonas aeruginosa) was 0.25 mu g/ml for at least 75% of the strains tested and 2.0 mu g/ml for more than 95% of the isolates. Intramuscular injection of gentamicin at 1.5 mg/kg/day and 3.0 mg/kg/day for three days did not alter normal renal function. Neither antibiotic was bound to serum proteins. When administered at 1.5 mg/kg, both antibiotics produced serum levels in excess of the MIC during 10 hours and after the 3.0 mg/kg dose was injected effective blood levels were maintained during 12 hours. Gentamicin blood levels were rather erratic and unpredictable in the majority of animals treated. This behaviour was not observed with tobramycin.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1981-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1959</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1981no16p17-21</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 16 (1981 November); 17-21</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1959/1951</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1981 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

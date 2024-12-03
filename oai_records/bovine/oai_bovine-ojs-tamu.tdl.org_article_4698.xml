@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4698</identifier>
+				<datestamp>2020-02-14T15:20:54Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Predictors of Stillbirth for Cows Moved to Calving Pens when Calving is Imminent</dc:title>
+	<dc:creator xml:lang="en">Carrier, J.</dc:creator>
+	<dc:creator xml:lang="en">Godden, S.</dc:creator>
+	<dc:creator xml:lang="en">Fetrow, J.</dc:creator>
+	<dc:creator xml:lang="en">Stewart, S.</dc:creator>
+	<dc:creator xml:lang="en">Rapnicki, P.</dc:creator>
+	<dc:subject xml:lang="en">stillbirth</dc:subject>
+	<dc:subject xml:lang="en">calving pen</dc:subject>
+	<dc:subject xml:lang="en">predictors</dc:subject>
+	<dc:subject xml:lang="en">serum calcium</dc:subject>
+	<dc:subject xml:lang="en">calf weight</dc:subject>
+	<dc:subject xml:lang="en">unassisted calvings</dc:subject>
+	<dc:subject xml:lang="en">parturition process</dc:subject>
+	<dc:description xml:lang="en">The objective of this study was to identify predictors for stillbirth in cows moved from freestalls to a calving pen when calving is imminent. The risk of stillbirth was modeled using multivariate logistic regression. The calving ease score (CES) was contracted to three levels of assistance (1: none, 2: light and 3+: required). The advance of parturition at moving time was scored as a) presence of only mucus, b) presence of a "water bag" or c) presence of feet. The other predictors tested were parity, total serum calcium, calf weight (CW) and BCS. A total of 495 single births were observed on a 2,500-cow dairy, with 15% stillbirths. The odds ratios adjusted for the other predictors are shown. Stillbirth was not associated with BCS. Compared to unassisted calvings (CESl), the odds of stillbirth were 2.9x higher for CES2 and 46x higher for CES3+. Stillbirth odds were reduced by 36% per 1 % unit increase of CW relative to the dam (OR = 0.64), and by 22% per 1 mg/dL increase in calcium (OR = 0.78). The odds of stillbirth were 5.2x higher for heifers vs. cows. Cows moved to a calving pen earlier in the parturition process (mucus only) were 2.5x more at risk of stillbirth than those moved later with a "water bag", but presence of feet was not different from the "water bag" stage. The fact that advance of parturition, parity and serum calcium remained in the model after adjustment for CES could be due to an association with duration of calving.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4698</dc:identifier>
+	<dc:identifier>10.21423/aabppro20064698</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2006; 158-159</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4698/4597</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

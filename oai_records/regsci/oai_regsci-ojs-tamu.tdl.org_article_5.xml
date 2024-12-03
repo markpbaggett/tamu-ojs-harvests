@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/5</identifier>
+				<datestamp>2015-06-04T19:04:49Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Application of Raman spectroscopy for qualitative and quantitative detection of fumonisins in ground maize samples</dc:title>
+	<dc:creator xml:lang="en">Lee, Kyung-Min</dc:creator>
+	<dc:creator xml:lang="en">Herrman, Timothy J.</dc:creator>
+	<dc:creator xml:lang="en">Nansen, Cristian</dc:creator>
+	<dc:creator xml:lang="en">Yun, Unil</dc:creator>
+	<dc:subject xml:lang="en">Fumonisin</dc:subject>
+	<dc:subject xml:lang="en">Raman spectroscopy</dc:subject>
+	<dc:subject xml:lang="en">chemometrics</dc:subject>
+	<dc:subject xml:lang="en">k-nearest neighbor</dc:subject>
+	<dc:subject xml:lang="en">linear discriminant analysis</dc:subject>
+	<dc:subject xml:lang="en">principal component analysis</dc:subject>
+	<dc:subject xml:lang="en">partial least squares</dc:subject>
+	<dc:subject xml:lang="en">multiple linear regression</dc:subject>
+	<dc:subject xml:lang="en">Laboratory Services for Monitoring and Surveiliance</dc:subject>
+	<dc:description xml:lang="en">The feasibility of Raman spectroscopy for qualitative and quantitative assessment of fumonisins in ground maize was investigated using the samples with concentration range of 2 to 99 mg/kg.  Major Raman bands relevant to fumonisin effects on starch molecules and on increased fumonisin levels were observed in several Raman shift regions.  The k-nearest neighbor (KNN) models achieved highest classification accuracies for both training (100%) and independent validation (96-100%) data.  Three classification models (k-nearest neighbor, linear discriminant analysis, and partial least squares discriminant analysis) correctly classified fumonisin contaminated samples of &amp;gt;5 mg/kg.  All chemometrics models for quantitative determination of fumonisins could explain &amp;gt;90% of variation in spectra data.  Multiple linear regression (MLR) and partial least square regression (PLSR) models showed slightly higher predictive accuracies and lower error rates.  The statistical results showed no significant difference between LC-MS/MS (liquid chromatography-tandem mass spectrometry) reference and Raman predicted data, implying some models developed have the ability to accurately predict fumonisin levels in ground maize samples for rapid screening and identification of contaminated samples.  This work characterizes the capability of Raman spectroscopy as a fast screening tool for high-throughput analysis of fumonisin contaminated samples to improve food and feed safety.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2013-11-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">spectroscopy</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/5</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.115</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 1 No. 1 (2013); 1-14</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/5/1</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

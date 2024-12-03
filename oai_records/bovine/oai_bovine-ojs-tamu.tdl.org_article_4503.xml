@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4503</identifier>
+				<datestamp>2020-06-22T14:16:51Z</datestamp>
+				<setSpec>aabp:GS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Vaccinating Calves: New Information on the Effects of Maternal Immunity</dc:title>
+	<dc:creator xml:lang="en">Woolums, Amelia R.</dc:creator>
+	<dc:subject xml:lang="en">maternally-derived antibody</dc:subject>
+	<dc:subject xml:lang="en">vaccination</dc:subject>
+	<dc:subject xml:lang="en">serum antibody titer</dc:subject>
+	<dc:subject xml:lang="en">T cell activation</dc:subject>
+	<dc:subject xml:lang="en">memory immune response</dc:subject>
+	<dc:subject xml:lang="en">disease risk</dc:subject>
+	<dc:description xml:lang="en">For decades, veterinarians have believed that young animals with circulating maternally-derived antibody cannot be effectively vaccinated. However, many investigators have shown that young animals vaccinated in the face of maternal antibody (IFOMA), while not showing evidence of an increase in serum antibody titer typically seen in older animals responding to vaccination, will show evidence of T cell activation or, better yet, protection from disease when they are exposed to infection after maternal antibodies have disappeared. Successful priming for a memory immune response by vaccination IFOMA has repeatedly been shown to be possible in calves. In general, successful vaccination of calves with moderate levels of maternal antibody requires two doses of modified-live vaccine given at least 2-4 weeks apart, but exceptions to this rule have been identified. While two doses are more likely to be successful, in some cases it has been possible to protect calves from disease months later by vaccination with a single dose of modified-live vaccine given intranasally or parenterally when they are within two months of age. However, these findings are not consistent; occasionally young animals vaccinated IFOMA fail to develop a protective immune response to later challenge. Reasons that calves are often but not always successfully protected when vaccinated IFOMA are not completely defined, but are likely related to age of the animal at vaccination, amount of maternal antibody present, type of vaccine the calf receives, virulence of the challenging pathogen, and the outcome used to define success of vaccination. While more research is needed before consistently reliable recommendations for successful vaccination of calves IFOMA can be made, ample evidence suggests that vaccination IFOMA can protect calves from disease when they are exposed to infectious agents after maternal antibodies have disappeared in at least some cases. Thus, vaccination IFOMA may be worthwhile and cost effective practice when young calves are at reasonably high risk of disease due to agents for which effective vaccines are available.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2007-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4503</dc:identifier>
+	<dc:identifier>10.21423/aabppro20074503</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2007; 10-17</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4503/4409</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2007 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

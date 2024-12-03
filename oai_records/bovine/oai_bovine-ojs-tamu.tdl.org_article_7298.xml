@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7298</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Bacterial topography of the bovine respiratory tract:  analysis of upper respiratory tract microbiotas as the source of the lung microbiota in healthy cattle</dc:title>
+	<dc:creator xml:lang="en">McMullin, C.</dc:creator>
+	<dc:creator xml:lang="en">Léguillette, R.</dc:creator>
+	<dc:creator xml:lang="en">Alexander, T. W.</dc:creator>
+	<dc:creator xml:lang="en">Timsit, E.</dc:creator>
+	<dc:subject xml:lang="en">nasopharynx</dc:subject>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">lower respiratory tract</dc:subject>
+	<dc:subject xml:lang="en">oropharyngeal microbiotas</dc:subject>
+	<dc:description xml:lang="en">It is generally accepted that the nasopharynx is the primary source of bovine respiratory disease (BRD) pathogens for the lower respiratory tract (LRT) of cattle. Indeed, it has long been held that the nasopharynx plays a causative role in the development of BRD. However, it has been shown that there is poor agreement between the microbiota of the nasopharynx and the LRT in cattle. Conflicting results from recent studies suggest that BRD pathogens in the nasopharynx may not always significantly differ between healthy cattle and those diagnosed with BRD. These observations make sense in light of recent research in human medicine, which suggests that bacterial pathogens that cause lung infections don’t originate from the nasopharynx and that the nasopharyngeal microbiota contribute very little to composition of lung microbiota. There was surprisingly more similarity between the mouth/oropharyngeal microbiotas and the lung microbiota. In the pursuit of finding alternative strategies for controlling BRD at the feedlot such as probiotics or local antimicrobials, it is crucial to understand which upper respiratory tract (URT) microbiotas contribute the most to the LRT microbiotas so that we can modulate the correct bacterial communities. Therefore, the objective of this study is to map the bacterial microbiotas present along the entire beef cattle respiratory tract and determine the relative contributions of these communities to the microbiota of the lung.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7298</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197298</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 396</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7298/6025</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

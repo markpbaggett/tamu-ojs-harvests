@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1468</identifier>
+				<datestamp>2021-08-30T18:44:06Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Methods to Monitor New Intramammary Infections in Dairy Cows Using Somatic Cell Count Data</dc:title>
+	<dc:creator xml:lang="en">Kristula, M. A.</dc:creator>
+	<dc:subject xml:lang="en">mammary infections</dc:subject>
+	<dc:subject xml:lang="en">dairy cows</dc:subject>
+	<dc:description xml:lang="en">This report provides methods to monitor the number of new mammary infections in dairy cattle using monthly Dairy Herd Improvement somatic cell count data. The new infection rate on a monthly basis is defined as the number of cows over linear score 4 for the first time, divided by the total number of cows at risk. The cumulative analysis of days-in-milk when new infections occur allows for quantification of the highest risk period by days-in-milk for the occurrence of new infections. The methods outlined enable some statistical inferences to be made about the overall mammary infection rate, and the greatest time period of risk for new infections. This information can be used to evaluate management decisions aimed at lowering the number of new mammary infections.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-01-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1468</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol35no1p36-41</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 35, No. 1 (2001 January); 36-41</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1468/1461</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

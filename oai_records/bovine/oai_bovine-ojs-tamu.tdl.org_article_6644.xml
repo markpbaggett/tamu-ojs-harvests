@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6644</identifier>
+				<datestamp>2020-10-15T23:54:52Z</datestamp>
+				<setSpec>aabp:NMD</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Diet-Meat and Diet-Milk Transfer of ¹³⁷Cs in the Cattle: Values of a Dynamic Model and Values Obtained in Field</dc:title>
+	<dc:creator xml:lang="en">Trenti, F.</dc:creator>
+	<dc:creator xml:lang="en">Calamosca, M.</dc:creator>
+	<dc:creator xml:lang="en">Pagano, P.</dc:creator>
+	<dc:creator xml:lang="en">Cipone, M.</dc:creator>
+	<dc:subject xml:lang="en">radiometry</dc:subject>
+	<dc:subject xml:lang="en">environmental radiocontamination</dc:subject>
+	<dc:subject xml:lang="en">contaminant transfer models</dc:subject>
+	<dc:subject xml:lang="en">137Cs</dc:subject>
+	<dc:subject xml:lang="en">meat contamination</dc:subject>
+	<dc:subject xml:lang="en">milk contamination</dc:subject>
+	<dc:description xml:lang="en">In conditions of environmental radiocontamination, the vegetable-animal products-man food chain becomes particularly critical for the determination of population equivalent doses (1). Such doses may be predicted using contaminant transfer models such as NUCRAC-SAI (2), DOSDIM (3), NRPB (4), PATHWAY (5) and others.
+These are principally founded on dynamic compartmental systems and they have in common the use of first degree kinetics, which lead to the formulation of a system of differential equations, the solution of which shows the trend of radionuclide concentration in time, in the various environmental and animal matrices. Efficacy verification of these analytical instruments is performed at its best in real situations of radioactive spill in the environment, such as the incident which interested Italy in 1986.
+In the latter occasion we applied a modulus belonging to a more complex model described below, and which uses the daily dietary intake of 137Cs , to predict the meat and milk contamination variation in time, in the adult bovine.
+To verify the efficacy of this model we compared calculated values against those measured directly by radiometry of meat and milk samples of the same bovines.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6644</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926644</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 3; 318-324</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6644/7202</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

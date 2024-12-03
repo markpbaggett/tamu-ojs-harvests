@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7293</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Alterations in the fecal microbiome of lactating dairy cows during experimentally induced heat stress</dc:title>
+	<dc:creator xml:lang="en">Witzke, M. C.</dc:creator>
+	<dc:creator xml:lang="en">Rodrigues, R. O.</dc:creator>
+	<dc:creator xml:lang="en">Shangraw, E. M.</dc:creator>
+	<dc:creator xml:lang="en">Ericsson, A. C.</dc:creator>
+	<dc:creator xml:lang="en">McFadden, T. B.</dc:creator>
+	<dc:creator xml:lang="en">Adkins, P. R. F.</dc:creator>
+	<dc:subject xml:lang="en">heat stress</dc:subject>
+	<dc:subject xml:lang="en">mastitis incidence</dc:subject>
+	<dc:subject xml:lang="en">Gram-negative</dc:subject>
+	<dc:subject xml:lang="en">fecal microbiome</dc:subject>
+	<dc:description xml:lang="en">Heat stress costs the dairy industry over $1.2 billion annually as a result of decreased milk production. Mastitis incidence is higher during the warmer months of the year, presumably due to a seasonal increase in Gram-negative organisms in the bedding of dairy cows. It is currently unknown if the increased environmental load of Gram-negative organisms during warmer months is associated with cows shedding more of these organisms in their feces, which has been documented in laying hens. Our objective was to evaluate the effects of heat stress on the fecal microbiome of lactating dairy cows. We hypothesized there would be a decrease in the relative abundance of Firmicutes and an increase in the relative abundance of Bacteroidetes in the feces of dairy cows during heat stress; specifically, an increase in Gram-negative environmental mastitis pathogens.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7293</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197293</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 392</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7293/6021</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

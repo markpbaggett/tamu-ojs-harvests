@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7034</identifier>
+				<datestamp>2020-08-18T01:22:49Z</datestamp>
+				<setSpec>aabp:BS4</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Epidemiology: Its Use in Cattle Feeding</dc:title>
+	<dc:creator xml:lang="en">Griffin, Dee</dc:creator>
+	<dc:subject xml:lang="en">cattle feeding</dc:subject>
+	<dc:subject xml:lang="en">statistics</dc:subject>
+	<dc:subject xml:lang="en">regression analysis</dc:subject>
+	<dc:subject xml:lang="en">epidemiology</dc:subject>
+	<dc:description xml:lang="en">Cattle feeding is an industry of numbers. Small differences in the numbers that reflect performance, spell differences that may be of major concern. The interpretation is the key. In our industry, inappropriate reaction, either over or under responding, is a major error. The science of statistics offers one tuning mechanism to help us appropriately focus our response to the numbers we evaluate. Of the several statistical methods useful in commercial feeding operations, regression analysis will be our focus. It offers three important evaluations: 1. The intercept gives us a starting point-"What's the best we have." 2. The slope gives us the ability to predict the future. 3. The R value helps us know how reliable the prediction was-an R value of O is not reliable while an R value of 1 is a perfect predictor.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1985-11-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7034</dc:identifier>
+	<dc:identifier>10.21423/aabppro19857034</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1985; 130-134</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7034/6805</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1985 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/82</identifier>
+				<datestamp>2023-04-11T00:20:00Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Evaluation of Whole Genome Sequencing and an Insertion Site Characterization Method for Molecular Characterization of GM Maize</dc:title>
+	<dc:creator xml:lang="en">Cade, Rebecca</dc:creator>
+	<dc:creator xml:lang="en">Burgin, Kristina</dc:creator>
+	<dc:creator xml:lang="en">Schilling, Kelly</dc:creator>
+	<dc:creator xml:lang="en">Lee, Tae-Jin</dc:creator>
+	<dc:creator xml:lang="en">Ngam, Peter</dc:creator>
+	<dc:creator xml:lang="en">Devitt, Nico</dc:creator>
+	<dc:creator xml:lang="en">Fajardo, Diego</dc:creator>
+	<dc:subject xml:lang="en">Genetically modified crop</dc:subject>
+	<dc:subject xml:lang="en">Next generation sequencing</dc:subject>
+	<dc:description xml:lang="en">Molecular characterization of genetically modified (GM) crops has traditionally been accomplished through a combination of Southern blot, polymerase chain reaction (PCR), and Sanger sequencing analyses. This characterization generates critical information that is used in downstream safety assessment of GM crops and development of GM detection methods.Next generation sequencing (NGS) technologies, such as whole genome sequencing (WGS), have shown the potential to replace some or all of these techniques for molecular characterization of GM crops. This paper describes the characterization of two GM maize events using NGS for WGS in combination with an insertion site characterization (ISC) method.  The sensitivity of the method is also compared to that of Southern blot analysis through detection of small insert fragments. Our results demonstrate that WGS is at least as sensitive as Southern blot analysis for determining the insert copy number, presence or absence unintended insertions, and for characterization of small fragment insertions.These results support the conclusion that WGS along with an appropriate insertion site characterization method are a suitable alternative to Southern blot analyses for molecular characterization of GM maize.https://doi.org/10.21423/jrs-v06n01p001 (DOI assigned 1/24/2019)</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2018-03-30</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Whole genome sequencing for insertion site characterization</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/82</dc:identifier>
+	<dc:identifier>10.21423/JRS-V06N01P001</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol 6, No 1 (2018); 1-14</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/82/77</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 Journal of Regulatory Science</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/478</identifier>
+				<datestamp>2022-05-04T21:46:33Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Accessibility and readability of website: An analysis of Online Travel Aggregators (OTAs) of India</dc:title>
+	<dc:creator xml:lang="en">Singh, Ranjit</dc:creator>
+	<dc:creator xml:lang="en">P.S., Sibi</dc:creator>
+	<dc:subject xml:lang="en">OTAs websites</dc:subject>
+	<dc:subject xml:lang="en">Accessible tourism</dc:subject>
+	<dc:subject xml:lang="en">WCAG</dc:subject>
+	<dc:subject xml:lang="en">Web accessibility</dc:subject>
+	<dc:subject xml:lang="en">Web readability</dc:subject>
+	<dc:subject xml:lang="en">Person with Disabilities (PwDS)</dc:subject>
+	<dc:description xml:lang="en">Accessibility of websites for disabled people is a major concern in the contemporary digital world due to their dependence on tourism websites for planning and booking. However, in the tourism literature, scant is known for the accessibility and readability of OTAs websites. In response to the dearth of research, this study   examines the accessibility and readability of OTAs websites in India. Accessibility was measured in terms of Web Content Accessibility Guidelines (WCAG) and readability through two different indices. A 4C approach (Cluster tendency, Cluster number, Cluster analysis and Cluster validity) was adopted for k- means of cluster analysis to understand the behaviour pattern. The study found that the OTAs website had numerous issues regarding WCAG and the text was difficult to read and understand, limiting disabled people from using the OTAs website. Based on the finding, some implications are discussed to improve the accessibility and readability.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2022-05-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:type xml:lang="en">Case study</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/478</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; Vol. 18 No. 5 (2021); 692-716</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/478/248</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

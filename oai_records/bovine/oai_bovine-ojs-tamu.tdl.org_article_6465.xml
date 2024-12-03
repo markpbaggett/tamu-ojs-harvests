@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6465</identifier>
+				<datestamp>2020-08-07T00:34:00Z</datestamp>
+				<setSpec>aabp:GaT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Bovine Genome Study and Its Goals</dc:title>
+	<dc:creator xml:lang="en">Womack, James E.</dc:creator>
+	<dc:subject xml:lang="en">trait loci</dc:subject>
+	<dc:subject xml:lang="en">genetic improvement</dc:subject>
+	<dc:subject xml:lang="en">food utilization</dc:subject>
+	<dc:subject xml:lang="en">reproductive performance</dc:subject>
+	<dc:subject xml:lang="en">resistance to disease</dc:subject>
+	<dc:subject xml:lang="en">bovine chromosome</dc:subject>
+	<dc:description xml:lang="en">The consensus conclusion of several recent major international livestock genetics conferences is that genomic localization of economic trait loci and subsequent marker-assisted selection for these traits will rapidly facilitate genetic improvement of livestock. Genetic improvement of cattle, specifically for efficiency of food utilization, reproductive performance, resistance to disease, and higher quality of beef and dairy products ranks high among the world's agricultural research needs. The necessary tool for large scale improvement of such a diverse array of phenotypes by marker-assisted selection is a 20 centiMorgan map of the bovine genome, consisting of highly polymorphic loci that can be easily scored by teams of investigators studying the segregation of desirable traits. This same map can subsequently be developed to a high level of resolution in regions around genes of particular interest and used to isolate and clone genes involved in the expression of economically important traits.
+Experiments in our laboratory (1, 2, 3) and others (4, 5) demonstrate that the methods that have revolutionized human genetics in the last decade can do the same for cattle genetics. Bovine cells readily hybridize with mouse L cells or hamster E36 cells and segregate cattle chromosomes (1). Genetic analysis of these segregating hybrid cells has produced the current syntenic map of the cow which consists of more than 270 genes including markers of every bovine chromosome. Fifteen of the autosomal syntenic groups have been assigned to chromosomes. Our laboratory has participated in these assignments (6, 7). We have selected genes for physical mapping based on their potential role in key physiological processes and their value in defining the limits of chromosomal conservation with the human and mouse maps. We have used Southern blotting of more than 200 bovine and heterologous probes and more recently, the polymerase chain reaction (PCR) with published primer sequences to generate these maps.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1992-08-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6465</dc:identifier>
+	<dc:identifier>10.21423/aabppro19926465</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1992: Volume 1; 296-299</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6465/7042</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1992 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1932</identifier>
+				<datestamp>2021-08-28T00:39:41Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Bovine salmonellosis</dc:title>
+	<dc:creator xml:lang="en">Williams, Bernard M.</dc:creator>
+	<dc:subject xml:lang="en">Antibiotics</dc:subject>
+	<dc:subject xml:lang="en">Bacterial diseases</dc:subject>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">Diagnosis</dc:subject>
+	<dc:subject xml:lang="en">Disease control</dc:subject>
+	<dc:subject xml:lang="en">Epidemiology</dc:subject>
+	<dc:subject xml:lang="en">Immunization</dc:subject>
+	<dc:subject xml:lang="en">Pathology</dc:subject>
+	<dc:subject xml:lang="en">Reviews</dc:subject>
+	<dc:subject xml:lang="en">salmonellosis</dc:subject>
+	<dc:subject xml:lang="en">Serotypes</dc:subject>
+	<dc:description xml:lang="en">The clinical signs and post morten lesions in bovine salmonellosis are described and the diagnostic procedures for confirmation of a clinical diagnosis are outlined. Epidemiological features of the disease, particularly in relation to S. dublin and S. typhimurium infection are discussed and treatment and control measures are considered.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1980-11-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1932</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1980no15p122-128</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 15 (1980 November); 122-128</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1932/1924</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1980 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6916</identifier>
+				<datestamp>2020-08-22T01:49:39Z</datestamp>
+				<setSpec>aabp:FS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Immunomodulation in Bovine Respiratory Disease</dc:title>
+	<dc:creator xml:lang="en">Roth, James A.</dc:creator>
+	<dc:subject xml:lang="en">immune system</dc:subject>
+	<dc:subject xml:lang="en">immunology</dc:subject>
+	<dc:subject xml:lang="en">immunomodulators</dc:subject>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:description xml:lang="en">Animals are constantly exposed to the threat of bacterial, viral, and parasitic infection and neoplastic disease. The immune system is responsible for warding off these threats so that the animal remains healthy. The fact that the normal state of existence for animals is health attests to the remarkable efficiency of the immune system. When some factor(s) interferes with normal immune function or when an animal is exposed to an overwhelming number of an infectious agent, disease occurs.
+The basic understanding of the immune system is advancing rapidly and a picture of a highly regulated, complex system of cellular and molecular interactions is emerging. These breakthroughs in basic understanding promise to give scientists the means for manipulating the immune system to prevent disease from occurring rather than treating disease after it occurs. Advances in basic immunology have led to the identification of several compounds which show promise as immunomodulators. Immunomodulators are compounds that can "modulate" or enhance the function of the immune system and are sometimes called biological response modifiers. There are two basic types of immunomodulators: exogenous and endogenous. The exogenous immunomodulators include bacteria or bacterial derived products (e.g. Bacillus Calmette-Guerin (BCG), endotoxin, Propionobacterium acnes) and synthetic chemicals (e.g. levamisole and lipoidal amines). One mechanism of action of the exogenous immunomodulators is to induce the release of endogenous immunomodulators. The endogenous immunomodulators include proteins that are produced and secreted by cells (cytokines). Some examples of these proteins include interferons (IFN), interleukins (IL), tumor necrosis factors (TNF) and colony stimulating factors (CSF) (20). Genetic engineering techniques offer the potential to produce these compounds inexpensively. This manuscript focuses on research conducted at Iowa State University aimed at evaluating the potential for using immunomodulators in prevention and therapy of bovine respiratory disease. Research on immunomodulators in cattle has also been conducted by a number of other research groups, but will not be reviewed here.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1989-11-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6916</dc:identifier>
+	<dc:identifier>10.21423/aabppro19896916</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1989; 150-152</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6916/6349</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1989 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

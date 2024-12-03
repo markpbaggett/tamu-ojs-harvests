@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4765</identifier>
+				<datestamp>2020-02-15T08:42:06Z</datestamp>
+				<setSpec>aabp:RS4</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Decision Analysis Model for Paratuberculosis Control in Commercial Dairy Herds</dc:title>
+	<dc:creator xml:lang="en">Dorshorst, Nathan C.</dc:creator>
+	<dc:creator xml:lang="en">Collins, Michael T.</dc:creator>
+	<dc:creator xml:lang="en">Lombard, Jason E.</dc:creator>
+	<dc:subject xml:lang="en">Johne's disease</dc:subject>
+	<dc:subject xml:lang="en">herd management</dc:subject>
+	<dc:subject xml:lang="en">transmission</dc:subject>
+	<dc:subject xml:lang="en">economic optimization</dc:subject>
+	<dc:subject xml:lang="en">paratuberculosis control programs</dc:subject>
+	<dc:description xml:lang="en">Johne's disease (paratuberculosis) control programs involve both herd management changes to limit transmission of Mycobacterium avium subspecies paratuberculosis infections to calves, as well as testing of adult cattle to detect those that serve as the source of infection. No work has yet been reported on economic optimization, i.e., cost-benefit analysis, of paratuberculosis control programs.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4765</dc:identifier>
+	<dc:identifier>10.21423/aabppro20064765</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2006; 283</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4765/4661</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

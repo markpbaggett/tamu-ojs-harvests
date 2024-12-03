@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3334</identifier>
+				<datestamp>2020-02-06T08:35:13Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Use of a data-driven algorithm to guide selective dry-cow therapy</dc:title>
+	<dc:creator xml:lang="en">Vasquez, A. K.</dc:creator>
+	<dc:creator xml:lang="en">Foditsch, C.</dc:creator>
+	<dc:creator xml:lang="en">Wieland, M.</dc:creator>
+	<dc:creator xml:lang="en">Lynch, R. A.</dc:creator>
+	<dc:creator xml:lang="en">Eicker, S.</dc:creator>
+	<dc:creator xml:lang="en">Virkler, P. D.</dc:creator>
+	<dc:creator xml:lang="en">Nydam, D. V.</dc:creator>
+	<dc:subject xml:lang="en">dry-cow therapy</dc:subject>
+	<dc:subject xml:lang="en">BDCT</dc:subject>
+	<dc:subject xml:lang="en">dry-cow intramammary</dc:subject>
+	<dc:subject xml:lang="en">algorithm</dc:subject>
+	<dc:subject xml:lang="en">high risk cows</dc:subject>
+	<dc:subject xml:lang="en">animal health</dc:subject>
+	<dc:subject xml:lang="en">production</dc:subject>
+	<dc:description xml:lang="en">Nationally in 2014, 80.3% of dairies applied blanket dry-cow therapy (BDCT) and 93% of cows were treated with dry-cow intramammary (IMM) antimicrobials. However, surveys indicate that &amp;gt;80% of dry quarters yield negative culture results. Selective dry-cow therapy (SDCT) describes the identification and treatment of only cows/quarters infected or at high risk for infection. The purpose of this study was to determine if a data-driven algorithm, without the use of culture, could identify and selectively treat only "high risk" cows (those likely benefitting from DCT) without adverse effects on animal health and production outcomes.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2017-09-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3334</dc:identifier>
+	<dc:identifier>10.21423/aabppro20173334</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2017; 194</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3334/3293</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

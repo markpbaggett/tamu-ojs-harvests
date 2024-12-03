@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6043</identifier>
+				<datestamp>2020-08-06T00:15:13Z</datestamp>
+				<setSpec>aabp:GS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Treatment of Endotoxemia</dc:title>
+	<dc:creator xml:lang="en">Langston, Vernon C.</dc:creator>
+	<dc:subject xml:lang="en">Endotoxemia</dc:subject>
+	<dc:subject xml:lang="en">gram-negative bacterial</dc:subject>
+	<dc:subject xml:lang="en">fluid therapy</dc:subject>
+	<dc:subject xml:lang="en">steroid use</dc:subject>
+	<dc:subject xml:lang="en">glucocorticoids</dc:subject>
+	<dc:subject xml:lang="en">NSAID</dc:subject>
+	<dc:description xml:lang="en">Endotoxemia is a component of a variety of gram-negative bacterial diseases of veterinary importance. Active and passive immunization with anti-core antibodies may neutralize endotoxin and is a useful tool in severe cases. When the GI tract is a primary source of endotoxin, oral activated charcoal will prevent entry of the endotoxin into the circulation. While the effect of NSAID treatments such as flunixin or ketoprofen on animal production or mortality is largely undetermined, they will decrease many of the signs of endotoxemia and are useful in the majority of cases. It appears that glucocorticoids will provide improvement early in the course of the disease but data suggest the eventual mortality rate is unaffected by steroid use. Unless the infection can be deemed self-limiting, appropriate antibiotic therapy is crucial for recovery. For animals in shock, fluid therapy is an essential supportive measure.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1995-09-14</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6043</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1995; 23-27</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6043/6843</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1995 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

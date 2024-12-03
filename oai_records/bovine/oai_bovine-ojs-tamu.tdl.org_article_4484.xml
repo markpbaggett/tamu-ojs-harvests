@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4484</identifier>
+				<datestamp>2020-02-06T08:56:17Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Field Evaluation of the Finnzyme Mastitis Pathogen Detection System for Cows and Quarters Infected with Staphylococcus aureus</dc:title>
+	<dc:creator xml:lang="en">Friendship, C.</dc:creator>
+	<dc:creator xml:lang="en">Kelton, D.</dc:creator>
+	<dc:creator xml:lang="en">Leslie, K.</dc:creator>
+	<dc:subject xml:lang="en">Staphylococcus aureus</dc:subject>
+	<dc:subject xml:lang="en">mastitis</dc:subject>
+	<dc:subject xml:lang="en">PCR-based diagnostic system</dc:subject>
+	<dc:subject xml:lang="en">culture-based</dc:subject>
+	<dc:subject xml:lang="en">test systems</dc:subject>
+	<dc:description xml:lang="en">Staphylococcus aureus, a contagious pathogen, is one of the most important etiological agents of chronic, clinical and subclinical mastitis (Studer et al, 2008). S. aureus damages milk-producing tissue and significantly decreases milk production. Since damage is minimal and reversible in early infection and this infection is contagious, it would be advantageous to have a reliable and sensitive detection system in place to identify early infections in order that treatment and management to prevent spread could occur. Subclinical S. aureus infections are usually associated with elevated somatic cell counts (SCC) and confirmed by bacteriologic culture. Some significant limitations to the traditional culturebased systems for identifying S. aureus exist. Sears et al (1990) determined that even under ideal conditions the sensitivity of culturing quarter samples only reached 74.5%. Also, due to the cyclical nature of the shedding of S. aureus, the culture of samples collected over multiple days is necessary to conclusively establish the S. aureus infection status of a quarter. A real-time PCR-based reagent kit for bovine mastitis has been developed by Finnzymes. While more expensive than traditional culture-based systems, this system has a distinct advantage in that it can be applied to metered milk samples collected for general milk recording purposes by most Dairy Herd Improvement (DHI) organizations. The Finnzymes test system has been shown to be accurate in the detection of most mastitis-associated pathogens in laboratory testing. It has been proposed that this PCR-based test may be more convenient and more accurate than traditional culture-based systems in identifying cows with subclinical S. aureus infections. The first objective of this pilot project is to measure the agreement between a PCR-based diagnostic system and a culture-based system for identifying S. aureus infected cows and quarters. The second objective is to determine the cause(s) of disagreement that may occur between the two test systems.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2008-09-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4484</dc:identifier>
+	<dc:identifier>10.21423/aabppro20084484</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2008; 289</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4484/4390</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2008 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

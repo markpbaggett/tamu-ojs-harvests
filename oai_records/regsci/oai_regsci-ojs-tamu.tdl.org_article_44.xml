@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/44</identifier>
+				<datestamp>2023-04-06T22:12:18Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Identification of Unknown Compound in Apocynum cannabinum by High Resolution Mass Spectrometry (HRMS) and 600 MHz NMR</dc:title>
+	<dc:creator xml:lang="en">Lou, Rensheng</dc:creator>
+	<dc:creator xml:lang="en">Rottinghaus, George</dc:creator>
+	<dc:creator xml:lang="en">Thomas, Andrew L</dc:creator>
+	<dc:creator xml:lang="en">Monroe, Doug</dc:creator>
+	<dc:creator xml:lang="en">Tran, Kevin</dc:creator>
+	<dc:creator xml:lang="en">Smith, Robert E</dc:creator>
+	<dc:subject xml:lang="en">Apocynum cannabinum</dc:subject>
+	<dc:subject xml:lang="en">LC-MS</dc:subject>
+	<dc:subject xml:lang="en">NMR</dc:subject>
+	<dc:subject xml:lang="en">4’-hydroxyacetophenone</dc:subject>
+	<dc:subject xml:lang="en">MS</dc:subject>
+	<dc:description xml:lang="en">High resolution mass spectrometry (HRMS) was able to determine that the m/z of the [M+H]+ ion formed by an unknown compound that was purified by preparative scale liquid chromatography (LC) was 137.05966. This was done rapidly and easily by direct infusion. Neither a column nor chromatography was needed. This is within 0.4 ppm of the mass calculated by ThermoFisher’s exact mass calculator for the protonated version of C8H8O2. Based on this, the compound could have been 2’-, 3’- or 4’-hydroxyacetophenone or 2’-, 3’- or 4’-methoxybenzaldehyde. However, 1H- and 13C-NMR spectra of the isolated compound showed that it was 4’-hydroxyacetophenone, without needing a standard. Neither mass spectrometry (MS) nor NMR could have identified this compound by itself. Finally, HRMS was also able to verify that another peak isolated by preparative scale LC was apocynin, or 4’-hydroxy-3’-methoxyacetophenone.https://doi.org/10.21423/jrs-v04n03p014 (DOI assigned 5/31/2019)</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2016-07-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">LC-MS and NMR</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/44</dc:identifier>
+	<dc:identifier>10.21423/JRS-V04N03P014</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 4 No. 3 (2016); 14-19</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/44/42</dc:relation>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

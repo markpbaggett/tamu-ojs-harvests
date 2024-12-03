@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8550</identifier>
+				<datestamp>2023-03-01T02:21:08Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Maintenance of the last step of the cold chain: on-farm refrigerator storage and performance</dc:title>
+	<dc:creator xml:lang="en">Fallness, Cynthia A.</dc:creator>
+	<dc:creator xml:lang="en">Rollin, Emmanuel</dc:creator>
+	<dc:creator xml:lang="en">Heins, Bradley D.</dc:creator>
+	<dc:creator xml:lang="en">Berghaus, Roy D.</dc:creator>
+	<dc:subject xml:lang="en">livestock vaccines</dc:subject>
+	<dc:subject xml:lang="en">cold chain</dc:subject>
+	<dc:subject xml:lang="en">refrigerator monitoring</dc:subject>
+	<dc:description xml:lang="en">Maintenance of the cold chain post-manufacturing for livestock vaccines is the most important way to ensure maximum product efficacy and safety. Often, it is unknown if refrigerators used for farm storage are operating in the recommended temperature interval (RTI) for vaccine storage of 36°F to 46°F (2°C to 8°C), and whether or not they are able to maintain those temperatures as the ambient room temperature changes. In order to evaluate the performance of different styles of refrigerators on dairy farms and veterinary clinics in the southeast United States, a convenience sample of 20 refrigerators was selected for the placement of digital data loggers to monitor the internal refrigerator and ambient temperatures over 5 months from July to November 2021. The percentage of time that refrigerators spent outside the RTI ranged from 0% to 80% with a median of 22%. The percentage of time outside the RTI was significantly greater for household refrigerators (37%) compared to commercial refrigerators (2.2%), while mini-refrigerators (27%) were intermediate. The estimated mean daily temperature range (MDTR) of household refrigerators (9.5°F, 5.3°C) was also significantly greater than that for commercial (5.4°F, 3°C) or mini (5.8°F, 3.2°C) refrigerators. Implications of the study show the necessity for proper temperature monitoring, staff training and record keeping to ensure vaccine efficacy and product safety, and ultimately improve animal health and productivity.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2022-12-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8550</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol56no2p62-69</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 56 No. 2 (2022); 62-69</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8550/8336</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

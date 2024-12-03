@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/6757</identifier>
+				<datestamp>2020-07-22T18:33:16Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Concurrent Infection of Young Calves With Eimeria bovis and coronavirus</dc:title>
+	<dc:creator xml:lang="en">Hoblet, K. H.</dc:creator>
+	<dc:creator xml:lang="en">Shulaw, W. P.</dc:creator>
+	<dc:creator xml:lang="en">Saif, L. J.</dc:creator>
+	<dc:creator xml:lang="en">Weisbrode, S. E.</dc:creator>
+	<dc:creator xml:lang="en">Lance, S. E.</dc:creator>
+	<dc:creator xml:lang="en">Redman, D. R.</dc:creator>
+	<dc:subject xml:lang="en">replicates</dc:subject>
+	<dc:subject xml:lang="en">coronavirus infection</dc:subject>
+	<dc:subject xml:lang="en">Eimeria bovis</dc:subject>
+	<dc:subject xml:lang="en">bull calves</dc:subject>
+	<dc:description xml:lang="en">Over a period of 3 summers, 21 colostrum-fed Holstein bull calves, 1-3 days of age, were selected to form 7 replicates, each consisting of 3 calves. The project was conducted during the summer because screen-testing of calves indicated a higher likelihood during warm months of obtaining calves without evidence of coronavirus infection.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1991-09-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6757</dc:identifier>
+	<dc:identifier>10.21423/aabppro19916757</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 1991; 169-170</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/6757/6590</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1991 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/7102</identifier>
+				<datestamp>2020-10-16T01:02:03Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Bovine respiratory disease modeling: Advantages, limitations, and considerations</dc:title>
+	<dc:creator xml:lang="en">Lechtenberg, Kelly F.</dc:creator>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">pneumonia</dc:subject>
+	<dc:subject xml:lang="en">modeling</dc:subject>
+	<dc:description xml:lang="en">The bovine respiratory disease (BRD) complex involves the classic components of the disease triad: host factors, pathogen factors, and environmental factors. The multiple components included in each of these categories have the potential to overwhelm the immune system of cattle and become recognized as “the cause” of the disease. However, it is the net effect of multiple factors that comprise a final result that we recognize as “disease” (BRD). This presentation discusses how these interrelated factors can be managed in the development of disease models to assess the efficacy of product. Mitigating or managing the sources of animal to animal variation creates more robust and dependable models, but also creates populations that may be different than the population for which we are evaluating an intervention.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-09-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7102</dc:identifier>
+	<dc:identifier>10.21423/aabppro20197102</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2019; 89-92</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/7102/5893</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

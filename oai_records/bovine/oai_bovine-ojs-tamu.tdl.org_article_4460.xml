@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4460</identifier>
+				<datestamp>2020-02-06T08:56:58Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Molecular Characterization of Pasteurella multocida Isolates From Fatal Cases of Bovine Respiratory Disease</dc:title>
+	<dc:creator xml:lang="en">Taylor, J. D.</dc:creator>
+	<dc:creator xml:lang="en">Fulton, R. W.</dc:creator>
+	<dc:creator xml:lang="en">Lehenbauer, T. W.</dc:creator>
+	<dc:creator xml:lang="en">Dabo, S. M.</dc:creator>
+	<dc:creator xml:lang="en">Confer, A. W.</dc:creator>
+	<dc:subject xml:lang="en">Bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">beef cattle</dc:subject>
+	<dc:subject xml:lang="en">Mannheimia haemolytica</dc:subject>
+	<dc:subject xml:lang="en">Pasteurella multocida</dc:subject>
+	<dc:subject xml:lang="en">opportunistic pathogen</dc:subject>
+	<dc:subject xml:lang="en">whole cell protein</dc:subject>
+	<dc:subject xml:lang="en">outer membrane protein</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease (BRD) is the most costly disease of beef cattle in North America. Mannheimia haemolytica is the most common cause of BRD, but recent work suggests that Pasteurella multocida is increasing in importance. Because P multocida is a commensal inhabitant of the upper respiratory tract, it is generally considered an opportunistic pathogen. However, studies in swine indicated that there may be a limited number of strains associated with disease, suggesting that some are more virulent than others. We hypothesize that similar strain differences exist in cattle. Polymerization chain reaction (PCR) fingerprinting is effective in discriminating between isolates of P multocida, but it has not been validated in bovine isolate.s. Therefore, the purpose of this study was to compare the effectiveness of PCR fingerprinting of P multocida isolates from cases of BRD to more traditional approaches, including whole cell protein (WCP) profiles, outer membrane protein (OMP) profiles and serotyping. The information obtained through these techniques was then used to examine isolate diversity to determine if disease was primarily attributable to a limited number of strains.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2008-09-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4460</dc:identifier>
+	<dc:identifier>10.21423/aabppro20084460</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2008; 266</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4460/4367</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2008 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

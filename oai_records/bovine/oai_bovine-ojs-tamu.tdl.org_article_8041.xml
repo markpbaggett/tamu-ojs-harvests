@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8041</identifier>
+				<datestamp>2021-05-28T07:36:27Z</datestamp>
+				<setSpec>aabp:HotTop</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Antibiotic use monitoring in feedlots and dairies: Eight key concepts to help you guide your clients</dc:title>
+	<dc:creator xml:lang="en">Apley, Michael D.</dc:creator>
+	<dc:subject xml:lang="en">antibiotics</dc:subject>
+	<dc:subject xml:lang="en">monitoring</dc:subject>
+	<dc:subject xml:lang="en">concepts</dc:subject>
+	<dc:description xml:lang="en">Antibiotic use monitoring suffers from a lack of uniformity in the metrics used and the related terminology. There are 8 key concepts which can help guide veterinarians through the initial steps of deciphering antibiotic use data. First, there is no one perfect metric. It is also critically important to understand the granularity of the data from which the antibiotic use is calculated. Weight of antibiotics is confounded by different potencies. Regimens can help normalize antibiotic use, but be sure to know the difference between a documented regimen and estimated defined daily doses (DDDs) and Defined Course Doses (DCDs). When using the number of reported regimens or estimated number of animals exposed as a proxy for disease incidence, be sure to understand how multiple exposures for the same disease incident were addressed. Kilograms of product sold for each food animal species has a unique relationship to the production cycle and time at risk for antibiotic use. Duration of antibiotic administration may be quite different from the duration of therapeutic effect and the duration of selection for antibiotic resistant bacteria. And, lastly, comparison of antibiotic use between food animal species by any antibiotic use metric is poorly advised.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2020-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8041</dc:identifier>
+	<dc:identifier>10.21423/aabppro20208041</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2020; 138-141</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8041/7989</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/228</identifier>
+				<datestamp>2023-04-12T00:11:30Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Rapid-field-deployable DART-MS screening technique for 87 opioids and drugs of abuse, including fentanyl and fentanyl analogs	</dc:title>
+	<dc:creator xml:lang="en">Sara Kern</dc:creator>
+	<dc:creator xml:lang="en">Toomey, Valerie </dc:creator>
+	<dc:creator xml:lang="en">Lorenz, Lisa</dc:creator>
+	<dc:subject xml:lang="en">ambient ionization</dc:subject>
+	<dc:subject xml:lang="en">mass spectrometry</dc:subject>
+	<dc:subject xml:lang="en">field deployable instrumentation</dc:subject>
+	<dc:subject xml:lang="en">opioids</dc:subject>
+	<dc:subject xml:lang="en">Ambient Ionization Mass Spectrometry</dc:subject>
+	<dc:description xml:lang="en">Fentanyl and fentanyl analogs are playing an increasing role in the opioid health crisis that is sweeping America. These synthetic opioids are much more potent and lethal than morphine or heroin and must be treated with extreme caution. Many of these substances are entering the country through International Mail Facilities (IMFs) and Express Courier Hubs (ECHs) in the form of counterfeit prescription drugs and bulk powders, resulting in a critical need for field-deployable techniques that can safely provide rapid screening to prevent these products from reaching the public. &amp;nbsp;Here we describe a direct analysis in real time thermal desorption mass spectrometer (DART-MS) with database searching capabilities that allows quick detection of numerous target compounds. Minimum detectable levels for 87 opioids and drugs of abuse have been determined. This technique was applied to eight samples sent to the Food and Drug Administration’s (FDA) Forensic Chemistry Center for analysis and the results are compared to those collected using gas chromatography with mass spectral detection (GC-MS) and liquid chromatography with mass spectral detection (LC-MS).</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2022-05-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/228</dc:identifier>
+	<dc:identifier>10.21423/JRS-V10I2KERN</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 10 No. 2 (2022): Special Issue on Regulatory Applications of Portable Tools and Methods to Monitor Toxic Substances in Consumer Products; 1-14</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/228/265</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 Sara Kern, Valerie  Toomey, Lisa Lorenz</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

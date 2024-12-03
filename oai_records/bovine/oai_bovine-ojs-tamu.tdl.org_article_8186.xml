@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8186</identifier>
+				<datestamp>2021-08-27T22:38:50Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Ancillary bovine respiratory disease therapy</dc:title>
+	<dc:creator xml:lang="en">Apley, Michael D.</dc:creator>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">therapy</dc:subject>
+	<dc:subject xml:lang="en">ancillary</dc:subject>
+	<dc:description xml:lang="en">Ancillary therapeutics are often administered along with an antimicrobial for the treatment of the bovine respiratory disease complex. For non-steroidal anti-inflammatory drugs (NSAIDs), the majority of clinical trial evidence supports a clear effect of a more rapid decrease in rectal temperature along with some evidence for more rapid improvement in clinical signs as compared to antimicrobials alone. However, there is no clear, consistent clinical evidence to support that NSAIDs result in increased treatment success, reduced case fatality, or improved post-treatment average daily gain as opposed to an antimicrobial alone. It should also be noted that the lumping of all NSAIDs together as a group can result in incorrectly attributing or not attributing important properties to individual drugs. The publicly available information on steroids and vitamin C is much more limited. The only clinical trials involving ancillary therapy with steroids are either negative or neutral. Two trials concerning the use of vitamin C were reviewed, one showing no effects and one presenting a large difference in mortality during the subsequent feeding period, but without enough details to evaluate either internal or external validity.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2021-02-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8186</dc:identifier>
+	<dc:identifier>10.21423/aabppro20218186</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2021 Recent Graduate Proceedings ; 106-109</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8186/8127</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2021 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

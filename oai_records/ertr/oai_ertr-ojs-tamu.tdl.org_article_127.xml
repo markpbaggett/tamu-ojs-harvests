@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:ertr-ojs-tamu.tdl.org:article/127</identifier>
+				<datestamp>2018-02-05T09:12:11Z</datestamp>
+				<setSpec>ertr:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Defining Tourism Domains for Semantic Annotation of Web Content</dc:title>
+	<dc:creator xml:lang="en">Panasiuk, Oleksandra</dc:creator>
+	<dc:creator xml:lang="en">Kärle, Elias</dc:creator>
+	<dc:creator xml:lang="en">Simsek, Umutcan</dc:creator>
+	<dc:creator xml:lang="en">Fensel, Dieter</dc:creator>
+	<dc:subject xml:lang="en">schema.org</dc:subject>
+	<dc:subject xml:lang="en">semantic annotation</dc:subject>
+	<dc:subject xml:lang="en">domain specification</dc:subject>
+	<dc:subject xml:lang="en">e-tourism</dc:subject>
+	<dc:description xml:lang="en">Schema.org is an initiative by Bing, Google, Yahoo! and Yandex that publishes a vocabulary for creating structured data markup on web pages. The use of schema.org is necessary to increase the visibility of a website, making the content understandable to different automated agents (e.g. search engines, chatbots or personal assistant systems). The domain specifications are the subsets of types from the schema.org vocabulary, each associated with a set of properties. The challenge is to choose the right classes and properties for an annotation in a given domain. In this paper we address the problem of finding a subset of types and properties for complete and correct annotation of different tourism domains. The approach provides a collection of domain specifications that were built based on domain analysis and vocabulary selection.</dc:description>
+	<dc:publisher xml:lang="en">e-Review of Tourism Research</dc:publisher>
+	<dc:date>2018-02-05</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://ertr-ojs-tamu.tdl.org/ertr/article/view/127</dc:identifier>
+	<dc:source xml:lang="en">e-Review of Tourism Research; 2018: ENTER 2018 Volume 9 Conference on Information and Communication Technologies in Tourism RESEARCH NOTES</dc:source>
+	<dc:source>1941-5842</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://ertr-ojs-tamu.tdl.org/ertr/article/view/127/34</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 e-Review of Tourism Research</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

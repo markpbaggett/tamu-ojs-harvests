@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/139</identifier>
+				<datestamp>2021-08-31T02:06:33Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Assessment of dairy calves' microbiological environment using 3M™ Petrifilm™ bacteriology plates</dc:title>
+	<dc:creator xml:lang="en">Buczinski, Sébastien E.</dc:creator>
+	<dc:creator xml:lang="en">Borris, Marie-Eve E.</dc:creator>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">environment</dc:subject>
+	<dc:subject xml:lang="en">3M™ Petrifilm™</dc:subject>
+	<dc:subject xml:lang="en">bacteriology</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease complex is a major disease in dairy calves. Environmental factors such as microbiological air quality have been associated with greater risk of bovine respiratory disease in calves. Routine air sampling for microbiological testing has not been traditionally performed by practitioners, mainly because of the cost associated with air sampling machines. Here we present an alternative, cost-effective air quality assessment technique using 3M™ Petrifilm™ bacteriology plates. This method can determine total aerobic bacteria, coliform, yeast, and mold counts. We found that a 10-min contact time was optimal for assessing calf environments. In the calf pens, median (ranges) bacterial counts were 340 (90 to 840) cfu/plate for aerobic plate counts, 4 (1 to 11) cfu/plate for coliform counts, 4 (1 to 11) cfu/plate for yeast counts, and 42 (1 to 120) cfu/plate for mold counts. Based on our findings, we propose that this approach can be used to monitor air quality in dairy calf barns.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2017-02-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/139</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol51no1p58-62</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 51, No. 1 (2017 Spring); 58-62</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/139/122</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2017 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

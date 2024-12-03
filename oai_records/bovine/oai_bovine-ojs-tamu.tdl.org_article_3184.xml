@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3184</identifier>
+				<datestamp>2020-04-09T16:31:01Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Genomic comparison of Histophilus somni strains shows genetic drift</dc:title>
+	<dc:creator xml:lang="en">Wiener, Brittanny</dc:creator>
+	<dc:creator xml:lang="en">Lawrence, Paulraj</dc:creator>
+	<dc:subject xml:lang="en">bacteria</dc:subject>
+	<dc:subject xml:lang="en">vaccination</dc:subject>
+	<dc:subject xml:lang="en">immunity</dc:subject>
+	<dc:subject xml:lang="en">TME</dc:subject>
+	<dc:subject xml:lang="en">avirulent mutant strain</dc:subject>
+	<dc:description xml:lang="en">Histophilus somni is a gram-negative, non-motile, non-encapsulated, coccobacillus commensal bacterium associated with nasal cavities of cattle. H. somni is an opportunistic pathogen that complicates viral infections and increases the severity of infection in association with other bacterial agents. H. somni can infect several organs once it becomes blood-borne, and is often associated with Mannheima haemolytica and Pasteurella multocida. H. somni affects the respiratory, genital, nervous (thrombotic meningoencephalitis, TME), circulatory and musculoskeletal systems (joints), either individually or together. Currently there are 22 USDA-licensed H. somni vaccines licensed by 5 companies for the US market; however, many of these are no longer being manufactured or marketed. The current manufactured vaccines are heavily used, with 69. 7% of all large feedlots in the US vaccinating cattle against H. somni. Surprisingly, their ability to confer immunity in the production setting is modest or unknown. One of the reasons for perceived low protection is high genetic diversity and genetic-drift among H. somni strains. In order to understand the genetic-drift and select candidates for inclusion in autogenous vaccines we performed whole genome sequencing (WGS) and comparative mapping analysis of 30 H. somni field isolates (named NPL#) and 2 avirulent mutant strains to the reference strains 129PT commensal isolate and 2336 and HS91 pathogenic isolates.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2018-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3184</dc:identifier>
+	<dc:identifier>10.21423/aabppro20183184</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2018; 316</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3184/3157</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2018 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

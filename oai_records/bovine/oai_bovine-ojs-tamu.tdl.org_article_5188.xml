@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5188</identifier>
+				<datestamp>2020-03-21T07:21:20Z</datestamp>
+				<setSpec>aabp:AABPSFT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Sexing Bovine Sperm</dc:title>
+	<dc:creator xml:lang="en">Seidel, George E.</dc:creator>
+	<dc:subject xml:lang="en">sexing sperm</dc:subject>
+	<dc:subject xml:lang="en">cytometry/cell sorting</dc:subject>
+	<dc:subject xml:lang="en">sperm sorters</dc:subject>
+	<dc:description xml:lang="en">Many methods of sexing sperm have been attempted, and there have been sufficient failures to cause much skepticism about sperm-sexing claims. However, recent work has clearly shown that one method is successful with various species, including cattle and horses. This procedure, flow cytometry/cell sorting, is 85 to 95% accurate. It was developed for sexing live sperm by Dr. Larry Johnson in the United States Department of Agriculture laboratory at Beltsville, Maryland, and patented by the U.S. government. Exclusive rights to the patent have been assigned to XY, Inc., a company in Colorado, for applications in non-human mammals. XY, Inc. has subsequently spent millions of dollars in further research, including development of faster sperm sorters. Much of this work was done in collaboration with Colorado State University.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5188</dc:identifier>
+	<dc:identifier>10.21423/aabppro20015188</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2001; 106-108</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5188/5060</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

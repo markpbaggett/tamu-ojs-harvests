@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/2803</identifier>
+				<datestamp>2021-08-30T21:06:23Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Simulation model to estimate the relative economic value of three different open female management strategies among cow-calf herds in the United States</dc:title>
+	<dc:creator xml:lang="en">Nickell, Jason</dc:creator>
+	<dc:subject xml:lang="en">beef cows</dc:subject>
+	<dc:subject xml:lang="en">open cows</dc:subject>
+	<dc:subject xml:lang="en">non-pregnant cows</dc:subject>
+	<dc:subject xml:lang="en">calves</dc:subject>
+	<dc:subject xml:lang="en">cows</dc:subject>
+	<dc:subject xml:lang="en">estimation</dc:subject>
+	<dc:subject xml:lang="en">income</dc:subject>
+	<dc:subject xml:lang="en">livestock numbers</dc:subject>
+	<dc:subject xml:lang="en">market prices</dc:subject>
+	<dc:subject xml:lang="en">pregnancy</dc:subject>
+	<dc:subject xml:lang="en">simulation models</dc:subject>
+	<dc:subject xml:lang="en">stochastic models</dc:subject>
+	<dc:subject xml:lang="en">weaning</dc:subject>
+	<dc:description xml:lang="en">The sale of non-pregnant (open) females constitutes significant annual income for cow-calf producers, thereby requiring critical evaluation of multiple open-female management opportunities. A stochastic model was constructed to estimate the relative economic value of three common open female management practices within spring-calving beef herds consisting of 50, 300, and 600 head of cattle: (A) cull open females and replace with purchased pregnant females, (B) maintain open females in the herd, and (C) transfer open females into a fall herd. The temporal confines of each model reflect the time frame from the original open diagnosis until the time point of marketing first-generation calves produced by females from each respective management option. Based upon the model assumptions, Option C, on average, was a profitable endeavor regardless of herd size. Conversely, Options A and B were only sparingly profitable regardless of herd size. The market cost of purchasing pregnant replacement females, the cost of maintaining open females in the herd, and the cost of maintaining recently bred females through the winter months heavily influenced the estimates of Options A, B, and C, respectively. Based upon the confines of this model, these data suggest that regardless of evaluated herd size, the economic value of these open-female management options differ highly and are influenced by multiple factors. Therefore, the influential parameters of the outcome estimates, along with the management limitations of individual herds, should be considered when attempting to implement open-female management strategies among cow-calf herds.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2012-06-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2803</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol46no2p78-90</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 46, No. 2 (2012 Summer); 78-90</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/2803/2793</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2012 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

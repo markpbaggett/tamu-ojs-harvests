@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4624</identifier>
+				<datestamp>2020-02-15T08:40:21Z</datestamp>
+				<setSpec>aabp:RS4</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The Impact of Milk Temperature Monitoring on Milk Quality on Ontario Dairy Farms</dc:title>
+	<dc:creator xml:lang="en">Perkins, N.</dc:creator>
+	<dc:creator xml:lang="en">Kelton, D.</dc:creator>
+	<dc:creator xml:lang="en">Leslie, K.</dc:creator>
+	<dc:creator xml:lang="en">Hand, K.</dc:creator>
+	<dc:creator xml:lang="en">MacNaughton, G.</dc:creator>
+	<dc:subject xml:lang="en">milk products</dc:subject>
+	<dc:subject xml:lang="en">bacterial contamination</dc:subject>
+	<dc:subject xml:lang="en">Time Temperature Recorder</dc:subject>
+	<dc:subject xml:lang="en">bacteria levels</dc:subject>
+	<dc:subject xml:lang="en">bulk tank</dc:subject>
+	<dc:description xml:lang="en">The Ontario dairy industry takes great pride in providing high quality milk products to the consuming public. Milk and milk products are an important part of the daily diet of most Ontario residents. Bacterial contamination of raw milk has a major negative impact on milk quality. Even though most milk is pasteurized prior to consumption, raw milk is consumed by some farming families and is used to manufacture some food products. Dairy Farmers of Ontario have required installation of Time Temperature Recorder's (TTR's) on all Ontario dairy farms, with the intention of preventing elevated bacteria levels in raw milk under the Canadian Quality Milk Program. The TTR has two sensors, one in the bulk tank that monitors the raw milk temperature and one in the pipeline to monitor wash water temperature during the wash cycle. The objective of this study was to evaluate the impact of TTR's on the bacterial content of raw milk and the loss of (dumped) bulk tank milk on Ontario dairy farms and to summarize the occurrences of the different TTR alarms.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2007-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4624</dc:identifier>
+	<dc:identifier>10.21423/aabppro20074624</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2007; 267</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4624/4526</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2007 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

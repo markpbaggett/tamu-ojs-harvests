@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4488</identifier>
+				<datestamp>2020-02-06T08:56:10Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Validation of an Improved Method for Detection of Mycoplasma bovis in Milk</dc:title>
+	<dc:creator xml:lang="en">Justice-Allen, Anne E.</dc:creator>
+	<dc:creator xml:lang="en">Morley, T. Scott</dc:creator>
+	<dc:creator xml:lang="en">Wilson, David J.</dc:creator>
+	<dc:creator xml:lang="en">Trujillo, Jessie D.</dc:creator>
+	<dc:subject xml:lang="en">Mycoplasma mastitis</dc:subject>
+	<dc:subject xml:lang="en">disease detection</dc:subject>
+	<dc:subject xml:lang="en">culture methodology</dc:subject>
+	<dc:subject xml:lang="en">PCR assay</dc:subject>
+	<dc:description xml:lang="en">M. bovis and several other Mycoplasma spp cause intramammary, respiratory and joint infections that have serious economic consequences for the dairy industry (Gonzalez RN et al, 1994). Mycoplasma mastitis is resistant to treatment, therefore control of mycoplasma mastitis relies primarily on early detection and culling of infected animals to reduce transmission and herd prevalence. The current method of detection with culture is less than ideal because this group of fastidious organisms requires special enrichment media, CO2 supplemented incubation chambers with a positive or negative determination requiring an average of 10 days. Previously published molecular methods for the detection of Mycoplasma spp nucleic acids in milk samples have been demonstrated to have similar sensitivity to conventional culture methodology (Cai et al, 2005; Bashiruddin et al, 2005; McAuliffe et al, 2005). Such assays present several challenges beginning with the extraction of DNA from milk samples to the DNA amplification procedures which are technically complex. The goal of our research was to develop and validate a simple, efficient extraction process and couple it with a sensitive real-time PCR assay to detect M. bovis in bulk tank samples.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2008-09-25</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4488</dc:identifier>
+	<dc:identifier>10.21423/aabppro20084488</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2008; 293</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4488/4394</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2008 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

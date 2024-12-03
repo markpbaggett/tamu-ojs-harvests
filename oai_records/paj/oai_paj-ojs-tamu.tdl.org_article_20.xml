@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:paj-ojs-tamu.tdl.org:article/20</identifier>
+				<datestamp>2011-03-10T15:55:19Z</datestamp>
+				<setSpec>paj:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GIS, Texts, and Images: New Approaches</dc:title>
+	<dc:creator xml:lang="en">Gregory, Ian</dc:creator>
+	<dc:creator xml:lang="en">Cooper, David</dc:creator>
+	<dc:subject xml:lang="en">picturesque</dc:subject>
+	<dc:subject xml:lang="en">romantic literature</dc:subject>
+	<dc:subject xml:lang="en">Thomas Gray</dc:subject>
+	<dc:subject xml:lang="en">Samuel Taylor Coleridge</dc:subject>
+	<dc:subject xml:lang="en">tour</dc:subject>
+	<dc:subject xml:lang="en">Newsbook</dc:subject>
+	<dc:subject xml:lang="en">Visualization</dc:subject>
+	<dc:description xml:lang="en">In this talk, given at the Digital Humanities Conference 2010, I describe work done in mapping two journals kept by two eighteenth-century poets as they toured the Lake District: Thomas Gray and Samuel Taylor Coleridge--the latter a Romantic writer. &amp;nbsp;This work, as well as work done analysing place names and collocated words in the Lancaster Newsbook Corpus in order to determine which place names were associated with terms of war and which with monetary terms. &amp;nbsp;The work we have done suggests that GIS can aid literary studies as a tool for both close and distant reading.(pdf for download -- right click or control click to save)</dc:description>
+	<dc:publisher xml:lang="en">Texas A&amp;M University</dc:publisher>
+	<dc:date>2010-12-12</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">GIS</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://paj-ojs-tamu.tdl.org/paj/article/view/20</dc:identifier>
+	<dc:source xml:lang="en">paj:The Journal of the Initiative for Digital Humanities, Media, and Culture; Vol. 2 No. 1 (2010): Visualizing the Archive</dc:source>
+	<dc:source>1935-7362</dc:source>
+	<dc:source>1935-7362</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://paj-ojs-tamu.tdl.org/paj/article/view/20/59</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

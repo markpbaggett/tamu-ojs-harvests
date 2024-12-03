@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/5278</identifier>
+				<datestamp>2020-03-21T07:19:06Z</datestamp>
+				<setSpec>aabp:Post</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Johne's Disease in the Maritime Districts of Canada: Prevalence Estimate Adjusted for Test Variability</dc:title>
+	<dc:creator xml:lang="en">Van Schaik, G.</dc:creator>
+	<dc:creator xml:lang="en">Schukken, Y. H.</dc:creator>
+	<dc:creator xml:lang="en">Contreras, M.</dc:creator>
+	<dc:creator xml:lang="en">VanLeeuwen, J. A.</dc:creator>
+	<dc:creator xml:lang="en">Keefe, G. P.</dc:creator>
+	<dc:subject xml:lang="en">diagnostic test</dc:subject>
+	<dc:subject xml:lang="en">precision</dc:subject>
+	<dc:subject xml:lang="en">prevalence</dc:subject>
+	<dc:subject xml:lang="en">variability</dc:subject>
+	<dc:subject xml:lang="en">dairy cattle</dc:subject>
+	<dc:description xml:lang="en">Ignoring the limited precision of diagnostic tests can incur serious bias in prevalence (P) estimation. Most studies treat the sensitivity (SE) and specificity (SP) of the tests as constants. This will result in an underestimation of the variability of P. Bayesian inference provides a natural framework with which to integrate the variability in the estimates of SE and SP with estimation of P.1</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2001-09-13</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5278</dc:identifier>
+	<dc:identifier>10.21423/aabppro20015278</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2001; 206</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/5278/5147</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2001 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

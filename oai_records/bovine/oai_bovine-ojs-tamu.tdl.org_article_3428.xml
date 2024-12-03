@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3428</identifier>
+				<datestamp>2020-02-06T08:37:30Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Current concepts in dairy cattle immunology</dc:title>
+	<dc:creator xml:lang="en">Vander Ley, Brian L.</dc:creator>
+	<dc:subject xml:lang="en">bovine</dc:subject>
+	<dc:subject xml:lang="en">dairy</dc:subject>
+	<dc:subject xml:lang="en">immunology</dc:subject>
+	<dc:description xml:lang="en">Protection from disease-causing organisms is critical to the survival of cattle in all production systems. The immune system is composed of organs, tissues, and cells tasked with providing protection from invading pathogens. The first line of protection of pathogens relies on physical, chemical, and mechanical barriers to invasion. Durable tissues, harsh environmental conditions, and targeted chemical defenses provide continuous protection. When these barriers are breeched, innate immune cells use molecular patterns common to large groups of pathogens to quickly recognize and respond to invaders. Innate immune cells also serve to alert and activate adaptive immune cells through the process of antigen presentation. As an infection progresses, adaptive immune cells (lymphocytes) produce molecules, including cytokines and antibodies, that direct innate immune cells to clear pathogens from the host. The purpose of these proceedings is to discuss each of these defenses to provide an understanding of immune protection in cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2016-09-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3428</dc:identifier>
+	<dc:identifier>10.21423/aabppro20163428</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2016; 86-88</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3428/3382</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2016 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

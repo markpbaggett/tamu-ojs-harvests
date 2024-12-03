@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1530</identifier>
+				<datestamp>2021-08-28T02:17:43Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Prospects For a Preclinical Diagnostic Test</dc:title>
+	<dc:creator xml:lang="en">Sommerville, R. A.</dc:creator>
+	<dc:creator xml:lang="en">Farquhar, C. F.</dc:creator>
+	<dc:creator xml:lang="en">Birkett, C. R.</dc:creator>
+	<dc:subject xml:lang="en">bovine spongiform encephalopathy</dc:subject>
+	<dc:subject xml:lang="en">diagnosis</dc:subject>
+	<dc:subject xml:lang="en">diagnostic techniques</dc:subject>
+	<dc:subject xml:lang="en">prions</dc:subject>
+	<dc:subject xml:lang="en">reviews</dc:subject>
+	<dc:subject xml:lang="en">tests</dc:subject>
+	<dc:description xml:lang="en">At present diagnosis of BSE in cattle and sheep scrapie routinely requires post-mortem confirmation which is traditionally performed by neurohistological examination for Spongiform Vacuolation. Detection of disease specific forms of the host protein PrP, called PrPSc, offers alternatives. Deposits can be detected immunohistochemically, by searching tissue extracts by electron microscopy for the fibrils (scrapie associated fibrils: SAF) which are comprised of PrPSc, or immunoblotting of tissue extracts for PrPSc. In this paper we examine the possibilities of using the immunochemical detection of PrPSc diagnostically. We have raised antibody reagents to PrP, used them to determine the kinetics of PrPSc deposition in murine models of the disease and to determine if PrPSc can be detected in ruminant tissues from BSE or scrapie infected animals.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>1997-05-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1530</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol1997no31.2p77-78</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; No. 31.2 (1997 May); 77-78</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1530/1523</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 1997 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

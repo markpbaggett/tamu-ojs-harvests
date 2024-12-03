@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/213</identifier>
+				<datestamp>2023-04-12T00:02:54Z</datestamp>
+				<setSpec>regsci:SA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Analytical Uncertainty in Animal Feed Laboratories: A Current Evaluation of AAFCO Proficiency Testing Data for Select Analytes</dc:title>
+	<dc:creator xml:lang="en">Herrman, Timothy</dc:creator>
+	<dc:creator xml:lang="en">Lee, Kyung-min</dc:creator>
+	<dc:creator xml:lang="en">Hsieh, Yi-Cheng</dc:creator>
+	<dc:creator xml:lang="en">Williams, Sara</dc:creator>
+	<dc:subject xml:lang="en">analytical variability; animal feed; measurement uncertainty, Association of American Feed Control Officials (AAFCO); proficiency test</dc:subject>
+	<dc:subject xml:lang="en">The Association of American Feed Control Officials (AAFCO) created analytical variations (AVs) have been widely utilized by the animal feed regulatory community.  We reevaluated the current AAFCO AV values and developed a model to propose new estimates for possible replacement of the current values for select analytes.</dc:subject>
+	<dc:description xml:lang="en">The animal feed regulatory community utilizes analytical variations (AVs) that account for the normal variability that occurs within and between laboratories.&amp;nbsp; The AV was created using the Association of American Feed Control Officials (AAFCO) proficiency testing (PT) program results and represent the coefficient of variation times 2 (2 CV). This study was performed to assess the accuracy of the published AVs within the association’s Official Publication (OP) using AAFCO PT data from 2014 to 2020. This study also reevaluated the current AV values by applying the concept of the measurement uncertainties including the expanded uncertainty (U), Horwitz value, and 2 CV for the assessment of the label guarantees. Although greater variations were observed at lower concentrations, the majority of data points from the PT rounds showed an acceptable reproducibility for the select analytical methods except for cobalt, fat, fiber, moisture, and selenium where 2 CV was higher than the current AAFCO AV.&amp;nbsp; Regression models were developed based on the 95% tolerance interval of expanded uncertainty and 2 CV and were validated using the 2019-2020 AAFCO PT data. The validation data fell within the expanded uncertainty and 2 CV model bounds indicating the new models were fit-for-purpose and accurately characterized current AAFCO PT data.&amp;nbsp; The study results imply the AAFCO AV and its issues need to be better understood to improve an accuracy and traceability of the laboratory’s measurement and thus regulatory decisions to help animal feed producers and processors lower economic losses.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2022-05-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/213</dc:identifier>
+	<dc:identifier>10.21423/JRS-V10I1HERRMAN</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 10 No. 1 (2022); 1 -19</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/213/267</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 Timothy Herrman, Kyung-min Lee, Yi-Cheng Hsieh, Sara Williams</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

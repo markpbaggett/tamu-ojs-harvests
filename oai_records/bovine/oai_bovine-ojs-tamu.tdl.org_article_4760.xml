@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/4760</identifier>
+				<datestamp>2020-02-15T08:42:09Z</datestamp>
+				<setSpec>aabp:RS3</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Evaluation of a Milk ELISA for Bovine Paratuberculosis</dc:title>
+	<dc:creator xml:lang="en">Collins, Michael T.</dc:creator>
+	<dc:subject xml:lang="en">Mycobacterium paratuberculosis</dc:subject>
+	<dc:subject xml:lang="en">Johne's disease</dc:subject>
+	<dc:subject xml:lang="en">control programs</dc:subject>
+	<dc:subject xml:lang="en">testing strategies</dc:subject>
+	<dc:subject xml:lang="en">prognostic information</dc:subject>
+	<dc:subject xml:lang="en">food animals</dc:subject>
+	<dc:subject xml:lang="en">enzyme-linked immunosorbent assay</dc:subject>
+	<dc:subject xml:lang="en">ELISA</dc:subject>
+	<dc:description xml:lang="en">Johne's disease, caused by Mycobacterium paratuberculosis, has become a prevalent infectious disease problem for dairy cattle herds. Control programs require changes in herd management to limit opportunities for infection transmission to young stock, coupled with diagnostic testing to identify the infected, or at least most infectious, adult cattle. When within-herd infection rates are high, it is not economically feasible to cull all test-positive cows. Consequently, it is necessary to adopt testing strategies that provide both diagnostic and prognostic information. The owner needs to know which cows are most infectious and are unlikely to survive another lactation; these cows need to be removed from the herd. It also would be helpful to know which infected cows are least infectious and are capable of sustaining another lactation and generating farm income. Veterinary diagnostics for food animals are strongly affected by end-user economics. Consequently, the most accurate and informative test results must be provided to the end users at the least cost. The diagnostic technology fulfilling this need is often based on antibody detection using enzyme-linked immunosorbent assay (ELISA) technology because of its low cost and high throughput potential through automation. Application of ELISAs to milk, instead of blood, samples brings even further efficiency. The purpose of the present study was to evaluate the sensitivity and specificity of a commercially available milk ELISA for Johne's disease and evaluate its cost-effectiveness using an economic decision analysis model.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2006-09-21</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4760</dc:identifier>
+	<dc:identifier>10.21423/aabppro20064760</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2006; 278</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/4760/4657</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2006 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:aavptbiennial-ojs-tamu.tdl.org:article/70</identifier>
+				<datestamp>2022-06-28T19:22:33Z</datestamp>
+				<setSpec>aavptbiennial:S2</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A physiologically based pharmacokinetic model of doxycycline for predicting tissue residues and withdrawal intervals in grass carp (Ctenopharyngodon idellus)</dc:title>
+	<dc:creator xml:lang="en">Xu, Ning</dc:creator>
+	<dc:creator xml:lang="en">Chou, Wei-Chun</dc:creator>
+	<dc:creator xml:lang="en">Li, Miao</dc:creator>
+	<dc:creator xml:lang="en">Lin, Zhoumeng</dc:creator>
+	<dc:subject xml:lang="en">physiologically based pharmacokinetic (PBPK) model</dc:subject>
+	<dc:subject xml:lang="en">grass carp</dc:subject>
+	<dc:subject xml:lang="en">drug residue</dc:subject>
+	<dc:subject xml:lang="en">food safety</dc:subject>
+	<dc:subject xml:lang="en">withdrawal period</dc:subject>
+	<dc:description xml:lang="en">Physiologically based pharmacokinetic (PBPK) models are an efficient tool in the prediction of tissue residues and withdrawal intervals of drugs in domestic food-producing animals and fish. The objectives of this study were to determine the tissue residue depletion kinetics and to establish a PBPK model of doxycycline in grass carp (Ctenopharyngodon idellus). Residue depletion kinetic data for doxycycline were collected at predetermined time points (0.25, 0.5, 1, 3, 5, 7, 14, 21, 28, 35, 42, 49 and 56 days) in plasma, liver, kidney, gill, and muscle+skin of grass carp after repeated oral administrations at 20 mg/kg for 3 days. These data were used to calculate withdrawal intervals using FDA’s tolerance limit method. Based on these data, a seven-compartment PBPK model including plasma, liver, kidney, gill, muscle+skin, richly and slowly perfused tissues was developed. Physiological parameter values such as cardiac output and tissue weights were measured experimentally. Partition coefficients were calculated using area-under-the-concentration method. Other parameters were from the literature or estimated by fitting to the collected data. Preliminary results showed that this PBPK model properly captured the observed kinetic profiles of doxycycline in the plasma and edible tissues in grass carp after multiple oral administrations. Model optimization and evaluation are ongoing. This model provides a useful tool to predict tissue residues and withdrawal intervals of doxycycline in grass carp to aid food safety assessment, and also serves as a foundation for extrapolation to other fish species.</dc:description>
+	<dc:publisher xml:lang="en">AAVPT Biennial Symposia</dc:publisher>
+	<dc:date>2019-08-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/70</dc:identifier>
+	<dc:source xml:lang="en">AAVPT Biennial Symposia; 21st Biennial Symposium; 51</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://aavptbiennial-ojs-tamu.tdl.org/aavptbiennial/article/view/70/65</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2019 American Academy of Veterinary Pharmacology and Therapeutics</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

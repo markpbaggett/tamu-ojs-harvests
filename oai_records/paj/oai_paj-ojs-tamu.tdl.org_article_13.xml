@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:paj-ojs-tamu.tdl.org:article/13</identifier>
+				<datestamp>2011-03-10T15:52:33Z</datestamp>
+				<setSpec>paj:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Ubiquitous Text Analysis</dc:title>
+	<dc:creator xml:lang="en">Rockwell, Geoffrey</dc:creator>
+	<dc:creator xml:lang="en">Sinclair, Stéfan G.</dc:creator>
+	<dc:creator xml:lang="en">Ruecker, Stan</dc:creator>
+	<dc:creator xml:lang="en">Organisciak, Peter</dc:creator>
+	<dc:subject xml:lang="en">visualization</dc:subject>
+	<dc:subject xml:lang="en">data analysis</dc:subject>
+	<dc:subject xml:lang="en">datamining</dc:subject>
+	<dc:subject xml:lang="en">digital humanities</dc:subject>
+	<dc:subject xml:lang="en">exploratory data analysis</dc:subject>
+	<dc:subject xml:lang="en">data visualization</dc:subject>
+	<dc:subject xml:lang="en">Visualization</dc:subject>
+	<dc:description xml:lang="en">How can digital content be connected to text analysis tools? The TAPoR (Text Analysis Portal for Research) provided a workbench model, but usability studies suggest that a workbench was not how humanists thought of doing their research - humanists start with the text and apply tools as lenses for analyzing the text. This led us to experiment with ubiquitous tools that can be embedded in the user&amp;rsquo;s environment or in the text, be it an online journal or blog. In this paper, we survey a number of experiments leading up to&amp;nbsp;TAToo&amp;nbsp;(Text Analysis for you Too) and&amp;nbsp;Voyeur Tools&amp;nbsp;&amp;nbsp;both of which allow humanists to bring computational linguistic analysis and visualization, among other things, into their habitual research environments, and to thereby render those environments dynamic, with living, breathing data.Full Text:&amp;nbsp;HTML(pdf for download -- right click or control click to save)</dc:description>
+	<dc:publisher xml:lang="en">Texas A&amp;M University</dc:publisher>
+	<dc:date>2010-12-11</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">linguistic computational analysis; data visualization</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://paj-ojs-tamu.tdl.org/paj/article/view/13</dc:identifier>
+	<dc:source xml:lang="en">paj:The Journal of the Initiative for Digital Humanities, Media, and Culture; Vol. 2 No. 1 (2010): Visualizing the Archive</dc:source>
+	<dc:source>1935-7362</dc:source>
+	<dc:source>1935-7362</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://paj-ojs-tamu.tdl.org/paj/article/view/13/57</dc:relation>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

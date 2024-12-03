@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3564</identifier>
+				<datestamp>2020-02-06T08:39:40Z</datestamp>
+				<setSpec>aabp:VetTech</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DVM Dx: bridging the diagnostic gap</dc:title>
+	<dc:creator xml:lang="en">Agnew, Dalen</dc:creator>
+	<dc:creator xml:lang="en">Grooms, Dan</dc:creator>
+	<dc:creator xml:lang="en">Stretton, Chris</dc:creator>
+	<dc:creator xml:lang="en">Bolton, Mike</dc:creator>
+	<dc:creator xml:lang="en">Nordstrom, Scott</dc:creator>
+	<dc:creator xml:lang="en">Hartshorn, Tyson</dc:creator>
+	<dc:creator xml:lang="en">Gaudet, Ashley</dc:creator>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">digital imaging</dc:subject>
+	<dc:subject xml:lang="en">DVMDx</dc:subject>
+	<dc:description xml:lang="en">"True knowledge lies at the dead pile." First heard from Dr. Eugene Janzen, but likely quoted many times by cattle veterinarians! The digital revolution provides new tools with the potential to change how necropsies are conducted; however, these tools' validity must be tested. As a project of Merck Animal Health, a mobile and web-based application was designed to systematically collect digital necropsy images, making them available to diagnosticians. DVMDx is based on proprietary digital and web-based diagnostic systems used for 20 years by Feedlot Health Management Services Ltd. To validate this system, trained veterinary students followed a prescribed digital necropsy protocol on 192 cattle from feedlots and calf ranches with clinical respiratory disease. In parallel, tissues samples were submitted to a diagnostic laboratory for histopathological and microbiological evaluation. Veterinarians experienced in interpreting digital images provided a single "most likely” syndromic diagnosis which was compared to laboratory and microscopic findings. An antemortem diagnosis of respiratory disease was confirmed by gross image analysis in 90%, and by laboratory testing in 94%, of the cases. Digital and laboratory diagnoses agreed in 79% of the cases when the primary diagnoses were compared, and 88% when all diagnoses were compared. When the syndromic diagnosis predicted the etiology based on digital images, Histophilus somni and Mycoplasma bovis were confirmed in 25% and 100% of the cases, respectively. These data support the further refinement of this tool, which has the potential to significantly increase the number of animals receiving cost-effective and diagnostic postmortem inspections.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2015-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3564</dc:identifier>
+	<dc:identifier>10.21423/aabppro20153564</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2015; 182-187</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3564/3510</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2015 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

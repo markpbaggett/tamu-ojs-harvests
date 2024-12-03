@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3906</identifier>
+				<datestamp>2020-02-06T08:46:48Z</datestamp>
+				<setSpec>aabp:RS1</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Comparison of 5-day versus 7-day CIDR CO-Synch protocol in crossbred commercial beef cows</dc:title>
+	<dc:creator xml:lang="en">Holland, S. C.</dc:creator>
+	<dc:creator xml:lang="en">Whittier, D. W.</dc:creator>
+	<dc:creator xml:lang="en">Clark, S. G.</dc:creator>
+	<dc:creator xml:lang="en">Currin, J. F.</dc:creator>
+	<dc:creator xml:lang="en">Schramm, H. H.</dc:creator>
+	<dc:creator xml:lang="en">Kasimanickam, R. K.</dc:creator>
+	<dc:subject xml:lang="en">artificial insemination</dc:subject>
+	<dc:subject xml:lang="en">AI</dc:subject>
+	<dc:subject xml:lang="en">timed artificial insemination</dc:subject>
+	<dc:subject xml:lang="en">Estrus synchronization</dc:subject>
+	<dc:subject xml:lang="en">CO-Synch</dc:subject>
+	<dc:subject xml:lang="en">reproduction</dc:subject>
+	<dc:subject xml:lang="en">protocols</dc:subject>
+	<dc:description xml:lang="en">Artificial insemination (Al) is used by only approximately 10% of beef producers in the United States. Estrus synchronization and timed AI (TAI) minimize time and labor relative to heat detection; however, these factors are still a big constraint for producers. In literature, conception rates following TAI using various synchronization protocols range from approximately 30 to 65%. One commonly used protocol is CO-Synch, which consists of a shot of GnRH on day 0, a shot of PGF2a on day 7, and another shot of GnRH at breeding (72 hours after PGF2a). Several variations of CO-Synch that minimize labor but maximize conception rate have been identified, and comparisons are ongoing. Although the 7-day CIDR CO-Synch has been used with relative success, recent studies have suggested that a similar 5-day protocol may result in improved conception rates. Although the 5-day protocol may yield higher conception rates, especially in heifers, it also may require a second dose of PGF2a given six hours after CIDR removal, which will significantly increase time and labor required. Several recent studies have compared the 5-day to the 7-day CIDR CO-Synch, but cow numbers were too low to detect small differences. Further comparison of these two protocols is necessary to determine the benefit versus the cost of the 5-day CIDR CO-Synch.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2012-09-20</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3906</dc:identifier>
+	<dc:identifier>10.21423/aabppro20123906</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2012; 191</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3906/3837</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2012 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8488</identifier>
+				<datestamp>2022-10-20T00:03:59Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Association of feedlot disease treatments on the probability of heart disease syndrome in U.S. feedlot cattle</dc:title>
+	<dc:creator xml:lang="en">Johnson, Blaine T.</dc:creator>
+	<dc:creator xml:lang="en">Amrine, David A.</dc:creator>
+	<dc:creator xml:lang="en">Larson, Robert L.</dc:creator>
+	<dc:creator xml:lang="en">White, Brad J.</dc:creator>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">complex disease</dc:subject>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">heart disease</dc:subject>
+	<dc:description xml:lang="en">Data from 14 U.S. feedlots from January 1, 2017, through De­cember 31, 2020, were evaluated for disease treatment on the probability of being terminally diagnosed with heart disease (HD). The study objective was two-fold: 1) determine the as­sociation between the number of bovine respiratory disease (BRD) treatments (0,1,2,3+) and HD, and 2) determine the as­sociation of common feedlot disease treatment (AIP, BRD, Complex Disease, GI+Bloat, Other), and cohort demographics with HD. Data were analyzed using generalized mixed-effects models to evaluate the probability of terminal HD. Covariates of interest include: BRD treatments, feedlot disease category, average cohort arrival weight, arrival year, arrival quarter, feedlot elevation and sex. The number of BRD treatments was associated with HD (P &amp;lt; 0.01). Cattle requiring additional BRD treatments increased their probability of not finishing the feeding period due to HD. The magnitude of this association was influenced by average cohort arrival weight, feedlot eleva­tion, sex and arrival quarter (P &amp;lt; 0.01). Feedlot disease catego­ries were associated with the probability of not finishing the feeding phase due to a HD diagnosis (P &amp;lt; 0.01). The magnitude of this association was influenced by average cohort arrival weight, and feedlot elevation (P &amp;lt; 0.01). Sex was influenced by feedlot elevation on the probability of not finishing due to HD diagnosis (P &amp;lt; 0.01) with higher elevations having a greater probability of HD. The majority of HD cattle were railed prior to death at the feedlot (9 of the 15 per 10,000 cattle received).</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2022-10-19</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8488</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol56no1p1-13</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 56 No. 1 (2022); 1-12</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/8488/8289</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2022 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

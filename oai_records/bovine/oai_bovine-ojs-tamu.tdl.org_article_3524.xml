@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/3524</identifier>
+				<datestamp>2020-02-06T08:40:22Z</datestamp>
+				<setSpec>aabp:BS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Eating behavior in the feedlot: a tool to assist in detection of bovine respiratory disease</dc:title>
+	<dc:creator xml:lang="en">MacGregor, D. Scott</dc:creator>
+	<dc:creator xml:lang="en">Sjeklocha, David</dc:creator>
+	<dc:creator xml:lang="en">Holland, Rob</dc:creator>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">BRD</dc:subject>
+	<dc:subject xml:lang="en">detection</dc:subject>
+	<dc:description xml:lang="en">Historically, bovine respiratory disease (BRD) has caused major challenges in the North American feedlot industry. Commonly, BRD is the leading cause of morbidity and mortality in feedyards. Current BRD detection practices involve visual appraisal of clinical signs, such as depression, nasal discharge, altered locomotion, lack of fill, and cough. A novel high-frequency active integrated electronics system (AIES) was utilized to collect and record eating behavior of newly received, southeastern, auction-market derived calves. Two studies evaluated the health performance of calves managed by a traditional health system (cowboy assessment) versus a technology system. Results demonstrated the AIES decreased total percentage of respiratory pulls from 38.3 to 19.6 (P = 0.0001), while BRD mortalities were numerically lower for the technology treatment group, but not significantly different from the traditional system.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2015-09-17</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3524</dc:identifier>
+	<dc:identifier>10.21423/aabppro20153524</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2015; 59-61</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/3524/3472</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2015 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

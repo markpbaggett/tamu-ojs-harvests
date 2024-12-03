@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/1765</identifier>
+				<datestamp>2021-08-30T18:30:53Z</datestamp>
+				<setSpec>bovine:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Milk Yield and Disease: Towards Optimizing Dairy Herd Health and Management Decisions</dc:title>
+	<dc:creator xml:lang="en">Gröhn, Y. T.</dc:creator>
+	<dc:subject xml:lang="en">econometric models</dc:subject>
+	<dc:subject xml:lang="en">dairy herds</dc:subject>
+	<dc:subject xml:lang="en">lactation stage</dc:subject>
+	<dc:subject xml:lang="en">mastitis</dc:subject>
+	<dc:subject xml:lang="en">milk</dc:subject>
+	<dc:subject xml:lang="en">milk production</dc:subject>
+	<dc:subject xml:lang="en">milk yield</dc:subject>
+	<dc:subject xml:lang="en">models</dc:subject>
+	<dc:subject xml:lang="en">pregnancy</dc:subject>
+	<dc:subject xml:lang="en">productivity</dc:subject>
+	<dc:subject xml:lang="en">profitability</dc:subject>
+	<dc:subject xml:lang="en">reproduction</dc:subject>
+	<dc:subject xml:lang="en">reproductive performance</dc:subject>
+	<dc:subject xml:lang="en">bovine mastitis</dc:subject>
+	<dc:subject xml:lang="en">cattle diseases</dc:subject>
+	<dc:subject xml:lang="en">cows</dc:subject>
+	<dc:subject xml:lang="en">culling</dc:subject>
+	<dc:description xml:lang="en">The purpose of our research is to develop a comprehensive economic model to assist dairy producers when making treatment and culling decisions. To make profitable decisions, the producer must account for factors including age, production level, stage of lactation, pregnancy status, and disease history. Establishing the interrelationships among disease, milk yield, reproduction, and herd management is necessary for developing a decision model for disease treatment, insemination, and replacement. The objective of our research presented in this paper was to study the relationship between disease and milk production. First, we studied whether high milk yield predisposes a cow to certain diseases and reproductive disturbances. Second, we studied whether certain diseases cause milk loss and increased culling. Third, we are combining all information to develop a comprehensive economic model which will attempt to assess both the beneficial and deleterious effects of increasing milk yield. The data for this study incorporate health, production, and management components for Holsteins in the Northeastern USA and Ayrshires from Finland. The data were analyzed using the Cornell Theory Center Supercomputer. The effect of milk yield was modeled with logistic regression, and conception and culling with a survival analysis technique. The effect of disease on milk yield was analyzed with mixed model analysis. High milk yield predisposed a cow to certain diseases (particularly mastitis). Many diseases led to decreased production. Both milk yield and disease affected reproductive performance and culling. As expected, high milk yield protected against culling, and non-pregnant and sick cows were more likely to be culled. We now are positioned to develop a simple, accurate, and complete framework for a dairy farmer to determine whether a cow should be kept or replaced by a more profitable heifer using all of the biological variables that impact profit-ability in an objective manner.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2019-08-16</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1765</dc:identifier>
+	<dc:identifier>10.21423/bovine-vol34no1p32-40</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 34, No. 1 (2000 January); 32-40</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/1765/7825</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2000 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

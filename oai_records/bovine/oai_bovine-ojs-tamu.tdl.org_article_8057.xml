@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/8057</identifier>
+				<datestamp>2021-05-28T07:35:50Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Data driven decision making</dc:title>
+	<dc:creator xml:lang="en">Muller, Fred J.</dc:creator>
+	<dc:subject xml:lang="en">dairy</dc:subject>
+	<dc:subject xml:lang="en">production medicine</dc:subject>
+	<dc:subject xml:lang="en">data</dc:subject>
+	<dc:subject xml:lang="en">management</dc:subject>
+	<dc:subject xml:lang="en">decisions</dc:subject>
+	<dc:description xml:lang="en">When I began my veterinary career in the late 1990s there was a lot of talk about production medicine in food animal medicine. And while the profession has been evolving since it began, I think at that time there was a real struggle to establish just what production medicine was. As many veterinarians described what they did as herd advisors or consultants, it was common to declare our role was to assist with establishing herd health protocols, such as vaccination or treatment protocols, and then help analyze whether those protocols were effective or not. The only problem was our evidence of whether something was working on-farm was slim to non-existent. Or, our evidence was either statistically irrelevant or incorrectly interpreted.
+In the early 2000s several production medicine-oriented veterinarians began working towards improving the data we had available to evaluate herd performance and improving our ability to make good management recommendations. This started with improving our farm records systems and then developing additional analytical programs to improve the efficiency of analyzing farm records. The final step to using data to make decisions is to improve our knowledge of statistics and our ability to accurately interpreting farm data.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2020-09-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8057</dc:identifier>
+	<dc:identifier>10.21423/aabppro20208057</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; 2020; 214-216</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/8057/8005</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2020 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
