@@ -28,10 +28,8 @@ jobs:
           poetry-version: "1.8.2"
       - name: Install application
         run: poetry install
-      - name: Activate Shell
-        run: poetry shell
       - name: Harvest
-        run: ojs-harvester harvest -e "${{ matrix.endpoints.url }}" -o ${{ matrix.endpoints.set }}
+        run: poetry run ojs-harvester harvest -e "${{ matrix.endpoints.url }}" -o ${{ matrix.endpoints.set }}
       - name: Commit and push if it changed
         run: |-
           git config user.name "markpbaggett"
