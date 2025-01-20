@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9053</identifier>
+				<datestamp>2025-01-15T19:26:27Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Evaluation of cardiac troponin I as a predictor of clinical outcomes in cattle treated for bovine respiratory disease (BRD) in commercial feedyards</dc:title>
+	<dc:creator xml:lang="en">Mancke, Madeline R.</dc:creator>
+	<dc:creator xml:lang="en">Lubbers, Brian V.</dc:creator>
+	<dc:creator xml:lang="en">Bortoluzzi, Eduarda M.</dc:creator>
+	<dc:creator xml:lang="en">White, Brad J.</dc:creator>
+	<dc:subject xml:lang="en">feedlot</dc:subject>
+	<dc:subject xml:lang="en">cattle</dc:subject>
+	<dc:subject xml:lang="en">cardiac troponin</dc:subject>
+	<dc:subject xml:lang="en">bovine respiratory disease</dc:subject>
+	<dc:subject xml:lang="en">prognostic</dc:subject>
+	<dc:description xml:lang="en">Bovine respiratory disease (BRD) is a major cause of morbid­ity and mortality in feedlot cattle and prognostic tools would be valuable for managing individual cases. Cardiac tro­ponin I (cTnI) is a protein released into the circulatory sys­tem after myocardial damage that may serve as a prognostic biomarker. The study objective was to determine potential associations between cTnI serum concentration of cattle at initial BRD treatment with the risk of retreatment or mortal­ity within 60 days.
+In this observational study, serum was collected from cattle in 2 central high plains feedyards at initial BRD treatment. Indi­vidual animal treatment outcomes were determined (treatment success, retreated, died, or culled due to BRD) at 60 days post-enrollment. Troponin concentrations were determined using a commercially available Bovine Cardiac Troponin ELISA assay and categorized as LOW (&amp;lt; 0.156 ng/mL) or HIGH (≥ 0.156 ng/mL).
+Of 318 serum samples, troponin concentrations were LOW for 310 and HIGH for 8 samples. Cattle with HIGH cTnI concentrations had a significantly (P &amp;lt; 0.05) greater probabil­ity of not finishing the 60-day post enrollment period (0.56 +/- 0.22 SE) compared to cattle with LOW cTnI (0.11 +/- 0.03 SE).
+Cattle with high cardiac troponin concentrations at initial BRD treatment were more likely to have negative clinical out­comes. However, a low number of cases were identified as having high cTnI.
+High troponin concentrations may be valuable to improve management decisions; however, further research is neces­sary to optimize cut-off values predictive of clinical outcome and evaluate prognostic value in subpopulations of feedlot cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2025-01-15</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9053</dc:identifier>
+	<dc:identifier>10.21423/bpj20259053</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 59 No. 1 (2025): ONLINE FIRST; 24-28</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9053/8731</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+	
