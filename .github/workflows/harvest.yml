@@ -1,7 +1,7 @@
 name: Harvest OAI data from all OJS instances from the last 30 days
 on:
   schedule:
-    - cron: '30 19 * * 1'
+    - cron: '30 19 * * 6'
   workflow_dispatch:
 jobs:
   harvest-oai:
@@ -28,6 +28,7 @@ jobs:
           - { set: "bovine2", url: "https://bovine-ojs-tamu.tdl.org/bovine/oai" }
           - { set: "ijcs", url: "https://ijscs-ojs-tamu.tdl.org/ijscs/oai" }
           - { set: "jfse", url: "https://jfse-ojs-tamu.tdl.org/jfse/oai" }
+          - { set: "tndr", url: "https://tndr-ojs-tamu.tdl.org/tndr/oai"}
     name: Harvest OAI
     runs-on: ubuntu-latest
     steps:
