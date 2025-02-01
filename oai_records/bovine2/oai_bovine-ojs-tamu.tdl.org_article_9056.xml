@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9056</identifier>
+				<datestamp>2025-01-29T18:10:00Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Bayesian estimation of failed transfer of passive immunity IgG cut-off values for predicting pre-weaning morbidity in beef calves</dc:title>
+	<dc:creator xml:lang="en">Thompson, Alexis C.</dc:creator>
+	<dc:creator xml:lang="en">Scott, Matthew A.</dc:creator>
+	<dc:creator xml:lang="en">Dewell, Renée D.</dc:creator>
+	<dc:creator xml:lang="en">Dominguez, Brandon J.</dc:creator>
+	<dc:subject xml:lang="en">Bayesian latent class analysis</dc:subject>
+	<dc:subject xml:lang="en">morbidity sensitivity</dc:subject>
+	<dc:subject xml:lang="en">morbidity specificity</dc:subject>
+	<dc:subject xml:lang="en">pre-weaning disease</dc:subject>
+	<dc:subject xml:lang="en">failed transfer of passive immunity</dc:subject>
+	<dc:description xml:lang="en">Failed transfer of passive immunity (FTPI) has been used to predict pre-weaning disease in beef calves. However, FTPI has a wide range of reported sensitivities and specificities; therefore, the diagnostic value of testing for FTPI to predict a beef calf’s disease risk is questionable. Our objective was to determine the positive and negative predictive value of FTPI classification on pre-weaning morbidity in beef calves using a Bayesian latent class analysis. Pre-weaning health records and IgG concentrations from 1,569 beef calves across 3 populations were used. Calves were classified as having FTPI using 7 IgG cut-off values (500, 800, 1,000, 1,200, 1,600, 1,800 and 2,400 mg/ dL). A Bayesian latent class model assuming conditional in­dependence between the IgG concentrations and morbidity diagnosis was used to obtain estimates of the test sensitivity, specificity and positive and negative predictive value for the IgG cut-off values using informed priors; estimated herd cumu­lative incidence of morbidity ranged from 3.5% to 26.1%. Immu­noglobulin G had a median (95% credible interval) sensitivity ranging from 28% (22%, 36%) for 500 mg/dL to 47% (40%, 55%) for 2,400 mg/dL and a median (95% credible interval) specificity ranging from 98% (95%, 100%) for 500 mg/dL to 64% (62%, 67%) for 2,400 mg/dL. Testing for FTPI performed the best in herds with a high cumulative incidence of morbidity (&amp;gt; 15%). In herds with low cumulative incidence of morbidity, testing for FTPI did not aid in the detection of calves that would develop pre-weaning morbidity.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2025-01-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9056</dc:identifier>
+	<dc:identifier>10.21423/bpj20259056</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 59 No. 1 (2025): ONLINE FIRST; 29-39</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9056/8732</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
