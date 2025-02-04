@@ -1,6 +1,8 @@
 import click
 from ojsharvest import OAIHarvester
 import arrow
+import os
+from pathlib import Path
 
 @click.group()
 def cli() -> None:
@@ -60,4 +62,24 @@ def count(endpoint: str, begin: str) -> None:
         until_date=end
     )
     print(x)
+
+@cli.command("stats", help="Count records on disk and update README.")
+@click.option(
+    "--path",
+    "-p",
+    default="oai_records",
+    help="Where to read on disk"
+)
+def stats(path: str) -> None:
+    all_journals = {}
+    for new_path, directories, files in os.walk(path):
+        for directory in directories:
+            count = sum(1 for _ in Path(f"{path}/{directory}").rglob("*") if _.is_file())
+            all_journals[directory] = count
+    with open("README.md", "w") as readme:
+        readme.write("# tamu-ojs-harvest\n\nA Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regular basis with Actions.\n\n## Stats\n\n")
+        readme.write("| Journal | Total Articles |\n| -------- | ------- |\n")
+        sorted(all_journals.keys())
+        for k, v in all_journals.items():
+            readme.write(f"| {k} | {v} |\n")
 

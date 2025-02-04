@@ -46,6 +46,8 @@ jobs:
         run: poetry install
       - name: Harvest
         run: poetry run ojs-harvester harvest -e "${{ matrix.endpoints.url }}" -o ${{ matrix.endpoints.set }}
+      - name: Add stats
+        run: poetry run ojs-harvester stats
       - name: Commit and push if it changed
         run: |-
           git config user.name "markpbaggett"
