@@ -46,8 +46,6 @@ jobs:
         run: poetry install
       - name: Harvest
         run: poetry run ojs-harvester harvest -e "${{ matrix.endpoints.url }}" -o ${{ matrix.endpoints.set }}
-      - name: Add stats
-        run: poetry run ojs-harvester stats
       - name: Commit and push if it changed
         run: |-
           git config user.name "markpbaggett"
@@ -56,4 +54,35 @@ jobs:
           timestamp=$(date -u)
           git pull origin main
           git commit -m "Harvest metadata for ${{ matrix.endpoints.set }} at ${timestamp}" || exit 0
+          git push
+    
+
+
+  stats:
+    name: Generate Stats
+    runs-on: ubuntu-latest
+    needs: harvest-oai
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+      - name: Install Poetry
+        uses: abatilo/actions-poetry@v2
+        with:
+          poetry-version: "1.8.2"
+      - name: Install application
+        run: poetry install
+      - name: Generate Stats
+        run: poetry run ojs-harvester stats
+      - name: Commit and push stats if changed
+        run: |-
+          git config user.name "markpbaggett"
+          git config user.email "markpbaggett@gmail.com"
+          git add -A
+          timestamp=$(date -u)
+          git pull origin main
+          git commit -m "Updated stats at ${timestamp}" || exit 0
           git push
