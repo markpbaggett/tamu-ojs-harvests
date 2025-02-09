@@ -8,7 +8,6 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | -------- | ------- |
 | dlrpj | 23 |
 | tndr | 4 |
-| ijcs | 0 |
 | jfe | 14 |
 | instars | 185 |
 | hpr | 293 |
