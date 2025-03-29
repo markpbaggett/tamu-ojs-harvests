@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9087</identifier>
+				<datestamp>2025-03-26T17:15:44Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Machine learning/AI/data analysis – what is necessary to make a DVM spend time with data analysis today?</dc:title>
+	<dc:creator xml:lang="en">Dopfer, Dorte</dc:creator>
+	<dc:description xml:lang="en">Food animal practices are increasingly involved in receiving and processing data, for example from herd management pro­grams, to derive evidence-based decisions for their consultancy work. Precision medicine and artificial intelligence (AI) -en­hanced tools for the generation of data, data editing, and the analysis of data are here to stay. While DVMs are food animal disease, prevention and production experts, they are often not trained to analyze such complex data streams, and one of the reasons may be because they “did not sign up for this”. With the focus on AI-enhanced and multiple machine learning (ML) tools available to food animal practice, deriving decisions and analysis from data streams is more than “hiring some computer scientist” to do it. A DVM consultant’s time should be increas­ingly saleable for the value that veterinary expertise brings to deriving information from data sets and for making predictions about life outcomes of food animals among which cattle.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2025-03-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9087</dc:identifier>
+	<dc:identifier>10.21423/aabppro20249087</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; Vol. 58 No. 58 (2024): 2024 AABP Annual Conference Proceedings; 60-63</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9087/8754</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
