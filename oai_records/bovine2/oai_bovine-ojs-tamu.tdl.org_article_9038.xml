@@ -1,36 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-			<header>
+			<header status="deleted">
 				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9038</identifier>
-				<datestamp>2024-10-23T22:27:35Z</datestamp>
+				<datestamp>2025-03-26T18:18:37Z</datestamp>
 				<setSpec>bovine:RA</setSpec>
 			</header>
-			<metadata>
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-	<dc:title xml:lang="en">Assessing bull breeding soundness exam parameters following vaccination with modified-live or killed vaccine</dc:title>
-	<dc:creator xml:lang="en">Koziol, Jennifer H.</dc:creator>
-	<dc:creator xml:lang="en">Armstrong, Chance L.</dc:creator>
-	<dc:creator xml:lang="en">Johnson, Blaine T.</dc:creator>
-	<dc:creator xml:lang="en">Bostick, Dylan</dc:creator>
-	<dc:creator xml:lang="en">Deckert, Dalton</dc:creator>
-	<dc:subject xml:lang="en">bull</dc:subject>
-	<dc:subject xml:lang="en">sperm morphology</dc:subject>
-	<dc:subject xml:lang="en">modified-live vaccine</dc:subject>
-	<dc:subject xml:lang="en">killed vaccine</dc:subject>
-	<dc:description xml:lang="en">Breeding bulls are often placed on a similar herd health plan and vaccinated for the same pathogens as the mature cow herd. The timing of the yearly vaccination is impacted by labor and time constraints with some bulls receiving vaccinations at the time of annual, complete breeding soundness exams or at the time of turnout prior to the breeding season. However, the potential impact of vaccination on spermatogenesis, if any, is unknown. Therefore, the study objective was to determine the impacts on normal sperm morphology through a complete spermatogenic cycle after vaccination of mature beef bulls against bovine herpesvirus 1 and bovine viral diarrhea virus using commercially available modified-live virus (MLV) or killed virus (KV) vaccine. Semen was collected from Bos taurus bulls (n = 11),which were randomly assigned prior to the first breeding soundness exam to vaccine treatment groups: 1) modified-live virus (MLVa); or 2) inactivated/killed virus (KVb). Breeding soundness exams were completed at days -7, 0, 5, 7, 17, 28, 61 following vaccination. No differences were found between vaccine treatment groups MLV and KV (P = 0.46) on the percentage of normal sperm over time (d = -7 through d = 61) as evaluated by two boarded theriogenologists. In conclusion, we found no detrimental effect of the administration of multivalent MLV or KV vaccines on percentage of normal sperm morphology of mature bulls over a 61 – day period.</dc:description>
-	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
-	<dc:date>2024-10-07</dc:date>
-	<dc:type>info:eu-repo/semantics/article</dc:type>
-	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-	<dc:format>application/pdf</dc:format>
-	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9038</dc:identifier>
-	<dc:identifier>10.21423/bpj20259038</dc:identifier>
-	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 59 No. 1 (2025): ONLINE FIRST; 1-8</dc:source>
-	<dc:source>0524-1685</dc:source>
-	<dc:language>eng</dc:language>
-	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9038/8722</dc:relation>
-	<dc:rights xml:lang="en">Copyright (c) 2024 American Association of Bovine Practitioners</dc:rights>
-</oai_dc:dc>
-			</metadata>
 		</record>
 		
