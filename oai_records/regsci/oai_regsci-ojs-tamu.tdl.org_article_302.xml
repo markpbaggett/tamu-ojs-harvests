@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:regsci-ojs-tamu.tdl.org:article/302</identifier>
+				<datestamp>2025-03-27T16:25:51Z</datestamp>
+				<setSpec>regsci:PC</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Proposed Contents of a Real-World Data Quality and Relevance Package for Regulatory Submissions</dc:title>
+	<dc:creator xml:lang="en">Girman, Cynthia</dc:creator>
+	<dc:creator xml:lang="en">Mack, Christina </dc:creator>
+	<dc:creator xml:lang="en">Leahy, Rachel</dc:creator>
+	<dc:creator xml:lang="en">Teltsch, Dana</dc:creator>
+	<dc:creator xml:lang="en">Marks, Morgan </dc:creator>
+	<dc:creator xml:lang="en">Lieberman, Grazyna</dc:creator>
+	<dc:creator xml:lang="en">Aldridge, Molly</dc:creator>
+	<dc:creator xml:lang="en">Atzinger, Christopher</dc:creator>
+	<dc:subject xml:lang="en">Real world data</dc:subject>
+	<dc:subject xml:lang="en">data quality</dc:subject>
+	<dc:subject xml:lang="en">regulatory submissions</dc:subject>
+	<dc:subject xml:lang="en">data relevancy</dc:subject>
+	<dc:subject xml:lang="en">health technology assessment</dc:subject>
+	<dc:subject xml:lang="en">Submission tool</dc:subject>
+	<dc:subject xml:lang="en">Data relevancy</dc:subject>
+	<dc:subject xml:lang="en">Real world data</dc:subject>
+	<dc:subject xml:lang="en">Data quality</dc:subject>
+	<dc:description xml:lang="en">Real world data is increasingly used for regulatory decisions. Based on regulatory guidance documents on data quality and relevancy for real world data, TransCelerate released considerations for audit readiness in 2023. However, the content and level of detail for the actual documentation needed for real world evidence submissions to the Food &amp;amp; Drug Administration are unclear. A group of leaders from the International Society for Pharmacoepidemiology, the Professional Society for Health Economics and Outcomes and Research, and TransCelerate leaders convened to develop a tangible view of a data package justifying real world data relevance and data quality for implementing a real world evidence protocol. Depending on specific data needed for the research question and regulatory decision, each real world data source - evaluated for feasibility - must be described, including the type of data, its accuracy and completeness, adequacy in capturing study variables, details of the data processing and extraction, transformation and loading documentation, as well as audit trails and ideally, traceability to the source. A dynamic framework was developed to highlight pertinent details needed for regulators to fully review a real world evidence submission from a data quality and relevancy viewpoint. These details should help researchers understand the documentation needed to justify the evaluation and selection of real world data sources to address a specific research question and regulatory decision. In addition, data providers can use it to clarify what their customers need for regulatory submissions including real world data, and to remind regulators what documentation they may wish to request.</dc:description>
+	<dc:publisher xml:lang="en">Office of the Texas State Chemist</dc:publisher>
+	<dc:date>2025-03-27</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://regsci-ojs-tamu.tdl.org/regsci/article/view/302</dc:identifier>
+	<dc:identifier>10.21423/JRS.REGSCI.131302</dc:identifier>
+	<dc:source xml:lang="en">Journal of Regulatory Science; Vol. 13 No. 1 (2025)</dc:source>
+	<dc:source>2377-3537</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/302/335</dc:relation>
+	<dc:relation>https://regsci-ojs-tamu.tdl.org/regsci/article/view/302/336</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Cynthia J. Girman, Christina Mack, Rachel Leahy, Dana Teltsch, Morgan Marks, Grazyna Lieberman, Molly L. Aldridge, Christopher Atzinger</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-nc/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+	
