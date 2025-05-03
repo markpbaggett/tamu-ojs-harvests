@@ -18,7 +18,7 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | icce | 6589 |
 | paj | 24 |
 | aavpt | 246 |
-| jaawge | 57 |
+| jaawge | 65 |
 | instars | 185 |
 | jfe | 14 |
 | ciney | 88 |
