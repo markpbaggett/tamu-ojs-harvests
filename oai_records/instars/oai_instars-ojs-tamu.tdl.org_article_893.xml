@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:instars-ojs-tamu.tdl.org:article/893</identifier>
+				<datestamp>2025-05-07T20:50:27Z</datestamp>
+				<setSpec>instars:SpT</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Assessing the Efficacy of Sapling AI Content Detector as an Effective Tool for Detecting AI-generated Text from ChatGPT</dc:title>
+	<dc:creator xml:lang="en">Farmer, Madison</dc:creator>
+	<dc:creator xml:lang="en">Brundage, Adrienne</dc:creator>
+	<dc:creator xml:lang="en">Findley, Allison</dc:creator>
+	<dc:creator xml:lang="en">Garcia, Kaylee</dc:creator>
+	<dc:creator xml:lang="en">Strain, Macy</dc:creator>
+	<dc:creator xml:lang="en">Pawson, Adam </dc:creator>
+	<dc:description xml:lang="en"> Artificial Intelligence has grown into a primary concern of many academic institutions as they continuously try to catch up to the increasingly innovative way that students try to cheat. Large Language Models such as ChatGPT exponentially threaten academic integrity as popularity rises. Because this technology is so new, many educators are concerned that students may misuse this new tool to plagiarize assignments.  However, some educators have felt they have found a solution: AI detection tools. While AI detection tools have surged in popularity, many studies have illustrated the unreliability of these tools. Many higher education institutions have even banned using  AI detection tools as a plagiarism counter due to high levels of false positive results. This experiment aims to confirm the actual state of AI detection tools and contribute to quelling the growing concern around them. For this study, we applied AI-generated text samples, human-generated text samples, and hybrid samples containing both mediums on a trial basis. These samples were applied to the Sapling AI Detector and analyzed based on their AI text detection percentile score. We determined that, while Sapling could identify the AI-generated samples with 100% accuracy, it struggled to accurately identify human-generated text, with only 10% of the samples not demonstrating a false positive. Furthermore, there was no significant difference between the human-generated samples’ AI detection and their hybridized counterparts when analyzing the hybrid samples.</dc:description>
+	<dc:publisher xml:lang="en">Texas A&amp;M University</dc:publisher>
+	<dc:date>2025-05-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://instars-ojs-tamu.tdl.org/instars/article/view/893</dc:identifier>
+	<dc:source xml:lang="en">Instars: A Journal of Student Research; Vol. 9 No. 1 (2025): Instars: A Journal of Student Research </dc:source>
+	<dc:source>2374-7595</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://instars-ojs-tamu.tdl.org/instars/article/view/893/271</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Madison Farmer, Dr. Adrienne Brundage, Allison Taylor, Kaylee Garcia, Macy Strain, Adam Pawson</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
