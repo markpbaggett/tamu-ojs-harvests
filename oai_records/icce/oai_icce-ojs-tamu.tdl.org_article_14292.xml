@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14292</identifier>
+				<datestamp>2025-05-29T06:11:28Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL FLOOD PROTECTION: THE PHYSICS BEHIND OPTIMAL BERM STRUCTURES</dc:title>
+	<dc:creator xml:lang="en">Jr., Michael Angelis</dc:creator>
+	<dc:creator xml:lang="en">Gallien, Timu</dc:creator>
+	<dc:description xml:lang="en">Human constructed dunes (i.e., ‘berms’) play a critical role in protecting urbanized coastal communities. US coastal flood losses in 2020 were approximately $31.2 billion and are expected to increase to $40.6 billion by 2050 because of climate change (Wing et al., 2022). Beach-berm systems serve as a natural, dynamic defense system against energetic waves and high-water levels. Berm characteristics are typically a function of the sand’s angle of repose and available heavy equipment. Placements may also have access or aesthetic aspects and, in some cases, may be limited by elevation constraints. Although wave overtopping has been studied extensively, coastal models either ignore or overly simplify groundwater and swash processes, resulting in significant underestimation of flood event magnitudes (Rotzoll and Fletcher, 2013). Targeted berm designs, intended to alter the flow field and reduce wave runup, present an attractive, innovative sea level rise adaptation strategy.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14292</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14292/13564</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Michael Angelis Jr., Timu Gallien</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

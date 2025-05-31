@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14091</identifier>
+				<datestamp>2025-05-29T06:12:49Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG-TERM OBSERVATIONS OF INTERACTIONS AMONG WAVES, SAND, AND GRAVEL USING A LIDAR-CAMERA FUSION SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Matsuba, Yoshinao</dc:creator>
+	<dc:creator xml:lang="en">Tajima, Yoshimitsu</dc:creator>
+	<dc:creator xml:lang="en">Shimozono, Takenori</dc:creator>
+	<dc:description xml:lang="en">A target site of this study, Namiita Coast in Japan, originally had beautiful sandy beach. However, the sandy beach disappeared by a tsunami and land subsidence by Great East Japan earthquake in 2011. Nourishment using gravel and sand was conducted to promote the beach recovery, and the sandy beach has recovered to some extent as planned. However, a new problem has arisen due to the nourished gravel. The gravel was originally covered by fine sand, but today gravels under the fine sand repeatedly appear on top of sand surface, which makes tourists reluctant to enjoy bathing on the beach and deteriorates the landscape. To monitor such beach process, a new fusion system of a 3D lidar and a camera has been developed, which enables us to grasp changes in beach elevation and its surface composition with high spatiotemporal resolution. We conducted a two-month observation employing the system during summer in 2023, and the morph-hydrodynamics on the coast was analyzed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14091</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14091/13363</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Yoshinao Matsuba, Yoshimitsu Tajima, Takenori Shimozono</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

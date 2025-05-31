@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14284</identifier>
+				<datestamp>2025-05-29T06:11:27Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CREATING LARGE-SCALE COMPOUND FLOOD MODELS IN AN AUTOMATED AND REPRODUCIBLE WAY</dc:title>
+	<dc:creator xml:lang="en">Goede, Roel de</dc:creator>
+	<dc:creator xml:lang="en">Eilander, Dirk</dc:creator>
+	<dc:creator xml:lang="en">Leijnse, Tim</dc:creator>
+	<dc:creator xml:lang="en">Ormondt, Maarten van</dc:creator>
+	<dc:creator xml:lang="en">Wilde, Tim de</dc:creator>
+	<dc:description xml:lang="en">The United Nations “Early Warnings for All” initiative aims to protect everyone from water hazards, among other hazards, through life-saving early warning systems by the end of 2027. Flood warning systems on large spatial scales need to be developed that can run within an operational forecast window. The reduced-physics solver SFINCS (Leijnse et al. 2021) was developed, combining all relevant processes to model compound flooding events, with strongly reduced computation times. However, large area models require large input data sets. While global and regional data are becoming more widely available and are continuously updated, setting up models becomes too cumbersome to do manually. Semi- automated and reproducible workflows may help the modeler to select physically realistic model extents and use appropriate data with acceptable quality with an appropriate resolution in order to ensure a good model performance.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14284</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.97</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.97</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14284/13556</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Roel de Goede, Dirk Eilander, Tim Leijnse, Maarten van Ormondt, Tim de Wilde</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

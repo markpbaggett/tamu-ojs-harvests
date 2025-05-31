@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14184</identifier>
+				<datestamp>2025-05-29T06:31:48Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF FLUID-STRUCTURE INTERACTION INVOLVING TSUNAMI BORE AND DEBRIS IMPACT</dc:title>
+	<dc:creator xml:lang="en">Ishiki, Kenshiro</dc:creator>
+	<dc:creator xml:lang="en">Cunningham, Lee S.</dc:creator>
+	<dc:creator xml:lang="en">Rogers, Benedict D.</dc:creator>
+	<dc:description xml:lang="en">One of the key aspects with no general consensus is the role and significance of floating debris in tsunamis. There are multiple uncertainties including whether to combine debris impact force with any other tsunami-related loads while not including loads from damming and multiple debris impacts, which might compromise the structural reliability designed in conformity with these codes. Towards improved quantification of tsunami loads, the present work employs a numerical coupling strategy using smoothed particle hydrodynamics (SPH) and the finite element method (FEM) as shown in Figure 1. The present study highlights the capabilities of SPH to reproduce complex interaction between a tsunami-like bore carrying debris and a structure through validation studies, aiming to demonstrate the effectiveness of the one-way coupling technique combined with FEM. A versatile open-source code, DualSPHysics v5.2, is used solving the Navier-Stokes equations based on a weakly- compressible SPH formulation (Domínguez et al. 2022).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14184</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14184/13456</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Kenshiro Ishiki, Lee S. Cunningham, Benedict D. Rogers</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

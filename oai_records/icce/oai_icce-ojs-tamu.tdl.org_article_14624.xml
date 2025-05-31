@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14624</identifier>
+				<datestamp>2025-05-29T07:37:24Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARISON OF SURF ZONE TURBULENCE AND FLOW STRUCTURES IN SPILLING AND PLUNGING WAVES</dc:title>
+	<dc:creator xml:lang="en">Govender, Kessie</dc:creator>
+	<dc:creator xml:lang="en">Mocke, Gary</dc:creator>
+	<dc:description xml:lang="en">Wave breaker generated turbulence and flow fields are a major contributor to sediment suspension and transport, hence a quantitative understanding is critical for predicting coastal erosion. Laboratory and field studies have been carried out in both spilling and plunging waves case to measure these fields, primarily using LDA to measure wave breaker turbulence in non-aerated areas of wave flumes. Although more recent measurement campaigns have included imaging techniques most of the recordings have been confined to below the wave trough due to the presence of wave bubbles higher in the water column. This situation is aggravated in plunging waves, with high levels of aeration through the full water column, especially near the break point. Over the past two decades the authors (Govender et al. (2002a,2002b,2023)) have developed a combination of particle and bubble imaging techniques that allows us to measure fluid velocities through the entire water column, including the wave roller in both spilling and plunging waves. In this paper we undertake a comparison of the flow structures and turbulence between spilling and plunging waves in the surf zone. We present comparative plots of the experimental measurements of mean and turbulent velocities, turbulence kinetic energy, and turbulence shear stress. The paper also discusses the evolution of turbulent intensities at various surf zone locations and levels through the water column over the wave period, which is an important consideration for mathematical modeling of sediment dynamics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14624</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14624/13896</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Kessie Govender, Gary Mocke</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

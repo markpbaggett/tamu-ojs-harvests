@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14762</identifier>
+				<datestamp>2025-05-29T10:01:21Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUANTIFYING THE BENEFITS AND COSTS OF WETLAND RESTORATION PROJECTS FOR STORM SURGE DAMAGE REDUCTION</dc:title>
+	<dc:creator xml:lang="en">Narayan, Siddharth</dc:creator>
+	<dc:creator xml:lang="en">Al-Attabi, Zaid</dc:creator>
+	<dc:creator xml:lang="en">Xu, Yicheng</dc:creator>
+	<dc:creator xml:lang="en">Tso, Georgette</dc:creator>
+	<dc:creator xml:lang="en">Wuppukondur, Ananth</dc:creator>
+	<dc:creator xml:lang="en">Simpson, Stefanie</dc:creator>
+	<dc:description xml:lang="en">Coastal wetlands protect communities during hurricanes by reducing storm surge flooding and damages. Previous studies have quantified surge reduction benefits of wetlands (Narayan et al., 2017), but there remain very few analyses of the benefits and costs of specific on-the- ground wetland restoration projects for storm surge risk reduction. In this analysis we combine coupled wave-flow models with spatial economic damage models to quantify the annual benefits, across multiple storm events, of three salt marsh wetland restoration projects in reducing storm surge risks in Galveston Bay, measure the benefit to cost ratio and return on investment of these restoration projects as nature-based risk reduction measures. These analyses are based on a newly developed methodology that is being developed for the estimation of coastal resilience credits for wetland restoration projects, analogous to established carbon credit methodologies. We use a coupled flow-wave model, DELFT3D-SWAN to assess the peak total water levels and flood heights across the Galveston Bay, TX region for four storm events of different return periods, for three ongoing and planned wetland restoration projects in the region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14762</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.249</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.249</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14762/14034</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Siddharth Narayan, Zaid Al-Attabi, Yicheng Xu, Georgette Tso, Ananth Wuppukondur, Stefanie Simpson</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

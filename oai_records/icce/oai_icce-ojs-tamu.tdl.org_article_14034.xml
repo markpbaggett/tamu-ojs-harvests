@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14034</identifier>
+				<datestamp>2025-05-29T06:12:40Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE ATTENUATION IN A PARTIALLY VEGETATED WAVE FLUME</dc:title>
+	<dc:creator xml:lang="en">Wang, Yufei</dc:creator>
+	<dc:creator xml:lang="en">Lei, Jiarui</dc:creator>
+	<dc:description xml:lang="en">The study of wave attenuation in coastal vegetation aims to understand the role of coastal vegetation in attenuating wave energy and the impact of incoming waves, with implications for shoreline protection, ecosystem health, and coastal management. In recent years, extensive research has been conducted on wave attenuation of various types of coastal vegetation, such as seagrass (Bradley and Houser, 2009) and mangroves (Horstman et al., 2014). For instance, Lei and Nepf (2019) used the effective length to integrate the flexibility of seagrass blades into wave damping theory. Much of this research has focused on environments with complete vegetation coverage. However, there is a growing body of research focusing on flow development over partially vegetated waters (Chen et al., 2010, Huai et al., 2019, Li et al., 2022). Employing analytical and experimental methodologies, these studies comprehensively explore flow characteristics, velocity profiles, and turbulent structures within partially vegetated open channels. By focusing on partial vegetation cover, the research seeks to identify optimal vegetated regions that can effectively mitigate coastal erosion and enhance shoreline stability without the need for extensive vegetative plants. Nonetheless, wave attenuation in partial vegetated flumes remains an unexplored domain. In the present study, we developed an analytical solution based on the energy balance principle as outlined by Dalrymple et al. (1984), taking into account wave diffraction. All experiments were conducted at the National University of Singapore.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14034</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14034/13306</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Yufei Wang, Jiarui Lei</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

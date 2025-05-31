@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14283</identifier>
+				<datestamp>2025-05-29T06:11:27Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PERFORMANCE EVALUATION OF SUBDOMAIN MODELING USING THREE CASE STUDIES</dc:title>
+	<dc:creator xml:lang="en">Bukhari, Fatima</dc:creator>
+	<dc:creator xml:lang="en">Massey, Chris</dc:creator>
+	<dc:creator xml:lang="en">Baugh, John</dc:creator>
+	<dc:description xml:lang="en">Hurricane storm surge events such as Katrina (2005), Ike (2008), Sandy (2012), Harvey (2017), and Ian (2022) have flooded communities along the US Gulf and Atlantic coastlines, pushing protective structures to their limits around coastal infrastructure. Devastating effects from these events underscore the critical need for high-fidelity simulations to assess the vulnerability of coastal infrastructure to storm surges. The United States Army Corps of Engineers (USACE) routinely engages in large- scale coastal flood hazard studies to evaluate the effectiveness of critical hardened coastal engineering structures (such as levees, floodwalls, and navigation gates) and natural and nature-based features (such as beach and dune systems, wetlands and mangrove stands) for their impact on the coastal resilience of their communities. This study aims to assess the performance of subdomain modeling (SM) within the context of three real- world case studies for Dyke Marsh, Coastal Texas, and New York/New Jersey as provided by USACE- Engineering Research and Development Center (USACE- ERDC). This abstract presents a representative sample of results from the Dyke Marsh case study, while complete findings from all three studies will be included in a comprehensive presentation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14283</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.96</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.96</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14283/13555</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Fatima Bukhari, Chris Massey, John Baugh</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

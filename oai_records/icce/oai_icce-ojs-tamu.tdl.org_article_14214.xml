@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14214</identifier>
+				<datestamp>2025-05-29T06:32:09Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REALISTIC NUMERICAL PLACEMENT OF ARMOR LAYERS OF MOUND BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Muñoz-Palao, Sergio</dc:creator>
+	<dc:creator xml:lang="en">Díaz-Carrasco, Pilar</dc:creator>
+	<dc:creator xml:lang="en">Molines, Jorge</dc:creator>
+	<dc:creator xml:lang="en">Gómez-Martín, M. Esther</dc:creator>
+	<dc:creator xml:lang="en">Medina, Josep R.</dc:creator>
+	<dc:description xml:lang="en">Placement grid design is a key element for the construction of the armor layers of mound breakwaters. An optimum placement grid design in small-scale tests have to be feasible at prototype-scale. Numerical models arise as a useful tool to analyze the suitability of placement grids for breakwaters. The Bullet Physics Engine (BPE), used in this study, is an open-source, robust and low time-consuming physics engine; it is based on rigid body physics and the Newton’s laws of motion. This study presents a numerical methodology with the physics engine BPE to simulate the placement procedure of armor units following placement grids. This numerical model is based on the Bullet Physics Engine (BPE), which considers the Newton’s laws of motion and rigid body physics. A numerical crawler crane is proposed to place armor units using realistic placement conditions: placement velocity and GPS error positioning. The methodology is applied to Cubipod Homogeneous Low- Crested Structures (HLCS) where a series of numerical placement tests are carried out for 3-layer Cubipod HLCS. Measured positioning errors are analyzed to assess the performance of the numerical simulations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14214</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14214/13486</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Sergio Muñoz-Palao, Pilar Díaz-Carrasco, Jorge Molines, M. Esther Gómez-Martín, Josep R. Medina</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

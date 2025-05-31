@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14758</identifier>
+				<datestamp>2025-05-29T10:01:32Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TRANSPORT OF ALIEN PARTICLES IN SAND BEDS MOBILISED BY WAVES</dc:title>
+	<dc:creator xml:lang="en">Neshamar, Otto</dc:creator>
+	<dc:creator xml:lang="en">A, Dominic van der</dc:creator>
+	<dc:creator xml:lang="en">O'Donoghue, Tom</dc:creator>
+	<dc:creator xml:lang="en">Derksen, Jos</dc:creator>
+	<dc:description xml:lang="en">Sand beds in the marine environment often contain discrete particles with properties that differ substantially from those of the native sand. These “alien” particles occur in a wide range of sizes, shapes and densities, with examples ranging from low-density plastic fragments to industrial particles with densities significantly higher than the native sand. Understanding and predicting the behaviour of these particles as the sand bed is mobilised by waves and currents is important for predicting their potential impact on the marine environment. The motion of an alien particle in a mobilised sand bed depends on complex flow-particle and inter-particle interactions, which are governed by the flow conditions and the properties of the native sand, as well as the size, density and shape of the particle, and its position within the bed. This paper aims to address this knowledge gap through a systematic set of laboratory experiments where alien particle motions in oscillatory sheet-flow are investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14758</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.106</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.106</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14758/14030</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Otto Neshamar, Dominic van der A, Tom O'Donoghue, Jos Derksen</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

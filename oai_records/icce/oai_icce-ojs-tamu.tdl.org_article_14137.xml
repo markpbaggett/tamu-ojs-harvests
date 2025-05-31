@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14137</identifier>
+				<datestamp>2025-05-29T06:12:55Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVING WAVE TRANSFORMATIONS ON ROUGH BOTTOM IN A 3D PHASE RESOLVED MODEL WITH LABORATORY AND FIELD CAMPAIGNS</dc:title>
+	<dc:creator xml:lang="en">Michaud, Héloïse</dc:creator>
+	<dc:creator xml:lang="en">Marsaleix, Patrick</dc:creator>
+	<dc:creator xml:lang="en">Ancilotti, Emile Guélard</dc:creator>
+	<dc:creator xml:lang="en">Damien Sous</dc:creator>
+	<dc:description xml:lang="en">Despite their global importance, the understanding of wave transformation processes and marine flooding has been much less studied on rocky beaches than on sandy beaches. Thus, the representation of bottom dissipation on this type of environment is generally based on site-specific parameterization in operational wave models, with mixed performance. The main aim of this study is to improve wave propagation and transformation on rough bottoms in the phase-resolved 3D non-hydrostatic model Symphonie (Marsaleix et al., 2019), using comparative confrontations with wave channel experiments and in situ data on the rocky beach of Ars-en-Ré, France. Different types of parameterization are implemented and evaluated against controlled laboratory experiments and in situ observations. The second main objective is to improve the existing representation of frictional dissipation, targeting the establishment of more generic parameterization based on the actual statistical properties of the seabed structure. To date, most parameterizations are entirely or semi-empirical, site-specific and almost never include appropriate measurements of roughness topography.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14137</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14137/13409</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Héloïse Michaud, Patrick Marsaleix, Emile Guélard Ancilotti, Damien Sous </dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

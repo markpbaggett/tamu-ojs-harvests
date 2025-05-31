@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14140</identifier>
+				<datestamp>2025-05-29T06:12:56Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVED HIGHER-ORDER BOUNDARY CONDITIONS FOR WAVE GENERATION IN THE NON-HYDROSTATIC MODEL SWASH</dc:title>
+	<dc:creator xml:lang="en">Vasarmidis, Panagiotis</dc:creator>
+	<dc:creator xml:lang="en">Klonaris, Georgios</dc:creator>
+	<dc:creator xml:lang="en">Zijlema, Marcel</dc:creator>
+	<dc:creator xml:lang="en">Stratigaki, Vasiliki</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:description xml:lang="en">The increase in computational power in recent years has made it feasible to apply the non-linear phase-resolving wave propagation model SWASH to investigate long sea states in large coastal regions and port environments. One of the key requirements for phase-resolving models is the ability to generate and maintain a homogeneous wave field throughout the entire area under examination. However, a well-known challenge associated with non- linear wave models is related to the generation and propagation of spurious free waves, leading to wave fields that lack homogeneity. Within the present study, we illustrate that by imposing the derived exact mathematical solutions of SWASH at the model's wave generation boundaries, the aforementioned numerical issue can be entirely resolved.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14140</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14140/13412</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Panagiotis Vasarmidis, Georgios Klonaris, Marcel Zijlema, Vasiliki Stratigaki, Peter Troch</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

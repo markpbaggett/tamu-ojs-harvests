@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14629</identifier>
+				<datestamp>2025-05-29T08:02:58Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SMART BOUNDARY CONDITIONS FOR NUMERICAL MODELLING OF HURRICANE INDUCED STORM SURGE</dc:title>
+	<dc:creator xml:lang="en">Cipollone, Ludovico</dc:creator>
+	<dc:creator xml:lang="en">Pasquali, Davide</dc:creator>
+	<dc:creator xml:lang="en">Celli, Daniele</dc:creator>
+	<dc:creator xml:lang="en">Nucci, Carmine Di</dc:creator>
+	<dc:creator xml:lang="en">Risio, Marcello Di</dc:creator>
+	<dc:description xml:lang="en">Cyclones represent a natural event characterized by a system of winds rotating inwards to an area of low barometric pressure, with an anticlockwise (northern hemisphere) or clockwise (southern hemisphere) circulation (Wang, 2012). Many operational warning systems rely on complex numerical hydrodynamic models to provide surge and flood forecasts (Pasquali et al., 2015). Numerical simulations are usually carried out by defining the pressure and wind field representing the given cyclone to force the numerical model. The large extension of the domains of interest and the complexity of the phenomenon make the numerical models characterized by high computational costs. A possible approach could be reducing the dimension of the numerical grid but in this case, the solution would be influenced by the boundary conditions. This research work aims to propose a novel analytical approach able to describe hurricane-induced storm surge (modeling both temporal and spatial variations) useful to define reliable boundary conditions to be used within hydrodynamic simulations with reduced domain dimensions, hence reducing the computational costs of detailed numerical simulations.                            </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14629</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.198</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.198</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14629/13901</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ludovico Cipollone, Davide Pasquali, Daniele Celli, Carmine Di Nucci, Marcello Di Risio</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

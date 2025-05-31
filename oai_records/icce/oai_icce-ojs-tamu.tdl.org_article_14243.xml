@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14243</identifier>
+				<datestamp>2025-05-29T06:11:20Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI EVACUATION SIMULATION CONSIDERING AREA-SPECIFIC REGULATORY EVACUATION</dc:title>
+	<dc:creator xml:lang="en">Kanemura, Tamaki</dc:creator>
+	<dc:creator xml:lang="en">Nakamura,  Ryota</dc:creator>
+	<dc:description xml:lang="en">The Great East Japan Earthquake of 2011 caused serious damage, causing over 19,000 people dead or missing. The majority of the dead and missing were caused by the tsunami inundation. From the Tohoku tsunami, a combina- tion of hard and soft measures has been implemented to defend against L2 tsunamis (1000 year return period tsu- nami). The most effective way to protect human life among the measures against L2 tsunamis is evacuation. Therefore, it is necessary to make an appropriate evacuation plan and to know how people move to evacuation areas. According to Takabatake et al. (2017), it is likely that reducing conges- tion would decrease the number of casualties. In addition, Makinoshima et al. (2022) have simulated tsunami evacua- tion with evacuation guidance and with different evacuation start times. However, there is few studies using an evacua- tion simulation considering a combination of evacuation start area and time-delayed evacuation. Therefore, in this study, tsunami evacuation simulations with time-delayed evacuation and region are conducted to quantitatively eval- uate the number of fatalities and evacuation completion rate.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14243</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14243/13515</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tamaki Kanemura,  Ryota Nakamura</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

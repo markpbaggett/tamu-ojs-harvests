@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14728</identifier>
+				<datestamp>2025-05-29T09:06:56Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LAMINAR-TO-TURBULENT TRANSITION IN OSCILLATORY WAVE BOUNDARY LAYERS</dc:title>
+	<dc:creator xml:lang="en">Baysal, Selman</dc:creator>
+	<dc:creator xml:lang="en">Kirca, V. S. Özgür</dc:creator>
+	<dc:creator xml:lang="en">Sumer, B. Mutlu</dc:creator>
+	<dc:description xml:lang="en">The orbital motion of water particles under a progressive wave in shallow waters becomes a straight line parallel to the bottom, i.e., oscillatory motion, at the seabed. A new time-dependent boundary layer develops over the seabed for each half-cycle of this motion. The turbulent oscillatory wave boundary layer is of great importance in many engineering applications, especially in coastal engineering. Even though both laminar and turbulent regimes have been considered in oscillatory boundary layers, of particular interest is the transitional regime. The laminar-to-turbulent transition first occurs in the form of tiny turbulent patches close to the wall, called turbulent spots, just before the near-bed flow reversal. These coherent structures are arrowhead-shaped isolated areas where the flow bursts with intense oscillations, in an otherwise laminar boundary-layer flow (Sumer and Fuhrman, 2020). Single or multiple spikes in the bed shear stress signal reaching up to 3 or 4 times the magnitude of the bed shear stress is a good indicator of a turbulent spot (Carstensen et al., 2010). Although much experimental and numerical research has been conducted (e.g., Carstensen et al., 2010; Jensen et al., 1989), there are still many unanswered questions regarding the transition. This study aims to address these questions using the DNS method, which has become very popular in turbulence-related problems (e.g., Mazzuoli et al., 2011; Xiong et al., 2020), by focusing on observing turbulent spots and locating their birthplace, concurrently with the bed shear stress under the spot structure. The present study is being conducted in close collaboration with Professor Liang Cheng and Drs. Chengwang Xiong and Chengjiao Ren of the University of Western Australia. The study is only in the early stages, and some early results will be presented at the meeting.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14728</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.100</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.100</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14728/14000</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Selman Baysal, V. S. Özgür Kirca, B. Mutlu Sumer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

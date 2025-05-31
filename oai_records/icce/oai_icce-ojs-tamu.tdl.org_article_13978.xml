@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13978</identifier>
+				<datestamp>2025-05-29T06:12:31Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RESPONSE OF TIDAL AND SEDIMENT DYNAMICS OF THE JIAOJIANG RIVER ESTUARY TO RECLAMATION, CHINA</dc:title>
+	<dc:creator xml:lang="en">Hou, Afei</dc:creator>
+	<dc:creator xml:lang="en">Tao, Jianfeng</dc:creator>
+	<dc:description xml:lang="en">Utilizing flood season data from 2005 and 2014 at the Jiaojiang River estuary, we developed a three-dimensional hydrodynamic and sediment transport model. This model, integrated with mechanism decomposition of sediment flux, was employed to examine alterations in tidal and sediment dynamics, and estuarine turbidity maximum (ETM) due to reclamation. Post-reclamation observations revealed a narrowed estuary mouth, an expanded tidal range, diminished asymmetry, and intensified flooding currents. Furthermore, the suspended sediment concentration (SSC) increased by approximately 5 kg/m3 upstream of Shixianfu (SXF) and by about 3 kg/m3 between SXF and Haimen. The ETM shifted more than 30 km upstream, causing siltation depths to reach approximately 2 m upstream of SXF and 0.8 m between SXF and Haimen. Mechanism decomposition of sediment flux indicated that enhanced tidal pumping effects near and above SXF significantly increased sediment transport towards upstream. This primarily accounted for the increased SSC, the upstream shift, and the extended duration of the ETM.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13978</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13978/13250</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Afei Hou, Jianfeng Tao</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

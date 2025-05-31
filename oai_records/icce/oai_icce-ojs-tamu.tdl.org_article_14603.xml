@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14603</identifier>
+				<datestamp>2025-05-29T07:50:17Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECT OF BIAS CORRECTION METHOD TO FUTURE PREDICTION OF TROPICAL CYCLONE PROPERTIES SIMULATED BY GLOBAL STOCHASTIC MODEL</dc:title>
+	<dc:creator xml:lang="en">Nakajo, Sota</dc:creator>
+	<dc:creator xml:lang="en">Shimada, Daiki</dc:creator>
+	<dc:description xml:lang="en">The changes in future tropical cyclones due to climate change are of significant concern in coastal disaster prevention and environmental issues. Predicting extreme phenomena like tropical cyclones using global climate models (GCMs) requires high resolution and long-term numerical analysis. However, even with the use of supercomputers, balancing these requirements can be challenging from a computational load perspective. In IPCC AR6, the utility of statistical modeling is also advocated. The methodology for predicting future tropical cyclones and storm surges based on the result of a stochastic tropical cyclone model using Monte-Carlo method has been proposed previously. (Nakajo et al., 2014, and Nakajo et al., 2022) In the previous studies, bias correction of tropical cyclone data of GCMs was performed under the assumption that tropical cyclone characteristics followed a normal distribution. However, frequency distributions often do not follow a normal distribution, and it is crucial to understand the impact of changes in bias correction methods on future predictions. In addition, previous research has only presented future predictions for a 4- degree temperature rise, but considering the uncertainty of future predictions, results for a 2-degree temperature rise are also necessary.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14603</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.189</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.189</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14603/13875</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Sota Nakajo, Daiki Shimada</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14500</identifier>
+				<datestamp>2025-05-29T10:33:34Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FORECASTING AND MONITORING MARINE LITTER IN COASTAL REGIONS COMBINING NUMERICAL MODELLING AND CITIZEN SCIENCE</dc:title>
+	<dc:creator xml:lang="en">Alsina, Jose M.</dc:creator>
+	<dc:creator xml:lang="en">Sanchez-Vidal, Anna</dc:creator>
+	<dc:creator xml:lang="en">Haan, William P. de</dc:creator>
+	<dc:creator xml:lang="en">Hernandez, Ivan</dc:creator>
+	<dc:creator xml:lang="en">Castro-Rocero, Leidy M.</dc:creator>
+	<dc:creator xml:lang="en">Gomez-Lopez, Angela S.</dc:creator>
+	<dc:creator xml:lang="en">Uviedo, Oriol</dc:creator>
+	<dc:creator xml:lang="en">Espino, Manuel</dc:creator>
+	<dc:description xml:lang="en">It is assumed that the main source of marine litter is terrestrial from rivers and waterways. Therefore, the dominant marine litter pathways from land sources to the ocean is via coastal regions. In coastal zones, debris can accumulate, return to the emerging beach, sink to the seafloor, or migrate to the open sea where it can converge in oceanic accumulation regions such as subtropical gyres. Near the shoreline, coastal transport processes are crucial in determining marine debris’ residence times and accumulation zones. However, the transport mechanisms of floating marine debris in coastal zones remain poorly understood, primarily due to the complex geometry and influence of coastal processes which pose difficulties in incorporating them into Lagrangian numerical models at coastal scales. Moreover, coastal regions are highly susceptible to the impacts of the presence of marine litter affecting ecological resources, social activities and economic assets. This work presents an integrated approach to marine litter pollution in coastal regions using developed coastal numerical models and scientific monitoring using a citizen science approach. The methodology is presented for the Barcelona coastline region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14500</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.170</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.170</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14500/13772</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Jose M. Alsina, Anna Sanchez-Vidal, William P. de Haan, Ivan Hernandez, Leidy M. Castro-Rocero, Angela S. Gomez-Lopez, Oriol Uviedo, Manuel Espino</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

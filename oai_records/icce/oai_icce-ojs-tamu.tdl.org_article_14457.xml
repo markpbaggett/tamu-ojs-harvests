@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14457</identifier>
+				<datestamp>2025-05-29T07:19:25Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNCORRECTED SATELLITE DERIVED SHORELINE ASSIMILATION IN EQUILIBRIUM SHORELINE MODEL</dc:title>
+	<dc:creator xml:lang="en">Azorakos, Georgios</dc:creator>
+	<dc:creator xml:lang="en">Castelle, Bruno</dc:creator>
+	<dc:creator xml:lang="en">Marieu, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Idier, Déborah</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen D.</dc:creator>
+	<dc:description xml:lang="en">Understanding and predicting sandy shoreline evolution over the next decades is key to effective conservation and management of coastal ecosystems. Although skillful and efficient on cross-shore transport dominated sites (Splinter et al. 2014), reduced complexity equilibrium shoreline models strongly rely on data for the calibration of the free parameters and are thus restricted to a few well monitored sites in the world. Publicly available satellite imagery has cradled a new approach in remote sensing providing long term high temporal resolution shoreline data with global coverage (Vos et al., 2019). Satellite derived shoreline (SDS) positions however come with uncertainties that challenge their usability especially in meso- macrotidal, high energetic coasts, where horizontal position errors can exceed 30 m (Castelle et al. 2021). Such uncertainties so far prevented their use for shoreline model calibration and further hindcast and predict shoreline change on the timescales from days to decades. In the present work we explore the challenges and opportunities stemming from the availability of optical satellite imagery and their use in equilibrium shoreline modelling. First, we assess the applicability of uncorrected SDS in model calibration at challenging coasts, assuming no a priori knowledge of the site. Successively, a data assimilation routine is used to investigate the links between the model’s free parameter evolution and environmental conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14457</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.151</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.151</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14457/13729</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Georgios Azorakos, Bruno Castelle, Vincent Marieu, Déborah Idier, Kristen D. Splinter</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

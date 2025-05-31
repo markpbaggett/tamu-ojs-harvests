@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14754</identifier>
+				<datestamp>2025-05-29T10:02:51Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DUNEFRONT PROJECT: DEMONSTRATION OF DUNE-DIKE HYBRID NATURE-BASED SOLUTIONS</dc:title>
+	<dc:creator xml:lang="en">Moulaert, Ine</dc:creator>
+	<dc:creator xml:lang="en">Lojek, Oliver</dc:creator>
+	<dc:creator xml:lang="en">Schröder, Boris</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:creator xml:lang="en">Verwaest, Toon</dc:creator>
+	<dc:creator xml:lang="en">Roo, Sieglien De</dc:creator>
+	<dc:creator xml:lang="en">Besien, Peter Van</dc:creator>
+	<dc:creator xml:lang="en">Daphné, Thoon</dc:creator>
+	<dc:creator xml:lang="en">Timmermans, Steve</dc:creator>
+	<dc:creator xml:lang="en">Reijers, Valerie</dc:creator>
+	<dc:creator xml:lang="en">Rauwoens, Pieter</dc:creator>
+	<dc:creator xml:lang="en">Ruz, Marie-Hélène</dc:creator>
+	<dc:creator xml:lang="en">Neves, Luciana das</dc:creator>
+	<dc:creator xml:lang="en">Santos, Paulo Rosa</dc:creator>
+	<dc:creator xml:lang="en">Nicolas, Robin</dc:creator>
+	<dc:creator xml:lang="en">Hallin, Caroline</dc:creator>
+	<dc:creator xml:lang="en">Hanson, Helena</dc:creator>
+	<dc:creator xml:lang="en">Olsson, Johanna Alkan</dc:creator>
+	<dc:creator xml:lang="en">Tissier, Marion</dc:creator>
+	<dc:creator xml:lang="en">Bonte, Dries</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:creator xml:lang="en">Gruwez, Vincent</dc:creator>
+	<dc:creator xml:lang="en">Dahirel, Maxime</dc:creator>
+	<dc:creator xml:lang="en">Tittelboom, Kim Van</dc:creator>
+	<dc:creator xml:lang="en">Belie, Nele De</dc:creator>
+	<dc:creator xml:lang="en">Hofland, Bas</dc:creator>
+	<dc:creator xml:lang="en">Reniers, Ad</dc:creator>
+	<dc:creator xml:lang="en">Stratigaki, Vicky</dc:creator>
+	<dc:creator xml:lang="en">Vries, Sierd de</dc:creator>
+	<dc:creator xml:lang="en">Fordeyn, Jan</dc:creator>
+	<dc:creator xml:lang="en">Huygens, Marc</dc:creator>
+	<dc:creator xml:lang="en">Sterckx, Tomas</dc:creator>
+	<dc:creator xml:lang="en">Castelle, Bruno</dc:creator>
+	<dc:creator xml:lang="en">Michalet, Richard</dc:creator>
+	<dc:creator xml:lang="en">Huisman, Bas</dc:creator>
+	<dc:description xml:lang="en">The European coasts are among the most densely populated of the world, with natural sand dune barriers urbanised and replaced by traditional hard coastal protection structures. Without the needed measures to adapt, the number of people exposed to floods is anticipated to increase 187 million worldwide by the end of the 21st century. In Europe, the coasts of The North Sea, the Baltic Sea, and the Atlantic are anticipated to experience substantial flood risks from sea-level rise, and climate extremes are also expected to impact southern Europe Mediterranean coasts (Vousdoukas et al., 2017). Future coastal management surpasses the current fixed and non-adaptive flood coastal protection setup: Hybrid Nature-based-Solutions (abbreviated as NbS) that can efficiently integrate static hard infrastructure with dynamic aeolian, and vegetated sediments are currently developed along urbanized areas of most of the European sandy coasts, yet still at small scales.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14754</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.244</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.244</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14754/14026</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Vicky Stratigaki, Dries Bonte, Peter Troch, Vincent Gruwez, Maxime Dahirel, Kim Van Tittelboom, Nele De Belie, Bas Hofland, Ad Reniers, Marion Tissier, Sierd de Vries, Jan Fordeyn, Marc Huygens, Tomas Sterckx, Bruno Castelle, Richard Michalet, Bas Huisman, Valerie Reijers, Oliver Lojek, Boris Schröder, Nils Goseberg, Toon Verwaest, Sieglien De Roo, Peter Van Besien, Thoon Daphné, Steve Timmermans, Ine Moulaert, Pieter Rauwoens, Marie-Hélène Ruz, Luciana das Neves, Paulo Rosa Santos, Robin Nicolas, Caroline Hallin, Helena Hanson, Johanna Alkan Olsson</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

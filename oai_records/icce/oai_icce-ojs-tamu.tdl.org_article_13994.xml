@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13994</identifier>
+				<datestamp>2025-05-29T06:12:34Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CROSS-SHORE MODELLING FEATURES: CALIBRATION WITH EXTENSIVE DATABASES</dc:title>
+	<dc:creator xml:lang="en">Romão, Frederico</dc:creator>
+	<dc:creator xml:lang="en">Coelho, Carlos</dc:creator>
+	<dc:creator xml:lang="en">Lima, Márcia</dc:creator>
+	<dc:creator xml:lang="en">Ferreira, Ana Margarida</dc:creator>
+	<dc:description xml:lang="en">Coastal areas face continuous changes due to natural and anthropogenic influence. These dynamic environments experience short- and long-term fluctuations due to erosion, accretion and alterations in sediment transport patterns. Understanding and predicting these changes is important for coastal management and for mitigation of the risks associated with flooding, shoreline retreat and land loss. In the present work, a medium-term cross-shore numerical model (CS-Model) was applied for four profiles in IJmuiden beach (north and south), The Netherlands, over 40 years, and the model performance was evaluated, considering extensive datasets. The long period of analysis was divided into 3 smaller periods, each of them subdivided in 5-, 10-, 15- and 20-years’ time intervals considered for model calibration, and 2 other selected periods, for model validation. By evaluating the Mean Absolute Error (MAE), the numerical model results show that the berm position (YB) is more sensitive to changes than the seaward dune toe position (YS), and this behavior is related to the contribution of alongshore sediment transport and its gradients in the study area. The model calibration presents good agreement between observed and modeled values of YB and YS. The validation time assumed in simulations shows a deviation trend of the calibration time, increasing the MAE. The use of the most recent years to calibrate the model leads to best model performance, reenforcing the importance of data acquisition and updated datasets. Also, when smaller and consistent periods of data are used to calibrate the model, better are the results, allowing to discuss the data extension used for model calibration. The correct calibration and good validation of numerical models using the observed conditions is important to obtain better modelling results, allowing proper coastal management.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13994</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13994/13266</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Frederico Romão, Carlos Coelho, Márcia Lima, Ana Margarida Ferreira</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

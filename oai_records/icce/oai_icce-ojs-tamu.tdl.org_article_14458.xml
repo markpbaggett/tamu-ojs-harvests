@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14458</identifier>
+				<datestamp>2025-05-29T07:18:32Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HIERARCHICAL BAYESIAN SPATIO-TEMPORAL MODELLING FOR CONCEPTUAL PROCESS UNDERSTANDING</dc:title>
+	<dc:creator xml:lang="en">Simmons, Joshua A.</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen D.</dc:creator>
+	<dc:creator xml:lang="en">Vervoort, R. Willem</dc:creator>
+	<dc:description xml:lang="en">Shorelines can be seen as representations of the constant interaction between hydrodynamic forces from the ocean and available sediment supply. The modelling of shoreline movement over short to medium timescales remains an active area of research owing to the difficulty of accounting for all the different factors influencing these dynamics. These include both cross-shore and alongshore processes acting at a range of timescales from individual waves to multi-decadal trends in waves and water levels. While many models to date have focused on either alongshore or cross-shore processes, the connectivity between adjacent locations requires a more inclusive approach. Along complex coastlines, coastal management requires flexible methodologies for pulling apart the signal considering a range of sources at any given location.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14458</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.152</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.152</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14458/13730</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Joshua A. Simmons, Kristen D. Splinter, R. Willem Vervoort</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

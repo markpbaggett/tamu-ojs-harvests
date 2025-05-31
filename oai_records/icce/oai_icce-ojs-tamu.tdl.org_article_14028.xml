@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14028</identifier>
+				<datestamp>2025-05-29T06:12:39Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING TIME-VARYING SURGE BARRIERS: THE IMPACT OF CLOSURE TIME AND DURATION ON FLOOD PROTECTION</dc:title>
+	<dc:creator xml:lang="en">Cialone, Mary</dc:creator>
+	<dc:creator xml:lang="en">Slusarczyk, Greg</dc:creator>
+	<dc:creator xml:lang="en">Hampson, Robert</dc:creator>
+	<dc:description xml:lang="en">The research presented in this paper focuses on numerical modeling and analysis of the effects of Storm Surge Barriers (SSBs) or gates, on water levels for a set of 10 hypothetical storm events representative of the range of storm conditions in the study region, as well as 3 specific historical storm events. In particular, analysis of the sensitivity of back-bay water levels to SSB operational decisions such as how far in advance of the storm to close a barrier to mitigate back-bay flooding induced by the storm surge and when to reopen the barrier to release water from the bay is investigated in an optimization process.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14028</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14028/13300</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Mary Cialone, Greg Slusarczyk, Robert Hampson</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

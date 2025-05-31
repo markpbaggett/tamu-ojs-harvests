@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13972</identifier>
+				<datestamp>2025-05-29T06:12:30Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL HAZARD ASSESSMENT AND CLIMATE ADAPTATION USING HYBRID SHORELINE EVOLUTION MODELS FOR REMOTE COMMUNITIES IN ALASKA</dc:title>
+	<dc:creator xml:lang="en">Gadgil, Ashwin</dc:creator>
+	<dc:creator xml:lang="en">Semiao, Kathryn De Rego</dc:creator>
+	<dc:creator xml:lang="en">Osborne, Phil</dc:creator>
+	<dc:creator xml:lang="en">Mahlujy, Keyvan</dc:creator>
+	<dc:description xml:lang="en">Remote communities at northern latitudes are most vulnerable to climate change driven impacts. Communities, specifically in Alaska, that are severely impacted by climate change have to make the decision to relocate or adapt in place. Hybrid numerical models that rely on a combination of hydrodynamics, morphodynamics, statistics, and are informed by Indigenous knowledge are developed to guide the decisions surrounding relocation vs adaptation. These tools are used to support two different communities in Alaska, one of which is planning to relocate and the other is preparing to adapt. Numerically modelled environmental forces are correlated with the observed rate of retreat of shoreline to support the relocation planning at Napakiak. A statistical correlation between the simulated environmental forces and the shoreline retreat is established. Indigenous knowledge is used to develop the theoretical basis of the forcing mechanism underlying the statistical correlation. This correlation is used with projected future environmental conditions to forecast likely shoreline positions in the years 2030, 2040, and 2050. The projected shoreline positions will be used by the community to update their managed relocation plan. Similarly, numerically simulated berm responses to incident storms are used to evaluate the feasibility of the different nature-based berm optimization concepts and hybrid design options for improving berm resilience at Shaktoolik. These numerical models are also used to study the sensitivity of berm responses to various forcing elements and underlying conditions, which provides insight regarding the lifecycle effectiveness of sediment-based and hybrid nature-based options in an open coast context. The application of these models in the respective communities has provided projections of shoreline change, evaluation of protection berm concepts, and recommendations for future steps towards the communities’ climate change adaptation strategies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13972</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13972/13244</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ashwin Gadgil, Kathryn De Rego Semiao, Phil Osborne, Keyvan Mahlujy</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

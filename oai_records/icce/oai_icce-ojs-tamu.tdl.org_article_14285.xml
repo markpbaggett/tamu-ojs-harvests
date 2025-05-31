@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14285</identifier>
+				<datestamp>2025-05-29T06:11:27Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PRELIMINARY NUMERICAL STUDY ON TSUNAMI-BORNE SUBMERGED DEBRIS MOTION</dc:title>
+	<dc:creator xml:lang="en">Liu, Guangwei</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Qinghe</dc:creator>
+	<dc:creator xml:lang="en">Zhang, Jinfeng</dc:creator>
+	<dc:description xml:lang="en">Tsunamis can generate a large amount of debris that causes damage to buildings and infrastructure (Chock et al., 2013). The motion of tsunami-borne debris poses great challenges to post-disaster rescue and reconstruction, making it a research hotspot (Nistor et al., 2017). However, existing numerical studies (Ardianti et al., 2018; Hasanpour et al., 2021) have limitations in simulating high Reynolds number turbulent flow and have low computational efficiency. Recently, the lattice Boltzmann method (LBM), a new numerical method, has been developed that has high parallel scalability and computational efficiency (Krü ger et al., 2017). By combining the LBM with the immersed boundary method, the numerical model can simulate the motion of debris in turbulent flows. This study uses the cumulant lattice Boltzmann method (Geier et al., 2015) to develop a three-dimensional high Reynolds-number debris motion model that accurately simulates the motion of debris driven by tsunami. The model provides a new research method for further studying the transport of tsunami debris, with high scalability and computational efficiency. Using the established numerical model, the settling process of different underwater objects was simulated, and the results were in good agreement with experimental data (Parnaudeau et al. 2008 and Yu et al., 2022). In summary, the three-dimensional lattice Boltzmann model developed in this study can overcomes the limitations of previous numerical models and has high computational efficiency and scalability, making it a promising tool for studying debris motion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14285</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.98</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.98</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14285/13557</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Guangwei Liu, Qinghe Zhang, Jinfeng Zhang</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

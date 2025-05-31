@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14084</identifier>
+				<datestamp>2025-05-29T06:12:47Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD OBSERVATIONS OF WATER CONTENT AND MICROTOPOGRAPHIC CHANGES DURING TIDAL CYCLES IN THE SWASH ZONE</dc:title>
+	<dc:creator xml:lang="en">Suzuki, Takayuki</dc:creator>
+	<dc:creator xml:lang="en">Hayashi, Tomoki</dc:creator>
+	<dc:creator xml:lang="en">Banno, Masayuki</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel</dc:creator>
+	<dc:description xml:lang="en">Many studies have been conducted on topographic changes within and around the surf and swash zones. In the nearshore area, a large amount of sediment transport occurs in the surf zone, resulting in frequent profile changes1), 2). Moreover, dynamic sediment movement occurred in the swash zone where the wave condition changes due to tides and the wave run-up and run-down of individual waves3). The soil moisture content of the sediment layer also fluctuates greatly, impacting the stability of the seabed. In this study, we conducted field measurements of the water content of the sand layer in the swash zone and ground elevation of the location using an ultrasonic distance meter. Our analysis shows the characteristics of the water content fluctuations during the tidal motion due to changing wave forcings, and the correlation with microtopographic changes is discussed.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14084</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14084/13356</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Takayuki Suzuki, Tomoki Hayashi, Masayuki Banno, Daniel Cox</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14239</identifier>
+				<datestamp>2025-05-29T06:11:20Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE IMPACT OF TURBULENCE ON SEDIMENT EROSION AROUND SUBMERGED AQUATIC VEGETATION</dc:title>
+	<dc:creator xml:lang="en">Liang, Xinya</dc:creator>
+	<dc:creator xml:lang="en">Lei, Jiarui</dc:creator>
+	<dc:description xml:lang="en">Nature-based solutions provide safeguarding, sustainable governance, and rehabilitation for ecosystems while concurrently offering benefits for human society (Seddon et al., 2020). As a common choice for nature-based solutions, submerged aquatic vegetation (SAV) is ubiquitous and important for coastal and riverine ecosystems due to its ability to reduce flow velocity and dissipate wave energy. Previous research, such as that by Nepf (2012), has examined the velocity profiles related to a submerged canopy that spans the entire width of a channel. In natural environments, SAV often exhibits patchy distributions accompanied by three-dimensional (3-D) velocity fields. Lei and Nepf (2021) provided an analytical flow velocity model for 3-D canopies. Although many studies have confirmed that vegetation patches enhance sediment deposition in the vegetated region (i.e., Kim et al., 2018; Västilä and Järvelä, 2018), how the 3-D canopies impact flow structures and sediment transport remains uncertain. To be more specific, the evolution and mixing processes of the turbulence and its impact on sediment erosion along the 3-D canopies cannot be well described by existing theories. In this study, we aim to disclose the physical mechanisms of flow-vegetation- sediment interaction. Theoretical derivations, laboratory experiments, and large-eddy simulations were combined to investigate the effects of 3-D submerged artificial vegetation on sediment transport and flow development in unidirectional flows.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14239</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14239/13511</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Xinya Liang, Jiarui Lei</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

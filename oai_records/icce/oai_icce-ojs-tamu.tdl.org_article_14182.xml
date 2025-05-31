@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14182</identifier>
+				<datestamp>2025-05-29T10:29:06Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FLOOD AND COASTAL SEDIMENT SUPPLY OF THE RIVER TENRYU, JAPAN, ANALYZED BY X-BAND RADAR OBSERVATION AND XBEACH COMPUTATION</dc:title>
+	<dc:creator xml:lang="en">Takewaka, Satoshi</dc:creator>
+	<dc:creator xml:lang="en">Human, Ivan</dc:creator>
+	<dc:creator xml:lang="en">Luo, Zhiyuan</dc:creator>
+	<dc:description xml:lang="en">The River Tenryu, Japan, flows to the Enshu Coast, facing the Pacific Ocean. The Enshu Coast suffers from long-lasting erosion, and authorities plan to enhance sediment supply from the catchment to mitigate the erosion. In this context, we conduct a coupled study of X- band radar observation and Xbeach computation. We captured coastal and riverine processes in 2021 before and after the flood with the X-band radar. We analyzed wave propagations on the river mouth terrace from the radar observation and determined wave propagation speeds to estimate the depth distribution before and after the flood. During the flood, we simultaneously evaluated the flow velocity distributions in the river channel and the erosive processes. Then, we do Xbeach computation to reproduce and quantify riverine and coastal processes to understand and quantify the flood event comprehensively, especially for the amount of sediment supply from the river to the ocean.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14182</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.27</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.27</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14182/13454</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Satoshi Takewaka, Ivan Human, Zhiyuan Luo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

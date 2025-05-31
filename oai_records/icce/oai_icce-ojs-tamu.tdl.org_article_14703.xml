@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14703</identifier>
+				<datestamp>2025-05-29T10:43:19Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW MODELING FRAMEWORK FOR PROBABILISTIC LANDSLIDE TSUNAMI HAZARD ANALYSES</dc:title>
+	<dc:creator xml:lang="en">Grilli, Stephan Toni</dc:creator>
+	<dc:creator xml:lang="en">Grilli, Annette Renée</dc:creator>
+	<dc:creator xml:lang="en">Cheng, Wei</dc:creator>
+	<dc:creator xml:lang="en">Horrillo, Juan</dc:creator>
+	<dc:creator xml:lang="en">Cecioni, Claudia</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:description xml:lang="en">Landslide tsunamis, although even less frequent than coseismic tsunamis, can be particularly damaging for the nearest coast and coastal communities, because: (i) for large slide volumes, shallow submergence, and large vertical displacement, they can be made of steeper, more locally damaging and narrowly focused waves; (ii) they are typically triggered in relatively shallower, sediment rich, nearshore areas (e.g., continental shelf break and slope), hence at a short propagation distance from shore, allowing less time for advance warning when detected; and (iii) they may not even be detected at all before they impact the shore. An additional difficulty in assessing landslide tsunami hazard is the large variety of parameters that significantly influence wave generation (some mentioned earlier), which requires considering a large number of scenarios, and running corresponding simulations, to properly quantify coastal hazard. The latter is best tackled in a probabilistic Monte Carlo simulation (MCS) framework, in which random scenarios are defined on the basis of relevant probability distribu- tion functions (PDFs) for each salient parameter. Such Probabilistic Tsunami Hazard Analyses (PTHA), which are increasingly routinely performed for coseismic tsunamis, are still quite rare for landslide tsunamis (e.g., Grilli et al 2009; Grezio et al 2012; Cecioni et al., 2023) as they face practical difficulties for: (i) properly assessing salient landslide parameters and quantifying their PDFs; (ii) acquiring relevant site-specific data on bottom/sub- bottom sediment properties and triggering mechanisms (e.g., seismicity); and (iii) developing a physically meaningful, but sufficiently efficient, numerical model for tsunami generation and propagation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14703</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.224</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.224</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14703/13975</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Stephan Toni Grilli, Annette Renée Grilli, Wei Cheng, Juan Horrillo, Claudia Cecioni, Giorgio Bellotti</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

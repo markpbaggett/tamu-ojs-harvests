@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14356</identifier>
+				<datestamp>2025-05-29T06:11:38Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUANTIFYING THE EFFICIENCY OF TIDAL EXCHANGE AND SALT DISPERSION IN A HARBOR BASIN</dc:title>
+	<dc:creator xml:lang="en">Lo, Shih-Hsing</dc:creator>
+	<dc:creator xml:lang="en">Wen, Wen-Tai</dc:creator>
+	<dc:creator xml:lang="en">Chen, Jia-Lin</dc:creator>
+	<dc:creator xml:lang="en">Yeh, Po Hung</dc:creator>
+	<dc:description xml:lang="en">Desalination contributes to the climate change adaption and increases resilience in all those circumstances in which water scarcity has been exacerbated severely in recent decades. Desalination is the process of removing salt from seawater or brackish water for a range of usage, including drinking. However, desalination produces a by- product, brine (a concentrated salt solution) that must be properly disposed of to avoid adverse impacts on the marine environment. In fact, emergency desalination facilities are popular when a sudden drought happens; it’s easy to install and can provide instant drinking water resource, but most of them are installed at harbor areas since there is no time to construct offshore brine outfall pipes, which means brine will be discharged into harbor water directly. In this study, tidal dispersion and the horizontal exchange of water between Kaohsiung Harbor and the surrounding ocean are examined with a three- dimensional high-resolution (the vertical/horizontal grid resolution is 1m/40 m) numerical model. The Port of Kaohsiung is the fifteenth largest container port in the world, and thus plays an important role to economic development. The harbor has two inlets connecting to the sea (indicated as North Boundary and South Boundary) and one fresh river inflow (indicated as River Boundary). There are 97 docks totalling 20.570 meters in length. The strongly varying bathymetry and coastline geometry of the harbor generate complex spatial patterns. In this study, Lagrangian exchange experiments were conducted to demonstrate that tidal currents exchange and mix material near the inlets of the harbor.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14356</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.126</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.126</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14356/13628</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Shih-Hsing Lo, Wen-Tai Wen, Jia-Lin Chen, Po Hung Yeh</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14641</identifier>
+				<datestamp>2025-05-29T08:00:35Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MULTIVARIATE ANALYSIS FOR THE COMPOUND ASSESSMENT OF COASTAL STRUCTURES: THE MILFORD-ON-SEA (UK) CASE STUDY</dc:title>
+	<dc:creator xml:lang="en">Francone, Antonio</dc:creator>
+	<dc:creator xml:lang="en">Salvadori, Gianfausto</dc:creator>
+	<dc:creator xml:lang="en">Durante, Fabrizio</dc:creator>
+	<dc:creator xml:lang="en">Tomasicchio, Giuseppe Roberto</dc:creator>
+	<dc:creator xml:lang="en">D'Alessandro, Felice</dc:creator>
+	<dc:creator xml:lang="en">Leone, Elisa</dc:creator>
+	<dc:description xml:lang="en">The assessment of sea structures is a critical endeavor in coastal engineering, ensuring the safety and sustainability of coastal developments and infrastructures. Effective management and protection of coastal areas require reliable predictions of shoreline evolution when hard structures are present. In most cases, sea structure assessment involves dealing with both deterministic and random factors. Deterministic modeling is adopted to determine the shoreline response based on wave conditions, providing a baseline understanding on how the structure might behave under standard circumstances. However, the natural variability of the marine environment means that deterministic models alone are insufficient to capture the full range of possible scenarios. The present study addresses the inherent randomness in wave conditions by employing a stochastic technique to generate random sea states based on known parameters. This novel approach is applied to the coastal area of Milford-on-Sea, located in Hampshire (UK) where, in 2007, a field experiment was conducted involving the temporary installation of a 46-meter-long groyne.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14641</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.104</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.104</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14641/13913</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Antonio Francone, Gianfausto Salvadori, Fabrizio Durante, Giuseppe Roberto Tomasicchio, Felice D'Alessandro, Elisa Leone</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

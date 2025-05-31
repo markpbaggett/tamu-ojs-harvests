@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14350</identifier>
+				<datestamp>2025-05-29T06:11:37Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL CHANGE DETECTION FROM SATELLITE RADAR (SENTINEL-1)</dc:title>
+	<dc:creator xml:lang="en">Silva, Paula Gomes da</dc:creator>
+	<dc:creator xml:lang="en">Martínez, Jara</dc:creator>
+	<dc:creator xml:lang="en">Tort, Arnau García</dc:creator>
+	<dc:creator xml:lang="en">Savastano, Salvatore</dc:creator>
+	<dc:creator xml:lang="en">Payo, Andres</dc:creator>
+	<dc:creator xml:lang="en">Monteys, Xavier</dc:creator>
+	<dc:creator xml:lang="en">Castillo, Yeray</dc:creator>
+	<dc:description xml:lang="en">The high frequency acquisition and broad area covered by new satellite missions (e.g. Sentinel-1 and Sentinel-2) provide high amount of information that allows for the monitorization of coastal processes in several time and spatial scales. In the past few years, the potential of using satellite-derived shorelines obtained from optical sensors to detect coastal changes has been deeply explored (Vos et al., 2023). A collaborative work between SAR experts and end- users was developed with the aim of enhancing the understanding of SAR-SL from Sentinel-1 and to assess their potential application to detect coastal change. The results from such a collaboration are presented here through three pilot case studies with different environmental characteristics (e.g. different backshore type and met- ocean conditions). All three sites are located in tidal beaches of the European Atlantic coast, where the probability of cloud cover is high. This allowed to assess the skill of SAR-SL in different environments and in sites that represent a challenge for shoreline detection from optical satellite sensors.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14350</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.123</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.123</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14350/13622</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Paula Gomes da Silva, Jara Martínez, Arnau García Tort, Salvatore Savastano, Andres Payo, Xavier Monteys, Yeray Castillo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14461</identifier>
+				<datestamp>2025-05-29T07:19:30Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODELING OF TSUNAMI WAVE PROPAGATION IN A MEANDERING CHANNEL</dc:title>
+	<dc:creator xml:lang="en">Guner, H. Anil Ari</dc:creator>
+	<dc:creator xml:lang="en">Yılmazer, Cem</dc:creator>
+	<dc:creator xml:lang="en">Yuksel, Yalcin</dc:creator>
+	<dc:creator xml:lang="en">Ozturk, Mehmet</dc:creator>
+	<dc:creator xml:lang="en">Sahin, Cihan</dc:creator>
+	<dc:creator xml:lang="en">Dogan, G. Guney</dc:creator>
+	<dc:creator xml:lang="en">Yalciner, Ahmet Cevdet</dc:creator>
+	<dc:description xml:lang="en">Tsunamis can cause serious damage not only to coastal areas but also to riverine infrastructures and areas due to the long distance of waves ascending in rivers in the form of a bore. When a tsunami wave enters a river channel, it encounters a countercurrent, and the wavefront transforms into an undular or breaking bore. Some of the bores have the form of one initial wave with a train of smaller waves known as whelps (undular bore). In the others, such a wave train does not appear and only a step with a flat water surface behind can be observed (breaking bore) (Tsuji, 1991; Yasuda, 2010; Whuppukondur and Baldock, 2022). Field observations of tsunamis show that tsunami waves travel faster and further along coastal rivers than inland mainly due to low-elevation and water existence (in wet conditions), reduced obstructions, meanders, and converging boundaries. Tsunami propagation in coastal areas has been widely studied, but there is a limited number of studies investigating tsunami propagation into a river channel. The interaction between the propagating tsunami and countercurrent along the meandering stream and varying cross-sectional area and geometries along the stream is a complex problem. This research aims to investigate this problem by using physical modeling approaches along a meandering stream.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14461</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.72</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.72</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14461/13733</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 H. Anil Ari Guner, Cem Yılmazer, Yalcin Yuksel, Mehmet Ozturk, Cihan Sahin, G. Guney Dogan, Ahmet Cevdet Yalciner</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14057</identifier>
+				<datestamp>2025-05-29T06:12:43Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MECHANISMS OF SURFONE MIXING IN A 3D WAVE RESOLVING MODEL</dc:title>
+	<dc:creator xml:lang="en">Marchesiello, Patrick</dc:creator>
+	<dc:creator xml:lang="en">Treillou, Simon</dc:creator>
+	<dc:description xml:lang="en">Flash rips and surf eddies are transient horizontal structures of 10-100 m scale in the nearshore zone, which are largely due to the vorticity supply of short-crested waves. Recently, a 3D wave resolving model (CROCO) has revealed previously unknown coastal dynamics, in particular the modification of turbulent cascades and a vertical shear instability leading to new eddy structures that we call mini-rips (Marchesiello et al., 2021). These are small, ubiquitous filamentary vortices covering the surfzone, spaced every 5 m or so in the longshore direction and evolving in the infragravity frequency range. Mini-rips are not reported in observational studies although they are visible in suspended sediment and foam structures, and while they resemble streamwise vortices formed by breaking waves, they are of larger space and time scales.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14057</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14057/13329</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Patrick Marchesiello, Simon Treillou</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

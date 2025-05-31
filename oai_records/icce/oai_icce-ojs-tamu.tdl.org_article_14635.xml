@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14635</identifier>
+				<datestamp>2025-05-29T10:43:29Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPLICATIONS OF DECOUPLED PHYSICAL PROCESS ANALYSIS FOR HYBRID SOLUTIONS</dc:title>
+	<dc:creator xml:lang="en">Roldán, Mariana</dc:creator>
+	<dc:creator xml:lang="en">Maza, Maria</dc:creator>
+	<dc:creator xml:lang="en">Lara, Javier</dc:creator>
+	<dc:creator xml:lang="en">Barajas, Gabriel</dc:creator>
+	<dc:description xml:lang="en">Historically, flooding and erosion challenges in coastal areas have been addressed through conventional gray/rigid structures such as breakwaters, dikes, and walls (Morris et al., 2017). In the context of climate change, which is accompanied by a global biodiversity crisis and an increasing risk to coastal systems and communities, Nature-based Solutions (NbS) have emerged in recent years as an alternative to conventional engineering options. NbS can completely or partially mitigate coastal flooding and erosion problems while offering several additional co- benefits, such as carbon sequestration, improving water quality, habitat creation, and more (Sutton-Grier et al., 2015). Nevertheless, NbS may not be effective on their own in areas where there is insufficient available space for their implementation or in high-risk areas. In such cases, combining conventional engineering with NbS to obtain a so-called hybrid solution could represent an optimal approach, capable of providing the necessary risk reduction and realizing the benefits associated with natural solutions (Vuik et al., 2016). This makes hybrid solutions a highly attractive option that is currently gaining increasing interest. However, due to the limited number of real cases implemented, their relatively novel nature, and existing gaps in our knowledge about their hydrodynamic behavior, there is a pressing need to study them in greater detail. To this end, an experimental campaign is being conducted and is complemented by numerical CFD modeling, coupling IH2VOF and OpenFOAM models. This, in order to better understand the coastal protection services provided by the combined solution and to assess the suitability of considering the effect produced by the ecosystem on the flow in order to subsequently analyze the interaction of the resulting hydrodynamic forcing with the rigid infrastructure.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14635</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.86</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.86</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14635/13907</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Mariana Roldán, Maria Maza, Javier Lara, Gabriel Barajas</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

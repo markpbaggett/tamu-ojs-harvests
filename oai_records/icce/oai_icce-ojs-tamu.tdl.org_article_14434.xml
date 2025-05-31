@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14434</identifier>
+				<datestamp>2025-05-29T06:34:30Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INCORPORATING CLIMATE CHANGE INTO COASTAL COMPOUND FLOOD RISK</dc:title>
+	<dc:creator xml:lang="en">Roberts, Keith Jared</dc:creator>
+	<dc:creator xml:lang="en">Kurum, Onur</dc:creator>
+	<dc:creator xml:lang="en">Rusek, Nicole</dc:creator>
+	<dc:creator xml:lang="en">Lewis, James</dc:creator>
+	<dc:creator xml:lang="en">Nairn, Rob</dc:creator>
+	<dc:creator xml:lang="en">Vinogradov, Sergey</dc:creator>
+	<dc:creator xml:lang="en">Benzing, James</dc:creator>
+	<dc:description xml:lang="en">Coastal communities are increasingly vulnerable to multi- hazard events such as storm surges, riverine flooding, and precipitation-induced runoff. Current engineering practices and risk management strategies necessitate a comprehensive assessment of these concurrent risks to effectively mitigate potential damages. Traditional methods, including those outlined in the North Atlantic Coast Comprehensive Study (NACCS) by the US Army Corps of Engineers (USACE, 2015), tend to focus on storm surge and wave contributions on coastal flooding, and less so combined effects of precipitation. Advancements in climate science suggest a shifting baseline for the frequency and intensity of these events under climate change scenarios, although associated with uncertainties. Despite these uncertainties, there is a need for tools that integrate predicted climate change impacts into coastal flooding hazard evaluations, thereby enhancing the alignment of engineering practices with applied climate and weather research. This presentation introduces a framework for evaluating coastal flood risks incorporating the effects of climate change.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14434</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.140</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.140</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14434/13706</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Keith Jared Roberts, Onur Kurum, Nicole Rusek, James Lewis, Rob Nairn, Sergey Vinogradov, James Benzing</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

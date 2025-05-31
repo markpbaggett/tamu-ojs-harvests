@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14746</identifier>
+				<datestamp>2025-05-29T09:41:09Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTION OF HYPOXIA IN A COASTAL LAGOON USING HYDRODYNAMIC MODELLING AND MACHINE LEARNING</dc:title>
+	<dc:creator xml:lang="en">Simonetti, Irene</dc:creator>
+	<dc:creator xml:lang="en">Cappietti, Lorenzo</dc:creator>
+	<dc:description xml:lang="en">Dissolved Oxygen (DO) is a key indicator of water quality in rivers, lakes, and coastal basins. Hypoxia is a condition in which DO level is too low for the proper functioning of the ecosystems, triggering the mortality of fish, losses in biodiversity, and impacting the surviving organisms through sublethal stresses (Vaquer-Sunyer et al, 2008). The upper threshold for hypoxic conditions ranges from 2 to 5 mgDO/l (Gobler and Baumann, 2016), while a conventional threshold of 2 mgDO/l is usually adopted to characterize fisheries collapse (Diaz and Roseberg, 2008). Machine learning (ML) based approaches to the prediction of water quality-related quantities in lakes or coastal basins gained significant attention in the latest years (e.g. Politikos et al., 2021; Jimeno-Sáez et al., 2020), suggesting a great potential of these techniques for predicting DO. In this work, the possibility of using a Random Forest (RF) algorithm (Breiman, 2001) to predict DO levels in a coastal lagoon is explored. </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14746</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.241</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.241</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14746/14018</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Irene Simonetti, Lorenzo Cappietti</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14643</identifier>
+				<datestamp>2025-05-29T10:41:23Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF A REALISTIC VR DEVICE USING PHOTOGRAMMETRY AND CLARIFICATION OF EVACUATION BEHAVIOR</dc:title>
+	<dc:creator xml:lang="en">Naito, Rena</dc:creator>
+	<dc:creator xml:lang="en">Shirai, Tomoki</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">According to the report by the Central Disaster Management Council (2011), the tsunami triggered by the Tohoku-Pacific Ocean Earthquake revealed problems in disaster prevention measures that relied excessively on coastal protection facilities, etc. Originally, coastal protection facilities were supposed to be designed for frequent tsunamis, etc. However, the gap in residents' perceptions and high seawalls promoted a sense of security and could delay evacuation actions. In recent years, research using extended reality (XR) technology has been attracting attention to take appropriate evacuation actions in specific disaster scenarios (Khanal 2022). Among others, research has been conducted on evacuation drills using virtual reality (VR) (e.g., Saitoh et al. 2018). The presence of a seawall may affect evacuation, but it is not yet clear how much it affects evacuation behavior and sentiment. Therefore, the aim of this study was to construct a VR tsunami experience system and to elucidate the changes in evacuation behavior and emotions with and without seawalls.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14643</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.204</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.204</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14643/13915</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Rena Naito, Tomoki Shirai, Taro Arikawa</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

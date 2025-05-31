@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14076</identifier>
+				<datestamp>2025-05-29T06:12:46Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FRICTION FACTOR OVER ROUGH SEABEDS</dc:title>
+	<dc:creator xml:lang="en">Sous, Damien</dc:creator>
+	<dc:creator xml:lang="en">Déalbéra, Solène</dc:creator>
+	<dc:creator xml:lang="en">Morichon, Denis</dc:creator>
+	<dc:creator xml:lang="en">Michaud, Héloïse</dc:creator>
+	<dc:description xml:lang="en">In the presence of large roughness, such coral reef or rocks, frictional wave dissipation is expected to play a crucial role in wave transformation, possibly dominating over depth-induced breaking dissipation (Monismith et al. 2015). The wave friction factor, f w, is a key parameter for the representation of frictional wave dissipation in phase-averaged numerical models.  Based on laboratory experiments of surf zone dynamics over a series of roughness layouts, the present study aims to provide further insight on (I) the validity of the existing fwin low ranges of Ao/Kr, i.e. in the presence of large roughness, and (ii) to decipher the connection between wave frictional dissipation and the architectural structure of the seabed roughness.                         </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14076</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.3</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.3</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14076/13348</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Damien Sous, Solène Déalbéra, Denis Morichon, Héloïse Michaud</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

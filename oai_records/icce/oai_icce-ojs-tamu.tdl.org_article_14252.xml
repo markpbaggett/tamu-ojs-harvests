@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14252</identifier>
+				<datestamp>2025-05-29T06:11:22Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME WAVE RUN-UP ON STEEP ROCK SHORES</dc:title>
+	<dc:creator xml:lang="en">Roeber, Volker</dc:creator>
+	<dc:creator xml:lang="en">Kalisch, Henrik</dc:creator>
+	<dc:creator xml:lang="en">Lagona, Francesco</dc:creator>
+	<dc:description xml:lang="en">Rock coasts generally pose a greater risk to humans than sand or pebble beaches due to slippery conditions. This risk is particularly high where the sea floor slopes up steeply towards the shore due the sudden and unexpected appearance of large waves, which seem completely out of proportion when compared to sea conditions visible to an observer. Such waves may suddenly flood a large portion of the rocks, potentially knocking by-standers off their feet and washing them into the sea during the back rush. It is well established in the local lore on the Norwegian west coast that sudden large run-up occurs frequently. In particular, long waves of small steepness are able to penetrate the many shoals off the coast without significant energy loss through wave breaking. In the present contribution, we use the Boussinesq Ocean and Surf Zone model, BOSZ, (Roeber and Cheung, 2012), a phase-resolving nearshore Boussinesq-type model create a large number of numerical datasets of waves running up on a steep straight slope. We show that the distribution of run-up heights has very heavy tails, indicating that outlying events are more likely to happen on steep slopes than in a traditional probability distribution for gentle slopes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14252</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.16</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.16</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14252/13524</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Volker Roeber, Henrik Kalisch, Francesco Lagona</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

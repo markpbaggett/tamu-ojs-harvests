@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14340</identifier>
+				<datestamp>2025-05-29T06:11:35Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL AND NUMERICAL STUDY ON WAVE REDUCTION BY TWO PERMEABLE SUBMERGED BREAKWATERS</dc:title>
+	<dc:creator xml:lang="en">Koo, Weoncheol</dc:creator>
+	<dc:creator xml:lang="en">Min, Eun-Hong</dc:creator>
+	<dc:creator xml:lang="en">Lee, SangHun</dc:creator>
+	<dc:creator xml:lang="en">Maeng, Minju</dc:creator>
+	<dc:creator xml:lang="en">Heo, Sanghwan</dc:creator>
+	<dc:description xml:lang="en">This study presents an experimental and numerical study of incident wave reduction and transmission coefficients for impermeable and permeable double submerged breakwaters. The experiments were carried out by constructing an immersed breakwater using gravel in a physical wave tank. Numerical analyses were performed using a two-dimensional fully nonlinear numerical wave tank consisting of a fluid domain and a porous domain. The transmission coefficient of the incident wave was small for the permeable submerged breakwater, and the smallest for the Bragg reflection condition with the gap of the breakwater.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14340</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14340/13612</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Weoncheol Koo, Eun-Hong Min, SangHun Lee, Minju Maeng, Sanghwan Heo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

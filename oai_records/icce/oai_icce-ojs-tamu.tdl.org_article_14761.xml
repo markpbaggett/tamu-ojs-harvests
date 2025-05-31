@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14761</identifier>
+				<datestamp>2025-05-29T10:00:05Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SHOALING FORECASTING AT THE MOUTH OF THE MISSISSIPPI RIVER WITH MACHINE LEARNING MODELS</dc:title>
+	<dc:creator xml:lang="en">Asborno, Magdalena</dc:creator>
+	<dc:creator xml:lang="en">Broders, Jacob</dc:creator>
+	<dc:creator xml:lang="en">Mitchell, Kenneth</dc:creator>
+	<dc:creator xml:lang="en">Hartman, Michael</dc:creator>
+	<dc:creator xml:lang="en">Dunkin, Lauren</dc:creator>
+	<dc:description xml:lang="en">The primary coastal outlet for the Mississippi River at the Gulf of Mexico, known as Southwest Pass (SWP), is one of the most highly utilized commercial deep-draft waterways in the United States. Disruptions in navigation due to hard-to-predict accumulation of sediments in SWP affect the access of deep-draft vessels to four of the nation's top 15 ports measured by tonnage that connect the U.S. Midwest with global markets, and handle around 500M tons of cargo annually. The SWP is maintained by the U.S. Army Corps of Engineers (USACE) at a depth of 50 feet (15.2 meters). The USACE spends on the order of $100M annually on dredging operations to maintain a reliable shipping channel throughout SWP, and the unpredictability of rapid- onset shoaling has been known to drive annual costs to more than twice that amount (Hartman, et al., 2022). Presently, USACE New Orleans District project managers rely on rules of thumb with seasonal river stage trends and thresholds to get 10 to 14 days of lead time for shoaling conditions at SWP.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14761</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.248</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.248</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14761/14033</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Magdalena Asborno, Jacob Broders, Kenneth Mitchell, Michael Hartman, Lauren Dunkin</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

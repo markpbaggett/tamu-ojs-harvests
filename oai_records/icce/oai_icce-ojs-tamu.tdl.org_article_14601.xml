@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14601</identifier>
+				<datestamp>2025-05-29T07:14:53Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCOUR AROUND VERTICAL WALL BREAKWATERS UNDER RANDOM AND SOLITARY WAVES</dc:title>
+	<dc:creator xml:lang="en">Baykal, Cüneyt</dc:creator>
+	<dc:creator xml:lang="en">Karakaş, Kadir</dc:creator>
+	<dc:creator xml:lang="en">Yıldırım, Mehmet Emre</dc:creator>
+	<dc:description xml:lang="en">In this study, flow and scour processes around the head of a vertical wall breakwater under random and solitary waves are investigated by physical model experiments. The flow and scour around the head of a vertical wall breakwater has been studied extensively by Sumer and Fredsøe (1997) for regular waves and by Sogut et al. (2022) for solitary waves. Present study extend the first study incorporating random waves and the latter study with higher values of the Keulegan-Carpenter number (KC). Sogut et al. (2022) investigated scour around sharp- edged vertical structures under solitary waves for the Keulegan-Carpenter number range of (1.87less than KCsless than 6.28). This study covers both sharp-edged and round vertical wall head structures for KCs number range for solitary waves with O(20). In the first stage of physical model tests, the time series of the random wave conditions to be considered in the tests are determined and hard-bottom undisturbed velocity measurements are performed at the location of the structure. In the second stage, the lee-wake vortices are investigated visually, injecting dissolvable dye into the water. At this stage, possible blockage effect by the structure in the wave flume is also investigated through transversal velocity measurements starting from the tip of the structure to the flume wall, to ensure the scour processes are not agitated due to the converging flow effect in the flume. At the third stage, the morphological changes and their time scales around the head of a vertical wall breakwater are investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14601</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.74</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.74</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14601/13873</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Cüneyt Baykal, Kadir Karakaş, Mehmet Emre Yıldırım</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

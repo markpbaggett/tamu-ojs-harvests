@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14224</identifier>
+				<datestamp>2025-05-29T06:32:16Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHASE-RESOLVING MODELING AND OBSERVATIONS OF NEARSHORE WAVE TRANSFORMATIONS IN A COMPLEX REEF ENVIRONMENT</dc:title>
+	<dc:creator xml:lang="en">Tognacchini, Camilla</dc:creator>
+	<dc:creator xml:lang="en">Azouri, Assaf</dc:creator>
+	<dc:creator xml:lang="en">Mihami, Fatima-Zahra</dc:creator>
+	<dc:creator xml:lang="en">Li, Ning</dc:creator>
+	<dc:creator xml:lang="en">Roeber, Volker</dc:creator>
+	<dc:creator xml:lang="en">Guiles, Martin D.</dc:creator>
+	<dc:creator xml:lang="en">Luther, Douglas S.</dc:creator>
+	<dc:description xml:lang="en">Wave-driven run-up events are severely impacting West Maui’s (WM) coastline with episodic inundation and chronic shoreline erosion. A combination of background sea level, tides, and sea and swell (SS) driven components, such as swash and infragravity (IG) waves contribute to the level of run-up experienced at the shore. The setup, swash, and IG wave responses under different SS conditions are highly variable along the WM coastline due to complex nearshore fringing reef-type bathymetry and coastal geomorphology. Simulating these responses to large swell events at different locations along the WM coast is necessary for accurate estimation of local run-up, enabling forecasting of, and community preparation for, coastal inundation events. The Pacific Islands Ocean Observing System (PacIOOS) Coastal Hazards Group (CHG) has implemented a two- dimensional phase-resolving numerical nearshore wave model of weak nonlinearity and dispersion (Roeber and Cheung, 2012), using high resolution bathymetry and topography data around WM. The phase-resolving model accounts for the cross- and along-shore transformations of gravity and IG wave energy for estimation of wave run- up. In recent efforts, an improved and computationally more efficient new model version (Mihami, 2023) was implemented that allows for faster computations thus expanding the possibilities and breadth of applications over larger domains.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14224</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14224/13496</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Camilla Tognacchini, Assaf Azouri, Fatima-Zahra Mihami, Ning Li, Volker Roeber, Martin D. Guiles, Douglas S. Luther</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

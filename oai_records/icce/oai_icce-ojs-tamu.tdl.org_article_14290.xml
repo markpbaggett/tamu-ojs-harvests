@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14290</identifier>
+				<datestamp>2025-05-29T06:11:27Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PASSING VESSEL AND TIDAL FLOW IMPACTS ON SUBMERGED TUNNEL ELEMENTS DURING INSTALLATION</dc:title>
+	<dc:creator xml:lang="en">Alderson, John Stewart</dc:creator>
+	<dc:creator xml:lang="en">Cruickshank, Henry</dc:creator>
+	<dc:creator xml:lang="en">Decrop, Boudewijn</dc:creator>
+	<dc:creator xml:lang="en">Cornu, Tijs</dc:creator>
+	<dc:description xml:lang="en">A number of numerical and physical model studies were used to assist in the design and future construction of the Oosterweel tunnel Project at Antwerp, Belgium. The tunnel will consist of 8 tunnel elements, to be immersed in water depths of up to 30m with ebb and flood tidal currents up to 2m/s. The design of the immersion and mooring systems are therefore a crucial part of the installation as well as understanding the effects of passing vessel on it, whilst in a temporary state before final back fill. The studies investigate the different hydraulic load cases on various tunnel elements (TEs) during and post immersion. The TEs will be placed starting from the Southern bank of the River Scheldt (Linkeroever) with elements suspended from catamaran pontoons during installation process.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14290</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14290/13562</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 John Stewart Alderson, Henry Cruickshank, Boudewijn Decrop, Tijs Cornu</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

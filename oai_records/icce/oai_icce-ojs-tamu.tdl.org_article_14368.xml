@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14368</identifier>
+				<datestamp>2025-05-29T06:11:40Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSING COASTAL HAZARDS WITH SLR AND PREDICTING LONG-TERM SHORELINE CHANGES ALONG BEACH BARRIER SYSTEMS OF THE NEW ENGLAND COASTLINE, USA</dc:title>
+	<dc:creator xml:lang="en">Leone, Alexa</dc:creator>
+	<dc:creator xml:lang="en">Grilli, Annette</dc:creator>
+	<dc:creator xml:lang="en">Huisman, Bas</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Dongeren, Ap Van</dc:creator>
+	<dc:creator xml:lang="en">Oakley, Bryan</dc:creator>
+	<dc:creator xml:lang="en">Stempel, Peter</dc:creator>
+	<dc:creator xml:lang="en">Walsh, John</dc:creator>
+	<dc:description xml:lang="en">Coastal barrier systems act as “ecosystem engineers” (EE), naturally adapting to slowly evolving seal level rise (SLR) and wave climate by regressing or transgressing. These systems adjust their morphology in response to short-term storm events and long-term changes in mean sea level and wave climate, maintaining an equilibrium between wave forcing and shoreline morphology. While predicting short-term shoreline changes due to storm events can be done with reasonable accuracy using 2DH hydro-morphodynamic models such as XBeach, predicting long-term changes is more challenging and affected by larger uncertainties. However, both accelerated SLR and more broadly climate change increase the vulnerability of coastal communities, despite even larger uncertainties, and such predictions are becoming increasingly important.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14368</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.131</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.131</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14368/13640</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Alexa Leone, Annette Grilli, Bas Huisman, Dano Roelvink, Ap Van Dongeren, Bryan Oakley, Peter Stempel, John Walsh</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

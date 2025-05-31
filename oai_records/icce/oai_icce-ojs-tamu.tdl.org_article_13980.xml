@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13980</identifier>
+				<datestamp>2025-05-29T06:12:32Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDROMORPHOLOGICAL DYNAMICS OF CANADIAN ARCTIC DELTAS : AN HYDROLOGICAL MODEL OF THE COPPERMINE DELTA</dc:title>
+	<dc:creator xml:lang="en">Lafosse, L.</dc:creator>
+	<dc:creator xml:lang="en">Stolle, J.</dc:creator>
+	<dc:creator xml:lang="en">Coulombe, S.</dc:creator>
+	<dc:creator xml:lang="en">Binette, S.</dc:creator>
+	<dc:creator xml:lang="en">Canham, N.</dc:creator>
+	<dc:creator xml:lang="en">Akana, R.</dc:creator>
+	<dc:creator xml:lang="en">Didier, D.</dc:creator>
+	<dc:description xml:lang="en">Climate change has transformed coastal and deltaic environments in the Arctic with warmer temperatures, loss of sea ice, higher water levels, and larger storm events. Coastal retreat rates have been measured over 10 m per year in Canadian Arctic severely affecting Indigenous communities. This paper presents one of the first hydrodynamic models of an Arctic delta to better understand the processes specific to the Arctic. The hydrodynamic model has been calibrated and validated with water level and current velocity field measurements in summer 2022. Water levels are well predicted during both calm weather and storm events. A correlation between water level and permafrost erosion at cliff foot is analyzed with a parameter called erosion potential. The erosion potential has been defined as the number of days for which the water level at Graveyard is above the threshold of 0.1 m divided by the total number of days during summer. According to water level measurements from 2021 to 2024, the erosion potential is stochastic across years, with a significant increase in mean water level in 2023, followed by a drop in 2024. Following IPCC projections for sea-level rise, erosion at the foot of Graveyard cliff could occur one out of two days during the summer season in 2050 and every day in 2100. Based on our recent field studies, the aim of this project is to analyze the extent to which hydro- morphodynamic models without considering thermal exchanges can be applied to Arctic coastal engineering. Correctly predicting the impact of climate change in the Arctic will enable better adaptation of local communities in the future.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13980</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13980/13252</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 L. Lafosse, J. Stolle, S. Coulombe, S. Binette, N. Canham, R. Akana, D. Didier</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

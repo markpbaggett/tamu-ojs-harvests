@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14330</identifier>
+				<datestamp>2025-05-29T06:11:33Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFICIENT WAVE CONDITION PREDICTIONS FOR COASTAL STRUCTURES BASED ON MACHINE LEARNING AND PHASE-RESOLVING NUMERICAL SIMULATIONS</dc:title>
+	<dc:creator xml:lang="en">Wang, Widar Weizhi</dc:creator>
+	<dc:creator xml:lang="en">Christakos, Konstantinos</dc:creator>
+	<dc:creator xml:lang="en">Bihs, Hans</dc:creator>
+	<dc:description xml:lang="en">Coastal wave conditions are complex and inhomogeneous due to the irregular bathymetry and coastline and the associated wave transformations. This makes the site assessment, monitoring and design for coastal structures challenging, as the offshore wave conditions based on hindcast data or global forecasting model do not represent the local reality, including wave height, period, principal directions and energy distributions. The prediction of coastal near-site wave conditions requires phase-resolved numerical modelling to represent all relevant wave transformations. This work proposes to use validated numerical models to produce the wave data with a large matrix of scenarios. The open- source hydrodynamic model REEF3D::FNPF (Wang et al. 2022) has a proven record of flexible and efficient modelling of large-scale wave propagations and transformations in challenging coastal conditions. The open-source model is used together with the open-access hindcast dataset NORA3 (Haakenstad et al., 2021) to create wave data that can be used for training and validating an artificial neural network for future wave predictions. This procedure is demonstrated using a case study in southern Norway for navigational signal towers and a small boat harbour.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14330</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.56</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.56</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14330/13602</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Widar Weizhi Wang, Konstantinos Christakos, Hans Bihs</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

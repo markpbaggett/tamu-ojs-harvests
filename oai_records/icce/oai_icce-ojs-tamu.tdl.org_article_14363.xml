@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14363</identifier>
+				<datestamp>2025-05-29T06:11:39Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYBEAT: A HYBRID MODEL FOR SURF-ZONE HYDRODYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Pérez-Díaz, Beatriz</dc:creator>
+	<dc:creator xml:lang="en">Cagigal, Laura</dc:creator>
+	<dc:creator xml:lang="en">Zornoza, Manuel</dc:creator>
+	<dc:creator xml:lang="en">Ricondo, Alba</dc:creator>
+	<dc:creator xml:lang="en">Castanedo, Sonia</dc:creator>
+	<dc:creator xml:lang="en">Méndez, Fernando</dc:creator>
+	<dc:description xml:lang="en">Climate change-induced sea level rise and increasing storm severity are important stressors that threaten the livability of coastal areas worldwide. In this context, it is crucial to be able to effectively predict coastal flooding and to provide the necessary tools to assist adaptation strategies to coastal communities and policymakers. These predictive tools should be able to forecast the local waves and water levels as well as their nearshore transformation to the shoreline. Commonly, phase- resolving numerical wave models have been employed for simulating complex nearshore hydrodynamics. Although they accurately reproduce the main physical processes, these models are computationally very expensive, posing a limitation on the ability to forecast future conditions. Alternatively, hybrid models have emerged to complement process-based wave numerical models by incorporating statistical methods that minimize the computational effort (Camus et al., 2011, Ricondo et al., 2023).              </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14363</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14363/13635</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Beatriz Pérez-Díaz, Laura Cagigal, Manuel Zornoza, Alba Ricondo, Sonia Castanedo, Fernando Méndez</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

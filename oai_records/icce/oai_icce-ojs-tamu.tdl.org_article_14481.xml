@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14481</identifier>
+				<datestamp>2025-05-29T06:54:19Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STRENGTH AND WEAKNESSES OF THREE APPROACHES TO FAST MODELLING OF THE SPECTRAL WAVE ACTION BALANCE</dc:title>
+	<dc:creator xml:lang="en">Ridder, Menno Pieter de</dc:creator>
+	<dc:creator xml:lang="en">Lugt, Marlies van der</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Ormondt, Maarten van</dc:creator>
+	<dc:description xml:lang="en">Wave models are essential for coastal engineering applications, because the (nearshore) wave conditions are required for the design of coastal structures, important drivers of coastal floodings and coastal erosion. Various spectral wave models exist to model the wave propagation, wind growth and energy transfer within a spectrum (Booij, et al. 1996, Günther, et al., 1992). These models have been improved over the last years (e.g. Rogers et al., 2015) and are able to accurately be applied for various applications. As a consequence the wave models became rather slower in terms of computational time than faster. This constricts the use of state-of-the-art wave models in probablistic flooding forecasts or continental scale wave climate downscaling for forcing shoreline modelling. Both these types of applications demand ensemble mode simulations achieved running all simulations in parallel on a super computer. Given that uncertainties in forecasting outcomes are not only a result of model uncertainty but also forcing uncertainty (e.g. hurricane track, storm intensity), this study investigates two alternative approaches to modelling the spectral wave action balance. The first model aims to downscale climate models to the water depths and regions relevant for shoreline modelling. The second alternative model approach aims to provide input to continental scale probabilistic (hurricane-driven) wave forecasts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14481</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14481/13753</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Menno Pieter de Ridder, Marlies van der Lugt, Dano Roelvink, Maarten van Ormondt</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

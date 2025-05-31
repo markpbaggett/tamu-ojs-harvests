@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13956</identifier>
+				<datestamp>2025-05-29T06:12:28Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF WAVE OVERTOPPING EVENTS AT RUBBLE MOUND BREAKWATERS WITH A CREST ELEMENT</dc:title>
+	<dc:creator xml:lang="en">Chaves, Mónica G. Aguilera</dc:creator>
+	<dc:creator xml:lang="en">Gent, Marcel R.A. van</dc:creator>
+	<dc:creator xml:lang="en">Mares-Nasarre, Patricia</dc:creator>
+	<dc:creator xml:lang="en">Ridder, Menno de</dc:creator>
+	<dc:description xml:lang="en">Simulating the flow depths and velocities occurring during wave overtopping events at coastal structures with a numerical model is challenging. Reproducing these variables is relevant since they can be used as design parameters if they can be predicted accurately. OpenFOAM® was used to analyse flow depths and velocities that occur during wave overtopping events at a rubble mound breakwater with a crest element. The model was validated with physical model tests. Even though the quantitative prediction of the numerical model was not extremely accurate, the model provided valuable information to study the physical processes occurring during wave overtopping events. In particular, the effects of varying wave conditions and the protrusion height of the crest element have been studied. For events occurring with high exceedance probability, the flow depths and velocities follow the trends found by other authors who performed physical model tests. Flow depths and velocities that happen under complex flow phenomena still require further research.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13956</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.5</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.5</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13956/13228</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Mónica G. Aguilera Chaves, Marcel R.A. van Gent, Patricia Mares-Nasarre, Menno de Ridder</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

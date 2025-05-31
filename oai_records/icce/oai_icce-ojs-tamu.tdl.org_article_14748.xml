@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14748</identifier>
+				<datestamp>2025-05-29T09:32:37Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMMERSIVE SIMULATION OF NATURAL HAZARDS FOR ENHANCED PUBLIC AWARENESS AND DISASTER PREPAREDNESS</dc:title>
+	<dc:creator xml:lang="en">Ebrahimi, Behzad</dc:creator>
+	<dc:creator xml:lang="en">Lynett, Patrick</dc:creator>
+	<dc:description xml:lang="en">Virtual reality (VR) has become a transformative force in understanding and responding to natural disasters. The TsuRuni project is at the forefront of this innovation, offering a virtual reality experience that simulates natural hazards, such as tsunamis and flooding, with unprecedented realism and interactivity. By leveraging Unreal Engine and WebGPU technologies, TsuRuni creates digital twins of real- world cities to deliver immersive simulations that are not only visually stunning but also grounded in accurate data representations. TsuRuni’s virtual reality experience offers a first-person perspective, interactive elements for user engagement, and narrative integration, all optimized for a range of VR headsets. This project not only aims to advance public awareness and education regarding natural hazards but also serves as a testbed for developing new coastal protection and disaster preparedness solutions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14748</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.243</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.243</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14748/14020</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Behzad Ebrahimi, Patrick Lynett</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

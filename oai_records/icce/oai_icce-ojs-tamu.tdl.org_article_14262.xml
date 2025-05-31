@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14262</identifier>
+				<datestamp>2025-05-29T06:11:23Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PERFORMANCE STUDY OF A LOW-PASS FILTER TO MODEL ENERGY DISSIPATION DUE TO MULTIDIRECTIONAL WAVE BREAKING IN HOS-NWT</dc:title>
+	<dc:creator xml:lang="en">Aertsens, Tim</dc:creator>
+	<dc:creator xml:lang="en">Ducrozet, Guillaume</dc:creator>
+	<dc:creator xml:lang="en">Monbaliu, Jaak</dc:creator>
+	<dc:creator xml:lang="en">Toffoli, Alessandro</dc:creator>
+	<dc:description xml:lang="en">The open-source available High Order Spectral – Numerical Wave Tank (HOS-NWT) (Ducrozet et al., 2012) is an extensively validated and widely used model to simulate waves in a wave basin. For instance, Vyzikas et al. (2021) proved a very good performance of HOS-NWT for the surface dynamics of steep focused wave groups. However, since the model is a free surface potential flow solver, modelling breaking waves within this framework is far from straightforward. Yet, if one’s interest is in capturing the effect of breaking on the overall wave-field evolution, rather than in deterministically replicating extreme breaking events, applying a simple low-pass filter in the wavenumber space could already give reasonable results (Slunyaev and Kokorina, 2020). The aim of this study is to verify the performance of such a low-pass filter to replicate the wave statistics in a numerical twin of the Coastal and Ocean Basin (COB) in Ostend (Belgium) for various sea states. To do so, experiments in the COB have been done on long- and short-crested waves of different steepness’s and peak periods. The realized paddle motions during these experiments are then used as input for the numerical twin of the COB based on HOS-NWT in which the low-pass filter proposed by Xiao et al. (2013) is included. By comparing the resulting wave statistic in the physical and numerical basins, it will be decided whether the low-pass filters give acceptable results for the practical applications envisaged for the numerical twin of the COB or if more elaborate breaking models need to be included.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14262</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.47</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.47</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14262/13534</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tim Aertsens, Guillaume Ducrozet, Jaak Monbaliu, Alessandro Toffoli</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

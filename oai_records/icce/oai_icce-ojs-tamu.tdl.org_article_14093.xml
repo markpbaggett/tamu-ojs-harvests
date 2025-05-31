@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14093</identifier>
+				<datestamp>2025-05-29T06:12:49Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVOLUTION OF NONLINEAR WAVES OF MULTIPLE SYSTEMS IN TWO-DIMENSIONAL DIRECTIONAL CROSSING SEAS ON A SLOPE</dc:title>
+	<dc:creator xml:lang="en">Lyu, Zuorui</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Kashima, Hiroaki</dc:creator>
+	<dc:description xml:lang="en">As water waves approach coastal areas, various factors and mechanisms, including dispersion, refraction, spatial inhomogeneity, and directional effects, lead to wave deformation. In the study of the rogue/ freak waves, the occurrence of maximum wave height in nonlinear modulated wave trains is related to the four-wave interactions. Lyu et al. (2021, 2023) discussed the roles played by local bathymetry effects and directional effects in the nonlinear evolution process of a random wavefield and quantitatively analyzed their contribution to the occurrence probability of freak waves. However, there is still much to explore in the realm of wave propagation in two dimensions. From observation data and numerical study in general sea states and extreme seas such as tropical cyclones, crossing two or more distinct spectral components will also lead to freak waves (Semedo et al., 2011; Mori, 2012). In this research, we develop a numerical model to describe the crossing of multiple systems within a random directional wavefield. Building the model upon the extension of Lyu et al. (2023), we simulate the evolution of crossing waves, which are composed of two symmetrical oblique incident wave trains over an uneven bottom.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14093</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.17</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.17</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14093/13365</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Zuorui Lyu, Nobuhito Mori, Hiroaki Kashima</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

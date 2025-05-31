@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14594</identifier>
+				<datestamp>2025-05-29T10:41:23Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODEL VALIDATION USING A DIAGRAM COMPARING OBSERVED AND SIMULATED TIDES AND TIDAL CURRENT ELLIPSES IN TOKYO BAY</dc:title>
+	<dc:creator xml:lang="en">Tsubono, Takaki</dc:creator>
+	<dc:creator xml:lang="en">Okada, Teruhisa</dc:creator>
+	<dc:creator xml:lang="en">Misumi, Kazuhiro</dc:creator>
+	<dc:creator xml:lang="en">Tsumune, Daisuke</dc:creator>
+	<dc:description xml:lang="en">Numerous regional models have been developed to provide information on ocean conditions, such as temperature, salinity, and currents for the coastal engineering design, aquaculture, and oil spill prediction. Model validation through comparisons between observed and simulated tides is necessary, because tides are relatively dominant and tidal currents affect the vertical mixing. We investigate the usefulness of a diagram (Tsubono, 2022) similar to the Taylor diagram (Taylor, 2001), which shows the amplitudes and phases of observed and simulated tidal constituents simultaneously with the complex distance in terms of the root mean square difference and the correlation coefficient between the two time-series, to evaluate the model performance for reproducing tides and tidal currents in, for example, Tokyo Bay.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14594</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.185</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.185</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14594/13866</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Takaki Tsubono, Teruhisa Okada, Kazuhiro Misumi, Daisuke Tsumune</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

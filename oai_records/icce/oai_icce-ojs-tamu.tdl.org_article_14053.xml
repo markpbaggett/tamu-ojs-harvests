@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14053</identifier>
+				<datestamp>2025-05-29T06:12:43Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILISTIC MODELLING OF THE ARMOR DAMAGE EVOLUTION OF ROCK-ARMORED GROYNES UNDER SHIP- WAVE ATTACK BASED ON FIELD DATA</dc:title>
+	<dc:creator xml:lang="en">Mares-Nasarre, Patricia</dc:creator>
+	<dc:creator xml:lang="en">Morales-Nápoles, Oswaldo</dc:creator>
+	<dc:creator xml:lang="en">Melling, Gregor</dc:creator>
+	<dc:description xml:lang="en">Groynes and revetments have suffered an increase in the severity of their damage in the German estuaries during the past years due to the increase in the ship-induced loads. Consequently, there is a pressing demand for further tools to model the structure deterioration over time with the aim to facilitate the planning of maintenance and repair measures. This damage evolution is directly caused by the ship-induced waves and comes with a high level of uncertainty due to the complexity of the involved phenomena (e.g.: ship-wave generation or wave-structure interaction). Therefore, a probability-based estimate of that damage evolution over time is essential for the optimization of the maintenance/repair decisions of these structures. The goal of this research is to quantify the survivability of a rock-armored groyne at Juelssand in the Lower Elbe Estuary based on field measurements. First, an algorithm to generate random damage curves (based on the field measurements) is developed to overcome the data scarcity from the field and improve the subsequent phases of the analysis. After that, a Gamma process is applied to model the structure survivability; it is fitted using the generated random damage curves and the survivability of the groyne is studied for different tolerable damage levels.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14053</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14053/13325</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Patricia Mares-Nasarre, Oswaldo Morales-Nápoles, Gregor Melling</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

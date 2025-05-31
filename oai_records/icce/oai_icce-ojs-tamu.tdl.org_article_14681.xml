@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14681</identifier>
+				<datestamp>2025-05-29T08:34:39Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDIMENT TRANSPORT AT THE BALTIC COAST USING A NON-HYDROSTATIC s-GRID MODEL</dc:title>
+	<dc:creator xml:lang="en">Ehlers, Ronja</dc:creator>
+	<dc:creator xml:lang="en">Wang, Widar Weizhi</dc:creator>
+	<dc:creator xml:lang="en">Männikus, Rain</dc:creator>
+	<dc:creator xml:lang="en">Soomere, Tarmo</dc:creator>
+	<dc:creator xml:lang="en">Bihs, Hans</dc:creator>
+	<dc:description xml:lang="en">This paper presents the application of a new three- dimensional non-hydrostatic s-grid model on coastal sediment transport and morphological development under the effects of wave and current. Altering the initial conditions with coastal structures, harbors or groynes, will affect the sediment balance both locally and further away along the coastline. In this paper, an efficient numerical model is introduced to determine the impact of waves, current and structures on coastal morphology. The model resolves the 3D flow field, the free surface, as well as a movable bed boundary. The sediment transport is described via a mass balance equation that determines the development of the bed elevation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14681</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14681/13953</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ronja Ehlers, Widar Weizhi Wang, Rain Männikus, Tarmo Soomere, Hans Bihs</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

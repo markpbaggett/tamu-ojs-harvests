@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14768</identifier>
+				<datestamp>2025-05-29T10:02:55Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ANATOMY OF STRIKE SLIP FAULT TSUNAMI-GENESIS</dc:title>
+	<dc:creator xml:lang="en">Synolakis, Costas</dc:creator>
+	<dc:creator xml:lang="en">Elbannac, Ahmed</dc:creator>
+	<dc:creator xml:lang="en">Abdelmeguidd, Mohamed</dc:creator>
+	<dc:creator xml:lang="en">Mac, Xiao</dc:creator>
+	<dc:creator xml:lang="en">Amlanie, Faisal</dc:creator>
+	<dc:creator xml:lang="en">Bhatf, Harsha S.</dc:creator>
+	<dc:creator xml:lang="en">Rosakis, Ares J.</dc:creator>
+	<dc:description xml:lang="en">We have developed a coupled computational mechanics framework that integrates fully 3-D models for earthquake rupture dynamics with fluid mechanics models of tsunami generation and propagation. The three-dimensional, time- dependent, vertical and horizontal ground motions from spontaneous dynamic rupture models are translated into a moving bathymetry of the bay that drives the 2D nonlinear shallow water-wave equations. We find that supershear ruptures propagating along underwater, strike-slip faults, traversing narrow bays, are prime candidates for tsunami generation. We also show that, the dynamic focusing effect and the large horizontal displacements, characteristic of strike-slip earthquakes (especially super-shear ones) on long faults, are the critical drivers for the tsunami hazard in bays. These findings point to intrinsic mechanisms for tsunami generation by strike- slip faulting that do not require us to invoke complex seismic sources, landslides, or complicated bathymetries. We identify three distinct phases in the tsunami motion; an instantaneous dynamic phase, a lagging co-seismic phase, and a classical post-seismic phase, each of which affect the coastal areas differently. We conclude by emphasizing the need for re-evaluating the near-source tsunami hazard to coastal areas (e.g. the SF bay area in CA, the sea of Marmara near Istanbul, or the bay of Al Aqaba in the Red Sea) from local strike-slip faults.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14768</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.251</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.251</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14768/14040</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Costas Synolakis, Ahmed Elbannac, Mohamed Abdelmeguidd, Xiao Mac, Faisal Amlanie, Harsha S. Bhatf, Ares J. Rosakis</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

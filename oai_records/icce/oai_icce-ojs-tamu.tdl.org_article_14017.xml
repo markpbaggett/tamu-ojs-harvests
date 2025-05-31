@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14017</identifier>
+				<datestamp>2025-05-29T06:12:38Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROPOSAL OF IMAGE PROCESSING FOR RIP CURRENT VERIFICATION</dc:title>
+	<dc:creator xml:lang="en">Shimada, Ryo</dc:creator>
+	<dc:creator xml:lang="en">Ishikawa, Toshinori</dc:creator>
+	<dc:creator xml:lang="en">Komine, Tsutomu</dc:creator>
+	<dc:description xml:lang="en">In Japan, rip currents are a major cause of drowning accidents, as many beachgoers fail to recognize them. Previous research has shown that visualizing rip currents can help users avoid them. While AI-based systems have been developed to detect rip currents from fixed-point camera images, these systems involve high initial costs for AI model creation and equipment. This study explores a cost-effective approach to visualizing rip currents using image processing and evaluates whether beachgoers can identify them effectively. The method involves calculating the difference between consecutive images, with areas of motion highlighted in green. Rip currents were identified by focusing on uncolored areas in the processed images. Data was collected over 45 minutes on three days when lifeguards confirmed the presence of rip currents. A total of 360 responses were gathered from 20 subjects who watched both original and processed videos, marking rip current locations. Accuracy was evaluated by comparing the subjects’ marked areas with those of lifeguards using the Intersection over Union (IoU) metric. Results showed no overall improvement in IoU when comparing processed and unprocessed videos. However, under sunny conditions, the IoU improved up to 62percent. In conclusion, this method can enhance beachgoers’ rip current verification in clear weather conditions which was considered a high number of users, potentially helping beachgoers avoid hazardous areas.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14017</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.66</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.66</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14017/13289</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ryo Shimada, Toshinori Ishikawa, Tsutomu Komine</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

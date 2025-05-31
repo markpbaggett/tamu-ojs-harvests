@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14640</identifier>
+				<datestamp>2025-05-29T08:00:28Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EUROPEAN ASSESSMENT OF COASTAL FLOOD HAZARDS</dc:title>
+	<dc:creator xml:lang="en">Cotrim, Camila</dc:creator>
+	<dc:creator xml:lang="en">Toimil, Alexandra</dc:creator>
+	<dc:creator xml:lang="en">Losada, Iñigo</dc:creator>
+	<dc:creator xml:lang="en">Menendez, Melisa</dc:creator>
+	<dc:creator xml:lang="en">Lobeto, Hector</dc:creator>
+	<dc:creator xml:lang="en">Suárez, Iria</dc:creator>
+	<dc:creator xml:lang="en">Novo, Sara</dc:creator>
+	<dc:description xml:lang="en">Analyzing extreme events and determining their impacts in terms of coastal flooding are crucial for understanding and preventing potential risks caused by such hazards. Although TWL calculation and flood modelling at large scales have been addressed in the literature before, there is still much room for improvement if adaptation policies are to be developed, as they require to be based on the most accurate and least uncertain risk analysis possible. As for the flood modeling itself, the highest resolution of digital elevation model (DEM) adopted is 25 m but with a static flood modeling approach, while the only pan-European dynamic flood modeling is applied to a 90 m DEM (Vousdoukas et al., 2016). By applying high-resolution and nearshore datasets of TWL, DEM and land use information to semi-empirical and process-based models, this study aims to advance knowledge in the identified gaps to better approach the requirements that risk-based adaptation frameworks are increasingly demanding as for resolution, accuracy, and uncertainty sampling.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14640</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.202</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.202</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14640/13912</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Camila Cotrim, Alexandra Toimil, Iñigo Losada, Melisa Menendez, Hector Lobeto, Iria Suárez, Sara Novo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

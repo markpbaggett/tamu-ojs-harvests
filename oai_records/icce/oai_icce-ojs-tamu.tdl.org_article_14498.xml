@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14498</identifier>
+				<datestamp>2025-05-29T10:29:26Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL HAZARDS SYSTEM: A MULTI-COMPONENT FRAMEWORK AIDING COASTAL RESILIENCY</dc:title>
+	<dc:creator xml:lang="en">Yawn, Madison C.</dc:creator>
+	<dc:creator xml:lang="en">Nadal-Caraballo, Norberto C.</dc:creator>
+	<dc:creator xml:lang="en">Aucoin, Luke A.</dc:creator>
+	<dc:creator xml:lang="en">Melby, Jeffrey A.</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Victor M.</dc:creator>
+	<dc:creator xml:lang="en">Carr, Meredith L.</dc:creator>
+	<dc:creator xml:lang="en">Massey, Chris</dc:creator>
+	<dc:creator xml:lang="en">Taflanidis, Alexandros A.</dc:creator>
+	<dc:creator xml:lang="en">Bensi, Michelle T.</dc:creator>
+	<dc:description xml:lang="en">Coastal regions within the U.S. Army Corps of Engineers (USACE) areas of responsibility are highly vulnerable to coastal storms, with more than $1 trillion in damages in the last two decades. Tropical cyclones (TCs), extratropical cyclones (XC), and other extreme storm events impose a variety of coastal hazards including storm surge, waves, rainfall, and wind, which often lead to devastating impacts to coastal communities. Compounding these events with increased storminess (e.g., frequency, intensity) and sea level rise is expected to exacerbate damages, therefore driving the need for more resilient flood and coastal storm risk management efforts to protect coastal communities, critical infrastructure, and ecosystems. The Coastal Hazards System (CHS) (https://chs.erdc.dren.mil) was developed by the USACE in direct response to the need for high quality hazard information to support coastal resiliency. CHS is a multi-agency, national scale effort for the accurate, efficient, and consistent quantification of coastal storm hazards for all U.S. coastlines and other locations of significance for national security. The primary objective of the CHS is the development and provision of high-fidelity, high-resolution probabilistic coastal storm hazard and process-based numerical modeling data covering the full probability space of coastal storm responses (e.g., storm surge, waves) for direct application in coastal engineering and risk assessment activities.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14498</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.169</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.169</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14498/13770</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Madison C. Yawn, Norberto C. Nadal-Caraballo, Luke A. Aucoin, Jeffrey A. Melby, Victor M. Gonzalez, Meredith L. Carr, Chris Massey, Alexandros A. Taflanidis, Michelle T. Bensi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

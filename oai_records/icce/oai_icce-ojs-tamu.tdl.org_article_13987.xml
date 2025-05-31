@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13987</identifier>
+				<datestamp>2025-05-29T06:12:33Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INTEGRATION OF CFD MODELLING AND UAV PHOTOGRAMMETRY FOR DAMAGE PROGRESSION ASSESSMENT OF A RUBBLE MOUND BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Leone, Elisa</dc:creator>
+	<dc:creator xml:lang="en">Francone, Antonio</dc:creator>
+	<dc:creator xml:lang="en">Lauria, Agostino</dc:creator>
+	<dc:creator xml:lang="en">Paglialunga, Andrea</dc:creator>
+	<dc:creator xml:lang="en">D’Alessandro, Felice</dc:creator>
+	<dc:creator xml:lang="en">Tomasicchio, Giuseppe Roberto</dc:creator>
+	<dc:description xml:lang="en">Rubble-mound breakwaters are structures specifically designed to protect coastal areas from wave action requiring robust design and ongoing monitoring to maintain their structural integrity. The study presents an experimental and numerical investigation of damage progression in a small-scale model of a rubble-mound breakwater, conducted at the EUMER laboratory. The physical model, featuring Accropode© II and Accroberm© I armour units, has been subjected to storm-like conditions, and the progression of damage has been assessed using an innovative UAV photogrammetry approach. The proposed method enabled the evaluation of areas where erosion and accretion occur due to the action of extreme waves, identifying critical zones most susceptible to damage. To complement the experimental findings, a numerical simulation using OpenFOAM libraries combined with OlaFlow, a Computational Fluid Dynamics (CFD) model, has been integrated using the observed data. The CFD model provided additional insights into the flow fields and forces distributions acting on the structure, contributing a more detailed understanding of the damage mechanisms. The combination of UAV photogrammetry and CFD analysis allowed for a deeper assessment of the damage evolution, offering a comprehensive approach to breakwater design and maintenance strategies.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13987</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.36</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.36</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13987/13259</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Elisa Leone, Antonio Francone, Agostino Lauria, Andrea Paglialunga, Felice D’Alessandro, Giuseppe Roberto Tomasicchio</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

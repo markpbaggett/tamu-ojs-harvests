@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14297</identifier>
+				<datestamp>2025-05-29T06:11:28Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">INVESTIGATING THE IMPACT OF MANGROVES ON WAVE ATTENUATION THROUGH PHYSICAL AND NUMERICAL MODELING</dc:title>
+	<dc:creator xml:lang="en">Chang, Che-Wei</dc:creator>
+	<dc:creator xml:lang="en">Tsai, Yu-Lin</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">In the face of threats posed by intensifying storms and rising sea levels, Natural and Nature-based Features (NNBF) have gained substantial recognition for enhancing coastal resilience. Mangrove forests, among the natural features, have emerged as an exceptional exemplar against coastal hazards. With their complex root systems, mangroves possess the capability to dissipate wave energy, decelerate flow velocity, and mitigate extreme waves and surges. To investigate the impacts of mangrove root systems on water waves, this study followed the experimental setup in Chang et al. (2022) and analyzed the measured wave attenuation by model-scale geometric replicas of Rhizophora. Utilizing the empirical formulas for mangrove-induced force (drag and inertia) coefficients from Chang et al. (2022), we incorporated the vegetation effects in a phase-resolving Boussinesq-type wave model to simulate the propagation of waves and hydrodynamics through mangrove forests. The model-data comparisons showed reasonable agreement without further calibration. This study also discussed the spatial variation and uncertainty of drag and inertia coefficients and their impacts on the predicted wave attenuation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14297</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14297/13569</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Che-Wei Chang, Yu-Lin Tsai, Nobuhito Mori</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14215</identifier>
+				<datestamp>2025-05-29T06:46:03Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF REPAIR METHODS FOR DAMAGED ROCK ARMOURED SLOPES</dc:title>
+	<dc:creator xml:lang="en">Smith, Seth</dc:creator>
+	<dc:creator xml:lang="en">Shand, Tom</dc:creator>
+	<dc:creator xml:lang="en">Whittaker, Colin</dc:creator>
+	<dc:description xml:lang="en">When repairing a structure that consists of undersized rock armour, it is common design practice to utilise larger, more stable rock; however, a growing shortage of quarry sites and high-density development along coastal fringes (which limits site accessibility) has increased costs and difficulties sourcing and placing larger rock. Case studies by Stemm and Sorbello (2021), and Bakker (2023) demonstrate that Concrete Armour Units (CAU) can (in some cases) be preferable to rock armour, based on: cost, embodied carbon, and site constraints. However, dissimilar units (CAU, or larger rock sizes) within a repair are expected to have poor interlocking with existing rock armour and can introduce possible fault planes within a structure’s armour layer matrix. This stability reduction is currently not explicitly quantified within The Rock Manual (CIRIA, 2007) or the Coastal Engineering Manual (CEM) (USACE, 2006). Both instead suggest applying design formulae such as the Van Der Meer (VdM) formula (Van der Meer, 1988) and the Hudson formula (Hudson, 1961), using engineering experience or ‘common rules of thumb’. This study aims to evaluate a range of potential repair options for an impermeable, double layer rock armoured slope and provide quantitative data to better understand the performance of typical repair options, and the effect of using differential sized and/or shaped units within each repair.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14215</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14215/13487</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Seth Smith, Tom Shand, Colin Whittaker</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14672</identifier>
+				<datestamp>2025-05-29T08:58:50Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNSTRUCTURED WAVEWATCH III DEVELOPMENTS FOR MULTISCALE MODELING</dc:title>
+	<dc:creator xml:lang="en">Smith, Jane McKee</dc:creator>
+	<dc:creator xml:lang="en">Abdolali, Ali</dc:creator>
+	<dc:creator xml:lang="en">Roland, Aron</dc:creator>
+	<dc:creator xml:lang="en">Michaud, Heloise</dc:creator>
+	<dc:creator xml:lang="en">Hesser, Tyler J.</dc:creator>
+	<dc:creator xml:lang="en">Bryant, Mary Anderson</dc:creator>
+	<dc:description xml:lang="en">The US Army Engineer Research and Development Center (ERDC) is working collaboratively with the National Oceanic and Atmospheric Administration (NOAA), BGS ITandE GmbH, and the French Naval Hydrographic and Oceanographic Service (Shom) to extend the spectral wave modeling with WAVEWATCH III (WW3) (WW3DG 2019) from global and basin scales (e.g., ERDC Wave Information Studies hindcasting and NOAA forecasting) to local, nearshore processes into the surf zone. WW3 is undergoing rapid community development (Alves, et al. 2023). The unstructured, implicit solution option in WW3 provide flexibility and efficiency to resolve complex shorelines and high- gradient wave zones to drive nearshore circulation, wave setup, and wave-driven sediment transport with multi- scale spatial coverage over approximately three orders of magnitude. A hybrid approach to parallelization uses spectral partitioning for advection in geographical space and domain decomposition for spectral advection and the source term integration. The advection part of wave action equation is integrated fully implicitly, and a new convergent action limiter derived from Komen et al. (1994) and Hersbach and Janssen (1999) is applied. This paper describes model enhancements and validation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14672</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14672/13944</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Jane McKee Smith, Ali Abdolali, Aron Roland, Heloise Michaud, Tyler J. Hesser, Mary Anderson Bryant</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

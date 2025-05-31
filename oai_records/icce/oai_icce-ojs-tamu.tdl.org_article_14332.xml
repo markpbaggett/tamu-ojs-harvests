@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14332</identifier>
+				<datestamp>2025-05-29T06:11:34Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A GLOBAL DATABASE OF GEOPHYSICAL, HYDRODYNAMIC AND SOCIOECONOMIC INDICATORS AT THE COAST</dc:title>
+	<dc:creator xml:lang="en">Athanasiou, Panagiotis</dc:creator>
+	<dc:creator xml:lang="en">Dongeren, Ap van</dc:creator>
+	<dc:creator xml:lang="en">Pronk, Maarten</dc:creator>
+	<dc:creator xml:lang="en">Giardino, Alessio</dc:creator>
+	<dc:creator xml:lang="en">Vousdoukas, Michalis</dc:creator>
+	<dc:creator xml:lang="en">Ranasinghe, Roshanka</dc:creator>
+	<dc:description xml:lang="en">Around 10 percent of the global population lives in low- lying coastal areas (MacManus, 2021). Several economic activities also develop in these areas. At the same time, they are home to some of the richest ecosystems. Coastal zones are quite susceptible to extreme storms and sea level rise driven by climate change (IPCC, 2021). During the last couple of years, a high number of global datasets have become available, describing different aspects of the earth’s surface such as land-elevation, land-use, waves, water-levels and more. However, for studies focusing in the coastal zone, it is important that this type of information is available directly at coastal locations and in a consistent manner. Previous research (Athanasiou, 2019) has shown the importance of the spatial variability of the input geophysical data when assessing coastal hazards at large spatial scales. In this research we present a Global database of Coastal Characteristics (GCC) with 80 indicators that span the geophysical, hydrometeorological and socioeconomic environment at the coast. These indicators are extracted using the latest freely available global datasets and a newly created global high- resolution transect system. Even though these indicators are derived from global datasets, they can be valuable for coastal screening studies, especially for data-poor locations.                             </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14332</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.118</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.118</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14332/13604</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Panagiotis Athanasiou, Ap van Dongeren, Maarten Pronk, Alessio Giardino, Michalis Vousdoukas, Roshanka Ranasinghe</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

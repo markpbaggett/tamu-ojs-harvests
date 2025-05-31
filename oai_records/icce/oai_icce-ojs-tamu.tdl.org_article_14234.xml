@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14234</identifier>
+				<datestamp>2025-05-29T06:50:34Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SCALDIS-COAST: A NUMERICAL MODEL FOR LONG-TERM MORPHOLOGY OF THE BELGIAN COAST USING THE TELEMAC-MASCARET SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Wang, Li</dc:creator>
+	<dc:creator xml:lang="en">Breugem, Alexander</dc:creator>
+	<dc:creator xml:lang="en">Kolokythas, Gerasimos</dc:creator>
+	<dc:creator xml:lang="en">Maerschalck, Bart De</dc:creator>
+	<dc:creator xml:lang="en">Decrop, Boudewijn</dc:creator>
+	<dc:description xml:lang="en">The sea level rise poses a growing threat to the coastal safety. The Flemish Authorities launched the Complex Project Kustvisie (CPKV) to define the overall long-term coastal defense strategy for the Belgian Coast together with all involved stakeholders. In order to strengthen the coastal defense and investigate different future scenarios in an efficient, flexible and integrated way, a reliable estimate of the sediment transport in the coastal zone remains of considerable practical importance. In the present study, a 2D morphodynamic model (Scaldis- Coast) was developed to provide a tool which can be employed to simulate the long-term morphological evolution of the Belgian Coast.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14234</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.73</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.73</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14234/13506</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Li Wang, Alexander Breugem, Gerasimos Kolokythas, Bart De Maerschalck, Boudewijn Decrop</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

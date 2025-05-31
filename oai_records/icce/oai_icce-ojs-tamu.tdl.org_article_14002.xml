@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14002</identifier>
+				<datestamp>2025-05-29T06:12:35Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME VALUE ANALYSIS OF COASTAL INUNDATION FOR THE DESIGN OF COASTAL PROTECTION IN CAMARINES SUR, PHILIPPINES</dc:title>
+	<dc:creator xml:lang="en">Garcia, Elias A.</dc:creator>
+	<dc:creator xml:lang="en">Cruz, Eric C.</dc:creator>
+	<dc:creator xml:lang="en">Abrigonda, Vince Rainer A.</dc:creator>
+	<dc:creator xml:lang="en">Dita, Andrei Raphael P.</dc:creator>
+	<dc:description xml:lang="en">Coastal flooding is a natural hazard that is eminent in many Philippine coastlines. Both storm tide flooding and wave overtopping have been found to occur along Philippine coastlines and they usually also cause coastal erosion in coastlines where there is no natural protection against the waves and tides. To appropriately design coastal protection structures to mitigate these hazards, ensuring sufficient level of protection and considering economic constraints (i.e., cost), it is necessary to determine the design water level among other parameters. For design purposes, it is important to know the frequency of occurrence of extreme water levels. However, there are no long-term water level records in the project area, so an alternative approach via extreme value analysis was performed based on simulated water levels from numerical simulations. The resulting coastal inundation corresponding to 100-yr return period, the level of protection required for urban areas as per DPWH DGCS Volume 3, ranges from 0.38 to 2.34 m along the project coastline while for urban areas with 25-yr return period, the design coastal inundation reaches up to 1.65 m. Coastal protection structures to be proposed should then be vertically sited higher than these design water levels.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14002</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14002/13274</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Elias A. Garcia, Eric C. Cruz, Vince Rainer A. Abrigonda, Andrei Raphael P. Dita</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

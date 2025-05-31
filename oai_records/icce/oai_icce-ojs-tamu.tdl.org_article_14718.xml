@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14718</identifier>
+				<datestamp>2025-05-29T09:22:30Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATING BEACH AND DUNE EVOLUTION DUE TO LONGSHORE TRANSPORT, AEOLIAN TRANSPORT AND DUNE EROSION</dc:title>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:creator xml:lang="en">Kroon, Anna</dc:creator>
+	<dc:creator xml:lang="en">Attema, Ype</dc:creator>
+	<dc:creator xml:lang="en">Bakker, Anouk de</dc:creator>
+	<dc:creator xml:lang="en">Huisman, Bas</dc:creator>
+	<dc:description xml:lang="en">Dune dynamics play an important role in the cross-shore redistribution of sand volume. Though dune erosion during storms is a short-term process on the timescale of days, the effects on the coastal system may be long-term. On the other hand, the recovery or growth of the dune by wind-blown sand originating from the beach and intertidal zone, is on average 10 m3/m per year along the Dutch coast. It is therefore an important source and sink term for coastline evolution. Here we describe the implementation in the ShorelineS code (Roelvink et al, 2020) as a separate module, that can be activated if relevant for the specific coastal zone. Furthermore, this can help to specify practical choices in the set-up of a model, when simulating a coastal zone with both accreting and eroding sections, it is more realistic to be able to separately specify an active height for the underwater profile (depth of closure up to dune foot) and dune profile (dune foot to dune height).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14718</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.98</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.98</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14718/13990</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Dano Roelvink, Anna Kroon, Ype Attema, Anouk de Bakker, Bas Huisman</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

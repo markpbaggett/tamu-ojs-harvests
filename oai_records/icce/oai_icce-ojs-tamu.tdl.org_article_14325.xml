@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14325</identifier>
+				<datestamp>2025-05-29T06:11:33Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPACT OF DATA ASSIMILATION FOR TYPHOON-GENERATED EXTREME WAVE BASED ON DRIFTING WAVE BUOY OBSERVATION</dc:title>
+	<dc:creator xml:lang="en">Yamasaki, Gota</dc:creator>
+	<dc:creator xml:lang="en">Shimura, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Miyashita, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">Typhoon-generated extreme waves are a major factor to be considered for coastal disaster risk management in the mid- latitude of the North Western Pacific and the North Atlantic. Therefore, improving the accuracy of the spectral wave model for extreme waves around typhoons is important. Also, compact and inexpensive drifting buoys have been developing in recent years, and their number has increased globally. In this study, we developed a data assimilation system using drifting buoys for typhoon-generated extreme waves. First, we investigate the assimilation method of the significant wave heights into the wave spectral model. Second, the assimilation model of frequency spectra is developed. We show the effectiveness of the data assimilation of drifting buoy observations for the open ocean on extreme waves along the Japanese coast.                              </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14325</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14325/13597</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Gota Yamasaki, Tomoya Shimura, Takuya Miyashita, Nobuhito Mori</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

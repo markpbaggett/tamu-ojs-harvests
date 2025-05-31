@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14503</identifier>
+				<datestamp>2025-05-29T06:46:51Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">JOINT PROBABILITY METHOD AIDED BY METAMODEL PREDICTION FOR HURRICANE HAZARDS</dc:title>
+	<dc:creator xml:lang="en">Nadal-Caraballo, Norberto C.</dc:creator>
+	<dc:creator xml:lang="en">Yawn, Madison C.</dc:creator>
+	<dc:creator xml:lang="en">Aucoin, Luke A.</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Victor M.</dc:creator>
+	<dc:creator xml:lang="en">Carr, Meredith L.</dc:creator>
+	<dc:creator xml:lang="en">Stehno, Abigail L.</dc:creator>
+	<dc:creator xml:lang="en">Melby, Jeffrey A.</dc:creator>
+	<dc:creator xml:lang="en">Massey, Chris</dc:creator>
+	<dc:creator xml:lang="en">Taflanidis, Alexandros A.</dc:creator>
+	<dc:creator xml:lang="en">Bensi, Michelle T.</dc:creator>
+	<dc:description xml:lang="en">The quantification of coastal hazards caused by tropical cyclones (TCs) faces challenges due to insufficient historical observations, particularly for intense hurricanes, and other data limitations. In the wake of Hurricane Katrina in 2005, a hybrid probabilistic/process-based modeling approach known as the Joint Probability Method (JPM) went through in-depth scruntinity and significant improvements, spurred by the Interagency Performance Evaluation Taskforce (IPET 2009). As a result of this forensic study, IPET developed the JPM with Optimal Sampling (JPM-OS) technique for the analysis of extreme coastal flooding resulting from hurricanes. This collaborative effort involved several U.S. federal agencies, the private sector, and academic researchers. The IPET’s JPM-OS became a standard for U.S. federal agencies, including the U.S. Army Corps of Engineers (USACE) and the Federal Emergency Management Agency (FEMA), for assessing coastal storm risks in areas susceptible to hurricanes. However, this led to the development of two distinct JPM-OS variants, each with different advantantages and limitations. Since then, JPM has informed numerous storm surge and hurricane hazard studies led by the federal government, academia, and private sector. During the last decade, considerable effort was made to address limitations of existing JPM-OS approaches. Advancements in multi-variate statistics and machine learning (ML) led to the development of a more robust version of the JPM called JPM Aided by Metamodel Prediction (JPM-AMP).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14503</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.173</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.173</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14503/13775</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Norberto C. Nadal-Caraballo, Madison C. Yawn, Luke A. Aucoin, Victor M. Gonzalez, Meredith L. Carr, Abigail L. Stehno, Jeffrey A. Melby, Chris Massey, Alexandros A. Taflanidis, Michelle T. Bensi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

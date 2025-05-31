@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14602</identifier>
+				<datestamp>2025-05-29T07:14:56Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STOKES DRIFT AND CURRENT PROFILES IN THE NEARSHORE: LABORATORY EXPERIMENT USING 3D PARTICLE TRACKING VELOCITY</dc:title>
+	<dc:creator xml:lang="en">Bayle, Paul, Maxime</dc:creator>
+	<dc:creator xml:lang="en">Mol, Jessamy</dc:creator>
+	<dc:creator xml:lang="en">Bakker, Wout</dc:creator>
+	<dc:creator xml:lang="en">Bremer, Ton Van den</dc:creator>
+	<dc:description xml:lang="en">The presence of marine pollutants such as marine plastics has increased significantly over the last decades and poses a major environmental problem. In the nearshore zone, extending from the shoreline to a few kilometres offshore, waves propagating at the surface of the ocean generate currents that play an important role in the transport, mixing and diffusion of marine pollutants. The modelling of marine transport in the nearshore area is therefore crucial for mitigation purposes, and rely on a good understanding of wave-induced currents in the water column (Moulton et al., 2022). Laboratory experiments have been performed in the last decades to address these questions and enhance our understanding of cross-shore wave-induced currents profile in the nearshore. In parallel, the development of new flow measurement techniques and technologies over the last decades has significantly improved our capability to accurately measure particle trajectory, hence investigate the Stokes drift (van den Bremer et al., 2019) and current profiles. The present study performs a laboratory experiment using for the first time 3D Particle Tracking Velocity (PTV) to investigate wave-induced currents in the nearshore.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14602</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.188</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.188</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14602/13874</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Paul, Maxime Bayle, Jessamy Mol, Wout Bakker, Ton Van den Bremer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14620</identifier>
+				<datestamp>2025-05-29T07:36:45Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MULTIVARIATE ASSIMILATION METHOD FOR WAVE DYNAMICAL DOWNSCALING</dc:title>
+	<dc:creator xml:lang="en">Solari, Sebastian</dc:creator>
+	<dc:creator xml:lang="en">Alonso, Rodrigo</dc:creator>
+	<dc:description xml:lang="en">Good quality, long-term wave series are a key aspect for the study of coastal problems and for the design of coastal and harbor works. Recent years have seen a significant improvement in the quality of global and local wave reanalyzes. They have increased their spatial and temporal resolution, as well as reduced errors, mainly in terms of total energy or Hm0 (e.g. Alonso and Solari 2020, Hersbach et al. 2020), although improvement in other parameters, such as direction and period, remains more challenging. This paper proposes a novel method for the assimilation of data measured on site when downscaling a wave reanalysis to the coast. The method is based on the use of multivariate bias correction (MBC) techniques to correct the boundary conditions of the numerical model. The proposed technique allows to: (a) incorporate the measured data to the entire computational domain (unlike the technique of Minguez et al, which allows for point corrections only), (b) to incorporate, in addition to wave height data, period and direction data, which usually present larger errors than the former (see e.g. Alonso and Solari 2020, 2021), and (c) to extend the correction (assimilation) to the whole period of the reanalysis, not only to the measured period, similar to what is achieved by parameter calibration (Wang et al. 2021).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14620</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.84</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.84</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14620/13892</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Sebastian Solari, Rodrigo Alonso</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

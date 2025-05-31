@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14669</identifier>
+				<datestamp>2025-05-29T08:23:04Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MULTIVARIATE COASTAL HAZARD RESPONSES WITH STOCHASTIC SIMULATION</dc:title>
+	<dc:creator xml:lang="en">Hodgens, Kevin C.</dc:creator>
+	<dc:creator xml:lang="en">Stehno, Abigail L.</dc:creator>
+	<dc:creator xml:lang="en">Melby, Jeffrey A.</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Victor</dc:creator>
+	<dc:creator xml:lang="en">Nadal-Caraballo, Norberto C.</dc:creator>
+	<dc:creator xml:lang="en">Yawn, Madison</dc:creator>
+	<dc:creator xml:lang="en">Garcia-Moreno, Fabian</dc:creator>
+	<dc:creator xml:lang="en">Aucoin, Luke</dc:creator>
+	<dc:description xml:lang="en">Improvements to deterministic coastal structure design equations and evaluation methodologies are documented in several studies and incorporated into software that supports probabilistic coastal structure design and coastal hazard analysis. These improvements followed advancements in computational infrastructure, coastal structure research and development, and regional high- fidelity hazard datasets spanning the practical probability space for coastal storm events. With completion of the South Atlantic Coastal Study (SACS), high-fidelity numerical model results and associated statistics are now available to stakeholders performing probabilistic risk and risk-mitigating design analyses via the Coastal Hazards System (CHS; https://chs.erdc.dren.mil). This data is available for the entire Gulf of Mexico and Atlantic Ocean shorelines of the United States, including Puerto Rico and the U.S. Virgin Islands (Nadal-Caraballo et al., 2022). With the ability to easily acquire probabilistic coastal hazard datasets from the CHS, advancements to established deterministic approaches for coastal structure design are possible (Melby et al., 2005). Described herein are some of the feasibility and design studies of coastal risk mitigation alternatives that contributed to the creation of the Stochastic Storm Simulation (StormSim) tools.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14669</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.216</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.216</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14669/13941</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Kevin C. Hodgens, Abigail L. Stehno, Jeffrey A. Melby, Victor Gonzalez, Norberto C. Nadal-Caraballo, Madison Yawn, Fabian Garcia-Moreno, Luke Aucoin</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

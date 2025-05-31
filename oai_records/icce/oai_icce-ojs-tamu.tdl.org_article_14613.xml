@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14613</identifier>
+				<datestamp>2025-05-29T07:49:17Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">POROUS ARTIFICIAL REEFS: THE ROLES OF REFLECTION, BREAKING AND DRAG IN WAVE ATTENUATION</dc:title>
+	<dc:creator xml:lang="en">Geldard, Justin Edward</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Ryan</dc:creator>
+	<dc:creator xml:lang="en">Draper, Scott</dc:creator>
+	<dc:creator xml:lang="en">Ghisalberti, Marco</dc:creator>
+	<dc:creator xml:lang="en">Ellwood, George</dc:creator>
+	<dc:creator xml:lang="en">Allen, Matthew</dc:creator>
+	<dc:description xml:lang="en">Artificial reef structures create habitat for marine organisms. However, they can also be designed to provide similar levels of coastal protection to natural reefs, as well as potentially more traditional engineered structures (e.g., submerged rubble mound breakwaters (Geldard et al. 2022)). Surface waves dissipate energy across submerged structures through a combination of (1) the partial reflection of waves offshore and (2) depth-limited wave breaking and, for reefs with high internal porosity, (3) dissipation by drag forces due to flows within the reef. For modular reefs where they can be separated into distinct reef rows, wave reflection can also be influenced by a combination of reflection from the offshore slope of the reef, as well as resonant interactions (Bragg scattering) of incident waves with the spacing of reef rows (e.g. Jeon and Cho (2006)). The contribution of each of these mechanisms to the overall wave attenuation will be influenced by geometric properties of the artificial reef, which will differ from submerged rubble mound breakwaters, as well as the wave and water level conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14613</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.82</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.82</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14613/13885</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Justin Edward Geldard, Ryan Lowe, Scott Draper, Marco Ghisalberti, George Ellwood, Matthew Allen</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

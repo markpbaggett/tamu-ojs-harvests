@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14501</identifier>
+				<datestamp>2025-05-29T06:46:47Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CASE STUDY FOR FUTURE WAVE ENERGY EXPLOITABILITY (2020 - 2050) IN THE BELGIAN CONTINENTAL SHELF</dc:title>
+	<dc:creator xml:lang="en">Meneses, Paulino</dc:creator>
+	<dc:creator xml:lang="en">Corrales-Gonzalez, Manuel</dc:creator>
+	<dc:creator xml:lang="en">Stratigaki, Vasiliki</dc:creator>
+	<dc:creator xml:lang="en">Mendoza, Edgar</dc:creator>
+	<dc:creator xml:lang="en">Besio, Giovanni</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:description xml:lang="en">The wave energy sector aims to reduce the costs and maximize the Wave Energy Converter (WEC) power absorption to reach parity with other renewable energies. Likewise, the continuous change in the local metocean conditions due to several mid and long-term atmospheric and ocean events, and the reduction in air pollution from the extraction of non-renewable energies have prompted a meticulous examination regarding the WEC performance (Lavidas, 2019). Specifically, for the Belgian Continental Shelf (BCS) a performance assessment of several WECs at different locations has been developed. The eleven locations for evaluating the WECs are shown. The wave information at those locations has been estimated through numerical wave modeling by using the Simulation Wave Nearshore (SWAN) model (Booij, et. al., 1996). The numerical model setup consists of three nested meshes with resolutions of 5 x 5 km, 1 x 1 km, and 200 x 200 m. The bathymetry is based on ETOPO-1 (Eakins, et. al., 2010) and Agency for Maritime and Coastal Services (MDK). The model setup was forced with the ERA5-reanalysis (Hersbach, et. al. ,2023) wind database for 11 years (2010 – 2021). Then, the spectral parameters were validated for 2015 with the BVH buoy data (Meetnet Vlaamse Banken, 2023).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14501</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.171</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.171</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14501/13773</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Paulino Meneses, Manuel Corrales-Gonzalez, Vasiliki Stratigaki, Edgar Mendoza, Giovanni Besio, Peter Troch</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

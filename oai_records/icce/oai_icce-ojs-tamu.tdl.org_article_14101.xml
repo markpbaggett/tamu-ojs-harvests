@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14101</identifier>
+				<datestamp>2025-05-29T06:12:50Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN EFFICIENT HYBRID DOWNSCALING OF NEARSHORE DIRECTIONAL WAVE SPECTRA FOR LONG-TERM SHORELINE MODELLING</dc:title>
+	<dc:creator xml:lang="en">Cagigal, Laura</dc:creator>
+	<dc:creator xml:lang="en">Méndez, Fernando</dc:creator>
+	<dc:creator xml:lang="en">Ricondo, Alba</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen</dc:creator>
+	<dc:description xml:lang="en">Developing robust methodologies for predicting sandy shoreline changes over the next 10 to 50 years is a significant concern for coastal communities worldwide. Improving these shoreline models necessitates the refinement of the wave time series used to drive these models, as well as the accurate reproduction of the complete directional wave spectra, as opposed to relying on classic bulk parameters. The development of high-quality wave time series can be pursued through full dynamical downscaling of waves, establishing statistical relationships between offshore and nearshore waves, or employing hybrid methods. Hybrid models combine the computational efficiency of statistical models with the precision and detail of dynamical downscaling models, resulting in faster and more cost-effective wave predictions. While dynamical downscaling is the conventional approach in small geographical areas, hybrid methods are better suited for regional shoreline analyses and for examining long time series under various climate scenarios. In this study, we propose the utilization of BinWaves, an additive hybrid method, to downscale waves along the coastlines of New South Wales (NSW), Australia.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14101</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.21</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.21</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14101/13373</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Laura Cagigal, Fernando Méndez, Alba Ricondo, Kristen Splinter</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

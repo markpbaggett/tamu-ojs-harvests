@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14173</identifier>
+				<datestamp>2025-05-29T06:31:39Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE IMPACT OF DAMPING COEFFCIENTS ON DYNAMIC BLADE MOTION OF FLEXIBLE SUBMERGED VEGETATION</dc:title>
+	<dc:creator xml:lang="en">Prüter, Inga</dc:creator>
+	<dc:creator xml:lang="en">Keimer, Kara</dc:creator>
+	<dc:creator xml:lang="en">Spröer, Felix</dc:creator>
+	<dc:creator xml:lang="en">Lojek, Oliver</dc:creator>
+	<dc:creator xml:lang="en">Windt, Christian</dc:creator>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:description xml:lang="en">Aquatic vegetation is known to provide several coastal ecosystem benefits, such as wave attenuation, sediment accumulation and soil stabilization (Rupprecht et al. 2017). To assess and quantify these benefits in the context of non-linear interactions between flexible submerged vegetation and hydrodynamic forces requires the advancement of state-of-the-art numerical models. An accurate estimation of the ecosystem benefits entails the consideration of field data, as a basis for an accurate modeling of the natural conditions in laboratory or numerical settings (e.g., Keimer et al. 2023). Empirically-derived parameters, such as the drag coefficient, are difficult to obtain from field data, requiring the employment of a numerical model that enables a direct coupling of the forces exerted by the hydrodynamic velocity and pressure field onto the vegetation elements. The open-source numerical model REEF3D::CFD has been used before in a one-way coupling of the forces by Martin and Bihs (2021). A two- way coupling that extends the previous work on aquaculture fish cage gear is now validated within the REEF3D::CFD frame work, aiming at an increased accuracy of the available numerical code.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14173</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.52</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.52</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14173/13445</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Inga Prüter, Kara Keimer, Felix Spröer, Oliver Lojek, Christian Windt, Ioan Nistor, Nils Goseberg</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

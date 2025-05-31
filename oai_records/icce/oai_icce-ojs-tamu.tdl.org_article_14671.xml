@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14671</identifier>
+				<datestamp>2025-05-29T10:33:20Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE CONDITIONS FOR SEDIMENT ACCRETION ON SALT MARSHES</dc:title>
+	<dc:creator xml:lang="en">Veelen, Thomas van</dc:creator>
+	<dc:creator xml:lang="en">Nepf, Heidi</dc:creator>
+	<dc:creator xml:lang="en">Hulscher, Suzanne</dc:creator>
+	<dc:creator xml:lang="en">Borsje, Bas</dc:creator>
+	<dc:description xml:lang="en">Salt marshes are vegetated intertidal wetlands that evolve over time. They provide valuable ecosystem services in the form of coastal protection, carbon sequestration and as a habitat for flora and fauna (Temmerman et al., 2023). These benefits are affected by the expansion and retreat of salt marshes (Fagherazzi et al., 2020). A resilient marsh attracts sufficient sediment to keep up with sea level rise. Tidal currents and waves transport sediment to the marsh, where the interaction between currents, waves, sediment and vegetation can lead to accretion. However, morpho- dynamic models often employ transport equations that were developed for bare beds and may not accurately simulate transport and accretion over vegetated beds. In this study, we aim to identify the conditions under which sediment accretion can occur. We introduce a new sediment transport equation for vegetated beds under combined wave-current flows in a morphodynamic model. The model is then applied to simulate accretion patterns on two contrasting field sites. The outcomes support the assessment of salt marsh resilience and the design of management interventions that benefit accretion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14671</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.86</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.86</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14671/13943</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Thomas van Veelen, Heidi Nepf, Suzanne Hulscher, Bas Borsje</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

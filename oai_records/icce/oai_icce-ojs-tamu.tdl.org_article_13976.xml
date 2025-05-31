@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13976</identifier>
+				<datestamp>2025-05-29T06:12:31Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CONSIDERATION OF A NON-HYDROSTATIC ATMOSPHERE-OCEAN COUPLED MODEL FOR SIMULATING TROPICAL CYCLONES</dc:title>
+	<dc:creator xml:lang="en">Shirai, Tomoki</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">Accurate prediction of coastal hazards, such as tropical cyclones (TC), storm surges, and high waves, is essential for mitigating damage and saving lives. While TC track prediction accuracy has significantly improved, the prediction of TC intensity variables, like minimum central pressure and maximum wind speed, has seen limited progress. A critical factor in enhancing TC intensity prediction is the consideration of the interactions between TCs and the ocean, particularly ocean cooling caused by vertical mixing and upwelling. Recent advancements in computational capacity have enabled the use of three-dimensional (3D) ocean models, overcoming the limitations of simpler models such as slab or one-dimensional mixed layer models. Recently, some studies have shown that non-hydrostatic solvers can influence ocean responses to TCs in the open ocean. In this study, we aim to develop a model that can consistently predict phenomena of various scales, from ocean response to TCs in the open ocean to coastal inundation during TCs by using the STOC (Storm Surge and Tsunami Simulator in Oceans and Coastal Areas, Tomita and Kakinuma 2005), which was originally developed for simulating storm surges, as a 3D model. In this paper, as a first step, the potential and challenges of using the STOC model for non-hydrostatic ocean simulations will be explored through preliminary atmosphere-ocean coupling simulation results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13976</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13976/13248</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tomoki Shirai, Taro Arikawa</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

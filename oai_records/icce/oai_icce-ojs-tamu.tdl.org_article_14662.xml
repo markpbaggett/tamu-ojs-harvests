@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14662</identifier>
+				<datestamp>2025-05-29T08:22:47Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING WAVE HYDRODYNAMICS AROUND POROUS ARTIFICIAL REEF WITH COUPLED MESH-BASED AND MESHLESS NUMERICAL METHODS</dc:title>
+	<dc:creator xml:lang="en">Tang, Chao</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Ryan</dc:creator>
+	<dc:creator xml:lang="en">Hansen, Jeff</dc:creator>
+	<dc:creator xml:lang="en">Silva, Renan</dc:creator>
+	<dc:creator xml:lang="en">Altomare, Corrado</dc:creator>
+	<dc:description xml:lang="en">Nature-based coastal protection solutions, such as artificial reefs, often consist of porous modules with complex geometries. While the porous designs are due to the requirements of promoting benthic habitat and attenuating incident waves, it is unclear how porosity and novel shapes affect the hydrodynamics near the modules. Meshless computational fluid dynamics (CFD) models are ideal for simulating the detailed hydrodynamic interactions between the waves and novel-shaped porous coastal structures. However, such CFD methods are computationally demanding, constraining the model domains to the immediate vicinity of structures. In comparison, mesh-based wave models can simulate larger scales due to the smaller computational demands but lack the required details to understand the impact of structural porosity. The aim of this work is to present a 3D coupled numerical model of mesh-based and meshless methods for simulating the wave-driven hydrodynamics near porous artificial reef modules to reproduce the physical experiments in a large-scale wave flume.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14662</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.107</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.107</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14662/13934</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Chao Tang, Ryan Lowe, Jeff Hansen, Renan Silva, Corrado Altomare</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

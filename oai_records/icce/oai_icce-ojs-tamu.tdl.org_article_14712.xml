@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14712</identifier>
+				<datestamp>2025-05-29T09:20:12Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">RECONSTRUCTION OF THE TRASMITTED WAVE SPECTRA BEHIND A SUBMERGED SMOOTH OBSTACLE</dc:title>
+	<dc:creator xml:lang="en">Corvaro, Sara</dc:creator>
+	<dc:creator xml:lang="en">Rocchi, Stefania</dc:creator>
+	<dc:creator xml:lang="en">Marini, Francesco</dc:creator>
+	<dc:creator xml:lang="en">Lorenzoni, Carlo</dc:creator>
+	<dc:creator xml:lang="en">Mancinelli, Alessandro</dc:creator>
+	<dc:description xml:lang="en">The presence of a submerged obstacle (sand bar or breakwater) induces a reduction of the transmitted wave energy mainly due to wave breaking dissipation. Moreover, the spectral shape behind such obstacles changes from the incoming one. An energy transfer towards higher frequencies, with respect to the peak frequency fp, is observed due to the non-linear interactions that occur during the passage over the bar for both random (Beji and Battjes, 1993) and regular waves (Losada et al., 1997). Van der Meer et al. (2000) studied the spectral change behind a low-crested structure. They found that 40percent of the energy in the transmitted wave spectra was in the range 1.5fp-3.5fp. This energy transfer was assumed to be independent of the incident wave parameters and the breakwater geometry. In the present work, an experimental campaign was carried out to study the influence of the main wave/geometry parameters in the spectral energy distribution behind a submerged obstacle and to more accurately reconstruct transmitted wave spectra. Such analysis can be useful for the phenomena which are more influenced by the shape of the transmitted wave spectrum, as the evaluation of the wave run-up in the case of protected beaches.                             </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14712</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.121</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.121</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14712/13984</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Sara Corvaro, Stefania Rocchi, Francesco Marini, Carlo Lorenzoni, Alessandro Mancinelli</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

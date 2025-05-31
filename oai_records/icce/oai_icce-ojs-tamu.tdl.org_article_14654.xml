@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14654</identifier>
+				<datestamp>2025-05-29T08:22:36Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF A SALTWATER-WAVE-CURRENT-FLUME WITH HOLDING TANK AND WATER TREATMENT PLANT</dc:title>
+	<dc:creator xml:lang="en">Krautwald, Clemens</dc:creator>
+	<dc:creator xml:lang="en">Schweiger, Constantin</dc:creator>
+	<dc:creator xml:lang="en">Schürenkamp, David</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:description xml:lang="en">With the ever-increasing demand for renewable energy sources, the significance of both cost-efficiency and lifetime assessment of offshore wind energy plants has been growing substantially (Zhang et al., 2013; Ziegler and Muskulus, 2016). This necessitates the development of more precise design guidelines (Haselibozchaloee et al., 2022). The support structure of an offshore wind turbine marks a key part by accommodating aero- and hydrodynamic loads. During structural design, the evaluation of hydrodynamic loads relies mostly on simplified analytical methodologies such as the MOJS equation (Morison et al., 1950). The involved drag and inertia coefficients are determined based on considerations such as flow regime and roughness. These determinations often stem from rudimentary experimental investigations in small- to mid-scale test facilities prone to scale effects (Jusoh and Wolfram, 1996; Tian et al., 2020).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14654</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.210</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.210</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14654/13926</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Clemens Krautwald, Constantin Schweiger, David Schürenkamp, Nils Goseberg</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

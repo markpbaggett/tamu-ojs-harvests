@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14226</identifier>
+				<datestamp>2025-05-29T06:47:16Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARATIVE ANALYSIS OF TSUNAMI CASUALTY ESTIMATION APPROACHES</dc:title>
+	<dc:creator xml:lang="en">Takabatake, Tomoyuki</dc:creator>
+	<dc:creator xml:lang="en">Hasegawa, Nanami</dc:creator>
+	<dc:creator xml:lang="en">Yamaguchi, Keita</dc:creator>
+	<dc:description xml:lang="en">Estimating the potential number of casualties resulting from a tsunami is a critical component to mitigate damage from such disasters. While agent-based models (ABMs), which can consider detailed human evacuation behavior, have increasingly been used for tsunami casualty estimations in coastal areas (e.g., Wang et al. 2022; Mostafizi et al. 2017), they require substantial computational resources and extensive preparation time. Given the challenges of deploying ABMs across widespread coastal areas at risk of tsunamis, a more simplified approach is often preferred, especially for national-level assessments (Central Disaster Management Council [CDMC] of Japan, 2013). In the simplified approach, the evacuation time is estimated using a straight-line distance from the initial position of an evacuee to the closest evacuation destination and the evacuee’s moving speed (more specifically, a straight-line distance multiplied by 1.5 is often used as an effective evacuation path length). The arrival time of the tsunami at the evacuation destination is then used to assess whether an evacuee would become a casualty. The primary objective of the present study is thus to elucidate the discrepancies between the two approaches in estimating potential number of casualties, especially when considering road blockages. Additionally, the present study endeavored to formulate regression equations for the rapid estimation of casualty numbers.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14226</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.68</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.68</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14226/13498</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tomoyuki Takabatake, Nanami Hasegawa, Keita Yamaguchi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

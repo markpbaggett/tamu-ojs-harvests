@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14113</identifier>
+				<datestamp>2025-05-29T06:12:52Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL HAZARD MITIGATION VIA STRUCTURAL SHAPE MODIFICATION: INVESTIGATING THE INFLUENCE OF CURVED STRUCTURAL CROSS-SECTIONS ON WAVE FORCES USING SPH MODELING</dc:title>
+	<dc:creator xml:lang="en">Wu, Gaoyuan</dc:creator>
+	<dc:creator xml:lang="en">Pawitan, Krisna Adi</dc:creator>
+	<dc:creator xml:lang="en">Garlock, Maria</dc:creator>
+	<dc:description xml:lang="en">When hurricanes strike, the forces of hurricane- induced waves acting on coastal structures may cause significant damage and loss to coastal communities. For instance, structures were damaged by the strikes of Hurricane Ivan (2004), Hurricane Katrina (2005) and Typhoon Haiyan (2013), which led to tremendous loss (Chen et al., 2021). Previous studies have shown that structural geometry plays a significant role in determining the associated wave forces and well-designed structural geometries would be able to reduce wave force magnitude and thus facilitate coastal resilience (Hayatdavoodi and Cengiz Ertekin, 2016; Chen et al., 2021).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14113</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.19</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.19</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14113/13385</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Gaoyuan Wu, Krisna Adi Pawitan, Maria Garlock</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14493</identifier>
+				<datestamp>2025-05-29T07:27:06Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CFD MODELING OF THE EFFECT OF ANTIFER UNITS USED IN THE ARMOR LAYER OF MOUND BREAKWATERS ON WAVE OVERTOPPING</dc:title>
+	<dc:creator xml:lang="en">Senturk, Baris Ufuk</dc:creator>
+	<dc:creator xml:lang="en">Demir, Furkan</dc:creator>
+	<dc:creator xml:lang="en">Erler, Berkay</dc:creator>
+	<dc:creator xml:lang="en">Korkmaz, Alperen Mulayim</dc:creator>
+	<dc:creator xml:lang="en">Guler, Hasan Gokhan</dc:creator>
+	<dc:creator xml:lang="en">Baykal, Cuneyt</dc:creator>
+	<dc:creator xml:lang="en">Tarakcioglu, Gulizar Ozyurt</dc:creator>
+	<dc:creator xml:lang="en">Kisacik, Dogan</dc:creator>
+	<dc:creator xml:lang="en">Guler, Isikhan</dc:creator>
+	<dc:creator xml:lang="en">Yalciner, Ahmet Cevdet</dc:creator>
+	<dc:creator xml:lang="en">Ergin, Aysen</dc:creator>
+	<dc:description xml:lang="en">Accurate prediction of wave overtopping is crucial for designing mound breakwaters. It is a common practice to use empirical equations (e.g. EurOtop, 2018) to determine wave overtopping discharges for practical purposes. On the other hand, with the help of the exponential increase in computer technology, the use of computational fluid dynamics (CFD) tools for wave overtopping is becoming widespread (e.g. Chen et al., 2021). In coastal engineering CFD applications, it is a common practice to model the mound breakwaters using a macro porous media modeling approach, where the overall flow behavior through the porous media is mimicked (Guler, 2020). Volume-averaged Reynolds- averaged Navier–Stokes (VARANS) equations are an integral part of the macro porous media modeling approach. However, the appropriate application of VARANS equations strongly depends on the friction coefficients, especially when investigating the processes around the porous regions. These coefficients appear in the VARANS equations due to volume averaging based on the Darcy-Forchheimer Equation. Although Jensen et al. (2014) previously carried out an extensive study for the calibration of these friction coefficients under different conditions considering flow through rocks, the effects of different armor units, placement methods, and packing density have not been studied in the literature yet. This study delves into the calibration of friction coefficients within the VARANS equations for Antifer units used in the armor layer of mound breakwaters with different placement methods (closed pyramid, double pyramid, and irregular) and packing densities by comparing the results with the physical model experiments. Thus, this research aims to increase the accuracy of CFD assessments on wave overtopping, offering important opportunities for the design of coastal structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14493</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.85</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.85</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14493/13765</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Baris Ufuk Senturk, Furkan Demir, Berkay Erler, Alperen Mulayim Korkmaz, Hasan Gokhan Guler, Cuneyt Baykal, Gulizar Ozyurt Tarakcioglu, Dogan Kisacik, Isikhan Guler, Ahmet Cevdet Yalciner, Aysen Ergin</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

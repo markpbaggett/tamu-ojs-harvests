@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14145</identifier>
+				<datestamp>2025-05-29T06:12:57Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">QUANTIFYING THE ROLE OF OFFSHORE BAR MORPHOLOGY ON RUNUP AND DUNE EROSION</dc:title>
+	<dc:creator xml:lang="en">Itzkin, Michael</dc:creator>
+	<dc:creator xml:lang="en">Conti, Stefano</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen</dc:creator>
+	<dc:creator xml:lang="en">Turner, Ian L</dc:creator>
+	<dc:description xml:lang="en">Runup is the wave-driven component of the total water level and is a critical metric for characterizing exposure to coastal hazards (Sallenger, 2000; Stockdon et al., 2006). The vertical extent of wave runup is typically parameterized as a function of offshore wave characteristics and beach slope (e.g., Stockdon et al., 2006). Recent research has considered the role of nearshore bars in regulating wave breaking and found that the depth of the bar regulates the elevation of runup at the shoreline (e.g., Cohn et al., 2014). However, the relationship between the morphology of the bar and the various hydrodynamic components related to runup (i.e., swash and setup) has not been explored. Further, the relationship between the bar morphology and the style of dune erosion has not been analyzed. In this study we use the numerical model XBeach (XB; Roelvink et al., 2009) to reproduce a flume experiment performed at the University of New South Wales (UNSW) Sydney Water Research Laboratory (Conti et al., 2023). We then synthesize and modify the bar in the profile to explore how the bar crest depth, bar trough depth and bar distance from the shoreline can affect runup and resulting dune erosion. Note that we use the Conti et al. (2023) study to define initial conditions for XBeach and validate the model setup but not to compare results as that study was ultimately focused on the role of moisture content in the dune on erosion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14145</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14145/13417</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Michael Itzkin, Stefano Conti, Kristen Splinter, Ian L Turner</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

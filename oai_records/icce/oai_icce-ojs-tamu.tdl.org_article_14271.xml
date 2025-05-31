@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14271</identifier>
+				<datestamp>2025-05-29T06:11:25Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESING COMPOUND FLOODING HAZARD IN ESTUARIES BY INTEGRATING A CLIMATE EMULATOR AND A HYBRID METAMODEL</dc:title>
+	<dc:creator xml:lang="en">Camus, Paula</dc:creator>
+	<dc:creator xml:lang="en">Ortiz-Angulo, Jared</dc:creator>
+	<dc:creator xml:lang="en">Méndez, Fernando</dc:creator>
+	<dc:creator xml:lang="en">Castanedo, Sonia</dc:creator>
+	<dc:creator xml:lang="en">Jiménez, Mirian</dc:creator>
+	<dc:creator xml:lang="en">Cagigal, Laura</dc:creator>
+	<dc:creator xml:lang="en">Pérez-Díaz, Beatriz</dc:creator>
+	<dc:description xml:lang="en">Many coastal settlements are located in estuaries where flooding can result from oceanographic sources (e.g. tides, storm surges and waves), but also from river discharge (fluvial) and direct surface runoff (pluvial). These drivers are typically causally linked through associated storms, and may therefore occur simultaneously or in close succession, exacerbating the impact of flooding. Historical observations of these multivariate drivers causing compound flooding represent only a small fraction of the possible range of conditions capable of causing adverse flooding consequences. Therefore, a joint probability method is needed to generate many synthetic extreme multivariate events (tides, storm surge, precipitation and river discharge) capable of producing new combinations of oceanographic and fluvial forcing conditions. On the other hand, a numerical model is required to simulate the compounding effects of spatially distributed interactions between river discharge and downstream sea level in tidal channels and estuaries. However, these models are typically too computationally expensive to dynamically simulate the new full parameter space of oceanographic and pluvial/fluvial conditions that can cause compound flooding.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14271</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.91</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.91</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14271/13543</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Paula Camus, Jared Ortiz-Angulo, Fernando Méndez, Sonia Castanedo, Mirian Jiménez, Laura Cagigal, Beatriz Pérez-Díaz</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14318</identifier>
+				<datestamp>2025-05-29T06:11:32Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD MEASUREMENTS OF TSUNAMI EVACUATION DYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Kim, Joseph</dc:creator>
+	<dc:creator xml:lang="en">Inagaki, Naoto</dc:creator>
+	<dc:creator xml:lang="en">Nistor, Ioan</dc:creator>
+	<dc:creator xml:lang="en">Cornett, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Murphy, Enda</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:description xml:lang="en">The Cascadia Subduction Zone (CSZ) threatens Vancouver Island, Canada, with a significant risk of near- field tsunamis. Both oral history and geological records (Ludwin et al., 2005) document the last major CSZ tsunami event in the year 1700. To mitigate the loss of life during tsunami events, soft measures, such as evacuation planning, have been suggested (Shibayama et al., 2013). Considering that Vancouver Island is expected to face wave arrival times within 20 minutes for a CSZ tsunami (Takabatake et al., 2019), detailed and accurate evacuation planning is essential. Agent-based models (ABMs) have been recommended in preference to Geographic Information Systems (GIS) when performing evacuation assessments as they can portray evacuation dynamics more realistically (Kim et al., 2022). While tsunami evacuation ABMs have been used to assess life safety for multiple coastal communities (Mas et al., 2015), there is a significant lack of data on tsunami evacuation behaviour to inform and calibrate these ABMs.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14318</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.115</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.115</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14318/13590</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Joseph Kim, Naoto Inagaki, Ioan Nistor, Andrew Cornett, Enda Murphy, Nils Goseberg, Tomoya Shibayama</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

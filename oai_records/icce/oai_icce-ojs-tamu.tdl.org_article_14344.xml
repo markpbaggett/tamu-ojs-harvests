@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14344</identifier>
+				<datestamp>2025-05-29T06:11:36Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL FLOODING PROCESSES CAUSED BY SLOW-MOVING TROPICAL CYCLONES</dc:title>
+	<dc:creator xml:lang="en">Inagaki, Naoto</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:description xml:lang="en">Ongoing climate change appears to modify the characteristics of recent tropical cyclones (TCs) and coastal disaster processes caused by them. In particular, some slow-moving TCs and even stalled ones have triggered devastating coastal hazards. In 2018, Hurricane Harvey strayed back and forth over the Gulf of Mexico, which caused prolonged flood damage over the Texas coasts (Blake and Zelinsky, 2018). In 2019, Hurricane Dorian, moving at a speed of 5-7 km/h, destroyed the Bahamas (Avila et al., 2020). Since high-intensity TCs exhibit strong gradient winds, their net wind speeds remain substantial even when these TCs move at a slow speed (Inagaki et al., 2021). This can result in more severe and prolonged damage caused by slow-moving TCs compared to those with typical translation speeds.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14344</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.122</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.122</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14344/13616</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Naoto Inagaki, Tomoya Shibayama</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

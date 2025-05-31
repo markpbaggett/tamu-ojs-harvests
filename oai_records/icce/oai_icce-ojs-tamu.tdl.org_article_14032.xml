@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14032</identifier>
+				<datestamp>2025-05-29T06:12:40Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TSUNAMI GENERATION PROCEDURE USING NAVIER-STOKES SOLVER AND AN INVESTIGATION INTO THE RUN- UP</dc:title>
+	<dc:creator xml:lang="en">Xie, Peiwei</dc:creator>
+	<dc:creator xml:lang="en">Du, Yan</dc:creator>
+	<dc:description xml:lang="en">In the investigation of tsunami waves impacting on the coast and coastal structures, the generation of tsunami waves with long wavelengths and leading troughs in both laboratory experiments and numerical simulations is challenging. In this study, we propose a tsunami generation procedure for the free generation of tsunami waves using Navier--Stokes solver. The time series of the tsunami surface elevation and derived wave velocity are interpolated in an open-source Navier-Stokes solver – interFoam -- for the generation of tsunami waves. The wave records of the 2004 Indian Ocean and 2011 Tohoku tsunami events are reproduced by the Navier- Stokes solver for the first time. In addition, the credibility of the model for long-wave generation, propagation, and run- up is validated against laboratory measurements. The general results suggest that the tsunami generation procedure is feasible and that interFoam is an excellent option for tsunami wave modeling. Without the linear shallow water approximation, the procedure can be used to model leading-depression tsunami waves of high nonlinearity.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14032</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.2</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.2</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14032/13304</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Peiwei Xie, Yan Du</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

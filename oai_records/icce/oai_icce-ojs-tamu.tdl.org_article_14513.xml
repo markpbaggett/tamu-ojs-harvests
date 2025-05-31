@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14513</identifier>
+				<datestamp>2025-05-29T07:23:34Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A WAVE HINDCAST FOR THE GREAT BAY AREA (CHINA) BASED ON WWMIII WAVE MODEL</dc:title>
+	<dc:creator xml:lang="en">Bagnasco, Tiziano</dc:creator>
+	<dc:creator xml:lang="en">Stocchino, Alessandro</dc:creator>
+	<dc:description xml:lang="en">Hong Kong is a dynamic coastal city located in the southern part of China, adjacent to the South China Sea. As a densely populated urban area, Hong Kong is highly vulnerable to the impacts of coastal hazards, including waves, storm surges, and sea-level rise. The study of waves is therefore of critical importance for understanding and mitigating the risks associated with these hazards. Hong Kong waters are characterized by a complex coastline, with numerous bays, inlets and islands. The territory encompasses a total area of approximately 1,100 square kilometres, and is home to over 7 million people. Hong Kong is also an important hub for shipping and commerce, with one of the busiest container ports in the world. The main objective of this study is to build, validate a hindcast wave climate dataset of the past 52 years and assess the energy content of the domain for potential renewable energy exploitation. The wave hindcast will cover part of the South China Sea and the Great Bay Area (pearl River Estuary and the Hong Kong Waters) and will represent an important dataset for several future studies for this area (e.g. coastal structure designs, costal adaptation projects).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14513</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.79</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.79</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14513/13785</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tiziano Bagnasco, Alessandro Stocchino</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

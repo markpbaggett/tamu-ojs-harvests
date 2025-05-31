@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14431</identifier>
+				<datestamp>2025-05-29T06:34:28Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NON-STATIONARY PARAMETERS ON EQUILIBRIUM-BASED SHORELINE EVOLUTION MODELS</dc:title>
+	<dc:creator xml:lang="en">Cardona, Camilo Jaramillo</dc:creator>
+	<dc:creator xml:lang="en">Pereira, Lucas de Freitas</dc:creator>
+	<dc:creator xml:lang="en">Rodríguez, Mauricio González</dc:creator>
+	<dc:creator xml:lang="en">Santamaría, Raúl Medina</dc:creator>
+	<dc:creator xml:lang="en">Antolinez, José Antonio Álvarez</dc:creator>
+	<dc:description xml:lang="en">Equilibrium-Based Shoreline Evolution Models (EBSEM) are computationally efficient tools for simulating beach response to environmental conditions, such as hydrodynamic forcings. Thus, they are valuable to understand the footprint of longshore and cross-shore sediment transport processes on shoreline rotation and breathing at several temporal scales. Despite its simplicity, EBSEM are parametric models that rely on calibration. Existing EBSEM applications in literature have traditionally used constant in time and space calibration parameters to forcing conditions, which restricts their ability to capture shoreline change signals to changing morphodynamic behavior. Therefore, calibrating these models with non- stationary parameters might be crucial to enhance predictability of multi-timescale shoreline variations (Antolínez et al. 2019).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14431</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.138</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.138</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14431/13703</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Camilo Jaramillo Cardona, Lucas de Freitas Pereira, Mauricio González Rodríguez, Raúl Medina Santamaría, José Antonio Álvarez Antolinez</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

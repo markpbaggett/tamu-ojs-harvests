@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14698</identifier>
+				<datestamp>2025-05-29T10:43:19Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">REASSESSMENT OF THE COASTAL PROTECTION DUNES AS NATURE BASED SOLUTIONS IN THE BALTIC SEA FOR CLIMATE ADAPTION</dc:title>
+	<dc:creator xml:lang="en">Fleischer, Dirk</dc:creator>
+	<dc:creator xml:lang="en">Stamm, Jürgen</dc:creator>
+	<dc:creator xml:lang="en">Arns, Arne</dc:creator>
+	<dc:creator xml:lang="en">Beckmann, Simon</dc:creator>
+	<dc:description xml:lang="en">The German Baltic coast is highly vulnerable. Past storm surges have often led to severe erosion along the coastline, which then had to be compensated for by costly sand nourishments. For instance, in October 2023 an exceptional storm surge hit the German Baltic Sea coast and restoring the eroded beaches will cost up to ~6 million €. Past research in the state of Mecklenburg-Vorpommern (MVP, Germany) highlighted that severe storm surges can affect an area of up to 1,018 km2 (STALU MM 2013). The research project “ResCAD – RESistance and Climate Adaptation of Dune systems” aims to evaluate the resilience and climate change preparedness of coastal protection dunes in MVP, which are found ~106 km along the coastline. By developing two stand-alone tools intended to be used by coastal stakeholders and authorities, the design process of dune and beach nourishment will be supported by (i) a stochastic storm surge generator (SSG), enabling to model consistent storm surge scenarios described by both seastate and extreme sea levels and (ii) a dune erosion model (DEM), which is based on combining hydro-morphologic-numerical and statistical modelling. The analyses are supported by site specific field measurements before, during and right after storm surges like UAV, stationary LiDAR, photogrammetry of damaged coastal structures and a comprehensive access of hydraulic research data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14698</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.94</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.94</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14698/13970</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Dirk Fleischer, Jürgen Stamm, Arne Arns, Simon Beckmann</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

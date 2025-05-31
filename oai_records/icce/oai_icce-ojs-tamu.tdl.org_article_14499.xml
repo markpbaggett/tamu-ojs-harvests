@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14499</identifier>
+				<datestamp>2025-05-29T06:46:49Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AEOLIS: MODELLING AEOLIAN SEDIMENT TRANSPORT PROCESSES FOR PREDICTING DUNE DEVELOPMENT AND NBS DESIGN</dc:title>
+	<dc:creator xml:lang="en">Vries, Sierd de</dc:creator>
+	<dc:creator xml:lang="en">Westen, Bart van</dc:creator>
+	<dc:creator xml:lang="en">Hallin, Caroline</dc:creator>
+	<dc:creator xml:lang="en">Strypsteen, Glenn</dc:creator>
+	<dc:creator xml:lang="en">IJzendoorn, Christa van</dc:creator>
+	<dc:creator xml:lang="en">Cohn, Nicholas</dc:creator>
+	<dc:description xml:lang="en">Aeolian sediment transport in the coastal zone plays an important role in shaping the morphological development of beaches, coastal dunes and their surroundings. While aeolian transport is a potential nuisance for coastal infrastructure, aeolian transport is also increasingly considered important for the development of Nature Based Solutions (NBS) such as coastal nourishments and foredune notching. The lack of reliable predictions of aeolian transport and (long-term) coastal evolution of morphology at sandy beaches and dunes compromises the application of NBS in coastal engineering. A validated numerical tool that accounts for relevant local physical (e.g., grain size, beach shape) and environmental conditions (e.g., wind climate, tides) can help assess the long-term effectiveness of NBS for specific sites. We present a two-dimensional , open-source numerical area model (AeoLiS) that calculates aeolian sediment transport based on: a (detailed) simulation of wind shear; and a simulation of the conditions at the sediment surface.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14499</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.69</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.69</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14499/13771</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Sierd de Vries, Bart van Westen, Caroline Hallin, Glenn Strypsteen, Christa van IJzendoorn, Nicholas Cohn</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

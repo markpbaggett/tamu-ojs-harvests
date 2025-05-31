@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14727</identifier>
+				<datestamp>2025-05-29T09:19:57Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING THE DECADAL EVOLUTION OF A DELTAIC COAST UNDER DIFFERENT SOFT INTERVENTIONS FOR CLIMATE CHANGE ADAPTATION</dc:title>
+	<dc:creator xml:lang="en">Ribas, Francesca</dc:creator>
+	<dc:creator xml:lang="en">Falqués, Albert</dc:creator>
+	<dc:creator xml:lang="en">Calvete, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Duran, Ruth</dc:creator>
+	<dc:description xml:lang="en">Deltaic coasts are among the most dynamic terrestrial environments, hosting important ecosystems and being intensively used by humans. Their low-altitude makes them especially vulnerable to mean sea level rise (MSLR) and extreme sea levels related to climate change (CC), which worsens the local subsidence effect. A potential protection strategy to reduce CC impacts are hard protections (e.g., groins). In some cases, they are simply the only possible protection but their cost, adverse effects and unpopularity make their use increasingly limited. Alternatively, soft options such as beach and shoreface nourishments and groin partial deconstruction are adaptation measures that protect coastal systems while providing social and environmental benefits. This contribution aims at characterizing the effect of different potential soft interventions for CC adaptation on the decadal evolution of a wave-dominated deltaic coast. The study site is the Llobregat delta (Barcelona, Spain). Projections with different interventions will be modelled and compared, with emphasis on performing a sensitivity analysis and understanding the involved physical processes. The Q2Dmorfo model will be used for its good compromise between accuracy and computational speed (Arriaga et al., 2017).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14727</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.100</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.100</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14727/13999</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Francesca Ribas, Albert Falqués, Daniel Calvete, Ruth Duran</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

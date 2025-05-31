@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14719</identifier>
+				<datestamp>2025-05-29T06:12:19Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A COMPARATIVE ANALYSIS OF WAVE ENERGY CONVERTERS PERFORMANCE USING SWAN AND ERA5 DATASETS WITH A CASE STUDY ON PANTELLERIA ISLAND</dc:title>
+	<dc:creator xml:lang="en">Cervelli, Giulia</dc:creator>
+	<dc:creator xml:lang="en">Giorgi, Giuseppe</dc:creator>
+	<dc:creator xml:lang="en">Mattiazzo, Giuliana</dc:creator>
+	<dc:description xml:lang="en">The paper thoroughly examines the operational efficiency of two prototypical Wave Energy Converters – specifically, a flap and a point absorber. The analysis draws upon data gleaned from both the SWAN numerical model and the ECMWF ERA5 database. The research centers on the scrutiny and comparison of these two data sources, with a focal point on Pantelleria island as a case study. Additionally, the investigation delves into the productivity discrepancies of the wave energy converters by utilizing corresponding historical datasets. Through a meticulous comparison of sea state occurrences derived from SWAN and ERA5, the study uncovers disparities and discerns variations in the productivity estimates of the two Wave Energy Converters. This comparative assessment seeks to evaluate the appropriateness and efficacy of each data source in faithfully portraying the environmental conditions conducive to wave energy conversion. Moreover, the study posits broader applicability to the Blue Economy. The outcomes of this analysis contribute significantly to advancing comprehension regarding the interplay between data sources, sea state events, and the productivity of wave energy converters, all geared towards the overarching objective of minimizing uncertainties in design.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14719</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.230</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.230</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14719/13991</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Giulia Cervelli, Giuseppe Giorgi, Giuliana Mattiazzo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14753</identifier>
+				<datestamp>2025-05-29T06:12:25Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FULL-SCALE VALIDATION OF THE RANS K-EPSILON TURBULENCE CLOSURE MODEL FOR CAPTURING WHITEWATER REFORM IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Fincham, Adam</dc:creator>
+	<dc:creator xml:lang="en">Pieszka, Michal</dc:creator>
+	<dc:description xml:lang="en">In the pursuit of recreating world-class surfing conditions, this study undertakes a comprehensive examination and accurate Computational Fluid Dynamics (CFD) modeling of surf-zone processes. The investigation centers on the impact of reef geometry on the ability to generate secondary reform surfing waves. Utilizing the Volume of Fluid (VOF) method, computational models are rigorously validated against field data obtained from the wave pool facility in Abu Dhabi, utilizing Kelly Slater Wave Co. technology. The findings underscore the significance of reef shape, with implications for reform wave surfing experiences in both coastal regions and man-made wave environments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14753</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.35</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.35</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14753/14025</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Adam Fincham, Michal Pieszka</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

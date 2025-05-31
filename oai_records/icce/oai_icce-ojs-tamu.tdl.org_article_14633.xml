@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14633</identifier>
+				<datestamp>2025-05-29T08:05:40Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ADVANCES IN MODELING FLOW ATTENUATION PROVIDED BY SALTMARSHES AS A FUNCTION OF THEIR BIOMASS</dc:title>
+	<dc:creator xml:lang="en">Maza, Maria</dc:creator>
+	<dc:creator xml:lang="en">Gallego, Isabel</dc:creator>
+	<dc:creator xml:lang="en">Lopez-Arias, Fernando</dc:creator>
+	<dc:creator xml:lang="en">Lara, Javier L.</dc:creator>
+	<dc:description xml:lang="en">Estimation of the flow energy dissipation induced by an ecosystem that accounts for its characteristics (i.e. biomechanical properties, morphology, density) and the incident hydrodynamic conditions is crucial if ecosystem- based coastal protection measurements want to be implemented. Characterization of a vegetated ecosystem by measuring leaf traits, biomechanical properties of plants and the number of individuals per unit area involves a lot of effort and is case-specific. Previous studies have shown that wave height attenuation positively correlates with standing biomass (Maza et al., 2022) highlighting the crucial role played by this variable that can be used to estimate the ecosystem wave damping capacity without using calibration coefficients. Later, the formulations of Maza et al. (2022) were successfully implemented in the SWAN model and applied to reproduce a field campaign revealing the remarkable capabilities of the approach to reproduce the wave evolution along a saltmarsh with varying properties along the intertidal zone (Lopez-Arias et al. 2023). Figure 1 shows an example of application of the model to two transects in Scheldt estuary. In addition, this variable has been already characterized for many ecosystems and it can be estimated by aerial images (Doughty and Cavanaugh, 2019) and remote sensing techniques. The potential of these new approach has not been tested for conditions where waves and currents are simultaneously present. These conditions are very relevant to habitats like saltmarshes that are commonly affected by tidal currents or wave-induced currents flowing simultaneously with wind or swell waves. Then, a new set of experiments using real vegetation with contrasting morphology and biomechanical properties, and subjected to different combinations of waves and currents, is proposed to further test this novel approach. The obtained standing biomass-attenuation relationships will help to quantify the expected coastal protection provided by different vegetated ecosystems based on their standing biomass under the combined effect of waves and currents.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14633</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.85</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.85</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14633/13905</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Maria Maza, Isabel Gallego, Fernando Lopez-Arias, Javier L. Lara</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

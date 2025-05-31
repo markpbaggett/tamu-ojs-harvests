@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14511</identifier>
+				<datestamp>2025-05-29T07:30:42Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF NEARSHORE WAVES AT MYANMAR COAST: AN INTEGRATED USAGE OF ERA-5, MIKE 21 AND SATELLITE DATA</dc:title>
+	<dc:creator xml:lang="en">Kyaw, Thit Oo</dc:creator>
+	<dc:creator xml:lang="en">Pamuk, Aykut</dc:creator>
+	<dc:creator xml:lang="en">Shibayama, Tomoya</dc:creator>
+	<dc:description xml:lang="en">Global-scale numerical models are essential for offshore (deepwater) wave climate assessment and long-term analysis. However, they encounter challenges in nearshore regions due to the sudden changes in water depth and subsequent wave shoaling processes (Van der Westhuysen (2012)). Besides, there are existing limitations on measured wave data in most parts of the world, especially in coastal regions of developing countries. Recent studies have used global atmospheric and ocean reanalysis data for regionalized wave simulations (Chow (2022)). Therefore, this study proposes a comprehensive modelling framework for nearshore wave simulation along the Myanmar coast using global wind and offshore wave reanalysis and tide data. The present research aims to fill the gap between the necessity to investigate wave climate for port planning and coastal management and the lack of reliable wave observation networks, which is typical for developing countries like Myanmar.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14511</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.78</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.78</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14511/13783</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Thit Oo Kyaw, Aykut Pamuk, Tomoya Shibayama</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

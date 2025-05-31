@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14691</identifier>
+				<datestamp>2025-05-29T10:32:14Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELING INFRAGRAVITY WAVES WITH SWAN</dc:title>
+	<dc:creator xml:lang="en">Reniers, Ad</dc:creator>
+	<dc:creator xml:lang="en">Akrish, Gal</dc:creator>
+	<dc:creator xml:lang="en">Rijnsdorp, Dirk</dc:creator>
+	<dc:creator xml:lang="en">Zijlema, Marcel</dc:creator>
+	<dc:creator xml:lang="en">Rutten, Jantien</dc:creator>
+	<dc:creator xml:lang="en">Wit, Floris de</dc:creator>
+	<dc:creator xml:lang="en">Tissier, Marion</dc:creator>
+	<dc:description xml:lang="en">Infragravity (IG) waves play an important role in the coastal zone affecting wave runup, overtopping, dune erosion and shipping. They originate from the sea-swell wave groups that force them either as bound IG waves or as free IG waves due to the breakpoint variation. The bound IG waves that are released within the surfzone (partly) reflect and are either refractively trapped or leaky where the latter can travel large distances and arrive at remote shorelines (Ardhuin et al., 2014, Rijnsdorp et al., 2021). As such the incident IG wave field at a particular coast consists of wave- group-forced (WGF) IG waves combining the bound and released IG waves (Herbers and Burton, 1997), and free infragravity (FIG) waves consisting of locally trapped and remote IG waves. To assess the potential impact of overtopping as well as dune erosion during extreme storm conditions sophisticated process models like XBeach (Roelvink et al., 2007) and SWASH (Zijlema et al., 2011) are often used. In addition to the sea-swell conditions and tide and surge levels these models require a boundary condition for the incident IG waves. Typically, this boundary condition is defined by the bound IG waves only using the equilibrium theory of Hasselmann (1962). This approach may lead to a significant over estimation in the presence of a sloping beach, but also an underestimation in the presence of incident FIG waves. Here we use an extended version of SWAN (Booij et al., 1999) to predict the total incident IG wave field during storm conditions that subsequently can be used as a boundary condition for these more detailed overtopping and dune erosion models. To verify the modeling approach, detailed comparisons with recently acquired observations at the Sand Engine of the directional free and forced IG wave field (Rutten et al., 2023 ) are used.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14691</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.94</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.94</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14691/13963</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ad Reniers, Gal Akrish, Dirk Rijnsdorp, Marcel Zijlema, Jantien Rutten, Floris de Wit, Marion Tissier</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

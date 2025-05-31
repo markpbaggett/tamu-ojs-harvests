@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14614</identifier>
+				<datestamp>2025-05-29T07:36:41Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN ASSESSMENT OF WAVE ATTENUATION BY MANGROVE ROOT SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Ortega, Diana Carolina Vargas</dc:creator>
+	<dc:creator xml:lang="en">Ghisalberti, Marco</dc:creator>
+	<dc:creator xml:lang="en">Rooijen, Arnold van</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Ryan</dc:creator>
+	<dc:description xml:lang="en">The complex structure of mangrove trees, comprising roots, trunk, and canopy, exerts drag on wave-driven flows, which can lead to considerable wave attenuation. Previous studies have found that the rate of wave decay is dependent on the tree morphology and density of mangrove trees, as well as wave conditions. However, most of the studies have only considered measurements of wave attenuation, and there is limited understanding of how drag itself varies across different tree morphologies and wave conditions. This lack of understanding limits the development of generic formulations that can be implemented in widely used wave models. In this study, we employ detailed experimental observations, including measurements of drag forces, for a wide range of mangrove forest models and wave conditions. We combine these observations with a phase-resolving, non-hydrostatic wave model to enhance our understanding of wave-mangrove interactions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14614</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.83</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.83</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14614/13886</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Diana Carolina Vargas Ortega, Marco Ghisalberti, Arnold van Rooijen, Ryan Lowe</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

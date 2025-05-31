@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14338</identifier>
+				<datestamp>2025-05-29T06:11:35Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VIDEO-BASED FLOOD AND SWASH MAPPING – AN APPLICATION OF DEEP- LEARNING TO NEARSHORE RESEARCH</dc:title>
+	<dc:creator xml:lang="en">Chen, Qin</dc:creator>
+	<dc:creator xml:lang="en">Salatin, Reza</dc:creator>
+	<dc:creator xml:lang="en">Raubenheimer, Britt</dc:creator>
+	<dc:creator xml:lang="en">Elgar, Steve</dc:creator>
+	<dc:creator xml:lang="en">Jafari, Navid</dc:creator>
+	<dc:creator xml:lang="en">Li, Xin</dc:creator>
+	<dc:description xml:lang="en">Many of the 1 billion people living in coastal areas lower than 10 m above sea level worldwide are at risk from changing climate and increasing storm intensity. Efficient and accurate mapping of coastal inundation and wave runup is of societal significance, benefiting flood hazard mitigation and climate change adaptation. Conventional methods of flood monitoring rely on in-situ water level gages installed in rivers and along the coasts. Such field measurements are sparse, and thus are unable to resolve spatial variations of coastal flooding and wave runup on beaches and structures. Recent advances in computer vision technology powered by deep-learning algorithms enable real-time flood detection and quantification using photos and videos that are widely available from traffic cameras, webcams, social media, and un-crewed aerial vehicles (Jafari et al. 2021, Liang et al. 2023). Although use of video for flood monitoring is recent, videos from cameras mounted on shore-based towers have been employed for decades by the nearshore community to monitor the surf and swash zones and to quantify wave runup on the beach. However, automated edge detection methods used to track the moving edge of the swash typically require manual quality control post-processing, which restricts the ability to monitor wave runup over large numbers of transects and long periods of time. The goal of this study is to overcome the limitations of conventional methods of flood and swash monitoring by leveraging a new deep- learning framework for efficient mapping of inundation and swash motion at the water and land interface.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14338</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14338/13610</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Qin Chen, Reza Salatin, Britt Raubenheimer, Steve Elgar, Navid Jafari, Xin Li</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

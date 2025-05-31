@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14430</identifier>
+				<datestamp>2025-05-29T06:34:26Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE OVERTOPPING AT VERTICAL WALLS WITH LARGE FREEBOARDS AND VARIABLE WATER DEPTH</dc:title>
+	<dc:creator xml:lang="en">Franco, Leopoldo</dc:creator>
+	<dc:creator xml:lang="en">Bruce, Tom</dc:creator>
+	<dc:creator xml:lang="en">Cecioni, Claudia</dc:creator>
+	<dc:creator xml:lang="en">Pepi, Yuri</dc:creator>
+	<dc:creator xml:lang="en">Meer, Jentsie Van der</dc:creator>
+	<dc:description xml:lang="en">Vertical walls serve a vital role in safeguarding coastal areas and harbors from the extreme wave conditions. These structures are typically designed for installation in deep waters (often as caissons) where conventional wave overtopping prediction methods have proven effective. Vertical walls are more common as coastal protections. However, as waves approach shallower shores, the dynamics change significantly. The onset of wave shoaling and breaking introduces impulsive conditions that pose a challenge for existing prediction methods. This research aims to deepen our understanding of wave overtopping phenomena under extreme conditions, with a particular focus on investigating mean discharge and individual wave overtopping volumes. This paper will present the follow up of the work the WOW21 project (Wave Overtopping at Walls) presented at the last ICCE 2022 in Sydney.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14430</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14430/13702</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Leopoldo Franco, Tom Bruce, Claudia Cecioni, Yuri Pepi, Jentsie Van der Meer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

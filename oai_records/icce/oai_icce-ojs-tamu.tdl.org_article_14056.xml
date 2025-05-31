@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14056</identifier>
+				<datestamp>2025-05-29T06:12:43Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PATCH SIZE EFFECT ON SEDIMENTATION BY SUBMERGED AQUATIC VEGETATION</dc:title>
+	<dc:creator xml:lang="en">Nakayama, Keisuke</dc:creator>
+	<dc:creator xml:lang="en">Matsumura, Keita</dc:creator>
+	<dc:creator xml:lang="en">Shintani, Tetsuya</dc:creator>
+	<dc:description xml:lang="en">Seagrass meadows provide critical ecosystem services in the coastal ocean, regions of extremely high biodiversity and productivity, providing a nursery and habitat for various organisms. They can sequester carbon, accumulate particulate organic matter, produce oxygen and remove nutrients essential to ecosystem services in the coastal ocean. Seagrass meadows generally exist entirely in shallow water areas and grow in patches, meaning their interactions with coastal flows may induce complexity for mass transport (Adams et al., 2016). Adams et al. (2016) showed the importance of the blade bending angle on current and turbulence inside a seagrass meadow, resulting in the fact that the more the blade bends, the more significantly the sediment accumulates. Previous studies have investigated the interactions between flow and submerged aquatic vegetation (SAV) using laboratory experiments. Luhar and Nepf (2011) proposed the Cauchy number and the buoyancy parameter to capture the characteristics of SAV, such as blade bending angle. In contrast, several numerical methods have been applied to reconfigure the leaf blade model. For example, Dijkstra and Uittenbogaard (2010) proposed a method by including all necessary forces; that method well predicted the results of their laboratory experiments. Nakayama et al. (2020) recently proposed an SAV model by considering all necessary forces and the interaction between flows and SAV by dividing each blade into segments in good agreement with the results of laboratory experiments. Since the SAV model is based on object-oriented programming that can be used on an ordinary PC, it is easy to analyze many different lengths and characteristics of SAV, including the complicated patch- like SAV meadows that interact with flows. Thus, this study uses the SAV model to investigate the patch size effect on sedimentation by SAV meadows. Additionally, we conducted laboratory experiments to verify the accuracy of the SAV model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14056</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.8</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.8</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14056/13328</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Keisuke Nakayama, Keita Matsumura, Tetsuya Shintani</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

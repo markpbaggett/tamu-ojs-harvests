@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14484</identifier>
+				<datestamp>2025-05-29T10:34:46Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPH MODELLING OF VEGETATION-INDUCED WAVE DISSIPATION: IMPLEMENTATION AND APPLICATIONS</dc:title>
+	<dc:creator xml:lang="en">Rahi, Joe El</dc:creator>
+	<dc:creator xml:lang="en">Stratigaki, Vasiliki</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:description xml:lang="en">Wave attenuation under coastal vegetation results from complex hydrodynamics, where energy is removed from the mean flow due to the resistance created by the vegetation. At the scale of an individual plant, this decrease is directly linked to the transformation of energy into turbulent kinetic energy. Numerical models can capture this turbulence shedding when using very high resolutions, but not without a cost. Their applications will be limited to small spatiotemporal scales with regular waves and a single vegetation. This is sufficient for estimating the drag coefficient and investigating flexibility at the blade scale but does not provide a direct computation of wave attenuation over a densely populated vegetation patch. To enhance the scalability of numerical models used to study wave propagation over vegetation meadows, a well-established approach in literature is to implicitly account for energy transfer in the system by introducing an energy sink term into the flow equations. This method is computationally efficient and can overcome the spatiotemporal limitations inherent in direct models. The initial description of wave dissipation was presented by Dalrymple et al. (1984), estimating the energy transfer by integrating the force on a cylinder across its vertical span. An extension of this method to account for varying depths and stochasticity was published by Mendez and Losada (2004). Numerically, these formulations have been widely adapted and implemented in both time and frequency domain models, such as the vegetation model in SWAN and in SWASH by Suzuki et al. (2012) and Suzuki et al. (2019) respectively.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14484</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14484/13756</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Joe El Rahi, Vasiliki Stratigaki, Tomohiro Suzuki, Peter Troch</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

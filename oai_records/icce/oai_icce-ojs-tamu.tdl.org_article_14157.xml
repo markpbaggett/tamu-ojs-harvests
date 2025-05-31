@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14157</identifier>
+				<datestamp>2025-05-29T06:12:58Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTING SHORELINE CHANGE WITH DEEP LEARNING: CASE STUDIES FROM THE EAST AND WEST COASTS OF THE U.S.</dc:title>
+	<dc:creator xml:lang="en">Pena, Eduardo Gomez-de la</dc:creator>
+	<dc:creator xml:lang="en">Coco, Giovanni</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen</dc:creator>
+	<dc:creator xml:lang="en">Vitousek, Sean</dc:creator>
+	<dc:creator xml:lang="en">Buscombe, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Whittaker, Colin</dc:creator>
+	<dc:description xml:lang="en">As the coastal population continues to expand, the risk of experiencing social and economic losses due to the effects of a changing climate also increases. Although considerable advances have been achieved in terms of developing numerical process-based models for shoreline change, ensuring reliable predictions remains a formidable task. We propose an innovative approach by implementing Convolutional Neural Networks (CNNs) to predict the evolution of shorelines in response to wave forcings. While the use of these data-driven model frameworks in coastal research is still in its early stages, it holds promise in capturing the strong autocorrelation and memory/storage effects involved in shoreline evolution and may therefore offer a viable alternative to process-based models, at least in some locations. Our models were put to the test at two distinct beach locations: Ocean Beach in California, characterized by its seasonal patterns, and Duck in North Carolina, which lacks a strong seasonal signal. We offer an assessment of the models' performance through the use of absolute- value error metrics. The findings presented shed light on the potential of Deep Learning in forecasting shoreline change.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14157</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14157/13429</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Eduardo Gomez-de la Pena, Giovanni Coco, Kristen Splinter, Sean Vitousek, Daniel Buscombe, Colin Whittaker</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

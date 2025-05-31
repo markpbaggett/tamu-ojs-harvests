@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14228</identifier>
+				<datestamp>2025-05-29T06:32:18Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A STUDY ON THE LONG-TERM SHORELINE CHANGES IN EAST COAST OF KOREA USING SATELLITE IMAGES</dc:title>
+	<dc:creator xml:lang="en">Yoo, Hojun</dc:creator>
+	<dc:creator xml:lang="en">Kang, Tae-Soon</dc:creator>
+	<dc:creator xml:lang="en">Kim, Ki-Hyun</dc:creator>
+	<dc:description xml:lang="en">The coast refers to the narrow and long zone where the land meets the sea, influencing each other when they come together. The coast is a dynamic region where natural forces such as marine environments and terrestrial areas meet, affected by both natural activities like erosion and deposition and artificial actions like coastal development. Among these, the shoreline delineates the indefinite zone of land that extends into the terrestrial area, separating natural water bodies. Recently, accelerated coastal erosion has been observed due to rising sea levels and increased occurrence of storm surges, causing rapid changes that threaten artificial structures and the living environments of coastal residents. In our research, we have extracted long-term coastlines from satellite images spanning over 10 years. We established criteria and analysis guidelines for coastline changes and width assessment, reviewed long-term coastal changes on the East Coast of Korea, and researched methods for establishing digital monitoring techniques.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14228</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14228/13500</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Hojun Yoo, Tae-Soon Kang, Ki-Hyun Kim</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

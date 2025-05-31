@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14702</identifier>
+				<datestamp>2025-05-29T08:56:03Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DECADAL SCALE PREDICTION OF COASTAL DUNE EVOLUTION AT LONG BEACH, WA, USA</dc:title>
+	<dc:creator xml:lang="en">Heminway, Selwyn Swift</dc:creator>
+	<dc:creator xml:lang="en">Cohn, Nicholas</dc:creator>
+	<dc:creator xml:lang="en">IJzendoorn, Christa van</dc:creator>
+	<dc:creator xml:lang="en">Ruggiero, Peter</dc:creator>
+	<dc:creator xml:lang="en">Leung, Meredith</dc:creator>
+	<dc:creator xml:lang="en">Anderson, Dylan</dc:creator>
+	<dc:description xml:lang="en">Coastal communities commonly rely upon foredunes as the first line of defense against coastal hazards such as flooding from storm events and sea level rise. Unlike hard infrastructure, like dikes and seawalls, dunes are dynamic features that naturally evolve on varying timescales in response to changes in environmental forcings (oceanographic, meteorological, hydrological, sedimentological). Due to the complex interplay of environmental and morphologic controls on dune erosion during storms and wind-driven dune growth, there can be substantial alongshore variability in the magnitude and style of dune evolution (e.g., Houser et al., 2008). However, historical rates of dune volume change may evolve into the future given non-stationary environmental conditions. The ability to understand, predict and forecast dune evolution is therefore vital to the development of effective coastal resilience strategies, especially in the context of a changing climate. A range of tools, including statistical, geometric, and process-based models, have been developed to simulate coastal sediment transport and morphological change. This study aims to quantify future probabilistic estimates of dune evolution along a historically prograding section of coast in the US Pacific Northwest. A reduced complexity dune erosion and growth model is first used in hindcast mode to simulate alongshore variability in dune evolution at Long Beach Peninsula (LBP), WA.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14702</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.95</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.95</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14702/13974</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Selwyn Swift Heminway, Nicholas Cohn, Christa van IJzendoorn, Peter Ruggiero, Meredith Leung, Dylan Anderson</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

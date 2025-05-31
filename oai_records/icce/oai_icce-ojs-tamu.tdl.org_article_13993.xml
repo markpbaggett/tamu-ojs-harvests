@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13993</identifier>
+				<datestamp>2025-05-29T06:12:34Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSING THE PERFORMANCE OF ECO-RETROFITTED SEAWALLS IN MITIGATING WAVE OVERTOPPING DISCHARGE – A NUMERICAL MODELLING STUDY</dc:title>
+	<dc:creator xml:lang="en">Xu, Xihang</dc:creator>
+	<dc:creator xml:lang="en">Keenahan, Jennifer</dc:creator>
+	<dc:creator xml:lang="en">Habib, M. A.</dc:creator>
+	<dc:creator xml:lang="en">Ma, Hanxiao</dc:creator>
+	<dc:creator xml:lang="en">Salauddin, M.</dc:creator>
+	<dc:description xml:lang="en">The enhancement of coastal resilience has become a key focus in sustainable development efforts. By increasing the topographic complexity of existing sea defences, eco-engineering interventions have been regarded as a potential approach for coastal biodiversity restoration and enhancement. However, only limited knowledge is available on the influences of these eco-retrofits on wave overtopping behaviour, such as the spatial distribution of the overtopping waves. The spatial distribution of wave overtopping is one of the critical indicators for determining the safe zone behind the coastal infrastructures. Therefore, this study contributes to the first parameter analysis on the influences of eco-retrofit geometrical characteristics on the spatial distribution of wave overtopping behind the eco-retrofitted seawall by conducting 32 numeric models in the scale of 1:10 through OpenFOAM®. A series of reference models are first established and validated with the experimental datasets. The validated models are then applied to study the influences of shape, width and length of eco-retrofits attached to the vertical seawall. It is found that even though the eco-retrofits have minimal influences on the largest travel distance of wave overtopping, a considerable impact on the spatial distribution of overtopping waves behind the structure was observed for the large structures. In general, a greater proportion of overtopping waves can travel greater distances when there is a larger structure length or width. For the small eco-retrofits, ignorable effects are observed both for the largest travel distance and the spatial distribution. The findings of this study provide a numerical dataset for designing eco-engineering interventions from an engineering perspective and indicate the effectiveness of OpenFOAM® in simulating and reproducing the wave-structure interactions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13993</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.42</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.42</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13993/13265</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Xihang Xu, Jennifer Keenahan, M. A. Habib, Hanxiao Ma, M. Salauddin</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14644</identifier>
+				<datestamp>2025-05-29T08:07:09Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MONITORING AND MODELING COASTAL MORPHOLOGICAL CHANGES USING VIDEO DATA AND XBEACH MODEL</dc:title>
+	<dc:creator xml:lang="en">Assaf, Yasser</dc:creator>
+	<dc:creator xml:lang="en">Bruno, Maria Francesca</dc:creator>
+	<dc:creator xml:lang="en">Damiani, Leonardo</dc:creator>
+	<dc:creator xml:lang="en">Saponieri, Alessandra</dc:creator>
+	<dc:description xml:lang="en">Coastal areas are highly dynamic environments, subject to morphological changes due to the action of waves, tides, and winds. Monitoring these changes is crucial for understanding coastal evolution and planning sustainable management strategies. This study aims to analyze shoreline changes, sediment accumulation patterns, and crucial beach parameters such as width, foreshore, and swash zone slopes for sandy beaches using Xbeach Roelvink et al. (2009) numerical modeling and video data. It introduces innovative and standardized methodologies for investigating shallow water hydrodynamics and morphodynamics, including Run-up and shoreline temporal evolution. The integration of various data sources, including wave characteristics, wind patterns, tide information, bathymetric/topographic data, and video data, enables us to create precise simulations of beach behavior and morphological changes over time.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14644</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14644/13916</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Yasser Assaf, Maria Francesca Bruno, Leonardo Damiani, Alessandra Saponieri</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

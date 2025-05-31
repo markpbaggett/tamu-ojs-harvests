@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14692</identifier>
+				<datestamp>2025-05-29T08:59:22Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXTREME SEA-LEVEL PROJECTIONS BASED ON LOCAL WAVES AND FORESHORE SLOPE</dc:title>
+	<dc:creator xml:lang="en">Esparza, César Antonio</dc:creator>
+	<dc:creator xml:lang="en">Cienfuegos, Rodrigo Alberto</dc:creator>
+	<dc:creator xml:lang="en">Winckler, Patricio Alejandro</dc:creator>
+	<dc:description xml:lang="en">Extreme Sea Levels (ESL) are episodes of infrequent combinations of high tides, storm surges, and waves, also enhanced by the rising of the mean sea level due to Climate Change. These events have the potential to cause devastating flooding, erosion, and inundation, resulting in widespread damage to infrastructure and ecosystems (Oppenheimer et al., 2019). Usually, the future projections of ESL rely only on offshore wave data due to the high computational costs of downscaling multiple Global Climate Models (GCMs) and resolving the required directional and spectral characteristics as waves shoal and refract while approaching the coast. Furthermore, the lack of data for local foreshore slopes restrains the accurate estimation of wave runups (Serafin et al., 2019). In this study we address these limitations by considering nearshore spectral wave models to compute wave climates in shallow waters and using estimations for the local foreshore slope to compute ESL.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14692</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.220</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.220</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14692/13964</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 César Antonio Esparza, Rodrigo Alberto Cienfuegos, Patricio Alejandro Winckler</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

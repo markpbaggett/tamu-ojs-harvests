@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14021</identifier>
+				<datestamp>2025-05-29T06:12:38Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CAMERA: A WEBCAM NETWORK TO IMPROVE THE REGIONAL COASTAL EARLY WARNING SYSTEM IN EMILIA-ROMAGNA (ITALY)</dc:title>
+	<dc:creator xml:lang="en">Valentini, Andrea</dc:creator>
+	<dc:creator xml:lang="en">Unguendoli, Silvia</dc:creator>
+	<dc:creator xml:lang="en">Liserra, Tonino</dc:creator>
+	<dc:creator xml:lang="en">Biolchi, Luis Germano</dc:creator>
+	<dc:creator xml:lang="en">Righi, Simone</dc:creator>
+	<dc:creator xml:lang="en">Serra, Andrea</dc:creator>
+	<dc:creator xml:lang="en">Magherini, Lucio</dc:creator>
+	<dc:creator xml:lang="en">Archetti, Renata</dc:creator>
+	<dc:description xml:lang="en">A network of fixed webcam stations has recently been installed along the coast of the Emilia-Romagna region in Italy aiming to enhance the regional Coastal Early Warning System (EWS). The network integrates advanced video monitoring technology to collect and analyze data on coastal dynamics, offering a cost-effective solution to improve storm surge monitoring, shoreline mapping, and coastal management. By deploying eight strategically positioned cameras, the system provides high-resolution spatial and temporal data, enabling real-time monitoring and long-term analyses. This initiative supports civil protection efforts, informed decision-making, and sustainable coastal management while addressing challenges such as environmental monitoring during extreme weather events. The system architecture combines state-of-the-art imaging, processing capabilities, and a web-based visualization platform, adhering to open-source standards and accessibility guidelines. The project exemplifies an innovative, scalable approach to coastal risk assessment and environmental resilience.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14021</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.70</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.70</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14021/13293</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Andrea Valentini, Silvia Unguendoli, Tonino Liserra, Luis Germano Biolchi, Simone Righi, Andrea Serra, Lucio Magherini, Renata Archetti</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13975</identifier>
+				<datestamp>2025-05-29T06:12:31Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF A FRAMEWORK FOR COMPOUND FLOODING RISK ASSESSMENT DUE TO TSUNAMI AND HIGH RIVER FLOW</dc:title>
+	<dc:creator xml:lang="en">Minami, Reo</dc:creator>
+	<dc:creator xml:lang="en">Toyoda, Masaya</dc:creator>
+	<dc:creator xml:lang="en">Kato, Shigeru</dc:creator>
+	<dc:creator xml:lang="en">Fukui, Nobuki</dc:creator>
+	<dc:creator xml:lang="en">Miyashita, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Kim, Sooyoul</dc:creator>
+	<dc:description xml:lang="en">Composite flooding hazards were evaluated using a tsunami–flood coupled model for Mikawa Bay, Aichi Prefecture. Using eleven tsunami patterns provided by the Central Disaster Prevention Council, we performed calculations for 55 events considering five river-flow patterns (base runoff, 25, 50, 75, and 100percent) in a tsunami scenario based on the most recent flood case of June 2023. The water levels of six rivers calculated using the distance from the river mouth were at peak on the river mouth when flooding was small (base runoff, 25percent), and the maximum level occurred approximately 2.0 km upstream from the river mouth. Additionally, the characteristics of water level rise between the rivers in response to the composite hazard (difference between the most recent flood and base runoff) were at peak (+4.8 m) in the Otowa River and at minimum (+1.2 m) in the Umeda River. Based on the above measurements, we clarified the influence of river flow on tsunami and spatial characteristics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13975</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.24</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.24</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13975/13247</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Reo Minami, Masaya Toyoda, Shigeru Kato, Nobuki Fukui, Takuya Miyashita, Nobuhito Mori, Sooyoul Kim</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14666</identifier>
+				<datestamp>2025-05-29T08:19:53Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STORMSIM: A MODULAR APPROACH TO PROBABILISTIC COASTAL HAZARDS ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Garcia-Moreno, Fabian A.</dc:creator>
+	<dc:creator xml:lang="en">Stehno, Abigail L.</dc:creator>
+	<dc:creator xml:lang="en">Melby, Jeffrey A.</dc:creator>
+	<dc:creator xml:lang="en">Hodgens, Kevin C.</dc:creator>
+	<dc:creator xml:lang="en">Gonzalez, Victor M.</dc:creator>
+	<dc:creator xml:lang="en">Nadal-Caraballo, Norberto C.</dc:creator>
+	<dc:description xml:lang="en">This research presents StormSim, which is a coastal engineering software toolkit tailored to probabilistically assess coastal hazards and evaluate coastal system design. It was developed in response to the increasing efforts to better incorporate uncertainties and reduce the complexity associated with Probabilistic Coastal Hazard Analysis (PCHA; Nadal-Caraballo, 2020). StormSim is used for probabilistic coastal analyses including, coastal structure responses, coastal storm risk management (CSRM) feasibility, coastal structure engineering, and flood risk management.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14666</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.214</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.214</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14666/13938</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Fabian A. Garcia-Moreno, Abigail L. Stehno, Jeffrey A. Melby, Kevin C. Hodgens, Victor M. Gonzalez, Norberto C. Nadal-Caraballo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14740</identifier>
+				<datestamp>2025-05-29T10:43:39Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL INVESTIGATION OF EXTREME CREST HEIGHTS OVER SLOPING BEDS</dc:title>
+	<dc:creator xml:lang="en">Bellos, Vasileios</dc:creator>
+	<dc:creator xml:lang="en">Karmpadakis, Ioannis</dc:creator>
+	<dc:creator xml:lang="en">Swan, Chris</dc:creator>
+	<dc:description xml:lang="en">This paper explores the spatial evolution of the short-term statistical distributions of zero-crossing crest heights of waves propagating over various sloping bathymetries. The analysis is based on laboratory data obtained from long random wave simulations in realistic sea-state conditions. The experiments were specifically designed to isolate the contributions of key metocean parameters, such as sea-state wave steepness, effective water depth and seabed slope. The crest height distributions are assessed against some of the most widely-applied statistical models in engineering practice. Their range of applicability is investigated, and key deviations are observed. Taken together, the results presented herein offer important insights for improving extreme crest height prediction, and thus provide significant practical implications for and the design of coastal structures.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14740</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.102</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.102</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14740/14012</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Vasileios Bellos, Ioannis Karmpadakis, Chris Swan</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

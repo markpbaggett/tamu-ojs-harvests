@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14323</identifier>
+				<datestamp>2025-05-29T06:11:32Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FUTURE PROJECTION OF MAXIMUM POTENTIAL STORM SURGE CONSIDERING SST BIAS FOR CMIP6 HIGHRESMIP EXPERIMENT</dc:title>
+	<dc:creator xml:lang="en">Ito, Shun</dc:creator>
+	<dc:creator xml:lang="en">Shimura, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Miyashita, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">The IPCC AR6 indicated that the ratio of strong tropical cyclones (TCs) will increase due to climate change, and consequently, the intensified TCs will increase the risk of storm surges. Storm surge is an extremely low-frequency and high-impact event because it depends on the combination of TCs’ intensity, size, path, and speed to the bay. Such an event needs to be discussed in terms of frequency and intensity for climatological study. On the other hand, climate projection is getting longer due to increasing ensemble members facing uncertainty. Therefore, it is difficult to project future changes in a particular region with a large climate projection. Mori et al. (2021) proposed a framework to estimate future changes in the worst class of TCs using the MPI (Maximum Potential Intensity) theory and future changes in the worst class of storm surge height using the MPS (Maximum Potential Storm surge height) model. However, TC translation is not considered in MPI theory. Therefore, there is a spatial difference between the theoretical MPI and the real value of TCs’ intensity. This study develops an improved MPI-MPS framework with a threshold SST (Sea Surface Temperature) to overcome the difference.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14323</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.116</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.116</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14323/13595</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Shun Ito, Tomoya Shimura, Takuya Miyashita, Nobuhito Mori</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

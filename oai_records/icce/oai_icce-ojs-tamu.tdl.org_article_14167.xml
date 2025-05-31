@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14167</identifier>
+				<datestamp>2025-05-29T06:13:00Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTING SEDIMENT PATHWAYS ACROSS THE NEARSHORE-DUNE SYSTEM</dc:title>
+	<dc:creator xml:lang="en">Westen, Bart van</dc:creator>
+	<dc:creator xml:lang="en">Schipper, Matthieu de</dc:creator>
+	<dc:creator xml:lang="en">Luijendijk, Arjen</dc:creator>
+	<dc:description xml:lang="en">Coastal zones worldwide are densely populated and feature many developments and essential infrastructure, providing numerous services to local coastal communities. Central to the efficacy of the entire coastal system in providing these services, is the presence and movement of sediment. The intricate movement of sediment throughout the system, or sediment pathways, is influenced by a combination of natural processes and (un)intentional human interference, making understanding them critical for optimizing the design of coastal (Nature- based) solutions and coastal management decisions. Recognizing this, our study focuses on the role of human impact on sediment movement throughout the coastal system. Our goal is to examine sediment connectivity along the Delfland coast, revealing interactions, primary sediment pathways, and the impacts of human interventions. Hereto we made improvements to an existing coupled modelling framework focusing on the nearshore-dune system (Westen et al., 2023) in combination with a Lagrangian transport model (SedTRAILS; Pearson et al., 2020), enabling us to track individual sand particles within our evaluation domain and to map the primary sediment pathways along the Delfland coast, crossing the dry-wet interface.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14167</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14167/13439</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Bart van Westen, Matthieu de Schipper, Arjen Luijendijk</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

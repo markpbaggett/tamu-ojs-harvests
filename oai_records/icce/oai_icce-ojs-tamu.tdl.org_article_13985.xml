@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13985</identifier>
+				<datestamp>2025-05-29T06:12:33Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOWARDS AN INDEX OF COASTAL RESILIENCE: A METRIC TO SUPPORT ADAPTATION PLANNING IN A CHANGING CLIMATE</dc:title>
+	<dc:creator xml:lang="en">Cristaudo, Demetra</dc:creator>
+	<dc:creator xml:lang="en">Pender, Doug</dc:creator>
+	<dc:creator xml:lang="en">Hodgkinson, Laura</dc:creator>
+	<dc:creator xml:lang="en">Fraser, Alan</dc:creator>
+	<dc:description xml:lang="en">Understanding the resilience of coastal systems in a changing climate is key to support the transition from traditional management towards more sustainable planning. This work describes a pilot methodology developed and applied to quantify a Coastal Resilience Index (CRI) for a 2 km sand dune system at Nairn in North-East Scotland. As a proof-of- concept exercise, CRI was kept simple but incorporates inputs that look at the system’s baseline conditions, historic change and future projections. Asset’s locations and dune and beach morphology and dune vegetation are the variables that were used. The site was schematised into cross-shore transects at 10 m spacing as a grid for the CRI calculation. CRI performance and suitability was assessed by calculating it temporally and using different sources of underlying data (Topography, EO, combination of both) to understand sensitivity to varying inputs. Resilience results indicate that temporal changes align with the observed decadal historic change assessment. Assuming topography-sourced CRI provides the most robust results, EO-sourced CRI was shown to under/overestimate resilience by as much as one class interval. The CRI, tested at Nairn as proof of concept, shows promising results as a metric to quantify dune resilience in support of adaptation planning. The use of EO data is encouraging for a potential implementation of resilience calculations strategically, at regional or national scales, at low cost. Further developments are planned to move towards a “near-real-time” monitoring system that continuously acquires and integrates data, providing an up-to-date measure of resilience.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13985</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13985/13257</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Demetra Cristaudo, Doug Pender, Laura Hodgkinson, Alan Fraser</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

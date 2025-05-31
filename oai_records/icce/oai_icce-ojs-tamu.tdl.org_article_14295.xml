@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14295</identifier>
+				<datestamp>2025-05-29T06:11:28Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE-SCALE EXPERIMENTS OF WAVE OVERTOPPING AT A DIKE WITH VEGETATED FORESHORE</dc:title>
+	<dc:creator xml:lang="en">Chen, Xianjin</dc:creator>
+	<dc:creator xml:lang="en">Peng, Zhong</dc:creator>
+	<dc:creator xml:lang="en">Zhao,  Ying</dc:creator>
+	<dc:description xml:lang="en">Coastal dikes are typically constructed to protect coastal areas from a range of coastal threats. When incoming waves interact with these dikes, wave overtopping often occurs if the runup of storm waves surpasses the dike's freeboard. This wave overtopping can result in natural disasters like coastal flooding and damage to the dike's protective layers. Extensive research has been dedicated to this phenomenon, primarily under the assumption of no vegetation presence, as detailed in EurOtop (2018). However, in many tidal flat regions, such as the Yangtze River Delta, vegetation is abundant and forms a vegetated foreshore alongside coastal dikes. It's widely recognized that a vegetated foreshore not only dissipates waves more effectively than a natural beach, as shown in studies by Suzuki et al. (2019) and Zhao et al. (2023), but also reduces flow velocities, leading to sediment accumulation in the vegetated area, as observed in research by Hu et al. (2018). However, there is presently limited research quantifying the impact of vegetation on wave overtopping along coastal dikes.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14295</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14295/13567</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Xianjin Chen, Zhong Peng,  Ying Zhao</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14701</identifier>
+				<datestamp>2025-05-29T09:17:05Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLYING A COMPOUND FLOOD MODEL ON OCEAN BASIN SCALES</dc:title>
+	<dc:creator xml:lang="en">Ormondt, Maarten van</dc:creator>
+	<dc:description xml:lang="en">Overland flood models with various degrees of complexity are often used to predict flooding in the coastal zone. One example of a compound flood model that is widely used is SFINCS (Leijnse et al., 2021). It can take into account the combined effects of tides, surge, waves, rainfall, wind and river discharge. Providing offshore boundary conditions of tide and surge for overland flood models typically falls in the realm of ocean circulation models, such as ADCIRC or Delft3D. Here we show that with some minor adjustments, the SFINCS model is also capable of simulating storm surge and tsunami propagation at ocean basin scales, at a fraction of the computational cost of traditional circulation models.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14701</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.223</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.223</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14701/13973</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Maarten van Ormondt</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

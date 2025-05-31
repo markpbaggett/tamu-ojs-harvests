@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14705</identifier>
+				<datestamp>2025-05-29T09:14:29Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSING COMPOUND FLOOD PROCESSES THROUGH A MULTIDIMENSIONAL FRAMEWORK IN COASTAL WATERSHEDS</dc:title>
+	<dc:creator xml:lang="en">Santiago-Collazo, Felix Luis</dc:creator>
+	<dc:creator xml:lang="en">Bayer, Logan</dc:creator>
+	<dc:creator xml:lang="en">Bilskie, Matthew</dc:creator>
+	<dc:creator xml:lang="en">Bacopoulos, Peter</dc:creator>
+	<dc:description xml:lang="en">Water is vital for any civilization to prosper; thus, settlements have been established within the coastal or fluvial floodplain throughout history. These communities, especially low-gradient ones, are prone to flood hazards such as nuisance flooding, storm surges, extreme rainfall, and high river discharge. However, when two or more flood drivers (e.g., coastal, pluvial, and fluvial) coincide or are in close succession, it can be classified as a compound flood event (Bilskie and Hagen, 2018). Consequently, the inundation impacts can be exacerbated (rather than being a linear superposition) due to the nonlinear interaction of the coastal and hydrologic processes (Santiago-Collazo et al., 2019). With the effects of climate change, coastal watersheds will be subjected to additional flood stressors, resulting in catastrophic effects if future planning tools do not consider the compounding behavior of these flood drivers. Numerical modeling tools may allow the design of risk-mitigation strategies but require simulations of several flooding scenarios to be considered simultaneously to account for compound floods. However, the current techniques cannot simulate multiple processes simultaneously and lose accuracy when modeling events with numerous flood drivers by coupling different modeling tools.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14705</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.225</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.225</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14705/13977</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Felix Luis Santiago-Collazo, Logan Bayer, Matthew Bilskie, Peter Bacopoulos</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

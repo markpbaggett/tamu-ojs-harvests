@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14143</identifier>
+				<datestamp>2025-05-29T06:12:56Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW FORMULA FOR PRESSURE TRANSMISSION INSIDE RUBBLE MOUND BREAKWATERS PROTECTING LAND RECLAMATIONS</dc:title>
+	<dc:creator xml:lang="en">Dimakopoulos, Aggelos</dc:creator>
+	<dc:creator xml:lang="en">Allsop, William</dc:creator>
+	<dc:creator xml:lang="en">Chandler, Ian</dc:creator>
+	<dc:creator xml:lang="en">Pullen, Tim</dc:creator>
+	<dc:description xml:lang="en">Recent land reclamation projects where maximization of land use is crucial have resulted in the appearance of types of coastal defenses that have not been extensively studied. Rubble mound breakwaters with open filters or geotextiles are increasingly used in reclamation projects. Due to placement of landfill material (e.g. dredged sand with silt) close to the rubble mound, these structures are potentially vulnerable to internal erosion and material loss through the coarser breakwater layers, a process which is often characterized as suffusion. Several past studies have highlighted these issues (Cantelmo et al 2011; Polidoro et al 2015). Incipient of sediment motion in the landfill area is highly dependent of the pressure gradients developing and reliable prediction of pressures is of great importance. This work presents a methodology for modifying existing formulas for estimating internal pressures in rubble mound breakwaters in the presence of reflective surfaces. The methodology follows a relatively simple concept and is applied to correct predictions of the formula proposed by Burcharth et al (1999). The corrected formula is compared against numerical modelling predictions published in Dimakopoulos et al (2023). Comparison and further verification of the formula will be performed following additional numerical (CFD) model simulations and experimental data.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14143</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.23</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.23</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14143/13415</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Aggelos Dimakopoulos, William Allsop, Ian Chandler, Tim Pullen</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14711</identifier>
+				<datestamp>2025-05-29T09:17:54Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXAMINING THE ROLE OF TROPICAL CYCLONE RAINFALL MOTION IN COASTAL COMPOUND FLOODING</dc:title>
+	<dc:creator xml:lang="en">Qian, Xiaojuan</dc:creator>
+	<dc:creator xml:lang="en">Son, Sangyoung</dc:creator>
+	<dc:description xml:lang="en">Compound flooding, involving the interplay between pluvial, fluvial, and storm surge components, poses a significant threat to estuarine areas. Previous studies, such as Kossin (2018), have reported potential changes in tropical cyclone motions under the influence of climate change. Consequently, understanding the impact of tropical cyclone rainfall movement on coastal compound floods is critical for flood risk assessment, particularly in regions frequently impacted by cyclones. Such understanding is pivotal in refining predictive models, enhancing urban planning strategies, and better preparing communities for these devastating events. This study aims to examine the impact of tropical cyclone (TC) rainfall movement on coastal compound flooding. A stochastic generation approach for TC rainfall was employed, applied to synthetic TC tracks, and the resulting compound flood scenarios were modeled using Delft3D-FM. This will elucidate how TC rainfall motion affects each component of compound flooding.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14711</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.227</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.227</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14711/13983</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Xiaojuan Qian, Sangyoung Son</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

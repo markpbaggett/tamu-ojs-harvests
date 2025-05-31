@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14015</identifier>
+				<datestamp>2025-05-29T06:12:37Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPUTATIONAL SIMULATION OF EROSION AT COPACABANA BEACH – RJ - BRAZIL, UNDER THE INFLUENCE OF STORM WAVES: COASTAL PROTECTION STRATEGIES</dc:title>
+	<dc:creator xml:lang="en">Pinho, Diana</dc:creator>
+	<dc:creator xml:lang="en">Silva, Rodrigo</dc:creator>
+	<dc:creator xml:lang="en">Rosman, Paulo</dc:creator>
+	<dc:description xml:lang="en">This study investigates the morphodynamic behavior of Copacabana Beach, Rio de Janeiro, during a significant storm event from August 10 to August 25, 2017, using the SisBaHiA® model. The storm generated southeast waves up to 3.8 meters in height, causing intense erosion, particularly in the southern region between lifeguard stations 5 and 6. During this period, cross-shore sediment transport was calculated, showing sediment displacement offshore, leading to shoreline retreat and increased vulnerability of local infrastructure. A proposed solution involving sand nourishment and the construction of a retaining structure was simulated to assess its impact on stabilizing the area. The results showed reduced erosion rates and improved sediment retention in the southern region, minimizing shoreline retreat and protecting the coastal infrastructure. This study demonstrates the potential of combining nourishment and structural interventions to enhance the beach's stability during extreme storm events.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14015</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.64</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.64</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14015/13287</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Diana Pinho, Rodrigo Silva, Paulo Rosman</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

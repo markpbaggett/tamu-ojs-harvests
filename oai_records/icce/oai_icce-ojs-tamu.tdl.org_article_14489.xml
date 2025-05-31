@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14489</identifier>
+				<datestamp>2025-05-29T06:46:28Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SYSTEMATIC APPROACH TO ASSESS WAVE OVERTOPPING AT A REGIONAL SCALE: THE NORTHERN PORTUGUESE COAST</dc:title>
+	<dc:creator xml:lang="en">Carneiro-Barros, Jose Eduardo</dc:creator>
+	<dc:creator xml:lang="en">Fazeres-Ferradosa, Tiago</dc:creator>
+	<dc:creator xml:lang="en">Rosa-Santos, Paulo</dc:creator>
+	<dc:creator xml:lang="en">Taveira-Pinto, Francisco</dc:creator>
+	<dc:description xml:lang="en">This study presents a comprehensive methodology for assessing wave overtopping risks along the Northern Portuguese Coast, spanning from Viana do Castelo to Aveiro. A Python-based algorithm was developed to analyse a 2m resolution Digital Terrain Model (DTM) of the coast, capturing a spatial extent approximately 400m seaward and 600m landward. By generating transects at 100m intervals that conform to the coast's geometry and orientation, key coastal parameters such as the beach slope (derived from the intertidal range) and the critical overtopping threshold were extracted. Utilizing an empirical formula using genetic-programming based algorithm, wave run-up estimations were calculated for specific sea states. The resulting data was integrated into an interactive map, effectively highlighting the region’s most susceptible to wave overtopping and potential coastal flooding. This innovative approach not only facilitates an understanding of the present coastal vulnerability but also provides an invaluable tool for future coastal engineering and management endeavours in the region.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14489</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.166</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.166</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14489/13761</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Jose Eduardo Carneiro-Barros, Tiago Fazeres-Ferradosa, Paulo Rosa-Santos, Francisco Taveira-Pinto</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

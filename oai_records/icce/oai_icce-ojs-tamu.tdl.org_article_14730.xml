@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14730</identifier>
+				<datestamp>2025-05-29T09:22:30Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">XBEACH MODELLING OF A MIXED SAND AND GRAVEL SHORELINE: EAST VANCOUVER ISLAND</dc:title>
+	<dc:creator xml:lang="en">Ramsden, Laura</dc:creator>
+	<dc:creator xml:lang="en">Martens, Pauline</dc:creator>
+	<dc:creator xml:lang="en">Lamont, Grant</dc:creator>
+	<dc:creator xml:lang="en">Hilsen, Wil</dc:creator>
+	<dc:creator xml:lang="en">Osborne, Phil</dc:creator>
+	<dc:creator xml:lang="en">Berard, Neville</dc:creator>
+	<dc:description xml:lang="en">The study site is a coastal spit located in the Englishman River estuary, located at Parksville, British Columbia approximately 80 km west of Vancouver as shown in Figure 1. In this paper, we present a holistic approach to evaluating nature-based solutions and assessing coastal processes of a mixed sediment shoreline by integrating coastal process modelling using XBeach (Deltares, 2018) with geomorphic assessment This study applied a hybrid approach using both XBeach 2D which has been shown to have good quantitative skill in predicting storm response of sandy beaches and a modified 1D version, XBeach-G, which has been applied with some success to modelling uniform gravel beaches (McCall et al, 2014). The 2D (sand) and 1D (gravel) versions were applied in the surf beat mode and non- hydrostatic mode, respectively.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14730</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.101</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.101</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14730/14002</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Laura Ramsden, Pauline Martens, Grant Lamont, Wil Hilsen, Phil Osborne, Neville Berard</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

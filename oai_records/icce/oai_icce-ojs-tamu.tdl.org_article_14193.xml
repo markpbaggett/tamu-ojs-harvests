@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14193</identifier>
+				<datestamp>2025-05-29T06:31:54Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL INVESTIGATION OF WAVE ATTENUATION IN MANGROVE FORESTS USING THE IMMERSED BOUNDARY METHOD</dc:title>
+	<dc:creator xml:lang="en">Chen, Fan</dc:creator>
+	<dc:creator xml:lang="en">Duan, Huan-Feng</dc:creator>
+	<dc:creator xml:lang="en">Wang, Jinghua</dc:creator>
+	<dc:description xml:lang="en">Mangrove forests provide a natural barrier to waves in coastal regions. Their wave attenuation effect has been the research focus in the past decades. Numerical simulations as one of the important approaches, however, rely heavily on simplified geometries of mangrove forests (such as cylinder array) or involve a series of empirical coefficients (e.g., to approximate drag forces or permeability). This affects the accuracy of numerically reproducing such physical processes and limits the prediction of wave attenuation effect under complex scenarios. Therefore, this work aims to establish a numerical model accounting for the interactions between waves and mangrove forests with complicated geometries, so as for better understanding and quantification of the attenuation effect of mangrove forests on coastal waves. After careful calibration and validation of the proposed model, the obtained numerical results are systematically analyzed for the importance of different factors to the interactions of mangrove forests and waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14193</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.38</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.38</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14193/13465</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Fan Chen, Huan-Feng Duan, Jinghua Wang</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14423</identifier>
+				<datestamp>2025-05-29T06:59:22Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ACOUSTIC BACKSCATTER MODEL FOR A MIXTURE OF SAND AND SHELL SEDIMENTS</dc:title>
+	<dc:creator xml:lang="en">Fromant, Guillaume</dc:creator>
+	<dc:creator xml:lang="en">Floc'h, France</dc:creator>
+	<dc:creator xml:lang="en">Yon--Campaner, Oriana</dc:creator>
+	<dc:creator xml:lang="en">Dantec, Nicolas Le</dc:creator>
+	<dc:creator xml:lang="en">Augereau, Emmanuel</dc:creator>
+	<dc:creator xml:lang="en">Jaud, Marion</dc:creator>
+	<dc:description xml:lang="en">Assessing sediment stocks and transfers has become a key issue in recent decades. While the contribution of acoustic methods has led to a better understanding of sediment dynamics, through the measurement of waves and currents, the idea of using them to quantify the sediment fluxes is in full development. However, the use of these methods requires precise knowledge of the scattering properties of the suspended particulate matter present in the water column (also called the form function), as a function of the particle properties (size, shape, density...) and the instrument frequency. Analytical models (also called backscattering model) do exist for simple shapes, but their complexity increases when it comes to real suspensions, preventing accurate inversion of the acoustic intensity into suspended sediment concentration (Stanton and chu, 2000). Therefore, heuristic or semi-analytical models have been developed to overcome these limitations. But this approach has mainly been steered towards the case of homogeneous mineral (sand – Thorne and Hanes, 2002) or organic (zooplankton – Holliday and Pieper, 1995; Stant and Chu, 2000) suspensions. However, in situ sediments in the marine domains are often made of mixed biological and geological origins. This study proposes for the first time a heuristic formulation describing the backscattering properties of a mixture of coarse sand and shell sediments. Different proportions are considered. The method is validated against unsorted in situ samples.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14423</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.61</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.61</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14423/13695</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Guillaume Fromant, France Floc'h, Oriana Yon--Campaner, Nicolas Le Dantec, Emmanuel Augereau, Marion Jaud</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

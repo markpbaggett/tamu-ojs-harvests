@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13977</identifier>
+				<datestamp>2025-05-29T06:12:31Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SIMULATION OF IMPULSIVE WAVE ACTION ON SUBMERGED HORIZONTAL PLATE USING A WATER-AIR TWO-PHASE FLUIDS NUMERICAL MODEL</dc:title>
+	<dc:creator xml:lang="en">Shi, Xiao</dc:creator>
+	<dc:creator xml:lang="en">Jiang, Qin</dc:creator>
+	<dc:creator xml:lang="en">Hao, Jie</dc:creator>
+	<dc:description xml:lang="en">Impulsive wave force on marine structures is a vital hydrodynamic parameter for the design of coastal and offshore structures. In this study, an improved numerical wave model dealing with compressible-incompressible air water two- phase fluids is applied for the wave-structure interaction problems involving impulsive wave actions. The fifth-order accurate weighted essentially non-oscillation (WENO) scheme is used to solve the Navier-Stokes equation for fluid flows, and the improved multi-dimensional tangent of hyperbola for interface capturing scheme with weighted line interface calculation method (THINC/WLIC) is adopted to track the interface. By comparing the numerical results with analytical solutions and experimental data, the accuracy of the present numerical wave model is validated. Subsequently, the model is applied to simulate the impact process of regular waves on a submerged horizontal plate. A comparison between the simulation results and experimental data demonstrates that the present numerical model provides high-precision predictions of the impact pressure. By analyzing the wave impact process on the plate under different relative wavelength conditions, the effect of the number and distribution of air pockets on the pressure distribution at the bottom of the plate is investigated.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13977</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13977/13249</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Xiao Shi, Qin Jiang, Jie Hao</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14459</identifier>
+				<datestamp>2025-05-29T10:28:31Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELING OF RUBBLE MOUND BREAKWATERS TO SUPPORT PREDICTIVE MAINTENANCE ACTIONS: AN EXAMPLE OF THE SPANISH COASTS</dc:title>
+	<dc:creator xml:lang="en">Tagliafierro, Bonaventura</dc:creator>
+	<dc:creator xml:lang="en">Altomare, Corrado</dc:creator>
+	<dc:creator xml:lang="en">Arcilla, Agustín Sánchez</dc:creator>
+	<dc:creator xml:lang="en">Tomás, Antonio</dc:creator>
+	<dc:creator xml:lang="en">Barajas, Gabriel</dc:creator>
+	<dc:creator xml:lang="en">Bengochea, Pablo</dc:creator>
+	<dc:creator xml:lang="en">Solabarrieta, Lohitzune</dc:creator>
+	<dc:creator xml:lang="en">Hernaez, Mario</dc:creator>
+	<dc:creator xml:lang="en">Martínez-Estévez, Iván</dc:creator>
+	<dc:creator xml:lang="en">Domínguez, José M.</dc:creator>
+	<dc:creator xml:lang="en">Crespo, Alejandro</dc:creator>
+	<dc:description xml:lang="en">The primary purpose of a breakwater is to ensure the safety of docking operations, providing secure navigation and operational stability within designated areas. In response to the challenges presented by climate change and rising sea levels, coastal engineers and scientists are actively conducting research to assess the implications of the increased demand for artificial armor units and to develop appropriate solutions. This will likely contribute to driving a growing trend in the refurbishment of current coastal defense structures, due to changes in the intensity and frequency of events within a specified return period, coupled with a decreased acceptance for events that are disproportionately severe. Consequently, in the coming years, it would be advantageous to have updated design guidelines capable of incorporating the latest engineering methodologies, such as digital twins, which can in principle provide, a comprehensive understanding of the maximum dynamic loads a structure may face during its duty cycle.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14459</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.75</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.75</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14459/13731</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Bonaventura Tagliafierro, Corrado Altomare, Agustín Sánchez Arcilla, Antonio Tomás, Gabriel Barajas, Pablo Bengochea, Lohitzune Solabarrieta, Mario Hernaez, Iván Martínez-Estévez, José M. Domínguez, Alejandro Crespo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14653</identifier>
+				<datestamp>2025-05-29T08:13:57Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILISTIC TSUNAMI HAZARD ANALYSIS FROM SUBMARINE MASS FAILURE: A MONTE CARLO APPROACH TO A CASE STUDY IN ITALY</dc:title>
+	<dc:creator xml:lang="en">Cecioni, Claudia</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:creator xml:lang="en">Grilli, Stephan T.</dc:creator>
+	<dc:description xml:lang="en">Tsunamis, although of rare occurrence compared to other natural disasters, can have devastating consequences for society’s increasingly populated coastal areas. In order to manage the associated risk, coastal tsunami hazard can be assessed by performing a Probabilistic Tsunami Hazard Analysis (PTHA). Typically, PTHAs have mainly focused on coseismic tsunami sources, however, some probabilistic investigations have been carried out for subaerial or submarine landslide sources (e.g., Grilli et al 2009; Grezio et al 2012). Here, to perform such hazard analyses, we use the efficient model developed by Iorio et al. (2021), based on solving the linear mild-slope equation (MSE) in the frequency domain, with a time-dependent source term representing the seafloor motion caused by the landslide. Away from shore, tsunami waves are of small steepness and, hence, well represented by a linear model. The MSE features full frequency dispersion, which is necessary for an accurate modeling, since landslide tsunamis are typically made of shorter waves than coseismic tsunamis.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14653</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.209</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.209</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14653/13925</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Claudia Cecioni, Giorgio Bellotti, Stephan T. Grilli</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

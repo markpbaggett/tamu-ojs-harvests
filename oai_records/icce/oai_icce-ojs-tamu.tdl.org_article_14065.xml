@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14065</identifier>
+				<datestamp>2025-05-29T06:12:45Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VALIDATION OF A NUMERICAL MODEL FOR DISPERSION OF HEAVY MARINE PLASTIC</dc:title>
+	<dc:creator xml:lang="en">Núñez, Paula</dc:creator>
+	<dc:creator xml:lang="en">Romano, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Medina, Raúl</dc:creator>
+	<dc:creator xml:lang="en">Besio, Giovanni</dc:creator>
+	<dc:description xml:lang="en">Plastic debris poses a significant threat to marine and coastal ecosystems, and its transport behavior is influenced by both environmental factors and plastic characteristics. Most of the current numerical transport models (Eulerian or Lagrangian) ignore the inertial character of the particles and consider them as passive drifters, which is an acceptable simplification to address the study of light particle transport. These transport models have been satisfactorily applied to study the transport of buoyant plastics in open oceans (e.g., Van Sebille et al., 2012), regional areas (e.g., Zambianchi et al., 2014, 2017), and closed water bodies (e.g., Núñez et al., 2019, 2021). However, inertial forces are relevant in the transport processes of heavy particles. Recent studies, such as those by Stocchino et al. (2019), De Leo et al. (2021), and De Leo and Stocchino (2022), have highlighted the significant impact of inertial forces on the transport of negatively buoyant particles, causing an increased settling velocity and altering their overall transport by waves. However, the study of inertial forces in plastic debris is still in need of improvement. The main objective of this study is to validate a new predictive numerical tool that accounts for the inertial effects of plastic debris transported by waves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14065</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.11</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.11</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14065/13337</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Paula Núñez, Alessandro Romano, Raúl Medina, Giovanni Besio</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14175</identifier>
+				<datestamp>2025-05-29T10:33:24Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL AND NUMERICAL INVESTIGATION OF A FLOATING OFFSHORE WIND TURBINE PLATFORM</dc:title>
+	<dc:creator xml:lang="en">Inal, Umutcan</dc:creator>
+	<dc:creator xml:lang="en">Ogur, Mehmet Utku</dc:creator>
+	<dc:creator xml:lang="en">Yuksel, Yalcin</dc:creator>
+	<dc:creator xml:lang="en">Cakici, Ferdi</dc:creator>
+	<dc:creator xml:lang="en">Sahin, Cihan</dc:creator>
+	<dc:creator xml:lang="en">Beji, Serdar</dc:creator>
+	<dc:description xml:lang="en">The present study investigated the dynamic response of a novel design 1:50 scaled semisubmersible floating offshore wind turbine platform, consisting of three cone- shaped columns aiming to reduce wave load, maintain draft, and allow operation at shallower depts via model tests and numerical simulations. The experimental test including, free decay, regular wave and operational and extreme irregular wave, wave-wind combination conditions were conducted at wave basin in Hydrodynamic Research Laboratory at Yildiz Technical University. The numerical simulations were performed via OpenFOAM software. The results showed that the model has reasonable natural periods considering wave period ranges and was also stable under operational and extreme conditions. The numerical simulation results were found consistent with experimental results.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14175</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.29</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.29</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14175/13447</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Umutcan Inal, Mehmet Utku Ogur, Yalcin Yuksel, Ferdi Cakici, Cihan Sahin, Serdar Beji</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

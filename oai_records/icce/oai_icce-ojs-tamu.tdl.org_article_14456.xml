@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14456</identifier>
+				<datestamp>2025-05-29T07:08:28Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PROBABILITY DENSITY FUNCTIONS AND THEIR POSITIVE TAILS TO ANY ORDER IN NONLINEARITY FOR THE SURFACE ELEVATION IN IRREGULAR SEAS</dc:title>
+	<dc:creator xml:lang="en">Klahn, Mathias</dc:creator>
+	<dc:creator xml:lang="en">Zhai, Yanyan</dc:creator>
+	<dc:creator xml:lang="en">David R. Fuhrman</dc:creator>
+	<dc:description xml:lang="en">Until very recently, the probability density function (p.d.f.) arising from the cumulant generating function for the surface elevation in irregular seas - free of assumptions involving narrow-bandedness and/or small directionality - was only known exactly to first order, where it is Gaussian. At higher orders, this p.d.f. had only been represented approximately (Longuet-Higgins 1963) e.g. as a Gram- Charlier series. In a recent development, the present authors (Fuhrman, Klahn and Zhai 2023, henceforth referred to as FKZ) have shown that to second-order this p.d.f. may, in fact, be represented exactly in terms of the Airy function. Notably, this new theoretical result shows that the p.d.f. has an inherently heavier positive tail (i.e. increased probability density of large surface elevations, typical of e.g. rogue waves) than had been explained previously, and that at second order it is governed solely by the skewness.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14456</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.71</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.71</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14456/13728</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Mathias Klahn, Yanyan Zhai, David R. Fuhrman </dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

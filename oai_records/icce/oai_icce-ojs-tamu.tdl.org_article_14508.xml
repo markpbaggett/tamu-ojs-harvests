@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14508</identifier>
+				<datestamp>2025-05-29T10:27:32Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE BREAKING ONSET AND DISSIPATION IN A FULLY NON-LINEAR, STAGGERED GRID BOUSSINESQ MODEL</dc:title>
+	<dc:creator xml:lang="en">Fotia, Maria</dc:creator>
+	<dc:creator xml:lang="en">Kirby, James T.</dc:creator>
+	<dc:creator xml:lang="en">Derakhti, Morteza</dc:creator>
+	<dc:creator xml:lang="en">Grilli, Stephan T.</dc:creator>
+	<dc:description xml:lang="en">This study considers the pre- and post-breaking behavior of Weakly-nonlinear (WNL) and Fully-nonlinear (FNL) Boussinesq-type (BTE) models. The main inquiries are: 1. Can the FNL model accurately reproduce shoaling behavior and the estimation of parameters crucial for describing breaking initiation? 2. How can the depiction of breaking be enhanced to accurately reproduce CFD calculations? Previous findings indicate that linear, KdV, or WNL models fail to reproduce shoaling for waves near breaking. While FNL models have shown accurate results in shoaling solitary waves (for example, Wei et al., 1995), it is uncertain if this robustness extends to shorter wavelengths. To address this, we analyze wave crest and velocity field properties across various wave conditions, comparing them to CFD calculations based on an LES/VOF model (Derakhti and Kirby, 2014) or a boundary element method potential flow solver (Grilli and Subramanya, 1996). Our tests reveal shortcomings in both the FUNWAVE 1-centered grid scheme (Wei and Kirby, 1995) and FUNWAVE-TVD (Shi et al., 2012) for accurately reproducing wave shoaling up to the breaking point in steep regular waves and solitary waves, respectively. We resolve this by employing a finite difference scheme with a staggered grid, enhancing the FNL Boussinesq model and ensuring precise numerical calculations of dispersion effects and shoaling. BTE models, assuming irrotational flow, utilize breaking closure models to identify breaking onset and calculate dissipation. Breaking onset is typically determined using geometric criteria, while post-breaking dissipation employs 0-equation models for eddy viscosity based on empirically derived geometric criteria. Our study demonstrates that these representations overpredict the immediate wave height decay after breaking. To address these issues, we (i) implement the B-criterion for a more robust kinematic threshold for breaking onset, where B = us/c, us is the surface velocity and c is the crest translation speed. This criterion was initially proposed by Barthélemy et al. (2018) for intermediate and deep water and validated by Derakhti et al. (2020) for all depths. (ii) For energy dissipation due to breaking, we adopt a revised model based on a 1-equation closure for turbulent kinetic energy (TKE), as suggested by Nwogu (1996). Finally, we derive a parameterization of TKE for determining eddy viscosity without relying on the closure model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14508</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14508/13780</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Maria Fotia, James T. Kirby, Morteza Derakhti, Stephan T. Grilli</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

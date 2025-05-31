@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14233</identifier>
+				<datestamp>2025-05-29T06:32:22Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ADVANCES IN PHASE-RESOLVED MODELING FOR MAPPING AND FORECASTING OF WAVE- DRIVEN COASTAL PHENOMENA</dc:title>
+	<dc:creator xml:lang="en">Azouri, Assaf</dc:creator>
+	<dc:creator xml:lang="en">Guiles, Martin</dc:creator>
+	<dc:creator xml:lang="en">Roeber, Volker</dc:creator>
+	<dc:creator xml:lang="en">Li, Ning</dc:creator>
+	<dc:creator xml:lang="en">Tognaccini, Camilla</dc:creator>
+	<dc:creator xml:lang="en">Mihami, Fatima-Zahra</dc:creator>
+	<dc:creator xml:lang="en">Luther, Douglas S.</dc:creator>
+	<dc:description xml:lang="en">Phase-resolving coastal wave models have become an integral tool for predicting wave-driven phenomena such as run-up (Barnard, 2009; Grilli, 2020), and coastal flooding (Kennedy, 2012; Anderson et al., 2018). Since these models require time-consuming computations to cover sufficiently large domains, applications often involve modeling over numerous one-dimensional (1D) shore-normal transects, where the results are then interpolated onto a two-dimensional (2D) grid. This approach requires little computational time and is well suited for cases where the underlying elevation models show little alongshore variation. However, by adding 2D wave dynamics the simulation can account for phenomena that in complex environmental settings have important influence on wave-driven processes such as wave run-up and flooding. To take advantage of the full capabilities of this modeling approach, several mapping and near real-time prediction tools were developed using a phase-resolving model in two-dimensional horizontal (2DH) mode. The results of this work show that phase-resolving models can drastically improve the assessment of coastal wave processes and even produce results in near real-time through the strategic development of code that dramatically improves computational efficiency.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14233</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.43</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.43</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14233/13505</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Assaf Azouri, Martin Guiles, Volker Roeber, Ning Li, Camilla Tognaccini, Fatima-Zahra Mihami, Douglas S. Luther</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

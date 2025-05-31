@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14071</identifier>
+				<datestamp>2025-05-29T06:12:46Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LARGE-SCALE INFRAGRAVITY WAVE-RESOLVING FLOOD HAZARD MODELLING</dc:title>
+	<dc:creator xml:lang="en">Leijnse, Tim</dc:creator>
+	<dc:creator xml:lang="en">Dongeren, Ap van</dc:creator>
+	<dc:creator xml:lang="en">Ormondt, Maarten van</dc:creator>
+	<dc:creator xml:lang="en">Aerts, Jeroen</dc:creator>
+	<dc:creator xml:lang="en">Muis, Sanne</dc:creator>
+	<dc:creator xml:lang="en">Roelvink, Dano</dc:creator>
+	<dc:description xml:lang="en">Coastal communities worldwide are under threat of flooding due to hazards such as (extra-) tropical storms, spring tides, wind sea and swell waves, high river discharges and heavy rainfall events (Mousavi et al., 2011). In some coastal areas, waves can be the dominant driver of extreme water levels (e.g. Parker et al., 2023), but for regional to continental scales these are often not included in coastal flooding assessments, due to the high computational expense of numerical models (e.g. XBeach; Roelvink et al., 2009). Recent literature has shown that it is possible to model large coastlines in fast reduced-complexity compound flood models (e.g. SFINCS; Leijnse et al., 2021), for instance for thousands of kilometers of Australia in an early warning system (Leijnse et al., 2022). However, to be able to include dynamic wave runup and overtopping in such a system, we need to derive nearshore infragravity (IG) wave conditions in a fast way, without relying on computationally expensive advanced numerical models. Recent advancements in SFINCS and a coupled fast stationary wave spectral model, called SnapWave, have the potential to solve this. In this study we combine many of these advancements and show how to include IG waves as boundary conditions in SFINCS. Afterwards we demonstrate that one can now finally include dynamic IG wave-resolving runup and overtopping processes in large- scale flooding assessments.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14071</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14071/13343</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tim Leijnse, Ap van Dongeren, Maarten van Ormondt, Jeroen Aerts, Sanne Muis, Dano Roelvink</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14660</identifier>
+				<datestamp>2025-05-29T08:19:25Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPREHENSIVE STUDY OF A COASTAL INLET EVOLUTION AND ITS DRIVING FACTORS</dc:title>
+	<dc:creator xml:lang="en">Alonso, Rodrigo</dc:creator>
+	<dc:creator xml:lang="en">Gurruchaga, Paula</dc:creator>
+	<dc:creator xml:lang="en">Lambert, Maya</dc:creator>
+	<dc:creator xml:lang="en">Solari, Sebastian</dc:creator>
+	<dc:description xml:lang="en">Coastal inlets are highly dynamic environments influenced by both maritime (waves and tides) and continental (river discharge) factors. This dynamic has implications on navigation, ecological processes, morphological processes on adjacent beaches and floodings upstream. Therefore, coastal managers are increasingly demanding more knowledge about it, leading to studies such us Duc Anh et al., (2020) and Nguyen et al., (2022) among others. The recently developed open-source toolkit InletTracker (Heimhuber et al., 2021) allows obtaining information on the evolution of coastal inlets over the last 30+ years from Landsat and Sentinel-2 imagery. Specifically, long-term time series of the inlet state (open or closed), and its location when is open, can be obtained. The present work proposes a cross-analysis of these information with those corresponding to the driving factors of the system during the same period. This approach was applied to gain insights into the behavior of the Mauricio River mouth in Uruguay (34.71°S-56.69°W). The Mauricio River is a small watercourse that discharges into the Río de la Plata through an intermittent mouth, which has shifted along a 1 km stretch of coastline over the last 30 years. This behavior has prompted calls for interventions from fisheries seeking access to the sea through the river, from residents occupying properties at risk of flooding, and from those utilizing adjacent beaches.                             </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14660</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.211</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.211</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14660/13932</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Rodrigo Alonso, Paula Gurruchaga, Maya Lambert, Sebastian Solari</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

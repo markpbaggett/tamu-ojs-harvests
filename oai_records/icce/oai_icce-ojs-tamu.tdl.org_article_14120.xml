@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14120</identifier>
+				<datestamp>2025-05-29T06:12:53Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STUDY OF AEOLIAN MASS FLUX ESTIMATION ON COASTAL ENVIRONMENTS USING IMAGE ANALYSIS</dc:title>
+	<dc:creator xml:lang="en">Kim, Young-Min</dc:creator>
+	<dc:creator xml:lang="en">Rhew, Hosahng</dc:creator>
+	<dc:creator xml:lang="en">Yoon, Hyun-Doug</dc:creator>
+	<dc:description xml:lang="en">Sand transport by wind (aeolian transport) is a factor that plays a decisive role in the accretion process of beaches and dunes (de Vries et al., 2012). Study on aeolian transport began in 1941 when Bagnold established the aeolian mass flux equation for dry desert conditions. In the field of coastal engineering, aeolian transport study began in 1980s by applying the Bagnold equation to the coastal environment. Many researchers have been investigating using various aeolian sand traps and wind tunnel experiments to analyze aeolian transport in coastal environmental conditions (Barchyn and Hugenholtz., 2010; Davidson- Arnott and Bauer., 2009). However, the problem with aeolian sand traps is that the collection performance varies depending on the sand trap. This study suggested a non-intrusive calculation method of aeolian mass flux using image analysis. By analyzing the wind tunnel experiment using image analysis, we aim to present aeolian mass flux estimation technique suitable for coastal environments. Also, with the suggested methods, the influence of coastal environmental factors such as moisture, vegetation, and shells on aeolian mass flux was examined. Unlike existing aeolian sand traps, it has the advantage of being able to measure sand velocity and concentration caused by wind. It is expected that more quantitative analysis will be possible.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14120</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.14</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.14</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14120/13392</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Young-Min Kim, Hosahng Rhew, Hyun-Doug Yoon</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

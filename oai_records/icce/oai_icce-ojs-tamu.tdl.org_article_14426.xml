@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14426</identifier>
+				<datestamp>2025-05-29T10:33:22Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AN OVERVIEW OF MULTI-SCALE CAPABILITIES OF THE SPECTRAL WAVE MODEL (WAVEWATCH III) FOR GLOBAL AND COASTAL APPLICATIONS. CASE STUDY: 2022 ATLANTIC HURRICANE SEASON</dc:title>
+	<dc:creator xml:lang="en">Abdolali, Ali</dc:creator>
+	<dc:creator xml:lang="en">Roland, Aron</dc:creator>
+	<dc:creator xml:lang="en">Hesser, Ty</dc:creator>
+	<dc:creator xml:lang="en">Schönau, Martha</dc:creator>
+	<dc:creator xml:lang="en">Michaud, Heloise</dc:creator>
+	<dc:creator xml:lang="en">Bryant, Mary</dc:creator>
+	<dc:creator xml:lang="en">Honegger, David</dc:creator>
+	<dc:creator xml:lang="en">Smith, Jane</dc:creator>
+	<dc:description xml:lang="en">The third-generation spectral wave model WAVEWATCH III (WW3), has undergone significant advancements in its unstructured components. This recent enhancement of WW3 includes the implementation of modern parallelization algorithms based on Geographical domain decomposition and updated physics [2]. Notably, the advanced capabilities of WW3 have already been applied in several studies, while others are currently undergoing testing. This presentation aims to provide an overview of the model's development, highlighting select application studies. Particular emphasis will be placed on the 2022 hurricane season in Atlantic and Gulf of Mexico (GoM) basins, during which a rich set of observations is available, ranging from stationary NDBC buoys to moving Lagrangian drifter buoys and satellite altimeters. These observations will be instrumental in assessing the model's performance during this critical period.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14426</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14426/13698</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ali Abdolali, Aron Roland, Ty Hesser, Martha Schönau, Heloise Michaud, Mary Bryant, David Honegger, Jane Smith</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

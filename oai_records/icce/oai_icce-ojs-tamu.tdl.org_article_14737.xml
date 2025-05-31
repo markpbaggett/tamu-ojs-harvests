@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14737</identifier>
+				<datestamp>2025-05-29T06:12:22Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF BREAKWATER IN TSUNAMIS: TROUGH-LEAD WAVE AND SEEPAGE EFFECT</dc:title>
+	<dc:creator xml:lang="en">Jannah, Zulaika Nur</dc:creator>
+	<dc:creator xml:lang="en">Rossetto, Tiziana</dc:creator>
+	<dc:creator xml:lang="en">Lopez-Querol, Susana</dc:creator>
+	<dc:description xml:lang="en">Tsunamis are long and large ocean waves triggered by earthquakes or landslides, causing severe damage to coastal areas. To tackle this threat, several prevention methods have been developed to mitigate the effect of tsunamis, including the design of coastal structures such as breakwaters. Among these structures, caisson composite-type breakwaters have emerged as a popular choice for tsunami-resisting measures. This structure has demonstrated its crucial role in mitigating the impact of tsunami waves and safeguarding coastal areas. Extensive research has shown that this breakwater type, along with similar structures, plays a vital role in reducing the tsunami impact. Regrettably, the full understanding of the behaviour of this protection breakwater, and similar structures, during tsunami events is still not fully known. Past studies mainly focused on tsunamis with crest-only waves, neglecting the trough-lead waves and related phenomena like seepage forces. This seepage can affect breakwater stability. This report uses 3D models in MIDAS GTS NX software to analyze breakwaters under tsunami waves both trough-lead and crest-only. The analysis encompasses seepage-stress coupling and is validated against experimental data provided by the MAKEWAVE team using a tsunami simulator in HR Wallingford. </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14737</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.124</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.124</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14737/14009</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Zulaika Nur Jannah, Tiziana Rossetto, Susana Lopez-Querol</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

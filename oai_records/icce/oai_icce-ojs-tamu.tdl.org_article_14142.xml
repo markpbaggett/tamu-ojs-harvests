@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14142</identifier>
+				<datestamp>2025-05-29T06:12:56Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ON A METHODOLOGY TO MEASURE WAVE BOUDARY LAYER PARAMETERS UNDER IN SITU SURFACE WAVES</dc:title>
+	<dc:creator xml:lang="en">Fritsch, Noémie</dc:creator>
+	<dc:creator xml:lang="en">Floc'h, France</dc:creator>
+	<dc:creator xml:lang="en">Fromant, Guillaume</dc:creator>
+	<dc:description xml:lang="en">Sand transport predictions represent high social, economic and environmental stakes. Therefore, reliable sand transport models are needed. On a beach, either erosion or accretion can take place. Mechanisms leading to erosion are quite well known whereas accretion is less well predicted. Onshore transport occurs in the Wave Boundary Layer (WBL). Up until now, WBL transport processes have mainly been observed in laboratory conditions, in a controlled environment. This allowed in particular to highlight the three main WBL parameters (near-bed velocity phase shift, non-linearities evolution and WBL thickness) which control bed shear stress and therefore sand transport (Fuhrman et al., 2009). But in order to further improve sand transport models, in situ data are now necessary, to observe what happens under real, full spectrum surface waves. In situ data sets are quite rare because of the difficulty to deploy instruments on beaches, but also because of the metrological challenge bound to the observation of both hydrodynamics and sand transport processes in the Wave Bottom Boundary Layer with high spatial and temporal resolutions in the natural environment. The first in situ deployments, involving a new generation of ultrasonic Doppler sonar system, have been carried out during Winter 2022 at Porsmilin Beach, Brittany, France. This study presents the methodology used to obtain in situ WBL parameters.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14142</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14142/13414</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Noémie Fritsch, France Floc'h, Guillaume Fromant</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

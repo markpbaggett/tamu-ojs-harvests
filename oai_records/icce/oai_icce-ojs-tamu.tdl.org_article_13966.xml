@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13966</identifier>
+				<datestamp>2025-05-29T06:12:30Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">STABILITY AND HYDRODYNAMICS OF THE REEF ENHANCING BREAKWATER: A PHYSICAL MODEL STUDY</dc:title>
+	<dc:creator xml:lang="en">Houtzager, Daan</dc:creator>
+	<dc:creator xml:lang="en">Ascencio, Jaime</dc:creator>
+	<dc:creator xml:lang="en">Hofland, Bas</dc:creator>
+	<dc:creator xml:lang="en">Mendoza, Edgar</dc:creator>
+	<dc:creator xml:lang="en">Casarin, Rodolfo Silva</dc:creator>
+	<dc:creator xml:lang="en">Gent, Marcel van</dc:creator>
+	<dc:description xml:lang="en">This study presents the stability and hydrodynamics of the Reef Enhancing Breakwater (REB) based on a physical model study. The REB is an innovative shoreline protection solution that uses interlocking ReefBlocks designed to enhance marine life while ensuring structural stability. Through three physical model testing campaigns conducted in 2020, 2023, and 2024, the hydrodynamic performance and stability of the REB were evaluated for different setups and under varying wave conditions. The hydrodynamic results were compared with the wave transmission equations for submerged rock breakwaters, as described in the Rock Manual (2012), showing comparable wave transmission values to conventional rock structures, and a root mean square error (RMSE) of 0.072 between the equations and the data. The wave transmission formula for permeable structures, as described by van Gent et al. (2023), achieved an RMSE of 0.044, providing a precise tool for detailed designs. The transmission, dissipation, and reflection coefficients are compared to values reported in natural coral reefs, with the aim of biomimicking hydrodynamics for reef crest restoration projects. Stability was assessed for setups with depth limited waves, deep water waves, and under direct impact of plunging breakers. Stability numbers (Ns= Hm0/(Δ*Dn)) of up to 1.65 were found with no units being removed from the structure. When subjected to direct plunging wave impacts, lower stability numbers were observed. The findings support that the REB performs as an effective coastal defence technology designed to be stable and an effective wave attenuator while at the same time enhancing the marine ecosystem.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13966</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13966/13238</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Daan Houtzager, Jaime Ascencio, Bas Hofland, Edgar Mendoza, Rodolfo Silva Casarin, Marcel van Gent</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

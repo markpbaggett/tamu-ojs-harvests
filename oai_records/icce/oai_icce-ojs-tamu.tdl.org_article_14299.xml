@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14299</identifier>
+				<datestamp>2025-05-29T06:11:29Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PREDICTING INSTANTANEOUS SUBSURFACE VELOCITY USING SURFACE VELOCITY</dc:title>
+	<dc:creator xml:lang="en">Mccormack, Tyler</dc:creator>
+	<dc:creator xml:lang="en">Hopkins, Julia</dc:creator>
+	<dc:description xml:lang="en">Instantaneous measurements of water velocity at depth in the nearshore are rich with information about orbital velocities, longshore and cross shore currents, and forces that lead to sediment transport. Yet measurements of detailed subsurface velocities are scarce owing to the difficulties involved in installing and maintaining instruments such as acoustic velocimeters in high energy environments like the surf zone [Thornton and Guza, 1986]. Deploying in-situ instruments to measure velocity profiles often involves heavy machinery (e.g. cranes, waterjets, tripods, boats) and after deployment the instruments can be buried, broken, or biofouled owing to strong waves, currents, and biological activity. To address these difficulties, researchers have been developing and improving remote sensing methods capable of measuring wave height, wave period, bathymetry, and surface current velocity, among other useful nearshore parameters [Holman and Stanley, 2007; Brodie et. al., 2018; O’Dea, 2021]. Specifically, Chickadel et. al. [2003] and Holland et. al. [2001] show that cameras and particle image velocimetry (PIV) techniques can be used to accurately measure the velocity at the surface in the surf zone. Here, we build on these recent advances in coastal remote sensing by exploring how remote camera measurements can be used to quantify the relationship between the cross-shore components of instantaneous velocity at the surface and the corresponding velocity at depth in the water column. This work aims to address the question: how well can we use velocity at the surface and linear wave theory to obtain information about velocities at depth in the nearshore?</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14299</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.103</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.103</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14299/13571</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tyler Mccormack, Julia Hopkins</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

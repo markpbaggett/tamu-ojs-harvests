@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14348</identifier>
+				<datestamp>2025-05-29T06:11:37Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HOW RELEVANT ARE UNCERTAINTIES IN GLOBAL MODELS FOR ASSESSING STORM EROSION ON BARRIER ISLANDS?</dc:title>
+	<dc:creator xml:lang="en">Fanti, Valeria</dc:creator>
+	<dc:creator xml:lang="en">Ferreira, Óscar</dc:creator>
+	<dc:creator xml:lang="en">Loureiro, Carlos</dc:creator>
+	<dc:description xml:lang="en">Coastal storms can promote damaging impacts on barrier islands, induced by coastal flooding and beach erosion (Leaman et al., 2021). Process-based morphodynamic models, implemented with high- resolution topo-bathymetric and oceanographic data, enable the assessment of these coastal hazards at regional and local scales and the development of early warning systems. The advent of global models to characterise wave forcing (global wave reanalyses) and topo-bathymetry (global digital elevation models, DEM) allows the quantification of storm impacts to be extended to larger scales and data-poor areas. However, the uncertainties and limitations associated with the use of input conditions from low-resolution global models must be comprehensively addressed, as they can lead to errors in the subsequent model outputs. This work explores the uncertainties in global models and in the resulting quantification of storm impacts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14348</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.25</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.25</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14348/13620</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Valeria Fanti, Óscar Ferreira, Carlos Loureiro</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14107</identifier>
+				<datestamp>2025-05-29T06:12:51Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FORECASTING HURRICANE IMPACTS ON US COASTS</dc:title>
+	<dc:creator xml:lang="en">Dongeren, Ap van</dc:creator>
+	<dc:creator xml:lang="en">Ormondt, Maarten van</dc:creator>
+	<dc:creator xml:lang="en">Goede, Roel de</dc:creator>
+	<dc:creator xml:lang="en">Quataert, Ellen</dc:creator>
+	<dc:creator xml:lang="en">Athanasiou, Panos</dc:creator>
+	<dc:creator xml:lang="en">Nederhoff, Kees</dc:creator>
+	<dc:description xml:lang="en">Coastal zones are areas of high economic and ecological value which are under threat of natural hazards such as flooding and erosion. Already 10percent percent of the world’s population lives below 10 meters above mean sea level (McGranahan et al., 2007) and this number is likely to grow in the future. Moreover, coastal zones will experience accelerated sea level rise and will be subject to potentially increasing intensities of extreme water levels, due to extra-tropical and tropical storms, which will aggravate the impact of natural hazards. These increased impacts and costs necessitate an approach to assess flooding and damages a priori for planning and mitigation purposes. It also calls for flood forecasting systems to alert authorities to be able to prepare for an impact and evacuate the population (Roy and Kovordányi, 2012). While a number of forecasting systems are available, these usually focus on a relatively small area and a small number of hazards, mostly total water level, and rarely impacts. This presentation is about upscaling to larger regions, including more physics and more impacts.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14107</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.26</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.26</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14107/13379</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ap van Dongeren, Maarten van Ormondt, Roel de Goede, Ellen Quataert, Panos Athanasiou, Kees Nederhoff</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14222</identifier>
+				<datestamp>2025-05-29T06:32:14Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MEASUREMENT AND CFD MODELLING OF A FLOATING PARABOLIC BEACH SHAPED BREAKWATER</dc:title>
+	<dc:creator xml:lang="en">Fernandez, Carlos</dc:creator>
+	<dc:creator xml:lang="en">Baldock, Tom</dc:creator>
+	<dc:description xml:lang="en">Offshore aquaculture systems require protection from extreme seas and swell waves. Floating wave breakwaters are generally ineffective for long waves and transmission coefficients increase rapidly as wave steepness decreases (Dai et al., 2018, Zheng et al., 2018). This paper outlines the development of a novel floating breakwater, which self- adjusts to form a parabolic beach shape, inducing energy loss through wave breaking. The beach shape can be easily altered through ballast. A small-scale physical model is developed, and measurements of transmission coefficients are compared to a CFD (Flow3D) model of the breakwater. Different breakwater lengths, and mooring depth are examined. Transmission coefficients are plotted versus Iribarren number and compared well between laboratory and CFD model. The full presentation will present full details of the models and discuss scaling the model results to natural full-scale conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14222</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.41</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.41</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14222/13494</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Carlos Fernandez, Tom Baldock</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

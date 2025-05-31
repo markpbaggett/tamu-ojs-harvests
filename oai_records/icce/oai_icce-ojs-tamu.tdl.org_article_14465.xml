@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14465</identifier>
+				<datestamp>2025-05-29T10:40:55Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LONG-TERM EVALUATIONS OF GLOBAL EXTREME SEA LEVELS USING UNSTRUCTURED GRID MODELS</dc:title>
+	<dc:creator xml:lang="en">Ohata, Shohei</dc:creator>
+	<dc:creator xml:lang="en">Shimura, Tomoya</dc:creator>
+	<dc:creator xml:lang="en">Miyashita, Takuya</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">The effect of climate change on sea levels has received much attention these days. The global mean sea level (GMSL) is expected to rise by 0.63 to 1.01 m by 2100 under the very high greenhouse gas emission scenario (IPCC, 2021). In addition to the GMSL rise, increased events of storm surges and high waves are expected. Positive trends of annual maximum storm surge and significant wave height are projected at multiple locations worldwide under the high-emissions scenario (Shimura et al., 2022). Exceptionally high local sea surface heights induced by short-term phenomena such as storm surges and waves combined with high tides are called Extreme Sea Levels (ESLs). Changes in ESLs will result in more extraordinary flood disasters. Vousdoukas (2018) shows an unprecedented rise in global flood risk by the end of this century based on his global projections of ESLs. However, existing coastal protection measures are not designed to consider a future change of disaster. Hence, this study aims to obtain the ESLs in historical and future climate scenarios and estimate the loss/damage.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14465</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.154</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.154</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14465/13737</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Shohei Ohata, Tomoya Shimura, Takuya Miyashita, Nobuhito Mori</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

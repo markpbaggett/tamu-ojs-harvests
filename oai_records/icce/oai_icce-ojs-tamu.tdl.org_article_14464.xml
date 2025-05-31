@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14464</identifier>
+				<datestamp>2025-05-29T06:45:41Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF EXTREME WAVE INTERACTIONS WITH A VERTICAL CYLINDER USING A PARTICLE-BASED METHOD</dc:title>
+	<dc:creator xml:lang="en">Kanehira, Taiga</dc:creator>
+	<dc:creator xml:lang="en">He, Yuchen</dc:creator>
+	<dc:creator xml:lang="en">Chabchoub, Amin</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">Investigation of ringing responses in marine structures is indispensable for ensuring their reliability and durability in coastal engineering. In our previous work, see He et al. (2023), we performed an experimental investigation to assess wave-induced loads on a vertical cylinder using unstable wave groups. We showed that the severe broadening of the wave spectrum triggers a ringing frequency excitation for steep wave groups. The second bound wave harmonic resonates with the lowest natural frequency of the cylinder. This does not occur when the steepnees of the carrier wave is below the steepness threshold of (ak = 0.10) for the cases considered. In this study, we aim to develop a numerical model for FSI between Peregrine-type rogue waves and a vertical cylinder following the experiments performed by He et al. (2023).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14464</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.77</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.77</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14464/13736</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Taiga Kanehira, Yuchen He, Amin Chabchoub, Nobuhito Mori</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

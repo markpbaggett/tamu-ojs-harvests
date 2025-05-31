@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14675</identifier>
+				<datestamp>2025-05-29T10:32:01Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEEP LEARNING FRAMEWORK TO USE COMPLEX MODELS IN OPERATIONAL FORECAST SYSTEMS</dc:title>
+	<dc:creator xml:lang="en">Zózimo, Ana Catarina</dc:creator>
+	<dc:creator xml:lang="en">Pinheiro, Liliana</dc:creator>
+	<dc:creator xml:lang="en">Manz, Anika</dc:creator>
+	<dc:creator xml:lang="en">Garzón, Juan L.</dc:creator>
+	<dc:creator xml:lang="en">Fortes, Conceição</dc:creator>
+	<dc:description xml:lang="en">The C2IMPRESS project (Co-creative improved understanding and awareness of multi-hazard risks for disaster-resilient society, www.c2impress.com) is funded by the European Union through the Horizon Europe Programme. It aims to develop an innovative set of products that contribute to a more resilient society in the face of risks due to extreme weather events under different climate change scenarios. There are four case study areas, Egaleo (Greece), Mallorca (Balearic Islands, Spain), Ordu (Turkey) and Centro Region (Portugal). In each of those study areas, different hazards will be studied, e.g., heat waves, wildfires, river floods, wave overtopping, and coastal floods. </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14675</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.110</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.110</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14675/13947</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ana Catarina Zózimo, Liliana Pinheiro, Anika Manz, Juan L. Garzón, Conceição Fortes</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

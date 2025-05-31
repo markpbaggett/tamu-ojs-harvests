@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14117</identifier>
+				<datestamp>2025-05-29T06:12:53Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CAN WE RELIABLY EXTRACT SHORELINES FROM CLOUD-CONTAMINATED SATELLITE IMAGES: THE APPLICATION OF SAR-OPTICAL FUSION METHOD</dc:title>
+	<dc:creator xml:lang="en">Mao, Yongjing</dc:creator>
+	<dc:creator xml:lang="en">Splinter, Kristen D.</dc:creator>
+	<dc:description xml:lang="en">Satellite-derived shorelines (SDS) have been increasingly adopted in coastal research to analyze the migration of coastlines from regional to global scales (Luijendijk et al., 2018; Mao et al., 2021; Vos et al., 2023). However, most of the existing SDS algorithms rely on optical satellite images, which require cloud-free conditions to have an unobstructed view of the land surface. Compared to optical images, Synthetic Aperture Radar (SAR) images are less interpretable, so they are relatively unpopular for SDS. However, a key benefit of SAR images is that they are not impacted by cloud, which makes them ideal sources of information to reconstruct the cloud-contaminated optical images. Therefore, the fusion of SAR and optical images provides the unique opportunity to increase the data availability for earth observation (Schmitt et al., 2017), especially in cloudy regions. Although a variety of SAR- Optical fusion methods ranging from generic linear regressions to deep learning models have been developed for optical image reconstruction, their applicability to shoreline extraction has not been thoroughly investigated. In this study, we (1) develop a deep internal learning (Ebel et al., 2021; Zhang et al., 2019) model to reconstruct a sequence of cloud- contaminated Modified Normalized Difference Water Index (MNDWI) images with a sequence of SAR images; and (2) evaluate the applicability of the reconstructed MNDWI images for shoreline extraction.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14117</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.30</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.30</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14117/13389</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Yongjing Mao, Kristen D. Splinter</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

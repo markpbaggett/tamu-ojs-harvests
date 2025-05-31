@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13995</identifier>
+				<datestamp>2025-05-29T06:12:34Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">GRASS SOD PULLING TESTS TO DETERMINE THE EROSION RESISTANCE AGAINST WAVE OVERTOPPING OF VARIOUS TYPES OF GRASS COVERS: AN ADJUSTED ANALYSIS METHOD</dc:title>
+	<dc:creator xml:lang="en">Mom, Roy</dc:creator>
+	<dc:creator xml:lang="en">Steendam, Gosse Jan</dc:creator>
+	<dc:creator xml:lang="en">Meijden, Rens van der</dc:creator>
+	<dc:creator xml:lang="en">Warmink, Jord</dc:creator>
+	<dc:creator xml:lang="en">Hoven, André van</dc:creator>
+	<dc:creator xml:lang="en">Meer, Jentsje van der</dc:creator>
+	<dc:description xml:lang="en">The erosion resistance of a grass cover against wave overtopping is characterized by the critical flow velocity. This velocity can be determined with full-scale tests with the wave overtopping simulator. However, a grass sod pulling test requires less effort and can also give a good estimation of this velocity. Within the project Future Dikes several inconsistencies were found in the analysis method used to estimate the critical flow velocity with a grass sod pulling test. To deal with these inconsistencies an adjusted analysis method was proposed. A comparison of the critical flow velocity found with wave overtopping tests and both the original and the adjusted analysis method showed that the adjusted analysis method performs better for non-failed grass covers. The original analysis method, on the other hand, performs better for failed grass covers. The reason for the difference in performance remains unclear and is subject for further research. For now it is recommended to use both analysis methods next to each other when estimating the strength of a grass cover.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13995</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.44</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.44</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13995/13267</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Roy Mom, Gosse Jan Steendam, Rens van der Meijden, Jord Warmink, André van Hoven, Jentsje van der Meer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

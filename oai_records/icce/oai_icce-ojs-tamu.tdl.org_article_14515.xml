@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14515</identifier>
+				<datestamp>2025-05-29T07:28:58Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PERFORMANCE-BASED DESIGN FOR USING EMERGENT VEGETATION TO MITIGATE WAVE OVERTOPPING CONSIDERING CLIMATE CHANGE</dc:title>
+	<dc:creator xml:lang="en">Ostrow, Kayla</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel T.</dc:creator>
+	<dc:creator xml:lang="en">Tomiczek, Tori</dc:creator>
+	<dc:creator xml:lang="en">Biondi, Esteban L.</dc:creator>
+	<dc:description xml:lang="en">Natural and Nature-Based Features (NNBF) are increasingly growing in popularity as flood risk reduction measures. However, the implementation of these systems is hampered by barriers, including the lack of engineering design methodologies. Existing engineering design methodologies for traditional coastal infrastructure cannot be directly applied to NNBF systems, because NNBF systems contain additional uncertainties. For example, vegetation experiences natural growth and mortality, affecting the engineering parameters associated with its flood protection capabilities. Performance-based design (PBD) describes a type of engineering design methodology that relies on designing a system to meet a set of performance objectives. The focus on performance, rather than known failure thresholds, makes PBD an appropriate methodology for new technologies (Atkan et al. 2007). Furthermore, PBD allows for the direct incorporation of uncertainties due to vegetation. PBD methodologies already exist in coastal engineering design. For example, Goda (2010) outlined the development of PBD for the design of caisson breakwaters. To develop an engineering design methodology for emergent vegetation systems, Ostrow (2023) expanded the existing method in Goda (2010), adding extra steps to quantify the engineering characteristics of vegetation. This paper describes the model in Ostrow (2023), improvements made to the model, and the application of the model to climate change.                             </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14515</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.180</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.180</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14515/13787</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Kayla Ostrow, Daniel T. Cox, Tori Tomiczek, Esteban L. Biondi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

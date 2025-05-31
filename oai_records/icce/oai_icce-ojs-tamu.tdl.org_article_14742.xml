@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14742</identifier>
+				<datestamp>2025-05-29T09:34:15Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EXPERIMENTAL AND NUMERICAL STUDY OF THE HYDRO-SEDIMENTARY DYNAMICS ON THE LAND SIDE OF A COASTAL DIKE</dc:title>
+	<dc:creator xml:lang="en">Jayaratne, Ravindra</dc:creator>
+	<dc:creator xml:lang="en">Abimbola, Adewale</dc:creator>
+	<dc:creator xml:lang="en">Balasubramaniam, Nilakshan</dc:creator>
+	<dc:description xml:lang="en">Coastal dikes are commonly found coastal defense structures in many tsunami-prone areas. They have proven effective in safeguarding coastal communities and valuable coastal assets during tsunamis and other extreme wave events. Nevertheless, the presence of such structures in the coastal area significantly influences the hydro-sedimentary dynamics of the neighboring coastal region. Moreover, wave overtopping on these protective structures lead to local erosion, referred to as scour. Scour has direct relationship on the stability of the structure, causes infrastructure damage, and poses risks to people on the landward side. In spite of numerous numerical studies addressing scour patterns, only a few studies have considered the influence of coastal dike geometry on tsunami-induced scour at the landside. Consequently, this research paper focus on numerically examining the hydro- sedimentary dynamics occurring at the leeward side of a coastal dike. The study incorporates the tsunami-induced scour predictive model established by Jayaratne et al. (2016), which was developed through extensive laboratory experiments and validated using a hydrodynamic model based on the Reynolds-Averaged Navier-Stokes (RANS) approach, as well as a sediment transport model founded on the turbulence-averaged Eulerian two-phase flow equations.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14742</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.126</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.126</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14742/14014</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ravindra Jayaratne, Adewale Abimbola, Nilakshan Balasubramaniam</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

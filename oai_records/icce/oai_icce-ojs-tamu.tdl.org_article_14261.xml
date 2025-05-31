@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14261</identifier>
+				<datestamp>2025-05-29T06:11:23Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">LABORATORY STUDY OF WAVE NONLINEARITY EVOLUTION OVER COASTAL FLEXIBLE VEGETATION</dc:title>
+	<dc:creator xml:lang="en">Peng, Zhong</dc:creator>
+	<dc:creator xml:lang="en">Zhao, Ying</dc:creator>
+	<dc:creator xml:lang="en">Chen, Xianjin</dc:creator>
+	<dc:creator xml:lang="en">He, Qing</dc:creator>
+	<dc:description xml:lang="en">The direct relationship between wave nonlinearity and sediment transport, which subsequently influences changes in beach morphology, has long been acknowledged. A comprehensive understanding of nearshore wave nonlinearity is essential for evaluating the effectiveness and stability of coastal and flood defense systems. Previous research has primarily concentrated on characterizing wave nonlinearity on natural sandy beaches (Elgar and Guza, 1985) and coastal breakwaters (Dong et al., 2014). However, these studies have neglected the presence of flexible vegetation, despite its common occurrence on tidal flats. It is well-established that vegetation not only effectively dissipates waves compared to natural beaches (Suzuki et al., 2019) but also reduces flow velocities, leading to sediment accumulation in vegetated areas (Hu et al., 2018). Currently, there is a limited body of work addressing the influence of flexible vegetation on wave nonlinearity evolution. This study aims to conduct laboratory experiments to investigate the impact of flexible vegetation on wave nonlinearity and develop an empirical formula for predicting wave nonlinearity over vegetated tidal flats.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14261</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14261/13533</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Zhong Peng, Ying Zhao, Xianjin Chen, Qing He</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

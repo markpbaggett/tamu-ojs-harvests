@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14075</identifier>
+				<datestamp>2025-05-29T06:12:46Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A PROBABILISTIC TSUNAMI HAZARD MODEL FOR SOUTH CHINA SEA</dc:title>
+	<dc:creator xml:lang="en">Ayca, Aykut</dc:creator>
+	<dc:creator xml:lang="en">Rong, Yufang</dc:creator>
+	<dc:creator xml:lang="en">Magistrale, Harold</dc:creator>
+	<dc:creator xml:lang="en">Klein, Elliot</dc:creator>
+	<dc:description xml:lang="en">In this study, we have developed probabilistic tsunami hazard maps for the Philippines, Taiwan, Southeast China, and Vietnam. These regions face the potential threat of large, destructive tsunamis due to subduction zone earthquakes along the Manila Trench, located off the western coast of the Philippines. Hydrodynamic tsunami simulations were carried out with the COMCOT model, a linear and nonlinear shallow water wave solver. We simulated all the events in the stochastic catalog using computational grids that have 90-meter horizontal resolution, which were put together from various open-source datasets. This relatively high- resolution modeling is essential to quantify the on-shore and on-land tsunami hazards accurately.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14075</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.13</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.13</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14075/13347</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Aykut Ayca, Yufang Rong, Harold Magistrale, Elliot Klein</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

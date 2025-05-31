@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14054</identifier>
+				<datestamp>2025-05-29T06:12:43Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EVALUATION OF THE ACCURACY OF THE GENERATED WAVE FIELDS IN THE COASTAL AND OCEAN BASIN (COB)</dc:title>
+	<dc:creator xml:lang="en">Streicher, Maximilian</dc:creator>
+	<dc:creator xml:lang="en">Pepi, Yuri</dc:creator>
+	<dc:creator xml:lang="en">Stroobant, Wietse</dc:creator>
+	<dc:creator xml:lang="en">Vervaet, Timothy</dc:creator>
+	<dc:creator xml:lang="en">Cromheeke, Laurens</dc:creator>
+	<dc:creator xml:lang="en">Herdayanditya, Ivandito</dc:creator>
+	<dc:creator xml:lang="en">Lataire, Evert</dc:creator>
+	<dc:creator xml:lang="en">Aertsens, Tim</dc:creator>
+	<dc:creator xml:lang="en">Rauwoens, Pieter</dc:creator>
+	<dc:creator xml:lang="en">Monbaliu, Jaak</dc:creator>
+	<dc:creator xml:lang="en">Suzuki, Tomohiro</dc:creator>
+	<dc:creator xml:lang="en">Vanneste, Dieter</dc:creator>
+	<dc:creator xml:lang="en">Bellafkih, Karim</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:description xml:lang="en">The Coastal and Ocean Basin (COB) wave tank facility is located in the Flanders Maritime Laboratory at the Ostend Science Park, Belgium. The COB and its associated testing services are designed (Troch et al. 2016) to facilitate the needs of the offshore renewable energy sector, coastal and offshore engineering community and offer the opportunity to academia, companies and government agencies, to test scale models under combined action of waves and currents in any relative direction, to develop innovative designs. The exploitation is managed by the consortium Ghent University, KU Leuven and Flanders Hydraulics. The COB is operational since March 2023 and has since then successfully completed its first projects on wave energy converters (WECfarm), wave diffraction around a monopile (PhairywinD) and floating offshore photovoltaic islands (MarineSpots).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14054</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14054/13326</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Maximilian Streicher, Yuri Pepi, Wietse Stroobant, Timothy Vervaet, Laurens Cromheeke, Ivandito Herdayanditya, Evert Lataire, Tim Aertsens, Pieter Rauwoens, Jaak Monbaliu, Tomohiro Suzuki, Dieter Vanneste, Karim Bellafkih, Peter Troch</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

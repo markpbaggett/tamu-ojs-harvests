@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14255</identifier>
+				<datestamp>2025-05-29T06:11:22Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">THE LARGE-SCALE APPLICATION OF A NEW RAPID TSUNAMI INUNDATION MODEL TO NEW ZEALAND’S COAST</dc:title>
+	<dc:creator xml:lang="en">Kimpton, Tate Lloyd Jones</dc:creator>
+	<dc:creator xml:lang="en">Higuera, Pablo</dc:creator>
+	<dc:creator xml:lang="en">Whittaker, Colin</dc:creator>
+	<dc:creator xml:lang="en">Wotherspoon, Liam</dc:creator>
+	<dc:description xml:lang="en">New Zealand is highly susceptible to tsunami inundation given its proximity to Pacific plate boundaries and local faults. Pre-emptive inundation modelling studies allow communities and authorities to prepare for possible inundation. Current tsunami inundation models are either efficient but highly simplified, or accurate but computationally expensive. Furthermore, simplified methods are often applied to regions with limited funding or resources, hence often tsunami evacuation zones are informed by these very simple methods (including bathtub and attenuation method) within New Zealand (Paulik et al,, 2020). Thus, a practical void is apparent, and an efficient inundation model that doesn’t compromise on accuracy is desired. Therefore, the new rapid tsunami inundation model aims to fill this void, enabling not only efficient, accurate local assessments, but also comprehensive large-scale assessments. The development of the new rapid tsunami inundation model is based on the Bernoulli energy conservation equation and simple hydraulic principles (energy conservation with friction loss), working as a two- dimensional hydrodynamic model. </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14255</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.85</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.85</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14255/13527</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Tate Lloyd Jones Kimpton, Pablo Higuera, Colin Whittaker, Liam Wotherspoon</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

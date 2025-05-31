@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14281</identifier>
+				<datestamp>2025-05-29T06:11:26Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VARIABLE BATHYMETRY EFFECTS ON THE RESPONSE OF U-OWC WAVE ENERGY CONVERTERS</dc:title>
+	<dc:creator xml:lang="en">Malara, Giovanni</dc:creator>
+	<dc:creator xml:lang="en">Belibassakis, Kostas</dc:creator>
+	<dc:creator xml:lang="en">Magkouris, Alexandros</dc:creator>
+	<dc:creator xml:lang="en">Arena, Felice</dc:creator>
+	<dc:description xml:lang="en">U-Oscillating Water Columns are wave energy harvesters commonly embedded in port infrastructures. They allow transforming a passive infrastructure (the vertical breakwater) into an active structure serving simultaneously the purpose of creating a sheltered basin and harvesting the incident wave energy for producing electrical energy. This article investigates the effect of bathymetry variability through the combination of a U-OWC dynamic model with a Boundary Element Method (BEM) – based solver accounting for irregular bathymetry. The BEM model used in this work has been applied to classical Oscillating Water Column systems (Belibassakis et al., 2020), which are commonly analyzed in the framework of linear water wave theory (Mei et al., 2005). Herein, its utilization with U-OWCs is pursued in combination with a nonlinear dynamic model accounting for the real flow phenomena (specifically, head losses) and large water column oscillations’ effects.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14281</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.94</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.94</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14281/13553</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Giovanni Malara, Kostas Belibassakis, Alexandros Magkouris, Felice Arena</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

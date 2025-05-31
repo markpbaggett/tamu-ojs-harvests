@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14163</identifier>
+				<datestamp>2025-05-29T06:12:59Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">ASSESSMENT OF COMPOUND FLOODING FOR ISE BAY, JAPAN USING TYPHOON TRACK ENSEMBLE EXPERIMENTS</dc:title>
+	<dc:creator xml:lang="en">Toyoda, Masaya</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:creator xml:lang="en">Kim, Sooyoul</dc:creator>
+	<dc:creator xml:lang="en">Yoshino, Jun</dc:creator>
+	<dc:description xml:lang="en">Recent typhoon cases have clearly demonstrated the danger of compound flooding by large storm surges associated with intensified typhoons and floods from upstream. Integrated numerical models that solve for typhoons, storm surges, and floods in a unified manner are required to assess compound flooding properly. The authors have developed a coupled wave and storm surge model that can account for storm surge run-up to rivers (Toyoda et al., 2021). The coupled model accurately reproduced the river run-up of storm surges in the Yodo and Ina Rivers in Japan induced by Typhoon Jebi (2018), including flood flows from upstream of the rivers. In this study, risk assessment for compound flooding caused by storm surge and high-river discharge is conducted by applying a typhoon track ensemble experiment of Typhoon Hagibis (2019). Furthermore, the target area is set to Ise Bay, and including small and medium sized rivers, which has the most significant low- lying wide area below the mean sea surface level in Japan.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14163</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14163/13435</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Masaya Toyoda, Nobuhito Mori, Sooyoul Kim, Jun Yoshino</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

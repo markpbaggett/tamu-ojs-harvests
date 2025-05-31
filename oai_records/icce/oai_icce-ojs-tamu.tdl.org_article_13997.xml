@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13997</identifier>
+				<datestamp>2025-05-29T06:12:34Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL SIMULATION OF THE PLASTIC DEBRIS TRANSPORT IN NEARSHORE ZONE</dc:title>
+	<dc:creator xml:lang="en">Iuppa, Claudio</dc:creator>
+	<dc:creator xml:lang="en">Faraci, Carla</dc:creator>
+	<dc:description xml:lang="en">Plastic is a vital material for both our economy and daily life. However, it can have significant negative impacts on environmental health. For this reason, extensive research has been dedicated to studying plastic behaviour in various natural environments. In the marine environment, research activities are typically divided into studies focusing on either the offshore zone (deep water) or the nearshore zone (intermediate and shallow water). Offshore studies often rely on numerical models, which are relatively effective in predicting plastic transport. In contrast, numerical models for intermediate and shallow waters are still at the early stages of development. This limitation stems from the need for nearshore models to simulate near-bed phenomena accurately, particularly when studying the dynamics of non- floating plastics. Currently, researchers at the University of Messina are developing numerical models to predict the behaviour of plastic debris in coastal zones. The developed model, called TRANMPD-HM, is based on XBeach, with several modifications introduced to evaluate the effects of waves and currents on plastic dynamics. To validate the effectiveness of these modifications, a comparison was made with data from an experimental campaign conducted on various types of plastics. The results confirmed that the changes introduced enable the simulation of plastic transport under the influence of wave action with a high degree of reliability.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13997</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.46</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.46</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13997/13269</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Claudio Iuppa, Carla Faraci</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

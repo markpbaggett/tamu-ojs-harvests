@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14212</identifier>
+				<datestamp>2025-05-29T06:55:24Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SEDTRAILS: SIMULATING AND VISUALIZING COASTAL SEDIMENT PATHWAYS</dc:title>
+	<dc:creator xml:lang="en">Pearson, Stuart</dc:creator>
+	<dc:creator xml:lang="en">Reyns, Johan</dc:creator>
+	<dc:creator xml:lang="en">Ormondt, Maarten van</dc:creator>
+	<dc:creator xml:lang="en">Pannozzo, Natascia</dc:creator>
+	<dc:creator xml:lang="en">Prooijen, Bram van</dc:creator>
+	<dc:creator xml:lang="en">Elias, Edwin</dc:creator>
+	<dc:description xml:lang="en">In the face of climate change, sea level rise, and increased human development on coasts and deltas, better quantification and understanding of coastal sediment transport is essential. Specifically, we need to know more about sediment pathways for system understanding and planning interventions (e.g., nourishments or beneficial reuse of dredged material). Sediment transport models like Delft3D or XBeach adopt an Eulerian (fixed-grid) approach, which is useful for quantifying rates of sediment transport and morphodynamic change. However, tracking the fate of sediment from specific sources using these models is complex and computationally expensive. To better simulate the pathways that sediment takes, we can adopt a Lagrangian (particle-tracking) approach, as is common in oceanographic and water quality studies. To fill these gaps, we present SedTRAILS (Sediment TRAnsport vIsualization and Lagrangian Simulator), a general-use process-based particle tracking model that is fast and easy to use for the coastal community. SedTRAILS provides a suite of analysis tools for better understanding and visualizing sediment pathways. what is special is also how we use it (e.g. querying particle fields to ask management questions, connectivity analysis).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14212</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.37</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.37</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14212/13484</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Stuart Pearson, Johan Reyns, Maarten van Ormondt, Natascia Pannozzo, Bram van Prooijen, Edwin Elias</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

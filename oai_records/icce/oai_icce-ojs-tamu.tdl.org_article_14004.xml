@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14004</identifier>
+				<datestamp>2025-05-29T06:12:35Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VALIDATION OF A SPECTRAL WAVE MODEL USING WAVE HEIGHT MEASUREMENTS FROM SATELLITE MISSIONS</dc:title>
+	<dc:creator xml:lang="en">Adame, Andrei Armani A.</dc:creator>
+	<dc:creator xml:lang="en">Cruz, Eric C.</dc:creator>
+	<dc:creator xml:lang="en">II, Edgardo P. Kasilag</dc:creator>
+	<dc:description xml:lang="en">In the use of coastal oceanography models, validation of a spectral wave model is imperative to assess its accuracy and reliability. This validation of the spectral wave model of the eastern Philippine seaboard is carried out by comparing the model's predictions to actual wave conditions—Copernicus Marine Service's Satellite Wave Measurements. Two representative grids from each dataset were used as points for comparison—one adjacent to the Philippines and one in the offshore Philippine Sea. The time series comparisons of the two grids over a 4-month window show that the timing of the high and low peaks was generally captured by the numerical model. However, the magnitude of the high and low peaks was underestimated. This can be attributed to the significant differences in the number of data points, sampling area, and sampling frequency between the two datasets. Therefore, the current iteration of satellite data is not yet optimal for validation purposes of the eastern Philippine seaboard. However, it is projected that the satellite data will be more appropriate for Philippine studies in the future. As more satellites are launched, the resolution and frequency of satellite observations are expected to increase which will enhance the utility of satellite data for validation purposes.                               </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14004</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.53</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.53</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14004/13276</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Andrei Armani A. Adame, Eric C. Cruz, Edgardo P. Kasilag II</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

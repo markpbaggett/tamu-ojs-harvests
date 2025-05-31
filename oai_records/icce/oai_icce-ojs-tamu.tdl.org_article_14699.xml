@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14699</identifier>
+				<datestamp>2025-05-29T09:16:35Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PHYSICAL MODEL EXPERIMENTS ON TSUNAMI DEBRIS IMPACT AND DAMMING FORCES ON SLENDER COLUMNS</dc:title>
+	<dc:creator xml:lang="en">Lomonaco, Pedro</dc:creator>
+	<dc:creator xml:lang="en">Park, Hyoungsu</dc:creator>
+	<dc:creator xml:lang="en">Kameshwar, Sabarethinam</dc:creator>
+	<dc:creator xml:lang="en">Cox, Daniel</dc:creator>
+	<dc:creator xml:lang="en">Doyle, Kellen</dc:creator>
+	<dc:creator xml:lang="en">Koh, Myung Jin</dc:creator>
+	<dc:creator xml:lang="en">Jayasekara, Ravindu</dc:creator>
+	<dc:description xml:lang="en">Tsunami events have major impact on coastal communities including loss of life and high economic damage. Tsunamis have led to greater interest in, and awareness of, the risks posed by tsunamis to coastal communities. Tsunamis can damage coastal structures in a variety of different ways. In many cases, waterborne debris has been found to be a significant factor in structural failure (Shekhar et al., 2020). However, only recently emphasis was placed on evaluating debris transport, impact, and damming forces (Shekhar et al., 2020; Stolle et al., 2018; ASCE 2022). This study describes an extensive series of large-scale experiments to create a comprehensive dataset of horizontal hydrodynamic, impact and damming forces of tsunami-like and waterborne debris on slender columns as those found in elevated coastal structures. The experimental work presented herein is part of a multi-year experimental campaign to better understand the mechanisms that lead to debris damming and increased structural loading (Doyle, et al., 2024). This study will include a detailed description of the experimental procedures, model layout, instrumentation, and dataset characteristics. The work also includes the description of the different wave and water level conditions tested, and the uncertainty analysis of the results via model characterization and repeatability tests.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14699</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.118</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.118</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14699/13971</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Pedro Lomonaco, Hyoungsu Park, Sabarethinam Kameshwar, Daniel Cox, Kellen Doyle, Myung Jin Koh, Ravindu Jayasekara</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

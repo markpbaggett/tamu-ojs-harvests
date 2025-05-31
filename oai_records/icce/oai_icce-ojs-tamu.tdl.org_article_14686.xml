@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14686</identifier>
+				<datestamp>2025-05-29T08:58:59Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UNDERSTANDING THE WAVE ATTENUATION CAPACITY OF A VEGETATED FLOATING CANOPY</dc:title>
+	<dc:creator xml:lang="en">Beckman, Jesse Nathaniel</dc:creator>
+	<dc:creator xml:lang="en">Hopkins, Julia</dc:creator>
+	<dc:creator xml:lang="en">Winter, Andrew</dc:creator>
+	<dc:creator xml:lang="en">Cira, Gabriel</dc:creator>
+	<dc:creator xml:lang="en">Wise, Louiza</dc:creator>
+	<dc:description xml:lang="en">Nature-based solutions (NBS) are being explored as a sustainable, adaptable option for coastal protection in urban areas to combat rising sea levels and intensifying extreme storms without relying on traditional grey infrastructure (e.g., groins and seawalls; [Temmerman et al., 2013; Zhu et al., 2020; Hopkins et al., 2022; Landmann et al., 2022]). However, NBS require more rigorous field and laboratory datasets to both quantify their efficacy as protection against coastal flooding and to assist in identifying important design parameters [Zhu et al., 2020; Hopkins et al., 2022; Landmann et al., 2022]. Artificial floating islands (AFI) are variations of floating breakwaters that provide deployment flexibility for developed urban coastlines and have additional potential environmental benefits including the removal of pollutants and nitrogen [Chang et al., 2012; Barco and Borin, 2020]. This study evaluates the performance of one engineered AFI, named the Emerald Tutu, which utilizes a network of interconnected and moored floating vegetated mats to attenuate wave energy. Using a dataset collected at the Oregon State University O.H. Hinsdale Large Wave Flume (OHLWF), the two primary objectives of this study are to: 1.) determine the wave attenuation capacity of a single AFI prototype, and 2.) determine the pathways for wave energy dissipation around a single AFI prototype.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14686</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.115</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.115</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14686/13958</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Jesse Nathaniel Beckman, Julia Hopkins, Andrew Winter, Gabriel Cira, Louiza Wise</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

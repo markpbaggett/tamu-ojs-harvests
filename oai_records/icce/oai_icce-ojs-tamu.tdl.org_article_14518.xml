@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14518</identifier>
+				<datestamp>2025-05-29T10:43:18Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">VIDEO-BASED DEPTH INVERSION IN SHALLOW WATER: A CASE STUDY AT BYEONSAN BEACH, SOUTH KOREA</dc:title>
+	<dc:creator xml:lang="en">Kim, Byunguk</dc:creator>
+	<dc:creator xml:lang="en">Park, Yong Sung</dc:creator>
+	<dc:description xml:lang="en">Beach topography information is essential to enhance understanding of coastal processes. However, surveying the nearshore bathymetry is challenging due to poor visibility and limited accessibility. Conventional in-situ bathymetry survey techniques, such as echo-sounding with GPS, provide reliable bathymetry information, but are relatively labor-intensive and time-consuming, as investigators should directly approach measuring points. As a promising alternative, video-based depth inversion algorithms (DIAs) have been introduced. These algorithms aim to retrieve the wave parameters, i.e., wave period and wavenumber, from a wave field video photographed by camera installed at high-rise buildings or drones, and estimate water depth using linear dispersion relation. However, the accuracy of DIAs still falls short comparing to the in-situ instrumentation. One frequently mentioned source of errors in the DIAs is the discrepancy of the linear dispersion relation in shallow water due to wave nonlinearity. In shallow water, wave nonlinearity continuously increases as shoaling waves propagate toward shoreline, leading to an increase in wave celerity, which is known as amplitude dispersion effect. However, limited studies have tested the DIA in shallow water due to the challenges of obtaining in-situ ground survey. This study aims to retrieve the coastal bathymetry in shallow water using Depth from Wave (DfW) algorithm proposed by Kim et al. (2023), one of the DIAs, incorporating corrections for wave nonlinearity.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14518</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.182</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.182</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14518/13790</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Byunguk Kim, Yong Sung Park</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

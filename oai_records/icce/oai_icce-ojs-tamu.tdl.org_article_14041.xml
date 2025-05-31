@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14041</identifier>
+				<datestamp>2025-05-29T06:12:41Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE IMPACT ON BREAKWATER ARMOR BLOCKS USING IBM-DEM CFD COUPLING</dc:title>
+	<dc:creator xml:lang="en">Barcet, Matthieu</dc:creator>
+	<dc:creator xml:lang="en">Benguigui, William</dc:creator>
+	<dc:creator xml:lang="en">Laviéville, Jérôme</dc:creator>
+	<dc:creator xml:lang="en">Benoit, Michel</dc:creator>
+	<dc:creator xml:lang="en">Buvat, Clément</dc:creator>
+	<dc:creator xml:lang="en">Bonometti, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Fede, Pascal</dc:creator>
+	<dc:description xml:lang="en">The stability of armor units against wave action is a critical issue for coastal and harbor breakwaters. Most of the time, the breakwater stability is determined based on semi-empirical design formulae, as well as with experimental campaigns on scale models in wave basins. The present work aims to approach breakwater stability through a numerical deterministic approach using a DEM- CFD (Discrete Element Method – Computational Fluid Dynamics) method which simulates the individual motion of armor units inside a fluid solver. The fluid is solved using EDF Eulerian-Eulerian CFD code neptune_cfd, and the contacts between blocks are solved using the DEM code Grains3D (Wachs et al., 2012). The solids are modeled inside neptune_cfd using an IBM (Immersed Boundary Method) technique with discrete forcing.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14041</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.7</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.7</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14041/13313</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Matthieu Barcet, William Benguigui, Jérôme Laviéville, Michel Benoit, Clément Buvat, Thomas Bonometti, Pascal Fede</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

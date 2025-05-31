@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14597</identifier>
+				<datestamp>2025-05-29T10:41:11Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">UPSCALING THE SHORELINE TO MODEL EROSION-ENHANCED FLOODING DUE TO CLIMATE CHANGE</dc:title>
+	<dc:creator xml:lang="en">Cuesta, Moisés Álvarez</dc:creator>
+	<dc:creator xml:lang="en">Toimil, Alexandra</dc:creator>
+	<dc:creator xml:lang="en">Losada, Iñigo</dc:creator>
+	<dc:description xml:lang="en">Coastal erosion and flooding are the most relevant hazards in coastal areas and they are closely interconnected. While waves and water levels are the main drivers of coastal change, coastal morphodynamics also play an important role on wave hydrodynamics, coastal water levels and sediment transport. With the increasing threats imposed by climate change at the world’s coasts, robust projections of coastal flood risk are essential, and to this end, the morphodynamic feedback needs to be considered. However, most studies at the climate change scale continue to analyse coastal flooding and erosion separately, as their coupling is not easy. This may lead to potential spurious risk estimates (Toimil et al., 2023). In this work, we will present a novel nearshore evolution model that bridges the gap between current process- based and reduced-complexity coastal models by efficiently solving the nearshore evolution over decades.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14597</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.187</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.187</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14597/13869</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Moisés Álvarez Cuesta, Alexandra Toimil, Iñigo Losada</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

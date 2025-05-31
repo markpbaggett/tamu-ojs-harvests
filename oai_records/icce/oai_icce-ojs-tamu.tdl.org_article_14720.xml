@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14720</identifier>
+				<datestamp>2025-05-29T09:20:43Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">SPH NUMERICAL SIMULATIONS OF WAVE BREAKING OVER A BARRED BEACH</dc:title>
+	<dc:creator xml:lang="en">Scandura, Pietro</dc:creator>
+	<dc:creator xml:lang="en">Altomare, Corrado</dc:creator>
+	<dc:creator xml:lang="en">Cáceres, Ivan</dc:creator>
+	<dc:creator xml:lang="en">Viccione, Giacomo</dc:creator>
+	<dc:creator xml:lang="en">A, Dominic van der</dc:creator>
+	<dc:description xml:lang="en">The coastal region is one of the most densely populated areas in the world and home to important economic activities, but it is particularly vulnerable to erosion and flooding, which is expected to become more severe due to rising sea levels and more frequent storms. In this scenario, the understanding of coastal hydrodynamics and the availability of reliable hydrodynamic models are crucial for the design of effective coastal defense measures. In particular, more in-depth studies are needed on the hydrodynamics of the surf zone, which plays a crucial role in nearshore erosion and sedimentation processes but is not yet fully understood. </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14720</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.34</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.34</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14720/13992</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Pietro Scandura, Corrado Altomare, Ivan Cáceres, Giacomo Viccione, Dominic van der A</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

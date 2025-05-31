@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14685</identifier>
+				<datestamp>2025-05-29T08:59:47Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TIME-DEPENDENT ANALYSIS OF WAVE OVERTOPPING: DISTRIBUTION OF INDIVIDUAL VOLUMES IN VARIABLE WATER LEVELS</dc:title>
+	<dc:creator xml:lang="en">Pepi, Yuri</dc:creator>
+	<dc:creator xml:lang="en">Streicher, Maximilian</dc:creator>
+	<dc:creator xml:lang="en">Franco, Leopoldo</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:creator xml:lang="en">Hughes, Steven</dc:creator>
+	<dc:creator xml:lang="en">Troch, Peter</dc:creator>
+	<dc:description xml:lang="en">The rising probability of extreme wave and storm surge events poses ever greater risks to coastal structures and populations (Toimil et al., 2020). Central to the assessment of function ability of these coastal structures and cost-effectiveness in their construction is the wave overtopping. In this context, two aspects of wave overtopping are distinguished: the average wave overtopping discharge and the individual wave overtopping volume. Understanding both aspects are essential for a proper safety assessment. Recent studies emphasize the need to delve deeper into these aspects, especially by exploring the overtopping volumes of individual waves and in particular the maximum value, Vmax (Koosheh et al., 2021). Storms are dynamic events, and their effect on the still water level (SWL) can be represented as a time-varying hydrograph. As SWL changes during a storm, it is expected that also the (maximum) individual wave overtopping volumes are variable during storm events. Typically, in laboratory experiments, wave overtopping of coastal defense structures has been investigated for constant water level (CWL) conditions and a predetermined structural exposure time frame. In this approach, any variable water level (VWL) conditions are largely ignored, except in few recent studies (Pepi et al. 2022; Kerpen et al., 2020). The impact of this oversight can be substantial, as (smaller) individual wave volumes in the early stages of a storm, when the SWL rises, can pre-load or saturate the dike, potentially weakening it before the largest overtopping volumes occur during the storm's peak. No research exists yet on the study of individual overtopping volumes for a VWL situation.                             </dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14685</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.114</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.114</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14685/13957</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Yuri Pepi, Maximilian Streicher, Leopoldo Franco, Giorgio Bellotti, Steven Hughes, Peter Troch</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

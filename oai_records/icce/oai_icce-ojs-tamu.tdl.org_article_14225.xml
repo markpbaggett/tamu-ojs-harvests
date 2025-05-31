@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14225</identifier>
+				<datestamp>2025-05-29T07:02:11Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF AN OPTIMIZED BOUSSINESQ-TYPE MODEL FOR OPERATIONAL ASSESSMENT OF WAVE-DRIVEN FLOODING</dc:title>
+	<dc:creator xml:lang="en">Mihami, Fatima-Zahra</dc:creator>
+	<dc:creator xml:lang="en">Roeber, Volker</dc:creator>
+	<dc:creator xml:lang="en">Azouri, Assaf</dc:creator>
+	<dc:creator xml:lang="en">Tognacchini, Camilla</dc:creator>
+	<dc:creator xml:lang="en">Luther, Douglas S.</dc:creator>
+	<dc:description xml:lang="en">The prediction and accurate estimation of wave-driven run-up hold paramount significance in coastal management, emergency preparedness, and environmental risk assessment. Supported by the significant increase in computing power, numerical models have emerged as reliable and cost-effective tools for assessing nearshore wave dynamics. As wave run-up represents the final stage in the transformation of ocean waves as they approach the shoreline, accurate estimation of flood extent requires numerical models to account for intricate phase-dependent wave-by-wave transformations. These processes can pose significant challenges to both the quality and computational complexity of the numerical solution. Moreover, the high grid resolution required to account for the details in the coastline and the nearshore terrain, including infrastructure, leads to increased numerical cost and potentially limits the applicability of such models. In this study, we present the strategic development of a new Boussinesq-type computer model with the objective of building a fast and reliable tool for wave-driven run-up and flood hazard assessment.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14225</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.67</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.67</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14225/13497</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Fatima-Zahra Mihami, Volker Roeber, Assaf Azouri, Camilla Tognacchini, Douglas S. Luther</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

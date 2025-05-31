@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14063</identifier>
+				<datestamp>2025-05-29T06:12:44Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HARBOUR LAYOUT DESIGN IN A CHANGING CLIMATE BASED ON ADVANCED NUMERICAL MODELS AND MACHINE LEARNING: A CASE STUDY</dc:title>
+	<dc:creator xml:lang="en">Samaras, Achilleas G.</dc:creator>
+	<dc:creator xml:lang="en">Iliadis, Lazaros</dc:creator>
+	<dc:creator xml:lang="en">Karambas, Theofanis V.</dc:creator>
+	<dc:description xml:lang="en">Harbour layout design is the first and most critical stage in port design by Civil Engineers, typically done using numerical models for the simulation of wave dynamics and hydrodynamics around and inside harbour basins. In a changing climate, engineers have to deal with an increasing number of uncertainties, due to the observed/ projected change in the characteristics of representative waves and sea level variations (i.e. the parameters that have the most significant effect on the technical and operational characteristics of the port) and the intensity/ frequency of extreme events (De Leo et al., 2023; Vanem, 2016; Weisse et al., 2014). Yet, the bulk of studies on harbour-upgrading in literature focus on the functional design of harbour breakwaters, but not on the layout design itself (Burchart et al., 2014; Radfar et al., 2021). Considering the previous, as well as the challenges embedded in running model applications for numerous design scenarios and interpreting their results, Samaras et al. (2023) proposed a novel, “intelligent”, methodology for harbour layout design in a changing climate based on Advanced Numerical Models and Machine Learning (ANM and ML in the following, respectively). This work presents core aspects of this methodology and implements it to a case study in Greece.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14063</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.10</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.10</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14063/13335</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Achilleas G. Samaras, Lazaros Iliadis, Theofanis V. Karambas</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

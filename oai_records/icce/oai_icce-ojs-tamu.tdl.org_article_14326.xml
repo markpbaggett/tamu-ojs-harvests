@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14326</identifier>
+				<datestamp>2025-05-29T06:11:33Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPLEMENTATION AND VALIDATION OF AN INTRA-WAVE SEDIMENT TRANSPORT MODULE IN A DEPTH-AVERAGED NON-HYDROSTATIC WAVE MODEL</dc:title>
+	<dc:creator xml:lang="en">Bakker, Anouk de</dc:creator>
+	<dc:creator xml:lang="en">Ridder, Menno de</dc:creator>
+	<dc:creator xml:lang="en">McCall, Robert</dc:creator>
+	<dc:description xml:lang="en">XBeach (Roelvink et al., 2009) is an open-source numerical model which simulates hydrodynamic and morphodynamic processes and impacts on coasts on the time scale of storms. The original model approach (Surfbeat mode) explicitly solves wave group and long wave (infragravity) dynamics but parameterizes the intra- wave motions of short (sea-swell) waves. On steep beaches and on coastal structures, this parameterization leads to substantial underestimation of wave run-up (e.g., De Beer et al., 2021) and overtopping (Roelvink et al., 2018). Recently, the model was therefore extended with a non-hydrostatic mode that resolves depth-averaged intra-wave motions explicitly (de Ridder et al., 2021). However, this mode did not have a suitable sediment transport module to resolve intra-wave sediment transport and morphological changes. Here, the Van Rijn (2007) equations for bed load and suspended transport are implemented in a depth- averaged framework for the non-hydrostatic version of XBeach in a similar way as done in the Surfbeat mode. In this abstract the newly implemented sediment transport formulations are presented and validated with large-scale detailed laboratory experiments of dune erosion under extreme storms.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14326</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.54</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.54</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14326/13598</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Anouk de Bakker, Menno de Ridder, Robert McCall</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

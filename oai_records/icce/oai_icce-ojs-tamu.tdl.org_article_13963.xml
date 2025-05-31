@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13963</identifier>
+				<datestamp>2025-05-29T06:12:29Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A FIELD EXPERIMENT ON GRAVITY WAVES: EFFECTS OF THE WAVE STEEPNESS AND EFFECTIVE WATER DEPTH ON THE WAVE PROFILE AND BREAKING LIMIT</dc:title>
+	<dc:creator xml:lang="en">Spiliotopoulos, George</dc:creator>
+	<dc:creator xml:lang="en">Katsardi, Vanessa</dc:creator>
+	<dc:creator xml:lang="en">Fiamma, Vincenzo</dc:creator>
+	<dc:creator xml:lang="en">Ruzzo, Carlo</dc:creator>
+	<dc:creator xml:lang="en">Romolo, Alessandra</dc:creator>
+	<dc:creator xml:lang="en">Arena, Felice</dc:creator>
+	<dc:description xml:lang="en">This paper describes a series of field observations of large surface gravity waves, recorded at the Natural Ocean Engineering Laboratory (NOEL), Italy. The study involves a variety of sea states measured at a series of water depths, from deep to the shallowest limit of intermediate waters. The discussion is focused on the effect of the spectral and local wave parameters, described by the wave steepness and the effective water depth, on the wave profile, statistical properties and the breaking characteristics. The data presented show a transition in the dispersive properties of the wavefield as waves propagate from deep to shallower water. This is indicated both in the wave profiles as well as the wave height distributions. Leading roles, albeit competitive to each other, play the wave steepness and wave breaking.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13963</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.12</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.12</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13963/13235</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 George Spiliotopoulos, Vanessa Katsardi, Vincenzo Fiamma, Carlo Ruzzo, Alessandra Romolo, Felice Arena</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

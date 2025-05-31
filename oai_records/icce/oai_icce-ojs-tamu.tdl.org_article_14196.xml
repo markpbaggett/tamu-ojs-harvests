@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14196</identifier>
+				<datestamp>2025-05-29T06:31:56Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AIR FLOW AND SAND TRANSPORT PERTURBATION OVER A HUMAN-MADE FOREDUNE UNDER OFFSHORE WIND USING COMPUTATIONAL FLUID DYNAMICS</dc:title>
+	<dc:creator xml:lang="en">Lamy, Antoine</dc:creator>
+	<dc:creator xml:lang="en">Smyth, Thomas A.G.</dc:creator>
+	<dc:creator xml:lang="en">Robin, Nicolas</dc:creator>
+	<dc:creator xml:lang="en">Hesp, Patrick A.</dc:creator>
+	<dc:description xml:lang="en">Many coastal dunes are experiencing human stabilization by fencing, vegetation planting or reshaping the dune profile, resulting in a modification of air flow and sediment transport patterns. For example, a taller and steeper dune may result in an increased zone of wind flow separation and deceleration, resulting in the reversal of flow and sediment transport to the dune toe from the backshore during offshore winds. (Walker and Nickling, 2002; Hesp and Smyth, 2019). Globally, the pattern of reversed or deflected flow plays a key role in dune evolution, particularly when an offshore wind regime is dominant (Bauer et al., 2012; Nordstrom and Jackson, 2018). Recently, Computational Fluid Dynamics (CFD) has given new insights to complex flow recirculation on the lee-side of heavily managed coastal dunes on developed coasts during onshore winds (Smyth and Hesp, 2015; Nguyen et al., 2022). This research is the first to investigate wind flow and sediment transport dynamics on a anthropogenically constructed dune in offshore wind conditions. CFD simulations were completed for three offshore wind directions over a computational domain constructed from a 3D topographic LiDAR surface. Simulations were validated by a comparison with wind</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14196</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.33</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.33</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14196/13468</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Antoine Lamy, Thomas A.G. Smyth, Nicolas Robin, Patrick A. Hesp</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

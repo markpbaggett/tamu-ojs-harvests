@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14216</identifier>
+				<datestamp>2025-05-29T06:32:09Z</datestamp>
+				<setSpec>icce:Swash</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">PARTICLE ACCELERATION AS A DIAGNOSTIC FOR WAVE BRAKING IN THE SURF ZONE</dc:title>
+	<dc:creator xml:lang="en">Vargas-Magana, Rosa Maria</dc:creator>
+	<dc:creator xml:lang="en">Kalisch, Henrik</dc:creator>
+	<dc:creator xml:lang="en">Bjørnestad, Maria</dc:creator>
+	<dc:creator xml:lang="en">Buckley, Marc</dc:creator>
+	<dc:creator xml:lang="en">Gronemann, Tessa</dc:creator>
+	<dc:creator xml:lang="en">Holand, Karoline</dc:creator>
+	<dc:creator xml:lang="en">Horstmann, Jochen</dc:creator>
+	<dc:creator xml:lang="en">Streßer, Michael</dc:creator>
+	<dc:description xml:lang="en">Surf zone hydrodynamics is characterized by the dynamic interplay of various spatial and temporal scales related to different mechanical processes taking place across the surf zone. Among all the wave processes in the surf zone, wave breaking, and the associated mass transport and energy dissipation is the most significant. Wave breaking not only exerts significant forces on coastal structures but also triggers nearshore currents, and sediment transport. While our understanding of wave breaking has improved in recent decades, the precise mechanism triggering wave breaking remains unresolved. This study focuses on utilizing the Lagrangian downward acceleration of fluid particles near the wavecrest as a dynamic criterion for identification of breaking in shallow water waves. Using a dedicated stereo-imaging system in a 2019 field campaign on the island of Sylt off the coast of Germany, we were able to track tracer particles during various wave conditions (Bjørnestad et al. 2021). In the present work, the data are analyzed with the goal of testing the dynamic breaking criterion.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14216</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.currents.15</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; currents.15</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14216/13488</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Rosa Maria Vargas-Magana, Henrik Kalisch, Maria Bjørnestad, Marc Buckley, Tessa Gronemann, Karoline Holand, Jochen Horstmann, Michael Streßer</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

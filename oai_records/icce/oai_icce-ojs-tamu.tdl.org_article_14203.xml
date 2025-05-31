@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14203</identifier>
+				<datestamp>2025-05-29T06:32:00Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">TOLOSA-SW: A NEW FINITE-VOLUME MODEL FOR PREDICTING STORM SURGES</dc:title>
+	<dc:creator xml:lang="en">Belleguic, Roman Le</dc:creator>
+	<dc:creator xml:lang="en">Ciavaldini, Maya</dc:creator>
+	<dc:creator xml:lang="en">Pasquet, Audrey</dc:creator>
+	<dc:creator xml:lang="en">Michaud, Héloïse</dc:creator>
+	<dc:creator xml:lang="en">Brosse, Fabien</dc:creator>
+	<dc:creator xml:lang="en">Krien, Yann</dc:creator>
+	<dc:description xml:lang="en">Resolving the complex geometry of coastal areas is of utmost importance to numerically reproduce the physical processes involved in storm surges. In recent years, a few numerical models using unstructured meshes have been developed to seamlessly reproduce these small-scale features as well as larger scale processes such as tides, while retaining limited computational costs (e.g. Dietrich et al. 2012, Zhang et al 2016). Whilst providing a major step forward, these models suffer from a number of shortcomings, such as strong numerical stability constraints, or over-dissipation of short wavelengths by the numerical scheme. Here we present TOLOSA-SW, a new finite- volume model for predicting storm surges.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14203</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.61</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.61</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14203/13475</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Roman Le Belleguic, Maya Ciavaldini, Audrey Pasquet, Héloïse Michaud, Fabien Brosse, Yann Krien</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

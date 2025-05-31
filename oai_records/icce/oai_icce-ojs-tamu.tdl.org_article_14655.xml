@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14655</identifier>
+				<datestamp>2025-05-30T05:02:12Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A NEW THEORETICAL ENVELOPE FRAMEWORK IN THE HAMILTONIAN THEORY OF NONLINEAR DEEP- AND FINITE-WATER SURFACE GRAVITY WAVES</dc:title>
+	<dc:creator xml:lang="en">Li, Yan</dc:creator>
+	<dc:creator xml:lang="en">Lv, Wenyue</dc:creator>
+	<dc:description xml:lang="en">An extensive body of literature has addressed the question that how we can accurately and efficiently predict the spatial-temporal evolution of surface gravity waves in the open ocean and coastal waters. The main methods for an answer to it can be partitioned into two groups: (i) theoretical frameworks which make use of Fourier transforms such as a nonlinear Schrödinger (NLS) equation-based model [1], the High-Order Spectral method (HOS) [2,3], and Zakharov integral equations[4,5], and (ii) direct numerical solvers which propose to obtain the numerical solution of the fully nonlinear potential flow equations like OceanWave3D[6], Reef3D[7], and a harmonic polynomial cell method [8]. Generally, the first group has been known to excel at numerical efficiency[9].</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14655</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14655/13927</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Yan Li, Wenyue Lv</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

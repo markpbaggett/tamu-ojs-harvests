@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14160</identifier>
+				<datestamp>2025-05-29T06:12:59Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE DECAY BY RIGID VEGETATION UNDER ORTHOGONAL WAVE-CURRENT CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Xu, Zichen</dc:creator>
+	<dc:creator xml:lang="en">Lei, Jiarui</dc:creator>
+	<dc:description xml:lang="en">Coastal vegetation has garnered significant attention as a nature-based solution due to its role in coastal protection. While the wave energy decay by vegetation has been studied under pure-wave and co-directional wave-current conditions, little research has focused on the impact of orthogonal wave-current conditions, which represent propagating waves and longshore currents in natural coastal environments, on wave energy decay. This study introduces the first analytical model that incorporates the current-to-wave velocity ratio to describe wave decay by rigid vegetation under orthogonal wave-current conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14160</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.32</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.32</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14160/13432</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Zichen Xu, Jiarui Lei</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

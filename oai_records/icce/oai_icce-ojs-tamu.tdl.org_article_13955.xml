@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/13955</identifier>
+				<datestamp>2025-05-29T06:12:28Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">CALIBRATION AND VALIDATION OF PRACTICAL MODELS FOR CHANNEL SILTATION</dc:title>
+	<dc:creator xml:lang="en">Klein, Mark</dc:creator>
+	<dc:creator xml:lang="en">Rijn, Leo van</dc:creator>
+	<dc:description xml:lang="en">Marine contractors and consultants have a need for quick and practical tools to make estimates of siltation rates of channels and trenches. Three such models have been calibrated and validated against both laboratory and field data. With calibration, the models are well capable of reproducing measured bed level changes and siltation volumes. The set with optimum parameters settings, however, varied from case to case. Without the opportunity to calibrate the models, the models should be used with common sense and accounting for the provided recommendations. As the models are quick, they enable an extensive sensitivity study or even a Monte Carlo approach, which largely overcomes the models’ sensitivity to parameter settings.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/13955</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.4</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.4</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/13955/13227</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Mark Klein, Leo van Rijn</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

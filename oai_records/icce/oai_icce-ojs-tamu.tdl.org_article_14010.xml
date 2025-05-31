@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14010</identifier>
+				<datestamp>2025-05-29T06:12:36Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMPARATIVE ASSESSMENT OF PLUNGING JET SCOUR DEPTH PREDICTIVE FORMULAE UNDER VARIABLE SOIL MOISUTURE CONDITIONS</dc:title>
+	<dc:creator xml:lang="en">Balasubramaniam, Nilakshan</dc:creator>
+	<dc:creator xml:lang="en">Jayaratne, Ravindra</dc:creator>
+	<dc:creator xml:lang="en">Kim, Taeksang</dc:creator>
+	<dc:creator xml:lang="en">Bricker, Jeremy</dc:creator>
+	<dc:description xml:lang="en">This study investigates the accuracy and reliability of various scour predictive models exposed to tsunami-induced waves, using experimental data obtained from controlled laboratory tests in the wave flume at the University of East London. Varying soil conditions, including dry (oven-dried) and wet (partially saturated) sand were tested to assess the influence of soil moisture on the scour effects. Using the dam-break method to simulate tsunamis, the study examined four different hydraulic conditions to replicate varying tidal scenarios. Scour depths, both maximum and equilibrium values, were recorded using a combination of lidar sensors, high-precision digital point gauges, and slow-motion video cameras. The wave characteristics were then derived from the data collected during the experiments including lidar data and video files. The results were compared against well-established mathematical models from previous studies, such as those by Chee and Yuen (1985), Novak et al. (1990), Fahlbusch et al. (1994), Noguchi et al. (1997), Dehghani et al. (2010), Jayaratne et al. (2016) and Gelfi et al. (2022). The study compares the predicted scour depths from these models against laboratory measured data under both wet and dry soil conditions. Results indicate varying levels of predictive accuracy, with some models performing better under specific conditions. The study reveals how soil moisture significantly impacts scour depth and structural stability during extreme wave events like tsunamis. It emphasises the importance of refining existing predictive models to account for the dynamic interaction between soil properties and hydraulic forces. Recommendations are provided to advance these models by incorporating additional scour dynamics.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14010</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14010/13282</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Nilakshan Balasubramaniam, Ravindra Jayaratne, Taeksang Kim, Jeremy Bricker</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14472</identifier>
+				<datestamp>2025-05-29T06:46:01Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COASTAL TOPOGRAPHIC CHANGE ANALYSIS USING QUADRUPEDAL ROBOTS AND IMAGE PROCESSING</dc:title>
+	<dc:creator xml:lang="en">Shin, Bumshick</dc:creator>
+	<dc:creator xml:lang="en">Kim, Kyu-han</dc:creator>
+	<dc:description xml:lang="en">As centers of human habitation, biological habitat, economic activity, and recreational amenities, the shoreline and its surrounding areas play an important role as a buffer separating high waves and sea levels from coastal areas. Coasts, which are very important for human activities, are subject to fluctuations due to coastal currents and high waves. In addition, in the long term, shoreline changes may occur due to factors such as relative sea level rise, climate change, and development around the coast. Therefore, coastal management is a very important field of social interest not only in terms of human living space but also in terms of environmental conservation. The first step in coastal management is to accurately identify the continuously changing coast and accumulate that data. Coasts, as determined by beach width, beach area and volume, are continuously transitioning from in-situ measurements to remote sensing due to technological advances in surveying equipment and analysis methods. The impetus for remote sensing of coastlines began with the development of optical coastal imaging technologies such as Argus and related systems since the 1980s. In order to manage coastal areas where active changes are occurring, continuous monitoring of changes in coastal topography is necessary. However, coastal areas have heterogeneous and highly variable land surfaces, and there are many restrictions on access. A variety of methods are used to study coastal topographic changes, most used are satellite image analysis, aerial photo analysis, RTK GNSS surveying, and LiDAR surveying. Surveys using ground-based LIDAR have limitations such as time-consuming, accessibility, and equipment installation depending on the study area. In addition, aerial lidar was developed for large-scale surveying, and the costs required for surveying are enormous. In this study, quadrupedal robots and image processing were attempted to efficiently observe a wide coast with rapidly changing topography.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14472</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.160</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.160</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14472/13744</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Bumshick Shin, Kyu-han Kim</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

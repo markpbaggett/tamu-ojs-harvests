@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14263</identifier>
+				<datestamp>2025-05-29T06:11:23Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF AN EFFICIENT EARLY WARNING SYSTEM FOR WAVE-INDUCED FLOODING</dc:title>
+	<dc:creator xml:lang="en">Garzon, Juan L.</dc:creator>
+	<dc:creator xml:lang="en">Ferreira, Oscar</dc:creator>
+	<dc:creator xml:lang="en">Zozimo, Catarina</dc:creator>
+	<dc:creator xml:lang="en">Pinheiro, Liliana</dc:creator>
+	<dc:creator xml:lang="en">Fortes, Juana</dc:creator>
+	<dc:description xml:lang="en">Coastal flooding, particularly due to wave-induced flooding or overtopping occurs when runup surpass coastal defences, often occurring during high tides and surges. To protect coastal communities, early warning systems (EWSs) are essential, providing crucial information to anticipate and alert for hazardous situations. EWSs are vital for coastal planning, disaster risk reduction, and climate change adaptation, offering timely and accurate information to save lives and prevent economic and environmental losses. Despite the high benefit-to-cost ratio demonstrated in economic analyses, there are few examples of EWSs for coastal flooding worldwide (e.g., Garzon et al., (2023); Harley et al., (2016) and Stockdon et al., (2023) ). The goal of this study was to develop, test, and implement an operational wave-induced flooding early warning system for sandy beaches supported by machine learning techniques.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14263</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.88</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.88</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14263/13535</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Juan L. Garzon, Oscar Ferreira, Catarina Zozimo, Liliana Pinheiro, Juana Fortes</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

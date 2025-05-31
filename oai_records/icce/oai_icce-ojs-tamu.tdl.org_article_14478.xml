@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14478</identifier>
+				<datestamp>2025-05-29T07:24:51Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">HYDRODYNAMIC EFFICIENCY OF U-OWC WEC THROUGH GEOMETRIC INVESTIGATION: A DESIGN FORMULATION APPROACH</dc:title>
+	<dc:creator xml:lang="en">Gazaloglu, Gunay</dc:creator>
+	<dc:creator xml:lang="en">Samuel, John</dc:creator>
+	<dc:creator xml:lang="en">Guler, Hasan Gokhan</dc:creator>
+	<dc:creator xml:lang="en">Collins, Keri</dc:creator>
+	<dc:creator xml:lang="en">Simmonds, David</dc:creator>
+	<dc:description xml:lang="en">Due to an increasing global energy consumption and an improved understanding of the probable consequences of climate change, the demand for clean and sustainable energy sources has never been more pressing. Wave energy converters (WECs) are one of the technological solutions that might be adopted. Among the types of wave energy conversion systems, the fixed Oscillating Water Column (OWC) WECs is a well-documented and widely studied classic solution that can be installed in breakwaters to improve their viability. However, the understanding of their design has not been fully codified. This study investigates the hydrodynamic efficiency of U- shaped OWC structures utilizing physical model experiments and re-analysis of existing literature data, where geometrical parameters were systematically varied. Additionally, the present study explores the effect of wave steepness on wave energy converter’s efficiency and determines the natural frequency of U-OWC structures to tune for local wave conditions targeting highest capture width ratio. Finally, several design formulations are derived based on the experimental measurements and the dataset formed in this study collecting the available data from the literature.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14478</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.74</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.74</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14478/13750</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Gunay Gazaloglu, John Samuel, Hasan Gokhan Guler, Keri Collins, David Simmonds</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

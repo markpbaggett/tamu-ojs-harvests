@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14319</identifier>
+				<datestamp>2025-05-29T06:11:32Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MONITORING A BEACH NOURISHMENT PROJECT IN BENIDORM (E SPAIN) USING REMOTE SENSING</dc:title>
+	<dc:creator xml:lang="en">Cabezas-Rabadán, Carlos</dc:creator>
+	<dc:creator xml:lang="en">Pardo-Pascual, Josep E.</dc:creator>
+	<dc:creator xml:lang="en">Palomar-Vázquez, Jesús</dc:creator>
+	<dc:creator xml:lang="en">Cooper, Andrew</dc:creator>
+	<dc:description xml:lang="en">Efficient coastal management requires decision-making actions based on accurate and up-to-date information on the state of beaches. Coastal engineering actions have the potential to modify the morphology of beaches in an attempt to contribute to their physical maintenance in the face of erosion problems. Nevertheless, in many cases, monitoring of beach nourishment effects is limited in time and space, and the resulting morphological consequences of these actions are not well known. The possibility to freely access the optical satellite imagery from the Landsat and Sentinel-2 constellations has opened up a new scenario for the efficient characterisation of coastal spaces and beach dynamism. Based on satellite imagery, different tools for identifying the shoreline positions (Satellite-Derived Shorelines, SDSs) and monitoring their changes over time have been proposed (see Vos et al., 2023). With this same goal, the shoreline extraction tool SHOREX (Sánchez- García et al., 2020) constitutes a solution encompassing all the necessary steps from data acquisition to the final shoreline definition. Sustained on remote sensing, this work presents a methodological approach for the continuous monitoring of the morphological effects of beach nourishment actions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14319</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.51</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.51</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14319/13591</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Carlos Cabezas-Rabadán, Josep E. Pardo-Pascual, Jesús Palomar-Vázquez, Andrew Cooper</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

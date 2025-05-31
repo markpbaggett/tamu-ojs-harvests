@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14491</identifier>
+				<datestamp>2025-05-29T06:46:44Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE FORCES ACTING ON VERTICAL STRUCTURES WITH RETREATED WALL: NUMERICAL MODELLING WITH OPENFOAM®</dc:title>
+	<dc:creator xml:lang="en">Zavani, Edardo</dc:creator>
+	<dc:creator xml:lang="en">Romano, Alessandro</dc:creator>
+	<dc:creator xml:lang="en">Bellotti, Giorgio</dc:creator>
+	<dc:description xml:lang="en">Composite vertical breakwaters are monolithic structures which are mainly used to protect harbor basins, especially in relatively deep-water conditions. Currently, design criteria of composite vertical breakwaters are mainly based on the Goda’s formulae (Goda, 2010), including impulsive breaking conditions proposed by Takahashi (1996). More recently, Oumeraci et al. (2001) has provided guidelines for the design of composite vertical breakwaters and seawalls under breaking and non- breaking conditions within the framework of PROVERBS (PRObabilistic design tools for VERtical BreakwaterS); these guidelines also include methods to estimate wave impact magnitude and duration on vertical breakwaters. Given the considerable size of such structures, whose height is often on the order of tens of meters, it is of strong interest to study solutions and configurations that allow to reduce the magnitude of wave loads. Even a relatively small local reduction of wave-induced pressures acting on the structure can provide significant advantages and benefits in terms of reduction of forces. The engineering optimization of vertical breakwaters requires a deep understanding of the processes involved in the wave- structure interaction, whose physics is rather simple. Even tough vertical breakwaters are relatively common structures, which have been widely used in the last decades, further research is needed to achieve the objective of an effective optimization.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14491</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.83</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.83</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14491/13763</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Edardo Zavani, Alessandro Romano, Giorgio Bellotti</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

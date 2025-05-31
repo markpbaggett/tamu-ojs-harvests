@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14656</identifier>
+				<datestamp>2025-05-29T10:43:19Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NUMERICAL MODELLING OF PRIMARY SHIP WAVES IN SHALLOW COASTAL AREAS USING CFD</dc:title>
+	<dc:creator xml:lang="en">Soydan, Ahmet</dc:creator>
+	<dc:creator xml:lang="en">Knoblauch, Fabian</dc:creator>
+	<dc:creator xml:lang="en">Wang, Widar Weizhi</dc:creator>
+	<dc:creator xml:lang="en">Dempwolff, León-Carlos</dc:creator>
+	<dc:creator xml:lang="en">Goseberg, Nils</dc:creator>
+	<dc:creator xml:lang="en">Bihs, Hans</dc:creator>
+	<dc:description xml:lang="en">Ship generated waves have gained special attention nowadays due to the increasing ship sizes and marine traffic, resulting in higher ship-induced loads in shallow coastal areas. As highlighted by Dempwolff et al. (2022a), the long-period, primary wave system is generated when large-volume ships are traveling in inland waterways, affecting the ecology and the engineering structures. Various numerical methods have been employed to investigate the impact of the ship-generated waves in shallow coastal areas, based on potential flow theory (Yau and Zou, 2010; Gourlay et al., 2015), Reynolds- averaged Navier-Stokes equations (RANSE) (Tezdogan et al., 2016; Terziev et al., 2018) and shallow water equations (SWE) (Lesser et al., 2004; Parnell et al., 2015) as described by Dempwolff et al. (2022a). More recently, Dempwolff et al. (2022b) investigated the ship generated and long-period waves using the open-source SWE solver REEF3D::SFLOW and validated the numerical method. In this work, on the other hand, the high-fidelity hydrodynamic model REEF3D::CFD, accompanied with a fluid-structure interactions (FSI) algorithm, is used to predict the ship-generated wave. The numerical model is validated with the experimental benchmark test carried out by German Federal Waterways Engineering and Research Institute (BAW) in the ship wave basin. Furthermore, this study presents the capability and flexibility of the FSI algorithm for coastal and marine engineering applications.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14656</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.89</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.89</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14656/13928</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Ahmet Soydan, Fabian Knoblauch, Widar Weizhi Wang, León-Carlos Dempwolff, Nils Goseberg, Hans Bihs</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

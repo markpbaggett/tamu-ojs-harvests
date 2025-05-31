@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14441</identifier>
+				<datestamp>2025-05-29T06:34:35Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A SELF-DEVELOPED ALGORITHM BASED ON THE MOVING PARTICLE SEMI-IMPLICIT METHOD FOR INVESTIGATING DAM BREAK</dc:title>
+	<dc:creator xml:lang="en">Zhang, Zhen</dc:creator>
+	<dc:creator xml:lang="en">Tao, Aifeng</dc:creator>
+	<dc:description xml:lang="en">Cases of dam failures are seen almost every year globally, which is a topic of great importance for hydraulic researchers because in reality this catastrophic phenomenon can result in immense economic damage and loss of lives (Esmaeeli Mohsenabadi et al., 2023; Hooshyaripor and Tahershamsi, 2015; Larocque et al., 2013). However, it is difficult to explore the dam-break flow characteristics because of their non-linearity, quickly changing unstable flow, and even breaking waves(Hooshyaripor et al., 2014). The meshless methodology demonstrates its superiority to the conventional mesh method in simulating the splashing and rolling (Ye et al., 2020). As a mesh-free Lagrangian particle method, the Moving Particle Semi-implicit (MPS) method can easily handle with simulating problems with complex flow. Instead of calculating the state equation in a weakly compressible state as in the weakly-compressible Smoothed Particle Hydrodynamics (SPH) method, MPS methods solve the pressure Poisson equation (PPE) implicitly. Therefore, the MPS method can simulate the incompressible flow more accurately (Wu et al., 2023).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14441</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.72</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.72</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14441/13713</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Zhen Zhang, Aifeng Tao</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

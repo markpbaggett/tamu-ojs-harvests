@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14667</identifier>
+				<datestamp>2025-05-29T10:28:47Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">IMPROVING HURRICANE-INDUCED COMPOUND FLOOD RISK ASSESSMENT IN LONG ISLAND, BAHAMAS: THE ROLE OF LOCAL DIGITAL TERRAIN MODELS</dc:title>
+	<dc:creator xml:lang="en">Spek, Bart-Jan van der</dc:creator>
+	<dc:creator xml:lang="en">Heineke, David</dc:creator>
+	<dc:creator xml:lang="en">Bockelmann, Sophie</dc:creator>
+	<dc:creator xml:lang="en">Dijsselbloem, Stijn</dc:creator>
+	<dc:creator xml:lang="en">Loef, Bram</dc:creator>
+	<dc:description xml:lang="en">The Bahamas has been severely affected by powerful hurricanes, notably Hurricane Joaquin in 2015, which inflicted significant damage, particularly to Long Island. Being part of the Small Island Developing States (SIDS), the Bahamian islands, are vulnerable to flooding, primarily due to their low-lying terrain. These flood hazards cause damage and impact on assets, economic activities and public infrastructure. Moreover, indirect consequences, including inadequate emergency responses and environmental hazards, are integral aspects of the overall disaster risk. Considering the imminent threat of climate change and rising sea levels, accurate flood risk assessments become imperative. A comprehensive flood risk assessment has been conducted, for which an accurate Digital Terrain Model (DTM) has been generated through a special calibration method, integrating global datasets with locally acquired survey data and detailed land use maps.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14667</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.215</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.215</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14667/13939</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Bart-Jan van der Spek, David Heineke, Sophie Bockelmann, Stijn Dijsselbloem, Bram Loef</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

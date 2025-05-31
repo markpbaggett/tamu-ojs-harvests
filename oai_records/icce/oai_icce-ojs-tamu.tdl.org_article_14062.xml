@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14062</identifier>
+				<datestamp>2025-05-29T06:12:44Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">BIVARIATE COPULA APPROACH FOR QUANTIFYING THE JOINT PROBABILITY OF COASTAL TEXAS COMPOUND FLOOD HAZARDS</dc:title>
+	<dc:creator xml:lang="en">Islam, Mohammad</dc:creator>
+	<dc:creator xml:lang="en">Carr, Meredith</dc:creator>
+	<dc:creator xml:lang="en">Nadal-Caraballo, Norberto</dc:creator>
+	<dc:creator xml:lang="en">Aucoin, Luke</dc:creator>
+	<dc:description xml:lang="en">Flooding in many coastal regions is exacerbated due to complex interactions of multiple flood drivers which can occur concurrently or sequentially during coastal storm events, resulting in compound flood hazards. The Texas Gulf Coast (USA) is especially vulnerable to compound flooding due to frequent tropical cyclones (TCs) that bring strong winds, driving storm surge and heavy rainfall leading to inland flooding. Devastation caused by recent TCs, such as Hurricane Harvey, have underscored the need to accurately quantify combined coastal and inland flood hazards to support coastal resilience. Traditionally, the quantification of probabilistic coastal storm hazards in the Gulf of Mexico has employed the Joint Probability Method (JPM), considering TCs as the primary drivers of surge and wave hazards (Nadal-Caraballo et al. 2019). However, these approaches typically overlook or simplify the flood hazard from TC- induced rainfall. Recent studies of rainfall-surge pairing analyses using bivariate copula methods on observational datasets have evaluated the joint flood hazards resulting from rainfall and storm surge (e.g., Kim et al., 2022). Such statistical analysis of observations can be a critical tool for evaluating compound coastal flood hazards. Nevertheless, existing studies generally neglect uncertainty or are limited to bootstrapping/resampling approaches. Substantial uncertainty exists due to limited observations of extreme events, particularly when characterizing the low-frequency tails of flood hazard curves. In this study, we performed a bivariate copula analysis at outlets of large rivers along the Texas Gulf coast. Our objective was to investigate the uncertainties associated with the bivariate copula approach and establish confidence intervals of the hazard curves.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14062</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.9</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.9</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14062/13334</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Mohammad Islam, Meredith Carr, Norberto Nadal-Caraballo, Luke Aucoin</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

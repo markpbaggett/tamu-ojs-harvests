@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14645</identifier>
+				<datestamp>2025-05-29T08:06:10Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">EFFECTS OF WIND WAVES ON COASTAL CURRENTS: A CASE STUDY OF TYPHOON JEBI, 2018</dc:title>
+	<dc:creator xml:lang="en">Jeong, Jae-Soon</dc:creator>
+	<dc:creator xml:lang="en">Lee, Han Soo</dc:creator>
+	<dc:creator xml:lang="en">Mori, Nobuhito</dc:creator>
+	<dc:description xml:lang="en">Typhoon Jebi in early September 2018 induced a storm surge around Osaka Bay. The typhoon had the strongest intensity among historical typhoons to come ashore in this area in the last 25 years (Le et al., 2019). It caused damaged coastal protection structures and a collision of a drifted tanker ship with a bridge (Kozono et al., 2019; Le et al., 2019). The damage of the hazard was investigated mainly using meteorological and wave models with a consideration of tide level to assess the impact of high waves on coastal infrastructure (Le et al., 2019; Otaki et al., 2022). The effects of tidal currents were not considered enough, although wind waves can be modulated by tidal modulation of water levels and currents. Also, the wave modulation, in turn, affects tidal components, called wave-tide interaction (Lewis et al., 2019). The Seto Inland Sea (SIS) is a semi-enclosed coastal sea, including Osaka Bay. It has an area of approximately 23,000 km2 and a length of 450 km, while Osaka Bay is 60 km in length. The whole SIS should be considered as study area if tidal effects must be analyzed accurately in Osaka Bay. This is because the SIS is an archipelago with narrow and complex straits, usually resulting in tidal asymmetry and tidal amplification or attenuation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14645</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.205</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.205</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14645/13917</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Jae-Soon Jeong, Han Soo Lee, Nobuhito Mori</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

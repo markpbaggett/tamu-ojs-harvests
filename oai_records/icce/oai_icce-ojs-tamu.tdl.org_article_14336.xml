@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14336</identifier>
+				<datestamp>2025-05-29T06:11:34Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">APPLYING PROBABILISTIC DATABASES TO DEFINE INPUTS FOR INUNDATION NUMERICAL SIMULATIONS: THE MESSINA STRAIT CASE</dc:title>
+	<dc:creator xml:lang="en">Ruffini, Gioele</dc:creator>
+	<dc:creator xml:lang="en">Codato, Carolina</dc:creator>
+	<dc:creator xml:lang="en">Riccardo, Briganti</dc:creator>
+	<dc:creator xml:lang="en">Girolamo, Paolo De</dc:creator>
+	<dc:description xml:lang="en">Studies based on probabilistic frameworks defined a methodology known as Probabilistic Tsunami Hazard Assessment, or PTHA (Grezio et al., 2017), are increasingly common and becoming essential for planning risk reduction, which significantly helps in saving lives and reducing economic losses. PTHAs usually provide to the final user a single or a set of tsunami parameters, e.g., wave amplitude a, wave height H, Maximum Inundation Height MIH, defined at a prescribed distance from the coast, to assess the hazard to a certain coastal stretch. The propagation inshore of these parameters is usually simplified and does not consider specific local bathymetry features. Due to this, directly using simplified propagation tools might not be cautelative when developing projects for high relevance areas or critical infrastructure, where high resolution results are needed (Tonini et al., 2021). A specific methodology to consider the variability of the coast with high resolution numerical simulations starting from a PTHA database is therefore needed for reliable hazard assessment. Here, this new methodology is developed starting from the hazard curves provided by the NEAMTHM18 to obtain tsunami input time series for propagation and inundation numerical modelling, which is then used for high resolution hazard assessment of an area of interest.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14336</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.120</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.120</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14336/13608</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Gioele Ruffini, Carolina Codato, Briganti Riccardo, Paolo De Girolamo</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

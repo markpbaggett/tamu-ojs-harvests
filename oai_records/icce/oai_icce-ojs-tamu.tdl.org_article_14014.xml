@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14014</identifier>
+				<datestamp>2025-05-29T06:12:37Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE OVERTOPPING AT VERTICAL WALLS IN SHALLOW WATER CONDITIONS: A PREDICTIVE FORMULA</dc:title>
+	<dc:creator xml:lang="en">Tuozzo, Sara</dc:creator>
+	<dc:creator xml:lang="en">Calabrese, Mario</dc:creator>
+	<dc:creator xml:lang="en">Buccino, Mariano</dc:creator>
+	<dc:description xml:lang="en">The work examines the wave overtopping process of vertical seawalls with very shallow foreshores. The non- hydrostatic model SWASH is used as an exploratory tool to deepen our knowledge about this process. Nowadays, phase-resolving numerical models are indeed considered reliable tools due to their attested ability to capture the physics of complex hydrodynamics phenomena, such as wave overtopping. Specifically, we explore the relationship between the mean overtopping discharge and the Fourier power spectrum, and then we provide a new overtopping model. The latter relates the flow rate to a new time-domain statistic representing the upper tail of wave elevation distribution at the toe of the structure. Finally, almost 200 laboratory experiments validate numerical findings.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14014</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.63</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.63</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14014/13286</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Sara Tuozzo, Mario Calabrese, Mariano Buccino</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

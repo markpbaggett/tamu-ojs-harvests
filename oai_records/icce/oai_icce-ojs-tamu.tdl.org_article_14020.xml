@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14020</identifier>
+				<datestamp>2025-05-29T06:12:38Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">MODELLING THE CATASTROPHIC MAY 2023 FLOODS ALONG THE EMILIA ROMAGNA LITTORAL WITH THE COASTS GIS-BASED TOOL</dc:title>
+	<dc:creator xml:lang="en">Zanuttigh, Barbara</dc:creator>
+	<dc:creator xml:lang="en">Pareschi, Paola</dc:creator>
+	<dc:description xml:lang="en">Planning eco-compatible, cost-efficient management strategies ensuring the continuity-of-daily-life and promoting adaptation to climate change can be efficiently supported by GIS-based tools, that allow risk assessment for a number of scenarios and for a variety of clusters of solutions. In this paper the recent flood events along the Emilia Romagna littoral are modeled with the COASTS GIS-based decision support system including different hydraulic models, specifically X-Beach and Mike21. The flooding model results are compared with the available inundation limits recorded after the flood. The hydraulic load considered the combination of rainfall, storm surge, waves and river discharges in the specific area of Cesenatico, a seaside town close to Cesena in northern part of Italy. The inundation modelling restitutes cautious inundation area and therefore the economic damage is also overestimated with respect to the registered damage compensation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14020</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.69</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.69</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14020/13292</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Barbara Zanuttigh, Paola Pareschi</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

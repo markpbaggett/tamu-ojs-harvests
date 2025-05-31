@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14016</identifier>
+				<datestamp>2025-05-29T06:12:37Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NON-LINEAR WAVE PROPAGATION OVER A SUBMERGED BAR</dc:title>
+	<dc:creator xml:lang="en">Rocchi, Stefania</dc:creator>
+	<dc:creator xml:lang="en">Marini, Francesco</dc:creator>
+	<dc:creator xml:lang="en">Lorenzoni, Carlo</dc:creator>
+	<dc:creator xml:lang="en">Corvaro, Sara</dc:creator>
+	<dc:creator xml:lang="en">Mancinelli, Alessandro</dc:creator>
+	<dc:description xml:lang="en">Extensive laboratory experiments have been carried out to study the transformation of both monochromatic and random waves during the propagation over a smooth and impermeable bar, with the aim to study the mechanisms of interaction between waves and coastal structures, using spectral and bispectral analyses. It has been observed that the increase of the wave length leads to a greater energy transfer towards high frequencies and, in some cases, the secondary harmonic components become prevalent. The wave breaking acts by mainly reducing the energy of the primary components and it involves a redistribution of energy over a wider high-frequency range, with less pronounced peaks at the secondary harmonics. The observed spatial variations of the non-linearity parameters (bicoherence, skewness and asymmetry) indicate strong phase couplings between the primary component and its harmonics over the bar due to the non-linear triad interactions. Some of the main results of the laboratory experiments are presented.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14016</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.65</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.65</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14016/13288</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Stefania Rocchi, Francesco Marini, Carlo Lorenzoni, Sara Corvaro, Alessandro Mancinelli</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14006</identifier>
+				<datestamp>2025-05-29T06:12:36Z</datestamp>
+				<setSpec>icce:Papers</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE ATTENUATION EFFECTS BY MANGROVES USING THREE-DIMENSIONAL NUMERICAL CALCULATIONS</dc:title>
+	<dc:creator xml:lang="en">Yoshida, Mei</dc:creator>
+	<dc:creator xml:lang="en">Ohara, Hinano</dc:creator>
+	<dc:creator xml:lang="en">Enomoto, Yota</dc:creator>
+	<dc:creator xml:lang="en">Arikawa, Taro</dc:creator>
+	<dc:description xml:lang="en">Mangroves significantly attenuate tsunami wave heights, and recent studies have explored this using both experiments and numerical simulations. Fluid behavior in mangrove forests is highly three-dimensional and requires high computational cost for numerical analysis. Therefore, this study employs a simplified modeling method using the Dupuit-Forchheimer law, which reproduces attenuation effects with low computational cost. Results show that wave height attenuation was consistent with experiments even at coarse grid resolutions (2–4 times the trunk diameter). Local scale calculations confirmed that wider mangrove forests and higher resistance coefficients reduce transmissivity, aligning with experimental and prior research trends. This approach demonstrated potential for evaluating mangrove- based disaster mitigation.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14006</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.papers.55</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; papers.55</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14006/13278</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Mei Yoshida, Hinano Ohara, Yota Enomoto, Taro Arikawa</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

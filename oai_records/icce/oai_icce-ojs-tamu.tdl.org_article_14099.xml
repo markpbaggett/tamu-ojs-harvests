@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14099</identifier>
+				<datestamp>2025-05-29T06:12:50Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">NON-EQUILIBRIUM WAVE STATISTICS IN COASTAL AREA ASSOCIATED WITH STRONG VARIATIONS OF WATER DEPTH AND AMBIENT CURRENT</dc:title>
+	<dc:creator xml:lang="en">Zhang, Jie</dc:creator>
+	<dc:creator xml:lang="en">Ma, Yuxiang</dc:creator>
+	<dc:creator xml:lang="en">Benoit,  Michel</dc:creator>
+	<dc:description xml:lang="en">Freak waves, usually defined as waves with crest-to-trough heights exceeding twice the significant wave height Hs (e.g. Dysthe et al., 2008), pose a significant risk to maritime and ocean engineering (Didenkulova et al., 2023). These anomalous waves occur under various conditions but are particularly hazardous in coastal regions with intense human activity (Li and Chabchoub, 2023). In this study, we present experimental evidence demonstrating that, as waves propagate over an uneven bottom with the presence of uniform following current, the mean flow velocity varies according to the changes of local water depth, and the inhomogeneity of current in the direction of wave propagation leads to non-equilibrium dynamics (NED). As a result, the freak wave probability is further enhanced by a following current, which was considered the opposite in the regime of MI (Toffoli et al., 2015).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14099</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.20</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.20</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14099/13371</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Jie Zhang, Yuxiang Ma,  Michel Benoit</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14738</identifier>
+				<datestamp>2025-05-29T06:12:22Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">DEVELOPMENT OF A DECISION SUPPORT SYSTEM FOR NAVAL PLANNING AND PREDICTION OPERATIONS: SIAAMETOC PROJECT</dc:title>
+	<dc:creator xml:lang="en">Diaz-Hernandez, Gabriel</dc:creator>
+	<dc:creator xml:lang="en">Ortega, Alejandro</dc:creator>
+	<dc:creator xml:lang="en">González, Alejandro</dc:creator>
+	<dc:description xml:lang="en">The SIAAMETOC project (Integrated Automatic Meteorological-Oceanographic Support System for Maritime Operations) is responsible for the identification, analysis, and exploitation of currently available meteorological and oceanographic data worldwide. Its purpose is to automatically adapt/interpret this information to reliably, efficiently, and realistically support missions and maritime operations of the Ministry of Defense of Spain. It is an Research, Development, and Innovation system applied to military use, utilizing, modifying, and adapting pre- existing information to provide practical added value for maritime operations involved in Rapid Environmental Assessment (REA) support. This contributes to the decision-making process for METOC officers and Beach Naval Groups (GNP).</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14738</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.238</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.238</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14738/14010</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Gabriel Diaz-Hernandez, Alejandro Ortega, Alejandro González</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

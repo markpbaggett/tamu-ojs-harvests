@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14192</identifier>
+				<datestamp>2025-05-29T06:31:53Z</datestamp>
+				<setSpec>icce:Management</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">COMMUNITY-ENGAGED COASTAL FLOOD MODELING TO EVALUATE SEA LEVEL RISE ADAPTATION STRATEGIES</dc:title>
+	<dc:creator xml:lang="en">Thelen, Thomas</dc:creator>
+	<dc:creator xml:lang="en">Anarde, Katherine</dc:creator>
+	<dc:creator xml:lang="en">Dietrich, Casey</dc:creator>
+	<dc:creator xml:lang="en">Cawley, Max</dc:creator>
+	<dc:creator xml:lang="en">Hino, Miyuki</dc:creator>
+	<dc:description xml:lang="en">As sea levels continue to rise, coastal communities are searching for strategies to reduce flooding of low-lying roads, property, and stormwater drainage networks. Here we focus on the development of adaptation strategies for communities that experience flooding outside of extreme storms like hurricanes due to sea level rise (SLR). Processes that contribute to these floods can include tides, rainfall, wind setup, groundwater, and infrastructure failure (Gold et al., 2023). Here we present a framework to test the effectiveness of adaptation strategies in reducing multi-driver chronic flooding at both current and future sea levels. This framework integrates coastal engineering and stakeholder input to 1) identify adaptation strategies that are preferred by a community that frequently floods and 2) test the effectiveness of these strategies with a numerical model under both current and future conditions.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14192</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.management.59</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; management.59</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14192/13464</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Thomas Thelen, Katherine Anarde, Casey Dietrich, Max Cawley, Miyuki Hino</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

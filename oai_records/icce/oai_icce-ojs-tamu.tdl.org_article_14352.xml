@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14352</identifier>
+				<datestamp>2025-05-29T06:11:37Z</datestamp>
+				<setSpec>icce:Sediment</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">FIELD OBSERVATIONS AND NUMERICAL MODELLING OF HEADLAND BYPASSING IN A HIGH-ENERGY COMPLEX COASTAL ENVIRONMENT</dc:title>
+	<dc:creator xml:lang="en">Uphues, Charlotte Frederike Kerstin</dc:creator>
+	<dc:creator xml:lang="en">Silva, Graziela Miot da</dc:creator>
+	<dc:creator xml:lang="en">Rooijen, Arnold Van</dc:creator>
+	<dc:creator xml:lang="en">Hesp, Patrick</dc:creator>
+	<dc:description xml:lang="en">Understanding and being able to model nearshore sediment transport processes is important for the development of coastal protection and management strategies. To date, most formulations for longshore sediment transport and associated shoreline change have been developed for idealized alongshore uniform sandy beaches. However, many coastlines are far more complex, such as those featuring headlands, which may considerably alter longshore transport processes (Ab Razak, 2015). Headlands can (partially) obstruct longshore transport, thus affecting the sediment balance and, as a result, complicate predictions of shoreline change compared to the case of an alongshore uniform beach. Quantitative expressions to estimate sediment bypass rates around headlands are rare (McCarroll, 2021), especially for large headlands with complex shape. This is primarily due to substantial spatio- temporal variations in sediment transport that can occur in such complex environments and the difficulty of conducting field measurements in high-energy headland environments (McCarroll, 2018), which are critical for developing and validating (empirical) sediment transport formulas. This study adopts a novel field set-up to explore headland bypassing in the high-energy environment around Robe, South Australia, by measuring sediment concentrations and flow velocities around a large and complex headland. The field data is then used to validate a numerical model.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14352</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.sediment.60</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; sediment.60</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14352/13624</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Charlotte Frederike Kerstin Uphues, Graziela Miot da Silva, Arnold Van Rooijen, Patrick Hesp</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

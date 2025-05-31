@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14040</identifier>
+				<datestamp>2025-05-29T06:12:41Z</datestamp>
+				<setSpec>icce:Structures</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">WAVE TRANSFORMATION ACROSS MODULAR POROUS ARTIFICIAL REEFS</dc:title>
+	<dc:creator xml:lang="en">Huang, Jianjun</dc:creator>
+	<dc:creator xml:lang="en">Lowe, Ryan J.</dc:creator>
+	<dc:creator xml:lang="en">Ghisalberti, Marco</dc:creator>
+	<dc:creator xml:lang="en">Hansen, Jeff E.</dc:creator>
+	<dc:description xml:lang="en">Artificial reefs are often deployed for purposes of habitat creation, yet can also act as a nature-based solution for coastal protection due to their ability to attenuate wave energy. There is, however, a lack of quantitative understanding of wave transformation and dissipation over porous artificial reefs, and how this depends on reef geometry parameters and hydrodynamic conditions. This limited understanding has led to a lack of guidance on how to optimize reef design to maximize coastal protection benefits. Given that artificial reefs have some structural similarities to traditional submerged breakwaters, there may be similar wave transformation characteristics across these two structures. However, relative to submerged breakwaters that typically have relatively low porosities, artificial reefs are usually designed as highly porous structures for habitat provision. The increased porosity of an artificial reef has the potential to modify how waves transform across reefs and dissipate energy. In this study, physical modelling experiments were conducted in a wave flume with both an idealized cubic modular porous artificial reef and an impermeable reef, with the aim to examine how wave propagation, breaking and transmission characteristics differ over artificial reefs with high porosity.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14040</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.structures.6</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; structures.6</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14040/13312</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Jianjun Huang, Ryan J. Lowe, Marco Ghisalberti, Jeff E. Hansen</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

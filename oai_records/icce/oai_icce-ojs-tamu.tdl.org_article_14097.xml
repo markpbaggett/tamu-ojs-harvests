@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:icce-ojs-tamu.tdl.org:article/14097</identifier>
+				<datestamp>2025-05-29T06:12:49Z</datestamp>
+				<setSpec>icce:Waves</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">AI-BASED FAST COMPUTATION OF NONLINEAR WAVE ENERGY TRANSFER</dc:title>
+	<dc:creator xml:lang="en">Laurent, Auriane</dc:creator>
+	<dc:creator xml:lang="en">Tajima, Yoshimitsu</dc:creator>
+	<dc:description xml:lang="en">Spectral wave models compute the wave spectra's spatiotemporal growth, propagation and dissipation processes by considering the energy balance equations with several source terms. These source terms account for physical processes such as wind-induced growth, energy loss through white-capping, bottom friction, breaking..., and nonlinear energy transfer through nonlinear wave- wave interactions. Because Neural Networks (NN) have shown their ability to grasp highly nonlinear behaviors and their capacity to accelerate computations, several authors (Krasnopolsky et al., 2002; Puscasu, 2014; Tolman et al., 2005) proposed Neural Network Interactions Approximations (NNIA) as an accurate substitute of the Discrete Interaction Approximation (DIA). We aim to propose a convolutional NN architecture to predict nonlinear energy transfer for a wide range of spectra without any hypothesis on the spectrum shape.</dc:description>
+	<dc:publisher xml:lang="en">Coastal Engineering Research Council</dc:publisher>
+	<dc:date>2025-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://icce-ojs-tamu.tdl.org/icce/article/view/14097</dc:identifier>
+	<dc:identifier>10.9753/icce.v38.waves.18</dc:identifier>
+	<dc:source xml:lang="en">Coastal Engineering Proceedings; No. 38 (2024): Proceedings of 38th Conference on Coastal Engineering, Rome, Italy, 2024; waves.18</dc:source>
+	<dc:source>2156-1028</dc:source>
+	<dc:source>0589-087X</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://icce-ojs-tamu.tdl.org/icce/article/view/14097/13369</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Auriane Laurent, Yoshimitsu Tajima</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
