@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:pal-ojs-tamu.tdl.org:article/7211</identifier>
+				<datestamp>2025-06-04T15:25:11Z</datestamp>
+				<setSpec>pal:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">A Battle of the Chatbots: An Exploratory Comparison of ChatGPT, Gemini, Copilot, Claude, Perplexity and HuggingChat</dc:title>
+	<dc:creator xml:lang="en">Okamoto, Karen</dc:creator>
+	<dc:description xml:lang="en">This exploratory study compares the output of the free versions of six generative artificial intelligence chatbots — ChatGPT, Gemini, Copilot, Claude, Perplexity and HuggingChat. Five questions were submitted to all of the chatbots and examined according to the length, correctness, and tone of the response and any additional features provided by the chatbots such as citations, web links and helpful follow up questions. This comparison found that not one chatbot excelled at responding to all of the questions though some provided strong answers, pointing to the possible importance of not relying solely on one chatbot for answers and for continually examining different chatbots given that the field of generative AI is developing and evolving rapidly. </dc:description>
+	<dc:publisher xml:lang="en">SLA: Special Libraries Association</dc:publisher>
+	<dc:date>2025-06-04</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://pal-ojs-tamu.tdl.org/pal/article/view/7211</dc:identifier>
+	<dc:source xml:lang="en">Practical Academic Librarianship: The International Journal of the SLA Academic Division; Vol. 15 No. 1 (2025)</dc:source>
+	<dc:source>1947-0037</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://pal-ojs-tamu.tdl.org/pal/article/view/7211/6172</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 Practical Academic Librarianship: The International Journal of the SLA Academic Division</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
