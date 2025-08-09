@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9266</identifier>
+				<datestamp>2025-08-01T10:21:28Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">The effect of Salmonella vaccination on Salmonella Dublin blood enzyme-linked immunosorbent assay results</dc:title>
+	<dc:creator xml:lang="en">Nogay, Emily E.</dc:creator>
+	<dc:creator xml:lang="en">Locke, Samantha R.</dc:creator>
+	<dc:creator xml:lang="en">Arevalo-Mayorga, Alejandra</dc:creator>
+	<dc:creator xml:lang="en">Masterson, Margaret A.</dc:creator>
+	<dc:creator xml:lang="en">Cheng, Ting-Yu</dc:creator>
+	<dc:creator xml:lang="en">Habing, Greg G.</dc:creator>
+	<dc:subject xml:lang="en">Salmonella</dc:subject>
+	<dc:subject xml:lang="en">S. Dublin</dc:subject>
+	<dc:subject xml:lang="en">vaccine</dc:subject>
+	<dc:subject xml:lang="en">ELiSA</dc:subject>
+	<dc:subject xml:lang="en">heifer calves</dc:subject>
+	<dc:description xml:lang="en">The Salmonella Dublin (S. Dublin) antibody enzyme-linked immunosorbent assay (ELISA) is used to estimate the preva­lence in dairy herds and as the primary diagnostic method in national control plans. Limited evidence is available regard­ing how U.S. currently licensed Salmonella vaccines produce Salmonella Dublin antibodies that are detectable by a commer­cial ELISA. The objective of this study was to determine if any of the commercial Salmonella vaccines produce detectable an­tibodies using this test. Fifty Holstein heifer calves were allo­cated into 5 groups of 10 and randomly assigned into 1 control and 4 vaccine groups. Calves were vaccinat­ed or received a sham injection twice 2 weeks apart. All were tested using the S. Dublin serum ELISA prior to vaccination and again 2 and 5 weeks following the second vaccination. Individual calf ELISA results were reported as percent positiv­ity (%PP) with ≥ 35% considered positive. Percent positivity results were analyzed using a mixed linear regression model in Stata, where %PP was the outcome. Fixed ef­fects included the vaccine group, day post-vaccination, and their interaction. Based on the cutoff of ≥ 35%, 5 weeks fol­lowing second vaccination, the number of positive calves were 1, 4 and 5 for calves administered ENDOVAC-Dairy®, a Salmonella Dublin-Typhimurium bacterin (Colorado Serum), and EnterVene®-d, respectively. Calves administered the SRP® vaccine or saline did not have positive ELISA results at any point in the study. This study demonstrates that certain commercial Salmonella vaccines complicate the interpre­tation of S. Dublin ELISA results, questioning the use in prevalence studies and control programs.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2025-07-31</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9266</dc:identifier>
+	<dc:identifier>10.21423/bpj20259266</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 59 No. 2 (2025): ONLINE FIRST; 53-60</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9266/8906</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 The Bovine Practitioner</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
