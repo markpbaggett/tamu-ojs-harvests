@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 			<header>
 				<identifier>oai:jfe-ojs-tamu.tdl.org:article/4</identifier>
-				<datestamp>2025-04-09T14:34:17Z</datestamp>
+				<datestamp>2025-08-26T13:48:19Z</datestamp>
 				<setSpec>jfe:RZ</setSpec>
 			</header>
 			<metadata>
@@ -27,7 +27,9 @@
 	<dc:type xml:lang="en">Peer reviewed article</dc:type>
 	<dc:format>application/pdf</dc:format>
 	<dc:identifier>https://jfe-ojs-tamu.tdl.org/jfe/article/view/4</dc:identifier>
+	<dc:identifier>10.63586/rbktv280</dc:identifier>
 	<dc:source xml:lang="en">Journal of Forensic Entomology; Vol. 2 (2024): Journal of Forensic Entomology </dc:source>
+	<dc:source>3068-9864</dc:source>
 	<dc:language>eng</dc:language>
 	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/4/28</dc:relation>
 	<dc:rights xml:lang="en">Copyright (c) 2022 Journal of Forensic Entomology</dc:rights>
@@ -35,4 +37,4 @@
 </oai_dc:dc>
 			</metadata>
 		</record>
-	
+		
