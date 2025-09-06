@@ -17,7 +17,7 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | bovine2 | 1990 |
 | paj | 24 |
 | jume | 217 |
-| jfe | 14 |
+| jfe | 19 |
 | instars | 220 |
 | ertr | 283 |
 | epbj | 6 |
