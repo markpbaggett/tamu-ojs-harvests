@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 			<header>
 				<identifier>oai:jfe-ojs-tamu.tdl.org:article/25</identifier>
-				<datestamp>2024-10-09T15:26:52Z</datestamp>
+				<datestamp>2025-10-01T19:06:17Z</datestamp>
 				<setSpec>jfe:EDT</setSpec>
 			</header>
 			<metadata>
@@ -17,7 +17,8 @@
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
 	<dc:format>application/pdf</dc:format>
 	<dc:identifier>https://jfe-ojs-tamu.tdl.org/jfe/article/view/25</dc:identifier>
-	<dc:source xml:lang="en">Journal of Forensic Entomology; Vol. 2 (2024): Journal of Forensic Entomology </dc:source>
+	<dc:source xml:lang="en">Journal of Forensic Entomology; Vol. 2 (2024): The Journal of Forensic Entomology </dc:source>
+	<dc:source>3068-9864</dc:source>
 	<dc:language>eng</dc:language>
 	<dc:relation>https://jfe-ojs-tamu.tdl.org/jfe/article/view/25/27</dc:relation>
 	<dc:rights xml:lang="en">Copyright (c) 2024 Adrienne Brundage</dc:rights>
@@ -25,4 +26,4 @@
 </oai_dc:dc>
 			</metadata>
 		</record>
-	
+		
