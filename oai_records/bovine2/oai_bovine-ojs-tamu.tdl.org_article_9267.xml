@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 			<header>
 				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9267</identifier>
-				<datestamp>2025-08-13T15:23:42Z</datestamp>
+				<datestamp>2025-11-06T15:38:08Z</datestamp>
 				<setSpec>bovine:RA</setSpec>
 			</header>
 			<metadata>
@@ -23,7 +23,7 @@
 	<dc:format>application/pdf</dc:format>
 	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9267</dc:identifier>
 	<dc:identifier>10.21423/bpj20259267</dc:identifier>
-	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 59 No. 2 (2025): ONLINE FIRST; 61-70</dc:source>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 59 No. 2 (2025); 61-70</dc:source>
 	<dc:source>0524-1685</dc:source>
 	<dc:language>eng</dc:language>
 	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9267/8908</dc:relation>
@@ -31,4 +31,4 @@
 </oai_dc:dc>
 			</metadata>
 		</record>
-	
+		
