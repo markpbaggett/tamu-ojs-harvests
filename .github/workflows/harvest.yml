@@ -29,6 +29,7 @@ jobs:
           - { set: "ijcs", url: "https://ijscs-ojs-tamu.tdl.org/ijscs/oai" }
           - { set: "jfse", url: "https://jfse-ojs-tamu.tdl.org/jfse/oai" }
           - { set: "tndr", url: "https://tndr-ojs-tamu.tdl.org/tndr/oai"}
+          - { set: "ch", url: "https://ch-ojs-tamu.tdl.org/ch/oai"}
     name: Harvest OAI
     runs-on: ubuntu-latest
     steps:
