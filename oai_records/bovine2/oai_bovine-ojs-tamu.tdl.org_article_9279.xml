@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9279</identifier>
+				<datestamp>2025-11-22T14:14:01Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Evaluation of the diagnostic performance of semen morphologic examination in the bull breeding soundness evaluation using Bayesian latent class analysis</dc:title>
+	<dc:creator xml:lang="en">Gunderson, Todd. G.</dc:creator>
+	<dc:creator xml:lang="en">Shuck, Karen K.</dc:creator>
+	<dc:creator xml:lang="en">Vander Ley, Brian L.</dc:creator>
+	<dc:creator xml:lang="en">Smith, David R.</dc:creator>
+	<dc:subject xml:lang="en">bull breeding soundness</dc:subject>
+	<dc:subject xml:lang="en">diagnostic performance</dc:subject>
+	<dc:description xml:lang="en">The objective of this study was to estimate the sensitivity and specificity of the semen morphology portion of the bull breeding soundness evaluation (BSE) for classifying Bos taurus bulls as sub-fertile.
+Semen, collected during BSE from bulls at the U.S. Meat Animal Research Center in Clay Center, Nebraska was evaluated using eosin-nigrosin stained slides at 1000X magnification by an experienced technician (Evaluator A) and an experienced veterinarian (Evaluator B). Slides with &amp;lt;70% morphologically normal sperm were classified as sub-fertile. Inter-evaluator agreement was assessed using Cohen’s kappa coefficient. Sensitivity, specificity, and true prevalence were estimated using Bayesian latent class analysis. Sensitivity was defined as the probability of correctly identifying a bull as sub-fertile, and specificity as the probability of correctly identifying a bull as satisfactory.
+Of 478 bulls, 68 (14%) were classified as sub-fertile by Evaluator A and 96 (20%) were classified as sub-fertile by Evaluator B; the kappa coefficient was 0.5. The estimated true prevalence of sub-fertile bulls was 16% (95%C.I. 6-32%). The estimated sensitivity and specificity for Evaluator A were 52% (95%C.I. 22-84%) and 93% (95%C.I. 86-99%) respectively, and for Evaluator B were 62% (95%C.I. 31-89%) and 88% (95%C.I. 80-97%).
+Test diagnostic performance was similar between the two evaluators. Diagnostic value of the morphologic examination was slightly greater than knowledge of bull fertility status prior to testing. Given a practitioner’s pre-test assessment of the probability of a bull’s subfertility, these diagnostic parameters can be used to predict the probability that the morphology portion of the BSE accurately predicts subfertility.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2025-11-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9279</dc:identifier>
+	<dc:identifier>10.21423/bpj20269279</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 60 No. 1 (2026): ONLINE FIRST; 12-21</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9279/8910</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2025 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
