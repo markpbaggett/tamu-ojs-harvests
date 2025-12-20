@@ -1,34 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-			<header>
+			<header status="deleted">
 				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9267</identifier>
-				<datestamp>2025-11-06T15:38:08Z</datestamp>
+				<datestamp>2025-12-09T14:25:16Z</datestamp>
 				<setSpec>bovine:RA</setSpec>
 			</header>
-			<metadata>
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-	<dc:title xml:lang="en">Diagnostic findings of copper, selenium and manganese deficiency in dairy and beef cattle submitted to the California Animal Health and Food Safety Laboratory</dc:title>
-	<dc:creator xml:lang="en">Villar, David</dc:creator>
-	<dc:creator xml:lang="en">Schaeffer, David J.</dc:creator>
-	<dc:creator xml:lang="en">Poppenga, Robert</dc:creator>
-	<dc:subject xml:lang="en">micromineral deficiency</dc:subject>
-	<dc:subject xml:lang="en">copper</dc:subject>
-	<dc:subject xml:lang="en">selenium</dc:subject>
-	<dc:subject xml:lang="en">bovine</dc:subject>
-	<dc:description xml:lang="en">Copper (Cu), selenium (Se) and manganese (Mn) concentra­tions in 1,490 beef and dairy cattle livers submitted to the Cali­fornia Animal Health &amp;amp; Food Safety Lab System (CAHFS) lab­oratory between 2012 and 2021 were analyzed. The aim was to compare the correlation patterns of hepatic Cu, Se and Mn in neonates, adolescents and adults for selected pathologies and diseases. Deficiencies were more common in beef than dairy cattle, accounting for 33.5% (287/855) and 5.2% (33/635) for Cu, 46% (385/836), and 9.8% (62/630) for Se. Conditions in beef that were rare or absent in dairy were anaplasmosis, histophilosis, nutritional myopathy, Foothill abortion, Johne's disease and sudden death attributed to severely deficient copper. Bovine respiratory disease (BRD) was diagnosed in beef and dairy cattle, with 14.4% (123/855) and 14.5% (92/635) cases, respec­tively. However, the number of BRD cases deficient in Cu or Se was 68.3% (84/123) and 10.8% (10/92) for beef and dairy cattle, respectively. Salmonellosis and scours were rare in beef cattle but were the 2 most common diagnoses in dairy cattle, with 21.1% (134/635) cases (111 in group D1, 22 in groups B and C), and 16.4% (104/635), respectively. All dairy cases diagnosed with Salmonella Group D1 (most likely S. Dublin) ranged between 5 and 240 days of age. Copper and selenium deficiencies were extensive in beef but not in dairy cattle. Conditions, such as BRD in adult beef and poor BRD vaccination response in beef calves, were more likely to occur when Cu and/or Se were deficient.</dc:description>
-	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
-	<dc:date>2025-07-31</dc:date>
-	<dc:type>info:eu-repo/semantics/article</dc:type>
-	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-	<dc:format>application/pdf</dc:format>
-	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9267</dc:identifier>
-	<dc:identifier>10.21423/bpj20259267</dc:identifier>
-	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 59 No. 2 (2025); 61-70</dc:source>
-	<dc:source>0524-1685</dc:source>
-	<dc:language>eng</dc:language>
-	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9267/8908</dc:relation>
-	<dc:rights xml:lang="en">Copyright (c) 2025 American Association of Bovine Practitioners</dc:rights>
-</oai_dc:dc>
-			</metadata>
 		</record>
 		
