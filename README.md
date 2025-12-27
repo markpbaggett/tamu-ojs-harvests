@@ -10,7 +10,7 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | bovine | 5346 |
 | jfse | 15 |
 | jaawge | 65 |
-| awl | 366 |
+| awl | 367 |
 | hpr | 294 |
 | instars | 220 |
 | icce | 7292 |
@@ -20,7 +20,7 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | watchbird | 3782 |
 | ciney | 88 |
 | regsci | 135 |
-| bovine2 | 1993 |
+| bovine2 | 1997 |
 | aavpt | 246 |
 | ertr | 283 |
 | pal | 73 |
