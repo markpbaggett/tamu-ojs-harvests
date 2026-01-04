@@ -30,6 +30,7 @@ jobs:
           - { set: "jfse", url: "https://jfse-ojs-tamu.tdl.org/jfse/oai" }
           - { set: "tndr", url: "https://tndr-ojs-tamu.tdl.org/tndr/oai"}
           - { set: "ch", url: "https://ch-ojs-tamu.tdl.org/ch/oai"}
+          - { set: "gadamer", url: "https://gadamer-ojs-tamu.tdl.org/gadamer/oai"}
     name: Harvest OAI
     runs-on: ubuntu-latest
     steps:
