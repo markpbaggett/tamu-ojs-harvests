@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 			<header>
 				<identifier>oai:pal-ojs-tamu.tdl.org:article/7023</identifier>
-				<datestamp>2016-07-18T16:31:59Z</datestamp>
+				<datestamp>2026-01-12T20:53:40Z</datestamp>
 				<setSpec>pal:ART</setSpec>
 			</header>
 			<metadata>
@@ -15,18 +15,20 @@
 	<dc:subject xml:lang="en">reference</dc:subject>
 	<dc:subject xml:lang="en">assessment</dc:subject>
 	<dc:description xml:lang="en">This study evaluated librarian expectation and experience before and after the implementation of the LibGuides platform at an ARL member institution. Two surveys were distributed to librarians responsible for subject research guides, one to determine expectations before the introduction of LibGuides, and one to determine if and how those expectations were or were not met following adoption of the platform. Findings indicate that after implementation, LibGuides were updated more often and used more frequently for both instruction and reference than the previously used subject guides. This study can aid other libraries in planning similar implementations of LibGuides at their institutions.</dc:description>
-	<dc:publisher xml:lang="en">SLA: Special Libraries Association</dc:publisher>
-	<dc:date>2016-07-01</dc:date>
+	<dc:publisher xml:lang="en">Association for Information Science and Technology</dc:publisher>
+	<dc:date>2026-01-12</dc:date>
 	<dc:type>info:eu-repo/semantics/article</dc:type>
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
 	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
 	<dc:type xml:lang="en">survey</dc:type>
 	<dc:format>application/pdf</dc:format>
 	<dc:identifier>https://pal-ojs-tamu.tdl.org/pal/article/view/19</dc:identifier>
-	<dc:source xml:lang="en">Practical Academic Librarianship: The International Journal of the SLA Academic Division; Vol. 6 No. 1 (2016); 38</dc:source>
+	<dc:source xml:lang="en">Practical Academic Librarianship; Vol. 6 No. 1 (2016); 38</dc:source>
 	<dc:source>1947-0037</dc:source>
 	<dc:language>eng</dc:language>
 	<dc:relation>https://pal-ojs-tamu.tdl.org/pal/article/view/19/6104</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 Katie Elson Anderson, Gene R. Springs</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
 </oai_dc:dc>
 			</metadata>
 		</record>
