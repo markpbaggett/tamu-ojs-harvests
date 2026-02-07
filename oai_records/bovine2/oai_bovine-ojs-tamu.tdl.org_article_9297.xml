@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9297</identifier>
+				<datestamp>2026-02-07T16:39:56Z</datestamp>
+				<setSpec>bovine:RA</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Clinical interpretation of Tritrichomonas foetus direct RT-rtPCR results from samples inoculated near the limit of detection utilizing category specific likelihood ratios</dc:title>
+	<dc:creator xml:lang="en">Jumper, Tyler M.</dc:creator>
+	<dc:creator xml:lang="en">Thoresen, Merrilee</dc:creator>
+	<dc:creator xml:lang="en">King, E. Heath</dc:creator>
+	<dc:creator xml:lang="en">Loy, Duan S.</dc:creator>
+	<dc:creator xml:lang="en">Loy, J. Dustin</dc:creator>
+	<dc:creator xml:lang="en">Smith, David R.</dc:creator>
+	<dc:subject xml:lang="en">Tritrichomonas foetus</dc:subject>
+	<dc:subject xml:lang="en">RT-rtPCR</dc:subject>
+	<dc:subject xml:lang="en">likelihood ratio</dc:subject>
+	<dc:subject xml:lang="en">diagnostic test interpretation</dc:subject>
+	<dc:description xml:lang="en">A recently developed Tritrichomonas foetus RT-rtPCR reports higher sensitivity and specificity, and lower limit of detection (LOD) than other diagnostic modalities at approximately 1 organism/100 μL. Clinical interpretation of cycle threshold (Ct) results could have major implications on beef cattle herd level decisions. The objective of this study was to develop likelihood ratios for T. foetus RT-rtPCR Ct results near the LOD. Six hundred samples inoculated with T. foetus at approximately LOD, and 600 samples left uninoculated, were submit­ted to a diagnostic laboratory for T. foetus RT-rtPCR. Category specific likelihood ratios (LRcat) were calculated to compare Ct results ≤ 35.00, 35.01-39.99 and 40.00+. The median Ct of inoculated samples was 32.93 (min = 22.39, max = 40.00), and of uninoculated samples was 40.00 (min = 32.81, max = 40.00). For Ct ≤ 35.00, LRcat = 432 (95% CI: 60.91-3063.85); Ct = 35.01-39.99, LRcat = 149 (95% CI: 20.92-1061.3); and Ct = 40.00+, LRcat = 0.03 (95% CI: 0.02-0.05). The high LR for categories Ct ≤ 35.00 and Ct = 35.01-39.99 show that those values were more likely to occur in samples that were inoculated than in sam­ples uninoculated. This suggests that any amplification could be indicative of a true positive, and results in the Ct = 35.01-39.99 category should be considered for retest­ing. The LR for category Ct = 40.00+ demonstrates that truly inoculated samples were less likely to have that result. Using LR to estimate post-test prob­ability could aid clinical interpretation of results and more accurate bull culling decisions.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2026-02-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9297</dc:identifier>
+	<dc:identifier>10.21423/bpj20269297</dc:identifier>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 60 No. 1 (2026): ONLINE FIRST; 80-85</dc:source>
+	<dc:source>0524-1685</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9297/8924</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+	
