@@ -7,7 +7,7 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | Journal | Total Articles |
 | -------- | ------- |
 | jfse | 15 |
-| watchbird | 3782 |
+| watchbird | 3794 |
 | hpr | 294 |
 | gadamer | 10 |
 | pal | 73 |
