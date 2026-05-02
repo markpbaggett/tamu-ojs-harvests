@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9425</identifier>
+				<datestamp>2026-04-28T17:39:22Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Evaluating intestinal integrity and inflammatory genes in beef-on-dairy calves with and without colostrum</dc:title>
+	<dc:creator xml:lang="en">Migl, Kagan</dc:creator>
+	<dc:creator xml:lang="en">Santos, Rafaela</dc:creator>
+	<dc:creator xml:lang="en">Holzapfel, Keerra</dc:creator>
+	<dc:creator xml:lang="en">Gade, Sravani</dc:creator>
+	<dc:creator xml:lang="en">Kluppel, Luciana</dc:creator>
+	<dc:creator xml:lang="en">Prietsch, Juliano</dc:creator>
+	<dc:creator xml:lang="en">Tubbs, Tyler</dc:creator>
+	<dc:creator xml:lang="en">Myers, Stephanie</dc:creator>
+	<dc:creator xml:lang="en">Cruz-Penn, Michael</dc:creator>
+	<dc:creator xml:lang="en">Rosa, Fernanda</dc:creator>
+	<dc:description xml:lang="en">Colostrum consumption is crucial for improving the intestinal health of pre-weaned calves and reducing the incidence of gut diseases. This study aimed to assess ileum mRNA expression by quantifying concentrations of tight junction proteins and inflammatory genes in neonatal beef-on-dairy calves (n = 24). Calves were randomly assigned to either a colostrum-deprived control group (n = 12) or a colostrum treatment group (n = 12), with the latter receiving 2.8 L of pooled colostrum via oral gas­tric tube within 6 hours after birth. Colostrum quality was 26% on the Brix scale. At 9 days of age, 6 calves in each group were inoculated with Salmonella Typhimurium. Inoculated calves were harvested, and intestinal samples were collected at 72h post-inoculation, while non-inoculated calves were harvested, and intestinal samples were collected at 23 days of age. Ileum tissue samples were collected from all calves for total RNA ex­traction and gene expression analysis via RT-qPCR. Relative gene expression abundance was normalized using housekeep­ing genes (GAPDH, B2M, ACTB). Genes of interest included specific intestinal epithelial markers (KRT8, FABP2), tight junction proteins (TJP1, CLDN1, CLDN4), inflammatory mark­ers (IL6, TNFa, NFKB), and the anti-inflammatory gene (IL10). At 72h post-inoculation, the treatment-inoculated calves had a tendency (P = 0.07) for greater CLDN1 expression relative to the control-inoculated calves. At 23 days of age, the non-inoculated treatment group had a tendency (P = 0.07) for greater NFKB expression compared with the non-inoculated control group. Our results suggest a positive relationship between colostrum consumption and the intestinal health of beef-on-dairy calves regardless of induction of inflammation.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2026-04-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9425</dc:identifier>
+	<dc:identifier>10.21423/aabppro20259425</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; Vol. 58 No. 2 (2025): 2025 AABP Annual Conference Proceedings; 239</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9425/9035</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

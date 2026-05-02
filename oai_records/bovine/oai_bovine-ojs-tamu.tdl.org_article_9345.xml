@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9345</identifier>
+				<datestamp>2026-04-28T17:39:57Z</datestamp>
+				<setSpec>aabp:DS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Monitoring, managing and making economically efficient decisions about antibiotic usage on dairy farms</dc:title>
+	<dc:creator xml:lang="en">Ruegg, Pamela</dc:creator>
+	<dc:subject xml:lang="en">antibiotic usage</dc:subject>
+	<dc:subject xml:lang="en">benchmarking</dc:subject>
+	<dc:subject xml:lang="en">mastitis</dc:subject>
+	<dc:subject xml:lang="en">udder health</dc:subject>
+	<dc:description xml:lang="en">Antibiotics remain essential tools for managing mastitis and maintaining dairy cow health, but growing public concern over antimicrobial resistance emphasizes the need for veterinarian leadership in effective stewardship programs. While resistance among mastitis pathogens remains limited, wide variation in antimicrobial usage (AMU) among farms suggests opportuni­ties for improvement. Data from large herds show that over 90% of antimicrobial treatments are for 3 conditions: dry cow ther­apy, clinical mastitis during lactation, and metritis – often using ceftiofur. Benchmarking AMU using defined daily doses per cow per year has revealed considerable variability among farms.
+Veterinarians play a critical role in guiding antimicrobial stew­ardship by evaluating treatment protocols and encouraging ev­idence-based practices. Shortening intramammary treatment durations, especially when clinical trials show no added ben­efit from extended therapy, can significantly reduce treatment costs – most of which stem from milk discard. In appropriate herds, selective dry cow therapy, based on use of algorithms guided by SCC and clinical mastitis history, can reduce anti­biotic use at dry-off by over 50%, particularly in first-lactation animals.
+An open-access benchmarking tool (https://dairyantibiotic benchmark.msu.edu/) allows practitioners to assess AMU, compare farm-level data, and identify cost-saving opportuni­ties. By incorporating benchmarking into herd health pro­grams, veterinarians can proactively reduce unnecessary AMU, improve protocol compliance, and strengthen their role as stewards of both animal and public health.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2026-04-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9345</dc:identifier>
+	<dc:identifier>10.21423/aabppro20259345</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; Vol. 58 No. 2 (2025): 2025 AABP Annual Conference Proceedings; 92-100</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9345/8960</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9456</identifier>
+				<datestamp>2026-04-28T17:39:15Z</datestamp>
+				<setSpec>aabp:RS</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Stress alters respiratory innate immune profiles in beef stocker cattle</dc:title>
+	<dc:creator xml:lang="en">Jakes, G.M.</dc:creator>
+	<dc:creator xml:lang="en">Ammons, D.T.</dc:creator>
+	<dc:creator xml:lang="en">Silva, E.</dc:creator>
+	<dc:creator xml:lang="en">Hunter, R.</dc:creator>
+	<dc:creator xml:lang="en">Dow, S.</dc:creator>
+	<dc:creator xml:lang="en">Raabis, S.M.</dc:creator>
+	<dc:description xml:lang="en">Bovine respiratory disease (BRD) is a leading cause of morbid­ity and mortality in beef cattle globally. Stress due to transport and weaning is associated with BRD risk, yet the mechanism of immune susceptibility following stress is less clear. The mu­cosal immune response to BRD is integral in mitigating pathol­ogy, yet the understanding of functional immune states and interactions between immune cell populations at the respira­tory mucosal surface can be limited by a relative lack of spe­cies-specific reagents. Single-cell RNA sequencing (scRNA-seq) enables the evaluation of transcriptional profiles of individual cells, supporting the identification of unique cell populations and functional states of diverse immune cell subsets. To bet­ter characterize stress-induced changes to respiratory mucosal immunity, we sought to evaluate lung immune cells following stress using scRNA-seq. Our hypothesis was that stress would be associated with a reduced immune response due to the sup­pressive effects of stress on lymphocyte numbers.</dc:description>
+	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
+	<dc:date>2026-04-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9456</dc:identifier>
+	<dc:identifier>10.21423/aabppro20259456</dc:identifier>
+	<dc:source xml:lang="en">American Association of Bovine Practitioners  Conference Proceedings; Vol. 58 No. 2 (2025): 2025 AABP Annual Conference Proceedings; 267</dc:source>
+	<dc:source>1079-9737</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://bovine-ojs-tamu.tdl.org/aabp/article/view/9456/9063</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 American Association of Bovine Practitioners</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
