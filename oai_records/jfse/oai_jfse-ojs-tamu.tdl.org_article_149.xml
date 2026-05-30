@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:jfse-ojs-tamu.tdl.org:article/149</identifier>
+				<datestamp>2026-05-29T19:21:49Z</datestamp>
+				<setSpec>jfse:CLAB</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Quantitative Analysis of 4-Benzyloxybenzoic Acid in Simulated Urine: An Undergraduate Forensic Analysis Experiment</dc:title>
+	<dc:creator xml:lang="en">Zapien, Donald</dc:creator>
+	<dc:subject xml:lang="en">11-COOH-THC-analog</dc:subject>
+	<dc:subject xml:lang="en">quantitative analysis</dc:subject>
+	<dc:subject xml:lang="en">GC-MS</dc:subject>
+	<dc:description xml:lang="en">The purpose of the experiment is to teach undergraduate students the steps involved in quantitating 11-Nor-9-carboxy-Δ9-tetrahydrocannabinol (11-COOH-THC) in urine. 11-COOH-THC is the principal metabolite of THC and is therefore the most important biomarker for THC use. This experiment is ideally suited for students in an introductory forensic science laboratory course. Because higher concentrations of analyte are easier to handle by students at this level, a chemical analog available in fairly large quantity was selected over authentic 11-COOH-THC. 4-Benzyloxybenzoic acid (4-BBA) was selected as a chemical analog to 11-COOH-THC due to structural similarity and comparable chemical reactivity. The class was divided into groups of four students, and each group was responsible for preparing three standards or three unknown dilutions. Students prepared standards in volumetric flasks and extracted the standards into dichloromethane using separatory funnels. 4-BBA and the internal standard, 3-BBA, showed baseline separation on the GC-MS TIC chromatogram. The students were observed to efficiently carry out the extractions, the evaporation of the solvent and the derivatization of the 4-BBA and 3-BBA. The class data were pooled, and the calibration curve showed a correlation coefficient of 0.95 indicating good precision. Students gained an awareness that drug metabolites, like 11-COOH-THC, are found in urine (and other biofluids) at low concentration. Using 4-BBA, they learned the strategies they needed to prepare the sample and to extract meaningful data from the instrumentation to find the concentration of a metabolite in urine.</dc:description>
+	<dc:publisher xml:lang="en">The Council of Forensic Science Education</dc:publisher>
+	<dc:date>2026-05-29</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://jfse-ojs-tamu.tdl.org/jfse/article/view/149</dc:identifier>
+	<dc:source xml:lang="en">The Journal of Forensic Science Education; Vol. 8 No. 1 (2026): Journal of Forensic Science Education</dc:source>
+	<dc:source>2641-8533</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://jfse-ojs-tamu.tdl.org/jfse/article/view/149/138</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 Donald Zapien</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
