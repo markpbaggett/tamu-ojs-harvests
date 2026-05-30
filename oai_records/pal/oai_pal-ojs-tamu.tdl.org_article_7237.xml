@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:pal-ojs-tamu.tdl.org:article/7237</identifier>
+				<datestamp>2026-05-26T13:51:07Z</datestamp>
+				<setSpec>pal:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Better Than a Google Search?: Effectiveness of Generative AI Chatbots as Information Seeking Tools in Law, Health Sciences, and Library and Information Sciences</dc:title>
+	<dc:creator xml:lang="en">Friesen, Erica</dc:creator>
+	<dc:creator xml:lang="en">Roy, Angélique</dc:creator>
+	<dc:description xml:lang="en">GenAI chatbots are rapidly reshaping information-seeking behaviours due to their ability to cite to online sources in responses to user queries. University students are increasingly turning to chatbots as learning partners. This perceived trust in these tools speaks to the importance of the quality of the sources cited when they are used as an information retrieval system. This study investigates the source citation practices of five widely available chatbots—ChatGPT, Copilot, DeepSeek, Gemini, and Perplexity—across three academic disciplines—law, health sciences, and library and information sciences. Using 30 discipline-specific prompts grounded in the respective professional competency frameworks, the study evaluates source types, organizational affiliations, the accessibility of sources, and publication dates. Results reveal major differences between chatbots, which cite consistently different numbers of sources, with Perplexity and DeepSeek citing more and Copilot providing fewer, as well as between disciplines, where health sciences questions yield more scholarly source citations and law questions are more likely to yield blog and professional website citations. Paywalled sources and discipline-specific literature such as case law or systematic reviews are rarely retrieved. These findings highlight inconsistencies in chatbot citation practices and suggest discipline-specific limitations that challenge their reliability as academic search tools. </dc:description>
+	<dc:publisher xml:lang="en">Association for Information Science and Technology</dc:publisher>
+	<dc:date>2026-05-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://pal-ojs-tamu.tdl.org/pal/article/view/7237</dc:identifier>
+	<dc:source xml:lang="en">Practical Academic Librarianship; Vol. 16 No. 1 (2026)</dc:source>
+	<dc:source>1947-0037</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://pal-ojs-tamu.tdl.org/pal/article/view/7237/6186</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 Erica Friesen, Angélique Roy</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
