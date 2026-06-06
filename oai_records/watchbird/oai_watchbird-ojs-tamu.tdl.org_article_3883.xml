@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 			<header>
 				<identifier>oai:watchbird-ojs-tamu.tdl.org:article/3883</identifier>
-				<datestamp>2026-04-17T03:14:31Z</datestamp>
+				<datestamp>2026-06-06T01:22:23Z</datestamp>
 				<setSpec>watchbird:ART</setSpec>
 			</header>
 			<metadata>
@@ -26,8 +26,11 @@ Sharon Lynn Garsee, 82 passed away on July 24, 2025, in Roseville, CA. Born on M
 	<dc:type>info:eu-repo/semantics/article</dc:type>
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
 	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
 	<dc:identifier>https://watchbird-ojs-tamu.tdl.org/watchbird/article/view/3883</dc:identifier>
 	<dc:source xml:lang="en">AFA Watchbird; Vol. 52 No. 2 (2025): AFA Watchbird Fall/Winter 2025; 8-11</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://watchbird-ojs-tamu.tdl.org/watchbird/article/view/3883/3853</dc:relation>
 	<dc:rights xml:lang="en">Copyright (c) 2026 AFA Watchbird</dc:rights>
 </oai_dc:dc>
 			</metadata>
