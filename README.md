@@ -24,6 +24,6 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | pal | 80 |
 | jume | 224 |
 | bovine | 5508 |
-| watchbird | 3798 |
+| watchbird | 4073 |
 | jfse | 21 |
 | jfe | 19 |
