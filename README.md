@@ -7,11 +7,11 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | Journal | Total Articles |
 | -------- | ------- |
 | ciney | 88 |
-| awl | 368 |
+| awl | 369 |
 | ertr | 283 |
 | hpr | 294 |
 | bovine2 | 2015 |
-| tndr | 4 |
+| tndr | 7 |
 | dlrpj | 23 |
 | ch | 5 |
 | regsci | 138 |
