@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<header>
+				<identifier>oai:pal-ojs-tamu.tdl.org:article/7245</identifier>
+				<datestamp>2026-08-04T15:53:02Z</datestamp>
+				<setSpec>pal:ART</setSpec>
+			</header>
+			<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<dc:title xml:lang="en">Can ChatGPT Accurately Evaluate the Quality of Open Access Library and Information Science Journals?</dc:title>
+	<dc:creator xml:lang="en">Chin, Olivia</dc:creator>
+	<dc:creator xml:lang="en">Wood, Mikayla </dc:creator>
+	<dc:creator xml:lang="en">Gavel, Sidney</dc:creator>
+	<dc:creator xml:lang="en">Harriman, Alexander</dc:creator>
+	<dc:creator xml:lang="en">McDonald, Luke</dc:creator>
+	<dc:description xml:lang="en">With its efficiency in generating responses to prompts, ChatGPT has the potential to expedite the time-consuming process of journal evaluation. This pilot study aims to examine whether ChatGPT can accurately evaluate the quality of 15 open access academic journals within the field of library and information science based on a set of pre-determined criteria. We created a rubric to score the journals on each criterion. Using this rubric, we scored the journals first, and then we prompted ChatGPT to score the journals. We created a separate rubric to assess ChatGPT’s performance in following the prompt and generating responses. Finally, we compared our journal evaluation scores with those of ChatGPT, examined the ChatGPT performance scores, and analyzed the quantitative data from the rubrics with descriptive statistics. While ChatGPT’s overall journal evaluation scores were often similar to those from us, ChatGPT tended to be more generous with scoring and made mistakes in the details. ChatGPT scored well on the performance rubrics overall but had lower scores in the “Accuracy” category. Our study found that ChatGPT has potential as an assistive journal evaluation tool for researchers. However, ChatGPT’s journal evaluation answers should be checked by the researcher for accuracy and should not be relied on as the sole source of information.</dc:description>
+	<dc:publisher xml:lang="en">Association for Information Science and Technology</dc:publisher>
+	<dc:date>2026-08-03</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en">Peer-reviewed Article</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://pal-ojs-tamu.tdl.org/pal/article/view/7245</dc:identifier>
+	<dc:source xml:lang="en">Practical Academic Librarianship; Vol. 16 No. 2 (2026)</dc:source>
+	<dc:source>1947-0037</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://pal-ojs-tamu.tdl.org/pal/article/view/7245/6190</dc:relation>
+	<dc:rights xml:lang="en">Copyright (c) 2026 Olivia Chin, Mikayla Grace Wood, Sidney Gavel, Alexander Harriman, Luke McDonald</dc:rights>
+	<dc:rights xml:lang="en">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>
+			</metadata>
+		</record>
+		
