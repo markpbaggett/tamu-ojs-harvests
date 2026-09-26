@@ -2,7 +2,7 @@
 <record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 			<header>
 				<identifier>oai:bovine-ojs-tamu.tdl.org:article/9511</identifier>
-				<datestamp>2026-08-14T19:43:33Z</datestamp>
+				<datestamp>2026-09-25T18:32:36Z</datestamp>
 				<setSpec>bovine:DSIT</setSpec>
 			</header>
 			<metadata>
@@ -15,13 +15,13 @@
 	<dc:subject xml:lang="en">dairy management</dc:subject>
 	<dc:description xml:lang="en">Generative artificial intelligence (AI), in the form of large language models (LLM), is rapidly emerging as an influential tool, yet most veterinarians have limited training in its effec­tive and responsible use. This paper provides an introductory overview of how LLM chatbots can support mastitis man­agement by synthesizing information, generating treatment protocols and assisting with clinical decision making. While LLMs often produce clinical recommendations that align with accepted mastitis control principles, their performance is inconsistent and highly dependent on prompt quality, user expertise and the completeness of case information. As illus­trated through 3 mastitis case scenarios, LLMs may overlook key clinical details, misidentify pathogens, recommend out­dated practices such as frequent stripping or suggest non-FDA approved therapies. These errors highlight the need for veter­inary oversight and critical appraisal of AI-generated output. Despite these limitations, LLMs are valuable for creating edu­cational materials, bilingual protocols and decision support tools, especially when grounded in user provided documents. As producers increasingly adopt AI tools independently, vet­erinarians must become literate in AI usage to guide appropri­ate use, safeguard antimicrobial stewardship, and maintain clinical standards. Understanding both the capabilities and shortcomings of current models is essential as AI becomes more integrated into dairy herd health management.</dc:description>
 	<dc:publisher xml:lang="en">American Association of Bovine Practitioners</dc:publisher>
-	<dc:date>2026-08-14</dc:date>
+	<dc:date>2026-09-25</dc:date>
 	<dc:type>info:eu-repo/semantics/article</dc:type>
 	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
 	<dc:format>application/pdf</dc:format>
 	<dc:identifier>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9511</dc:identifier>
 	<dc:identifier>10.21423/bpj20269511</dc:identifier>
-	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 60 No. 2 (2026): Online First; 60-72</dc:source>
+	<dc:source xml:lang="en">The Bovine Practitioner; Vol. 60 No. 2 (2026); 60-72</dc:source>
 	<dc:source>0524-1685</dc:source>
 	<dc:language>eng</dc:language>
 	<dc:relation>https://bovine-ojs-tamu.tdl.org/bovine/article/view/9511/9101</dc:relation>
@@ -29,4 +29,4 @@
 </oai_dc:dc>
 			</metadata>
 		</record>
-	
+		
