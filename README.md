@@ -7,7 +7,7 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | Journal | Total Articles |
 | -------- | ------- |
 | jume | 224 |
-| bovine2 | 2016 |
+| bovine2 | 2020 |
 | gadamer | 10 |
 | paj | 24 |
 | pal | 84 |
