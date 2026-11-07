@@ -11,7 +11,7 @@ A Simple OAI PMH Harvester to Get All Records from TAMU OJS Instances on a regul
 | tndr | 7 |
 | gadamer | 17 |
 | watchbird | 4073 |
-| epbj | 7 |
+| epbj | 8 |
 | jfse | 21 |
 | aavpt | 246 |
 | ciney | 88 |
